@@ -1130,7 +1130,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=15)** [[Jira]] has two types of boards, [[Scrum]] and Kanban.
 >
-> **[0:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=19)** These terms are from the [[[[Agile Software Development]]]] methodology.
+> **[0:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=19)** These terms are from the [[Agile Software Development]] methodology.
 >
 > **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=22)** Scrum boards are for teams that deliver their work in regular fixed intervals called sprints.
 >

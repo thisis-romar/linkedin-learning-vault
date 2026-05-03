@@ -1727,7 +1727,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980&t=37)** Okay, let's load the firewall rules analyzer and use it to analyze our file.
 >
-> **[0:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980&t=43)** We download the analyzer with [[Git]] clone https:// [[[GitHub]].com](https://github.com)/
+> **[0:43](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980&t=43)** We download the analyzer with [[Git]] clone https:// [github.com](https://github.com)/
 >
 > **[1:04](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/analyzing-firewall-rules?u=76281980&t=64)** martimy/ firewall_policy_analyzer.git.
 >
@@ -2134,7 +2134,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=20)** For example, we can use Netcat to connect to a web server.
 >
-> **[0:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=24)** We type nc minus v [[[Google]].com](https://google.com) on port 80.
+> **[0:24](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=24)** We type nc minus v [google.com](https://google.com) on port 80.
 >
 > **[0:34](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/connecting-to-services?u=76281980&t=34)** The minus V switch tells Netcat to be verbose and provide me with status messages.
 >
@@ -2740,7 +2740,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=32)** This is the user ID we'll be searching for in our SQL query.
 >
-> **[0:37](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=37)** Then we connect to the database, which is on this host and run a query with the results being saved in the cursor.
+> **[0:37](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=37)** Then we connect to the database, which is on this host and run a query with the results being saved in the [[Cursor]].
 >
 > **[0:44](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/running-an-sql-injection-attack?u=76281980&t=44)** The printing code is general-purpose and includes a loop to allow for multiple responses in the query.
 >

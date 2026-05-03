@@ -504,7 +504,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=78)** For this purpose, I'm using a [[Microsoft]] [[Windows]] machine.
 >
-> **[1:24](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=84)** Now go to the [[[Google]].com](https://google.com) and search PostgreSQL download.
+> **[1:24](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=84)** Now go to the [google.com](https://google.com) and search PostgreSQL download.
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/setting-up-the-sql-environment-install-postgresql?u=76281980&t=90)** Now click on the first link.
 >

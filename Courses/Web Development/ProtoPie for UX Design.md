@@ -1491,7 +1491,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-cloud?u=76281980&t=212)** And to get out of that, just hit escape.
 >
-> **[3:34](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-cloud?u=76281980&t=214)** You can change the speed and you can change the cursor type.
+> **[3:34](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-cloud?u=76281980&t=214)** You can change the speed and you can change the [[Cursor]] type.
 >
 > **[3:38](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-cloud?u=76281980&t=218)** So if this Pie were a desktop or maybe it was some sort of other screen that you were designing for, you might not want the touch points.
 >

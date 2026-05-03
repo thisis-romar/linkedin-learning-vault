@@ -554,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=61)** So we're going to practice in a couple of situations.
 >
-> **[1:05](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=65)** Watch this clip from the [[[LinkedIn]].com](https://LinkedIn.com), having difficult conversations course.
+> **[1:05](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=65)** Watch this clip from the [LinkedIn.com](https://LinkedIn.com), having difficult conversations course.
 >
 > **[1:10](https://www.linkedin.com/learning/effective-listening-2019/when-and-how-to-listen?u=76281980&t=70)** Note how the man in the blue shirt, who is the manager in this situation, should have been listening.
 >

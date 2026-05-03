@@ -935,7 +935,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=75)** And one of those special restrictions on data classes is that they must contain at least one constructive property in their primary constructor.
 >
-> **[1:24](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=84)** So if we actually place our cursor over our constructor, we see that it is indicating to us here, Data class must have at least one primary constructor parameter.
+> **[1:24](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=84)** So if we actually place our [[Cursor]] over our constructor, we see that it is indicating to us here, Data class must have at least one primary constructor parameter.
 >
 > **[1:35](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/data-classes?u=76281980&t=95)** So the IDE in compiler are working in conjunction here to let us know about this restriction.
 >
@@ -1257,7 +1257,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980&t=381)** If we use a when statement with a sealed class the compiler can recognize which types are in the sealed class and the IDE can generate branches for each of those possibilities.
 >
-> **[6:35](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980&t=395)** So I'm going to move my cursor over the when keyword here and hit alt + enter and it'll give me an option here to add remaining branches.
+> **[6:35](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980&t=395)** So I'm going to move my [[Cursor]] over the when keyword here and hit alt + enter and it'll give me an option here to add remaining branches.
 >
 > **[6:45](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/sealed-classes?u=76281980&t=405)** So if I hit enter, we'll see that the IDE generates three branches here, one for each value in our sealed glass hierarchy.
 >

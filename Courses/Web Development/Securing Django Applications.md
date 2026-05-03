@@ -898,7 +898,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=26)** and the password confirmation code is our secret code right here.
 >
-> **[0:34](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=34)** We are going to make sure that the payment passport confirmation is equal to the secret code, and this field is in memory, so it's unencrypted, and then we're going to be using the database connection cursor, so that we can make a direct [[SQL]] query
+> **[0:34](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=34)** We are going to make sure that the payment passport confirmation is equal to the secret code, and this field is in memory, so it's unencrypted, and then we're going to be using the database connection [[Cursor]], so that we can make a direct [[SQL]] query
 >
 > **[1:14](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=74)** from the model and select that field and make sure it is encrypted.
 >

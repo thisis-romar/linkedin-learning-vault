@@ -103,7 +103,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=1)** - Have you ever wanted to build a web application?
 >
-> **[0:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=4)** Emerging technologies like [[[ASP.NET]]](https://ASP.NET) Web API and [[JavaScript]] frameworks like [[Angular]] make it easy to design and build single-page applications.
+> **[0:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=4)** Emerging technologies like [ASP.NET](https://ASP.NET) Web API and [[JavaScript]] frameworks like [[Angular]] make it easy to design and build single-page applications.
 >
 > **[0:14](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=14)** A web API is a great framework for exposing your data and services and Angular is a great JavaScript framework for building highly interactive web applications.
 >
@@ -236,7 +236,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=40)** But, what is important in our case is the templates that we can use to build applications.
 >
-> **[0:46](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=46)** Some of them are the mvc to create [[[ASP.NET]]](https://ASP.NET) Core MVC applications, the [[Angular]] to create [ASP.NET](https://ASP.NET) Core Angular apps, or if you want to create [[React.js]] apps, in this case you can use the [[React.js|react]] keyword.
+> **[0:46](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=46)** Some of them are the mvc to create [ASP.NET](https://ASP.NET) Core MVC applications, the [[Angular]] to create [ASP.NET](https://ASP.NET) Core Angular apps, or if you want to create [[React.js]] apps, in this case you can use the [[React.js|react]] keyword.
 >
 > **[1:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=64)** You can also use the webapi keywork to create [ASP.NET](https://ASP.NET) Core Web API projects.
 >
@@ -2520,7 +2520,7 @@ created: 2026-05-02
 >
 > **[9:32](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=572)** Here we'll see that the Add button is disabled.
 >
-> **[9:36](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=576)** And if I click over Title, and then I just remove the cursor, you'll see that the book title is required.
+> **[9:36](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=576)** And if I click over Title, and then I just remove the [[Cursor]], you'll see that the book title is required.
 >
 > **[9:45](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=585)** Now, let us go back and do the same for the Author and Description.
 >

@@ -365,7 +365,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=6)** That's what we're going to do in this movie.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=9)** I'm on a [[Windows]] PC here with my browser open to [[[Microsoft Office|office]].com](https://office.com).
+> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=9)** I'm on a [[Windows]] PC here with my browser open to [office.com](https://office.com).
 >
 > **[0:15](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=15)** You can do the same thing.
 >
@@ -1032,7 +1032,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=150)** I can go right to the share button, over here to the right, opens up a dialogue where it can add names of people in the organization using OneDrive for Business, or type in emails of people who aren't contacts.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=162)** For example, if I wanted to share it with Laura Davis in my organization, I just start typing the name and she appears on the list, but I'm only going to share it with one person outside the organization, KarenrLeslie@[[[Microsoft Outlook|outlook]].com](https://outlook.com).
+> **[2:42](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=162)** For example, if I wanted to share it with Laura Davis in my organization, I just start typing the name and she appears on the list, but I'm only going to share it with one person outside the organization, KarenrLeslie@[outlook.com](https://outlook.com).
 >
 > **[2:58](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=178)** Once her name appears, I can select it to lock her in.
 >
@@ -1076,7 +1076,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=281)** None of these would be available if we decided that she can't download.
 >
-> **[4:45](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=285)** When she's done, closing the tab takes her back to her Outlook.
+> **[4:45](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=285)** When she's done, closing the tab takes her back to her [[Microsoft Outlook|Outlook]].
 >
 > **[4:49](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=289)** We're going to switch back now to our own account and stop sharing this by clicking the shared link, where we can do things like change up the permission from Can view to something else if we wanted to, or stop sharing altogether right up here.
 >

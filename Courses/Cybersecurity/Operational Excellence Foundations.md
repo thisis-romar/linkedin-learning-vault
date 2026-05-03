@@ -2160,7 +2160,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=33)** And enterprise wide alignment of strategies, priorities, and decisions.
 >
-> **[0:40](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=40)** If you are interested in learning more, I recommend watching my courses on [[[[Six Sigma]] Foundations]], Six Sigma: Green Belt, and Six Sigma: Black Belt.
+> **[0:40](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=40)** If you are interested in learning more, I recommend watching my courses on [[Six Sigma Foundations]], [[Six Sigma]]: Green Belt, and Six Sigma: Black Belt.
 >
 > **[0:51](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980&t=51)** These courses provide a deeper dive into many of the concepts, tools, and techniques we have discussed.
 >

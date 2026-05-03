@@ -1572,7 +1572,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=17)** For our use case, we will be deploying to [[Firebase]].
 >
-> **[0:20](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=20)** Head over to the Firebase console at console.firebase.[[[Google]].com](https://google.com).
+> **[0:20](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=20)** Head over to the Firebase console at console.firebase.[google.com](https://google.com).
 >
 > **[0:25](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=25)** You will need to create a Firebase account.
 >
@@ -1580,7 +1580,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=29)** I will call my project [[CLI]] Deploy.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=33)** Click continue, I don't want to use Google Analytics at this moment.
+> **[0:33](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=33)** Click continue, I don't want to use [[Google]] Analytics at this moment.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=38)** And click on create project.
 >

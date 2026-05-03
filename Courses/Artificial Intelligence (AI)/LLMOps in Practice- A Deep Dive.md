@@ -665,7 +665,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=161)** I try the steps that it gave me, but I give more specific information back.
 >
-> **[2:46](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=166)** For example, I can't see [[[Google]].com](https://google.com).
+> **[2:46](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=166)** For example, I can't see [google.com](https://google.com).
 >
 > **[2:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=169)** Unfazed, the friendly and helpful assistant doesn't berate me for not telling them that earlier and instead goes through some more steps.
 >
@@ -3014,7 +3014,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=79)** She's from the Democratic People's Republic of Korea, or, as it's often known, North Korea.
 >
-> **[1:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=85)** I chose her as an example here because if you were to ask a chatbot about her, it would have no idea, as in this case with Gemini, or worse, it could hallucinate about her, as in this case with GPT-4o.
+> **[1:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=85)** I chose her as an example here because if you were to ask a chatbot about her, it would have no idea, as in this case with Gemini, or worse, it could hallucinate about her, as in this case with [[GPT-4|GPT-4o]].
 >
 > **[1:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=98)** But if you were to ask one using RAG, then it could take text from the book about her, such as her hometown, her likes and dislikes, her history, stuff like that.
 >

@@ -2228,7 +2228,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=29)** Zapier has an e-book called The Ultimate Guide for Remote Work, which we actually use as part of a reference during our own onboarding.
 >
-> **[0:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=38)** Scott Berkun provides a behind the scenes look at Automatic, the company behind [[[WordPress]].com](https://wordpress.com), in his book The Year Without Pants.
+> **[0:38](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=38)** Scott Berkun provides a behind the scenes look at Automatic, the company behind [wordpress.com](https://wordpress.com), in his book The Year Without Pants.
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980&t=46)** As you can guess from the title, it's also a pretty entertaining read.
 >

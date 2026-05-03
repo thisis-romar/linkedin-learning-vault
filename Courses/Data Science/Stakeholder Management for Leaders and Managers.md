@@ -979,7 +979,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=133)** And when it comes to your internal stakeholders, consider measuring employee turnover rate or conducting a regular culture survey.
 >
-> **[2:21](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=141)** You could also calculate how well [[[[Executive Leadership]]]]'s decisions align with company strategy, or even assess the performance of the company's board of directors by looking at timeliness and quality of their decisions or adherence to governance best practices.
+> **[2:21](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=141)** You could also calculate how well [[Executive Leadership]]'s decisions align with company strategy, or even assess the performance of the company's board of directors by looking at timeliness and quality of their decisions or adherence to governance best practices.
 >
 > **[2:38](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/kpis-for-stakeholder-management?u=76281980&t=158)** Once the right KPIs are established, set up a process for ongoing monitoring and review.
 >

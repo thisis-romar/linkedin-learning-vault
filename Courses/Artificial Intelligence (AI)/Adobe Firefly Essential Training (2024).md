@@ -385,7 +385,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980&t=67)** And if you end up creating an image that you're super proud of, then you, too, can click a button, and then submit your creation to this exact same gallery.
 >
-> **[1:16](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980&t=76)** Now the reason I'm mentioning the gallery is because you can actually inspect the original prompts that were used to generate these images by simply hovering your mouse cursor over these images here.
+> **[1:16](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980&t=76)** Now the reason I'm mentioning the gallery is because you can actually inspect the original prompts that were used to generate these images by simply hovering your mouse [[Cursor]] over these images here.
 >
 > **[1:26](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980&t=86)** And then, when you click an example, you actually get to see the same results the original user saw when initially typing in the prompt.
 >
@@ -942,7 +942,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=270)** And now let's try and create similar looking results based on that last specific version.
 >
-> **[4:36](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=276)** So I'm going to come in here, hover my cursor on top of this result, click the edit option, and I'll choose generate similar.
+> **[4:36](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=276)** So I'm going to come in here, hover my [[Cursor]] on top of this result, click the edit option, and I'll choose generate similar.
 >
 > **[4:45](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/finding-similar-images-and-saving-favourites?u=76281980&t=285)** I do that, and notice that all three results here are basically going to now generate different results based on the input I had here.
 >
@@ -1465,7 +1465,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=156)** So here inside of Adobe Firefly, I'm ready to type in my prompt.
 >
-> **[2:40](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=160)** I'll put my cursor in here.
+> **[2:40](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=160)** I'll put my [[Cursor]] in here.
 >
 > **[2:42](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/creating-your-own-structure-reference?u=76281980&t=162)** I'll just make sure this is empty, and let's just start typing something.
 >
@@ -2178,7 +2178,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/removing-subjects-from-an-image?u=76281980&t=80)** But here at the ground surface, that is very challenging because if I select the whole thing, there's really no area in this image to source from to replace my selection, which results in very poor results, a long time spent on Photoshop, let me tell you, and me as a user being quite frustrated because I'm supposed to be good at this.
 >
-> **[1:43](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/removing-subjects-from-an-image?u=76281980&t=103)** Now let me show you how easy this is using gen AI.
+> **[1:43](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/removing-subjects-from-an-image?u=76281980&t=103)** Now let me show you how easy this is using [[Generative AI|gen AI]].
 >
 > **[1:47](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/removing-subjects-from-an-image?u=76281980&t=107)** I'll drag this image in.
 >
@@ -4408,7 +4408,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=104)** So it is automatically capturing a couple of things.
 >
-> **[1:46](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=106)** For example, it has captured the Gen AI transparency.
+> **[1:46](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=106)** For example, it has captured the [[Generative AI|Gen AI]] transparency.
 >
 > **[1:50](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/downloading-images-and-viewing-content-credentials?u=76281980&t=110)** As in, it will automatically bake in the fact that I have used Firefly.
 >

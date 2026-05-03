@@ -495,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/a-history-of-ai-agents?u=76281980&t=20)** These bots weren't smart, but they were diligent and reliable.
 >
-> **[0:25](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/a-history-of-ai-agents?u=76281980&t=25)** Then GenAI and [[Large Language Models (LLM)|large language models]] entered the picture, and excitement was high, so was adoption.
+> **[0:25](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/a-history-of-ai-agents?u=76281980&t=25)** Then [[Generative AI|GenAI]] and [[Large Language Models (LLM)|large language models]] entered the picture, and excitement was high, so was adoption.
 >
 > **[0:32](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/a-history-of-ai-agents?u=76281980&t=32)** We've all used [[ChatGPT]], Claude, Grok, Perplexity, [[Midjourney]], and any number of other tools to create images, write emails, generate code, and conduct research.
 >
@@ -802,7 +802,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/citizens-and-domain-experts?u=76281980&t=55)** These citizen developers sit outside of IT and often have no technical training, and they don't need it, because software is getting easier to use.
 >
-> **[1:05](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/citizens-and-domain-experts?u=76281980&t=65)** Thanks to Gen AI and an ability to now effectively talk ideas into existence, these citizens don't need to code.
+> **[1:05](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/citizens-and-domain-experts?u=76281980&t=65)** Thanks to [[Generative AI|Gen AI]] and an ability to now effectively talk ideas into existence, these citizens don't need to code.
 >
 > **[1:11](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/citizens-and-domain-experts?u=76281980&t=71)** As a result, it's becoming increasingly easy for non-IT professionals with deep domain expertise to turn their ideas into agents.
 >

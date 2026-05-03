@@ -712,7 +712,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=116)** As teams scrambled to respond, it became clear that tabletop exercises or simulations would have better prepared the staff, potentially limiting the breach's impact.
 >
-> **[2:07](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=127)** In the aftermath, [[[[Executive Leadership]]]] recognized the need to adapt.
+> **[2:07](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=127)** In the aftermath, [[Executive Leadership]] recognized the need to adapt.
 >
 > **[2:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=133)** The breach analysis revealed that the company's [[Cybersecurity]] policies had remained static for years, not evolving with industry trends or technology advancements.
 >
@@ -811,7 +811,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=178)** The more informed you are, the better prepared you are to create strategies that effectively anticipate the various threats to the business, withstand inevitable cyber attacks by making sure critical systems and operations aren't disrupted, and rapidly recover from incidents by restoring normal [[Business Operations]] as quickly as possible.
 >
-> **[3:19](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=199)** Okay, now that we're aligned on the importance of business acumen, let's really start to level up by learning all about our business operators and decision makers, the [[[[Executive Leadership]]]] team.
+> **[3:19](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=199)** Okay, now that we're aligned on the importance of business acumen, let's really start to level up by learning all about our business operators and decision makers, the [[Executive Leadership]] team.
 
 > [!info]- Semantic Content
 >
@@ -830,7 +830,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980&t=7)** In the last video, we put a lot of effort into understanding the companies we protect, but there's an additional factor we need to consider.
 >
-> **[0:16](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980&t=16)** Understanding the concerns of [[[[Executive Leadership]]]].
+> **[0:16](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980&t=16)** Understanding the concerns of [[Executive Leadership]].
 >
 > **[0:19](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980&t=19)** While some CISOs have a seat at the C-suite table, many security leaders find themselves in a challenging position.
 >
@@ -937,7 +937,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=79)** To figure out which initiatives are most valuable, you need to understand what direction the company's rowing towards.
 >
-> **[1:26](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=86)** The good news is, you've already done some great work understanding business goals and operations, and the top concerns of [[[[Executive Leadership]]]] based on the last two videos, so you've got a solid foundation to build on.
+> **[1:26](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=86)** The good news is, you've already done some great work understanding business goals and operations, and the top concerns of [[Executive Leadership]] based on the last two videos, so you've got a solid foundation to build on.
 >
 > **[1:39](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=99)** But here's where it gets hard.
 >
@@ -993,7 +993,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=0)** - Okay folks, we're about to dive into a topic that's often the elephant in the room.
 >
-> **[0:06](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=6)** The role of [[[[Executive Leadership]]]] in shaping a security strategy that delivers business value.
+> **[0:06](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=6)** The role of [[Executive Leadership]] in shaping a security strategy that delivers business value.
 >
 > **[0:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=13)** With so many factors to consider within our programs, I know how easy it can be to get lost in the technical weeds of [[Cybersecurity]], but let's [[Zoom]] out and spend the next bit of our time together focusing on the bigger picture.
 >
@@ -1149,7 +1149,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=202)** When they see the mean time to detect shrinking or the patch deployment times getting faster, that's when they really start to appreciate the value of what you're doing.
 >
-> **[3:33](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=213)** Finally, let's talk about communicating this to [[[[Executive Leadership]]]].
+> **[3:33](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=213)** Finally, let's talk about communicating this to [[Executive Leadership]].
 >
 > **[3:38](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=218)** It's not just about the numbers, it's about the stories they tell.
 >
@@ -1261,7 +1261,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=1)** - It's easy to find ourselves deep in the weeds of complex technical data and intricate technical details.
 >
-> **[0:08](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=8)** But when the time comes to step into the boardroom and present this information to [[[[Executive Leadership]]]], we need to do more than just deliver data, we need to become storytellers.
+> **[0:08](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=8)** But when the time comes to step into the boardroom and present this information to [[Executive Leadership]], we need to do more than just deliver data, we need to become storytellers.
 >
 > **[0:20](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=20)** Why?
 >

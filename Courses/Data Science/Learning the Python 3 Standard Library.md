@@ -2966,7 +2966,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=265)** So say like as the user cause remember this is the console, this is what the user is going to interact with.
 >
-> **[4:30](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=270)** So say I wrote h1 [[[LinkedIn]].com](https://LinkedIn.com), and then close that h1 tag.
+> **[4:30](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=270)** So say I wrote h1 [LinkedIn.com](https://LinkedIn.com), and then close that h1 tag.
 >
 > **[4:38](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=278)** There we go, it parses our tag dynamically for us depending on what we put in as the input.
 >
@@ -3069,7 +3069,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=202)** The last thing that we can do with the text wrap module is we can shorten text or abbreviate it in a certain way.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=208)** We could have short = textwrap.shorten, so using the shorten method, write in some code here, [[[LinkedIn]].com](https://LinkedIn.com) is great!
+> **[3:28](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=208)** We could have short = textwrap.shorten, so using the shorten method, write in some code here, [LinkedIn.com](https://LinkedIn.com) is great!
 >
 > **[3:43](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=223)** We'll make the width, which is how many columns or how many characters that we're going to go until we replaced the [[Representational State Transfer (REST)|rest]] with the placeholder, and that is going to be 15 here, and then we're going to go ahead and make the placeholder, which is going to be what comes after our 15 columns or our 15 characters, and we'll make that just .... And so we print this out, so we'll go ahead and run this.
 >

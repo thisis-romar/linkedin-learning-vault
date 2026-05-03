@@ -255,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=35)** Two of the most influential of these are [[Agile Development|Agile]] strategy and scenario planning.
 >
-> **[0:40](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=40)** Agile strategy borrows its principles from [[[[Agile Software Development]]]].
+> **[0:40](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=40)** Agile strategy borrows its principles from [[Agile Software Development]].
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=44)** It's all about working in shorter cycles, testing ideas, getting feedback, and making adjustments quickly.
 >
@@ -277,7 +277,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=97)** You're more prepared to pivot depending on what the future brings.
 >
-> **[1:42](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=102)** We talk about scenario planning in the courses "[[Learning [[ChatGPT]] for Business Analysis]]" and "Learning [[Google Gemini]] for Business Analysis."
+> **[1:42](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=102)** We talk about scenario planning in the courses "[[Learning ChatGPT for Business Analysis]]" and "Learning [[Google Gemini]] for Business Analysis."
 >
 > **[1:52](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=112)** Now, where does AI fit in?
 >
@@ -547,7 +547,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=49)** By aligning your objectives with the company's big picture goal, you ensure that every initiative you take on drives the organization in the right direction.
 >
-> **[0:58](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=58)** An interesting use of AI here is as a brainstorming partner, you can prompt your GenAI tool for suggested objectives if you don't have them already defined.
+> **[0:58](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=58)** An interesting use of AI here is as a brainstorming partner, you can prompt your [[Generative AI|GenAI]] tool for suggested objectives if you don't have them already defined.
 >
 > **[1:08](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=68)** You could also create a list of potential products to launch with something like: we're looking to launch products in the next two years, that address, and then insert your customer pain point here.
 >

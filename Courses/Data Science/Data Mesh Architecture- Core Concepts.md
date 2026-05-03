@@ -552,13 +552,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=23)** You can find inspiration from some unlikely sources.
 >
-> **[0:27](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=27)** When I was researching my book on [[Designing [[Data Governance]]]], I found that [[Higher Education]] is one of the most advanced sectors.
+> **[0:27](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=27)** When I was researching my book on [[Designing Data Governance]], I found that [[Higher Education]] is one of the most advanced sectors.
 >
 > **[0:33](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=33)** I was surprised at first because education isn't known for using the latest and greatest tech to get work done, but universities do have large amounts of sensitive data that they need to find on a moment's notice.
 >
 > **[0:45](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=45)** It could be a financial aid package for an accepted student or an undergrad transcript for an alum.
 >
-> **[0:50](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=50)** They also tend to make their data governance plans public for transparency's sake.
+> **[0:50](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=50)** They also tend to make their [[Data Governance]] plans public for transparency's sake.
 >
 > **[0:56](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=56)** So if you need inspiration for how to set up your own data domains and subdomains, search for schools like the University of Rochester.
 >
@@ -806,7 +806,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=29)** You can compete using data mesh by structuring your business around your data, not the other way around.
 >
-> **[0:35](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=35)** If you want to learn more on governance and quality, check out my other [[LinkedIn]] Learning courses, [[Designing [[Data Governance]]]] and Automating [[Data Quality]] in Dev Environments.
+> **[0:35](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=35)** If you want to learn more on governance and quality, check out my other [[LinkedIn]] Learning courses, [[Designing Data Governance]] and Automating [[Data Quality]] in Dev Environments.
 >
 > **[0:44](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=44)** If you need a more comprehensive guide to data mesh, I recommend the book by the founder herself, Zhamak Dehghani's "Data Mesh: Delivering Data-Driven Value at Scale."
 >

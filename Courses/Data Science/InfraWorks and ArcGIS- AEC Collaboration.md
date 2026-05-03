@@ -2028,7 +2028,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=59)** We're going to choose XY feet and for the position, XY feet as well.
 >
-> **[1:08](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=68)** Now, what we can do is hit the Interactive Placing button and you'll notice that at the end of our cursor, we have the image just kind of hanging on there.
+> **[1:08](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=68)** Now, what we can do is hit the Interactive Placing button and you'll notice that at the end of our [[Cursor]], we have the image just kind of hanging on there.
 >
 > **[1:20](https://www.linkedin.com/learning/infraworks-and-arcgis-aec-collaboration/using-image-files-from-arcgis-online?u=76281980&t=80)** Double-click anywhere within the site to place the image.
 >

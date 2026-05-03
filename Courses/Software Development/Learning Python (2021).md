@@ -3484,11 +3484,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=66)** So I'm going to just give it a URL, a simple one.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=71)** So I'll just go ahead and get some data from [[[Google]].com](https://google.com).
+> **[1:11](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=71)** So I'll just go ahead and get some data from [google.com](https://google.com).
 >
 > **[1:15](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=75)** This will give me back a web response object.
 >
-> **[1:19](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=79)** So the URL I'm opening up for here is just the address for Google's homepage.
+> **[1:19](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=79)** So the URL I'm opening up for here is just the address for [[Google]]'s homepage.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980&t=84)** And for the moment what I'm going to do is just print out the result code.
 >
@@ -4145,7 +4145,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=56)** Python is a very capable object oriented programming language, and we looked at some of the object oriented features in this course.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=62)** If you want to learn even more about how to build great object oriented programs, then consider watching the [[Python [[Object-Oriented Programming (OOP)|Object-Oriented Programming]]]] course.
+> **[1:02](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=62)** If you want to learn even more about how to build great object oriented programs, then consider watching the [[Python Object-Oriented Programming]] course.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980&t=70)** And finally, if you want to take your Python skills to the next level, consider watching the Advanced Python course.
 >

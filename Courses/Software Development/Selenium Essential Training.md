@@ -464,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=24)** For this example, I will be using the simple WebDriver test from the last video to demonstrate how to inspect a web element.
 >
-> **[0:33](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=33)** And following the simple test, what I'm first going to do is to navigate to [[[Google]].com](https://google.com) in Chrome.
+> **[0:33](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=33)** And following the simple test, what I'm first going to do is to navigate to [google.com](https://google.com) in Chrome.
 >
 > **[0:40](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=40)** Once there, I will hover over the search bar, right-click, that will open a menu.
 >
@@ -1783,7 +1783,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=191)** So besides waiting for an element to be visible, there are many other expected conditions that can be used with an explicit wait, such as element to be clickable, element to be selected, presence of element located, text to be present in element, and more.
 >
-> **[3:27](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=207)** I recommend checking out the API documentation shown here at [[[Selenium]].dev](https://selenium.dev) in order to learn more about all the expected conditions available that can help when writing tests and using explicit waits.
+> **[3:27](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=207)** I recommend checking out the API documentation shown here at [selenium.dev](https://selenium.dev) in order to learn more about all the expected conditions available that can help when writing tests and using explicit waits.
 >
 > **[3:40](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=220)** The pros of explicit waits are that they allow flexibility to wait for an element to be in a specific condition, and that they pull for the condition to be true every 500 milliseconds, and will likely not take up any unnecessary time.
 

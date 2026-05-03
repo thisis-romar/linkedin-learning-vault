@@ -565,7 +565,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=62)** Or, your contribution to change could take the form of helping people from a traditional operations background become comfortable automating away their manual tasks.
 >
-> **[1:13](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=73)** It could even mean championing the adoption of [[[[Agile Software Development]]]] practices at your organization and helping folks move away from waterfall approaches.
+> **[1:13](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=73)** It could even mean championing the adoption of [[Agile Software Development]] practices at your organization and helping folks move away from waterfall approaches.
 >
 > **[1:25](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=85)** All of these tasks involve much more than writing code or configuring systems.
 >

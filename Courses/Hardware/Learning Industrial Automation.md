@@ -407,7 +407,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=27)** The logic combination on inputs to produce an output or outputs are called control logic.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=35)** The common industrial controllers are [[DCS|distributed control system]], [[DCS]], [[Programmable Logic Controller (PLC)|programmable logic controller]], [[PLC]], and PC-based control.
+> **[0:35](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=35)** The common industrial controllers are [[DCS|distributed control system]], [[DCS]], [[PLC|programmable logic controller]], [[PLC]], and PC-based control.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=48)** Distributed control system, DCS.
 >
@@ -472,7 +472,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980&t=0)** - [Instructor] Programmable logic controllers, [[PLC]].
 >
-> **[0:04](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980&t=4)** PLC is an acronym for a [[Programmable Logic Controller (PLC)|programmable logic controller]].
+> **[0:04](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980&t=4)** PLC is an acronym for a [[PLC|programmable logic controller]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980&t=9)** PLC is an industrial computer control system, which control devices by continuously monitoring the state of input devices and make decision based on a logic program to control the state of an output device.
 >
@@ -492,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (6), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
+> **Frameworks & Libraries:** [[PLC]] (6), [[PLC|Programmable logic controller]] (1)
 > **Env Vars:** plc (6)
 > **Definitions:** is an  (3), is a  (1)
 > **CLI Commands:** make (1)
@@ -637,7 +637,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-ladder-logic?u=76281980&t=0)** - [Instructor] Ladder logic diagram is the primary programming language of a [[Programmable Logic Controller (PLC)|programmable logic controller]].
+> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-ladder-logic?u=76281980&t=0)** - [Instructor] Ladder logic diagram is the primary programming language of a [[PLC|programmable logic controller]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-ladder-logic?u=76281980&t=6)** These symbols are interconnected by lines to indicate the flow of the current through the relay.
 >
@@ -659,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (2), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
+> **Frameworks & Libraries:** [[PLC]] (2), [[PLC|Programmable logic controller]] (1)
 > **Env Vars:** plc (2)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** rails (1)

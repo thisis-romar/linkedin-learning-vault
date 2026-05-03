@@ -441,7 +441,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=27)** We're all familiar with these when using a browser leveraging the worldwide web.
 >
-> **[0:32](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=32)** This means that we don't have to put in an IP address, such as the IP address [[[LinkedIn]].com](https://linkedin.com) resolves to 13.107.42.14.
+> **[0:32](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=32)** This means that we don't have to put in an IP address, such as the IP address [linkedin.com](https://linkedin.com) resolves to 13.107.42.14.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=48)** As you can see, this allows users to access websites and other resources using easily recognizable names, such as when typing in [linkedin.com](https://linkedin.com), it finds the associated IP address for you.
 >

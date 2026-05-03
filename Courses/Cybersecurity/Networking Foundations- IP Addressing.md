@@ -524,7 +524,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=365)** Well, let's test that connectivity.
 >
-> **[6:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=368)** So I will do a ping to none other than www.[[[LinkedIn]].com](https://linkedin.com).
+> **[6:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=368)** So I will do a ping to none other than www.[linkedin.com](https://linkedin.com).
 >
 > **[6:16](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=376)** And look at this, we can reach that resource.
 >

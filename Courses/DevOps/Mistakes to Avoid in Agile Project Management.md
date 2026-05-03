@@ -381,7 +381,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=108)** Next, clearly define what Agile terms mean in the context of the organization.
 >
-> **[1:56](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=116)** Start with authoritative information, such as the manifesto for [[[[Agile Software Development]]]] at [AgileManifesto.org](https://AgileManifesto.org), or the scrum guide at [scrumguides.org](https://scrumguides.org).
+> **[1:56](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=116)** Start with authoritative information, such as the manifesto for [[Agile Software Development]] at [AgileManifesto.org](https://AgileManifesto.org), or the scrum guide at [scrumguides.org](https://scrumguides.org).
 >
 > **[2:08](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=128)** Then add in information that is relevant to your situation.
 >
@@ -730,7 +730,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=74)** Frustrated by the state of software development, often called waterfall, they wanted to change the way they worked with large companies.
 >
-> **[1:24](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=84)** Over several days, they hammered out the four values and the 12 principles that have come to be known as the Manifesto for [[[[Agile Software Development]]]].
+> **[1:24](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=84)** Over several days, they hammered out the four values and the 12 principles that have come to be known as the Manifesto for [[Agile Software Development]].
 >
 > **[1:35](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=95)** Let's take a look at the four values they developed.
 >

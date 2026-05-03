@@ -123,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=5)** I aim to help you quickly learn essential operating system forensics concepts, and develop an overall understanding of the field.
 >
-> **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=13)** Having background knowledge in [[Digital Forensics]] would be helpful, and for that, you can check out my other course, [[[[Cybersecurity]] Foundations]] [[Computer Forensics]].
+> **[0:13](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=13)** Having background knowledge in [[Digital Forensics]] would be helpful, and for that, you can check out my other course, [[Cybersecurity Foundations]] [[Computer Forensics]].
 >
 > **[0:24](https://www.linkedin.com/learning/operating-system-forensics-24652677/what-you-should-know?u=76281980&t=24)** Throughout this course, we'll use [[Windows]], Mac OS, and [[Linux]] operating systems.
 >
@@ -2082,7 +2082,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980&t=3)** It was fun to develop it.
 >
-> **[0:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980&t=5)** If you'd like to advance your knowledge of more core domains in [[Digital Forensics]], I recommend you take my other courses such as [[[[[[Cybersecurity]] Foundations]]- [[Computer Forensics]]]], [[Network Forensics]], and Web Forensics.
+> **[0:05](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980&t=5)** If you'd like to advance your knowledge of more core domains in [[Digital Forensics]], I recommend you take my other courses such as [[[[Cybersecurity Foundations]]- [[Computer Forensics]]]], [[Network Forensics]], and Web Forensics.
 >
 > **[0:22](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980&t=22)** The digital forensics field is constantly evolving and there are always new technologies to explore.
 >

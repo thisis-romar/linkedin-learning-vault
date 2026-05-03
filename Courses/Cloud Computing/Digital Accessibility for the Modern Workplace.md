@@ -1444,7 +1444,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=19)** Now, you may be wondering where can I go to learn more?
 >
-> **[0:22](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=22)** The first place I'd recommend is [[[Microsoft]].com/accessibility](https://microsoft.com/accessibility).
+> **[0:22](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=22)** The first place I'd recommend is [microsoft.com/accessibility](https://microsoft.com/accessibility).
 >
 > **[0:27](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=27)** Here, you'll find information about [[Microsoft Products]], investments we're making in accessibility and access to further learning.
 >
@@ -1452,7 +1452,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=42)** If you're looking to build a more inclusive organization with strong representation of disability, you may want to visit aka.ms/inclusivehiring.
 >
-> **[0:53](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=53)** Here, you'll find tips from our recruiters, and direct opportunities for employment at Microsoft.
+> **[0:53](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=53)** Here, you'll find tips from our recruiters, and direct opportunities for employment at [[Microsoft]].
 >
 > **[0:59](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/enhancing-your-accessibility-skills?u=76281980&t=59)** And if you're a person with a disability using Microsoft tech, we have a global specialist disability answer desk that can help.
 >

@@ -1188,7 +1188,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=211)** Now here it talks about some tests they ran on a variety of antimalware [[Microsoft Products|products]].
 >
-> **[3:39](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=219)** Down below here, it shows you the results, and you can run your cursor over, and here we see Symantec blocked 99.6%, Bitdefender blocked 100%, and Trend Micro blocked 100%.
+> **[3:39](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=219)** Down below here, it shows you the results, and you can run your [[Cursor]] over, and here we see Symantec blocked 99.6%, Bitdefender blocked 100%, and Trend Micro blocked 100%.
 >
 > **[3:57](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980&t=237)** Down below, there's a little disclaimer that we want to point out that while some products may be able to reach 100%, it doesn't mean that they're always going to test at that rate.
 >

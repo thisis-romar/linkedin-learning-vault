@@ -1111,7 +1111,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=31)** I'm giving it a basic task, right?
 >
-> **[0:32](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=32)** Perplexity is supposed to be the equivalent of a gen AI search engine, right?
+> **[0:32](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=32)** Perplexity is supposed to be the equivalent of a [[Generative AI|gen AI]] search engine, right?
 >
 > **[0:38](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/using-gen-ai-in-economics-forecasting?u=76281980&t=38)** Meaning it has access to the internet.
 >
@@ -2379,7 +2379,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980&t=279)** So I'm going to sum up all of our coefficients that Ed has no reason to believe will change.
 >
-> **[4:46](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980&t=286)** And in order to make it easy to move across the four scenarios, I'm going to anchor these cells by hitting F4 when my mouse cursor is in place on one of the cell references.
+> **[4:46](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980&t=286)** And in order to make it easy to move across the four scenarios, I'm going to anchor these cells by hitting F4 when my mouse [[Cursor]] is in place on one of the cell references.
 >
 > **[4:59](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/scenario-analysis-in-economics?u=76281980&t=299)** Next, I'm going to take into account the new expected scenarios.
 >

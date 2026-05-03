@@ -925,7 +925,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/saving-and-running-syntax-files?u=76281980&t=180)** And then I'm going to go to the syntax window.
 >
-> **[3:03](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/saving-and-running-syntax-files?u=76281980&t=183)** Here I have the command, and as long as I have my cursor somewhere in the command, I can either come up here and press the green play button, or I can come up here and say, run the selection, or I can do Command or Option + R.
+> **[3:03](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/saving-and-running-syntax-files?u=76281980&t=183)** Here I have the command, and as long as I have my [[Cursor]] somewhere in the command, I can either come up here and press the green play button, or I can come up here and say, run the selection, or I can do Command or Option + R.
 >
 > **[3:21](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/saving-and-running-syntax-files?u=76281980&t=201)** And when I do that, you see it runs the command and I get the exact same output that we had before.
 >
@@ -2112,7 +2112,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=217)** And now what we're going to do is we're going to run this command.
 >
-> **[3:41](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=221)** All you got to do is put the cursor anywhere inside the command.
+> **[3:41](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=221)** All you got to do is put the [[Cursor]] anywhere inside the command.
 >
 > **[3:44](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/variable-labels?u=76281980&t=224)** It begins with the command name in all capitals.
 >
@@ -2241,7 +2241,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980&t=245)** But let's come back up here.
 >
-> **[4:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980&t=247)** Let's just put the cursor somewhere in this command, and I'm going to hit the Play button, which will run that selection.
+> **[4:07](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980&t=247)** Let's just put the [[Cursor]] somewhere in this command, and I'm going to hit the Play button, which will run that selection.
 >
 > **[4:14](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/value-labels?u=76281980&t=254)** And again, it takes us to the output window, but it doesn't show us output.
 >

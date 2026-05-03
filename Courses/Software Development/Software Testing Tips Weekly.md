@@ -1497,7 +1497,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/agile-testing?u=76281980&t=0)** - [Instructor] Because [[[[Agile Software Development]]]] can be so granular and iterative, it can sometimes be hard for software testers to find their place within the [[Agile Development|agile]] mindset.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/agile-testing?u=76281980&t=0)** - [Instructor] Because [[Agile Software Development]] can be so granular and iterative, it can sometimes be hard for software testers to find their place within the [[Agile Development|agile]] mindset.
 >
 > **[0:12](https://www.linkedin.com/learning/software-testing-tips-weekly/agile-testing?u=76281980&t=12)** Coming from a waterfall development life cycle, where all the code was delivered all at once, I found it a challenge to move my mindset to that of an agile tester.
 >

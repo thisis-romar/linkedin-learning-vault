@@ -728,7 +728,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/what-s-a-slidedoc?u=76281980&t=162)** And these templates are set up to automate the typesetting process for you in a very beautiful way.
 >
-> **[2:49](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/what-s-a-slidedoc?u=76281980&t=169)** You simply place your cursor in the text field and you hit the tab button or you hit the shift tab button.
+> **[2:49](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/what-s-a-slidedoc?u=76281980&t=169)** You simply place your [[Cursor]] in the text field and you hit the tab button or you hit the shift tab button.
 >
 > **[2:55](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/what-s-a-slidedoc?u=76281980&t=175)** When you tab, several carefully curated font choices are going to appear before your eyes.
 >

@@ -1781,7 +1781,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=205)** However you do it, describing your system in plain language is incredibly useful to identify why we're building this application and those descriptions serve as input for the next stages of the analysis and design process.
 >
-> **[3:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=218)** If you want to learn more about the concise user story format, check out Mike Cohn's book, User Stories Applied for [[[[Agile Software Development]]]].
+> **[3:38](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=218)** If you want to learn more about the concise user story format, check out Mike Cohn's book, User Stories Applied for [[Agile Software Development]].
 >
 > **[3:47](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/user-stories?u=76281980&t=227)** It's a book you're likely to see recommended if you use a process like [[Scrum]] or Extreme Programming.
 

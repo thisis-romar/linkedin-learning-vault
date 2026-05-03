@@ -346,11 +346,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=4)** Another one of Gemini's advantages is the robust set of tools that are available to developers.
 >
-> **[0:10](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=10)** The best way to learn how to work with them is to try the AI Studio platform at ai.[[[Google]].dev](https://google.dev).
+> **[0:10](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=10)** The best way to learn how to work with them is to try the AI Studio platform at ai.[google.dev](https://google.dev).
 >
 > **[0:16](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=16)** If you're a [[Google Cloud Platform (GCP)|Google Cloud]] client, you can do the same thing on [[Vertex]] AI, which gives you access to many more models.
 >
-> **[0:22](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=22)** One of the places that Google shines is with extremely competitive pricing when using these models.
+> **[0:22](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=22)** One of the places that [[Google]] shines is with extremely competitive pricing when using these models.
 >
 > **[0:27](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=27)** If you're a developer, you'll find this platform extremely compelling for development because of its price.
 >

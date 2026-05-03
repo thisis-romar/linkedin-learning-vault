@@ -4622,7 +4622,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=66)** All right, so, now that that's working, one last thing that I wanted to show you here, is that when we created a [[Firebase]] project, behind the scenes, we also actually created a project on [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[1:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=79)** So, if you go to [console.cloud](https://console.cloud).[[[Google]].com](https://google.com), you should be able to find that project that we just created in Firebase in this drop-down here, right?
+> **[1:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=79)** So, if you go to [console.cloud](https://console.cloud).[google.com](https://google.com), you should be able to find that project that we just created in Firebase in this drop-down here, right?
 >
 > **[1:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=90)** If you select that, you should be able to search by project name and find this one here.
 >

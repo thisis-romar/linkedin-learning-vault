@@ -881,7 +881,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=0)** - The usage of [[Large Language Models (LLM)|Large Language Models]], also referred to as LLMs has evolved significantly since it first became mainstream.
 >
-> **[0:10](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=10)** We went from standalone LLMs like [[ChatGPT]], to the dynamic world of LLM APIs and the latest GPT-4o, which enables [[Real-Time]] conversations and solutions through voice and picture commands.
+> **[0:10](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=10)** We went from standalone LLMs like [[ChatGPT]], to the dynamic world of LLM APIs and the latest [[GPT-4|GPT-4o]], which enables [[Real-Time]] conversations and solutions through voice and picture commands.
 >
 > **[0:26](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=26)** OpenAI made the new model of [[GPT-4]] available.
 >

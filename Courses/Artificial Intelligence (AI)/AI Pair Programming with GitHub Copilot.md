@@ -570,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=51)** Many users can choose from different models to utilize.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=56)** For this particular task, I'm going to choose GPT-4o to power this conversation.
+> **[0:56](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=56)** For this particular task, I'm going to choose [[GPT-4|GPT-4o]] to power this conversation.
 >
 > **[1:03](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=63)** And I'll say, how would I use my terminal to create a new [[Python (Programming Language)|Python]] 3 virtual environment called venv?
 >
@@ -1993,9 +1993,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=11)** Now, moving forward, here are a few resources I encourage you to check out in order to keep the learning going.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=18)** If you're interested in a broad look at different [[Generative AI Tools]], there's my course: [[Introduction To [[Prompt Engineering]] For [[Generative AI]]]], that's been taken by nearly a million people at this point.
+> **[0:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=18)** If you're interested in a broad look at different [[Generative AI Tools]], there's my course: [[Introduction To Prompt Engineering For Generative Ai]], that's been taken by nearly a million people at this point.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=33)** Then there's my course: Prompt Engineering for [[ChatGPT]].
+> **[0:33](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=33)** Then there's my course: [[Prompt Engineering]] for [[ChatGPT]].
 >
 > **[0:37](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=37)** Chat GPT can be very effective for software developers, so I encourage you to take a look at this course in order to get more out of this tool.
 >

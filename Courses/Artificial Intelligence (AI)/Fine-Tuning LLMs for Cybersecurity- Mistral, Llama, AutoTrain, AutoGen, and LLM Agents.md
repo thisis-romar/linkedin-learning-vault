@@ -426,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=34)** Now, in most of the cases, you will be fine building projects with closed-source LLMs, such as the ones offered by OpenAI or Anthropic, but there are many use cases where you want to use open-source LLMs, and we will talk about this in this chapter.
 >
-> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=48)** But before we do that, let's first learn about [[Generative AI]], also called Gen AI and LLMS, or large language models.
+> **[0:48](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=48)** But before we do that, let's first learn about [[Generative AI]], also called [[Generative AI|Gen AI]] and LLMS, or large language models.
 >
 > **[0:56](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980&t=56)** Now, AI has been around for quite some time, but gen AI is the new wave of AI that's changing the way we work with AI, and it's also disrupting a lot of old technologies.
 >
@@ -2140,7 +2140,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=122)** Now, there are different types of tools that can be used with LLM agents and I'd like to give you a few examples so that you're able to plan out projects much better in the future.
 >
-> **[2:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=131)** [[Data Processing]] tools, for example, [[Pandas (Software)|Pandas]], which is a [[[[Python (Programming Language)|Python]] Data Analysis]] library and can be used by an LLM agent to manipulate large data sets, perform [[Statistical Analysis]], and generate insights.
+> **[2:11](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=131)** [[Data Processing]] tools, for example, [[Pandas (Software)|Pandas]], which is a [[Python Data Analysis]] library and can be used by an LLM agent to manipulate large data sets, perform [[Statistical Analysis]], and generate insights.
 >
 > **[2:22](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/agent-frameworks-and-crew-ai-tools-and-tasks?u=76281980&t=142)** And LLM agent might use Pandas to clean and filter data before feeding it into a machine learning model for prediction.
 >

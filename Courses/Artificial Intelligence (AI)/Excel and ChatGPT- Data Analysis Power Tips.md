@@ -579,7 +579,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=261)** Transformer layers were the last key piece of machine learning research necessary to create algorithms like ChatGPT.
 >
-> **[4:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=268)** And from there, shortly after we seen GPT1, GPT2, GPT3, and finally, GPT4, all released in about a five-year span.
+> **[4:28](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=268)** And from there, shortly after we seen GPT1, GPT2, GPT3, and finally, [[GPT-4|GPT4]], all released in about a five-year span.
 >
 > **[4:37](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-road-to-chatgpt?u=76281980&t=277)** And in terms of model parameters, GPT1 had about 100 million parameters, while GPT4 had over 1 trillion, representing about a 10,000 times increase in terms of model complexity.
 >
@@ -2468,7 +2468,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=23)** Now, keep in mind that some of these features do require a ChatGPT Plus subscription, which is currently $20 a month.
 >
-> **[0:31](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=31)** And note that I'm going to be using the GPT-4o model for these demos.
+> **[0:31](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=31)** And note that I'm going to be using the [[GPT-4|GPT-4o]] model for these demos.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/single-table-analysis?u=76281980&t=36)** You could use other models like o1 as well.
 >

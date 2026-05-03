@@ -419,7 +419,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=51)** Let me quickly shift to the browser and show you how the Firefox binary can be installed and added to your system path.
 >
-> **[1:00](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=60)** The binaries for the various web drivers provided by Selenium can be installed from the following site selenium-python.[readthedocs.io/installation.[[HTML]]](https://readthedocs.io/installation.html).
+> **[1:00](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=60)** The binaries for the various web drivers provided by Selenium can be installed from the following site selenium-python.[readthedocs.io/installation.html](https://readthedocs.io/installation.html).
 >
 > **[1:12](https://www.linkedin.com/learning/python-automation-and-testing/cross-browser-support-2?u=76281980&t=72)** The driver is available for Chrome, Edge, Firefox, and Safari.
 >
@@ -1084,11 +1084,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=20)** In this challenge, I have five steps for you, that should take you all of five minutes to do overall.
 >
-> **[0:29](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=29)** The first step that I want you to do is navigate to the website, [[[Selenium]].dev](https://selenium.dev).
+> **[0:29](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=29)** The first step that I want you to do is navigate to the website, [selenium.dev](https://selenium.dev).
 >
 > **[0:37](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=37)** Let's head over to the site quickly and see what it looks like.
 >
-> **[0:42](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=42)** This is the official Selenium site, [selenium.dev](https://selenium.dev).
+> **[0:42](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=42)** This is the official [[Selenium]] site, [selenium.dev](https://selenium.dev).
 >
 > **[0:47](https://www.linkedin.com/learning/python-automation-and-testing/challenge-8631231?u=76281980&t=47)** On the site, let's do the following.
 >
@@ -1379,9 +1379,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=27)** So what we will do, is we will use the the code example that we initially looked at and go in detail of it to understand how it's working.
 >
-> **[0:36](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=36)** So in this code what we're gonna do, is we're going to open the website [[[Python (Programming Language)|Python]].org](https://Python.org), locate that search box, enter out text to the search box, and perform the search.
+> **[0:36](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=36)** So in this code what we're gonna do, is we're going to open the website [Python.org](https://Python.org), locate that search box, enter out text to the search box, and perform the search.
 >
-> **[0:48](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=48)** So to start out with as with any other Python [[Selenium]] script, I import the WebDriver.
+> **[0:48](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=48)** So to start out with as with any other [[Python (Programming Language)|Python]] [[Selenium]] script, I import the WebDriver.
 >
 > **[0:56](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980&t=56)** (keyboard clicking) We need another import for entering the keys.
 >
@@ -1896,7 +1896,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=146)** (keyboard clicking) We've created a Firefox instance here.
 >
-> **[2:33](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=153)** I'm going to navigate to the webpage [[[Python (Programming Language)|python]].org](https://python.org).
+> **[2:33](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=153)** I'm going to navigate to the webpage [python.org](https://python.org).
 >
 > **[2:37](https://www.linkedin.com/learning/python-automation-and-testing/explicit-waits?u=76281980&t=157)** (keyboard clicking)
 >
@@ -1976,7 +1976,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980&t=107)** After this, I load my site.
 >
-> **[1:52](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980&t=112)** So I'm going to load [[[Python (Programming Language)|python]].org](https://python.org).
+> **[1:52](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980&t=112)** So I'm going to load [python.org](https://python.org).
 >
 > **[1:55](https://www.linkedin.com/learning/python-automation-and-testing/implicit-waits?u=76281980&t=115)** So in this case it would wait for the site itself to load for 10 seconds first, and then I'm just going to specify some dynamic element.
 >

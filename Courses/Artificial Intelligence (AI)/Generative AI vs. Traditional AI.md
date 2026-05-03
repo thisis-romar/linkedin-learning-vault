@@ -430,7 +430,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/foundation-models-25807058?u=76281980&t=35)** Instead, this new field of AI is about being creative.
 >
-> **[0:39](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/foundation-models-25807058?u=76281980&t=39)** This new field is called Generative Artificial Intelligence or Gen AI.
+> **[0:39](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/foundation-models-25807058?u=76281980&t=39)** This new field is called Generative Artificial Intelligence or [[Generative AI|Gen AI]].
 >
 > **[0:45](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/foundation-models-25807058?u=76281980&t=45)** It's about training systems to take existing data and [[Remix]] it into something completely new.
 >
@@ -905,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/generative-adversarial-networks-gans?u=76281980&t=0)** - [Narrator] One term you might hear around generative [[Artificial Intelligence (AI)|artificial intelligence]] is the term [[Generative Adversarial Networks (GANs)|generative adversarial networks]], or GAN.
 >
-> **[0:07](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/generative-adversarial-networks-gans?u=76281980&t=7)** When you first hear this, you might assume that all gen AI is created on GANs, but that isn't true.
+> **[0:07](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/generative-adversarial-networks-gans?u=76281980&t=7)** When you first hear this, you might assume that all [[Generative AI|gen AI]] is created on GANs, but that isn't true.
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/generative-adversarial-networks-gans?u=76281980&t=14)** Generative adversarial networks appeared around 2014.
 >
@@ -1581,7 +1581,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/traceable-decision-making?u=76281980&t=56)** Now, your generative AI product can still be destructive without wiping out humanity.
 >
-> **[1:01](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/traceable-decision-making?u=76281980&t=61)** In fact, one of the biggest challenges with your gen AI system might come from an executive decision to shut the system down.
+> **[1:01](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/traceable-decision-making?u=76281980&t=61)** In fact, one of the biggest challenges with your [[Generative AI|gen AI]] system might come from an executive decision to shut the system down.
 >
 > **[1:09](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/traceable-decision-making?u=76281980&t=69)** In this case, it won't be about whether your gen AI system can be done.
 >
@@ -1891,7 +1891,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/the-expertise-death-spiral?u=76281980&t=112)** So there are no new experts to update the system.
 >
-> **[1:56](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/the-expertise-death-spiral?u=76281980&t=116)** Similar to the Gen AI artwork data challenge for illustrators, those systems learn from existing artists, but then those same systems go on to replace those artists.
+> **[1:56](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/the-expertise-death-spiral?u=76281980&t=116)** Similar to the [[Generative AI|Gen AI]] artwork data challenge for illustrators, those systems learn from existing artists, but then those same systems go on to replace those artists.
 >
 > **[2:06](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/the-expertise-death-spiral?u=76281980&t=126)** So no future artists can continue to update the system.
 >
@@ -1944,7 +1944,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/next-steps-for-ai-25806074?u=76281980&t=0)** - I hope you enjoyed comparing [[Traditional AI]] to newer [[Generative AI]] systems.
 >
-> **[0:05](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/next-steps-for-ai-25806074?u=76281980&t=5)** These new gen AI systems are impressive, but they're based on traditional AI concepts and technology that have existed for decades.
+> **[0:05](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/next-steps-for-ai-25806074?u=76281980&t=5)** These new [[Generative AI|gen AI]] systems are impressive, but they're based on traditional AI concepts and technology that have existed for decades.
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/next-steps-for-ai-25806074?u=76281980&t=14)** Now, even with that said, it's still an extraordinary step forward in [[Artificial Intelligence (AI)|artificial intelligence]] systems.
 >

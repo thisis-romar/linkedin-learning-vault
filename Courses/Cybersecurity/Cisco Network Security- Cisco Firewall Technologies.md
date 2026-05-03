@@ -1125,7 +1125,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980&t=84)** So apply the access control list on the interface closest to the source of the traffic to be blocked.
 >
-> **[1:31](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980&t=91)** So if you place your cursor over the router, you can see the interfaces and it will be Gigabit 0/1.
+> **[1:31](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980&t=91)** So if you place your [[Cursor]] over the router, you can see the interfaces and it will be Gigabit 0/1.
 >
 > **[1:41](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980&t=101)** So we need to go into that interface interface gigabitEthernet 0/1 and IPv6 traffic-filter BLOCK_HTTP in.
 >

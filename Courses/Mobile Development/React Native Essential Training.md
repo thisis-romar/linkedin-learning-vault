@@ -5341,7 +5341,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980&t=166)** Now we did not do any animation yet.
 >
-> **[2:48](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980&t=168)** So nothing is going to change on the screen, but we will see the console log lines when I move my cursor on this image and when I release my cursor from that image.
+> **[2:48](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980&t=168)** So nothing is going to change on the screen, but we will see the console log lines when I move my [[Cursor]] on this image and when I release my cursor from that image.
 >
 > **[2:58](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980&t=178)** So check it moving, moving, moving released.
 >
@@ -6513,7 +6513,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=4)** I know it might have been a little bit challenging in parts, but trust me, it gets easier.
 >
-> **[0:09](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=9)** You've made a great investment [[Learning [[React Native]]]], because its popularity is unmatched and there is a big demand for React Native developers.
+> **[0:09](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=9)** You've made a great investment [[Learning React Native]], because its popularity is unmatched and there is a big demand for [[React Native]] developers.
 >
 > **[0:18](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=18)** So what's next?
 >

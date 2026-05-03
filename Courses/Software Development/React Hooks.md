@@ -994,7 +994,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=0)** - [Instructor] Another use case for useEffect is for data fetching.
 >
-> **[0:04](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=4)** So let's say we had an API like api.[[[GitHub]].com/users](https://github.com/users) so this is just a straight up [[Representational State Transfer (REST)|rest]] API.
+> **[0:04](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=4)** So let's say we had an API like api.[github.com/users](https://github.com/users) so this is just a straight up [[Representational State Transfer (REST)|rest]] API.
 >
 > **[0:15](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=15)** It returned some [[JSON]] data and we want to make a request for this data and then load it into our page.
 >
@@ -2064,11 +2064,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=34)** Remember our useFetch hook takes in the URI for our API.
 >
-> **[0:39](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=39)** So it's at api.[[[GitHub]].com/users](https://github.com/users).
+> **[0:39](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=39)** So it's at api.[github.com/users](https://github.com/users).
 >
 > **[0:44](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=44)** And then we can chain on this little template here, and say login.
 >
-> **[0:48](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=48)** So that's whatever the username for the GitHub user is.
+> **[0:48](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=48)** So that's whatever the username for the [[GitHub]] user is.
 >
 > **[0:52](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=52)** So you can use your own or whatever you feel like using.
 >

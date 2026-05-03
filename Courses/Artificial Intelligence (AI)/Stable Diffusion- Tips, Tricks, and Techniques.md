@@ -957,7 +957,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=228)** So, when you start writing a prompt, the best thing to do is just start by asking it for what you want.
 >
-> **[3:54](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=234)** I'm going to put my cursor up here and say a photo of a person standing in front of Stonehenge.
+> **[3:54](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=234)** I'm going to put my [[Cursor]] up here and say a photo of a person standing in front of Stonehenge.
 >
 > **[4:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/prompt-basics?u=76281980&t=240)** And I'm going to set my batch count up to four, like I told you to do earlier, that's so that we get four different images.
 >
@@ -2754,7 +2754,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=80)** The first thing you got to do is find one.
 >
-> **[1:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=82)** [[[Hugging Face|HuggingFace]].co](https://HuggingFace.co) is a good place to start.
+> **[1:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=82)** [HuggingFace.co](https://HuggingFace.co) is a good place to start.
 >
 > **[1:26](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/changing-sd-models?u=76281980&t=86)** [[Hugging Face]] is just a good Stable Diffusion resource in general, if you click here on the Models tab, you'll get a long list of possible models.
 >
@@ -4665,7 +4665,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=142)** First thing we need to do is make a mask.
 >
-> **[2:24](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=144)** And when I come in here, you see I've got this black circular cursor; this is actually a paintbrush, so I'm going to paint over this barn.
+> **[2:24](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=144)** And when I come in here, you see I've got this black circular [[Cursor]]; this is actually a paintbrush, so I'm going to paint over this barn.
 >
 > **[2:33](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/removing-elements-with-inpainting?u=76281980&t=153)** I don't have to be super precise, but no reason to change the image more than I have to.
 >

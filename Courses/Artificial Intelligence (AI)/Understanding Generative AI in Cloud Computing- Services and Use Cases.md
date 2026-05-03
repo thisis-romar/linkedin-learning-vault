@@ -149,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-generative-ai?u=76281980&t=15)** The on-demand availability of computer system resources puts the power of Generative AI in the hands of people who once could not afford to leverage this game changing technology.
 >
-> **[0:25](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-generative-ai?u=76281980&t=25)** In this [[LinkedIn]] Learning course, we'll use pragmatic examples and relevant case studies to help you understand the core concepts of how Generative AI in the cloud works and how you and your business can make a successful GenAI deployment in the cloud possible today.
+> **[0:25](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-generative-ai?u=76281980&t=25)** In this [[LinkedIn]] Learning course, we'll use pragmatic examples and relevant case studies to help you understand the core concepts of how Generative AI in the cloud works and how you and your business can make a successful [[Generative AI|GenAI]] deployment in the cloud possible today.
 >
 > **[0:41](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-generative-ai?u=76281980&t=41)** Hi, I'm David Linthicum, an internationally known cloud computing and AI expert and consultant.
 >
@@ -1021,7 +1021,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-tools-for-training-language-models?u=76281980&t=119)** Features of this tool include integrated development enviornment, or IDE, which can be leveraged for building, training and deploying language models.
 >
-> **[2:09](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-tools-for-training-language-models?u=76281980&t=129)** Open AI is perhaps the one you've most likely have experienced already, is the creator popular language models such as GPT3, GPT4, and GPT4 mini.
+> **[2:09](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-tools-for-training-language-models?u=76281980&t=129)** Open AI is perhaps the one you've most likely have experienced already, is the creator popular language models such as GPT3, [[GPT-4|GPT4]], and GPT4 mini.
 >
 > **[2:22](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-tools-for-training-language-models?u=76281980&t=142)** These tools provide access to their models through an open AI API, which we'll demonstrate later.
 >
@@ -1166,7 +1166,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-defining-the-business-problem-to-be-solved?u=76281980&t=66)** Next, assess the data available.
 >
-> **[1:09](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-defining-the-business-problem-to-be-solved?u=76281980&t=69)** Quality, quantity, and relevance of data shape both the feasibility and success of GenAI solutions.
+> **[1:09](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-defining-the-business-problem-to-be-solved?u=76281980&t=69)** Quality, quantity, and relevance of data shape both the feasibility and success of [[Generative AI|GenAI]] solutions.
 >
 > **[1:19](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-defining-the-business-problem-to-be-solved?u=76281980&t=79)** Work with IT and data teams to catalog what's on hand and identify gaps that might require additional collection or cleaning.
 >
@@ -1195,7 +1195,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-system-architecture?u=76281980&t=0)** - [Instructor] Designing a GenAI [[System Architecture]] begins with understanding the problem and the requirements.
+> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-system-architecture?u=76281980&t=0)** - [Instructor] Designing a [[Generative AI|GenAI]] [[System Architecture]] begins with understanding the problem and the requirements.
 >
 > **[0:06](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-system-architecture?u=76281980&t=6)** A clear goal guides the selection of AI tools, infrastructure, and workflows, ensuring alignment with business needs and efficient resource use.
 >
@@ -1243,7 +1243,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-technology-solutions?u=76281980&t=0)** - [Instructor] Building and deploying GenAI system requires a carefully chosen stack of technology, each component tailored to the needs of [[Generative AI]] projects.
+> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-technology-solutions?u=76281980&t=0)** - [Instructor] Building and deploying [[Generative AI|GenAI]] system requires a carefully chosen stack of technology, each component tailored to the needs of [[Generative AI]] projects.
 >
 > **[0:10](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-case-study-technology-solutions?u=76281980&t=10)** The process begins with selecting a cloud platform, such as AWS, [[Google Cloud Platform (GCP)|Google Cloud]], [[Microsoft Azure]], or OpenAI.
 >
@@ -1605,7 +1605,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/personalization-use-case?u=76281980&t=0)** - [Instructor] The technological advances that Gen AI are enabling modern businesses to develop custom-built solutions that deliver personalized experiences to users.
+> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/personalization-use-case?u=76281980&t=0)** - [Instructor] The technological advances that [[Generative AI|Gen AI]] are enabling modern businesses to develop custom-built solutions that deliver personalized experiences to users.
 >
 > **[0:12](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/personalization-use-case?u=76281980&t=12)** A primary use of this technology is the creation of customized recommendations.
 >
@@ -2052,7 +2052,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/openai?u=76281980&t=37)** GPT models.
 >
-> **[0:39](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/openai?u=76281980&t=39)** Preceding iterations of OpenAI's GPT models, including GPT-3, [[GPT-4]], and GPT-4O and plus are preeminent pre-trained language models that have undergone extensive training on large sets of textual data.
+> **[0:39](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/openai?u=76281980&t=39)** Preceding iterations of OpenAI's GPT models, including GPT-3, [[GPT-4]], and [[GPT-4|GPT-4O]] and plus are preeminent pre-trained language models that have undergone extensive training on large sets of textual data.
 >
 > **[0:57](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/openai?u=76281980&t=57)** These models have demonstrated exceptional potential and prowess in generating human-like scripts across different realms and assignments.
 >
@@ -2090,7 +2090,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-powered-tools-security?u=76281980&t=0)** - [Instructor] Security is vital when deploying GenAI powered tools, especially in cloud environments.
+> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-powered-tools-security?u=76281980&t=0)** - [Instructor] Security is vital when deploying [[Generative AI|GenAI]] powered tools, especially in cloud environments.
 >
 > **[0:06](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-powered-tools-security?u=76281980&t=6)** The first layer involves robust access controls, including managing user identities, setting strict permissions, and utilizing role-based access to limit exposure and prevent unauthorized actions.
 >
@@ -2138,7 +2138,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-powered-tools-devops?u=76281980&t=0)** - [Narrator] GenAI powered tools are transforming [[DevOps]] by automating many steps in the AI development lifecycle.
+> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-powered-tools-devops?u=76281980&t=0)** - [Narrator] [[Generative AI|GenAI]] powered tools are transforming [[DevOps]] by automating many steps in the AI development lifecycle.
 >
 > **[0:07](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-powered-tools-devops?u=76281980&t=7)** These tools streamline how models are built, tested, monitored, and managed, leading to faster innovation and more reliable deployment.
 >
@@ -2173,7 +2173,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-powered-tools-cloud-operations?u=76281980&t=0)** - [Instructor] GenAI-powered tools are transforming cloud operations by enabling scalable, efficient, and reliable deployment and management of AI models.
+> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-powered-tools-cloud-operations?u=76281980&t=0)** - [Instructor] [[Generative AI|GenAI]]-powered tools are transforming cloud operations by enabling scalable, efficient, and reliable deployment and management of AI models.
 >
 > **[0:09](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/genai-powered-tools-cloud-operations?u=76281980&t=9)** Cloud platforms provide the computing power and automation needed to handle large data sets and complex workflows with ease.
 >
@@ -2502,7 +2502,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/gen-ai-troubleshooting-and-operations?u=76281980&t=95)** Lastly, a culture of continuous improvement encourages regular review of operational incidents and root causes.
 >
-> **[1:41](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/gen-ai-troubleshooting-and-operations?u=76281980&t=101)** Teams use this insight to update troubleshooting playbooks and refined operational best practices leading to more reliable gen AI systems over time.
+> **[1:41](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/gen-ai-troubleshooting-and-operations?u=76281980&t=101)** Teams use this insight to update troubleshooting playbooks and refined operational best practices leading to more reliable [[Generative AI|gen AI]] systems over time.
 
 > [!info]- Semantic Content
 >
@@ -2805,7 +2805,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/agentic-ai-and-genai-what-changes-and-what-s-the-same?u=76281980&t=0)** - [Instructor] Both agentic AI and gen AI leverage advanced models to perform tasks with high efficiency, often in cloud environments.
+> **[0:00](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/agentic-ai-and-genai-what-changes-and-what-s-the-same?u=76281980&t=0)** - [Instructor] Both agentic AI and [[Generative AI|gen AI]] leverage advanced models to perform tasks with high efficiency, often in cloud environments.
 >
 > **[0:08](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/agentic-ai-and-genai-what-changes-and-what-s-the-same?u=76281980&t=8)** Each relies on vast data, robust computing resources, and continuous learning to deliver valuable real-world outcomes for organizations.
 >

@@ -410,7 +410,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=64)** Now, it's going to open up with some default settings of its own.
 >
-> **[1:08](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=68)** First of all, you'll see that the cursor's flashing down from the top of the page and in from the left.
+> **[1:08](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=68)** First of all, you'll see that the [[Cursor]]'s flashing down from the top of the page and in from the left.
 >
 > **[1:14](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=74)** If you're not seeing a ruler across the top and down the left-hand side, go up to the View tab here to select that ribbon.
 >
@@ -942,7 +942,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=83)** Control C, the keyboard shortcut also works here just as it does in Word.
 >
-> **[1:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=88)** Using Alt Tab now, you can switch back over to your Word document and the cursor's there waiting for us to paste.
+> **[1:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=88)** Using Alt Tab now, you can switch back over to your Word document and the [[Cursor]]'s there waiting for us to paste.
 >
 > **[1:35](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=95)** Instead of right clicking though, we're going to use the clipboard section here with the Home tab selected.
 >
@@ -1559,7 +1559,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980&t=45)** First of all, any lines that are added manually by hitting the enter key will appear as blank lines.
 >
-> **[0:52](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980&t=52)** If we click just below red thirties annual conference here you can see a flashing cursor on the left-hand side tells us a blank line was added by pressing the enter key.
+> **[0:52](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980&t=52)** If we click just below red thirties annual conference here you can see a flashing [[Cursor]] on the left-hand side tells us a blank line was added by pressing the enter key.
 >
 > **[1:02](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980&t=62)** That can cause troubles down the road if we decide we're going to reformat changing fonts and font sizes for example.
 >
@@ -2317,7 +2317,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=75)** So when you type in a dash, and hit the space bar, look what happens.
 >
-> **[1:20](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=80)** It's indented, and space is created between the dash and your cursor, waiting for you to type the first item in your list.
+> **[1:20](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=80)** It's indented, and space is created between the dash and your [[Cursor]], waiting for you to type the first item in your list.
 >
 > **[1:27](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=87)** We also see a little icon representing our auto correct options.
 >
@@ -2613,7 +2613,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=47)** Your first option is to highlight cells, representing the different columns and rows in a table, just move down and start hovering over the cells moving across the top row to the right.
 >
-> **[0:59](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=59)** You can see when you get to five, the five cells are previewed on your page right where your cursor was flashing.
+> **[0:59](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=59)** You can see when you get to five, the five cells are previewed on your page right where your [[Cursor]] was flashing.
 >
 > **[1:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=67)** Now start moving down with your mouse, and we're not actually clicking and dragging over these, we're just hovering over them to see a preview of what we're about to create.
 >
@@ -2763,7 +2763,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=114)** This is the one we want to start with, AI graphic.
 >
-> **[1:56](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=116)** Go ahead and select it and click insert to insert it right where your cursor was flashing.
+> **[1:56](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=116)** Go ahead and select it and click insert to insert it right where your [[Cursor]] was flashing.
 >
 > **[2:02](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=122)** Certain default actions are underway here.
 >
@@ -2908,7 +2908,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=59)** In the Chapter seven folder of the exercise files, you'll find we do have a photograph of AI students.
 >
-> **[1:05](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=65)** It's a jpeg, so we'll select it and click insert, and you can see it's inserted right there where our cursor's flashing.
+> **[1:05](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=65)** It's a jpeg, so we'll select it and click insert, and you can see it's inserted right there where our [[Cursor]]'s flashing.
 >
 > **[1:12](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=72)** And remember, by default, it's in line with text.
 >
@@ -3927,7 +3927,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=201)** You'll notice the link has been sent, which means we can close up this message and continue to work on our document if we so choose.
 >
-> **[3:29](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=209)** Cursor flashing right here at the top.
+> **[3:29](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=209)** [[Cursor]] flashing right here at the top.
 >
 > **[3:31](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=211)** Some things have changed on the title bar.
 >

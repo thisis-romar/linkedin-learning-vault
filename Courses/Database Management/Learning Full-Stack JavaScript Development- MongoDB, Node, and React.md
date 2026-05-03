@@ -3847,7 +3847,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=299)** And I think we can test, go to [[Big Data Analytics]], and the header is big data analytics now and on the main page it's naming contests.
 >
-> **[5:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=309)** And by the way, when we hover over something that is clickable, we should really show the pointer cursor.
+> **[5:09](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=309)** And by the way, when we hover over something that is clickable, we should really show the pointer [[Cursor]].
 >
 > **[5:16](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/fetching-data-after-navigating-to-a-new-view?u=76281980&t=316)** Just like when you hover over a link.
 >

@@ -283,7 +283,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=301)** Now you can take it one step further.
 >
-> **[5:04](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=304)** Open [[Microsoft Copilot]] at [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com).
+> **[5:04](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=304)** Open [[Microsoft Copilot]] at [[Microsoft Copilot|copilot]].[microsoft.com](https://microsoft.com).
 >
 > **[5:09](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-the-ability-to-think-critically-is-part-of-ai-literacy-36131058?u=76281980&t=309)** In the text box, type the following prompt, then paste your rules below it.
 >

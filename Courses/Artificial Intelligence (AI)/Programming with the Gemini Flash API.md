@@ -168,7 +168,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=185)** Now, that's one of the most generous prices out there.
 >
-> **[3:09](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=189)** Let's compare it with Open AI's GPT-4o pricing, which some might consider a similar model.
+> **[3:09](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=189)** Let's compare it with Open AI's [[GPT-4|GPT-4o]] pricing, which some might consider a similar model.
 >
 > **[3:15](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=195)** Now I got to give props to OpenAI here, the pricing is much simpler but it's definitely much more expensive at $5 for input tokens and $15 for output tokens.
 >

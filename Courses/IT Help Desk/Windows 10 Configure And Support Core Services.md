@@ -362,9 +362,9 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=246)** The process is one you're likely familiar with.
 >
-> **[4:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=249)** If you type [[[Microsoft]].com](https://microsoft.com) in the address bar of a web browser, it's automatically changed to www.[microsoft.com](https://microsoft.com) and makes it easier to use.
+> **[4:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=249)** If you type [microsoft.com](https://microsoft.com) in the address bar of a web browser, it's automatically changed to www.[microsoft.com](https://microsoft.com) and makes it easier to use.
 >
-> **[4:19](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=259)** This also applies if you type www.microsoft.
+> **[4:19](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=259)** This also applies if you type www.[[Microsoft]].
 >
 > **[4:23](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=263)** The .com is added automatically.
 >

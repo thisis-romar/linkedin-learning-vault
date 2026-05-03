@@ -1442,7 +1442,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=28)** You can simulate this by rebooting your VM.
 >
-> **[0:35](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=35)** When you get to the grub prompt, choose a different kernel to boot up in by moving your cursor and hitting enter.
+> **[0:35](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=35)** When you get to the grub prompt, choose a different kernel to boot up in by moving your [[Cursor]] and hitting enter.
 >
 > **[0:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=40)** If the system boots up properly, then there's an instability with the most recent kernel, and you should temporarily set an older kernel as default using the grub2-set-default command.
 >
@@ -3856,7 +3856,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-vim?u=76281980&t=105)** I spoke of vim being very fast and efficient.
 >
-> **[1:47](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-vim?u=76281980&t=107)** You can move your cursor key around the screen with the arrow keys, but you can also do it with the H, J, K, and L keys.
+> **[1:47](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-vim?u=76281980&t=107)** You can move your [[Cursor]] key around the screen with the arrow keys, but you can also do it with the H, J, K, and L keys.
 >
 > **[1:54](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-vim?u=76281980&t=114)** These may seem like a strange choice of keys and hard to remember, but if your right hand is on the home row, move it one key to the left.
 >
@@ -3985,7 +3985,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=25)** To copy a letter, type yl, a [[Microsoft Word|word]], type yw, and to copy a line, type yy.
 >
-> **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=33)** Now put your cursor over the word One and press yw.
+> **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=33)** Now put your [[Cursor]] over the word One and press yw.
 >
 > **[0:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=38)** Now go to the end of the line and press p to put.
 >

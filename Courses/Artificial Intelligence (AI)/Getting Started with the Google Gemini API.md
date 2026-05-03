@@ -512,7 +512,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=146)** Each resource on the API consists of a set of methods representing the functions that developers are allowed to perform on the resource.
 >
-> **[2:35](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=155)** On the API documentation at ai.[google.dev/api/[[Representational State Transfer (REST)|rest]]](https://google.dev/api/rest), if you go to the side menu under the REST section, you can expand any of the available API versions.
+> **[2:35](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=155)** On the API documentation at ai.[google.dev/api/rest](https://google.dev/api/rest), if you go to the side menu under the [[Representational State Transfer (REST)|REST]] section, you can expand any of the available API versions.
 >
 > **[2:49](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980&t=169)** Here you can see the resources and the types in this version.
 >
@@ -587,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=0)** - [Instructor] In this video, we are going to be looking at the different API versions currently available on the [[Gemini]] API.
 >
-> **[0:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=7)** In the previous video, we looked at the [[Representational State Transfer (REST)|rest]] API page at ai.[[[Google]].dev/api/rest](https://google.dev/api/rest).
+> **[0:07](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=7)** In the previous video, we looked at the [[Representational State Transfer (REST)|rest]] API page at ai.[google.dev/api/rest](https://google.dev/api/rest).
 >
 > **[0:15](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=15)** On the side menu, under the rest section, you can see that two versions of the API currently exist.
 >
@@ -597,7 +597,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=34)** The V1 version of the Gemini API is a stable version of the API.
 >
-> **[0:38](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=38)** All the features in this stable version will be fully supported by the Google team over the lifetime of the stable version.
+> **[0:38](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=38)** All the features in this stable version will be fully supported by the [[Google]] team over the lifetime of the stable version.
 >
 > **[0:45](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/api-versions?u=76281980&t=45)** If there are any breaking changes, this version will remain stable, and instead another stable version will be created, containing the new updates.
 >
@@ -640,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=5)** Gemini follows a usage-based pricing model, so you are charged based on what you use.
 >
-> **[0:13](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=13)** To access the pricing page for Gemini, head over to ai.[[[Google]].dev/pricing](https://google.dev/pricing).
+> **[0:13](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=13)** To access the pricing page for Gemini, head over to ai.[google.dev/pricing](https://google.dev/pricing).
 >
 > **[0:20](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=20)** Currently, the pricing details for the preview, Gemini 1.5 Pro model is displayed.
 >
@@ -680,7 +680,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=145)** For outputs, which is currently only text-based, the price is set at $1.50 per million tokens.
 >
-> **[2:34](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=154)** At the time of recording this cost, the Pay-as-you-go plan is not currently available in the Google AI studio.
+> **[2:34](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=154)** At the time of recording this cost, the Pay-as-you-go plan is not currently available in the [[Google]] AI studio.
 >
 > **[2:42](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/pricing?u=76281980&t=162)** However, Google has already set the availability date for this payment plan to the 2nd of May, 2024, according to an email I received recently.
 >
@@ -1305,7 +1305,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=149)** The next thing we're going to do is to install the client's library for Node.js for working with the Gemini API.
 >
-> **[2:36](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=156)** This package is available on the NPM package repository @[[Google]]/generative-ai.
+> **[2:36](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=156)** This package is available on the NPM package repository @[[Google]]/[[Generative AI|generative-ai]].
 >
 > **[2:43](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/using-a-programming-language-sdk?u=76281980&t=163)** We're going to be installing it by running this npm command.
 >

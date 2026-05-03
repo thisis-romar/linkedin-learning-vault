@@ -1690,7 +1690,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=146)** Now the me give you just a very quick explanation of what basically took place behind the scenes.
 >
-> **[2:31](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=151)** And by the way, if you're following along sometimes you'll get a little spinning cursor for a few moments.
+> **[2:31](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=151)** And by the way, if you're following along sometimes you'll get a little spinning [[Cursor]] for a few moments.
 >
 > **[2:37](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=157)** It doesn't necessarily happen instantaneously like it did here.
 >
@@ -1773,7 +1773,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=86)** It was like, boom, there was the window.
 >
-> **[1:27](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=87)** Now I'm sitting here looking at this spinning cursor.
+> **[1:27](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=87)** Now I'm sitting here looking at this spinning [[Cursor]].
 >
 > **[1:30](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=90)** And the reason I'm looking at this spinning cursor is because it's trying to contact the operations master for this role and it can't, okay?
 >

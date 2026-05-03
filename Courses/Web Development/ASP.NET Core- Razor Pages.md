@@ -147,7 +147,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=0)** - [Narrator] Per definition, "[[[ASP.NET]]](https://ASP.NET) Razor Pages is a server-side, page-focused framework that enables building dynamic, data-driven websites with clean separation of concerns."
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=0)** - [Narrator] Per definition, "[ASP.NET](https://ASP.NET) Razor Pages is a server-side, page-focused framework that enables building dynamic, data-driven websites with clean separation of concerns."
 >
 > **[0:14](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980&t=14)** Razor Pages is also known as a [[Cross-platform Development]] framework because apps built with Razor Pages can be deployed to [[Windows]], Unix and Mac operating systems.
 >
@@ -192,7 +192,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=0)** - Razor pages are often compared with the [[[ASP.NET]]](https://ASP.NET) MVC framework.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=0)** - Razor pages are often compared with the [ASP.NET](https://ASP.NET) MVC framework.
 >
 > **[0:06](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/asp-dot-net-razor-pages-vs-asp-dot-net-mvc?u=76281980&t=6)** The truth is that these two frameworks have a lot in common but they also have some key differences.
 >
@@ -332,7 +332,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=19)** Project.
 >
-> **[0:21](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=21)** From the project templates in here, I'm going to select the [[[ASP.NET]]](https://ASP.NET) Core Web App.
+> **[0:21](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=21)** From the project templates in here, I'm going to select the [ASP.NET](https://ASP.NET) Core Web App.
 >
 > **[0:26](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/creating-an-empty-asp-dot-net-razor-pages-project?u=76281980&t=26)** And you can see in the description which says that, "A project template for creating an [ASP.NET](https://ASP.NET) Core application with example [ASP.NET](https://ASP.NET) Razor Pages content."
 >

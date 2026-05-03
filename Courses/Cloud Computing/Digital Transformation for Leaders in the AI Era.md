@@ -93,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=18)** Now I'm a bestselling author.
 >
-> **[0:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=21)** By broadening your expertise in technology, data, and product management, you can drive [[Digital Transformation]] initiatives, and it's more critically important today as we are in the early stages of the GenAI era.
+> **[0:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=21)** By broadening your expertise in technology, data, and product management, you can drive [[Digital Transformation]] initiatives, and it's more critically important today as we are in the early stages of the [[Generative AI|GenAI]] era.
 >
 > **[0:36](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=36)** In this course, we'll simplify the steps to develop your vision, plan [[Agile Development|Agile]] initiatives, deliver AI innovations and drive culture change.
 >
@@ -191,7 +191,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=8)** We built websites in the late 1990s, developed mobile and social applications in the 2000s, and migrated to [[Cloud Computing]] in the 2010s.
 >
-> **[0:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=18)** We're all now experimenting with gen AI.
+> **[0:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=18)** We're all now experimenting with [[Generative AI|gen AI]].
 >
 > **[0:22](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=22)** Now ask yourself, is just adopting these technologies a [[Digital Transformation]]?
 >
@@ -455,7 +455,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=0)** - According to Wharton AI's October 2024 report, 72% of senior decision makers in US companies with over a thousand employees report using gen AI at least once weekly.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=0)** - According to Wharton AI's October 2024 report, 72% of senior decision makers in US companies with over a thousand employees report using [[Generative AI|gen AI]] at least once weekly.
 >
 > **[0:15](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=15)** At least 80% expect AI investments to rise in marketing and sales, HR operations, and IT over the next several years.
 >
@@ -1037,7 +1037,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=43)** In each sprint, you'll prioritize researching the answers, but not just the two of you.
 >
-> **[0:48](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=48)** You'll elicit the help of several gen AI tools to research, challenge your assumptions, and help draft language that can become part of your vision statement.
+> **[0:48](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=48)** You'll elicit the help of several [[Generative AI|gen AI]] tools to research, challenge your assumptions, and help draft language that can become part of your vision statement.
 >
 > **[1:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=60)** The key to validating whether big ideas or transformational use cases is to look for force-multiplying opportunities.
 >

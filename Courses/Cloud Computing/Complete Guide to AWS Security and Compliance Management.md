@@ -686,7 +686,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=149)** EC2 instances are virtual servers running in AWS.
 >
-> **[2:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=153)** AWS provides [[Software Development]] kits or SDKs for a variety of popular programming languages, including [[Java]], [[[Microsoft]].net](https://microsoft.net), Ruby, [[Python (Programming Language)|Python]], and [[PHP]] to name a few.
+> **[2:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=153)** AWS provides [[Software Development]] kits or SDKs for a variety of popular programming languages, including [[Java]], [microsoft.net](https://microsoft.net), Ruby, [[Python (Programming Language)|Python]], and [[PHP]] to name a few.
 >
 > **[2:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=169)** Under the covers, all of these SDKs use the same backend API to interact with EC2.
 >

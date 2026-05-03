@@ -75,7 +75,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leverage-red-teaming-to-build-generative-ai-solutions?u=76281980&t=0)** - We are in an era of rapid [[Generative AI]] adoption.
 >
-> **[0:03](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leverage-red-teaming-to-build-generative-ai-solutions?u=76281980&t=3)** Today, almost every organization leverages gen AI in various aspects of their business.
+> **[0:03](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leverage-red-teaming-to-build-generative-ai-solutions?u=76281980&t=3)** Today, almost every organization leverages [[Generative AI|gen AI]] in various aspects of their business.
 >
 > **[0:09](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leverage-red-teaming-to-build-generative-ai-solutions?u=76281980&t=9)** However, their biggest concern is, how to make these generative AI solutions robust, responsible, and secure?
 >
@@ -112,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/why-red-teaming-for-gen-ai?u=76281980&t=20)** Each interaction with the generative AI system can produce large volumes of text, images, or audio.
 >
-> **[0:27](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/why-red-teaming-for-gen-ai?u=76281980&t=27)** So when testing gen [[AI Solutions]], you don't just need to test them for potential attacks.
+> **[0:27](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/why-red-teaming-for-gen-ai?u=76281980&t=27)** So when testing [[Generative AI|gen AI]] solutions, you don't just need to test them for potential attacks.
 >
 > **[0:33](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/why-red-teaming-for-gen-ai?u=76281980&t=33)** You also need to evaluate their overall robustness, ethical implications, and adherence to [[Responsible AI]] practices.
 >
@@ -144,9 +144,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/understanding-common-attack-vectors-in-generative-ai-systems?u=76281980&t=0)** - To protect Gen AI systems and solutions, it is important to understand common attack vectors.
+> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/understanding-common-attack-vectors-in-generative-ai-systems?u=76281980&t=0)** - To protect [[Generative AI|Gen AI]] systems and solutions, it is important to understand common attack vectors.
 >
-> **[0:06](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/understanding-common-attack-vectors-in-generative-ai-systems?u=76281980&t=6)** Before we proceed, let's clarify the difference between Gen AI systems and Gen [[AI Solutions]].
+> **[0:06](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/understanding-common-attack-vectors-in-generative-ai-systems?u=76281980&t=6)** Before we proceed, let's clarify the difference between Gen AI systems and Gen AI solutions.
 >
 > **[0:12](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/understanding-common-attack-vectors-in-generative-ai-systems?u=76281980&t=12)** While Gen AI solutions refer to the applications or implementations of [[Generative AI]] technology to solve specific problems, Gen AI systems encompass broader infrastructure, architecture, and ecosystem.
 >
@@ -211,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/recognizing-vulnerability-implications?u=76281980&t=103)** As a leader, your analysis highlights the importance of responsible development and deployment of generative AI.
 >
-> **[1:51](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/recognizing-vulnerability-implications?u=76281980&t=111)** By understanding these vulnerabilities, you can develop a robust testing strategy for your Gen AI solution.
+> **[1:51](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/recognizing-vulnerability-implications?u=76281980&t=111)** By understanding these vulnerabilities, you can develop a robust testing strategy for your [[Generative AI|Gen AI]] solution.
 
 > [!info]- Semantic Content
 >
@@ -228,7 +228,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/explore-red-teaming-options-for-generative-ai?u=76281980&t=0)** - To make GenAI systems secure and reliable, you need to leverage a combination of various testing approaches.
+> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/explore-red-teaming-options-for-generative-ai?u=76281980&t=0)** - To make [[Generative AI|GenAI]] systems secure and reliable, you need to leverage a combination of various testing approaches.
 >
 > **[0:07](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/explore-red-teaming-options-for-generative-ai?u=76281980&t=7)** [[Red Teaming]] being one of them.
 >
@@ -275,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/tools-and-resources-for-red-teaming?u=76281980&t=43)** Another useful tool is [[Kali Linux]], which is ideal for [[Penetration Testing]].
 >
-> **[0:49](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/tools-and-resources-for-red-teaming?u=76281980&t=49)** You can use ZAP and [[Burp Suite]] to find vulnerabilities in web applications and APIs that interact with gen AI systems.
+> **[0:49](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/tools-and-resources-for-red-teaming?u=76281980&t=49)** You can use ZAP and [[Burp Suite]] to find vulnerabilities in web applications and APIs that interact with [[Generative AI|gen AI]] systems.
 >
 > **[0:57](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/tools-and-resources-for-red-teaming?u=76281980&t=57)** Tools like Robustness Gym can help design targeted attacks.
 >
@@ -346,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/building-a-red-team?u=76281980&t=89)** These people will help highlight potential harms and usability issues that users might face.
 >
-> **[1:35](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/building-a-red-team?u=76281980&t=95)** Different gen AI features require different skill sets to test effectively.
+> **[1:35](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/building-a-red-team?u=76281980&t=95)** Different [[Generative AI|gen AI]] features require different skill sets to test effectively.
 >
 > **[1:40](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/building-a-red-team?u=76281980&t=100)** When building a red team, consider the features that need to be tested.
 >
@@ -372,7 +372,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/planning-the-test?u=76281980&t=0)** - [[Red Teaming]] for gen AI is a new concept, and as such, the guidelines and the frameworks for testing are still evolving.
+> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/planning-the-test?u=76281980&t=0)** - [[Red Teaming]] for [[Generative AI|gen AI]] is a new concept, and as such, the guidelines and the frameworks for testing are still evolving.
 >
 > **[0:08](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/planning-the-test?u=76281980&t=8)** In the absence of clear red teaming guidelines for Gen AI systems, you can adopt a proactive and structured approach to ensure robustness, security, and ethical soundness.
 >
@@ -429,7 +429,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/conducting-the-test?u=76281980&t=0)** - Conducting [[Red Teaming]] tests for gen AI systems differs from traditional red teaming tests for [[Cybersecurity]].
+> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/conducting-the-test?u=76281980&t=0)** - Conducting [[Red Teaming]] tests for [[Generative AI|gen AI]] systems differs from traditional red teaming tests for [[Cybersecurity]].
 >
 > **[0:07](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/conducting-the-test?u=76281980&t=7)** It requires a multifaceted approach that considers not only technical vulnerabilities, but also ethical implications, robustness, and societal impact of gen AI systems.
 >
@@ -527,7 +527,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-best-practices-for-enhancing-robustness?u=76281980&t=0)** - While [[Red Teaming]] exposes risks and weaknesses in the Gen AI models, the onus lies on you to implement best practices to mitigate the risks.
+> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-best-practices-for-enhancing-robustness?u=76281980&t=0)** - While [[Red Teaming]] exposes risks and weaknesses in the [[Generative AI|Gen AI]] models, the onus lies on you to implement best practices to mitigate the risks.
 >
 > **[0:10](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-best-practices-for-enhancing-robustness?u=76281980&t=10)** You can take a multi-pronged approach to address these risks.
 >
@@ -566,7 +566,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/including-security-measures-into-the-development-lifecycle?u=76281980&t=0)** - As you build gen [[AI Solutions]], it's important to focus on security, reliability, and robustness right from the development planning stage rather than these being an afterthought.
+> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/including-security-measures-into-the-development-lifecycle?u=76281980&t=0)** - As you build [[Generative AI|gen AI]] solutions, it's important to focus on security, reliability, and robustness right from the development planning stage rather than these being an afterthought.
 >
 > **[0:11](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/including-security-measures-into-the-development-lifecycle?u=76281980&t=11)** While creating a development plan for your gen AI solution, consider incorporating [[Red Teaming]] throughout the development lifecycle.
 >
@@ -591,7 +591,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-continuous-learning?u=76281980&t=0)** - Gen AI outputs are not definitive.
+> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-continuous-learning?u=76281980&t=0)** - [[Generative AI|Gen AI]] outputs are not definitive.
 >
 > **[0:03](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-continuous-learning?u=76281980&t=3)** They're probabilistic.
 >
@@ -662,7 +662,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/understanding-ethical-implications-of-red-teaming?u=76281980&t=116)** After the red team exercise, conduct a thorough analysis to review the findings, identify lessons learned, and revisit the red teaming guidelines if needed.
 >
-> **[2:07](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/understanding-ethical-implications-of-red-teaming?u=76281980&t=127)** By following these steps, you can leverage red teaming to strengthen your Gen AI system while maintaining ethical practices and [[Building Trust]] within your organization.
+> **[2:07](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/understanding-ethical-implications-of-red-teaming?u=76281980&t=127)** By following these steps, you can leverage red teaming to strengthen your [[Generative AI|Gen AI]] system while maintaining ethical practices and [[Building Trust]] within your organization.
 
 > [!info]- Semantic Content
 >
@@ -680,13 +680,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980&t=0)** - Secure and responsible development are paramount to leveraging gen AI's full potential.
+> **[0:00](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980&t=0)** - Secure and responsible development are paramount to leveraging [[Generative AI|gen AI]]'s full potential.
 >
-> **[0:06](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980&t=6)** [[Red Teaming]] is such a powerful tool to help build robust and responsible gen [[AI Solutions]] that address real-world problems.
+> **[0:06](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980&t=6)** [[Red Teaming]] is such a powerful tool to help build robust and responsible gen AI solutions that address real-world problems.
 >
 > **[0:14](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980&t=14)** As next steps, explore courses on attack vectors, [[Cybersecurity]], and [[Ethical Hacking]] in the [[LinkedIn]] Learning Library.
 >
-> **[0:22](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980&t=22)** If you're still wondering on how to use gen AI, check out my course "[[Building a [[Generative AI]] Tech Strategy]]."
+> **[0:22](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980&t=22)** If you're still wondering on how to use gen AI, check out my course "[[Building a Generative AI Tech Strategy]]."
 >
 > **[0:29](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980&t=29)** For coaching on how to build a red teaming strategy, you can always reach out to me on LinkedIn.
 

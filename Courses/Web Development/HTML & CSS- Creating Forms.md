@@ -2662,7 +2662,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=306)** So at least that's one thing that it's consistent.
 >
-> **[5:09](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=309)** Going back to the style sheet, on the styled input and button, I'm going to add cursor: pointer, and what this is going to do is add a pointer when you hover over those buttons.
+> **[5:09](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=309)** Going back to the style sheet, on the styled input and button, I'm going to add [[Cursor]]: pointer, and what this is going to do is add a pointer when you hover over those buttons.
 >
 > **[5:24](https://www.linkedin.com/learning/html-css-creating-forms/styling-buttons?u=76281980&t=324)** I'm going to go back and refresh and now on the styled versions you can see when I hover over each of these buttons, you see the arrow turns into a little hand.
 >

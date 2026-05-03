@@ -259,9 +259,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=8)** We'll start by using Teams in a web browser.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=10)** Any user, regardless of your subscription type, can go to Teams.[[[Microsoft]].com](https://microsoft.com).
+> **[0:10](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=10)** Any user, regardless of your subscription type, can go to Teams.[microsoft.com](https://microsoft.com).
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=16)** This will work in most web browsers, including Chrome, Microsoft Edge, and Safari.
+> **[0:16](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=16)** This will work in most web browsers, including Chrome, [[Microsoft]] Edge, and Safari.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=21)** You will need to sign in with your account.
 >
@@ -275,7 +275,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=61)** If you are a Microsoft 365 subscriber, you can go to the Microsoft 365 website.
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=67)** That is [[[Microsoft Office|office]].com](https://office.com), and if you sign in this way, you have access to lots of different Microsoft tools.
+> **[1:07](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=67)** That is [office.com](https://office.com), and if you sign in this way, you have access to lots of different Microsoft tools.
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-on-the-web-or-the-desktop-application?u=76281980&t=75)** You can see some of them listed over here on the left.
 >
@@ -362,7 +362,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=75)** And let's take a quick look at the Teams interface for a guest user.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=80)** I'll go to teams.[[[Microsoft]].com](https://microsoft.com).
+> **[1:20](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=80)** I'll go to teams.[microsoft.com](https://microsoft.com).
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-teams-as-a-guest-client-and-contractor-access?u=76281980&t=84)** And I'll sign into the account for a user named Jennifer.
 >
@@ -1587,7 +1587,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980&t=0)** - [Instructor] In Teams, you can acknowledge messages without actually writing a response.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980&t=4)** You can point your mouse cursor at a message, and when you're pointing at it, you'll see this row of buttons will appear at the top right.
+> **[0:04](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980&t=4)** You can point your mouse [[Cursor]] at a message, and when you're pointing at it, you'll see this row of buttons will appear at the top right.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980&t=11)** That row will only be there when you're pointing at the message.
 >
@@ -3260,7 +3260,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=149)** People in the meeting will see it, but you can also let other people control this window.
 >
-> **[2:34](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=154)** To do that, you should first click somewhere on that window to make sure it's active, then move your mouse cursor up to the top of the screen, and there's an option to give control.
+> **[2:34](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=154)** To do that, you should first click somewhere on that window to make sure it's active, then move your mouse [[Cursor]] up to the top of the screen, and there's an option to give control.
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/record-and-transcribe-a-meeting-in-teams?u=76281980&t=163)** Now, I do want to point out, this may not be available, depending on your configuration.
 >
@@ -4511,7 +4511,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=11)** Now, first you could click on the command box, but a quick way to get there is to use a keyboard shortcut.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=17)** Control + E on [[Windows]] or Command + E on Mac will place your cursor directly in the command box.
+> **[0:17](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=17)** Control + E on [[Windows]] or Command + E on Mac will place your [[Cursor]] directly in the command box.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/use-the-command-box-and-trigger-quick-commands?u=76281980&t=23)** Then you can either type a slash or the at symbol.
 >
@@ -4709,7 +4709,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980&t=145)** But it's really no problem.
 >
-> **[2:26](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980&t=146)** You can just point your mouse cursor at the Teams button and it will show a floating panel where you can browse through your list of teams.
+> **[2:26](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980&t=146)** You can just point your mouse [[Cursor]] at the Teams button and it will show a floating panel where you can browse through your list of teams.
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/customize-the-sidebar-in-teams?u=76281980&t=153)** Or if you're in the Chat section and you can't see your list of chats, just point at the chat button and the floating panel will show all of your chats there.
 >
@@ -4955,7 +4955,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980&t=15)** I made the team, so I am the team owner.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980&t=18)** When I point my mouse cursor at the name of the team, this button with three dots appears to the right.
+> **[0:18](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980&t=18)** When I point my mouse [[Cursor]] at the name of the team, this button with three dots appears to the right.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/adjust-settings-and-permissions-in-a-team?u=76281980&t=22)** You can click that to open this menu, then choose Manage team.
 >
@@ -5421,7 +5421,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=83)** You can use this in either a private chat like this or in a team channel.
 >
-> **[1:27](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=87)** Just point your mouse cursor at a message and you'll see these options will appear above it.
+> **[1:27](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=87)** Just point your mouse [[Cursor]] at a message and you'll see these options will appear above it.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/make-the-teams-interface-easier-to-see-25634946?u=76281980&t=91)** Click the button with three dots to open the menu and choose immersive reader.
 >

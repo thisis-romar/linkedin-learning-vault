@@ -675,7 +675,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=188)** Now let's go to Cisco Talos, which is a global security research group that provides threat intelligence.
 >
-> **[3:16](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=196)** Now, this site is very nice because it gives you a visual on what's currently happening, and if you lay your cursor over one of the indicators, it gives you more information.
+> **[3:16](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=196)** Now, this site is very nice because it gives you a visual on what's currently happening, and if you lay your [[Cursor]] over one of the indicators, it gives you more information.
 >
 > **[3:26](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=206)** For example, we see here, this is spam, and I'll click that, and we can see more information.
 >
@@ -1641,7 +1641,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=188)** Although the guidelines are designed to provide a roadmap for US government agencies everyone is encouraged to reference the standards to learn how to secure digital data.
 >
-> **[3:19](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=199)** For more information, visit this page here at [[[NIST]].org](https://nist.org).
+> **[3:19](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=199)** For more information, visit this page here at [nist.org](https://nist.org).
 >
 > **[3:25](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=205)** Now, let's test your knowledge.
 >

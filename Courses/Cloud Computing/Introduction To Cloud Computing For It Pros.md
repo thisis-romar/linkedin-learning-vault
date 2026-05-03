@@ -892,7 +892,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=24)** We'll start with [[Google]] Apps, which allows subscribers to create and upload documents, spreadsheets, and presentations to Google's data servers where they can be shared and edited using one of the Google apps.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=38)** Specializing in web email messages are players like [[Microsoft]] with [[[Microsoft Outlook|Outlook]].com](https://Outlook.com), and Google, they have Gmail.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=38)** Specializing in web email messages are players like [[Microsoft]] with [Outlook.com](https://Outlook.com), and Google, they have Gmail.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=45)** Email messages are stored on their servers, and users can access their email from computers and mobile devices like smartphones and tablets that are connected to the internet.
 >

@@ -467,7 +467,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=120)** One thing that is often overlooked is learning to work with other developers.
 >
-> **[2:04](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=124)** So courses on good or [[[[Agile Software Development]]]] are fantastic.
+> **[2:04](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=124)** So courses on good or [[Agile Software Development]] are fantastic.
 >
 > **[2:10](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-should-your-education-plan-include?u=76281980&t=130)** You should be comfortable working with APIs, [[Application Programming Interfaces (API)|application programming interfaces]] that let you communicate with other services.
 >

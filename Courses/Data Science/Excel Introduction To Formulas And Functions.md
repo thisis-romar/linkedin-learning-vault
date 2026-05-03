@@ -2455,9 +2455,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=2)** Before I go, I would like to point out three resources that you can use to learn more about formulas and functions in [[Microsoft Excel|Excel]].
 >
-> **[0:10](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=10)** The first is the official [[Microsoft]] Support site, which is support.[[[Microsoft Office|office]].com](https://office.com).
+> **[0:10](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=10)** The first is the official [[Microsoft]] Support site, which is support.[office.com](https://office.com).
 >
-> **[0:16](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=16)** You can find information about Excel and the other office programs there.
+> **[0:16](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=16)** You can find information about Excel and the other [[Microsoft Office|office]] programs there.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=20)** The first book I'd like to recommend is [[Microsoft Excel]] step-by-step for Office 2021 and [[Microsoft 365]].
 >

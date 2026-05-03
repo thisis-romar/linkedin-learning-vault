@@ -162,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=0)** - [Narrator] Before we get started, you'll need to have at least the .NET Core development environment installed on your computer.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=6)** And if you don't already have .NET installed then in your browser go to .net.[[[Microsoft]].com](https://microsoft.com) and then click on the download button.
+> **[0:06](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=6)** And if you don't already have .NET installed then in your browser go to .net.[microsoft.com](https://microsoft.com) and then click on the download button.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=15)** Now, if this screen looks a little bit different when you visit then you can always just do a web search for .NET install and then just go from there.
 >
@@ -3835,7 +3835,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=36)** To learn more about some of the more advanced C# language features, check out the C# Collections, C# Interfaces and Generics, and C# Events, Delegates, and Lambdas courses.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=49)** And finally, if you're looking to use C# on the web or on mobile devices, take a look at the [[[ASP.NET]]](https://ASP.NET) and Xamarin related courses.
+> **[0:49](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=49)** And finally, if you're looking to use C# on the web or on mobile devices, take a look at the [ASP.NET](https://ASP.NET) and Xamarin related courses.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=58)** C# is one of my favorite languages to program in because of its rich expressiveness and wide variety of platforms you can target, and I think that after you've spent some time with the language, you'll agree that it's one of the most complete programming environments available.
 >

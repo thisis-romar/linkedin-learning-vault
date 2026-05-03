@@ -531,7 +531,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=123)** A lot of times, once you roll over a parentheses or a bracket or something, it'll highlight the matching one on the other side so that you can quickly identify the pairs.
 >
-> **[2:12](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=132)** Now, what I'd say are preferred features would be Autoindent, so that when you go down to the next line in your code it automatically puts your cursor indented to the place where it ought to be.
+> **[2:12](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=132)** Now, what I'd say are preferred features would be Autoindent, so that when you go down to the next line in your code it automatically puts your [[Cursor]] indented to the place where it ought to be.
 >
 > **[2:21](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=141)** Instead of having to hit tab a few times.
 >
@@ -739,7 +739,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=142)** ASP is my [[Microsoft]]'s version of PHP.
 >
-> **[2:26](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=146)** It's what became [[[ASP.NET]]](https://ASP.NET).
+> **[2:26](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=146)** It's what became [ASP.NET](https://ASP.NET).
 >
 > **[2:28](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=148)** ASP was something that actually existed before [ASP.NET](https://ASP.NET).
 >
@@ -1722,7 +1722,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=13)** So we're going to start diving into the world of functions.
 >
-> **[0:15](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=15)** And before we do, I just want to remind you that the [[[PHP]].net](https://php.net) website has some excellent documentation for functions, and it will tell you all of the different functions that are predefined in PHP, it'll tell you how to use them, has good users submitted tips for you, all of that's there.
+> **[0:15](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=15)** And before we do, I just want to remind you that the [php.net](https://php.net) website has some excellent documentation for functions, and it will tell you all of the different functions that are predefined in [[PHP]], it'll tell you how to use them, has good users submitted tips for you, all of that's there.
 >
 > **[0:30](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=30)** And you can browse through those if you're looking for something and you're not quite sure what it is, or if you know the name of the function you can just type it into the search bar at the top and it will return the documentation for it directly.
 >

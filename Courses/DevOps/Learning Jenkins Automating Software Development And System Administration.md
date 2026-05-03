@@ -138,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=53)** Neither of you will pay a dime in licensing or royalties.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=58)** Jenkins is also open source with all the code available on [[[GitHub]].com](https://github.com).
+> **[0:58](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=58)** Jenkins is also open source with all the code available on [github.com](https://github.com).
 >
 > **[1:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=64)** This means that anyone can submit enhancements or fixes to the code base for consideration in future releases.
 >

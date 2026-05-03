@@ -1224,7 +1224,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=93)** Normally, a window pops right up, and it says hey, the domain naming master, this is who it is, and do you want to transfer it?
 >
-> **[1:40](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=100)** But instead, I get this spinning cursor, because what it's doing is it's trying to contact that master and it cannot.
+> **[1:40](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=100)** But instead, I get this spinning [[Cursor]], because what it's doing is it's trying to contact that master and it cannot.
 >
 > **[1:48](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=108)** Now depending on the speed of your machine, this could take a few seconds, or it could take a few minutes.
 >

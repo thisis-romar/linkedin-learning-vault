@@ -1775,7 +1775,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=99)** Use each form yourself before you publish it on a page.
 >
-> **[1:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=103)** Ensure that you can navigate it smoothly and swiftly without touching your mouse, other than setting your cursor in the first field that is.
+> **[1:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=103)** Ensure that you can navigate it smoothly and swiftly without touching your mouse, other than setting your [[Cursor]] in the first field that is.
 >
 > **[1:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=111)** Considered drop down menus and radio buttons, for instance.
 >
@@ -3195,7 +3195,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=375)** We also do this when the placeholder is not shown.
 >
-> **[6:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=379)** So when there's something in the input field then we set the cursor to the pointer.
+> **[6:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=379)** So when there's something in the input field then we set the [[Cursor]] to the pointer.
 >
 > **[6:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=384)** So let's just save this and if we refresh now and we click in any of the fields, you can see how our label is going to move outside of the field and shrink and sit above the input field.
 >
@@ -4930,7 +4930,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=238)** I'll go into my 05_05.css file and paste.
 >
-> **[4:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=243)** This first rule is styling both the plus and minus button and we're just setting a border, a background color, some padding, turning the cursor to a pointer, and adding a height value.
+> **[4:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=243)** This first rule is styling both the plus and minus button and we're just setting a border, a background color, some padding, turning the [[Cursor]] to a pointer, and adding a height value.
 >
 > **[4:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=254)** Specifically for the minus, I'm going to eliminate the border on the right and I'm rounding the corners on the left edges.
 >
@@ -7172,7 +7172,7 @@ created: 2026-05-02
 >
 > **[7:59](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=479)** That's going to help to ensure that the icon stays in the middle.
 >
-> **[8:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=483)** We're adding a border radius to this element, and we're ensuring that our cursor turns to a pointer and increasing the font size.
+> **[8:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=483)** We're adding a border radius to this element, and we're ensuring that our [[Cursor]] turns to a pointer and increasing the font size.
 >
 > **[8:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=490)** On focus, I'm going to remove the outline for this particular field.
 >
@@ -7351,7 +7351,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=357)** Then I have some properties that are going to affect the text.
 >
-> **[6:01](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=361)** I'm using a transition of all, and the cursor is going to be a pointer.
+> **[6:01](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=361)** I'm using a transition of all, and the [[Cursor]] is going to be a pointer.
 >
 > **[6:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=365)** And then finally, we're using the pseudo-class of before on the fa class, and this is just telling that particular element which Font Awesome icon we want to be using.
 >

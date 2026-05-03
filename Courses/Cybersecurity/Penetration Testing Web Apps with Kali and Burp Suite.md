@@ -252,7 +252,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=152)** CD/var/www/[[HTML]].
 >
-> **[2:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=158)** Sudo [[Git]] clone [https://[[GitHub]].com/webpwnized/mutillidae.git](https://github.com/webpwnized/mutillidae.git)
+> **[2:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=158)** Sudo [[Git]] clone [https://github.com/webpwnized/mutillidae.git](https://github.com/webpwnized/mutillidae.git)
 >
 > **[2:57](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=177)** and we'll update the account details.
 >
@@ -1474,7 +1474,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=84)** Let's check the basics out with whatweb 10, dot 10, dot 10, dot 15.
 >
-> **[1:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=93)** And we see this is powered by [[[ASP.NET]]](https://ASP.NET), so we know the kind of shell will want loaded.
+> **[1:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=93)** And we see this is powered by [ASP.NET](https://ASP.NET), so we know the kind of shell will want loaded.
 >
 > **[1:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=99)** We can run [[Nikto]] to get a bit more information.
 >

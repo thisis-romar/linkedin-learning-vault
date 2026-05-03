@@ -2900,7 +2900,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980&t=142)** Contrast means making the highlights brighter and the shadows darker.
 >
-> **[2:27](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980&t=147)** So here's how we can do that using this curve, I'm going to position my cursor somewhere about the center of the curve and then double click on it.
+> **[2:27](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980&t=147)** So here's how we can do that using this curve, I'm going to position my [[Cursor]] somewhere about the center of the curve and then double click on it.
 >
 > **[2:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/color-correction-11616373?u=76281980&t=155)** When I double click the curve, it inserts a color adjustment point onto this curve, and I can move this up or down just by clicking and dragging.
 >

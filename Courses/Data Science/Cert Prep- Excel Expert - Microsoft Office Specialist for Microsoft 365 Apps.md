@@ -4012,7 +4012,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=209)** We can get help on this error.
 >
-> **[3:33](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=213)** It takes us out to the internet, to [[[Microsoft]].com](https://microsoft.com), to their support page.
+> **[3:33](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=213)** It takes us out to the internet, to [microsoft.com](https://microsoft.com), to their support page.
 >
 > **[3:39](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=219)** Very helpful.
 >

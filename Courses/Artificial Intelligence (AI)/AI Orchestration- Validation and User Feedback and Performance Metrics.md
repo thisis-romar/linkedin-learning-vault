@@ -2008,7 +2008,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=60)** In addition to DeepEval, I'm going to install the Open AI library because I'm going to be making calls to the OpenAI APIs.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=68)** We'll use DeepEval to evaluate the responses of the GPT-4o model, and I also install the [[Hugging Face]] transformers library and the datasets library.
+> **[1:08](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=68)** We'll use DeepEval to evaluate the responses of the [[GPT-4|GPT-4o]] model, and I also install the [[Hugging Face]] transformers library and the datasets library.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/llm-evaluation?u=76281980&t=78)** We'll need these libraries to access the SQuAD dataset, the question answering dataset from Stanford, which we'll use to evaluate the OpenAI GPT-4o model.
 >

@@ -2301,7 +2301,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=32)** But to pass [[OSCP]], you need to be able to interact with a remote host.
 >
-> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=37)** So you're going to have to use a network. So you'll, you know, maybe you'll call the helpdesk and you'll say, I want to reach [[[Google]].com](https://Google.com).
+> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=37)** So you're going to have to use a network. So you'll, you know, maybe you'll call the helpdesk and you'll say, I want to reach [Google.com](https://Google.com).
 >
 > **[0:45](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=45)** I'm having problems.
 >
@@ -2309,7 +2309,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=61)** Now, you want to open up a browser, so you're using your browser to go to [Google.com](https://Google.com).
 >
-> **[1:05](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=65)** Well, Google wants to be available to you and you want a reliable connection, so you'll use TCP, you'll use that three-way handshake.
+> **[1:05](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=65)** Well, [[Google]] wants to be available to you and you want a reliable connection, so you'll use TCP, you'll use that three-way handshake.
 >
 > **[1:14](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=74)** If you hear three-way handshake, it's referring to TCP.
 >
@@ -2434,7 +2434,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=53)** If you want to scan a single host, you just do Nmap and the host's IP address.
 >
-> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=57)** Or you could do [[[Google]].com](https://google.com).
+> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=57)** Or you could do [google.com](https://google.com).
 >
 > **[0:58](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=58)** Although don't use [google.com](https://google.com), use something you're authorized to scan.
 >
@@ -2638,7 +2638,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=82)** If you're strategic and you search for ports like 21, 22, 445,139, if you know these common ports, then you can accomplish your task very quickly.
 >
-> **[1:32](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=92)** Also, you can't use names like [[[Google]].com](https://Google.com).
+> **[1:32](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=92)** Also, you can't use names like [Google.com](https://Google.com).
 >
 > **[1:35](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=95)** It doesn't use DNS.
 >
@@ -3616,7 +3616,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=370)** Now, we'll talk about enumerating [[Web Servers]] a little bit later, but I told you guys to install things like Wappalyzer.
 >
-> **[6:16](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=376)** We can see the web framework is [[[ASP.NET]]](https://ASP.NET).
+> **[6:16](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=376)** We can see the web framework is [ASP.NET](https://ASP.NET).
 >
 > **[6:19](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=379)** It's a [[Windows Server]].
 >

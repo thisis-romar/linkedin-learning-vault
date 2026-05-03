@@ -127,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=0)** - [Presenter] The exercise files and notebooks, and they're compatible with any environment that works with IPython files.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=8)** For the purpose of demonstration, let's go to colab.research.[[[Google]].com](https://google.com) To upload an IPython file, click on the file icon on the top left corner, then select Upload Notebook.
+> **[0:08](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=8)** For the purpose of demonstration, let's go to colab.research.[google.com](https://google.com) To upload an IPython file, click on the file icon on the top left corner, then select Upload Notebook.
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=39)** Not all exercise requires GPU support, but to use the GPU, click on Change Runtime.
 >

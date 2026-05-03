@@ -259,7 +259,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=89)** We can use this account now to log in to the AWS console with administrator rights.
 >
-> **[1:36](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=96)** In order to set up our command line tool, you can visit aws.[amazon.com/[[CLI]]](https://amazon.com/cli) and on the right, you can see install options for [[Windows]], Mac and [[Linux]].
+> **[1:36](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=96)** In order to set up our command line tool, you can visit aws.[amazon.com/cli](https://amazon.com/cli) and on the right, you can see install options for [[Windows]], Mac and [[Linux]].
 >
 > **[1:48](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=108)** Let's go back to the console now to create an access key pair for our user.
 >
@@ -279,7 +279,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=142)** So we'll copy these values, as well as the secret key.
 >
-> **[2:33](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=153)** And we'll use this information to configure the AWS CLI tool.
+> **[2:33](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=153)** And we'll use this information to configure the AWS [[CLI]] tool.
 >
 > **[2:38](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/uses-and-access-keys?u=76281980&t=158)** Let's go to our console now to complete our setup.
 >

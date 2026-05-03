@@ -2504,7 +2504,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=297)** It says it returns a count of the values from the specified expression.
 >
-> **[5:01](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=301)** To use it, I'll place my cursor right after the equal sign in the expression up above.
+> **[5:01](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=301)** To use it, I'll place my [[Cursor]] right after the equal sign in the expression up above.
 >
 > **[5:06](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/use-aggregate-functions?u=76281980&t=306)** Then I'll double click on the count item, and that'll add the text up there into the expression.
 >
@@ -2934,7 +2934,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980&t=52)** To use it in the title, we just edit the text.
 >
-> **[0:54](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980&t=54)** I'll go ahead and double click here to put in my insertion cursor.
+> **[0:54](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980&t=54)** I'll go ahead and double click here to put in my insertion [[Cursor]].
 >
 > **[0:57](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/make-a-dynamic-report-title?u=76281980&t=57)** And actually, let's just get rid of all of that inventory by color text, And we'll put in our parameter inside of square brackets.
 >
@@ -3969,7 +3969,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980&t=131)** And in the data visualizations group we'll find the gauge icon.
 >
-> **[2:15](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980&t=135)** Now when you click it, it doesn't look like anything actually happens, but now when you move your cursor down into the report, you'll see that it's changed.
+> **[2:15](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980&t=135)** Now when you click it, it doesn't look like anything actually happens, but now when you move your [[Cursor]] down into the report, you'll see that it's changed.
 >
 > **[2:22](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980&t=142)** And this will indicate that the very next click that we make will drop a gauge into the report.
 >
@@ -4111,7 +4111,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/indicators?u=76281980&t=37)** Then, on the Insert tab, we'll find the option for Indicator.
 >
-> **[0:42](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/indicators?u=76281980&t=42)** Go ahead and click that, and your cursor will change to show you that the next thing that you add into the report will be a new indicator.
+> **[0:42](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/indicators?u=76281980&t=42)** Go ahead and click that, and your [[Cursor]] will change to show you that the next thing that you add into the report will be a new indicator.
 >
 > **[0:49](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/indicators?u=76281980&t=49)** So go over here to the cell and click to add one in.
 >

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/career-essentials-in-github-profess
 course_count: 4
 linkedin_topics:
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/software-development

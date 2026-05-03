@@ -2528,7 +2528,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980&t=7)** In a leaflet package we have two different ways to add this kind of information with labels and popups.
 >
-> **[0:14](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980&t=14)** Labels appear when a user hovers their cursor over a feature in a map, whereas popups show when a user deliberately clicks a feature in a map.
+> **[0:14](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980&t=14)** Labels appear when a user hovers their [[Cursor]] over a feature in a map, whereas popups show when a user deliberately clicks a feature in a map.
 >
 > **[0:22](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980&t=22)** These kinds of interactions were all built decades before touchscreen devices were even a consideration.
 >

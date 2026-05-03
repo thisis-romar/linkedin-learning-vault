@@ -1326,7 +1326,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=25)** I encourage you to follow along.
 >
-> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=28)** To get started, open a new notebook in colab.[[[Google]].com](https://google.com) or any [[Python (Programming Language)|Python]] programming environment.
+> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=28)** To get started, open a new notebook in colab.[google.com](https://google.com) or any [[Python (Programming Language)|Python]] programming environment.
 >
 > **[0:37](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/anatomy-of-medical-images-exploring-digital-properties-and-structure?u=76281980&t=37)** First, upload the Sample_Xray_Image.
 >
@@ -2078,7 +2078,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=9)** In this session, we will repeat the same task but this time using a pretrained architecture and a much smaller dataset.
 >
-> **[0:18](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=18)** Remember, go to colab.[[[Google]].com](https://google.com) to open the notebook, change your run time to GPU and from the provided exercise files, upload the xray_normal_pneumonia_small dataset.
+> **[0:18](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=18)** Remember, go to colab.[google.com](https://google.com) to open the notebook, change your run time to GPU and from the provided exercise files, upload the xray_normal_pneumonia_small dataset.
 >
 > **[0:39](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-a-pretrained-architecture?u=76281980&t=39)** Please note that this is a very small dataset.
 >
@@ -2291,7 +2291,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=19)** In this video, we will implement this approach using a clip based model from organ phase transformers library.
 >
-> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=28)** To get started, remember to open the Colab notebook at colab.research.[[[Google]].com](https://google.com) and upload xray_normal_pneumonia_small that is provided for you in the exercise files.
+> **[0:28](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=28)** To get started, remember to open the Colab notebook at colab.research.[google.com](https://google.com) and upload xray_normal_pneumonia_small that is provided for you in the exercise files.
 >
 > **[0:47](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/classifying-normal-vs-pneumonia-x-rays-using-zero-shot-learning?u=76281980&t=47)** Now that the upload is complete, let's copy the file path and unzip into our workspace.
 >
@@ -2471,7 +2471,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=0)** - [Instructor] In this video, we're going to practice zero-shot object detection using the CLIP-based model on X-ray images.
 >
-> **[0:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=6)** Remember to open colab.[[[Google]].com](https://google.com).
+> **[0:06](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=6)** Remember to open colab.[google.com](https://google.com).
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/zero-shot-object-detection-in-x-rays-using-clip-based-models?u=76281980&t=10)** In this instance, since we are only making inference, you don't have to use GPU instance and upload the xray_normal_pneumonia_small dataset provided for you in the Exercise File.
 >

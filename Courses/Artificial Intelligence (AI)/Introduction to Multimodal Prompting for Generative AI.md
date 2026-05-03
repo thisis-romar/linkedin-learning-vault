@@ -233,7 +233,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-and-4o?u=76281980&t=0)** - GPT4 and GPT4o are two very capable multimodal language models.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-and-4o?u=76281980&t=0)** - [[GPT-4|GPT4]] and GPT4o are two very capable multimodal language models.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-and-4o?u=76281980&t=7)** GPT stands for generative pre-trained transformer, and these models come from perhaps the most popular series of language models.
 >
@@ -321,7 +321,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=68)** Now this platform offers a unique interface called The Playground, and you can get started in The Playground, select which model you wish to use.
 >
-> **[1:19](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=79)** I'm going to go ahead and use GPT-4o, and then you can insert a system message, so say you are an interior designer.
+> **[1:19](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=79)** I'm going to go ahead and use [[GPT-4|GPT-4o]], and then you can insert a system message, so say you are an interior designer.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=94)** And you can go ahead and ask questions, you can even upload images.
 >
@@ -394,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=24)** Now it's time to put multimodality to work by turning this wireframe into a page.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=31)** So, here I am in the [[ChatGPT]] interface and I'll make sure I have GPT-4o selected.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=31)** So, here I am in the [[ChatGPT]] interface and I'll make sure I have [[GPT-4|GPT-4o]] selected.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=40)** Now I'm going to go ahead and drag this image and I'll type in my prompt.
 >
@@ -825,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=16)** To get a broad sense of the [[Generative AI]] ecosystem and what [[Prompt Engineering]] means for various tools, I can recommend my course, [[Introduction To Prompt Engineering For Generative Ai]].
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=30)** Then there's Ray Villalobos' course, [[Exploring Million-Token Models with [[Google Gemini]] Pro 1.5]].
+> **[0:30](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=30)** Then there's Ray Villalobos' course, [[Exploring Million-Token Models with Google Gemini Pro 1.5]].
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=38)** In this course, Ray looks at what such a large context window means when it comes to different input types, such as text, video, and audio.
 >

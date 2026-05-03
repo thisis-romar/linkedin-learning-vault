@@ -90,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=39)** It's a protocol that provides context for language models to interact with resources, run tools, and do whatever else you can think of.
 >
-> **[0:48](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=48)** So come hang out with me for a bit and we'll explore how to use MCPs in Claude and Cursor, and then I'll show you how to build and run your own MCP servers using [[Python (Programming Language)|Python]] and TypeScript.
+> **[0:48](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=48)** So come hang out with me for a bit and we'll explore how to use MCPs in Claude and [[Cursor]], and then I'll show you how to build and run your own MCP servers using [[Python (Programming Language)|Python]] and TypeScript.
 >
 > **[0:57](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=57)** The Model Context Protocol bridges the gap between AI tools and the tools we use every day, and I'm here to show you how to use it right.
 >
@@ -226,7 +226,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=327)** When I allow that tool, it makes a call to GitHub models and gets a complete list of all available models.
 >
-> **[5:34](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=334)** And when I give it the prompt, "compare GPT-4o-mini, Phi-3-mini, and Mistral Small using the following prompt: how many n's in the word bananas?"
+> **[5:34](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=334)** And when I give it the prompt, "compare [[GPT-4|GPT-4o]]-mini, Phi-3-mini, and Mistral Small using the following prompt: how many n's in the word bananas?"
 >
 > **[5:45](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=345)** It surfaces compare_models.
 >
@@ -266,7 +266,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980&t=61)** An MCP host is any application that wants to access data through an MCP.
 >
-> **[1:06](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980&t=66)** The hosts you'll see in this course are Claude Desktop and Cursor, but they're not the only ones.
+> **[1:06](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980&t=66)** The hosts you'll see in this course are Claude Desktop and [[Cursor]], but they're not the only ones.
 >
 > **[1:11](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980&t=71)** An MCP client is the extension to your application that maintains the protocol connection between the application and the MCP server.
 >
@@ -357,7 +357,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=98)** And what you see right away is while all the clients support tools, support for other features, like resources and prompts, are limited to only a few clients, and currently, no clients support sampling or roots.
 >
-> **[1:52](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=112)** This list is important because as you're building out your own MCPs, you may build an MCP that has both tools and resources, then run it in Claude and find it works fine, but then when you try to run the resources in Cursor, they're not working.
+> **[1:52](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=112)** This list is important because as you're building out your own MCPs, you may build an MCP that has both tools and resources, then run it in Claude and find it works fine, but then when you try to run the resources in [[Cursor]], they're not working.
 >
 > **[2:06](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=126)** The simple reason for that is Cursor does not currently support resources.
 >
@@ -477,7 +477,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-cursor?u=76281980&t=0)** - [Instructor] In the previous video, I used an MCP server installed in Claude to generate a read me file in a project, and then I demonstrated that read me file in Cursor.
+> **[0:00](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-cursor?u=76281980&t=0)** - [Instructor] In the previous video, I used an MCP server installed in Claude to generate a read me file in a project, and then I demonstrated that read me file in [[Cursor]].
 >
 > **[0:08](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-cursor?u=76281980&t=8)** But Cursor is also an MCP client, so in this video, let me show you how to install MCPs in Cursor, both at a project level and at a global level.
 >
@@ -553,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980&t=6)** In this chapter, I'm providing you with text articles, providing step-by-step instructions on how to build MCP servers using [[Python (Programming Language)|Python]] and TypeScript using the exercise files I provided in the [[GitHub]] repository for this course.
 >
-> **[0:18](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980&t=18)** I've added videos showing how to test the servers using the MCP Inspector and how to run them in Claude and Cursor.
+> **[0:18](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980&t=18)** I've added videos showing how to test the servers using the MCP Inspector and how to run them in Claude and [[Cursor]].
 >
 > **[0:24](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980&t=24)** And I even have a video showing you what happens when something goes wrong with an MCP server.
 >

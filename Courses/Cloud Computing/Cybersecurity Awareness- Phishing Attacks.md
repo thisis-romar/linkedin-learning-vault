@@ -1094,7 +1094,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=97)** Typosquatting involves purchasing domain names similar to popular websites, and using them maliciously.
 >
-> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=103)** Think [goggle.com](https://goggle.com) instead of [[[Google]].com](https://google.com).
+> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=103)** Think [goggle.com](https://goggle.com) instead of [google.com](https://google.com).
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=107)** And a watering hole attack occurs when a popular website has been compromised with a attacks like typosquatting.
 >

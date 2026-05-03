@@ -4387,7 +4387,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=195)** Test-Driven Development with [[Node.js]] will show you how to work with all these tools in a JavaScript context for writing Node apps.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=201)** And then [[[[Programming Foundations]]- Test-Driven Development]] will explore all of these concepts in a more general fashion that you can apply to any programming language.
+> **[3:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=201)** And then [[Programming Foundations- Test-Driven Development]] will explore all of these concepts in a more general fashion that you can apply to any programming language.
 >
 > **[3:29](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=209)** So those are a couple of options for where you can look next, version control and test-driven development.
 >

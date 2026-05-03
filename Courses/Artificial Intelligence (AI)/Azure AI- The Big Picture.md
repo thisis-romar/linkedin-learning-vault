@@ -2723,7 +2723,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=63)** These features include text to speech, text translation, and [[Microsoft Word|word]] highlighting, as well as customizable fonts, colors, and spacing.
 >
-> **[1:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=73)** If you'd like to see how the immersive reader looks, there's a great example available on the [[[OneNote]].com](https://onenote.com) website in the Learning Tool section.
+> **[1:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=73)** If you'd like to see how the immersive reader looks, there's a great example available on the [onenote.com](https://onenote.com) website in the Learning Tool section.
 >
 > **[1:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=80)** Click on this, Try It Out button.
 >
@@ -2751,7 +2751,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=139)** But before I do that, let's pick a line.
 >
-> **[2:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=142)** I'm going to move my cursor down here to this word.
+> **[2:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=142)** I'm going to move my [[Cursor]] down here to this word.
 >
 > **[2:25](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=145)** Now, we'll talk about this popup in a few minutes.
 >
@@ -3137,7 +3137,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=27)** If you like this broad overview of a topic, check out my three-and-a-half hour Azure: Understanding the Big Picture course.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=35)** I have other Azure-specific topics like [[Azure [[DevOps]] for Beginners]], Azure [[AI Security]], and [[Azure AI Studio]].
+> **[0:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=35)** I have other Azure-specific topics like [[Azure DevOps for Beginners]], Azure [[AI Security]], and [[Azure AI Studio]].
 >
 > **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=42)** When you tire of Azure topics, I have courses on C#, .Net, Visual Studio and many more.
 >

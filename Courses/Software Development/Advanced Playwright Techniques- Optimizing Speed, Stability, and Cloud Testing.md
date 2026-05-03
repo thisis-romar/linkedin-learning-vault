@@ -562,7 +562,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=375)** Expect. We will use the actual link and we will compare that with the link that we want to verify with.
 >
-> **[6:25](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=385)** So the link that we are following is the [[[LinkedIn]].com/i/gambar](https://linkedin.com/i/gambar).
+> **[6:25](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=385)** So the link that we are following is the [linkedin.com/i/gambar](https://linkedin.com/i/gambar).
 >
 > **[6:33](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=393)** And that's the link.
 >

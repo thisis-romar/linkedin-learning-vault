@@ -496,7 +496,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=1)** - [Presenter] A cool new feature of Databricks gen AI platform is the AI Playground.
+> **[0:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=1)** - [Presenter] A cool new feature of Databricks [[Generative AI|gen AI]] platform is the AI Playground.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=7)** Before we dive in, in how to work with it, I want to guide you in how to set it up in your test environment.
 >
@@ -581,7 +581,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=184)** And as with many other testing environments, you can also add system instructions.
 >
-> **[3:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=189)** So there are many, many GenAI capabilities in the Databricks ecosystem.
+> **[3:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=189)** So there are many, many [[Generative AI|GenAI]] capabilities in the Databricks ecosystem.
 >
 > **[3:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=194)** This is just a great starting point and can really get you up and running with selecting the best fit foundational model when working with Databricks and GenAI.
 

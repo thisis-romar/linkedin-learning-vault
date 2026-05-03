@@ -2137,7 +2137,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=44)** And then finally, we moved on to discussing APIs for data integrations and AI applications.
 >
-> **[0:50](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=50)** If you're interested in studying further, here are some other data-related topics that might interest you: [[Data Versioning, Lineage, and Quality Monitoring for AI]], and [[Secure [[Data Management]] for AI Implementation]].
+> **[0:50](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=50)** If you're interested in studying further, here are some other data-related topics that might interest you: [[Data Versioning, Lineage, and Quality Monitoring for AI]], and [[Secure Data Management for AI Implementation]].
 >
 > **[1:04](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=64)** Well, that's it from me here today.
 >

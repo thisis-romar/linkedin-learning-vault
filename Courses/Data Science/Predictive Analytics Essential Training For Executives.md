@@ -386,7 +386,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=1)** - The secret to understanding GenAI is right in the name, generative.
+> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=1)** - The secret to understanding [[Generative AI|GenAI]] is right in the name, generative.
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/can-gen-ai-and-llms-be-used-in-predictive-models?u=76281980&t=7)** That's why we can have it write an outline for us or even do something fun, like have it write a poem.
 >
@@ -1105,7 +1105,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/do-you-need-the-latest-new-techniques?u=76281980&t=31)** It usually begins with a vendor announcing a new release or some other big development in the news.
 >
-> **[0:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/do-you-need-the-latest-new-techniques?u=76281980&t=37)** Gen AI certainly has produced recent examples of this.
+> **[0:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/do-you-need-the-latest-new-techniques?u=76281980&t=37)** [[Generative AI|Gen AI]] certainly has produced recent examples of this.
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/do-you-need-the-latest-new-techniques?u=76281980&t=41)** I've had client conversations that begin with, "We want to do something with Gen AI," but the business problem seems poorly defined, and when I try to steer the conversation towards the business problem, there isn't much to talk about.
 >
@@ -1483,7 +1483,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=0)** - [[Responsible AI]] focuses on using AI in a way that's ethical, transparent, and is compliant with the increasing number of regulations being passed worldwide.
 >
-> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=11)** We made an effort early in the course to differentiate between traditional machine learning and [[Predictive Analytics]] on the one hand, and AI and particularly gen AI on the other.
+> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=11)** We made an effort early in the course to differentiate between traditional machine learning and [[Predictive Analytics]] on the one hand, and AI and particularly [[Generative AI|gen AI]] on the other.
 >
 > **[0:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/responsible-ai?u=76281980&t=22)** So, why address responsible AI in this course?
 >
@@ -1800,7 +1800,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980&t=27)** The year-over-year increase of CAOs over the last decade is more than 15%, but despite that growth, there is hardly a consensus on what the role should be or how senior leadership in analytics should be structured.
 >
-> **[0:42](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980&t=42)** According to Burtch Works, the very influential analytics recruiting firm, "a chief analytics officer is part of the [[[[Executive Leadership]]]] that leads the data analytics strategy of an organization with responsibilities ranging from building broad analytics strategies to leadership to basic management."
+> **[0:42](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980&t=42)** According to Burtch Works, the very influential analytics recruiting firm, "a chief analytics officer is part of the [[Executive Leadership]] that leads the data analytics strategy of an organization with responsibilities ranging from building broad analytics strategies to leadership to basic management."
 >
 > **[1:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/the-role-of-the-cao?u=76281980&t=66)** Even though your firm may or may not have the CAO title, here's the bottom line: Someone must have the role of maintaining the analytics portfolio, and they must be someone that has frequent and in-depth access to the goals and priorities of the C-suite.
 >
@@ -1861,7 +1861,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=139)** I'm just cautioning that it is not yet well-defined.
 >
-> **[2:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=144)** For instance, is a CAIO focused on internal use of AI, like employee use of GenAI in their roles, or are they primarily focused on client facing-AI application like chatbots, or is it primarily to ensure compliance with the rapidly increasing set of regulations addressing AI, or maybe all of these?
+> **[2:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=144)** For instance, is a CAIO focused on internal use of AI, like employee use of [[Generative AI|GenAI]] in their roles, or are they primarily focused on client facing-AI application like chatbots, or is it primarily to ensure compliance with the rapidly increasing set of regulations addressing AI, or maybe all of these?
 >
 > **[2:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/caos-cdos-caios-and-cios?u=76281980&t=171)** Of course, some would argue that AI's rapid rise and the rapid change is exactly why a central role is needed.
 >

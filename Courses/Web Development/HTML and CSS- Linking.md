@@ -931,7 +931,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980&t=125)** There's some styling, of course, we could do to this image to make it look more clickable, but we haven't gotten to the styling yet.
 >
-> **[2:11](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980&t=131)** That is your only indicator that this is a clickable image right now is that the cursor turns into a hand, click on that and you see here that we opened the Two Trees Olive Oil website inside of a new tab exactly as we told it to do.
+> **[2:11](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980&t=131)** That is your only indicator that this is a clickable image right now is that the [[Cursor]] turns into a hand, click on that and you see here that we opened the Two Trees Olive Oil website inside of a new tab exactly as we told it to do.
 >
 > **[2:26](https://www.linkedin.com/learning/html-and-css-linking/using-images-as-links?u=76281980&t=146)** So basically you can use images for linking to pages within your website or to external websites.
 >
@@ -1042,7 +1042,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=436)** Go ahead and save this, and then we can refresh our webpage,
 >
-> **[7:24](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=444)** and now you'll notice that the cursor turns into a hand here as I drag it around sort of generally on the state of Massachusetts, if I click on it, it opens up [mass.gov](https://mass.gov), which is exactly what I would expect ditto for the state of Connecticut and ditto for the state of Rhode Island, there we go.
+> **[7:24](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=444)** and now you'll notice that the [[Cursor]] turns into a hand here as I drag it around sort of generally on the state of Massachusetts, if I click on it, it opens up [mass.gov](https://mass.gov), which is exactly what I would expect ditto for the state of Connecticut and ditto for the state of Rhode Island, there we go.
 >
 > **[7:45](https://www.linkedin.com/learning/html-and-css-linking/including-several-links-within-an-image-using-image-maps?u=76281980&t=465)** So image maps are an old technique they've been around forever, they're very well supported, and in a situation like this where you have multiple areas inside of an image that you'd like to be clickable an image map is a great way to do it and an online tool like [image-map.net](https://image-map.net) is an easy way to get that code written for you.
 
@@ -1971,7 +1971,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=39)** The second option is more useful to us here.
 >
-> **[0:42](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=42)** And I talk more about the meta redirect tag as well as other meta-tags and link tags, in my course, [[[[HTML]]- [[Metadata]] in the Head]].
+> **[0:42](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=42)** And I talk more about the meta redirect tag as well as other meta-tags and link tags, in my course, [[HTML- Metadata in the Head]].
 >
 > **[0:51](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=51)** I say that this is not necessarily the best way to do this because you have to create these individual pages, you have to code them with the meta refresh.
 >
@@ -1983,7 +1983,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=84)** So let's say we're going to work here on my links page, and I'm going to redirect this from here to the [[LinkedIn]] website.
 >
-> **[1:32](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=92)** And so this is links.HTML, inside of folder 0302 in the exercise files folder.
+> **[1:32](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=92)** And so this is links.[[HTML]], inside of folder 0302 in the exercise files folder.
 >
 > **[1:41](https://www.linkedin.com/learning/html-and-css-linking/redirecting-links-within-a-webpage?u=76281980&t=101)** And I like to group my meta-tags together in the head of my document.
 >
@@ -2274,7 +2274,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=10)** If you're interested in learning more with me, there's a bunch of other courses here in the library that might be of interest to you.
 >
-> **[0:16](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=16)** First of all, [[HTML- [[Metadata]] in the Head]] talks a great deal about the meta refresh tag that I discussed in the course as well as some of the Link tags that I talked about as well.
+> **[0:16](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=16)** First of all, [[HTML- Metadata in the Head]] talks a great deal about the meta refresh tag that I discussed in the course as well as some of the Link tags that I talked about as well.
 >
 > **[0:27](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980&t=27)** And you can learn more details here.
 >

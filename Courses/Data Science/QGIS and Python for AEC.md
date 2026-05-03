@@ -580,7 +580,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=257)** And I'm going to paste that right into this new project over here.
 >
-> **[4:22](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=262)** So, we have a brand new project, I put my cursor at the end, and hit Enter.
+> **[4:22](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=262)** So, we have a brand new project, I put my [[Cursor]] at the end, and hit Enter.
 >
 > **[4:26](https://www.linkedin.com/learning/qgis-and-python-for-aec/creating-your-first-python-script?u=76281980&t=266)** So before I go any further, I'm just going to save this.
 >

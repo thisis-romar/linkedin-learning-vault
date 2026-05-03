@@ -667,7 +667,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/solidworks-2024-essential-training/navigating-in-the-3d-workspace?u=76281980&t=119)** Well, right over here, we can save the day by pushing zoom fit, it's going to bring it right back where it is.
 >
-> **[2:04](https://www.linkedin.com/learning/solidworks-2024-essential-training/navigating-in-the-3d-workspace?u=76281980&t=124)** Now if you want to zoom in on a section here, you got to put your cursor, like this little cursor here, right on that, and then zoom.
+> **[2:04](https://www.linkedin.com/learning/solidworks-2024-essential-training/navigating-in-the-3d-workspace?u=76281980&t=124)** Now if you want to zoom in on a section here, you got to put your [[Cursor]], like this little cursor here, right on that, and then zoom.
 >
 > **[2:10](https://www.linkedin.com/learning/solidworks-2024-essential-training/navigating-in-the-3d-workspace?u=76281980&t=130)** So you're going to scroll and you're going to zoom in.
 >
@@ -2471,7 +2471,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/solidworks-2024-essential-training/understanding-relationships?u=76281980&t=49)** All right, so I'm going to start with the line tool over here, and I'm going to click right where I want to start my line, right over there.
 >
-> **[0:53](https://www.linkedin.com/learning/solidworks-2024-essential-training/understanding-relationships?u=76281980&t=53)** And notice as soon as I bring that out, the cursor has turned over and is now like a little pencil letting me know that I'm in the line tool.
+> **[0:53](https://www.linkedin.com/learning/solidworks-2024-essential-training/understanding-relationships?u=76281980&t=53)** And notice as soon as I bring that out, the [[Cursor]] has turned over and is now like a little pencil letting me know that I'm in the line tool.
 >
 > **[1:01](https://www.linkedin.com/learning/solidworks-2024-essential-training/understanding-relationships?u=76281980&t=61)** All right, now check out that little number there.
 >
@@ -3911,7 +3911,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/solidworks-2024-essential-training/line-and-centerline-tools?u=76281980&t=55)** Now that leaves the command active, right?
 >
-> **[0:58](https://www.linkedin.com/learning/solidworks-2024-essential-training/line-and-centerline-tools?u=76281980&t=58)** So now that line is still connected to my cursor, and anywhere I click, it's going to make another line, right?
+> **[0:58](https://www.linkedin.com/learning/solidworks-2024-essential-training/line-and-centerline-tools?u=76281980&t=58)** So now that line is still connected to my [[Cursor]], and anywhere I click, it's going to make another line, right?
 >
 > **[1:05](https://www.linkedin.com/learning/solidworks-2024-essential-training/line-and-centerline-tools?u=76281980&t=65)** And you might not want to continue making lines.
 >
@@ -4448,7 +4448,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/solidworks-2024-essential-training/working-with-ellipses-and-conics?u=76281980&t=142)** So I'm going to zoom out a little bit.
 >
-> **[2:24](https://www.linkedin.com/learning/solidworks-2024-essential-training/working-with-ellipses-and-conics?u=76281980&t=144)** I'm going to click right over here and notice, you get this little parabola that shows up already on your cursor, right?
+> **[2:24](https://www.linkedin.com/learning/solidworks-2024-essential-training/working-with-ellipses-and-conics?u=76281980&t=144)** I'm going to click right over here and notice, you get this little parabola that shows up already on your [[Cursor]], right?
 >
 > **[2:30](https://www.linkedin.com/learning/solidworks-2024-essential-training/working-with-ellipses-and-conics?u=76281980&t=150)** So I'm going to face it up and now I'm defining how far away from kind of that center point is the parabola.
 >
@@ -5390,7 +5390,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/solidworks-2024-essential-training/trimming-and-extending-a-sketch?u=76281980&t=29)** So, I pretty much only use power trim but I want to start at the bottom and I'm going to start and show you how to trim to closest.
 >
-> **[0:36](https://www.linkedin.com/learning/solidworks-2024-essential-training/trimming-and-extending-a-sketch?u=76281980&t=36)** So trim to closest, notice my cursor now is this little pair of scissors.
+> **[0:36](https://www.linkedin.com/learning/solidworks-2024-essential-training/trimming-and-extending-a-sketch?u=76281980&t=36)** So trim to closest, notice my [[Cursor]] now is this little pair of scissors.
 >
 > **[0:40](https://www.linkedin.com/learning/solidworks-2024-essential-training/trimming-and-extending-a-sketch?u=76281980&t=40)** And if I hover over a line segment, it will turn that segment into, it looks red right now.
 >
@@ -5761,7 +5761,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/solidworks-2024-essential-training/moving-copying-rotating-and-scaling?u=76281980&t=72)** We can say, hey, from two or we can choose an XY location.
 >
-> **[1:16](https://www.linkedin.com/learning/solidworks-2024-essential-training/moving-copying-rotating-and-scaling?u=76281980&t=76)** So if you want to do like a starting point, I could say, "Hey, I want to use this point right here," and notice it just pops in and it's connected now to my cursor.
+> **[1:16](https://www.linkedin.com/learning/solidworks-2024-essential-training/moving-copying-rotating-and-scaling?u=76281980&t=76)** So if you want to do like a starting point, I could say, "Hey, I want to use this point right here," and notice it just pops in and it's connected now to my [[Cursor]].
 >
 > **[1:24](https://www.linkedin.com/learning/solidworks-2024-essential-training/moving-copying-rotating-and-scaling?u=76281980&t=84)** So if I could come over here and I could like snap it to the origin or I could put it over here, wherever you want to put it, just click and it's going to place it there.
 >
@@ -12928,7 +12928,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/solidworks-2024-essential-training/copying-moving-and-rotating-parts?u=76281980&t=19)** Now notice we've got a bunch of Assembly tools are up here and so on.
 >
-> **[0:23](https://www.linkedin.com/learning/solidworks-2024-essential-training/copying-moving-and-rotating-parts?u=76281980&t=23)** So if you [[Zoom]] in, zoom out just by rolling your scroll wheel, that's going to bring in and zoom in your display to whatever you're looking at and it's context sensitive to wherever your cursor is.
+> **[0:23](https://www.linkedin.com/learning/solidworks-2024-essential-training/copying-moving-and-rotating-parts?u=76281980&t=23)** So if you [[Zoom]] in, zoom out just by rolling your scroll wheel, that's going to bring in and zoom in your display to whatever you're looking at and it's context sensitive to wherever your [[Cursor]] is.
 >
 > **[0:34](https://www.linkedin.com/learning/solidworks-2024-essential-training/copying-moving-and-rotating-parts?u=76281980&t=34)** So if you want to look at this green part over here, put your cursor on top of that and then just start zooming in and keep your cursor directly on whatever you want to see and it's going to zoom into that.
 >
@@ -17171,7 +17171,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-model-views-to-a-drawing?u=76281980&t=45)** So I'm going to drag that one in, and notice as soon as you do it, it automatically turns on the projection view.
 >
-> **[0:51](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-model-views-to-a-drawing?u=76281980&t=51)** So I can create these projections, and notice I'm just kind moving my cursor around the outside of that part and it's showing me all the different views that I could create.
+> **[0:51](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-model-views-to-a-drawing?u=76281980&t=51)** So I can create these projections, and notice I'm just kind moving my [[Cursor]] around the outside of that part and it's showing me all the different views that I could create.
 >
 > **[1:00](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-model-views-to-a-drawing?u=76281980&t=60)** Let's go ahead and create one here to the right-hand side and then one here above, and then do an isometric view.
 >
@@ -18102,7 +18102,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-annotations?u=76281980&t=309)** You can build all this stuff out.
 >
-> **[5:11](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-annotations?u=76281980&t=311)** And then notice right over here, my cursor shows up with that Weld Symbol, so wherever you want to weld.
+> **[5:11](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-annotations?u=76281980&t=311)** And then notice right over here, my [[Cursor]] shows up with that Weld Symbol, so wherever you want to weld.
 >
 > **[5:16](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-annotations?u=76281980&t=316)** Obviously, there's no welding in this part, so it doesn't make a lot of sense.
 >
@@ -18361,7 +18361,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-special-views-to-your-drawings?u=76281980&t=240)** So breakout section right over here.
 >
-> **[4:03](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-special-views-to-your-drawings?u=76281980&t=243)** Notice my cursor turns into the spline tool.
+> **[4:03](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-special-views-to-your-drawings?u=76281980&t=243)** Notice my [[Cursor]] turns into the spline tool.
 >
 > **[4:05](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-special-views-to-your-drawings?u=76281980&t=245)** So I can create a little spline that kind of goes right through here and I'm going to make a breakout section right over there, and I'm going to say hey, I want to go down to a certain depth.
 >

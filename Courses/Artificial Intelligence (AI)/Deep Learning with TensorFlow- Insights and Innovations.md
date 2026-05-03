@@ -2442,11 +2442,11 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=0)** - [Instructor] So before we dive into the code, let's talk about TensorBoard.
 >
-> **[0:05](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=5)** Visit www.[[[TensorFlow]].org/tensorboard](https://tensorflow.org/tensorboard).
+> **[0:05](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=5)** Visit www.[tensorflow.org/tensorboard](https://tensorflow.org/tensorboard).
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=10)** So what is TensorBoard?
 >
-> **[0:12](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=12)** TensorBoard is a powerful visualization tool that comes with TensorFlow.
+> **[0:12](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=12)** TensorBoard is a powerful visualization tool that comes with [[TensorFlow]].
 >
 > **[0:17](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980&t=17)** It allows us to monitor and visualize various metrics during the training process.
 >

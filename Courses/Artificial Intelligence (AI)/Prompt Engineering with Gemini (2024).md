@@ -93,7 +93,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980&t=0)** - [[Gemini]] is [[Google]]'s new Gen AI model with powerful multimodal capabilities and integrations.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980&t=0)** - [[Gemini]] is [[Google]]'s new [[Generative AI|Gen AI]] model with powerful multimodal capabilities and integrations.
 >
 > **[0:07](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/learning-prompt-engineering-with-gemini?u=76281980&t=7)** In this course, we'll learn how to complete a variety of tasks through Gemini, like brainstorming ideas, writing emails, and summarizing your favorite YouTube videos.
 >
@@ -121,13 +121,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=0)** - [Instructor] I'm here on the [[Gemini]] website at gemini.[[[Google]].com](https://google.com).
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=0)** - [Instructor] I'm here on the [[Gemini]] website at gemini.[google.com](https://google.com).
 >
 > **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=4)** Let's get started and chat with Gemini.
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=6)** I'm going to go ahead and click on this Chat With Gemini button.
 >
-> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=9)** Now you can see here there's a terms and [[Privacy]] agreement between you and Gemini Apps via Google.
+> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=9)** Now you can see here there's a terms and [[Privacy]] agreement between you and Gemini Apps via [[Google]].
 >
 > **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/enabling-gemini?u=76281980&t=15)** So please go ahead and read through this and make sure that you understand how your data is being used.
 >
@@ -1957,7 +1957,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=3)** [[Google]] has some great resources on its website to continue your learning and keeping up to date.
 >
-> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=9)** You can also follow me on [[LinkedIn]] to stay up to date with gen AI updates.
+> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=9)** You can also follow me on [[LinkedIn]] to stay up to date with [[Generative AI|gen AI]] updates.
 >
 > **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-gemini-2024/continuing-your-prompt-engineering-journey?u=76281980&t=14)** You can also watch my other courses, like "Building AI-Powered Apps" or "Getting Hands-on with [[GPT-4]]."
 >

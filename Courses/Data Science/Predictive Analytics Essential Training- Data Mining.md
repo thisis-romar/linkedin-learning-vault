@@ -156,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=1)** - I'm very proud that the original course and the expanded version, which you're currently viewing have reached well over 100,000 data scientists and other data professionals.
 >
-> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=13)** However, several years after its first release, and with the rise of AI, especially GenAI, you may wonder about the ongoing relevance of [[Predictive Analytics]] and [[Data Mining]].
+> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=13)** However, several years after its first release, and with the rise of AI, especially [[Generative AI|GenAI]], you may wonder about the ongoing relevance of [[Predictive Analytics]] and [[Data Mining]].
 >
 > **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=25)** I'm convinced that it's as relevant as ever, and let me comment on why I believe that to be true.
 >

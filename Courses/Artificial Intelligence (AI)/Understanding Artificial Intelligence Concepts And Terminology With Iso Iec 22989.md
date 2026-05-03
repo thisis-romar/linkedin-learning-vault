@@ -634,7 +634,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=16)** Going back to our analogy of AI being a vehicle and machine learning being the engine of that vehicle, we are now going to focus on what is the composite of the machine learning engine.
 >
-> **[0:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=35)** [[Artificial Intelligence (AI)|Artificial intelligence]] is a significant capability or subfield in the AI family, which includes a very popular Gen AI as a subset.
+> **[0:35](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=35)** [[Artificial Intelligence (AI)|Artificial intelligence]] is a significant capability or subfield in the AI family, which includes a very popular [[Generative AI|Gen AI]] as a subset.
 >
 > **[0:45](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980&t=45)** Machine learning allows the computer to learn without explicit programming.
 >
@@ -991,7 +991,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=235)** Because they can remember context over long sequences, they can produce more coherent and natural sentences.
 >
-> **[4:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=241)** When you engage in [[[[Prompt Engineering]] with [[ChatGPT]]]] and refine the responses, it can remove elements of a response you don't prefer and forget that in its follow-up responses.
+> **[4:01](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=241)** When you engage in [[Prompt Engineering with ChatGPT]] and refine the responses, it can remove elements of a response you don't prefer and forget that in its follow-up responses.
 >
 > **[4:13](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/machine-learning-algorithms-part-2-clause-5-12-1-3-5-12-1-3-2?u=76281980&t=253)** You will also see LSTMs that are key in creating complex music compositions and other art and even fraud detection.
 >

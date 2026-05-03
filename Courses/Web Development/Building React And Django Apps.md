@@ -461,7 +461,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980&t=0)** - [Instructor] [[Django]] [[Representational State Transfer (REST)|REST]] framework provides multiple ways of paginating lists of items.
 >
-> **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980&t=5)** There are three ways to do this with LimitOffset, Cursor, and PageNumber.
+> **[0:05](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980&t=5)** There are three ways to do this with LimitOffset, [[Cursor]], and PageNumber.
 >
 > **[0:11](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980&t=11)** We're going to keep things simple and use PageNumber pagination.
 >
@@ -1393,7 +1393,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980&t=0)** - [Rudolf] Thanks for watching the videos and if you would like to learn more about [[React.js|React]] you can watch the React: React Router course on [[LinkedIn]] Learning or the [[[[React.js]]- Building an Interface]] LinkedIn Learning course.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980&t=0)** - [Rudolf] Thanks for watching the videos and if you would like to learn more about [[React.js|React]] you can watch the React: React Router course on [[LinkedIn]] Learning or the [[React.js- Building an Interface]] LinkedIn Learning course.
 >
 > **[0:14](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980&t=14)** And if you'd liked to learn more about [[Django]] and become a Django developer you can watch the LinkedIn learning path Become a Django Developer.
 >

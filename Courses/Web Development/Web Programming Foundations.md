@@ -971,7 +971,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=60)** In recent years, JavaScript has migrated from the browser to other environments, meaning you can now create server-side JavaScript applications and populate sites almost entirely using JavaScript.
 >
-> **[1:12](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=72)** When you visit a site like [[[LinkedIn]].com](https://linkedin.com), you're seeing a basic HTML and CSS document generated and managed almost entirely using JavaScript that loads content, adds interactivity, and makes the site feel less like a web document than an interactive application.
+> **[1:12](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=72)** When you visit a site like [linkedin.com](https://linkedin.com), you're seeing a basic HTML and CSS document generated and managed almost entirely using JavaScript that loads content, adds interactivity, and makes the site feel less like a web document than an interactive application.
 >
 > **[1:28](https://www.linkedin.com/learning/web-programming-foundations/javascript?u=76281980&t=88)** Practically speaking, JavaScript is a scripting language that allows you to write small programs that run in the browser and change the HTML and CSS of the current document.
 >
@@ -1176,7 +1176,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=12)** This knowledge becomes the foundation on which you build your web programming practice and we have all the courses to get you going.
 >
-> **[0:19](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=19)** With [[HTML]], CSS, and [[[[JavaScript]] Essential Training]] and advanced courses on [[Content Management Systems (CMS)|content management systems]], like [[WordPress]], server and front-end scripting, restful APIs, JavaScript frameworks and more, all paths are open to you, as you build your skills and learn now to make new functional, accessible, creative and inspiring content and experiences for the web.
+> **[0:19](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=19)** With [[HTML]], CSS, and [[JavaScript Essential Training]] and advanced courses on [[Content Management Systems (CMS)|content management systems]], like [[WordPress]], server and front-end scripting, restful APIs, [[JavaScript]] frameworks and more, all paths are open to you, as you build your skills and learn now to make new functional, accessible, creative and inspiring content and experiences for the web.
 >
 > **[0:41](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980&t=41)** I love hearing from you about how you use what you've learned in my courses and I'm excited to hear about your journey as you dive into [[Web Development]].
 >

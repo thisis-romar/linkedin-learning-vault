@@ -178,13 +178,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=3)** By limiting scope to code, this AI is most useful for code completion, identifying bugs, and understanding code.
 >
-> **[0:12](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=12)** This is the [[[GitHub]].com](https://github.com) [[Microsoft Copilot|Copilot]] features page.
+> **[0:12](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=12)** This is the [github.com](https://github.com) [[Microsoft Copilot|Copilot]] features page.
 >
 > **[0:15](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=15)** There's some interesting screenshots, tons of stats, and examples of how amazing Copilot is.
 >
 > **[0:24](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=24)** More valuable, are the GitHub Copilot docs.
 >
-> **[0:28](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=28)** You'll probably find that you interface with Copilot in your IDE, but it's also available via command line and in GitHub mobile.
+> **[0:28](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=28)** You'll probably find that you interface with Copilot in your IDE, but it's also available via command line and in [[GitHub]] mobile.
 >
 > **[0:36](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980&t=36)** Broadly, Copilot does two things, code completion and chat.
 >

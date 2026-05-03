@@ -98,7 +98,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/what-you-should-know?u=76281980&t=0)** - [Instructor] Before starting out, you should be familiar with the basics of [[[[Agile Software Development]]]] and [[Scrum]].
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/what-you-should-know?u=76281980&t=0)** - [Instructor] Before starting out, you should be familiar with the basics of [[Agile Software Development]] and [[Scrum]].
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/what-you-should-know?u=76281980&t=7)** If you need a refresher or are just diving in, our [[Agile Software Development]] and Scrum: Basics courses are a great place to get up to speed.
 >

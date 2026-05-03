@@ -1203,7 +1203,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=34)** This will serve as our H Plus Sport Data Warehouse.
 >
-> **[0:38](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=38)** To create your [[PostgreSQL|Postgres]] Database Instance, you can follow along as we go to www.[elephantsql.com/plans.[[HTML]]](https://elephantsql.com/plans.html).
+> **[0:38](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=38)** To create your [[PostgreSQL|Postgres]] Database Instance, you can follow along as we go to www.[elephantsql.com/plans.html](https://elephantsql.com/plans.html).
 >
 > **[0:52](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-into-relational-databases?u=76281980&t=52)** Here you can sign up and create a free TINY TURTLE Shared Instance.
 >

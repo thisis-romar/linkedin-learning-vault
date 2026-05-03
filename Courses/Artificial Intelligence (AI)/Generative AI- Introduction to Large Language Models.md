@@ -160,7 +160,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=157)** It deals with statistical models, training processes, and optimization methods that allow AI systems to adapt, improve, and evolve.
 >
-> **[2:49](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=169)** For a detailed explanation of what machine learning is, check out my [[LinkedIn]] Learning course titled, [[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]].
+> **[2:49](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=169)** For a detailed explanation of what machine learning is, check out my [[LinkedIn]] Learning course titled, [[Machine Learning with Python- Foundations]].
 >
 > **[2:58](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=178)** There are several ways to categorize AI and machine learning models.
 >
@@ -522,7 +522,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=248)** The pace since then has been nothing short of explosive.
 >
-> **[4:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=252)** In May, 2024, OpenAI launched GPT-4o, capable of [[Real-Time]] voice and vision input.
+> **[4:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=252)** In May, 2024, OpenAI launched [[GPT-4|GPT-4o]], capable of [[Real-Time]] voice and vision input.
 >
 > **[4:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=261)** Soon after, GPT-4.1 expanded context [[Windows]] to a million [[Tokens]].
 >
@@ -1609,9 +1609,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=60)** A [[LinkedIn]] Learning course search using the keywords generative AI and or large language models should yield a rich set of content that you can sink your teeth into.
 >
-> **[1:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=72)** If you want a broader understanding of AI and machine learning, you can also check out my introductory machine learning course titled "[[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]]," or any of the other courses in my "Machine Learning with Python" series.
+> **[1:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=72)** If you want a broader understanding of AI and machine learning, you can also check out my introductory machine learning course titled "[[Machine Learning with Python- Foundations]]," or any of the other courses in my "Machine Learning with [[Python (Programming Language)|Python]]" series.
 >
-> **[1:28](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=88)** If you're interested in a guided walkthrough of how to leverage generative AI for text generation or image creation, then check out Ronnie Shear's course titled, "[[Introduction To [[Prompt Engineering]] For Generative Ai]]."
+> **[1:28](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=88)** If you're interested in a guided walkthrough of how to leverage generative AI for text generation or image creation, then check out Ronnie Shear's course titled, "[[Introduction To Prompt Engineering For Generative Ai]]."
 >
 > **[1:43](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=103)** If you're interested in learning more about transformers and some of the popular large language models in use out there, then check out, "[[Generative AI- Working with Large Language Models]]," by Jonathan Fernandez.
 >

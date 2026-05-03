@@ -642,7 +642,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980&t=6)** If you want to learn more about this, we have many in-depth courses, as this was just an overview of the tools.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980&t=13)** We have [[Accessibility for [[Web Design]]]], [[Foundations of Accessible Elearning]], [[Creating Accessible PDFs]], and finally, Supporting Workers with Disabilities.
+> **[0:13](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980&t=13)** We have [[Accessibility for Web Design]], [[Foundations of Accessible Elearning]], [[Creating Accessible PDFs]], and finally, Supporting Workers with Disabilities.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980&t=24)** If you have any questions or comments, you can find me on Twitter, @Nerdgirljess, or follow me on [[LinkedIn]].
 

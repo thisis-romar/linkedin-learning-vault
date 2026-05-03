@@ -1146,7 +1146,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=92)** As we've mentioned, MVC views use a composite pattern.
 >
-> **[1:37](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=97)** In [[[ASP.NET]]](https://ASP.NET) Core MVC, any view can be treated as a single view, but can also be composed of any number of sub views that in turn can have their own sub views.
+> **[1:37](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=97)** In [ASP.NET](https://ASP.NET) Core MVC, any view can be treated as a single view, but can also be composed of any number of sub views that in turn can have their own sub views.
 >
 > **[1:51](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=111)** It allows views and sets of views to be treated in the same way.
 >
@@ -1226,7 +1226,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=93)** The exception is passed up the stack until it's handled in a try catch block.
 >
-> **[1:39](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=99)** Another great example here is the [[[ASP.NET]]](https://ASP.NET) Core middleware structure.
+> **[1:39](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=99)** Another great example here is the [ASP.NET](https://ASP.NET) Core middleware structure.
 >
 > **[1:45](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=105)** As a web request comes in, each piece of middleware decides if there are any actions to take and then decides if they need to pass the request to the next layer or not.
 >
@@ -1331,7 +1331,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980&t=0)** - [Instructor[To iterate is to move continuously forward.
 >
-> **[0:04](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980&t=4)** The iterator pattern is also known by the names cursor or enumerator.
+> **[0:04](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980&t=4)** The iterator pattern is also known by the names [[Cursor]] or enumerator.
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980&t=9)** It was in use long before it was documented and codified as a [[Software Design]] pattern.
 >

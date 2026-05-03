@@ -113,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=39)** Here, he described that you fully give into the vibes, embrace the exponentials, and forget the code even exist.
 >
-> **[0:48](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=48)** All he did was just talked to Cursor Composer, barely touch the keyboard, accept all always, and pasting air back until it is resolved.
+> **[0:48](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=48)** All he did was just talked to [[Cursor]] Composer, barely touch the keyboard, accept all always, and pasting air back until it is resolved.
 >
 > **[0:59](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/what-is-vibe-coding?u=76281980&t=59)** This captured a new, powerful, and unconventional idea about how we could work with AI.
 >
@@ -193,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=84)** Here are some coding agents that's currently on the market right now.
 >
-> **[1:30](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=90)** There are Avanti, Cursor, [[GitHub Copilot]], Windsurf, et cetera, that lives inside Neovim and VS Code or other VS Code forks.
+> **[1:30](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=90)** There are Avanti, [[Cursor]], [[GitHub Copilot]], Windsurf, et cetera, that lives inside Neovim and VS Code or other VS Code forks.
 >
 > **[1:44](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/choosing-your-coding-agent-host-vscode-and-claude-code?u=76281980&t=104)** Then there are also command line-based agents like Claude Code, from Anthropic and Codex [[CLI]] from OpenAI.
 >
@@ -292,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=27)** To help cut through the noise, we will refer to a commonly used benchmark as the artificial analysis coding index.
 >
-> **[0:36](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=36)** This benchmark evaluates coding performances across popular language models like Claude4 Sonnet, open AI's GPT4 mini, Gemini2.5, DeepSeek R1, and many, many others.
+> **[0:36](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=36)** This benchmark evaluates coding performances across popular language models like Claude4 Sonnet, open AI's [[GPT-4|GPT4]] mini, Gemini2.5, DeepSeek R1, and many, many others.
 >
 > **[0:50](https://www.linkedin.com/learning/structured-vibe-coding-with-ai-coding-agents/equipping-agents-essential-tools-and-mcps?u=76281980&t=50)** However, while benchmarking can help, they don't always reflect the full picture as some models could cost more or be less available versus the others.
 >

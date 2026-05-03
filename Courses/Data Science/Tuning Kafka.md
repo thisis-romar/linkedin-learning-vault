@@ -2739,7 +2739,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=34)** If you're interested in [[Big Data]] processing here are some other courses on [[LinkedIn]] Learning that you could watch.
 >
-> **[0:40](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=40)** [[[[Apache Spark]] Essential Training- Big Data Engineering]], Deploying and Running Apache Kafka on [[Kubernetes]], or Stream Processing [[Design Patterns]] with Kafka Streams.
+> **[0:40](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=40)** [[Apache Spark Essential Training- Big Data Engineering]], Deploying and Running Apache Kafka on [[Kubernetes]], or Stream Processing [[Design Patterns]] with Kafka Streams.
 >
 > **[0:51](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=51)** It's time for me to say goodbye.
 >

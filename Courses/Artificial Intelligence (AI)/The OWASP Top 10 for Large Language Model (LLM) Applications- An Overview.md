@@ -127,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-the-owasp-and-top-10-list?u=76281980&t=30)** They are best known for creating open standards, tools, and training resources that help developers and security teams build safer systems.
 >
-> **[0:41](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-the-owasp-and-top-10-list?u=76281980&t=41)** It's now part of the broader OWASP gen [[AI Security]] project, which covers a wide range of [[Generative AI]] risks.
+> **[0:41](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-the-owasp-and-top-10-list?u=76281980&t=41)** It's now part of the broader OWASP [[Generative AI|gen AI]] security project, which covers a wide range of [[Generative AI]] risks.
 >
 > **[0:50](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-the-owasp-and-top-10-list?u=76281980&t=50)** One of their most well-known contributions is the OWASP Top 10, which outlines the most common vulnerabilities in traditional web applications.
 >

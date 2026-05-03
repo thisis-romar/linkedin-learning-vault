@@ -1574,7 +1574,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=29)** And here you can just select Models over on the left, and then you can select models based on the different providers, their capability, and then their functionality, so things like whether you need a model that has low latency, whether you want a model that can handle multiple languages, and so on.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=51)** Now the OpenAI models in general are pretty good, so I'm going to use the GPT-4o mini as my benchmark, and I want to compare this to one of these smaller models.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=51)** Now the OpenAI models in general are pretty good, so I'm going to use the [[GPT-4|GPT-4o]] mini as my benchmark, and I want to compare this to one of these smaller models.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-large-language-models/llm-trends?u=76281980&t=61)** And so let's pick one from the Low latency list.
 >

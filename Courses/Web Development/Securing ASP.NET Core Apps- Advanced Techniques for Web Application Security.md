@@ -92,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980&t=19)** Hi, my name is Ervis Trupja and I'm a freelance full stack developer and trainer.
 >
-> **[0:25](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980&t=25)** In this course, you learn how to prevent common vulnerabilities in your .NET applications, and how to use the [[[ASP.NET]]](https://ASP.NET) identity framework to secure your data.
+> **[0:25](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980&t=25)** In this course, you learn how to prevent common vulnerabilities in your .NET applications, and how to use the [ASP.NET](https://ASP.NET) identity framework to secure your data.
 >
 > **[0:38](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980&t=38)** You'll also discover the benefits of using different types of authentication and authorization to build secure applications for your users.
 >
@@ -113,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980&t=6)** This is a .NET security course and I'll be using two different apps so you can better learn things by doing.
 >
-> **[0:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980&t=14)** I'm going to use an [[[ASP.NET]]](https://ASP.NET) MVC app, and an [ASP.NET](https://ASP.NET) Web API app.
+> **[0:14](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980&t=14)** I'm going to use an [ASP.NET](https://ASP.NET) MVC app, and an [ASP.NET](https://ASP.NET) Web API app.
 >
 > **[0:20](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-you-should-know?u=76281980&t=20)** Any experience with these frameworks is recommended, but it is not required.
 >
@@ -658,7 +658,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=0)** - [Instructor] Before we get started with the authentication types, let us talk about the [[[ASP.NET]]](https://ASP.NET) Identity.
+> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=0)** - [Instructor] Before we get started with the authentication types, let us talk about the [ASP.NET](https://ASP.NET) Identity.
 >
 > **[0:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=7)** [ASP.NET](https://ASP.NET) Identity is an API which is built by [[Microsoft]] with all the default features that are necessary to set up an authentication system.
 >
@@ -763,7 +763,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=7)** And that is easily done by using the authorize attribute.
 >
-> **[0:11](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=11)** Before we check how to add the authorize attribute, let us go to Visual Studio and check how the default configuration of the [[[ASP.NET]]](https://ASP.NET) identity is done.
+> **[0:11](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=11)** Before we check how to add the authorize attribute, let us go to Visual Studio and check how the default configuration of the [ASP.NET](https://ASP.NET) identity is done.
 >
 > **[0:23](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/simple-authentication-with-authorize-attribute?u=76281980&t=23)** In Visual Studio let us start with the solution explorer and then in here go to the Program.cs.
 >
@@ -910,7 +910,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980&t=109)** So ervis@[trupja.com](https://trupja.com), then the password is trupja@1, and I click the login button.
 >
-> **[1:59](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980&t=119)** You'll see that once you click the login button, a record is added in the cookies section which is AspNetCore.Identitiy.Application, and this is the default cookie name for the [[[ASP.NET]]](https://ASP.NET) Identity.
+> **[1:59](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980&t=119)** You'll see that once you click the login button, a record is added in the cookies section which is AspNetCore.Identitiy.Application, and this is the default cookie name for the [ASP.NET](https://ASP.NET) Identity.
 >
 > **[2:16](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/cookie-based-authentication?u=76281980&t=136)** So you can see that our app by default is using the cookie-based authentication.
 >
@@ -1512,7 +1512,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980&t=104)** Now, this is just a really high level overview of the token-based authentication, because there are a lot of benefits that come with using token-based authentication, which definitely cannot be mentioned in a single video.
 >
-> **[1:58](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980&t=118)** For that, I've created a detailed course named, "[[[ASP.NET]]](https://ASP.NET) Core: Token-Based Authentication", which you can find in [[LinkedIn]] Learning Library.
+> **[1:58](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980&t=118)** For that, I've created a detailed course named, "[ASP.NET](https://ASP.NET) Core: Token-Based Authentication", which you can find in [[LinkedIn]] Learning Library.
 >
 > **[2:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/token-based-authentication?u=76281980&t=127)** This course is going to teach everything you need to know about token-based authentications, so go and check it out.
 
@@ -1553,7 +1553,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=71)** But in the authorization, we do also check the user roles and other credentials of the user.
 >
-> **[1:18](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=78)** In [[[ASP.NET]]](https://ASP.NET), we can implement different authorization types.
+> **[1:18](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=78)** In [ASP.NET](https://ASP.NET), we can implement different authorization types.
 >
 > **[1:22](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980&t=82)** Some of these authorization types are the simple role-based authorization, the claims-based authorization, and the resource-based authorization for which we are going to talk more in the upcoming parts.
 
@@ -1935,7 +1935,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=13)** We started by talking about the common security vulnerabilities like different injection attacks, the file upload attack, the authentication attack, and much more.
 >
-> **[0:23](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=23)** Then next, you learned how to add authentication to an [[[ASP.NET]]](https://ASP.NET) application, and you learned about the simple authentication, the cookie-based authentication, [[Google]] authentication, API key, and token based.
+> **[0:23](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=23)** Then next, you learned how to add authentication to an [ASP.NET](https://ASP.NET) application, and you learned about the simple authentication, the cookie-based authentication, [[Google]] authentication, API key, and token based.
 >
 > **[0:39](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=39)** By the end of this course, you also learned about authorization and you learned how to add simple role-based authorization, claims-based authorization, and the resource-based authorization to an [ASP.NET](https://ASP.NET) application.
 >

@@ -4690,7 +4690,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=2)** Before I go, I'd like to point out some further resources that you can use to learn more about PivotTables in [[Microsoft Excel|Excel]].
 >
-> **[0:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=10)** First, of course, is the support.[[[Microsoft Office|office]].com](https://office.com) website.
+> **[0:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=10)** First, of course, is the support.[office.com](https://office.com) website.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=15)** There's all kinds of terrific information available there.
 >

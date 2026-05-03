@@ -1243,7 +1243,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=0)** - [Instructor] Data augmentation and GenAI is basically a way of artificially expanding training datasets to improve model performance.
+> **[0:00](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=0)** - [Instructor] Data augmentation and [[Generative AI|GenAI]] is basically a way of artificially expanding training datasets to improve model performance.
 >
 > **[0:08](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980&t=8)** Now, one of the ways we can improve model performance is by reducing overfitting.
 >

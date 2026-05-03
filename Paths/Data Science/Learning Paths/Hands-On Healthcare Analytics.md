@@ -9,7 +9,7 @@ linkedin_topics:
   - DevOps
   - Network and System Administration
   - Software Development
-louvain_cluster: 18
+louvain_cluster: 17
 tags:
   - learning-path
   - topic/data-science

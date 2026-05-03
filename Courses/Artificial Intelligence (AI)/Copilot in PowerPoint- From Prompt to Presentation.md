@@ -804,7 +804,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980&t=77)** Our new generated image of a presenter in a remote meeting and Copilot also returns a description of the new image below.
 >
-> **[1:26](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980&t=86)** When I put my cursor over the image, notice that there's a few icons here.
+> **[1:26](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980&t=86)** When I put my [[Cursor]] over the image, notice that there's a few icons here.
 >
 > **[1:30](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/generate-a-new-image?u=76281980&t=90)** Let me reposition this.
 >

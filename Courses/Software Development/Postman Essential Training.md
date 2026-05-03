@@ -1104,7 +1104,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=94)** Before we set the variable value, we need to parse the response data we're going to get as [[JSON]].
 >
-> **[1:41](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=101)** So put your cursor at the beginning of line one and then click Return.
+> **[1:41](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=101)** So put your [[Cursor]] at the beginning of line one and then click Return.
 >
 > **[1:46](https://www.linkedin.com/learning/postman-essential-training-21969591/saving-response-data-as-a-variable?u=76281980&t=106)** So we've added in a new line and now, we're going to type in var jsonData equals pm.response.json and then an open and closed parentheses and then a semicolon.
 >
@@ -1514,7 +1514,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980&t=82)** So to do that, click at the end of the existing test and click return.
 >
-> **[1:27](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980&t=87)** So the cursor is on line four.
+> **[1:27](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980&t=87)** So the [[Cursor]] is on line four.
 >
 > **[1:30](https://www.linkedin.com/learning/postman-essential-training-21969591/header-and-response-time-assertions?u=76281980&t=90)** And now let's look for our snippet.
 >
@@ -1834,7 +1834,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980&t=47)** Now we're going to be adding in another test.
 >
-> **[0:50](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980&t=50)** So put your cursor at the end of the line three, and we'll click Return.
+> **[0:50](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980&t=50)** So put your [[Cursor]] at the end of the line three, and we'll click Return.
 >
 > **[0:56](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980&t=56)** And now we will find our snippet.
 >

@@ -3712,7 +3712,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=35)** For example, in this manifest, which defines Ingress routes that direct traffic coming into the cluster, we need to use different values for the host property for staging and production.
 >
-> **[0:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=48)** The staging cluster we'll use staging.landon.[[[LinkedIn]].io](https://linkedin.io), and the production cluster, we'll use the value that we see here, landon.[linkedin.io](https://linkedin.io).
+> **[0:48](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=48)** The staging cluster we'll use staging.landon.[linkedin.io](https://linkedin.io), and the production cluster, we'll use the value that we see here, landon.[linkedin.io](https://linkedin.io).
 >
 > **[0:59](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/managing-kubernetes-resources-with-kustomize?u=76281980&t=59)** Kustomize allows us to use the same YAML configuration files for these environments.
 >

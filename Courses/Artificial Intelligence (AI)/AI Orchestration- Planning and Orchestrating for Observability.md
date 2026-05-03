@@ -1563,7 +1563,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=410)** With our prompt template in place, let's go ahead and also prepare our model integration, our output parser.
 >
-> **[6:57](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=417)** So openAIModel, (keyboard clacks) and let's set up our integration to use the gpt-4o model, and while we are at that, I set up our parser.
+> **[6:57](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=417)** So openAIModel, (keyboard clacks) and let's set up our integration to use the [[GPT-4|gpt-4o]] model, and while we are at that, I set up our parser.
 >
 > **[7:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=437)** So we have configured our OpenAI integration to use the [[GPT-4]] model, and we have also set up our output parser, which is a string output parser.
 >

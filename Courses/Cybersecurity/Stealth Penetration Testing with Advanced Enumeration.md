@@ -536,7 +536,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=9)** The implant itself is a single line of PHP code, which needs to be installed at some location in the website.
 >
-> **[0:16](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=16)** We'll clone the tool [[Git]] clone HTTPS [[[GitHub]].com](https://github.com) nil 0x42 PhpSploit.
+> **[0:16](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=16)** We'll clone the tool [[Git]] clone HTTPS [github.com](https://github.com) nil 0x42 PhpSploit.
 >
 > **[0:40](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=40)** Okay. And then we need to go into PhpSploit and pip3 install -r.
 >

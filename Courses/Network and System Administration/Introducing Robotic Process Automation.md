@@ -938,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=15)** And while I've seen a lot of hyped and inflated expectations and some frankly crazy ROI claims, the fact still remains, handling tasks using digital labor can make a lot of sense and save a lot of dollars and cents.
 >
-> **[0:29](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=29)** What's more, chances are very good that your [[[[Executive Leadership]]]] is already aware of this.
+> **[0:29](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=29)** What's more, chances are very good that your [[Executive Leadership]] is already aware of this.
 >
 > **[0:35](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=35)** I've been fascinated by what I'm calling the top-down mandate.
 >
@@ -1095,7 +1095,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=46)** For example, the rule-based nature of RPA can be leveraged to maximize compliance or for operational agility in the face of surging demand Automated processes can be performed around the clock and can be scaled against a large and flexible workforce.
 >
-> **[1:02](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=62)** All are good things to tell investors, shareholders and [[[[Executive Leadership]]]].
+> **[1:02](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=62)** All are good things to tell investors, shareholders and [[Executive Leadership]].
 >
 > **[1:06](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=66)** So keep this in mind when building your business case.
 >

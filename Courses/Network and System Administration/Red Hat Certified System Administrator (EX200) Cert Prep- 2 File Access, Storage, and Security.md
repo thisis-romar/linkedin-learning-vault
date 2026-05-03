@@ -4053,7 +4053,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=74)** If you want to access files on the Linux host using windows without setting up a complex network file system, you can use winSCP.
 >
-> **[1:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=82)** Let's go back to our web browser, and let's browse to [winscp.net/eng/download.[[PHP]]](https://winscp.net/eng/download.php).
+> **[1:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=82)** Let's go back to our web browser, and let's browse to [winscp.net/eng/download.php](https://winscp.net/eng/download.php).
 >
 > **[1:31](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/access-linux-from-windows-using-putty?u=76281980&t=91)** And we'll click on the installation package.
 >

@@ -919,7 +919,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980&t=91)** Well, as you can see there are no classes here telling us what CSS to use.
 >
-> **[1:35](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980&t=95)** So instead, if you go to nav-social.css you'll see that we're using this attribute here; a[href*="[dribble.com](https://dribble.com)"], [[[Facebook]].com](https://facebook.com) and so on.
+> **[1:35](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980&t=95)** So instead, if you go to nav-social.css you'll see that we're using this attribute here; a[href*="[dribble.com](https://dribble.com)"], [facebook.com](https://facebook.com) and so on.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/creating-a-social-media-menu?u=76281980&t=109)** So what we're doing here is saying if there's an anchor that has an href attribute that contains within it [dribble.com](https://dribble.com) then display the following icon.
 >

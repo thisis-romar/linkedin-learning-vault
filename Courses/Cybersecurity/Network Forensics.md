@@ -1631,9 +1631,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=44)** This is why we need a DNS server in the cloud somewhere.
 >
-> **[0:50](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=50)** Converting a meaningful domain name like worldwideweb.[[[LinkedIn]].com](https://linkedin.com) into an IP address.
+> **[0:50](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=50)** Converting a meaningful domain name like worldwideweb.[linkedin.com](https://linkedin.com) into an IP address.
 >
-> **[0:58](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=58)** Network equipment only understands IP addresses unlike humans who prefer a name like LinkedIn.
+> **[0:58](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=58)** Network equipment only understands IP addresses unlike humans who prefer a name like [[LinkedIn]].
 >
 > **[1:08](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=68)** Every host is set up to use a specific DNS server.
 >
@@ -1949,7 +1949,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=71)** Let's generate some more traffic by opening up our web browser.
 >
-> **[1:16](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=76)** I'll type the domain name, worldwideweb.[[[LinkedIn]].com](https://linkedin.com).
+> **[1:16](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=76)** I'll type the domain name, worldwideweb.[linkedin.com](https://linkedin.com).
 >
 > **[1:21](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=81)** Press Enter.
 >
@@ -2059,13 +2059,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=4)** It shows all the HTTP or its encrypted version, HTTPS connections on my local host.
 >
-> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=14)** In my Chrome web browser, let's open the [[[LinkedIn]].com](https://linkedin.com) start page.
+> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=14)** In my Chrome web browser, let's open the [linkedin.com](https://linkedin.com) start page.
 >
 > **[0:20](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=20)** Let's go back to Fiddler.
 >
 > **[0:23](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=23)** Check out all the HTTP and HTTPS connections.
 >
-> **[0:28](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=28)** The LinkedIn website just created.
+> **[0:28](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=28)** The [[LinkedIn]] website just created.
 >
 > **[0:32](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=32)** There are a few here.
 >
@@ -2349,7 +2349,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=19)** These courses will give you a very good exposure to network security.
 >
-> **[0:24](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=24)** I also recommend that you take my other forensics courses, including [[[[Cybersecurity]] Foundations]] [[Computer Forensics]], [[Operating System Forensics]], and Web Forensics.
+> **[0:24](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=24)** I also recommend that you take my other forensics courses, including [[Cybersecurity Foundations]] [[Computer Forensics]], [[Operating System Forensics]], and Web Forensics.
 >
 > **[0:38](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=38)** Thank you again and see you next time.
 

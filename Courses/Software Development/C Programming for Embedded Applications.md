@@ -2258,7 +2258,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=218)** Notice that the signal seems to stay high most of the time, and it goes low periodically, very briefly, just as we would expect from the code.
 >
-> **[3:49](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=229)** To make a measurement, make sure the cursor is enabled in the check boxes at the right.
+> **[3:49](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=229)** To make a measurement, make sure the [[Cursor]] is enabled in the check boxes at the right.
 >
 > **[3:54](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lut-vs-function-example-in-keil?u=76281980&t=234)** Now, click on the leftmost low point of the signal.
 >

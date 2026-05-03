@@ -970,7 +970,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=216)** Before you deploy your application into your production environment, utilize specialized tools that test the application for commonly found security weaknesses.
 >
-> **[3:46](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=226)** This type of application testing is known as [[Dynamic [[Application Security]] Testing]], or DAST in short.
+> **[3:46](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=226)** This type of application testing is known as [[Dynamic Application Security Testing]], or DAST in short.
 
 > [!info]- Semantic Content
 >

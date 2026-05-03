@@ -3349,7 +3349,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=2)** I hope you enjoyed learning along with me about some of [[Python (Programming Language)|Python]]'s more advanced language features, and now that you've seen what the Python language is capable of, maybe you might want to check out some ways you can apply your newfound skills.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=16)** I would suggest maybe taking a look at learning Python GUI programming to see how you can build user interfaces with Python, or maybe check out [[Python [[Object-Oriented Programming (OOP)|Object-Oriented Programming]]]] to learn more about building Python programs at scale.
+> **[0:16](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=16)** I would suggest maybe taking a look at learning Python GUI programming to see how you can build user interfaces with Python, or maybe check out [[Python Object-Oriented Programming]] to learn more about building Python programs at scale.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=29)** Whatever you choose to do next, don't forget to keep your Python skills up to date by reading up on the [python.org](https://python.org) website.
 >

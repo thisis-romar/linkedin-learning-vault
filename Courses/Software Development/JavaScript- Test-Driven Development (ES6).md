@@ -624,7 +624,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=95)** All that matters to you is that when you click the Buy button, it takes you to the Checkout page.
 >
-> **[1:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=100)** In order to test this kind of functionality for end-to-end testing, we use tools that allow us to simulate an actual web browser and these are tools like [[Selenium]] or [[[Cypress.io]]](https://Cypress.io), which help us to test the actual [[User Experience (UX)|user experience]] instead of the underlying code.
+> **[1:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=100)** In order to test this kind of functionality for end-to-end testing, we use tools that allow us to simulate an actual web browser and these are tools like [[Selenium]] or [Cypress.io](https://Cypress.io), which help us to test the actual [[User Experience (UX)|user experience]] instead of the underlying code.
 >
 > **[1:55](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=115)** So now that we know the three basic types of tests, the actual amount of tests that you'll write depends on the category and generally the vast majority of tests that you'll write as a developer will be unit tests.
 >
@@ -1683,7 +1683,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=17)** In other words, we don't need any special test environments or anything to run our integration tests.
 >
-> **[0:22](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=22)** Now just as a side note here, the exception to this would be if you wanted to actually render your front end in a headless browser, in which case you would need to use something like PhantomJS or [[[Cypress.io]]](https://Cypress.io), but that's beyond the scope of this course.
+> **[0:22](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=22)** Now just as a side note here, the exception to this would be if you wanted to actually render your front end in a headless browser, in which case you would need to use something like PhantomJS or [Cypress.io](https://Cypress.io), but that's beyond the scope of this course.
 >
 > **[0:35](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=35)** So besides Mocha and Chai, there are two main other libraries that we're going to be using in this section.
 >

@@ -2508,13 +2508,13 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=262)** Don't forget to escape or encode any special characters or spaces.
 >
-> **[4:27](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=267)** More info about the REST API is available in the developer documentation at developer.[[[Atlassian]].com](https://atlassian.com).
+> **[4:27](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=267)** More info about the REST API is available in the developer documentation at developer.[atlassian.com](https://atlassian.com).
 >
 > **[4:36](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=276)** Further, server and data center users can also directly query the database.
 >
 > **[4:41](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=281)** But be careful, only change data directly in the database as a last resort.
 >
-> **[4:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=288)** There are also third-party apps in the Atlassian Marketplace that help you access additional information.
+> **[4:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=288)** There are also third-party apps in the [[Atlassian]] Marketplace that help you access additional information.
 
 > [!info]- Semantic Content
 >

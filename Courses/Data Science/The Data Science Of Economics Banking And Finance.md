@@ -1123,7 +1123,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=366)** But even more than that, they create a great sense of distrust with the people that you're supposed to be operating with.
 >
-> **[6:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=374)** Now, if you want more information on these, I go into greater depth in another course called [[AI [[Accountability]]- Build Responsible and Transparent Systems]], which talks about some of the challenges that are inherent in these machine-based approaches to decisions.
+> **[6:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=374)** Now, if you want more information on these, I go into greater depth in another course called [[AI Accountability- Build Responsible and Transparent Systems]], which talks about some of the challenges that are inherent in these machine-based approaches to decisions.
 >
 > **[6:27](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=387)** But remember, even with these challenges, there are some enormous potential benefits of convenience and speed for the applicants and the ability to work through a very large number of applications very quickly and maybe get a higher level of precision for the people processing the applications.
 >
@@ -1283,7 +1283,7 @@ created: 2026-05-02
 >
 > **[7:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=434)** Now I'm going to suggest that if you want to find out more about this, you take a look at a couple of different courses that are available here on [[LinkedIn]] Learning, both of them produced by my colleague Keith McCormick.
 >
-> **[7:25](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=445)** The first one is [[Machine Learning and AI Foundations- [[Causal Inference]] and Modeling]].
+> **[7:25](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=445)** The first one is [[Machine Learning and AI Foundations- Causal Inference and Modeling]].
 >
 > **[7:31](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=451)** And then the second one is Machine Learning and AI Foundations, again, same series, Prediction, Causation, and Statistical Inference.
 >

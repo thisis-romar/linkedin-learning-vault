@@ -478,7 +478,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=122)** It's probably just somebody opened or closed or put on hold one of the lifts.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=127)** Another little tip about the Playground, whenever we're working in the context of a query, in other words, when my cursor is between these two curly braces, I can hit Ctrl + Space and this is going to surface all the different fields that I can query.
+> **[2:07](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=127)** Another little tip about the Playground, whenever we're working in the context of a query, in other words, when my [[Cursor]] is between these two curly braces, I can hit Ctrl + Space and this is going to surface all the different fields that I can query.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=144)** So, I don't have to memorize this.
 >

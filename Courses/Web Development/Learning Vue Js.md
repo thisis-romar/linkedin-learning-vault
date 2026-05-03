@@ -1169,7 +1169,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=132)** So I'm going to add a static style attribute but we'll make it dynamic in a moment.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=138)** And I'm just going to add text align center and cursor pointer so that the user knows that they can click here.
+> **[2:18](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=138)** And I'm just going to add text align center and [[Cursor]] pointer so that the user knows that they can click here.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=147)** They won't be able to click on text size, that's okay for now, but then we'll add a span that they can click on, which will increment font size.
 >
@@ -1583,7 +1583,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980&t=29)** That's where slots come in handy.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980&t=31)** So down in the read more template, if I just change this link text, to a slot element, with open and close tags, that becomes a placeholder for any content that's between the read more tags in the main template, meaning anything that's between, the open and closed tags there where the cursor is now.
+> **[0:31](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980&t=31)** So down in the read more template, if I just change this link text, to a slot element, with open and close tags, that becomes a placeholder for any content that's between the read more tags in the main template, meaning anything that's between, the open and closed tags there where the [[Cursor]] is now.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980&t=55)** So I could put the read more text there, and the main template now, but, let's try something a little different, and I'll wrap it in EM tags, just to make sure that this is working when I refresh, I'll say click here to read more.
 >

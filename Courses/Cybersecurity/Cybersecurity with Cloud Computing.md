@@ -1495,7 +1495,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/anatomy-of-a-business-failure?u=76281980&t=7)** Let's look at how a security issue resulted, over 12-hour period, in collapse for one business.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/anatomy-of-a-business-failure?u=76281980&t=14)** [[[Codespaces]].com](https://CodeSpaces.com) was a code hosting and project management services provider running its complete IT infrastructure in the Amazon Cloud.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/anatomy-of-a-business-failure?u=76281980&t=14)** [CodeSpaces.com](https://CodeSpaces.com) was a code hosting and project management services provider running its complete IT infrastructure in the Amazon Cloud.
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/anatomy-of-a-business-failure?u=76281980&t=23)** It took security seriously, and had stated before the attack that its hosting services had full redundancy, high availability, and performed [[Real-Time]] backups to multiple offsite locations.
 >

@@ -2178,7 +2178,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=209)** Auto incrementation, and constraints like uniqueness are more advanced than we'll get into here.
 >
-> **[3:34](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=214)** These constraints help to preserve the integrity of the database, and there's something you'll learn about in a course on [[Relational Databases]] like [[[[Programming Foundations]] [[Databases]]]].
+> **[3:34](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=214)** These constraints help to preserve the integrity of the database, and there's something you'll learn about in a course on [[Relational Databases]] like [[Programming Foundations Databases]].
 >
 > **[3:43](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=223)** And something you'll work with when you move on to using [[SQL]] is a data definition language to build your own tables.
 >

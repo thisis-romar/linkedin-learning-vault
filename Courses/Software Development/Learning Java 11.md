@@ -963,7 +963,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=98)** It is created out of organizing char data pieces in a significant way.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=103)** The deeper meaning behind reference types is out of the scope of this course, but I highly recommend you check out [[[[Programming Foundations]]- [[Data Structures]]]] to find out more.
+> **[1:43](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=103)** The deeper meaning behind reference types is out of the scope of this course, but I highly recommend you check out [[Programming Foundations- Data Structures]] to find out more.
 >
 > **[1:56](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=116)** Now that we know about strings, let's create a string in Java.
 >
@@ -3665,7 +3665,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=30)** Or the Java Code Clinic series here on [[LinkedIn]] Learning.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=34)** If you want to build advanced programs that store more complicated data, check out my course, [[[[Programming Foundations]]- [[Data Structures]]]].
+> **[0:34](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=34)** If you want to build advanced programs that store more complicated data, check out my course, [[Programming Foundations- Data Structures]].
 >
 > **[0:43](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=43)** Good luck.
 >

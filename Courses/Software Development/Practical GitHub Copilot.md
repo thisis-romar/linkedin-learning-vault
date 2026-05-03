@@ -636,7 +636,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/practical-github-copilot/autocompletions-panel?u=76281980&t=105)** So, I think it's actually going to work better if I don't select the comments.
 >
-> **[1:49](https://www.linkedin.com/learning/practical-github-copilot/autocompletions-panel?u=76281980&t=109)** If I just put my cursor after these two comments and then I call that extra panel.
+> **[1:49](https://www.linkedin.com/learning/practical-github-copilot/autocompletions-panel?u=76281980&t=109)** If I just put my [[Cursor]] after these two comments and then I call that extra panel.
 >
 > **[1:56](https://www.linkedin.com/learning/practical-github-copilot/autocompletions-panel?u=76281980&t=116)** So, I'll do control enter again.
 >
@@ -760,7 +760,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=187)** So you can also give them additional feedback if you want to.
 >
-> **[3:12](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=192)** Now this also allows you to make a selection and then take the code that it selected so you could see that there are some additional buttons right here, and it lets you copy the code to the clipboard, it lets you insert the code at the cursor, and there's also three dots here so you can put it in a new file or say this is a small program.
+> **[3:12](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=192)** Now this also allows you to make a selection and then take the code that it selected so you could see that there are some additional buttons right here, and it lets you copy the code to the clipboard, it lets you insert the code at the [[Cursor]], and there's also three dots here so you can put it in a new file or say this is a small program.
 >
 > **[3:36](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=216)** You can actually run this in the terminal as well.
 >

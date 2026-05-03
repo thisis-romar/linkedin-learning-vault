@@ -502,7 +502,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/thinking-about-input-storage-and-output?u=76281980&t=147)** First of all, let's put this data into a table.
 >
-> **[2:32](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/thinking-about-input-storage-and-output?u=76281980&t=152)** Cursor's inside the dataset.
+> **[2:32](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/thinking-about-input-storage-and-output?u=76281980&t=152)** [[Cursor]]'s inside the dataset.
 >
 > **[2:33](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/thinking-about-input-storage-and-output?u=76281980&t=153)** I'm going to go Home, Format as Table, and let's grab this blue.
 >
@@ -724,7 +724,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980&t=327)** One other thing we can do, go to mail campaign.
 >
-> **[5:32](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980&t=332)** Cursor in the data set.
+> **[5:32](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980&t=332)** [[Cursor]] in the data set.
 >
 > **[5:34](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/incorporating-charts-into-your-tracker?u=76281980&t=334)** Insert, pivot table, yes put it on a new worksheet, okay.
 >
@@ -885,7 +885,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-slicers-to-filter-for-details?u=76281980&t=42)** These were so amazing when they first came out, slicers with tables.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-slicers-to-filter-for-details?u=76281980&t=49)** Now the data is in a table and now I'm going to go to Insert while my cursor was inside the dataset and then Slicer.
+> **[0:49](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-slicers-to-filter-for-details?u=76281980&t=49)** Now the data is in a table and now I'm going to go to Insert while my [[Cursor]] was inside the dataset and then Slicer.
 >
 > **[1:01](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-slicers-to-filter-for-details?u=76281980&t=61)** Now we only get the filter options that we need, we don't get everything.
 >
@@ -1536,7 +1536,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=216)** Okay, that can make analysis really difficult.
 >
-> **[3:43](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=223)** So here's what I'm going to do with the cursor in the data set.
+> **[3:43](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=223)** So here's what I'm going to do with the [[Cursor]] in the data set.
 >
 > **[3:46](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980&t=226)** I'm going to go to the insert tab and then pivot table.
 >
@@ -2338,7 +2338,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=76)** One formula, many results.
 >
-> **[1:20](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=80)** Also notice that the cursor is now in cell K5.
+> **[1:20](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=80)** Also notice that the [[Cursor]] is now in cell K5.
 >
 > **[1:25](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980&t=85)** And if you look up in the formula bar you will see that the formula is grayed out.
 >
@@ -3169,7 +3169,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980&t=70)** Here we go.
 >
-> **[1:11](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980&t=71)** I'm going to put my cursor into [[D3.js|D3]], equals XLOOKUP.
+> **[1:11](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980&t=71)** I'm going to put my [[Cursor]] into [[D3.js|D3]], equals XLOOKUP.
 >
 > **[1:18](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980&t=78)** Double click.
 >
@@ -3276,7 +3276,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=120)** It can be iffy if the source data is not in a data table.
 >
-> **[2:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=126)** Cursor in a dataset, I'm in the home tab, format as table.
+> **[2:06](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=126)** [[Cursor]] in a dataset, I'm in the home tab, format as table.
 >
 > **[2:11](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980&t=131)** I'm going to grab this green, table does have headers, okay.
 >
@@ -3455,7 +3455,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=61)** Now, what happens if I do create a pivot table right now?
 >
-> **[1:05](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=65)** My cursor is inside the data set.
+> **[1:05](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=65)** My [[Cursor]] is inside the data set.
 >
 > **[1:07](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/preparing-and-connecting-a-pivottable-to-your-data?u=76281980&t=67)** I'm going to go to Insert and pivot table.
 >
@@ -3640,7 +3640,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/building-and-using-a-pivottable?u=76281980&t=39)** Here we go.
 >
-> **[0:41](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/building-and-using-a-pivottable?u=76281980&t=41)** Cursor's in the dataset.
+> **[0:41](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/building-and-using-a-pivottable?u=76281980&t=41)** [[Cursor]]'s in the dataset.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/building-and-using-a-pivottable?u=76281980&t=43)** Insert pivot table.
 >
@@ -3834,7 +3834,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=194)** There are no empty columns or empty rows.
 >
-> **[3:19](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=199)** So with the cursor in the dataset, I'm going to Data, From Table/Range.
+> **[3:19](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=199)** So with the [[Cursor]] in the dataset, I'm going to Data, From Table/Range.
 >
 > **[3:29](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980&t=209)** Table does have headers, yes, and I'm going to check out the marching ants.
 >
@@ -4051,7 +4051,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=105)** So that might be good in some instances and in other instances it creates a big mess that then you got to clean up after everything's been all split apart, so that's why we're going to do this in Power Query.
 >
-> **[2:01](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=121)** With my cursor in the data set, I'm going to go to data, get data from table/range.
+> **[2:01](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=121)** With my [[Cursor]] in the data set, I'm going to go to data, get data from table/range.
 >
 > **[2:13](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/splitting-columns?u=76281980&t=133)** Alright, here's our data, and I am going to split the commas.
 >
@@ -4310,7 +4310,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980&t=261)** And one more.
 >
-> **[4:24](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980&t=264)** Cursor's inside the data set.
+> **[4:24](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980&t=264)** [[Cursor]]'s inside the data set.
 >
 > **[4:26](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/append-in-power-query?u=76281980&t=266)** Right-click.
 >
@@ -4472,7 +4472,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980&t=51)** How do we get this so that we can sort the numbers?
 >
-> **[0:56](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980&t=56)** My cursor is in a dataset.
+> **[0:56](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980&t=56)** My [[Cursor]] is in a dataset.
 >
 > **[1:00](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/unpivot-and-fill-down?u=76281980&t=60)** I'm going to right-click, Get Data from Table slash Range.
 >
@@ -5080,7 +5080,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/conditional-formatting-to-warn-of-deadlines?u=76281980&t=288)** We've been complaining for years about conditional format and doing that to us.
 >
-> **[4:52](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/conditional-formatting-to-warn-of-deadlines?u=76281980&t=292)** If we use the arrow keys, we have to manually move our cursor.
+> **[4:52](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/conditional-formatting-to-warn-of-deadlines?u=76281980&t=292)** If we use the arrow keys, we have to manually move our [[Cursor]].
 >
 > **[4:58](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/conditional-formatting-to-warn-of-deadlines?u=76281980&t=298)** Slide over and comma where F four equals empty.
 >
@@ -5178,7 +5178,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980&t=21)** I'm going to start by putting the source data into a table.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980&t=25)** Cursor is in the dataset, format as table.
+> **[0:25](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980&t=25)** [[Cursor]] is in the dataset, format as table.
 >
 > **[0:29](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-1?u=76281980&t=29)** I am going to grab this orange color, table has headers, okay, scroll down right, no extra data, no empty columns or rows.
 >
@@ -5360,7 +5360,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=34)** And I'm not going to do all of these in order, and that's fine.
 >
-> **[0:40](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=40)** Here we go, cursor inside this table.
+> **[0:40](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=40)** Here we go, [[Cursor]] inside this table.
 >
 > **[0:45](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/solution-building-a-tracker-2?u=76281980&t=45)** I'm going to call this payments, good.
 >

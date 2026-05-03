@@ -1076,11 +1076,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=0)** - [Instructor] Yoast SEO is in the top 10 active plugins on [[[WordPress]].org](https://wordpress.org).
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=0)** - [Instructor] Yoast SEO is in the top 10 active plugins on [wordpress.org](https://wordpress.org).
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=4)** Right now it's the second-most downloaded plugin used on more than 5 million sites.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=9)** And it's the most popular SEO plugin in the WordPress space.
+> **[0:09](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=9)** And it's the most popular SEO plugin in the [[WordPress]] space.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=14)** They pioneered a lot of the features that are now standard in other SEO plugins.
 >
@@ -2030,7 +2030,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=0)** - [Narrator] The vast majority of your SEO needs can be handled by the free plugin on [[[WordPress]].org](https://wordpress.org).
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=0)** - [Narrator] The vast majority of your SEO needs can be handled by the free plugin on [wordpress.org](https://wordpress.org).
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=5)** But there are a few really useful features that are available in the premium plugins.
 >
@@ -2066,7 +2066,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=77)** For Topsy Turvy Cake Design, this is probably the most useful premium plugin after Yoast SEO Premium.
 >
-> **[1:23](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=83)** You can see all the WordPress plugins on their site.
+> **[1:23](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=83)** You can see all the [[WordPress]] plugins on their site.
 >
 > **[1:26](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=86)** There are a few more, if you do a lot of news or videos.
 >

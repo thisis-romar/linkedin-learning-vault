@@ -781,7 +781,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980&t=442)** And when it reaches about this point here at the zero 50 mark, this is the point at which I want our message to display.
 >
-> **[7:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980&t=451)** We can easily do that by moving our cursor to the header of the timeline and right clicking with our mouse and choosing add animation event, or you can move over here and click on this toolbar icon to do the same thing.
+> **[7:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980&t=451)** We can easily do that by moving our [[Cursor]] to the header of the timeline and right clicking with our mouse and choosing add animation event, or you can move over here and click on this toolbar icon to do the same thing.
 >
 > **[7:45](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980&t=465)** It looks like a bookmark.
 >
@@ -1323,7 +1323,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980&t=125)** But we can easily add them.
 >
-> **[2:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980&t=128)** To do that you just move your mouse cursor to the plus icon here.
+> **[2:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980&t=128)** To do that you just move your mouse [[Cursor]] to the plus icon here.
 >
 > **[2:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980&t=132)** Just click on that and it gives you some options which borrow their terminology from programming in C Sharp.
 >

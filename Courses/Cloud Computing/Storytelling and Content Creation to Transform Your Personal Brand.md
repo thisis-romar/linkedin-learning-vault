@@ -649,7 +649,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=0)** - Imagine this, you're sitting in front of your computer, the cursor is blinking on a blank document, it's time to create content, but your mind goes blank.
+> **[0:00](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=0)** - Imagine this, you're sitting in front of your computer, the [[Cursor]] is blinking on a blank document, it's time to create content, but your mind goes blank.
 >
 > **[0:11](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/finding-inspiration-for-content?u=76281980&t=11)** It's a situation many of us have faced, because we try to force creativity.
 >

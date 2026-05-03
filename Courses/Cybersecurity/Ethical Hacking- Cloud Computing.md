@@ -936,7 +936,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=81)** So what we're going to do is sign in as that user account and we're going to examine the process now that MFA is enabled for that account.
 >
-> **[1:31](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=91)** To test this, I'm signing into my apps.[[[Microsoft]].com](https://microsoft.com), and I'm going to connect with our user account.
+> **[1:31](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=91)** To test this, I'm signing into my apps.[microsoft.com](https://microsoft.com), and I'm going to connect with our user account.
 >
 > **[1:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/enable-mfa-for-cloud-users?u=76281980&t=97)** And I will specify the password for the account and click sign in.
 >

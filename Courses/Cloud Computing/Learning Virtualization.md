@@ -3031,7 +3031,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980&t=102)** On a network it's sometimes called an NTP server.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980&t=106)** Also, there are a few publicly available ones such as time.[[[Google]].com](https://google.com) so if you sync the time on the guest machine to a known source that should eliminate problems of time drift.
+> **[1:46](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980&t=106)** Also, there are a few publicly available ones such as time.[google.com](https://google.com) so if you sync the time on the guest machine to a known source that should eliminate problems of time drift.
 
 > [!info]- Semantic Content
 >

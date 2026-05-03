@@ -117,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=13)** To do this, we're going to add in some new technologies to what we've already learned about [[Relational Databases]] over the previous courses in this series.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=22)** Namely, we're going to be working with [[HTML]], CSS, [[PHP]], and [[[ASP.NET]]](https://ASP.NET).
+> **[0:22](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=22)** Namely, we're going to be working with [[HTML]], CSS, [[PHP]], and [ASP.NET](https://ASP.NET).
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=29)** Now I don't expect you to have any prior experience with any of these languages.
 >
@@ -129,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=51)** This will allow us to add [[Web Servers]] to the database servers that we've been working with.
 >
-> **[0:56](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=56)** You can download Docker for [[Windows]], Mac OS or [[Linux]] at [docker.com/[[Microsoft Products|products]]/dockerdesktop](https://docker.com/products/dockerdesktop).
+> **[0:56](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=56)** You can download Docker for [[Windows]], Mac OS or [[Linux]] at [docker.com/products/dockerdesktop](https://docker.com/products/dockerdesktop).
 >
 > **[1:05](https://www.linkedin.com/learning/database-foundations-application-development/what-you-should-know?u=76281980&t=65)** You'll also need a text editor.
 >
@@ -370,7 +370,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=90)** Everything else is set to happen on these sites back end, or server-side.
 >
-> **[1:35](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=95)** Code that needs to run server-side can be written in languages, such as [[PHP]], [[[ASP.NET]]](https://ASP.NET), Node or Ruby.
+> **[1:35](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=95)** Code that needs to run server-side can be written in languages, such as [[PHP]], [ASP.NET](https://ASP.NET), Node or Ruby.
 >
 > **[1:44](https://www.linkedin.com/learning/database-foundations-application-development/databases-on-the-web?u=76281980&t=104)** If the website needs to communicate with a database, that also happens server-side, and those interactions are kept separate from the end user accessing the site.
 >
@@ -434,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=99)** For integration with PostgreSQL, we'll use a server-side scripting language called [[PHP]].
 >
-> **[1:46](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=106)** For integration with SQL Server, we'll use a [[Microsoft]] technology called [[[ASP.NET]]](https://ASP.NET).
+> **[1:46](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=106)** For integration with SQL Server, we'll use a [[Microsoft]] technology called [ASP.NET](https://ASP.NET).
 >
 > **[1:52](https://www.linkedin.com/learning/database-foundations-application-development/project-overview?u=76281980&t=112)** In both projects, the presentation tier will make use of standard [[HTML]] and CSS that's used everywhere on the internet to create webpages.
 >
@@ -1701,7 +1701,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=0)** - [Narrator] It's time to change gears and turn our attention to our second project.
 >
-> **[0:05](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=5)** This time, we're going to focus on [[Microsoft SQL Server|SQL Server]] and a web server technology called [[[ASP.NET]]](https://ASP.NET) Core.
+> **[0:05](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=5)** This time, we're going to focus on [[Microsoft SQL Server|SQL Server]] and a web server technology called [ASP.NET](https://ASP.NET) Core.
 >
 > **[0:13](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980&t=13)** While [[PHP]] data objects, or PDO, does have support for connecting to SQL Server [[Databases]] through specialized drivers and functions, it's more common that SQL Server databases are paired with other [[Microsoft]] technologies.
 >
@@ -1758,7 +1758,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=0)** - [Instructor] To create our [[[ASP.NET]]](https://ASP.NET) Core web app, we already know that we need two components, a web server and a database server.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=0)** - [Instructor] To create our [ASP.NET](https://ASP.NET) Core web app, we already know that we need two components, a web server and a database server.
 >
 > **[0:09](https://www.linkedin.com/learning/database-foundations-application-development/create-the-asp-dot-net-core-web-server-with-docker?u=76281980&t=9)** We're going to leverage Docker again to compartmentalize everything and make it easy to manage.
 >
@@ -1941,7 +1941,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=81)** Let's go ahead and give this a name.
 >
-> **[1:22](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=82)** I'll call it SQL server [[[ASP.NET]]](https://asp.net).
+> **[1:22](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=82)** I'll call it SQL server [asp.net](https://asp.net).
 >
 > **[1:27](https://www.linkedin.com/learning/database-foundations-application-development/add-a-database-to-sql-server?u=76281980&t=87)** Then we'll click over to the advanced tab.
 >
@@ -2096,7 +2096,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=0)** - [Narrator] We can get a feel for the modularity of an [[[ASP.NET]]](https://ASP.NET) Core application by taking a look at a view object.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=0)** - [Narrator] We can get a feel for the modularity of an [ASP.NET](https://ASP.NET) Core application by taking a look at a view object.
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-application-development/asp-dot-net-modularity?u=76281980&t=8)** Let's click back to the homepage of our application by clicking on the home link here in the navigation bar.
 >
@@ -2225,7 +2225,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=0)** - [Instructor] The modular design of an [[[ASP.NET]]](https://asp.net) site also applies to the database connection, and it controls how data is used throughout the entire site.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=0)** - [Instructor] The modular design of an [asp.net](https://asp.net) site also applies to the database connection, and it controls how data is used throughout the entire site.
 >
 > **[0:10](https://www.linkedin.com/learning/database-foundations-application-development/model-tabular-data?u=76281980&t=10)** To see how this works, we need to dig into the project files again.
 >
@@ -2458,7 +2458,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=195)** After the header file down on line number 45, we start a loop.
 >
-> **[3:20](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=200)** In PHP, we use the four-loop here inside of [[[ASP.NET]]](https://asp.net), it's a foreach loop.
+> **[3:20](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=200)** In PHP, we use the four-loop here inside of [asp.net](https://asp.net), it's a foreach loop.
 >
 > **[3:26](https://www.linkedin.com/learning/database-foundations-application-development/controller-classes?u=76281980&t=206)** This will go through and read each row from the database and create a new HTML table row every time the program goes through the loop.
 >
@@ -2563,7 +2563,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=0)** - [Instructor] One of the neat things about an [[[ASP.NET]]](https://asp.net) web application is that the controller classes encode useful information right into the URL segments of the page.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=0)** - [Instructor] One of the neat things about an [asp.net](https://asp.net) web application is that the controller classes encode useful information right into the URL segments of the page.
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-application-development/url-segments?u=76281980&t=12)** From the Two Trees Customer Data page, click on any of the edit links.
 >
@@ -2655,7 +2655,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=29)** If this course has piqued your interest in expanding your skills into app development, then I'd encourage you to check out some of the introductory content in the languages that we explored.
 >
-> **[0:39](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=39)** Learning [[PHP]] and [[[ASP.NET]]](https://ASP.NET) MVC 5 Essential Training are two great courses to get started with, or if you're feeling ambitious consider tackling the learning path Become a Programmer: Foundations.
+> **[0:39](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=39)** Learning [[PHP]] and [ASP.NET](https://ASP.NET) MVC 5 Essential Training are two great courses to get started with, or if you're feeling ambitious consider tackling the learning path Become a Programmer: Foundations.
 >
 > **[0:55](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980&t=55)** Once again, I'm Adam Wilbert.
 >

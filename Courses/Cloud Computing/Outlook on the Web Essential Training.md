@@ -207,7 +207,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=16)** And when you do, it will automatically load Outlook on the web.
 >
-> **[0:22](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=22)** If you're not already logged in to Outlook on the web, then what you can do is open a browser and type outlook.[[[Microsoft Office|office]].com](https://office.com) and press Enter.
+> **[0:22](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=22)** If you're not already logged in to Outlook on the web, then what you can do is open a browser and type outlook.[office.com](https://office.com) and press Enter.
 >
 > **[0:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=37)** If you don't already have an account and you're logging in for the first time, go to outlook.[office.com](https://office.com), and you'll be prompted to log in.
 >

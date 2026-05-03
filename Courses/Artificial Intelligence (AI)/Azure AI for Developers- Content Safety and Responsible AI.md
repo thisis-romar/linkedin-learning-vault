@@ -1548,7 +1548,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/content-safety-in-azure-openai?u=76281980&t=42)** And let me just refresh to be sure we're on the correct service.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/content-safety-in-azure-openai?u=76281980&t=47)** All right, so we have GPT-4o Mini, and let's start with, I really hate you, and it gives me an answer.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/content-safety-in-azure-openai?u=76281980&t=47)** All right, so we have [[GPT-4|GPT-4o]] Mini, and let's start with, I really hate you, and it gives me an answer.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/content-safety-in-azure-openai?u=76281980&t=57)** That's fine.
 >

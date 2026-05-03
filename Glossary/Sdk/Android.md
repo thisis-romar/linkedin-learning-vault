@@ -29,7 +29,7 @@ created: 2026-05-02
 
 Google's mobile operating system and app development platform.
 
-> **Type:** Sdk | **Courses:** 157 | **Topics:** [[Software Development]], [[Mobile Development]], [[Cybersecurity]], [[Network and System Administration]], [[Cloud Computing]]
+> **Type:** SDK | **Courses:** 157 | **Topics:** [[Software Development]], [[Mobile Development]], [[Cybersecurity]], [[Network and System Administration]], [[Cloud Computing]]
 
 ## Courses
 

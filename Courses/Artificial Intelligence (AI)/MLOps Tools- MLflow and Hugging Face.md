@@ -4868,7 +4868,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=71)** So I'm going to search this because this is a very, very, very intense and very thorough documentation.
 >
-> **[1:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=82)** So there's lots you can, I don't know if you can see my cursor there, but we're not even halfway through, and there's lots to cover.
+> **[1:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=82)** So there's lots you can, I don't know if you can see my [[Cursor]] there, but we're not even halfway through, and there's lots to cover.
 >
 > **[1:29](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=89)** So let's just start with the model and how is it that you can actually go and register?
 >
@@ -6409,7 +6409,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=416)** One last thing I want to show you is the model Sue.
 >
-> **[7:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=420)** If you've never heard about a model Sue, it's the [[[GitHub]].com/Onnx/models](https://github.com/Onnx/models).
+> **[7:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=420)** If you've never heard about a model Sue, it's the [github.com/Onnx/models](https://github.com/Onnx/models).
 >
 > **[7:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=426)** It's called the Onnx Sue because that is where people tend to store, or the Onnx organization rather tends to store some of the Onnx models.
 >
@@ -6425,7 +6425,7 @@ created: 2026-05-02
 >
 > **[7:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=464)** So you can download these.
 >
-> **[7:45](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=465)** These are stored on GitHub using LFS.
+> **[7:45](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=465)** These are stored on [[GitHub]] using LFS.
 >
 > **[7:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=468)** And it is, you're able to go through a little bit of the details of the model.
 >

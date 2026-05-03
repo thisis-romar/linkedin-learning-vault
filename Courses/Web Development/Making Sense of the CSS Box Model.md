@@ -943,7 +943,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980&t=142)** Selection allows us to use CSS to style the appearance of selected or highlighted items in the browser.
 >
-> **[2:29](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980&t=149)** It's important to note that for this particular pseudo element only color, background color, cursor, outline, text decoration, text emphasis color, and text shadow can be used to alter its appearance.
+> **[2:29](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980&t=149)** It's important to note that for this particular pseudo element only color, background color, [[Cursor]], outline, text decoration, text emphasis color, and text shadow can be used to alter its appearance.
 >
 > **[2:43](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980&t=163)** For support in Firefox you also need to add the dash moz dash prefix.
 

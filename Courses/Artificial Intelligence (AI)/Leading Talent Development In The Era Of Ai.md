@@ -1091,7 +1091,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=76)** Identify areas where you can make a meaningful shift, and commit to integrating leadership and talent development into your strategy, ensuring it's a core focus and not just an afterthought.
 >
-> **[1:27](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=87)** For additional resources, I highly recommend Terri Horton's Career Conversations in the Age of AI, Chris McKay's [[Integrating [[Generative AI]] into Business Strategy]], and Brian Evergreen's [[[[Organizational Leadership]] in the Era of AI]].
+> **[1:27](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=87)** For additional resources, I highly recommend Terri Horton's Career Conversations in the Age of AI, Chris McKay's [[Integrating Generative AI into Business Strategy]], and Brian Evergreen's [[Organizational Leadership in the Era of AI]].
 >
 > **[1:43](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=103)** And of course, check out my other courses on fostering cultures of learning and leadership.
 >

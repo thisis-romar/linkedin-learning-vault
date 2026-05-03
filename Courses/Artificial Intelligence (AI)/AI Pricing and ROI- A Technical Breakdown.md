@@ -136,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980&t=4)** If you're creating or approving AI budgets, you'll want to know the details.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980&t=9)** In this detailed course, we'll cover key questions like build versus buy, the cost of training your own GenAI model, risk trade-offs, and how to build a team to support an AI initiative.
+> **[0:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980&t=9)** In this detailed course, we'll cover key questions like build versus buy, the cost of training your own [[Generative AI|GenAI]] model, risk trade-offs, and how to build a team to support an AI initiative.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980&t=21)** We do this from both an enterprise and startup perspective based on key requirements.
 >
@@ -172,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=11)** Now, if we were having this discussion five years ago, build versus buy would generally mean run in-house versus outsource.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=20)** But now, with the advances of gen AI and offered solutions, many more solutions work out of the box and off the shelf.
+> **[0:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=20)** But now, with the advances of [[Generative AI|gen AI]] and offered solutions, many more solutions work out of the box and off the shelf.
 >
 > **[0:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=27)** AI can solve a number of problems and will depend on the industry.
 >
@@ -261,7 +261,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=0)** - [Instructor] These days, everyone wants to use GenAI, but is it the right tool for the job?
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=0)** - [Instructor] These days, everyone wants to use [[Generative AI|GenAI]], but is it the right tool for the job?
 >
 > **[0:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=6)** GenAI typically uses large and compute-intensive models, so the best way to save money is not to run them, so it's important to choose the right model for the right use case.
 >
@@ -372,7 +372,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=0)** - [Instructor] The magical experience of Gen AI via an API is that if you can dream an idea, you can usually prototype it.
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=0)** - [Instructor] The magical experience of [[Generative AI|Gen AI]] via an API is that if you can dream an idea, you can usually prototype it.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=7)** This is a [[Stark (Accessibility Software)|stark]] comparison with many more traditional ML tools, which require exploration, tuning, and adjustment.
 >
@@ -694,7 +694,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=0)** - [Instructor] Now that we know the basics of GenAI, let's implement a more complex app.
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=0)** - [Instructor] Now that we know the basics of [[Generative AI|GenAI]], let's implement a more complex app.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=5)** Today we will talk about Retrieval Augmented Generation, or RAG.
 >
@@ -898,7 +898,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=311)** So in this video, we learned how to price a RAG application for our customer support bot.
 >
-> **[5:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=316)** In our next video, we're going to learn how to estimate the costs of another GenAI feature, which is image generation.
+> **[5:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=316)** In our next video, we're going to learn how to estimate the costs of another [[Generative AI|GenAI]] feature, which is image generation.
 
 > [!info]- Semantic Content
 >
@@ -1818,7 +1818,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=107)** Now, for an analytics use case, you might not need product documentation or product information.
 >
-> **[1:53](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=113)** But for a gen AI use case, let's say that you're building a support bot, this information becomes very important.
+> **[1:53](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=113)** But for a [[Generative AI|gen AI]] use case, let's say that you're building a support bot, this information becomes very important.
 >
 > **[2:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=120)** In this case, you may need to rebuild your existing data infrastructure for your AI use cases.
 >
@@ -1980,7 +1980,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980&t=186)** If you've been keeping up with the large language model papers, you'll see many of these benchmarks are reported on frequently, such as MMLU.
 >
-> **[3:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980&t=194)** Now, the challenge with many models, especially GenAI models, is that there might be data contamination.
+> **[3:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980&t=194)** Now, the challenge with many models, especially [[Generative AI|GenAI]] models, is that there might be data contamination.
 >
 > **[3:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980&t=200)** Test sets might end up in your training sets, leading to misleading results.
 >
@@ -2227,7 +2227,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=149)** Now, we've covered this before, but I reiterate these skills because they're highly in demand.
 >
-> **[2:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=154)** Top LLM researchers working in the Gen AI space make over a million dollars per year, so this can get very competitive.
+> **[2:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=154)** Top LLM researchers working in the [[Generative AI|Gen AI]] space make over a million dollars per year, so this can get very competitive.
 >
 > **[2:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=162)** If we look at some online compensation reports, like from Levels.fwy, we can see that many OpenAI researchers make close to that $1-million mark, and the more senior ones can make even more.
 >
@@ -3334,7 +3334,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=10)** So an important question to ask is, where does the data used for training AI models come from?
 >
-> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=16)** In the case of GenAI, it's lots of internet data.
+> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=16)** In the case of [[Generative AI|GenAI]], it's lots of internet data.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=21)** But much of this data is still covered by copyright.
 >
@@ -4685,7 +4685,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=0)** - [Narrator] Two years after the release of [[ChatGPT]], we're all still wondering what has been the business ROI of gen AI?
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=0)** - [Narrator] Two years after the release of [[ChatGPT]], we're all still wondering what has been the business ROI of [[Generative AI|gen AI]]?
 >
 > **[0:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=7)** In this chapter, we'll go through a few use cases and see what's emerged in the industry.
 >
@@ -4914,7 +4914,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=47)** Now, looking through this research, we can see that there are a number of different factors that affect software development.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=52)** In this paper, there are 39 productivity factors that are mentioned, but what's interesting is that it was released pre this GenAI boom.
+> **[0:52](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=52)** In this paper, there are 39 productivity factors that are mentioned, but what's interesting is that it was released pre this [[Generative AI|GenAI]] boom.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=60)** So we can move to a second piece of research that Google has released, which is AI and software engineering.
 >
@@ -5017,7 +5017,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=61)** For example, we can look into broader reports, like this report by [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[1:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=65)** That goes into GenAI ROI overviews.
+> **[1:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=65)** That goes into [[Generative AI|GenAI]] ROI overviews.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=69)** And this provides a broader context, but we can also look at general copilots.
 >

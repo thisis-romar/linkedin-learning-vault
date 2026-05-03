@@ -3983,11 +3983,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=25)** The basic flow and concepts that we'll see here should stay pretty much the same.
 >
-> **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=30)** So to create an account, you're going to want to open up a browser and go to firebase.[[[Google]].com](https://google.com).
+> **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=30)** So to create an account, you're going to want to open up a browser and go to firebase.[google.com](https://google.com).
 >
 > **[0:36](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=36)** And once you're there, you're going to want to click on this get started button.
 >
-> **[0:40](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=40)** And at this point if you're not already signed in to a Google account, it's going to ask you to sign in to one of those.
+> **[0:40](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=40)** And at this point if you're not already signed in to a [[Google]] account, it's going to ask you to sign in to one of those.
 >
 > **[0:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=46)** So anyway once you've done that, Firebase should take you to the Firebase console which looks pretty similar to the page we just came from except that now instead of a get started button, we see a create project button.
 >
@@ -4745,7 +4745,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=14)** And this is a different thing than the [[Firebase]] console that we used earlier when we were adding authentication to our app.
 >
-> **[0:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=20)** You can get there by going to [console.cloud](https://console.cloud).[[[Google]].com](https://google.com).
+> **[0:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=20)** You can get there by going to [console.cloud](https://console.cloud).[google.com](https://google.com).
 >
 > **[0:24](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=24)** And when you go there, you might need to set up your account.
 >
@@ -4801,7 +4801,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=132)** We're going to select our buy and sell project.
 >
-> **[2:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=134)** And this was created when we created our Firebase project in the Firebase console since those two things are linked on Google.
+> **[2:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=134)** And this was created when we created our Firebase project in the Firebase console since those two things are linked on [[Google]].
 >
 > **[2:21](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=141)** So I'm going to enter two. Your option might be different.
 >

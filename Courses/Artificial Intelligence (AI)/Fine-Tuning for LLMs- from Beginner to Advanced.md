@@ -1046,7 +1046,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-using-icl-and-patterns-while-prompting?u=76281980&t=292)** We combine, tokenize, generate, decode, and what we get back is Mount Everest.
 >
-> **[5:02](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-using-icl-and-patterns-while-prompting?u=76281980&t=302)** So we can see that this few-shot pattern of providing examples is an extremely good idea to improve your prompting to LLMs that are not particularly designed for any type of input, like for example, GPT4, but are small and can be used for specific tasks for applications, chat bots, or even for augmenting productivity.
+> **[5:02](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/demo-using-icl-and-patterns-while-prompting?u=76281980&t=302)** So we can see that this few-shot pattern of providing examples is an extremely good idea to improve your prompting to LLMs that are not particularly designed for any type of input, like for example, [[GPT-4|GPT4]], but are small and can be used for specific tasks for applications, chat bots, or even for augmenting productivity.
 
 > [!info]- Semantic Content
 >
@@ -2831,7 +2831,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=146)** It's the same.
 >
-> **[2:28](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=148)** I just wanted to mention that, because you may see solutions in maybe Stack Overflow or maybe even with a GenAI tool that will may not add it in this case with distilbert and this is the reason.
+> **[2:28](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=148)** I just wanted to mention that, because you may see solutions in maybe Stack Overflow or maybe even with a [[Generative AI|GenAI]] tool that will may not add it in this case with distilbert and this is the reason.
 >
 > **[2:44](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980&t=164)** So, let's do our tokenization.
 >

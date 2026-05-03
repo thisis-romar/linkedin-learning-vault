@@ -630,7 +630,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=27)** Here, we declare our function that takes three inputs.
 >
-> **[0:31](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=31)** Chunk, which is our text from the chunk, model GPT-4o mini.
+> **[0:31](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=31)** Chunk, which is our text from the chunk, model [[GPT-4|GPT-4o]] mini.
 >
 > **[0:37](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/q-a-pair-generation?u=76281980&t=37)** Number of questions, that is how many questions we want.
 >
@@ -727,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980&t=0)** - [Instructor] Now that we have our documents shown and questions generated, we'll complete our training data by adding answers to it.
 >
-> **[0:08](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980&t=8)** We'll use GPT-4o mini to generate high-quality answers and use parallel processing to speed things up.
+> **[0:08](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980&t=8)** We'll use [[GPT-4|GPT-4o]] mini to generate high-quality answers and use parallel processing to speed things up.
 >
 > **[0:15](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/adding-answers-to-document-question-pairs?u=76281980&t=15)** Let's look at how we generate answers for each question-document pair.
 >

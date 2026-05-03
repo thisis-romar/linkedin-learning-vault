@@ -107,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=17)** We'll start under the hood with how [[Large Language Models (LLM)|large language models]] work so you can build powerful [[Data Science]] assistance with [[ChatGPT]] and integrate intelligent Copilots into your everyday workflow with [[Google Gemini]].
 >
-> **[0:28](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=28)** This will allow you to augment your entire workflow with GenAI and get so much more productive.
+> **[0:28](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=28)** This will allow you to augment your entire workflow with [[Generative AI|GenAI]] and get so much more productive.
 >
 > **[0:34](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=34)** Hi, I'm Tobias Zwingmann.
 >
@@ -218,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=0)** - [Instructor] Today we're diving into the foundations of [[Generative AI]].
 >
-> **[0:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=3)** We'll explore its core concepts, the different gen AI types, and how they apply to [[Data Science]].
+> **[0:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=3)** We'll explore its core concepts, the different [[Generative AI|gen AI]] types, and how they apply to [[Data Science]].
 >
 > **[0:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=8)** By the end, you will understand how generative AI can enhance your data science work.
 >
@@ -250,7 +250,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=128)** In general, generative AI includes different types of models, each specializing in a specific type of output.
 >
-> **[2:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=135)** Text-based models like GPT-4o, which generate written content.
+> **[2:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=135)** Text-based models like [[GPT-4|GPT-4o]], which generate written content.
 >
 > **[2:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=140)** Image generation models such as diffusion models used for creating realistic visuals.
 >
@@ -404,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=38)** And it's widely applicable, working across structured data, unstructured text, and machine learning models.
 >
-> **[0:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=44)** Whether you've used CRISP-DM before or not, its phases map closely to the real-data science work, making it the perfect blueprint for this course where we will explore how GenAI enhances each step.
+> **[0:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=44)** Whether you've used CRISP-DM before or not, its phases map closely to the real-data science work, making it the perfect blueprint for this course where we will explore how [[Generative AI|GenAI]] enhances each step.
 >
 > **[0:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=58)** Now let's recap its key phases.
 >
@@ -1071,7 +1071,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=78)** Recognizing these challenges early helps us address them proactively, and as it turns out, [[Generative AI]] can be a great help for those.
 >
-> **[1:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=87)** But before we dive into Gen AI, let's quickly cover two important concepts for this phase.
+> **[1:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=87)** But before we dive into [[Generative AI|Gen AI]], let's quickly cover two important concepts for this phase.
 >
 > **[1:31](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=91)** The first one is SMART problem statements; the structured way to define challenges effectively.
 >
@@ -1671,7 +1671,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=124)** In this case, I specified the response type as application/[[JSON]], so we get structured output back from the LLM.
 >
-> **[2:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=132)** Modern LLM APIs like GPT-4o, Claude, and also Gemini support a so-called JSON mode, meaning the output will not be just raw text, but instead formatted as a JSON dictionary.
+> **[2:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=132)** Modern LLM APIs like [[GPT-4|GPT-4o]], Claude, and also Gemini support a so-called JSON mode, meaning the output will not be just raw text, but instead formatted as a JSON dictionary.
 >
 > **[2:23](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=143)** And this is super helpful for integrating AI into your workflows.
 >
@@ -1963,7 +1963,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=115)** Maintaining data, pre-processing pipelines is also a typical challenge because data is always updating, so we need to make sure that our [[Data Cleaning]] and preparation pipelines are actually good enough to also handle changes in data.
 >
-> **[2:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=128)** And this is where GenAI can really help.
+> **[2:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=128)** And this is where [[Generative AI|GenAI]] can really help.
 >
 > **[2:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=130)** Genai can help us not only by assessing the data quality, but it can also help us to clean our data and better support feature engineering.
 >
@@ -3328,7 +3328,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=43)** Figuring out the best API design, implementing that, and then finally, monitoring the whole thing, maintaining the model, which relates back to the missing documentation.
 >
-> **[0:53](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=53)** Now, there are two big areas where GenAI can help us to overcome these challenges.
+> **[0:53](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=53)** Now, there are two big areas where [[Generative AI|GenAI]] can help us to overcome these challenges.
 >
 > **[0:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=58)** First, code generation for deploying the actual model, bringing it from your notebook to wherever it should live in this world so other people or services can access it.
 >
@@ -3606,7 +3606,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=43)** Non-technical stakeholders often get overwhelmed or intimidated when it gets too technical, which is not helpful for bringing your intended message across.
 >
-> **[0:52](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=52)** There are three big blocks where GenAI can be particularly useful.
+> **[0:52](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=52)** There are three big blocks where [[Generative AI|GenAI]] can be particularly useful.
 >
 > **[0:56](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=56)** We'll cover each of these in the next videos.
 >
@@ -4103,7 +4103,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=7)** In this course, we explored five key areas.
 >
-> **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=10)** We learned how GenAI fits into [[Data Science]], explored the basics of [[Prompt Engineering]] and saw how to implement AI assistants and copilots ourselves using real world examples.
+> **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=10)** We learned how [[Generative AI|GenAI]] fits into [[Data Science]], explored the basics of [[Prompt Engineering]] and saw how to implement AI assistants and copilots ourselves using real world examples.
 >
 > **[0:21](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=21)** We also discussed balancing automation with human expertise, and how to build efficient AI-augmented workflows.
 >

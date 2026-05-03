@@ -661,7 +661,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=207)** For example, we can use netcat to connect to a web server.
 >
-> **[3:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=211)** I'll type nc -v [[[Google]].com](https://google.com) 80, so we're looking at [thewebsitegoogle.com](https://thewebsitegoogle.com).
+> **[3:31](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=211)** I'll type nc -v [google.com](https://google.com) 80, so we're looking at [thewebsitegoogle.com](https://thewebsitegoogle.com).
 >
 > **[3:40](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-netcat-refresher?u=76281980&t=220)** The - v switch tells Netcat to be verbose and provide me with status messages and 80 is the standard port for accessing a website.
 >
@@ -3552,7 +3552,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=57)** A source of ready-made exploits for testing is the Offensive Security Exploit Database.
 >
-> **[1:02](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=62)** Here we have the full set of exploits on [[[Exploit-DB]].com](https://exploit-db.com).
+> **[1:02](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=62)** Here we have the full set of exploits on [exploit-db.com](https://exploit-db.com).
 >
 > **[1:06](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/find-exploit-code?u=76281980&t=66)** Let's select the filters button and search for the type remote, and we get a list of remote exploits that are in the database.
 >

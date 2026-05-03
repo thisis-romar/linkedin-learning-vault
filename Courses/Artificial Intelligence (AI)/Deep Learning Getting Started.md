@@ -218,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=10)** We will be using Anaconda and Jupyter Notebooks for these exercises.
 >
-> **[0:15](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=15)** You can download and install Anaconda from the website, [anaconda.com/[[Microsoft Products|products]]/individual](https://anaconda.com/products/individual) for your specific operating system.
+> **[0:15](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=15)** You can download and install Anaconda from the website, [anaconda.com/products/individual](https://anaconda.com/products/individual) for your specific operating system.
 >
 > **[0:25](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=25)** Once downloaded, we will go to the Anaconda UI.
 >

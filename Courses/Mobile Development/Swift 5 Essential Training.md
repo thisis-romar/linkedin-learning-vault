@@ -171,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=13)** You should be completely comfortable with concepts like variables, methods and classes, preferably in an object oriented context before diving in.
 >
-> **[0:22](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=22)** If you're brand new to programming or you need a basic refresher, check out [[[[Programming Foundations]] Fundamentals]] from our course library, it'll get you up to speed on everything you'll need to know.
+> **[0:22](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=22)** If you're brand new to programming or you need a basic refresher, check out [[Programming Foundations Fundamentals]] from our course library, it'll get you up to speed on everything you'll need to know.
 >
 > **[0:33](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=33)** Second, since we're starting from scratch in Swift, it doesn't make sense to jump right into an [[Xcode]] app project without understanding the language.
 >

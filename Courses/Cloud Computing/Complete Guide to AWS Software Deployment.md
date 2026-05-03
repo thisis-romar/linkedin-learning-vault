@@ -9190,7 +9190,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=13)** Copilot is Amazon's brand for the latest version of its ECS Command Line Interface.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=19)** As you can see here, Copilot has its own unique landing page and documentation at aws.[[[GitHub]].io](https://github.io), and looking at the usage message here on the terminal with its playful emojis, you can guess that Copilot is designed to give developers a friendly experience complete with step-by-step wizards that help developers rapidly standup ECS services.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=19)** As you can see here, Copilot has its own unique landing page and documentation at aws.[github.io](https://github.io), and looking at the usage message here on the terminal with its playful emojis, you can guess that Copilot is designed to give developers a friendly experience complete with step-by-step wizards that help developers rapidly standup ECS services.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-ecs-copilot?u=76281980&t=41)** The key concepts in Copilot are the app, environment, and services.
 >

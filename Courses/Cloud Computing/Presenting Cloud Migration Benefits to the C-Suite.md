@@ -847,7 +847,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980&t=32)** It's now your responsibility to keep your leadership informed about the progress of your migration regularly so that they can be ready to go when important decisions are needed to be made during the migration.
 >
-> **[0:46](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980&t=46)** You need to make sure your project is set up for success and that your [[[[Executive Leadership]]]] is set up for success.
+> **[0:46](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980&t=46)** You need to make sure your project is set up for success and that your [[Executive Leadership]] is set up for success.
 >
 > **[0:53](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980&t=53)** Explore California is all set to become the premiere hub for exploring and purchasing uniquely California vacation experiences.
 >

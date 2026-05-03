@@ -2172,7 +2172,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=27)** If [[Generative AI]] is something that you're interested in, here is another course on [[LinkedIn]] that you might find interesting.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=33)** [[Generative AI- Working with [[Large Language Models (LLM)|Large Language Models]]]].
+> **[0:33](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=33)** [[Generative AI- Working with Large Language Models]].
 >
 > **[0:36](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=36)** Well, it's time for me to say goodbye.
 >

@@ -172,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/navigating-generative-ai?u=76281980&t=50)** The generative AI landscape is vast and varied.
 >
-> **[0:54](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/navigating-generative-ai?u=76281980&t=54)** This landscape is characterized by its dual nature, comprising both generative AI-based companies whose core [[Microsoft Products|products]] or services are directly built on generative AI technologies and GenAI-powered companies which integrate generative AI capabilities to enhance their existing offerings.
+> **[0:54](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/navigating-generative-ai?u=76281980&t=54)** This landscape is characterized by its dual nature, comprising both generative AI-based companies whose core [[Microsoft Products|products]] or services are directly built on generative AI technologies and [[Generative AI|GenAI]]-powered companies which integrate generative AI capabilities to enhance their existing offerings.
 >
 > **[1:16](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/navigating-generative-ai?u=76281980&t=76)** There are different use cases for generative AI depending on how you're integrating them into your organization.
 >
@@ -546,7 +546,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/case-study?u=76281980&t=167)** Examples include [[GitHub Copilot]], an AI-powered coding assistant that helps developers write code more efficiently, and AI-driven non-player characters in Xbox games, which deliver immersive gaming experience for the users.
 >
-> **[3:04](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/case-study?u=76281980&t=184)** By leveraging GenAI across its products, Microsoft demonstrates its commitment to harnessing AI technologies to empower users, drive innovation, and create value.
+> **[3:04](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/case-study?u=76281980&t=184)** By leveraging [[Generative AI|GenAI]] across its products, Microsoft demonstrates its commitment to harnessing AI technologies to empower users, drive innovation, and create value.
 >
 > **[3:15](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/case-study?u=76281980&t=195)** Microsoft AI transformation journey exemplifies the importance of visionary AI leadership, strategic acquisitions, responsibly AI initiatives, and the integration of cutting-edge AI technologies into products and services.
 >
@@ -742,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/future-proofing-your-ai-strategy?u=76281980&t=14)** First, as we have spoken about it, [[Generative AI]] is revolutionizing how we interact with data, content, and even with each other.
 >
-> **[0:24](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/future-proofing-your-ai-strategy?u=76281980&t=24)** The key to leveraging GenAI is not just in its adoption, but in understanding its underlying mechanisms, ensuring the outputs are reliable, and tailoring these models to serve your organizational needs.
+> **[0:24](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/future-proofing-your-ai-strategy?u=76281980&t=24)** The key to leveraging [[Generative AI|GenAI]] is not just in its adoption, but in understanding its underlying mechanisms, ensuring the outputs are reliable, and tailoring these models to serve your organizational needs.
 >
 > **[0:41](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/future-proofing-your-ai-strategy?u=76281980&t=41)** Moving on, self-[[Supervised Learning]] is a paradigm shift in machine learning, where models learn from the data itself without the need for labeled datasets.
 >

@@ -1382,7 +1382,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=92)** Because if you find a high quality plugin, it's likely going to be efficient and speedy.
 >
-> **[1:37](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=97)** And when you're on [[[WordPress]].org](https://wordpress.org), you want to look for high star ratings, lots of ratings and responses on the support forum.
+> **[1:37](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=97)** And when you're on [wordpress.org](https://wordpress.org), you want to look for high star ratings, lots of ratings and responses on the support forum.
 >
 > **[1:44](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=104)** Just doing this little bit of research and using only four star and above plugins or four and a half star and above plugins that have good reviews and good support will very likely mean that they're efficient and fast.
 >
@@ -1627,7 +1627,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=21)** If you don't understand that term, no worries.
 >
-> **[0:24](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=24)** If you want to dive deep into how [[Databases]] work, we have [[[[Programming Foundations]] Databases]] in the library.
+> **[0:24](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=24)** If you want to dive deep into how [[Databases]] work, we have [[Programming Foundations Databases]] in the library.
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=31)** And if not, we'll cover it at a high level right now.
 >

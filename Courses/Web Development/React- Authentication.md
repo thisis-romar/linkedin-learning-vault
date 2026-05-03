@@ -4079,7 +4079,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=191)** So in other words, do we only want to allow internal people in our organization to log in, right?
 >
-> **[3:17](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=197)** So if you have like a custom domain name in your email address, like at [[[LinkedIn]].com](https://linkedin.com) for example, that's what that would give us here.
+> **[3:17](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=197)** So if you have like a custom domain name in your email address, like at [linkedin.com](https://linkedin.com) for example, that's what that would give us here.
 >
 > **[3:25](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=205)** But since we want anybody to be able to log into our app, we're going to select external there, and then we'll go to next.
 >

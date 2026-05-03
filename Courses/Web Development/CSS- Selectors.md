@@ -2822,7 +2822,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980&t=16)** And if you're wondering about that, [caniuse.com](https://caniuse.com) is a great resource for determining what is supported where.
 >
-> **[0:23](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980&t=23)** As you see on this page, right in the center of the box, at the fine flashing cursor, all you need to do is type in what you're looking for.
+> **[0:23](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980&t=23)** As you see on this page, right in the center of the box, at the fine flashing [[Cursor]], all you need to do is type in what you're looking for.
 >
 > **[0:30](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980&t=30)** So if I try the universal selector, for example, this is going to pull up the match to that and then this is, happens to be a CSS 2.1 selector, so a whole bunch of stuff here like first-child, link, visited, active, hover, focus.
 >

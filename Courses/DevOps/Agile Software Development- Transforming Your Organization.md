@@ -1261,7 +1261,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=29)** The SAFe model is all about alignment and collaboration across large numbers of Agile teams.
 >
-> **[0:36](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=36)** It relies heavily on [[[[Agile Software Development]]]], lean product management, and systems thinking.
+> **[0:36](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=36)** It relies heavily on [[Agile Software Development]], lean product management, and systems thinking.
 >
 > **[0:43](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/scaled-agile-framework-safe?u=76281980&t=43)** Groups of teams working together at the program level are formed into Agile Release Trains, or ARTs.
 >

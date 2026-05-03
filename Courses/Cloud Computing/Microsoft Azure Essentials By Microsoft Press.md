@@ -390,7 +390,7 @@ created: 2026-05-02
 >
 > **[11:14](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=674)** It's actually way more than that.
 >
-> **[11:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=677)** For example, e-mail providers such as [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) or Gmail, or what we used to have Hotmail.
+> **[11:17](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=677)** For example, e-mail providers such as [Outlook.com](https://Outlook.com) or Gmail, or what we used to have Hotmail.
 >
 > **[11:27](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/the-evolution-of-computing?u=76281980&t=687)** There are all these e-mail providers that are all actually [[Cloud Services]].
 >
@@ -657,7 +657,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=290)** You're just simply a consumer.
 >
-> **[4:52](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=292)** Could also be something like [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) for providing e-mail.
+> **[4:52](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=292)** Could also be something like [Outlook.com](https://Outlook.com) for providing e-mail.
 >
 > **[4:56](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-service-categories?u=76281980&t=296)** So you use that service to read your e-mail, to consume your e-mail, but you don't have any capability or visibility into the platform itself.
 >
@@ -715,9 +715,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=21)** We're going to start off talking about the public Cloud, which we frequently refer to as a multi-tenant environment, a tenant meaning someone who's using that Cloud.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=33)** So this would refer to something like [[[Microsoft Azure|Azure]].com](https://Azure.com).
+> **[0:33](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=33)** So this would refer to something like [Azure.com](https://Azure.com).
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=37)** If you go to portal.[azure.com](https://azure.com) to get to the Azure portal, that's the public Cloud.
+> **[0:37](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=37)** If you go to portal.[azure.com](https://azure.com) to get to the [[Microsoft Azure|Azure]] portal, that's the public Cloud.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/cloud-deployment-models?u=76281980&t=43)** When you do that, you're using data centers in an Azure region that house physical computers that are used by all of the other people that are using that public Cloud.
 >
@@ -1106,7 +1106,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=147)** Now I can rearrange that if I want to.
 >
-> **[2:29](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=149)** If I go to these three dots here on the right side of that menu item, you'll see my cursor changes to a four-way arrow.
+> **[2:29](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=149)** If I go to these three dots here on the right side of that menu item, you'll see my [[Cursor]] changes to a four-way arrow.
 >
 > **[2:38](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/navigating-the-azure-portal?u=76281980&t=158)** I can click and drag and move this any place I want it within this menu.
 >

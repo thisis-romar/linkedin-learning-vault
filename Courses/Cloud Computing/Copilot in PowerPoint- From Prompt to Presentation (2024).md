@@ -214,7 +214,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/overview-of-copilot-features?u=76281980&t=134)** When you select any prompted suggestion, the text is going to change in the prompt window to include that as starter text.
 >
-> **[2:22](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/overview-of-copilot-features?u=76281980&t=142)** I'll choose, create a presentation about, and you'll see the blinking cursor appears ready for me to describe what type of presentation I want copilot to create.
+> **[2:22](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/overview-of-copilot-features?u=76281980&t=142)** I'll choose, create a presentation about, and you'll see the blinking [[Cursor]] appears ready for me to describe what type of presentation I want copilot to create.
 >
 > **[2:31](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/overview-of-copilot-features?u=76281980&t=151)** Alternatively, you can type the full prompt yourself.
 >
@@ -283,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/discovering-prompt-ideas-in-copilot-lab?u=76281980&t=60)** When I select any one of these prompt ideas from the Copilot Lab window, it will populate the starter text in the prompt window.
 >
-> **[1:08](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/discovering-prompt-ideas-in-copilot-lab?u=76281980&t=68)** The blinking cursor signifies that you'll have to complete the prompt with your own specific request.
+> **[1:08](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/discovering-prompt-ideas-in-copilot-lab?u=76281980&t=68)** The blinking [[Cursor]] signifies that you'll have to complete the prompt with your own specific request.
 >
 > **[1:14](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/discovering-prompt-ideas-in-copilot-lab?u=76281980&t=74)** At the bottom of the Copilot Lab window is a link to go to Copilot Lab.
 >
@@ -577,7 +577,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-from-a-document?u=76281980&t=83)** I can close this dialogue and use the Alt + Tab keys on my keyboard to switch back to [[Microsoft PowerPoint|PowerPoint]].
 >
-> **[1:30](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-from-a-document?u=76281980&t=90)** Now, I'll put my cursor in the prompt window and then press the Control and V keys on my keyboard.
+> **[1:30](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-from-a-document?u=76281980&t=90)** Now, I'll put my [[Cursor]] in the prompt window and then press the Control and V keys on my keyboard.
 >
 > **[1:37](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-from-a-document?u=76281980&t=97)** That will paste the link that I just copied from OneDrive.
 >

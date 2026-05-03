@@ -1078,7 +1078,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=44)** - You might be familiar with Agile already.
 >
-> **[0:47](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=47)** The manifesto for [[[[Agile Software Development]]]] was written in February of 2001 by a group of software developers, they were dissatisfied with the current state of [[Software Development]].
+> **[0:47](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=47)** The manifesto for [[Agile Software Development]] was written in February of 2001 by a group of software developers, they were dissatisfied with the current state of [[Software Development]].
 >
 > **[0:57](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=57)** - [James] Yeah, they felt that the current approach to improving software quality was just layering more and more process into the software development lifecycle, with the theory that more process and control would make for better solutions.
 >
@@ -2537,7 +2537,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=203)** TestNG is one for Java.
 >
-> **[3:25](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=205)** - And finally, acceptance, or [[End-to-end Testing]], is often UI-based, and you can use tools like [[Selenium]] or [[[Cypress.io]]](https://cypress.io).
+> **[3:25](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=205)** - And finally, acceptance, or [[End-to-end Testing]], is often UI-based, and you can use tools like [[Selenium]] or [cypress.io](https://cypress.io).
 >
 > **[3:33](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=213)** Complex apps without a UI can be tested under other automation tools, like Robot Framework or Postman.
 >
@@ -3938,7 +3938,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=84)** There are many useful websites and we list a bunch in the course handout, but two specific shout outs.
 >
-> **[1:31](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=91)** Martin Fowler writes expert articles on [[[[Agile Software Development]]]] and DevOps, and Julia Evans writes great zines and comics, illustrating tough technical topics in an easy to understand format.
+> **[1:31](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=91)** Martin Fowler writes expert articles on [[Agile Software Development]] and DevOps, and Julia Evans writes great zines and comics, illustrating tough technical topics in an easy to understand format.
 >
 > **[1:43](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=103)** - You know, we often get asked a lot about certifications.
 >

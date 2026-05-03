@@ -1139,7 +1139,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=207)** And you'll notice up here at the top, I have a play button for run script and I have another button right next to it that's run selection.
 >
-> **[3:34](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=214)** So as you want to test your scripts as you make them, you can actually just highlight the line or put your cursor anywhere in that line and simply run selection.
+> **[3:34](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=214)** So as you want to test your scripts as you make them, you can actually just highlight the line or put your [[Cursor]] anywhere in that line and simply run selection.
 >
 > **[3:41](https://www.linkedin.com/learning/learning-powershell/ise-and-you?u=76281980&t=221)** It'll run just that line.
 >

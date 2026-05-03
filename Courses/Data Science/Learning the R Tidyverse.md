@@ -291,7 +291,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=118)** So the installation is finished when you get to this point here.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=122)** So you have the prompt and the flashing cursor.
+> **[2:02](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=122)** So you have the prompt and the flashing [[Cursor]].
 >
 > **[2:05](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=125)** It might take longer on your machine.
 >
@@ -372,7 +372,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=18)** Let's take iris. Let me run this object or print it.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=23)** So, I'll put my cursor at the end of the object name and I'll hit Command + Enter or Ctrl + Enter in [[Windows]], and that prints the data frame to the console.
+> **[0:23](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=23)** So, I'll put my [[Cursor]] at the end of the object name and I'll hit Command + Enter or Ctrl + Enter in [[Windows]], and that prints the data frame to the console.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=33)** Now, it's kind of annoying to work with.
 >
@@ -634,7 +634,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=48)** My magrittr pipe to R script has got some code on lines 2 to 3 that uses a magrittr pipe.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=55)** And if I run this code by putting my cursor at the end of the pipe chain and hitting Command + Enter or Control + Enter, we get an error, and the error is that R could not find the function %>%.
+> **[0:55](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=55)** And if I run this code by putting my [[Cursor]] at the end of the pipe chain and hitting Command + Enter or Control + Enter, we get an error, and the error is that R could not find the function %>%.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=70)** That's because we haven't loaded a package that contains the magrittr pipe.
 >
@@ -741,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=43)** So I have my script base-r-pipe.R open, and I have some code.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=48)** Hello World is being piped into rep five, and if I run this code by putting my cursor at the end of this pipe chain and hitting Command + Enter or Control + Enter in [[Windows]], that's going to run the code, and it works successfully without loading any packages because it's the base R pipe.
+> **[0:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=48)** Hello World is being piped into rep five, and if I run this code by putting my [[Cursor]] at the end of this pipe chain and hitting Command + Enter or Control + Enter in [[Windows]], that's going to run the code, and it works successfully without loading any packages because it's the base R pipe.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=66)** It only works because I'm on a version of R that's after 4.1.
 >
@@ -2826,7 +2826,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-maximum-penguin-dimension-by-island?u=76281980&t=123)** I'm going to make sure that I add the na.rm argument to right function.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-maximum-penguin-dimension-by-island?u=76281980&t=128)** So I'm going to put my cursor inside of max.
+> **[2:08](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-maximum-penguin-dimension-by-island?u=76281980&t=128)** So I'm going to put my [[Cursor]] inside of max.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-maximum-penguin-dimension-by-island?u=76281980&t=131)** It highlights the closing bracket.
 >

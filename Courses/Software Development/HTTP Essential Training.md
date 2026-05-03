@@ -532,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=9)** A URL is a human-readable address, describing exactly where on the web and in what location on a server the information you are requesting is located.
 >
-> **[0:20](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=20)** Let's take a regular URL and break it apart to see how it fits together, [https://[[LinkedIn]].com/learning](https://linkedin.com/learning)/ [[JavaScript]]-essential-training-3/ and then a bunch of extra information.
+> **[0:20](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=20)** Let's take a regular URL and break it apart to see how it fits together, [https://linkedin.com/learning](https://linkedin.com/learning)/ [[JavaScript]]-essential-training-3/ and then a bunch of extra information.
 >
 > **[0:36](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=36)** The URL has two main pieces, a protocol declaration, and a Universal Resource Name, or URN.
 >
@@ -1106,7 +1106,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=145)** HTTP caching deserves an entire course of its own.
 >
-> **[2:29](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=149)** You can learn more about it in my course HTTP Two, Developing For Performance, and find further information on MDM and on developers.[[[Google]].com](https://google.com).
+> **[2:29](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=149)** You can learn more about it in my course HTTP Two, Developing For Performance, and find further information on MDM and on developers.[google.com](https://google.com).
 
 > [!info]- Semantic Content
 >
@@ -1125,7 +1125,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980&t=0)** - [Instructor] That concludes this introduction to HTTP now that you know the basics of how the hypertext transfer protocol works, I encourage you to dive deeper into this material by watching the learning [[Representational State Transfer (REST)|rest]] API course the HTTP 2 Developing for Performance course and reading the excellent documentation on HTTP on MDN and on developers.[[[Google]].com](https://google.com).
+> **[0:00](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980&t=0)** - [Instructor] That concludes this introduction to HTTP now that you know the basics of how the hypertext transfer protocol works, I encourage you to dive deeper into this material by watching the learning [[Representational State Transfer (REST)|rest]] API course the HTTP 2 Developing for Performance course and reading the excellent documentation on HTTP on MDN and on developers.[google.com](https://google.com).
 >
 > **[0:22](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980&t=22)** Knowing how HTTP works and how to make it work for you will open new doors and make your websites more performance and more user-friendly.
 >

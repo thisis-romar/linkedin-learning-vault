@@ -139,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/what-s-new?u=76281980&t=14)** From the positives, the use in our workplaces and how we communicate with each other even somehow, and how our kids do their homework.
 >
-> **[0:21](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/what-s-new?u=76281980&t=21)** And on the other side, we're seeing people begin to use these tools in less wonderful ways, using deepfake technology to affect elections and political discourse, or robot callers and scammers using GenAI to try to defraud us.
+> **[0:21](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/what-s-new?u=76281980&t=21)** And on the other side, we're seeing people begin to use these tools in less wonderful ways, using deepfake technology to affect elections and political discourse, or robot callers and scammers using [[Generative AI|GenAI]] to try to defraud us.
 >
 > **[0:36](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/what-s-new?u=76281980&t=36)** Now, none of this is unexpected, but as we see these new applications, we have to return to the core of how we think about generative AI through an ethical lens.
 >

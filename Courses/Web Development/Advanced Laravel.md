@@ -2080,9 +2080,9 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=186)** To see what's happening behind the scenes, let's install a package called telescope.
 >
-> **[3:11](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=191)** Go to the docs, [[[Laravel]].com](https://laravel.com), documentation.
+> **[3:11](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=191)** Go to the docs, [laravel.com](https://laravel.com), documentation.
 >
-> **[3:18](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=198)** Look for telescope, Laravel Telescope, and let's install it.
+> **[3:18](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=198)** Look for telescope, [[Laravel]] Telescope, and let's install it.
 >
 > **[3:23](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=203)** First we need to require it, composer require.
 >

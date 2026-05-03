@@ -211,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=33)** The application that you're developing may not be a web or mobile app, but I'll introduce you to some cloud concepts by showing you a few ways you can host a website with AWS, such as one built on [[WordPress]].
 >
-> **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=45)** You should have a basic understanding of how a web server works and how a domain name like [[[LinkedIn]].com](https://linkedin.com) points to an IP address for serving up that site to your web browser.
+> **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=45)** You should have a basic understanding of how a web server works and how a domain name like [linkedin.com](https://linkedin.com) points to an IP address for serving up that site to your web browser.
 >
 > **[0:56](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=56)** You likely don't transport your source code around using a huge external hard drive like this one anymore, but this hard drive will represent the source code and the assets to the application you want to run from within AWS.
 >
@@ -733,7 +733,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=282)** Okay, if these topics are brand new to you, and you've never managed servers before, search our catalog for [[Windows Server]] Security, or Linux Security, and you can dive deeper into these topics.
 >
-> **[4:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=295)** To get started with [[Application Security]], check out our course on [[Learning the [[OWASP]] Top 10]], which will cover the top 10 vulnerabilities in web applications.
+> **[4:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=295)** To get started with [[Application Security]], check out our course on [[Learning the OWASP Top 10]], which will cover the top 10 vulnerabilities in web applications.
 
 > [!info]- Semantic Content
 >
@@ -1577,7 +1577,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980&t=26)** This allows your wide area network interface to get a single public IP address from your internet provider, like 1.2.3.4, and to share that IP address to all the devices on your local area, network, or LAN.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980&t=41)** So when one of your computers, such as 192.168.1.2, goes to a website like [[[LinkedIn]].com](https://linkedin.com), the servers at LinkedIn will see traffic coming from the WAN interface at 1.2.3.4, and then when LinkedIn responds, the return traffic is sent to 1.2.3.4, and it's routed by your router back to the originating computer at 192.168.1.2.
+> **[0:41](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980&t=41)** So when one of your computers, such as 192.168.1.2, goes to a website like [linkedin.com](https://linkedin.com), the servers at [[LinkedIn]] will see traffic coming from the WAN interface at 1.2.3.4, and then when LinkedIn responds, the return traffic is sent to 1.2.3.4, and it's routed by your router back to the originating computer at 192.168.1.2.
 >
 > **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980&t=70)** Now, if some random person on the internet, such as 5.6.7.8, wants to reach one of your private devices, it's going to try to open a connection with 1.2.3.4, which is your WAN interface, and then your router will drop the traffic because it doesn't know which computer on your private network it needs to route this traffic to because no private device first talked to 5.6.7.8.
 >
@@ -2225,7 +2225,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=230)** Now we're going to remove the credentials element from this array.
 >
-> **[3:54](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=234)** So use your arrow keys to place your cursor at the end of the closing bracket, and hold down the backspace key until you get to the comma at the end of the region element.
+> **[3:54](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=234)** So use your arrow keys to place your [[Cursor]] at the end of the closing bracket, and hold down the backspace key until you get to the comma at the end of the region element.
 >
 > **[4:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=246)** Delete that trailing comma and save the file again by holding down CTRL+O and hitting enter.
 >
@@ -3053,7 +3053,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=122)** Or you can select to also enable Federated Identity Providers so your users could create accounts in your app by signing in with their Google, Facebook, Amazon or Apple logins.
 >
-> **[2:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=135)** This is similar to creating a new account with [[[LinkedIn]].com](https://linkedin.com) where it gives you the option to sign in with Google.
+> **[2:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=135)** This is similar to creating a new account with [linkedin.com](https://linkedin.com) where it gives you the option to sign in with Google.
 >
 > **[2:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=145)** I'm going to leave Federated Identity Providers off for now.
 >

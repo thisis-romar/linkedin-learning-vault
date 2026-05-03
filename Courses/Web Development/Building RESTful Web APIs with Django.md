@@ -432,7 +432,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=0)** - [Instructor] Sometimes we may have a lot of results to return from the query set in our API response.
 >
-> **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=6)** [[Django]] [[Representational State Transfer (REST)|REST]] framework provides three ways to paginate results: by PageNumber, by Limit OffSet, and by Cursor.
+> **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=6)** [[Django]] [[Representational State Transfer (REST)|REST]] framework provides three ways to paginate results: by PageNumber, by Limit OffSet, and by [[Cursor]].
 >
 > **[0:14](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=14)** The PageNumber pagination defaults to using Django's built-in paginator class and let's API consumers pass in a page number to get a page of results.
 >

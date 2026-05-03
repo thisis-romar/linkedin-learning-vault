@@ -303,7 +303,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/security-testing-for-ai-applications?u=76281980&t=192)** However, to get a feel for the extent of the problem, here we see the leaderboard showing the hallucination and accuracy rate of many AI models.
 >
-> **[3:21](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/security-testing-for-ai-applications?u=76281980&t=201)** According to this leaderboard, the model called GPT-4o, which is at the time of recording, the leading model in [[ChatGPT]], hallucinates about 1.5% of the time, making it factually consistent.
+> **[3:21](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/security-testing-for-ai-applications?u=76281980&t=201)** According to this leaderboard, the model called [[GPT-4|GPT-4o]], which is at the time of recording, the leading model in [[ChatGPT]], hallucinates about 1.5% of the time, making it factually consistent.
 >
 > **[3:36](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/security-testing-for-ai-applications?u=76281980&t=216)** In other words correct only 98.5% of the time, and it's one of the best models.
 >
@@ -977,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/installing-the-vulnerable-llm-application?u=76281980&t=18)** We can download the application with [[Git]] clone https.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/installing-the-vulnerable-llm-application?u=76281980&t=29)** [[[GitHub]].com](https://Github.com).
+> **[0:29](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/installing-the-vulnerable-llm-application?u=76281980&t=29)** [Github.com](https://Github.com).
 >
 > **[0:31](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/installing-the-vulnerable-llm-application?u=76281980&t=31)** With SecureLabs/damn-vulnerable-llm-agent.
 >
@@ -1595,7 +1595,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/compromise-during-download?u=76281980&t=124)** Let's download this file.
 >
-> **[2:07](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/compromise-during-download?u=76281980&t=127)** So we'll get from [[[Hugging Face|huggingface]].co](https://huggingface.co)/ RiddleLi/ a-very-safe-m0del/
+> **[2:07](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/compromise-during-download?u=76281980&t=127)** So we'll get from [huggingface.co](https://huggingface.co)/ RiddleLi/ a-very-safe-m0del/
 >
 > **[2:33](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/compromise-during-download?u=76281980&t=153)** resolve/main/ pytorch_model.bin.
 >
@@ -2343,7 +2343,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-the-target?u=76281980&t=119)** We then return the response.
 >
-> **[2:01](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-the-target?u=76281980&t=121)** In this case, we're going to be testing out an application which uses OpenAI's GPT-4o model.
+> **[2:01](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-the-target?u=76281980&t=121)** In this case, we're going to be testing out an application which uses OpenAI's [[GPT-4|GPT-4o]] model.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-the-target?u=76281980&t=129)** Next, we define an async method of generating an output, which just calls the same generate function.
 >
@@ -2760,7 +2760,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-to-control-access?u=76281980&t=79)** We can download the samples repository, although we'll only be using some of it.
 >
-> **[1:25](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-to-control-access?u=76281980&t=85)** [[Git]] clone https :// [[[GitHub]].com](https://github.com) /oktadev /auth0-ai-samples.
+> **[1:25](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-to-control-access?u=76281980&t=85)** [[Git]] clone https :// [github.com](https://github.com) /oktadev /auth0-ai-samples.
 >
 > **[1:47](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-to-control-access?u=76281980&t=107)** We'll create a folder and extract what we need into that, mkdlr secrag cd secrag, and copy ~/auth0-ai-samples and what we want is the authorization- for-rag /langchain- python/* and we'll just store that here.
 >
@@ -2906,7 +2906,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/access-control-in-action?u=76281980&t=63)** It has two functions.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/access-control-in-action?u=76281980&t=64)** The first is at line 15, and this is the instance initialization, which sets up to the vector store by loading the documents, creating a templated prompt and a handle to OpenAI using the GPT-4o mini model.
+> **[1:04](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/access-control-in-action?u=76281980&t=64)** The first is at line 15, and this is the instance initialization, which sets up to the vector store by loading the documents, creating a templated prompt and a handle to OpenAI using the [[GPT-4|GPT-4o]] mini model.
 >
 > **[1:21](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/access-control-in-action?u=76281980&t=81)** At line 24, the second function is the execution of a query.
 >

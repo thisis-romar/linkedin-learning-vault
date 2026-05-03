@@ -180,7 +180,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=0)** - [Instructor] Let's dive into the dataset to understand where the data might need cleaning or transformation.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=6)** If you'd like to learn more about the importance of data prep, cleaning, and domain knowledge prior to analysis, you can refer to my course, "[[[[Python (Programming Language)|Python]] for Data Analysis- Solve Real-World Challenges]]."
+> **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=6)** If you'd like to learn more about the importance of data prep, cleaning, and domain knowledge prior to analysis, you can refer to my course, "[[Python for Data Analysis- Solve Real-World Challenges]]."
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=18)** Let's begin by creating a new sheet and label it Initial Data Checks.
 >
@@ -188,7 +188,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=30)** I'll also add rows and columns where we'll look at our shape.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=36)** In cell C3, we'll open up a Python cell and start to define our data.
+> **[0:36](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=36)** In cell C3, we'll open up a [[Python (Programming Language)|Python]] cell and start to define our data.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-preparation-for-analysis?u=76281980&t=42)** We can go back to our input sheet and use Ctrl + Shift + Left and Down to capture our dataset.
 >

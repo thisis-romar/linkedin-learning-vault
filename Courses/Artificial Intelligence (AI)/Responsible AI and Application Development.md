@@ -237,7 +237,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/responsible-ai-and-application-development/being-responsible-end-to-end?u=76281980&t=185)** The next step is usually ops, where you continually update and improve your model with a similar pipeline.
 >
-> **[3:11](https://www.linkedin.com/learning/responsible-ai-and-application-development/being-responsible-end-to-end?u=76281980&t=191)** I'm not going to go into all of that in detail, but later in this series, Kumaran will do a deep dive on Gen AI Ops.
+> **[3:11](https://www.linkedin.com/learning/responsible-ai-and-application-development/being-responsible-end-to-end?u=76281980&t=191)** I'm not going to go into all of that in detail, but later in this series, Kumaran will do a deep dive on [[Generative AI|Gen AI]] Ops.
 >
 > **[3:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/being-responsible-end-to-end?u=76281980&t=198)** Okay, now we know where we're going to go.
 >

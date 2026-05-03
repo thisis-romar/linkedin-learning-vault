@@ -664,7 +664,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=68)** This tells the plotting library, called matplotlib, to display any plots it generates inline with the Jupyter notebook.
 >
-> **[1:16](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=76)** To run those commands, I'll press shift enter and that will drop my cursor down into a new entry cell.
+> **[1:16](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=76)** To run those commands, I'll press shift enter and that will drop my [[Cursor]] down into a new entry cell.
 >
 > **[1:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=82)** Now that we've imported the Qiskit library, we can create our first quantum circuit, which will consist of a single qubit, whose value will measure and then we'll store the value of that measurement in a classical bit.
 >

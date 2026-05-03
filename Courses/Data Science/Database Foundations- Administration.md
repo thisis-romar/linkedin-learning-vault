@@ -2828,9 +2828,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=13)** We talked a bit about operating systems in this course and there's a very strong connection between [[Relational Databases]] and the operating systems that host them.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=22)** If you wanted to learn more about the command line interface used inside of our docker containers, then take a look at the course [[[[Learning [[Linux]] Command Line]] (2023)]].
+> **[0:22](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=22)** If you wanted to learn more about the command line interface used inside of our docker containers, then take a look at the course [[[[Learning Linux Command Line]] (2023)]].
 >
-> **[0:32](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=32)** And for more information on the high availability technologies supported by different operating systems, head on over to Linux Foundation Cert Prep: System Design and Deployment or [[Windows Server]] 2019: High Availability.
+> **[0:32](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=32)** And for more information on the high availability technologies supported by different operating systems, head on over to [[Linux]] Foundation Cert Prep: System Design and Deployment or [[Windows Server]] 2019: High Availability.
 >
 > **[0:47](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=47)** As always, I've been Adam Wilbert.
 >

@@ -701,7 +701,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=40)** I'm going to do a search that specifically says Microsoft 365 for Enterprise overview.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=46)** And the reason I'm doing that search specifically is because I'm looking for a document, right, there's an article here, it's from learn.[[[Microsoft]].com](https://microsoft.com), that's called "Microsoft 365 for enterprise overview."
+> **[0:46](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=46)** And the reason I'm doing that search specifically is because I'm looking for a document, right, there's an article here, it's from learn.[microsoft.com](https://microsoft.com), that's called "Microsoft 365 for enterprise overview."
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=60)** And when I click on it, it will take me into a very detailed explanation of all sorts of different aspects of Microsoft 365 for the enterprise.
 >
@@ -715,7 +715,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=97)** When it comes to planning and deploying Microsoft 365, you have three options available.
 >
-> **[1:45](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=105)** You could do it in partnership with something called FastTrack, which is simply where the Microsoft engineers are going to help you move to the cloud at the pace that you require.
+> **[1:45](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=105)** You could do it in partnership with something called FastTrack, which is simply where the [[Microsoft]] engineers are going to help you move to the cloud at the pace that you require.
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/adopting-microsoft-365?u=76281980&t=116)** And there is a link if you'd like to get more information on how to make that happen.
 >
@@ -1048,11 +1048,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=87)** So I'm going to go ahead and click on that free trial, and it says, let's go ahead and get started.
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=91)** First thing you need to do is you need to enter an email address, so I'm going to go ahead and put in landonhotel and some random numbers here that I have @[[[Microsoft Outlook|outlook]].com](https://outlook.com).
+> **[1:31](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=91)** First thing you need to do is you need to enter an email address, so I'm going to go ahead and put in landonhotel and some random numbers here that I have @[outlook.com](https://outlook.com).
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=103)** I just created this email address just for this course, and you also may want to go ahead and do this, where you go ahead and create a free email address somewhere.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=114)** You can do it anywhere, Outlook or Gmail or whatever, and the reason why is 'cause this email address needs to not be tied to any other Microsoft or Office 365 product.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=114)** You can do it anywhere, [[Microsoft Outlook|Outlook]] or Gmail or whatever, and the reason why is 'cause this email address needs to not be tied to any other Microsoft or Office 365 product.
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980&t=126)** And if you're just trying to learn, you may want just a dummy email address to go with it.
 >
@@ -1417,7 +1417,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=12)** So here I want to tell you, we're already looking at the Microsoft 365 admin center because this is where it takes you once you've completed the setup and installation of Microsoft 365, but I do want to tell you that if you did not have this open, right, so let's just get completely out of it, if you ever want to go there, it's a very simple URL to remember.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=37)** All you have to go to is admin.[[[Microsoft]].com](https://microsoft.com), and when you do that, it will take you to one of two things.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=37)** All you have to go to is admin.[microsoft.com](https://microsoft.com), and when you do that, it will take you to one of two things.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=46)** It'll either take you straight into the Microsoft 365 admin center, or it will take you to a login screen, and then after you log in, it'll take you to the admin center.
 >
@@ -1449,7 +1449,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=177)** So you want to pin the areas of administration that you use most frequently.
 >
-> **[3:03](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=183)** Microsoft has given these, at least as of right now when I'm recording this, as the default.
+> **[3:03](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=183)** [[Microsoft]] has given these, at least as of right now when I'm recording this, as the default.
 >
 > **[3:09](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980&t=189)** And in any of the videos in this course, if I ever go into a particular section and you don't see it, all you ever have to do is click show all and you should be able to find that particular area.
 >
@@ -1975,7 +1975,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=122)** And now it's a valid email address.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=123)** Conference Room A at Landonhotel.[[[Microsoft]].com](https://microsoft.com).
+> **[2:03](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=123)** Conference Room A at Landonhotel.[microsoft.com](https://microsoft.com).
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/managing-resources?u=76281980&t=127)** I can put a capacity.
 >
@@ -2448,7 +2448,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=99)** And this is on an overview right now where we'd get an overview report, but more specifically, I want you to see that there are product reports for many of the different [[Microsoft Products|products]] and services that we have within Microsoft 365.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=114)** And for each one, I'll just use [[SharePoint]], for instance, I just had the cursor down near there.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=114)** And for each one, I'll just use [[SharePoint]], for instance, I just had the [[Cursor]] down near there.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/viewing-reports?u=76281980&t=119)** You'll see here that there's two different reports that we have available.
 >
@@ -2585,7 +2585,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=19)** And the reason why is because both security and compliance have a whole separate set of things that can be done to manage those areas of Microsoft 365.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=32)** So when I click on security, you'll see here it's taken me to security.[[[Microsoft]].com](https://microsoft.com) and it actually takes me to what's called, "Microsoft 365 [[Microsoft Defender|Defender]]."
+> **[0:32](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=32)** So when I click on security, you'll see here it's taken me to security.[microsoft.com](https://microsoft.com) and it actually takes me to what's called, "Microsoft 365 [[Microsoft Defender|Defender]]."
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=42)** And I want you to see that this looks very similar to the Microsoft 365 admin portal in the sense that you know, we have our navigation menu here and we can scroll down through everything and certain things we can go ahead and expand and we get extra information there.
 >
@@ -2597,7 +2597,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=87)** And that is the secure score.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=90)** Now, when I click on it, you're going to see that nothing's going to come up and it says, "Because Microsoft is calculating my secure store which takes two to four days from when the tenant was first created."
+> **[1:30](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=90)** Now, when I click on it, you're going to see that nothing's going to come up and it says, "Because [[Microsoft]] is calculating my secure store which takes two to four days from when the tenant was first created."
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/microsoft-365-security-and-compliance?u=76281980&t=101)** And I just created this for the purposes of recording these videos.
 >

@@ -390,7 +390,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=123)** This helps us associate the book data with the author data.
 >
-> **[2:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=127)** To learn more about the SQLAlchemy ORM I encourage you to check out my other database course, [[Advanced Python- Working with [[Databases]]]].
+> **[2:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=127)** To learn more about the SQLAlchemy ORM I encourage you to check out my other database course, [[Advanced Python- Working with Databases]].
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=137)** This other course goes deeper into the inner workings of SQL Alchemy.
 >
@@ -400,7 +400,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=153)** That's what we connect to when we run the engine.
 >
-> **[2:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=156)** SQLAlchemy cannot create databases on its own.
+> **[2:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=156)** SQLAlchemy cannot create [[Databases]] on its own.
 >
 > **[2:40](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=160)** We'll also need to install MySQL.
 >

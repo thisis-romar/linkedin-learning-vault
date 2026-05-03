@@ -491,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=10)** Cleverly named after the port used for DNS queries, Route 53 provides name address resolution.
 >
-> **[0:17](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=17)** It maps a user-friendly name like www.[[[Google]].com](https://google.com) to an IP address like 216.58.216.206.
+> **[0:17](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=17)** It maps a user-friendly name like www.[google.com](https://google.com) to an IP address like 216.58.216.206.
 >
 > **[0:28](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=28)** A more interesting capability of Route 53 is DNS failover.
 >

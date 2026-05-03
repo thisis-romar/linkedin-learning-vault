@@ -5684,7 +5684,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980&t=74)** There's our "Hello, World!"
 >
-> **[1:15](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980&t=75)** I'm going to put my cursor down here and I'm going to type a few words, this is a string.
+> **[1:15](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980&t=75)** I'm going to put my [[Cursor]] down here and I'm going to type a few words, this is a string.
 >
 > **[1:21](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980&t=81)** You notice this is four words long, but when I press my enter key, we get this response, istr has one word in it, so cin by default, just gets one word at a time.
 >

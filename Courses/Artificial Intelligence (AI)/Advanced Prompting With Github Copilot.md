@@ -765,7 +765,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=257)** So, if I go here, well, sometimes it's tricky to do that one.
 >
-> **[4:22](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=262)** We can say insert at cursor and look at that.
+> **[4:22](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=262)** We can say insert at [[Cursor]] and look at that.
 >
 > **[4:27](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=267)** I am pretty sure that we could, well, that is not exactly what I wanted, right?
 >
@@ -832,7 +832,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=105)** What are some of the steps?
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=106)** So what we're going to be doing is we're going to put our cursor right there in the read file function.
+> **[1:46](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=106)** So what we're going to be doing is we're going to put our [[Cursor]] right there in the read file function.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=114)** And then we are going to create a new chat session.
 >

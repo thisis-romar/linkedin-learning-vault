@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - moc
   - glossary
-glossary_entries: 778
+glossary_entries: 777
 created: 2026-05-02
 ---
 
@@ -13,7 +13,7 @@ created: 2026-05-02
 
 # Glossary Index
 
-> 778 named concepts, frameworks, libraries, and SDKs extracted from 1719 courses across 12 LinkedIn topics
+> 777 named concepts, frameworks, libraries, and SDKs extracted from 1719 courses across 12 LinkedIn topics
 
 Part of [[000 Map of Content]]
 
@@ -74,7 +74,7 @@ Part of [[000 Map of Content]]
 5. [[spaCy]] — 151 mentions · 10 courses
 6. [[D3.js]] — 112 mentions · 22 courses
 
-## Sdk
+## SDK
 
 1. [[Android]] — 905 mentions · 157 courses
 2. [[OpenAI API]] — 224 mentions · 45 courses
@@ -99,7 +99,7 @@ Part of [[000 Map of Content]]
 16. [[Arduino]] — 539 mentions · 12 courses
 17. [[Nmap]] — 516 mentions · 41 courses
 18. [[Bitbucket]] — 391 mentions · 46 courses
-19. [[PLC]] — 346 mentions · 9 courses
+19. [[PLC]] — 352 mentions · 9 courses
 20. [[Xcode]] — 337 mentions · 29 courses
 21. [[Confluence]] — 321 mentions · 24 courses
 22. [[AutoCAD]] — 315 mentions · 8 courses
@@ -704,117 +704,116 @@ Part of [[000 Map of Content]]
 530. [[Lead Change]] — 6 mentions · 6 courses
 531. [[Messaging Platforms]] — 6 mentions · 6 courses
 532. [[Privacy Compliance]] — 6 mentions · 5 courses
-533. [[Programmable Logic Controller (PLC)]] — 6 mentions · 2 courses
-534. [[Project Tracking]] — 6 mentions · 5 courses
-535. [[Team Leadership]] — 6 mentions · 5 courses
-536. [[Team Management]] — 6 mentions · 6 courses
-537. [[Anthropic Claude]] — 5 mentions · 4 courses
-538. [[Business Communications]] — 5 mentions · 5 courses
-539. [[Business Process Management]] — 5 mentions · 4 courses
-540. [[Cloud-Native Applications]] — 5 mentions · 5 courses
-541. [[Cross-platform Development]] — 5 mentions · 3 courses
-542. [[Cross-team Collaboration]] — 5 mentions · 5 courses
-543. [[CSS Grid Layout]] — 5 mentions · 2 courses
-544. [[Embedded C]] — 5 mentions · 1 courses
-545. [[Entrepreneurship]] — 5 mentions · 4 courses
-546. [[Learning Agility]] — 5 mentions · 5 courses
-547. [[Nonprofit Organizations]] — 5 mentions · 5 courses
-548. [[Secure Authentication]] — 5 mentions · 5 courses
-549. [[Software Deployment]] — 5 mentions · 5 courses
-550. [[Supply Chain Operations]] — 5 mentions · 5 courses
-551. [[Talent Management]] — 5 mentions · 3 courses
-552. [[User Interviews]] — 5 mentions · 5 courses
-553. [[Web Application Development]] — 5 mentions · 5 courses
-554. [[ASP.NET MVC]] — 4 mentions · 4 courses
-555. [[ASP.NET Razor]] — 4 mentions · 1 courses
-556. [[Customer Service Skills]] — 4 mentions · 3 courses
-557. [[Cypress.io]] — 4 mentions · 3 courses
-558. [[Data Build Tool (DBT)]] — 4 mentions · 4 courses
-559. [[Data Strategies]] — 4 mentions · 3 courses
-560. [[De-escalation]] — 4 mentions · 2 courses
-561. [[Economic Modeling]] — 4 mentions · 2 courses
-562. [[Embedded Software]] — 4 mentions · 3 courses
-563. [[Excel Dashboards]] — 4 mentions · 2 courses
-564. [[Grit]] — 4 mentions · 4 courses
-565. [[Issue Management]] — 4 mentions · 3 courses
-566. [[IT Audit]] — 4 mentions · 4 courses
-567. [[IT Compliance]] — 4 mentions · 2 courses
-568. [[Mobile Application Development]] — 4 mentions · 2 courses
-569. [[Network Traffic Analysis]] — 4 mentions · 3 courses
-570. [[Personal Data Protection]] — 4 mentions · 4 courses
-571. [[Phone Etiquette]] — 4 mentions · 1 courses
-572. [[Presentation Design]] — 4 mentions · 2 courses
-573. [[Sales Presentations]] — 4 mentions · 2 courses
-574. [[Software Quality Assurance]] — 4 mentions · 2 courses
-575. [[Strategic Leadership]] — 4 mentions · 4 courses
-576. [[Applied Machine Learning]] — 3 mentions · 3 courses
-577. [[Business Innovation]] — 3 mentions · 3 courses
-578. [[Cash Flow Management]] — 3 mentions · 2 courses
-579. [[Code Interpretation]] — 3 mentions · 2 courses
-580. [[Crisis Communications]] — 3 mentions · 2 courses
-581. [[Customer Analysis]] — 3 mentions · 3 courses
-582. [[Cybersecurity Tools]] — 3 mentions · 3 courses
-583. [[Job Searching]] — 3 mentions · 3 courses
-584. [[Organizational Leadership]] — 3 mentions · 3 courses
-585. [[Principle for Mac]] — 3 mentions · 1 courses
-586. [[Resume Writing]] — 3 mentions · 2 courses
-587. [[Scalable Web Applications]] — 3 mentions · 3 courses
-588. [[Software Integration]] — 3 mentions · 2 courses
-589. [[Statistical Data Analysis]] — 3 mentions · 2 courses
-590. [[Virtual Work]] — 3 mentions · 3 courses
-591. [[Workflow Optimization]] — 3 mentions · 3 courses
-592. [[AI Productivity]] — 2 mentions · 2 courses
-593. [[Algorithm Design]] — 2 mentions · 2 courses
-594. [[Automatic Text Summarization]] — 2 mentions · 1 courses
-595. [[Break-even Analysis]] — 2 mentions · 2 courses
-596. [[Circuit Design]] — 2 mentions · 2 courses
-597. [[Code Refactoring]] — 2 mentions · 2 courses
-598. [[Creative Ideation]] — 2 mentions · 2 courses
-599. [[Customer Marketing]] — 2 mentions · 1 courses
-600. [[Cybersecurity Incident Response]] — 2 mentions · 2 courses
-601. [[Ethical Leadership]] — 2 mentions · 1 courses
-602. [[GatsbyJS]] — 2 mentions · 1 courses
-603. [[Interpersonal Communication]] — 2 mentions · 2 courses
-604. [[Network Monitoring Tools]] — 2 mentions · 2 courses
-605. [[OpenAI Products]] — 2 mentions · 2 courses
-606. [[Sales Automation]] — 2 mentions · 2 courses
-607. [[Staging to Live]] — 2 mentions · 1 courses
-608. [[Technical Communication]] — 2 mentions · 2 courses
-609. [[Accessibility Audits]] — 1 mentions · 1 courses
-610. [[AI for HR]] — 1 mentions · 1 courses
-611. [[AI Prompting]] — 1 mentions · 1 courses
-612. [[Application Security Assessments]] — 1 mentions · 1 courses
-613. [[Blockchain Architecture]] — 1 mentions · 1 courses
-614. [[Budget Analysis]] — 1 mentions · 1 courses
-615. [[Building Accessibility]] — 1 mentions · 1 courses
-616. [[Business Ethics]] — 1 mentions · 1 courses
-617. [[Career Management]] — 1 mentions · 1 courses
-618. [[Challenging Environment]] — 1 mentions · 1 courses
-619. [[Chatbot Development]] — 1 mentions · 1 courses
-620. [[Cloud-Native Architecture]] — 1 mentions · 1 courses
-621. [[Conditional Image Generation]] — 1 mentions · 1 courses
-622. [[Creativity Skills]] — 1 mentions · 1 courses
-623. [[Cyber Security Risk]] — 1 mentions · 1 courses
-624. [[Cybersecurity Incident Management]] — 1 mentions · 1 courses
-625. [[Database Testing]] — 1 mentions · 1 courses
-626. [[Email Etiquette]] — 1 mentions · 1 courses
-627. [[EU Law]] — 1 mentions · 1 courses
-628. [[Game Programming]] — 1 mentions · 1 courses
-629. [[IT Accessibility]] — 1 mentions · 1 courses
-630. [[IT Infrastructure Management]] — 1 mentions · 1 courses
-631. [[IT Process Automation]] — 1 mentions · 1 courses
-632. [[Java Software Development]] — 1 mentions · 1 courses
-633. [[Leadership Accountability]] — 1 mentions · 1 courses
-634. [[LinkedIn Marketing]] — 1 mentions · 1 courses
-635. [[Management Development]] — 1 mentions · 1 courses
-636. [[Marketing Leadership]] — 1 mentions · 1 courses
-637. [[Nature Conservation]] — 1 mentions · 1 courses
-638. [[Open Innovation]] — 1 mentions · 1 courses
-639. [[Prototype Validation]] — 1 mentions · 1 courses
-640. [[Sales Effectiveness]] — 1 mentions · 1 courses
-641. [[Software Development Security]] — 1 mentions · 1 courses
-642. [[Speech Writing]] — 1 mentions · 1 courses
-643. [[System Deployment]] — 1 mentions · 1 courses
-644. [[Test Automation Tools]] — 1 mentions · 1 courses
-645. [[Virtual Collaboration]] — 1 mentions · 1 courses
-646. [[Web Application Design]] — 1 mentions · 1 courses
+533. [[Project Tracking]] — 6 mentions · 5 courses
+534. [[Team Leadership]] — 6 mentions · 5 courses
+535. [[Team Management]] — 6 mentions · 6 courses
+536. [[Anthropic Claude]] — 5 mentions · 4 courses
+537. [[Business Communications]] — 5 mentions · 5 courses
+538. [[Business Process Management]] — 5 mentions · 4 courses
+539. [[Cloud-Native Applications]] — 5 mentions · 5 courses
+540. [[Cross-platform Development]] — 5 mentions · 3 courses
+541. [[Cross-team Collaboration]] — 5 mentions · 5 courses
+542. [[CSS Grid Layout]] — 5 mentions · 2 courses
+543. [[Embedded C]] — 5 mentions · 1 courses
+544. [[Entrepreneurship]] — 5 mentions · 4 courses
+545. [[Learning Agility]] — 5 mentions · 5 courses
+546. [[Nonprofit Organizations]] — 5 mentions · 5 courses
+547. [[Secure Authentication]] — 5 mentions · 5 courses
+548. [[Software Deployment]] — 5 mentions · 5 courses
+549. [[Supply Chain Operations]] — 5 mentions · 5 courses
+550. [[Talent Management]] — 5 mentions · 3 courses
+551. [[User Interviews]] — 5 mentions · 5 courses
+552. [[Web Application Development]] — 5 mentions · 5 courses
+553. [[ASP.NET MVC]] — 4 mentions · 4 courses
+554. [[ASP.NET Razor]] — 4 mentions · 1 courses
+555. [[Customer Service Skills]] — 4 mentions · 3 courses
+556. [[Cypress.io]] — 4 mentions · 3 courses
+557. [[Data Build Tool (DBT)]] — 4 mentions · 4 courses
+558. [[Data Strategies]] — 4 mentions · 3 courses
+559. [[De-escalation]] — 4 mentions · 2 courses
+560. [[Economic Modeling]] — 4 mentions · 2 courses
+561. [[Embedded Software]] — 4 mentions · 3 courses
+562. [[Excel Dashboards]] — 4 mentions · 2 courses
+563. [[Grit]] — 4 mentions · 4 courses
+564. [[Issue Management]] — 4 mentions · 3 courses
+565. [[IT Audit]] — 4 mentions · 4 courses
+566. [[IT Compliance]] — 4 mentions · 2 courses
+567. [[Mobile Application Development]] — 4 mentions · 2 courses
+568. [[Network Traffic Analysis]] — 4 mentions · 3 courses
+569. [[Personal Data Protection]] — 4 mentions · 4 courses
+570. [[Phone Etiquette]] — 4 mentions · 1 courses
+571. [[Presentation Design]] — 4 mentions · 2 courses
+572. [[Sales Presentations]] — 4 mentions · 2 courses
+573. [[Software Quality Assurance]] — 4 mentions · 2 courses
+574. [[Strategic Leadership]] — 4 mentions · 4 courses
+575. [[Applied Machine Learning]] — 3 mentions · 3 courses
+576. [[Business Innovation]] — 3 mentions · 3 courses
+577. [[Cash Flow Management]] — 3 mentions · 2 courses
+578. [[Code Interpretation]] — 3 mentions · 2 courses
+579. [[Crisis Communications]] — 3 mentions · 2 courses
+580. [[Customer Analysis]] — 3 mentions · 3 courses
+581. [[Cybersecurity Tools]] — 3 mentions · 3 courses
+582. [[Job Searching]] — 3 mentions · 3 courses
+583. [[Organizational Leadership]] — 3 mentions · 3 courses
+584. [[Principle for Mac]] — 3 mentions · 1 courses
+585. [[Resume Writing]] — 3 mentions · 2 courses
+586. [[Scalable Web Applications]] — 3 mentions · 3 courses
+587. [[Software Integration]] — 3 mentions · 2 courses
+588. [[Statistical Data Analysis]] — 3 mentions · 2 courses
+589. [[Virtual Work]] — 3 mentions · 3 courses
+590. [[Workflow Optimization]] — 3 mentions · 3 courses
+591. [[AI Productivity]] — 2 mentions · 2 courses
+592. [[Algorithm Design]] — 2 mentions · 2 courses
+593. [[Automatic Text Summarization]] — 2 mentions · 1 courses
+594. [[Break-even Analysis]] — 2 mentions · 2 courses
+595. [[Circuit Design]] — 2 mentions · 2 courses
+596. [[Code Refactoring]] — 2 mentions · 2 courses
+597. [[Creative Ideation]] — 2 mentions · 2 courses
+598. [[Customer Marketing]] — 2 mentions · 1 courses
+599. [[Cybersecurity Incident Response]] — 2 mentions · 2 courses
+600. [[Ethical Leadership]] — 2 mentions · 1 courses
+601. [[GatsbyJS]] — 2 mentions · 1 courses
+602. [[Interpersonal Communication]] — 2 mentions · 2 courses
+603. [[Network Monitoring Tools]] — 2 mentions · 2 courses
+604. [[OpenAI Products]] — 2 mentions · 2 courses
+605. [[Sales Automation]] — 2 mentions · 2 courses
+606. [[Staging to Live]] — 2 mentions · 1 courses
+607. [[Technical Communication]] — 2 mentions · 2 courses
+608. [[Accessibility Audits]] — 1 mentions · 1 courses
+609. [[AI for HR]] — 1 mentions · 1 courses
+610. [[AI Prompting]] — 1 mentions · 1 courses
+611. [[Application Security Assessments]] — 1 mentions · 1 courses
+612. [[Blockchain Architecture]] — 1 mentions · 1 courses
+613. [[Budget Analysis]] — 1 mentions · 1 courses
+614. [[Building Accessibility]] — 1 mentions · 1 courses
+615. [[Business Ethics]] — 1 mentions · 1 courses
+616. [[Career Management]] — 1 mentions · 1 courses
+617. [[Challenging Environment]] — 1 mentions · 1 courses
+618. [[Chatbot Development]] — 1 mentions · 1 courses
+619. [[Cloud-Native Architecture]] — 1 mentions · 1 courses
+620. [[Conditional Image Generation]] — 1 mentions · 1 courses
+621. [[Creativity Skills]] — 1 mentions · 1 courses
+622. [[Cyber Security Risk]] — 1 mentions · 1 courses
+623. [[Cybersecurity Incident Management]] — 1 mentions · 1 courses
+624. [[Database Testing]] — 1 mentions · 1 courses
+625. [[Email Etiquette]] — 1 mentions · 1 courses
+626. [[EU Law]] — 1 mentions · 1 courses
+627. [[Game Programming]] — 1 mentions · 1 courses
+628. [[IT Accessibility]] — 1 mentions · 1 courses
+629. [[IT Infrastructure Management]] — 1 mentions · 1 courses
+630. [[IT Process Automation]] — 1 mentions · 1 courses
+631. [[Java Software Development]] — 1 mentions · 1 courses
+632. [[Leadership Accountability]] — 1 mentions · 1 courses
+633. [[LinkedIn Marketing]] — 1 mentions · 1 courses
+634. [[Management Development]] — 1 mentions · 1 courses
+635. [[Marketing Leadership]] — 1 mentions · 1 courses
+636. [[Nature Conservation]] — 1 mentions · 1 courses
+637. [[Open Innovation]] — 1 mentions · 1 courses
+638. [[Prototype Validation]] — 1 mentions · 1 courses
+639. [[Sales Effectiveness]] — 1 mentions · 1 courses
+640. [[Software Development Security]] — 1 mentions · 1 courses
+641. [[Speech Writing]] — 1 mentions · 1 courses
+642. [[System Deployment]] — 1 mentions · 1 courses
+643. [[Test Automation Tools]] — 1 mentions · 1 courses
+644. [[Virtual Collaboration]] — 1 mentions · 1 courses
+645. [[Web Application Design]] — 1 mentions · 1 courses

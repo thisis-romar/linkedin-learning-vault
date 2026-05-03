@@ -1143,7 +1143,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=71)** It basically made up some data and just plotted this line chart.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=75)** Gen AI models can have brain feeds, they can hallucinate, they can be plain wrong.
+> **[1:15](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=75)** [[Generative AI|Gen AI]] models can have brain feeds, they can hallucinate, they can be plain wrong.
 >
 > **[1:20](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=80)** I know this is not what I want.
 >
@@ -1287,7 +1287,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=210)** So that's something to keep in mind.
 >
-> **[3:32](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=212)** Gen AI models always set up the PyTorch Lightning module for my neural network correctly, but it often forgot the [[Data Processing]] module.
+> **[3:32](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=212)** [[Generative AI|Gen AI]] models always set up the PyTorch Lightning module for my neural network correctly, but it often forgot the [[Data Processing]] module.
 >
 > **[3:41](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=221)** Now, copying this code over will not allow us to learn and understand how PyTorch Lightning works.
 >
@@ -1475,7 +1475,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=66)** These correspond to the six different sections into which LightningModule organizes your code.
 >
-> **[1:13](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=73)** Let's get help from gen AI to understand the basic structure of a LightningModule.
+> **[1:13](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=73)** Let's get help from [[Generative AI|gen AI]] to understand the basic structure of a LightningModule.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=78)** I've pasted in the skeleton code with all of the methods and here is my prompt, "Can you explain each of these methods in the PyTorch LightningModule?"
 >

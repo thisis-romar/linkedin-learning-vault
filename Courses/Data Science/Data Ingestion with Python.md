@@ -1571,7 +1571,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=114)** You will get something known as an SQL Injection.
 >
-> **[1:57](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=117)** Then in line 13 we create a cursor, we execute the query, and then we do a for loop on the cursor, every time getting a row.
+> **[1:57](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=117)** Then in line 13 we create a [[Cursor]], we execute the query, and then we do a for loop on the cursor, every time getting a row.
 >
 > **[2:06](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=126)** We're getting the distance column from the row and increment the count and the total.
 >

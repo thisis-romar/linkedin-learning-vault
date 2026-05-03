@@ -99,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980&t=14)** This is where a web API comes in, providing a uniform contract to talk to a service.
 >
-> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980&t=21)** In my [[LinkedIn]] Learning Course, I will show you how to use [[[ASP.NET]]](https://ASP.NET) Core to build a powerful [[Representational State Transfer (REST)|rest]] API that any client may use.
+> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980&t=21)** In my [[LinkedIn]] Learning Course, I will show you how to use [ASP.NET](https://ASP.NET) Core to build a powerful [[Representational State Transfer (REST)|rest]] API that any client may use.
 >
 > **[0:31](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980&t=31)** You'll see what [ASP.NET](https://ASP.NET) Core offers and how it makes creating APIs a positive and productive experience.
 >
@@ -122,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980&t=0)** - [Christian] In this course, we will be creating APIs with .NET.
 >
-> **[0:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980&t=5)** Well, with [[[ASP.NET]]](https://ASP.NET) Core to be specific.
+> **[0:05](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980&t=5)** Well, with [ASP.NET](https://ASP.NET) Core to be specific.
 >
 > **[0:09](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/why-an-api?u=76281980&t=9)** Remember what was previously called .NET Core is now called .NET, but the web portion is still [ASP.NET](https://ASP.NET) Core.
 >
@@ -190,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980&t=123)** But still, if you know the details about HTTP, that's certainly helpful.
 >
-> **[2:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980&t=130)** Also, if you have previously worked with the web stack of .NET, which is commonly called [[[ASP.NET]]](https://ASP.NET) core and includes, among other things, the web API stack that we will be using, but also web technologies or web frameworks like [ASP.NET](https://ASP.NET) Core MVC or [ASP.NET](https://ASP.NET) Core Razor Pages, you will recognize some or many of the things that we are about to show and discuss.
+> **[2:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980&t=130)** Also, if you have previously worked with the web stack of .NET, which is commonly called [ASP.NET](https://ASP.NET) core and includes, among other things, the web API stack that we will be using, but also web technologies or web frameworks like [ASP.NET](https://ASP.NET) Core MVC or [ASP.NET](https://ASP.NET) Core Razor Pages, you will recognize some or many of the things that we are about to show and discuss.
 >
 > **[2:38](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/what-you-should-know?u=76281980&t=158)** On the other hand, if you don't, don't worry.
 >
@@ -215,7 +215,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=0)** - [Instructor] Let's get started and dive right into creating APIs with [[[ASP.NET]]](https://ASP.NET) Core.
+> **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=0)** - [Instructor] Let's get started and dive right into creating APIs with [ASP.NET](https://ASP.NET) Core.
 >
 > **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980&t=8)** Before we do that, we first have to pick the software we will be using to implement those APIs.
 >
@@ -372,7 +372,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=67)** So you can also filter by language.
 >
-> **[1:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=70)** And in the end, you will have a template called [[[ASP.NET]]](https://ASP.NET) Core Web API.
+> **[1:10](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=70)** And in the end, you will have a template called [ASP.NET](https://ASP.NET) Core Web API.
 >
 > **[1:15](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/hello-world-api-style?u=76281980&t=75)** And that sets up an API for us.
 >
@@ -724,7 +724,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=340)** It's baked into HTTP.
 >
-> **[5:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=342)** It's also possible with [[[ASP.NET]]](https://ASP.Net) core web API, but I'm sorry, we will only work with JSON in this course because that's the defacto standard for APIs these days.
+> **[5:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=342)** It's also possible with [ASP.Net](https://ASP.Net) core web API, but I'm sorry, we will only work with JSON in this course because that's the defacto standard for APIs these days.
 >
 > **[5:56](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-in-a-nutshell?u=76281980&t=356)** All you have to remember is that HTP is very well suited for usage within APIs.
 >
@@ -880,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=11)** I do have my preferences when creating an API, but you may have developed your own.
 >
-> **[0:18](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=18)** This course is on creating web APIs with .NET and [[[ASP.NET]]](https://ASP.NET) Core, so I do not want to force you to a specific style.
+> **[0:18](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=18)** This course is on creating web APIs with .NET and [ASP.NET](https://ASP.NET) Core, so I do not want to force you to a specific style.
 >
 > **[0:27](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/api-design-basics?u=76281980&t=27)** I would like you to learn how web APIs work with the .NET stack.
 >
@@ -1099,7 +1099,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=0)** - [Instructor] In this chapter, we will start implementing the API for HPlusSport with the probably easiest use case there is, retrieving data.
 >
-> **[0:12](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=12)** Remember what we've done so far, we've created a project using the [[[ASP.NET]]](https://ASP.NET) core Web API template.
+> **[0:12](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=12)** Remember what we've done so far, we've created a project using the [ASP.NET](https://ASP.NET) core Web API template.
 >
 > **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980&t=20)** And in that wizard, or alternatively when using the .NET [[CLI]] with the parameters the CLI provides us with, we made sure that we use controllers.
 >
@@ -1368,7 +1368,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=40)** So the actual data model is a bit more complex than what we are doing.
 >
-> **[0:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=43)** But with those information so far, we can implement quite a bit with a [[[ASP.NET]]](https://ASP.NET) Core web API.
+> **[0:43](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=43)** But with those information so far, we can implement quite a bit with a [ASP.NET](https://ASP.NET) Core web API.
 >
 > **[0:52](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/creating-a-data-model?u=76281980&t=52)** Note that the cross-back training tank here somehow doesn't show a price.
 >
@@ -1620,7 +1620,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=49)** Remember that the shop context had this products property and this will just retrieve the data.
 >
-> **[0:59](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=59)** The method returns the list and [[[ASP.NET]]](https://ASP.NET) core web API automatically serializes that into [[JSON]].
+> **[0:59](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=59)** The method returns the list and [ASP.NET](https://ASP.NET) core web API automatically serializes that into [[JSON]].
 >
 > **[1:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/returning-a-list-of-items?u=76281980&t=67)** So let's go over to Visual Studio.
 >
@@ -1943,7 +1943,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=4)** We can retrieve all [[Microsoft Products|products]] and a single product.
 >
-> **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=8)** Now how about we migrate this to minimal API so that you see the same thing, but using the alternative approach for creating APIs with [[[ASP.NET]]](https://ASP.NET) Core.
+> **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=8)** Now how about we migrate this to minimal API so that you see the same thing, but using the alternative approach for creating APIs with [ASP.NET](https://ASP.NET) Core.
 >
 > **[0:20](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/working-with-minimal-apis?u=76281980&t=20)** In Program.cs, what we need to do is, we have to add several calls to app.Map and then Get, which basically maps a get request to an endpoint.
 >
@@ -2032,7 +2032,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980&t=8)** Take the API as it is, but add a new endpoint and that endpoint should not return a list of all [[Microsoft Products|products]], but only of those products that are in stock.
 >
-> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980&t=21)** So think about a good URI for that endpoint, and then implement it in a [[[ASP.NET]]](https://ASP.NET) core web API.
+> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/challenge-searching-items?u=76281980&t=21)** So think about a good URI for that endpoint, and then implement it in a [ASP.NET](https://ASP.NET) core web API.
 
 > [!info]- Semantic Content
 >
@@ -2218,7 +2218,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=191)** So if you have parameters there, like, question mark, A equals B, then that parameter A can be a parameter for the action method.
 >
-> **[3:23](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=203)** In many cases, [[[ASP.NET]]](https://ASP.NET) Core web API is clever enough to take the correct source from where data is pulled.
+> **[3:23](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=203)** In many cases, [ASP.NET](https://ASP.NET) Core web API is clever enough to take the correct source from where data is pulled.
 >
 > **[3:33](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-binding?u=76281980&t=213)** In other cases, there is an order of priorities which source is looked at first, but, and I've said this twice before, and I'll say it a third time now, be as explicit as possible because that will save you from some pain later on.
 >
@@ -2259,7 +2259,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=49)** That's the model binding we've just talked about.
 >
-> **[0:54](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=54)** [[[ASP.NET]]](https://ASP.NET) Core web API assembles a product out of the individual values that are sent as part of the HTTP request as you'll see in a minute.
+> **[0:54](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=54)** [ASP.NET](https://ASP.NET) Core web API assembles a product out of the individual values that are sent as part of the HTTP request as you'll see in a minute.
 >
 > **[1:07](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/adding-an-item-with-post?u=76281980&t=67)** In the implementation of that method, we have to access our database context, so DB or _context to, we were calling that and then .[[Microsoft Products|Products]], which represents all of the products in our data store .Add.
 >
@@ -2460,7 +2460,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=13)** There are other attributes apart from required as well, but that's beyond the scope of this course.
 >
-> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=21)** That's something baked into [[[ASP.NET]]](https://ASP.NET) Core.
+> **[0:21](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=21)** That's something baked into [ASP.NET](https://ASP.NET) Core.
 >
 > **[0:24](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/model-validation?u=76281980&t=24)** However required is pretty useful.
 >
@@ -3114,7 +3114,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=102)** For instance, enforcing HTTPS, or making the API friendly for [[JavaScript]] calls, because there are some security mechanisms in place, or using token-based authorization or authentication for your API.
 >
-> **[1:56](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=116)** Lots of topics, which will be covered in the advanced [[[ASP.NET]]](https://ASP.NET) Core web API course.
+> **[1:56](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=116)** Lots of topics, which will be covered in the advanced [ASP.NET](https://ASP.NET) Core web API course.
 >
 > **[2:04](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980&t=124)** So if you're interested in the things you see here, I can only recommend in watching that advanced course.
 >

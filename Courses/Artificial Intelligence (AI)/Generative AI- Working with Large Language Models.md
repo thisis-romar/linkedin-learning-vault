@@ -1772,7 +1772,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=127)** Now I'm just going to go ahead and ignore this walkthrough, and so I'm just going to go ahead and close this window.
 >
-> **[2:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=135)** Now in the previous video, we found that the GPT-4o Mini model was the better of the two at explaining Jokes.
+> **[2:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=135)** Now in the previous video, we found that the [[GPT-4|GPT-4o]] Mini model was the better of the two at explaining Jokes.
 >
 > **[2:23](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=143)** So let's head back to GitHub Marketplace.
 >

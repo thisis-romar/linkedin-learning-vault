@@ -310,7 +310,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=36)** This will take us into the properties window, where we can control what this looks like.
 >
-> **[0:42](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=42)** So first off we can control the cursor size, I'm going to click that to be a big one.
+> **[0:42](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=42)** So first off we can control the [[Cursor]] size, I'm going to click that to be a big one.
 >
 > **[0:46](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=46)** And you'll see the cursor size is now larger.
 >

@@ -179,7 +179,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980&t=87)** And you can see it's shifted over.
 >
-> **[1:29](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980&t=89)** Now another thing you can do is, if you want, notice when I place the cursor over the x here and I scrub, I can move the position using the mouse.
+> **[1:29](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980&t=89)** Now another thing you can do is, if you want, notice when I place the [[Cursor]] over the x here and I scrub, I can move the position using the mouse.
 >
 > **[1:45](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980&t=105)** These are called scrubby numbers and they all apply for everything.
 >
@@ -612,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980&t=45)** There are two ways of adding text, in principle.
 >
-> **[0:50](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980&t=50)** The first way is to come to the insert menu, select text, and there's your text cursor, or the other thing you can do is just press the tiki, whichever way works for you is always the best way.
+> **[0:50](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980&t=50)** The first way is to come to the insert menu, select text, and there's your text [[Cursor]], or the other thing you can do is just press the tiki, whichever way works for you is always the best way.
 >
 > **[1:07](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980&t=67)** So the first bit of text we're going to enter is terracotta warriors.
 >
@@ -1173,7 +1173,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/principle-for-ux-design-22683376/modify-content-in-the-properties-panel?u=76281980&t=63)** But my favorite way of doing it, of course, is the scrubbing numbers.
 >
-> **[1:06](https://www.linkedin.com/learning/principle-for-ux-design-22683376/modify-content-in-the-properties-panel?u=76281980&t=66)** So just roll over one of the properties, not the number the property, and you see the cursor changes to a split, and I can just drag my mouse and change its position.
+> **[1:06](https://www.linkedin.com/learning/principle-for-ux-design-22683376/modify-content-in-the-properties-panel?u=76281980&t=66)** So just roll over one of the properties, not the number the property, and you see the [[Cursor]] changes to a split, and I can just drag my mouse and change its position.
 >
 > **[1:21](https://www.linkedin.com/learning/principle-for-ux-design-22683376/modify-content-in-the-properties-panel?u=76281980&t=81)** So there are three ways of doing it just to review, scrubbing numbers, do it by the numbers, or select the value and change it using the up and down arrows right there.
 >

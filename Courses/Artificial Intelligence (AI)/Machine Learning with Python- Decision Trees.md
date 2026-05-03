@@ -124,9 +124,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=7)** First, I assume that you have a fundamental understanding of what machine learning is, specifically supervised machine learning.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=17)** If you don't, I recommend that you review my introductory [[LinkedIn]] Learning course, [[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]].
+> **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=17)** If you don't, I recommend that you review my introductory [[LinkedIn]] Learning course, [[Machine Learning with Python- Foundations]].
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=25)** Second, it will be helpful if you have some entry level knowledge coding in Python I will assume that you know how to import a Python package, refer to attributes of an object and call the methods of an object.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=25)** Second, it will be helpful if you have some entry level knowledge coding in [[Python (Programming Language)|Python]] I will assume that you know how to import a Python package, refer to attributes of an object and call the methods of an object.
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=38)** Next, it would also be helpful if you have some familiarity with the [[Pandas (Software)|pandas]] and scikit-learn packages.
 >

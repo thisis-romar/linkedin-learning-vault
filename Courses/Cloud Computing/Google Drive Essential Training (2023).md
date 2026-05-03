@@ -1511,7 +1511,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980&t=126)** You can also enter the names of specific people that you want to share your doc with.
 >
-> **[2:10](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980&t=130)** You can type in a name directly or once you place your cursor in here, you'll see a list of people that you contact frequently.
+> **[2:10](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980&t=130)** You can type in a name directly or once you place your [[Cursor]] in here, you'll see a list of people that you contact frequently.
 >
 > **[2:18](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980&t=138)** You can click the dropdown to select what kind of permissions you want to give them.
 >
@@ -1841,7 +1841,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/google-drive-essential-training-2023/edit-a-file-simultaneously-with-another-google-user?u=76281980&t=23)** You can hover your mouse over them and see who it is.
 >
-> **[0:25](https://www.linkedin.com/learning/google-drive-essential-training-2023/edit-a-file-simultaneously-with-another-google-user?u=76281980&t=25)** Google will also assign them a color, and that's the color of the cursor that you'll see in the doc, as you can see right here down at the bottom.
+> **[0:25](https://www.linkedin.com/learning/google-drive-essential-training-2023/edit-a-file-simultaneously-with-another-google-user?u=76281980&t=25)** Google will also assign them a color, and that's the color of the [[Cursor]] that you'll see in the doc, as you can see right here down at the bottom.
 >
 > **[0:33](https://www.linkedin.com/learning/google-drive-essential-training-2023/edit-a-file-simultaneously-with-another-google-user?u=76281980&t=33)** In fact, if I hover my mouse over it, I'll get the name again.
 >

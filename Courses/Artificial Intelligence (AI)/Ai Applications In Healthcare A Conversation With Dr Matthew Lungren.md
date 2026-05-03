@@ -363,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980&t=0)** - You mentioned some problems with regard to the clinical trials.
 >
-> **[0:03](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980&t=3)** But are there other, are there other obstacles, bottlenecks that are worthy of mention here in terms of how gen AI can really just streamline things for healthcare providers?
+> **[0:03](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980&t=3)** But are there other, are there other obstacles, bottlenecks that are worthy of mention here in terms of how [[Generative AI|gen AI]] can really just streamline things for healthcare providers?
 >
 > **[0:16](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980&t=16)** - Absolutely.
 >

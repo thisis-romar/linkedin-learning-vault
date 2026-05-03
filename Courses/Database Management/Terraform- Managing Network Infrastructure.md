@@ -1069,7 +1069,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=265)** Now let's just make sure that we can reach the internet.
 >
-> **[4:29](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=269)** (keyboard clicks) I can reach [[[LinkedIn]].com](https://linkedin.com), and we're all good.
+> **[4:29](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=269)** (keyboard clicks) I can reach [linkedin.com](https://linkedin.com), and we're all good.
 >
 > **[4:36](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/building-private-subnets-in-aws-with-terraform?u=76281980&t=276)** In this video, we set up a private subnet and used a NAT gateway to facilitate internet egress from our private EC2 instance.
 >

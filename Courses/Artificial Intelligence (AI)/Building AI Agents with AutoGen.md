@@ -217,7 +217,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=67)** That means we need to specify which model we are going to be using and who is going to be providing that service, providing that model.
 >
-> **[1:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=76)** We are using OpenAI's GPT-4o for this entire course.
+> **[1:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=76)** We are using OpenAI's [[GPT-4|GPT-4o]] for this entire course.
 >
 > **[1:23](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=83)** So llm_config is my [[Python (Programming Language)|Python]] dictionary, which essentially has two keys.
 >
@@ -291,7 +291,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=26)** The next step is to configure the large language model.
 >
-> **[0:29](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=29)** We're using GPT-4o from OpenAI.
+> **[0:29](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=29)** We're using [[GPT-4|GPT-4o]] from OpenAI.
 >
 > **[0:33](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=33)** Let's run this.
 >
@@ -826,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-reviewer-agents?u=76281980&t=34)** It is designed to work seamlessly with advanced language models and can be easily customized through its system message.
 >
-> **[0:43](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-reviewer-agents?u=76281980&t=43)** So I've provided the name, then the system message, and provided it with llm_config to be able to access our GPT-4o from OpenAI.
+> **[0:43](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-reviewer-agents?u=76281980&t=43)** So I've provided the name, then the system message, and provided it with llm_config to be able to access our [[GPT-4|GPT-4o]] from OpenAI.
 >
 > **[0:53](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-reviewer-agents?u=76281980&t=53)** Run this.
 >

@@ -1726,11 +1726,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=123)** Here in the annotations, we're letting Kubernetes know that we are going to use Nginx-Ingress.
 >
-> **[2:11](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=131)** Down here at the rules, when this is created in our cluster, and Nginx-Ingress is running, when a request is made to [lil-[[Microservices]].com](https://lil-microservices.com), and it just has the forward slash on it.
+> **[2:11](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=131)** Down here at the rules, when this is created in our cluster, and Nginx-Ingress is running, when a request is made to [lil-microservices.com](https://lil-microservices.com), and it just has the forward slash on it.
 >
 > **[2:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=145)** It's going to direct that request to our frontend UI.
 >
-> **[2:30](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=150)** Instead of getting traffic into your cluster by setting up a node port or load balancer service in front of each of your microservices, Kubernetes ingress allows you to have one point of entry for your cluster.
+> **[2:30](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=150)** Instead of getting traffic into your cluster by setting up a node port or load balancer service in front of each of your [[Microservices]], Kubernetes ingress allows you to have one point of entry for your cluster.
 >
 > **[2:43](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=163)** This gives you more flexibility by allowing you to focus on other parts of your cluster implementation.
 >

@@ -833,7 +833,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=0)** - [Narrator] Whether you're doing static or [[Dynamic [[Application Security]] Testing]], you're going to need a test lab.
+> **[0:00](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=0)** - [Narrator] Whether you're doing static or [[Dynamic Application Security Testing]], you're going to need a test lab.
 >
 > **[0:06](https://www.linkedin.com/learning/static-application-security-testing/building-your-test-lab?u=76281980&t=6)** Fortunately, my recommended lab for static testing is pretty lightweight.
 >
@@ -1831,7 +1831,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=42)** More importantly, the guide shows you what to review and how to validate that the code is resistant to certain attacks.
 >
-> **[0:50](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=50)** The guide also includes detailed references for further reading, using resources that are both internal to OWASP, and resources hosted on external sites like [mitre.org](https://mitre.org), [usenix.org](https://usenix.org), [[[PHP]].net](https://php.net), and [[[Microsoft]].com](https://microsoft.com) just to name a few.
+> **[0:50](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=50)** The guide also includes detailed references for further reading, using resources that are both internal to OWASP, and resources hosted on external sites like [mitre.org](https://mitre.org), [usenix.org](https://usenix.org), [php.net](https://php.net), and [microsoft.com](https://microsoft.com) just to name a few.
 >
 > **[1:08](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=68)** The OWASP Code Review Guide pairs perfectly with the OWASP Testing Guide.
 >
@@ -1877,7 +1877,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=272)** If you've done any threat modeling in the past, chances are you're somewhat familiar with one or both of these models.
 >
-> **[4:39](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=279)** The STRIDE Threat Model was developed by a pair of Microsoft employees.
+> **[4:39](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=279)** The STRIDE Threat Model was developed by a pair of [[Microsoft]] employees.
 >
 > **[4:43](https://www.linkedin.com/learning/static-application-security-testing/owasp-code-review-guide?u=76281980&t=283)** It focuses on six potential threats, spoofing a user's identity, tampering with the integrity of the application, repudiation, information disclosure, denial of service attacks, and elevation of privilege.
 >

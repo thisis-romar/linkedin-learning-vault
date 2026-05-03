@@ -658,7 +658,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=125)** To do that, we need to modify our variable on line 11 to make it something called a state variable which is something that can be modified at runtime.
 >
-> **[2:16](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=136)** You can do that by putting your cursor before the var keyword and then typing @State with a capital S.
+> **[2:16](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=136)** You can do that by putting your [[Cursor]] before the var keyword and then typing @State with a capital S.
 >
 > **[2:23](https://www.linkedin.com/learning/building-your-first-ios-17-app/creating-a-textfield-in-swiftui?u=76281980&t=143)** Now we've changed the variable to the right type and if you look down here, this error icon has actually changed.
 >
@@ -870,7 +870,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=37)** A simple example of casting is treating this decimal number that we're seeing right here, this 15 with all the zeros, as a whole number or integer.
 >
-> **[0:49](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=49)** To cast that value as an integer, I'm going to go to line 30 in my code and put my cursor just before tipPercent in the text view and I'm going to use [[Swift (Programming Language)|Swift]] to say that this value should be treated as an integer.
+> **[0:49](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=49)** To cast that value as an integer, I'm going to go to line 30 in my code and put my [[Cursor]] just before tipPercent in the text view and I'm going to use [[Swift (Programming Language)|Swift]] to say that this value should be treated as an integer.
 >
 > **[1:05](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980&t=65)** To do that, type Int, short for integer, with a capital I, and then wrap tipPercent in an additional set of parentheses.
 >

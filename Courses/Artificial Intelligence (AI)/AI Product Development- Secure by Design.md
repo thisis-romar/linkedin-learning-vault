@@ -930,7 +930,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=189)** No major airline would operate without regular safety assessments, compliance checks, and [[Leadership Accountability]].
 >
-> **[3:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=196)** AI systems require the same top-down involvement from [[[[Executive Leadership]]]] to help ensure that AI risks are continuously managed and security policies are enforced.
+> **[3:16](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=196)** AI systems require the same top-down involvement from [[Executive Leadership]] to help ensure that AI risks are continuously managed and security policies are enforced.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-product-development-secure-by-design/establish-oversight-governance?u=76281980&t=208)** For example, an AI-powered financial trading algorithm could introduce massive financial losses if left unchecked.
 >

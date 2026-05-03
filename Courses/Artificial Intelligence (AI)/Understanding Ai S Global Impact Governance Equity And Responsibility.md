@@ -194,7 +194,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=283)** Open [[Microsoft Copilot]].
 >
-> **[4:45](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=285)** You can find it at [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com).
+> **[4:45](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=285)** You can find it at [[Microsoft Copilot|copilot]].[microsoft.com](https://microsoft.com).
 >
 > **[4:50](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980&t=290)** In the text box, type the following prompt.
 >
@@ -453,7 +453,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=241)** Let's put what you've just learned into practice.
 >
-> **[4:04](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=244)** Open [[Microsoft Copilot]] at [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com).
+> **[4:04](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=244)** Open [[Microsoft Copilot]] at [[Microsoft Copilot|copilot]].[microsoft.com](https://microsoft.com).
 >
 > **[4:09](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/the-limitations-of-ai-36071071?u=76281980&t=249)** In the text box, type the following prompt.
 >

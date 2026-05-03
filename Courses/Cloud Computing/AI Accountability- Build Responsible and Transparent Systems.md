@@ -608,7 +608,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=270)** This image, you look at it, you go like, that's not real, that's AI.
 >
-> **[4:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=274)** It's similar to what's known as the uncanny valley in animation world, where animations that are nearly photorealistic but not quite there actually become creepy and the same thing can happen with a lot of gen AI output.
+> **[4:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=274)** It's similar to what's known as the uncanny valley in animation world, where animations that are nearly photorealistic but not quite there actually become creepy and the same thing can happen with a lot of [[Generative AI|gen AI]] output.
 >
 > **[4:50](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980&t=290)** It can happen with text where you get a text message or you read an article and at first it's going great, and then suddenly you realize, wait a second, this isn't real.
 >
@@ -1433,7 +1433,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=225)** And we can't expect that to happen in any way even approaching a human format with an algorithm, it looks at things differently.
 >
-> **[3:54](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=234)** And this is true even for gen AI algorithms that are able to talk with you about meaning.
+> **[3:54](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=234)** And this is true even for [[Generative AI|gen AI]] algorithms that are able to talk with you about meaning.
 >
 > **[4:00](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-absence-of-meaning-26215017?u=76281980&t=240)** Remember, it's a [[Simulation]].
 >

@@ -198,7 +198,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=101)** So let's say you wanted to execute this code block here.
 >
-> **[1:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=106)** You just put your cursor and click into the code block.
+> **[1:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=106)** You just put your [[Cursor]] and click into the code block.
 >
 > **[1:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=110)** And then, I like to hit shift + enter.
 >
@@ -5480,7 +5480,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=0)** Quick note before we dive in.
 >
-> **[0:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=2)** This is a high-level sampler chapter and not, of course, a full GenAI implementation module.
+> **[0:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=2)** This is a high-level sampler chapter and not, of course, a full [[Generative AI|GenAI]] implementation module.
 >
 > **[0:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=9)** Today, the most common GenAI systems you'll hear about in practice are [[Large Language Models (LLM)|large language models]], diffusion models for image generation, and embeddings that power search and retrieval.
 >
@@ -5877,7 +5877,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=0)** - [Instructor] In terms of next steps, I encourage you next to go and learn how to build responsible and ethical AI systems in the course [[[[Responsible AI]]- Principles and Practical Applications]].
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=0)** - [Instructor] In terms of next steps, I encourage you next to go and learn how to build responsible and ethical AI systems in the course [[Responsible AI- Principles and Practical Applications]].
 >
 > **[0:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=14)** Also, I really want to encourage you to go ahead and start practicing your new data skills by working to create efficiencies in your daily workflows with your employer or in your business.
 >

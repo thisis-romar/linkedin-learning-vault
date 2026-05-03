@@ -927,7 +927,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980&t=161)** Textures invite interaction because they look like something we could feel like water or grass or sand.
 >
-> **[2:48](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980&t=168)** We treat the mouse cursor like an extension of our hand or finger, and we will often click or tap on things that have a textured appearance.
+> **[2:48](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980&t=168)** We treat the mouse [[Cursor]] like an extension of our hand or finger, and we will often click or tap on things that have a textured appearance.
 >
 > **[2:56](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980&t=176)** For example, the thumb on a scroll bar traditionally has a few marks to indicate a grip zone, a texture we could feel with our fingertip on a real sliding button.
 >
@@ -3276,7 +3276,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/inputs-14236892?u=76281980&t=96)** Anyone who has ever painted a ceiling with a brush or roller on the end of an extension pole has experienced this.
 >
-> **[1:44](https://www.linkedin.com/learning/ux-foundations-interaction-design/inputs-14236892?u=76281980&t=104)** Moving a mouse on a horizontal desk surface with one hand to control a cursor on a vertical screen in another location requires careful targeting and control to position that cursor and pressing a button on the mouse indicates that the computer should select and activate the target beneath the cursor on the screen.
+> **[1:44](https://www.linkedin.com/learning/ux-foundations-interaction-design/inputs-14236892?u=76281980&t=104)** Moving a mouse on a horizontal desk surface with one hand to control a [[Cursor]] on a vertical screen in another location requires careful targeting and control to position that cursor and pressing a button on the mouse indicates that the computer should select and activate the target beneath the cursor on the screen.
 >
 > **[2:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/inputs-14236892?u=76281980&t=123)** When people are able to interact more directly with the elements on the screen, such as tapping on a photo or video to view it, the interactions can be easier to perform and learn.
 >
@@ -3980,7 +3980,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=286)** Accessibility is a large and very important topic, too large, in fact, to adequately cover here.
 >
-> **[4:52](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=292)** For more information about accessibility, a good place to start is the [[Accessibility for [[Web Design]]]] course with Derek Featherstone.
+> **[4:52](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=292)** For more information about accessibility, a good place to start is the [[Accessibility for Web Design]] course with Derek Featherstone.
 
 > [!info]- Semantic Content
 >

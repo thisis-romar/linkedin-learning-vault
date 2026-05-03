@@ -751,7 +751,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-your-own-text-boxes-26204390?u=76281980&t=32)** Now I can make a new text box by changing to the Insert ribbon tab, clicking Text Box, and clicking anywhere in my slide.
 >
-> **[0:43](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-your-own-text-boxes-26204390?u=76281980&t=43)** The blinking cursor appears, and then I can start typing my text.
+> **[0:43](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-your-own-text-boxes-26204390?u=76281980&t=43)** The blinking [[Cursor]] appears, and then I can start typing my text.
 >
 > **[0:48](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-your-own-text-boxes-26204390?u=76281980&t=48)** Because this is new, the font properties don't match, so I'm going to select all three text boxes to make them match.
 >
@@ -1186,7 +1186,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/work-with-shapes-26204387?u=76281980&t=234)** All I have to do is double click inside the shape.
 >
-> **[3:58](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/work-with-shapes-26204387?u=76281980&t=238)** Once the blinking cursor appears, I can type my text in.
+> **[3:58](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/work-with-shapes-26204387?u=76281980&t=238)** Once the blinking [[Cursor]] appears, I can type my text in.
 >
 > **[4:04](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/work-with-shapes-26204387?u=76281980&t=244)** I will put in a completely bogus statistic that I just made up, and now I can go back to the home ribbon tab, after I select this text, and change the font properties.
 >
@@ -1969,7 +1969,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-smartart-to-create-diagrams-25899367?u=76281980&t=72)** I'll start by putting in the text.
 >
-> **[1:14](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-smartart-to-create-diagrams-25899367?u=76281980&t=74)** I'll click inside where it says Text, and once I have a blinking cursor, I know I can just start typing.
+> **[1:14](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-smartart-to-create-diagrams-25899367?u=76281980&t=74)** I'll click inside where it says Text, and once I have a blinking [[Cursor]], I know I can just start typing.
 >
 > **[1:19](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-smartart-to-create-diagrams-25899367?u=76281980&t=79)** No matter how much I type, the text is going to shrink so it all fits.
 >
@@ -2785,7 +2785,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=59)** This is helpful to go to the setting that you need immediately without having to navigate through a complex menu system to get there.
 >
-> **[1:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=67)** Place the cursor in the search bar, and type what you're looking for.
+> **[1:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=67)** Place the [[Cursor]] in the search bar, and type what you're looking for.
 >
 > **[1:13](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=73)** From here, you can click on that action.
 >

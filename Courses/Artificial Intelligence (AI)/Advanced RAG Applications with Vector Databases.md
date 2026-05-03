@@ -1656,7 +1656,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=44)** Images plus text is the most common pairing of data to train these types of models on.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=50)** Some examples of multimodal embedding models include CLIP from OpenAI, [[Large Language Models (LLM)|large language models]] themselves that have evolved to become multimodal, such as GPT-4o, also from OpenAI, and LLaVa, a state-of-the-art end-to-end large transformer model that combines an image encoder in Vicuna, an LLM.
+> **[0:50](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=50)** Some examples of multimodal embedding models include CLIP from OpenAI, [[Large Language Models (LLM)|large language models]] themselves that have evolved to become multimodal, such as [[GPT-4|GPT-4o]], also from OpenAI, and LLaVa, a state-of-the-art end-to-end large transformer model that combines an image encoder in Vicuna, an LLM.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=75)** This model is not from OpenAI.
 >
@@ -1761,7 +1761,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-query-images-with-text?u=76281980&t=122)** It takes that dictionary and it splits the image and text data and formats them into prompts before we turn that into a set of human messages to feed the LLM.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-query-images-with-text?u=76281980&t=136)** Next, we get our foundational model, and the foundational model that we're using is GPT-4o mini, and then we create a chain.
+> **[2:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-query-images-with-text?u=76281980&t=136)** Next, we get our foundational model, and the foundational model that we're using is [[GPT-4|GPT-4o]] mini, and then we create a chain.
 >
 > **[2:25](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-query-images-with-text?u=76281980&t=145)** This chain is much like the chain we've created before, except instead of using a RunnablePassThrough string for everything, we use a RunnableLambda to get our context.
 >

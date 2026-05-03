@@ -248,7 +248,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=301)** So now I've given it background information about me.
 >
-> **[5:04](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=304)** And now if I go and I say, "Give me some unique ideas for how to use GenAI that combine all the roles you know about me," now I get things that are based on where I live, Nashville-themed AI-generated educational content, AI-driven enterprise innovation workshops.
+> **[5:04](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=304)** And now if I go and I say, "Give me some unique ideas for how to use [[Generative AI|GenAI]] that combine all the roles you know about me," now I get things that are based on where I live, Nashville-themed AI-generated educational content, AI-driven enterprise innovation workshops.
 >
 > **[5:20](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-programming-with-prompts-for-effective-ai-instructions?u=76281980&t=320)** And you see it's pulling information it knows about me.
 >

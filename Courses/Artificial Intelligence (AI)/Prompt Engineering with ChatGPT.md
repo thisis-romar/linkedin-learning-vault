@@ -560,7 +560,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=312)** and I'll say, "Use template.pptx to generate a slide deck
 >
-> **[5:26](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=326)** about GenAI and GPT.
+> **[5:26](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=326)** about [[Generative AI|GenAI]] and GPT.
 >
 > **[5:32](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=332)** Here is the context for the presentation,"
 >

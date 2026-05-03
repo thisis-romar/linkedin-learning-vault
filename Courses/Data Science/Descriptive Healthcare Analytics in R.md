@@ -4156,7 +4156,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980&t=269)** Here we are back at our private visualization spreadsheet.
 >
-> **[4:33](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980&t=273)** Again, let's place our cursor in the upper left cell of the table and do Control + V.
+> **[4:33](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980&t=273)** Again, let's place our [[Cursor]] in the upper left cell of the table and do Control + V.
 >
 > **[4:39](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980&t=279)** This will fill out our graph, and then we can scroll down and look more closely.
 >
@@ -4926,7 +4926,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980&t=239)** Let's highlight these frequencies and do Ctrl C to copy.
 >
-> **[4:03](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980&t=243)** Back at our spreadsheet, we now place our cursor on the top yellow cell of the alcohol group, where the alcohol frequencies go, but let's not use Ctrl V.
+> **[4:03](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980&t=243)** Back at our spreadsheet, we now place our [[Cursor]] on the top yellow cell of the alcohol group, where the alcohol frequencies go, but let's not use Ctrl V.
 >
 > **[4:13](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980&t=253)** Instead, we need to paste values, so we'll choose the Paste Arrow, and choose the icon under Paste Values on the left side.
 >
@@ -5035,7 +5035,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-frequency-macro?u=76281980&t=160)** Let's highlight these and do Control + C to copy.
 >
-> **[2:44](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-frequency-macro?u=76281980&t=164)** Back at our Table 1, now we can place our cursor in the top cell for Age and choose Paste, Paste Values and here they all come in.
+> **[2:44](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-frequency-macro?u=76281980&t=164)** Back at our Table 1, now we can place our [[Cursor]] in the top cell for Age and choose Paste, Paste Values and here they all come in.
 >
 > **[2:55](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-frequency-macro?u=76281980&t=175)** You'll see that I run this macro below over and over, and I do it in the order of the variables on the Table 1 spreadsheet.
 >
@@ -5103,7 +5103,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-continuous-table-1?u=76281980&t=68)** Let's highlight and do Control + C and copy them.
 >
-> **[1:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-continuous-table-1?u=76281980&t=72)** Now, let's place our cursor on the top cell in the yellow, in the Alcohol group and choose Paste Values.
+> **[1:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-continuous-table-1?u=76281980&t=72)** Now, let's place our [[Cursor]] on the top cell in the yellow, in the Alcohol group and choose Paste Values.
 >
 > **[1:20](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-continuous-table-1?u=76281980&t=80)** I'm also going to demonstrate adding asthma frequencies.
 >
@@ -5241,7 +5241,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980&t=202)** Now, back to table one.
 >
-> **[3:24](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980&t=204)** Now, let's place our cursor at the top of the yellow cell for the alcohol variables under asthma and then do Paste Values.
+> **[3:24](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980&t=204)** Now, let's place our [[Cursor]] at the top of the yellow cell for the alcohol variables under asthma and then do Paste Values.
 >
 > **[3:34](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980&t=214)** Great.
 >
@@ -5494,7 +5494,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-continuous-table-1?u=76281980&t=267)** Top of the alcohol variables.
 >
-> **[4:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-continuous-table-1?u=76281980&t=269)** And put our cursor there.
+> **[4:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-continuous-table-1?u=76281980&t=269)** And put our [[Cursor]] there.
 >
 > **[4:31](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-continuous-table-1?u=76281980&t=271)** Now we'll do paced values.
 >

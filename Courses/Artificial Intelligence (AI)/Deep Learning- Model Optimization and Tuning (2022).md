@@ -211,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=11)** We will be using Anaconda and Jupyter Notebooks, for these exercises.
 >
-> **[0:16](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=16)** You can download and install Anaconda from the website [anaconda.com/[[Microsoft Products|products]]/individual](https://anaconda.com/products/individual) for your specific operating system.
+> **[0:16](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=16)** You can download and install Anaconda from the website [anaconda.com/products/individual](https://anaconda.com/products/individual) for your specific operating system.
 >
 > **[0:28](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/setting-up-exercise-files?u=76281980&t=28)** Once downloaded, we will go to the Anaconda UI.
 >
@@ -380,7 +380,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980&t=137)** As this process reaches the output layer, the final predictions will be derived.
 >
-> **[2:22](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980&t=142)** I highly recommend watching the [[[[Deep Learning]] Getting Started]] course to discuss these concepts further if you have already not done so.
+> **[2:22](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/review-of-artificial-neural-networks?u=76281980&t=142)** I highly recommend watching the [[Deep Learning Getting Started]] course to discuss these concepts further if you have already not done so.
 
 > [!info]- Semantic Content
 >
@@ -563,7 +563,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=7)** We start with a notebook called common experiment functions.
 >
-> **[0:12](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=12)** In this notebook, we will use the same model for iris flower identification, that we explored in the [[[[Deep Learning]] Getting Started]] course.
+> **[0:12](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=12)** In this notebook, we will use the same model for iris flower identification, that we explored in the [[Deep Learning Getting Started]] course.
 >
 > **[0:22](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=22)** We first need to install the required packages for the exercises if we have already not done so.
 >
@@ -581,7 +581,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=64)** During the experiment, we will change one or more of these values, build models and compare results.
 >
-> **[1:13](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=73)** To create and run model method, we'll use the input model configuration, feature, and target variables to create a deep learning model, and build it.
+> **[1:13](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=73)** To create and run model method, we'll use the input model configuration, feature, and target variables to create a [[Deep Learning]] model, and build it.
 >
 > **[1:22](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/experiment-setups-for-the-course?u=76281980&t=82)** Various hyperparameters that are set up in the config are used to build the model.
 >

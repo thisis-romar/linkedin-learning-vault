@@ -2200,7 +2200,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=356)** Open that newly created firewall policy and we will create an application rule.
 >
-> **[6:02](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=362)** This application rule will allow outbound access to www.[[[Google]].com](https://google.com).
+> **[6:02](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=362)** This application rule will allow outbound access to www.[google.com](https://google.com).
 >
 > **[6:08](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=368)** Click on the name of the policy.
 >
@@ -2216,7 +2216,7 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=389)** Rule collection action would be allow.
 >
-> **[6:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=391)** Now, under the name, we'll give Allow Google.
+> **[6:31](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=391)** Now, under the name, we'll give Allow [[Google]].
 >
 > **[6:36](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=396)** For source type select IP address.
 >
@@ -2324,11 +2324,11 @@ created: 2026-05-02
 >
 > **[10:58](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=658)** As expected, because we had white listed the Google, it has opened this website for us.
 >
-> **[11:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=666)** Now, let's open another browser and try [[[Microsoft]].com](https://microsoft.com).
+> **[11:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=666)** Now, let's open another browser and try [microsoft.com](https://microsoft.com).
 >
 > **[11:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=674)** So, you can see the action is denied.
 >
-> **[11:17](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=677)** And the reason is there is no rule matching in our firewall policy that allows Microsoft website to open up.
+> **[11:17](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=677)** And the reason is there is no rule matching in our firewall policy that allows [[Microsoft]] website to open up.
 >
 > **[11:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/create-azure-firewall-policies?u=76281980&t=685)** This is how the firewall policy rules work.
 >
@@ -2437,7 +2437,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=230)** Once the peering has been created successfully, we will be creating firewall policies to secure our hub.
 >
-> **[3:58](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=238)** Firstly, we will add an application rule for allowing *.[[[Microsoft]].com](https://microsoft.com).
+> **[3:58](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=238)** Firstly, we will add an application rule for allowing *.[microsoft.com](https://microsoft.com).
 >
 > **[4:04](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-your-virtual-hub?u=76281980&t=244)** Next, we will add a DNAT rule so that we can connect a remote desktop to Srv-01 virtual machine.
 >

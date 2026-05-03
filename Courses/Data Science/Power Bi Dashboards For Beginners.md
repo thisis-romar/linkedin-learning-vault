@@ -117,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=23)** That is the desktop application.
 >
-> **[0:26](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=26)** If you are unsure on how to find it, then simply head over to powerbi.[[[Microsoft]].com](https://microsoft.com) and select Power BI Desktop from the [[Microsoft Products|products]] dropdown list.
+> **[0:26](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=26)** If you are unsure on how to find it, then simply head over to powerbi.[microsoft.com](https://microsoft.com) and select Power BI Desktop from the [[Microsoft Products|products]] dropdown list.
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=39)** Now, if you want to follow along with me, then pause this movie and make sure that you have the desktop app installed on your computer before continuing.
 >
@@ -735,7 +735,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=19)** So if you'd like to follow along with me, just make sure that you can access the Power BI Web Service using your browser.
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=28)** Head on over to powerbi.[[[Microsoft]].com](https://microsoft.com) and log in using your [[Microsoft 365]] credentials.
+> **[0:28](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=28)** Head on over to powerbi.[microsoft.com](https://microsoft.com) and log in using your [[Microsoft 365]] credentials.
 >
 > **[0:36](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=36)** You'll just need to make sure that you have a current Power BI license in order to do this.
 >
@@ -960,7 +960,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=14)** New Power BI features are being released all the time, so I strongly suggest that you keep abreast of what's changing in this space.
 >
-> **[0:23](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=23)** Why not head over to powerbi.[[[Microsoft]].com](https://microsoft.com) to check out the latest news.
+> **[0:23](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=23)** Why not head over to powerbi.[microsoft.com](https://microsoft.com) to check out the latest news.
 >
 > **[0:29](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=29)** To galvanize your learnings from this course, I strongly suggest that you try creating your own Power BI dashboard from scratch using a fresh data source.
 >

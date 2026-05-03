@@ -781,7 +781,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=75)** Now click on Open and then click on Choose and Start.
 >
-> **[1:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=82)** Highlight Install CentOS 8 with the cursor keys.
+> **[1:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=82)** Highlight Install CentOS 8 with the [[Cursor]] keys.
 >
 > **[1:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=85)** Selecting the item turns off the auto-start mechanism.
 >
@@ -1374,7 +1374,7 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=394)** Now let's ping something outside of our host-only network.
 >
-> **[6:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=396)** Type in clear and then type in ping space [[[Google]].com](https://google.com) and hit Enter and press Control + C to end it.
+> **[6:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=396)** Type in clear and then type in ping space [google.com](https://google.com) and hit Enter and press Control + C to end it.
 >
 > **[6:44](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=404)** When we ping outside of our host-only network, we're using the NAT address.
 >
@@ -2480,7 +2480,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=77)** We will not be going into how to create dynamic inventory scripts in this course, as it's beyond the scope.
 >
-> **[1:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=83)** However, if you'd like to see the source for the dynamic inventory scripts available, open a web browser and go to [[[GitHub]].com/ansible/ansible/tree/devel/contrib/inventory](https://github.com/ansible/ansible/tree/devel/contrib/inventory) and view them yourself.
+> **[1:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=83)** However, if you'd like to see the source for the dynamic inventory scripts available, open a web browser and go to [github.com/ansible/ansible/tree/devel/contrib/inventory](https://github.com/ansible/ansible/tree/devel/contrib/inventory) and view them yourself.
 
 > [!info]- Semantic Content
 >

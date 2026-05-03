@@ -7,7 +7,7 @@ course_count: 9
 linkedin_topics:
   - DevOps
   - IT Help Desk
-louvain_cluster: 7
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/devops

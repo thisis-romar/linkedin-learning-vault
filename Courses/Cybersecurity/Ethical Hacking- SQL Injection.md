@@ -1220,7 +1220,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=77)** Let's see what that looks like in code by updating our Python script, nano safesql1.py.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=92)** We now use the parameter, prepared=True, when setting up the cursor.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=92)** We now use the parameter, prepared=True, when setting up the [[Cursor]].
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=98)** And we execute the query as a pre-coded statement and variable value.
 >
@@ -1352,7 +1352,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=16)** Here, we're allowing for multiple statements in an SQL query.
 >
-> **[0:20](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=20)** The function runsql, starting on line four, executes the query, and a cursor is returned.
+> **[0:20](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=20)** The function runsql, starting on line four, executes the query, and a [[Cursor]] is returned.
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=29)** It then iterates over the cursor, and for each iteration, fetches the result.
 >
@@ -1910,7 +1910,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=30)** Okay, let's install the files.
 >
-> **[0:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=33)** I'm in my var/www/[[HTML]] folder and I'll sudo [[Git]] clone [https://[[GitHub]].com/skyblueee/sqli-labs-php7.git](https://github.com/skyblueee/sqli-labs-php7.git).
+> **[0:33](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=33)** I'm in my var/www/[[HTML]] folder and I'll sudo [[Git]] clone [https://github.com/skyblueee/sqli-labs-php7.git](https://github.com/skyblueee/sqli-labs-php7.git).
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-sqli-labs?u=76281980&t=64)** And I'll change the folder name to SQLI for ease of use.
 >

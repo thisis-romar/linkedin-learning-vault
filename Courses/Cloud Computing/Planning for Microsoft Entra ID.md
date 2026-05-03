@@ -1571,11 +1571,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=5)** Nothing complicated just a few simple points to keep in mind and implement accordingly.
 >
-> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=10)** First, you should know that if you do not have a custom domain added and are using the temporary on [[[Microsoft]].com](https://microsoft.com) domain, then the limit for synchronization is set to 50 k objects, I would suggest using this option only for test environments, if you add a custom domain and verified, then the limit is bumped up to 300 k objects.
+> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=10)** First, you should know that if you do not have a custom domain added and are using the temporary on [microsoft.com](https://microsoft.com) domain, then the limit for synchronization is set to 50 k objects, I would suggest using this option only for test environments, if you add a custom domain and verified, then the limit is bumped up to 300 k objects.
 >
 > **[0:32](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=32)** That's a significant upgrade.
 >
-> **[0:34](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=34)** If your organization is even bigger than that, under limit of 300 K is not sufficient, then you can contact Microsoft support and bump this number up to 500 K.
+> **[0:34](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=34)** If your organization is even bigger than that, under limit of 300 K is not sufficient, then you can contact [[Microsoft]] support and bump this number up to 500 K.
 >
 > **[0:44](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=44)** But let's imagine even that number isn't enough, then you will have to purchase Azure AD licenses and get rid of the upper limit.
 >
@@ -1628,7 +1628,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=73)** As you can see this is the account we used to sign up for [[Microsoft Azure|Azure]] and create this Azure AD tenant.
 >
-> **[1:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=80)** But the problem with this account is that it ends with @[[[Microsoft Outlook|outlook]].com](https://outlook.com).
+> **[1:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=80)** But the problem with this account is that it ends with @[outlook.com](https://outlook.com).
 >
 > **[1:24](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=84)** We need a global administrator account that ends with @worldtraveller.tv because this account will not work for the Ad Connect installation.
 >

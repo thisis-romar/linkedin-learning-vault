@@ -1371,7 +1371,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=329)** There's Mocha from [mochajs.org](https://mochajs.org).
 >
-> **[5:32](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=332)** Jasmine from jasmine.[[[GitHub]].io](https://github.io).
+> **[5:32](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=332)** Jasmine from jasmine.[github.io](https://github.io).
 >
 > **[5:35](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-frameworks?u=76281980&t=335)** And Jest from [jestjs.io](https://jestjs.io).
 >
@@ -1566,7 +1566,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=182)** Another popular library is Chai, available from [chaijs.com](https://chaijs.com).
 >
-> **[3:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=188)** Should.js from shouldjs.[[[GitHub]].io](https://github.io) is also popular.
+> **[3:08](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=188)** Should.js from shouldjs.[github.io](https://github.io) is also popular.
 >
 > **[3:13](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/assertions-for-correctness?u=76281980&t=193)** Some test frameworks have assertion libraries built-in including Jasmine, which has matchers and Jest which has expect methods.
 >
@@ -1946,7 +1946,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/adding-editorconfig-to-a-project-and-ide?u=76281980&t=172)** Save again.
 >
-> **[2:54](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/adding-editorconfig-to-a-project-and-ide?u=76281980&t=174)** Notice that there's a new line added automatically to the file and the cursor is on the line below the faults.
+> **[2:54](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/adding-editorconfig-to-a-project-and-ide?u=76281980&t=174)** Notice that there's a new line added automatically to the file and the [[Cursor]] is on the line below the faults.
 >
 > **[3:00](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/adding-editorconfig-to-a-project-and-ide?u=76281980&t=180)** If I press left on my keyboard, the cursor just goes to after faults which demonstrates that there's no space there anymore.
 >
@@ -2970,7 +2970,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=101)** AVA supports a simplified setup mechanism for groups of tests, but also includes a more advanced tear down if the environment needs to be reset afterwards.
 >
-> **[1:50](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=110)** Jasmine available from Jasmine.[[[GitHub]].io](https://github.io), is a more popular testing framework.
+> **[1:50](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=110)** Jasmine available from Jasmine.[github.io](https://github.io), is a more popular testing framework.
 >
 > **[1:57](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980&t=117)** Unlike AVA, Jasmine executes tests synchronously but it doesn't mean it's slow.
 >
@@ -5337,7 +5337,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=57)** Two projects that use selenium are Nightwatch.js from [nightwatchjs.org](https://nightwatchjs.org) and WebdriverIO from [webdriver.io](https://webdriver.io).
 >
-> **[1:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=67)** A more lightweight option is SuperAgent from visionmedia.[[[GitHub]].io](https://github.io).
+> **[1:07](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=67)** A more lightweight option is SuperAgent from visionmedia.[github.io](https://github.io).
 >
 > **[1:14](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/functional-testing-with-jest?u=76281980&t=74)** SuperAgent is a small progressive client-side HTTP request library, and [[Node.js]] module.
 >

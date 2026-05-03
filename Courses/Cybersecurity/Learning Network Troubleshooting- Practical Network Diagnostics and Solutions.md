@@ -1521,7 +1521,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=392)** You can also be specific and say, "What's the name server lookup for a particular website?"
 >
-> **[6:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=397)** So if I put in [[[Google]].com](https://google.com), then you can see that it first starts out by looking at my local server, which is a DNS server at .110, which is called DC1.
+> **[6:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=397)** So if I put in [google.com](https://google.com), then you can see that it first starts out by looking at my local server, which is a DNS server at .110, which is called DC1.
 >
 > **[6:50](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980&t=410)** Then what it did was it got redirected off to [google.com](https://google.com)'s DNS server.
 >
@@ -1638,7 +1638,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=251)** Let's look at another one in PowerShell.
 >
-> **[4:14](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=254)** For instance, let's do an "nslookup," which looks up the DNS server for a particular name or IP address, so I'll do "nslookup" followed by the DNS IP address for [[Google]], and here, you can see "dns.google" is the name, but we don't have to just do it that way, we could also put in the name as well, I'll try [[[Microsoft]].com](https://microsoft.com), and it tells us all the different DNS servers that are servicing [microsoft.com](https://microsoft.com).
+> **[4:14](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=254)** For instance, let's do an "nslookup," which looks up the DNS server for a particular name or IP address, so I'll do "nslookup" followed by the DNS IP address for [[Google]], and here, you can see "dns.google" is the name, but we don't have to just do it that way, we could also put in the name as well, I'll try [microsoft.com](https://microsoft.com), and it tells us all the different DNS servers that are servicing [microsoft.com](https://microsoft.com).
 >
 > **[4:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=286)** Now, if you don't get a response, that means that you've got a DNS problem.
 >
@@ -1664,7 +1664,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=484)** Although PowerShell commandlets may have more characters, more things you have to type, they also have more switches, more options, and can be changed easily and added into a PowerShell script.
 >
-> **[8:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=495)** It's possible Microsoft may take away regular commands sometime in the future, so it would be a good idea to learn PowerShell equivalents, which is also starting to now work in some distributions of [[Linux]].
+> **[8:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/powershell-tools-10143327?u=76281980&t=495)** It's possible [[Microsoft]] may take away regular commands sometime in the future, so it would be a good idea to learn PowerShell equivalents, which is also starting to now work in some distributions of [[Linux]].
 
 > [!info]- Semantic Content
 >
@@ -1919,7 +1919,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=0)** - [Instructor] I'm going to try on my black hat and my white hat in order to show how a hacker's going to try to find open ports on a [[Windows Server]] or computer.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=11)** So for my black hat computer, I'm on a [[Windows]] 11 computer and I'm at [[[Nmap]].org](https://nmap.org).
+> **[0:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=11)** So for my black hat computer, I'm on a [[Windows]] 11 computer and I'm at [nmap.org](https://nmap.org).
 >
 > **[0:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=15)** This is going to allow me to install a program that will scan any server or computer that I'd like.
 >
@@ -1927,7 +1927,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=30)** And I'm going to go to my server and I'm going to install another program called [[Wireshark]].
 >
-> **[0:35](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=35)** And Wireshark is going to watch any packets that I use to try to hack into that server from nmap on my Windows 11 computer, and we can use that in order to troubleshoot to find out if anyone's trying to hack our computer, or if there's any kind of open ports than when we're doing some sort of a white hack scan just to see if there's any threats that we need to lock down.
+> **[0:35](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=35)** And Wireshark is going to watch any packets that I use to try to hack into that server from [[Nmap]] on my Windows 11 computer, and we can use that in order to troubleshoot to find out if anyone's trying to hack our computer, or if there's any kind of open ports than when we're doing some sort of a white hack scan just to see if there's any threats that we need to lock down.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/wireshark-basics?u=76281980&t=60)** I'm choosing all the defaults for this particular program.
 >

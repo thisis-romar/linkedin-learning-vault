@@ -416,7 +416,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=81)** First, let's upload the files to [[Google Drive]].
 >
-> **[1:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=84)** Navigate to drive.[[[Google]].com](https://google.com) in a new web browser tab and make sure you logged into the same account as the tab with your Colab notebook.
+> **[1:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=84)** Navigate to drive.[google.com](https://google.com) in a new web browser tab and make sure you logged into the same account as the tab with your Colab notebook.
 >
 > **[1:33](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=93)** Create a new folder for your tutorial files.
 >
@@ -438,7 +438,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=172)** Click the Connect to Google Drive button and follow the steps to confirm access.
 >
-> **[3:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=189)** This all happens in your own personal Google account, so you don't have to worry too much about those permissions.
+> **[3:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=189)** This all happens in your own personal [[Google]] account, so you don't have to worry too much about those permissions.
 >
 > **[3:14](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=194)** You're really just given permissions to yourself.
 >

@@ -641,7 +641,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980&t=187)** Boomers tend to be talkative during the interviews, and take winding tangents that may not be helpful for your research, so you may need to gently refocus the conversation.
 >
-> **[3:19](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980&t=199)** To learn more about qualitative research techniques, check out my [[LinkedIn]] learning course, [[[[Market Research]] Foundations]].
+> **[3:19](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980&t=199)** To learn more about qualitative research techniques, check out my [[LinkedIn]] learning course, [[Market Research Foundations]].
 >
 > **[3:25](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980&t=205)** If I could leave you with a parting thought, it's that qualitative research makes the biggest impact on your overall design process because you get to know your customers on a deeper level.
 
@@ -1652,7 +1652,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=12)** There's so much more to learn and I encourage you to explore more courses in UX foundations.
 >
-> **[0:18](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=18)** Also, check out my course [[[[Market Research]] Foundations]].
+> **[0:18](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=18)** Also, check out my course [[Market Research Foundations]].
 >
 > **[0:22](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=22)** I've worked with hundreds of companies to understand what makes their customers tick.
 >

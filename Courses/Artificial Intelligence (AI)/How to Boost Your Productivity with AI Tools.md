@@ -1661,7 +1661,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=119)** Right. Let me show you how it works.
 >
-> **[2:02](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=122)** (graphic swoosh) So in this demo, we're going to be using [[ChatGPT]] here, and we're using just the standard model GPT-4o, which is the current standard model at the time of filming, of course, could be different for you right now.
+> **[2:02](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=122)** (graphic swoosh) So in this demo, we're going to be using [[ChatGPT]] here, and we're using just the standard model [[GPT-4|GPT-4o]], which is the current standard model at the time of filming, of course, could be different for you right now.
 >
 > **[2:16](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=136)** I don't know where you are. Where are you, 2037?
 >
@@ -2794,7 +2794,7 @@ created: 2026-05-02
 >
 > **[10:42](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=642)** They grew up so fast, don't they?
 >
-> **[10:43](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=643)** It's like one minuteness just a blinking cursor.
+> **[10:43](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=643)** It's like one minuteness just a blinking [[Cursor]].
 >
 > **[10:46](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=646)** And the next fully formed proposal with multiple perspectives.
 >

@@ -2736,7 +2736,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=200)** Let's see if we can do that for another location.
 >
-> **[3:22](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=202)** I'll say Boston, same thing again, we wait for the weather data to come in and then we have to wait more for the GPT4 data to come in.
+> **[3:22](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=202)** I'll say Boston, same thing again, we wait for the weather data to come in and then we have to wait more for the [[GPT-4|GPT4]] data to come in.
 >
 > **[3:32](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/integrate-the-ai-api-response?u=76281980&t=212)** And it takes a bit of time, but eventually it does show up.
 >

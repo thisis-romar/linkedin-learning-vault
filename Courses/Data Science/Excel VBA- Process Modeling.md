@@ -525,7 +525,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-collections?u=76281980&t=297)** There we go.
 >
-> **[4:57](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-collections?u=76281980&t=297)** And with the insertion point or the cursor flashing in my subroutine, I'll press F5 and it's run and I get one, which is the first customer ID followed by the start time of one.
+> **[4:57](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-collections?u=76281980&t=297)** And with the insertion point or the [[Cursor]] flashing in my subroutine, I'll press F5 and it's run and I get one, which is the first customer ID followed by the start time of one.
 >
 > **[5:12](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-collections?u=76281980&t=312)** Then the second customer ID, which was number two, and its start time is also one.
 >

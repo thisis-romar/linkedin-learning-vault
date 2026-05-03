@@ -2256,7 +2256,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=27)** You can handle various data formats like [[JSON]], Parquet, CSV, and also, there is credential management for secure connectivity.
 >
-> **[0:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=36)** The incremental data loading is another important aspect because it persists the cursor state for each source, and you're only going to get the latest inserts and updates pulled in, and it's going to be a lot faster and efficient for full loads.
+> **[0:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=36)** The incremental data loading is another important aspect because it persists the [[Cursor]] state for each source, and you're only going to get the latest inserts and updates pulled in, and it's going to be a lot faster and efficient for full loads.
 >
 > **[0:51](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=51)** For transformations, you could execute a query on a source system.
 >

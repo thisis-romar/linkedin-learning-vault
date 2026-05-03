@@ -1307,7 +1307,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=33)** And it's also specifically developed for analytics leaders.
 >
-> **[0:38](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=38)** [[[[Predictive Analytics]] Essential Training For Executives]] discusses each of the Christian phases and puts them into a more complete context.
+> **[0:38](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=38)** [[Predictive Analytics Essential Training For Executives]] discusses each of the Christian phases and puts them into a more complete context.
 >
 > **[0:48](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980&t=48)** Whichever learning experience you choose next, I hope you'll follow me on [[LinkedIn]] and you'll let me know about your progress.
 >

@@ -1661,7 +1661,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=27)** Let's briefly discuss them in this video.
 >
-> **[0:31](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=31)** How are training models different in GenAI, compared to traditional machine learning?
+> **[0:31](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=31)** How are training models different in [[Generative AI|GenAI]], compared to traditional machine learning?
 >
 > **[0:38](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=38)** In GenAI, there are two key tasks namely, pre-training and fine-tuning in the training phase.
 >
@@ -2244,7 +2244,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=59)** This indicates resources provisioning, bandwidth provisioning and security.
 >
-> **[1:05](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=65)** Prompts for GenAI are the integration code between the application and the GenAI models.
+> **[1:05](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=65)** Prompts for [[Generative AI|GenAI]] are the integration code between the application and the GenAI models.
 >
 > **[1:12](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=72)** These need to be used within the application and tested with the model.
 >

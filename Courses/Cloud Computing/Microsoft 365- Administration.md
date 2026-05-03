@@ -111,7 +111,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980&t=5)** You can sign up for a free trial of Microsoft 365, which will allow you to explore all of the functionalities of the product and all of the workloads that are included in Microsoft 365.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980&t=17)** If you go to [[[Microsoft Office|Office]].com](https://Office.com) and go to Get Microsoft 365, you will be able to go through the various questions from [[Microsoft]] that will allow you to start your free trial of Microsoft 365.
+> **[0:17](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980&t=17)** If you go to [Office.com](https://Office.com) and go to Get Microsoft 365, you will be able to go through the various questions from [[Microsoft]] that will allow you to start your free trial of Microsoft 365.
 
 > [!info]- Semantic Content
 >
@@ -354,7 +354,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=0)** When you first purchase a [[Microsoft 365]] subscription and create your Microsoft 365 tenant, you get a default domain, a domain that finishes with on [[[Microsoft]].com](https://microsoft.com). That domain, though it may be useful initially when setting up your environment, needs to be modified later on so that you can have a more representative domain to match your organization or your company.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=0)** When you first purchase a [[Microsoft 365]] subscription and create your Microsoft 365 tenant, you get a default domain, a domain that finishes with on [microsoft.com](https://microsoft.com). That domain, though it may be useful initially when setting up your environment, needs to be modified later on so that you can have a more representative domain to match your organization or your company.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=28)** That domain name will then be the suffix that you will use for all of your users' sign-in information, for all of your email addresses, as well as the suffix that you can use for a website that you are publishing.
 >
@@ -384,7 +384,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=136)** So to add a domain, let's say that I purchase a new name and that I want to add it here, I'm going to click on "Add domain".
 >
-> **[2:24](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=144)** If I want to purchase the domain directly from Microsoft, I can also click "Buy domain".
+> **[2:24](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=144)** If I want to purchase the domain directly from [[Microsoft]], I can also click "Buy domain".
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=149)** And if I click "Buy domain", Microsoft used to redirect me to [GoDaddy.com](https://GoDaddy.com), their primary partner, as a registrar, to register the domain name.
 >

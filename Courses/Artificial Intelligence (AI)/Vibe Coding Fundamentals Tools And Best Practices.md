@@ -288,7 +288,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=358)** It's designed to help you build fast without a lot of friction.
 >
-> **[6:02](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=362)** Now, Cursor is probably the most popular vibe coding tool.
+> **[6:02](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=362)** Now, [[Cursor]] is probably the most popular vibe coding tool.
 >
 > **[6:06](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=366)** It's a full IDE designed around AI-first development.
 >
@@ -375,7 +375,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=5)** Now the choices you make can help you save time, money, and frustration.
 >
-> **[0:10](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=10)** In this video, I'm going to really target more advanced developers who are working with tools like Cursor or [[GitHub Copilot]] that let you have a little bit more control over how things work.
+> **[0:10](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=10)** In this video, I'm going to really target more advanced developers who are working with tools like [[Cursor]] or [[GitHub Copilot]] that let you have a little bit more control over how things work.
 >
 > **[0:21](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/setup-can-make-or-break-your-vibe-coding-experience?u=76281980&t=21)** Although some of the other tools may have similar features.
 >
@@ -649,7 +649,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=7)** Some of them are great at [[Prototyping]] and some are really meant for experienced developers.
 >
-> **[0:13](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=13)** I'm going to use two of them, Bolt as well as Cursor.
+> **[0:13](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=13)** I'm going to use two of them, Bolt as well as [[Cursor]].
 >
 > **[0:18](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/sample-vibe-coding-session?u=76281980&t=18)** Bolt is several steps beyond using a chatbot and it's going to give me a great starting template.
 >

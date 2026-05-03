@@ -1104,7 +1104,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=330)** So for connections to your storage account to go over your network tunnel, the fully qualified domain name, FQDN, of your storage account, must resolve to your private endpoint's private IP address.
 >
-> **[5:42](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=342)** To achieve this, you must follow the storage endpoint suffix call to [[[Windows]].net](https://windows.net), to the Azure private DNS service accessible from within your virtual network.
+> **[5:42](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=342)** To achieve this, you must follow the storage endpoint suffix call to [windows.net](https://windows.net), to the Azure private DNS service accessible from within your virtual network.
 >
 > **[5:51](https://www.linkedin.com/learning/azure-storage-essential-training-2021/replacing-on-premises-server-with-azure-files?u=76281980&t=351)** And finally, an optional step is to configure DFS namespace.
 >

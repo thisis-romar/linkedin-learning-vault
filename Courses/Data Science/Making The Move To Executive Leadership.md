@@ -81,7 +81,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980&t=0)** - Whether you're a people manager focused on making the jump to [[[[Executive Leadership]]]] or an individual contributor seeking to understand your senior leaders, this course is for you.
+> **[0:00](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980&t=0)** - Whether you're a people manager focused on making the jump to [[Executive Leadership]] or an individual contributor seeking to understand your senior leaders, this course is for you.
 >
 > **[0:13](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980&t=13)** As an Amazon VP, I successfully guided many people to senior leadership roles, and today, I do the same as an executive coach.
 >
@@ -973,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980&t=6)** A good executive sponsor serves two main functions.
 >
-> **[0:10](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980&t=10)** First, they may mentor you, giving you advice, and helping you improve your [[[[Executive Leadership]]]] skills.
+> **[0:10](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980&t=10)** First, they may mentor you, giving you advice, and helping you improve your [[Executive Leadership]] skills.
 >
 > **[0:18](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980&t=18)** Second, they advocate for you, putting you forward for growth opportunities, high profile projects, and ultimately, for promotion.
 >

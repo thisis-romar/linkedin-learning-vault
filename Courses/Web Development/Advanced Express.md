@@ -262,7 +262,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=170)** Let's look at the page, so I'm opening it in the browser localhost:3000.
 >
-> **[2:58](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=178)** It's a conference or Meetup page and it's based on the project that I covered in my course [[Building a Website with [[Node.js]] and [[Express.js]]]].
+> **[2:58](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=178)** It's a conference or Meetup page and it's based on the project that I covered in my course [[Building a Website with Node.js and Express.js]].
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=187)** The site already contains the basic building blocks for what we're going to implement throughout the course, so if we look into Account, for instance, we already have a working route for Register.
 >

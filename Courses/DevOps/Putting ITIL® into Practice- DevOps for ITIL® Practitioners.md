@@ -1032,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=98)** Because feedback loops enable corrections to be made, feedback loops are huge in devops.
 >
-> **[1:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=103)** The key thing to note here is that you shouldn't just restrict their use to [[[[Agile Software Development]]]].
+> **[1:43](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=103)** The key thing to note here is that you shouldn't just restrict their use to [[Agile Software Development]].
 >
 > **[1:48](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/principles?u=76281980&t=108)** Feedback loops are applicable everywhere.
 >

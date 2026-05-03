@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/python-hands-on-practice
 course_count: 14
 linkedin_topics:
   - Software Development
-louvain_cluster: 13
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/software-development

@@ -179,7 +179,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=24)** And of course, this big white space here is the body of that document.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=29)** And I can see this blinking cursor just waiting for me to type something.
+> **[0:29](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=29)** And I can see this blinking [[Cursor]] just waiting for me to type something.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=32)** So I'm going to type a little bit here and let's just pause there and talk about saving a document.
 >
@@ -301,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=6)** And that lets you work with [[Microsoft Word|Word]] from almost any computer with a web browser.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=10)** I'm starting at the Microsoft 365 website, which you can get to by going to [[[Microsoft Office|office]].com](https://office.com).
+> **[0:10](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=10)** I'm starting at the Microsoft 365 website, which you can get to by going to [office.com](https://office.com).
 >
 > **[0:15](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=15)** And I've already signed in with my Microsoft 365 account.
 >
@@ -402,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=4)** This is how you set the size, color, font, and other visual aspects of your text.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=8)** But first, most people already know how to write text in a document, this blinking cursor is where the text will go when you start typing and you can click anywhere in the document to set that blinking cursor.
+> **[0:08](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=8)** But first, most people already know how to write text in a document, this blinking [[Cursor]] is where the text will go when you start typing and you can click anywhere in the document to set that blinking cursor.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=19)** So I could click here at the beginning of this line to set the cursor there, and then I can just type in some text.
 >
@@ -547,7 +547,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980&t=161)** And you cannot change your page margins here, but you can make adjustments to individual paragraphs.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980&t=167)** So what I'll do is scroll down in my document and just click to place my cursor somewhere in one of these paragraphs.
+> **[2:47](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980&t=167)** So what I'll do is scroll down in my document and just click to place my [[Cursor]] somewhere in one of these paragraphs.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980&t=174)** Remember, a new paragraph starts when you hit the return key.
 >
@@ -606,7 +606,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/insert-page-breaks-section-breaks-and-columns?u=76281980&t=43)** Well, the obvious answer in this case is not the best practice.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/insert-page-breaks-section-breaks-and-columns?u=76281980&t=46)** Some people would place their cursor at the beginning of that line, then hit the return key a bunch of times until it pushes that next line all the way down to the next page.
+> **[0:46](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/insert-page-breaks-section-breaks-and-columns?u=76281980&t=46)** Some people would place their [[Cursor]] at the beginning of that line, then hit the return key a bunch of times until it pushes that next line all the way down to the next page.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/insert-page-breaks-section-breaks-and-columns?u=76281980&t=55)** But this is really not a good way to do this.
 >
@@ -685,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=0)** - [Narrator] In this video, we'll see how to add pictures to a document and format those pictures.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=5)** First, we need to place the cursor where you want the picture to be.
+> **[0:05](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=5)** First, we need to place the [[Cursor]] where you want the picture to be.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=8)** So I'll click at the beginning of this line to place my cursor there.
 >

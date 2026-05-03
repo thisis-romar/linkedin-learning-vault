@@ -2440,7 +2440,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=181)** Here are a few tips to help you get started.
 >
-> **[3:05](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=185)** On Macintosh computers, a really easy way to insert diacritical marks is to put your cursor in your document and hold down a letter on the keyboard.
+> **[3:05](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=185)** On Macintosh computers, a really easy way to insert diacritical marks is to put your [[Cursor]] in your document and hold down a letter on the keyboard.
 >
 > **[3:15](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=195)** Any diacritical marks that exist for that letter will appear and you simply select the one you want.
 >

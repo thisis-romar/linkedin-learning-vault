@@ -2212,7 +2212,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=1)** I hope you enjoyed this course and took away some insights to apply to your next UX project.
 >
-> **[0:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=6)** You can check out my other courses, UX Foundations: Multidevice Design and [[UX Foundations- [[Prototyping]]]] to learn more relevant material.
+> **[0:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=6)** You can check out my other courses, UX Foundations: Multidevice Design and [[UX Foundations- Prototyping]] to learn more relevant material.
 >
 > **[0:15](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=15)** If you have any follow up questions, feel free to post them on the Q and A on this course's page.
 >

@@ -809,7 +809,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980&t=69)** Because it's different on different platforms, You might wonder if you can customize it further, and you can, but that's not something we're going to do right now.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980&t=77)** What we're focusing on right now is the right side of the prompt, where the cursor is.
+> **[1:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980&t=77)** What we're focusing on right now is the right side of the prompt, where the [[Cursor]] is.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980&t=82)** That's where we'll type commands to send to the system, so let's run a command.
 >
@@ -926,7 +926,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=138)** Occasionally, you'll come across a command that takes no options, but that's fairly rare.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=143)** Here at the bottom of the screen, I have a little status bar that tells me that my cursor is on line one of this document and it offers some options like help and quit.
+> **[2:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=143)** Here at the bottom of the screen, I have a little status bar that tells me that my [[Cursor]] is on line one of this document and it offers some options like help and quit.
 >
 > **[2:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=152)** I'll press the H key to show the help, and I want to direct your attention to the section called Moving.
 >
@@ -1057,7 +1057,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=134)** For now, I'll backspace the command and type clear to clear the screen.
 >
-> **[2:21](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=141)** Once we move beyond short commands, it'll sometimes become necessary to move the cursor or insertion point around and edit commands or parameters.
+> **[2:21](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=141)** Once we move beyond short commands, it'll sometimes become necessary to move the [[Cursor]] or insertion point around and edit commands or parameters.
 >
 > **[2:29](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=149)** We can use the arrow keys for that, but it gets pretty tedious to have to click for every character you want to move.
 >
@@ -3138,7 +3138,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=96)** And if I press escape, I'll go back into command mode.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=99)** Keys we press in command mode do different things than in insertion mode, and here we'll use command mode to move the cursor around.
+> **[1:39](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=99)** Keys we press in command mode do different things than in insertion mode, and here we'll use command mode to move the [[Cursor]] around.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=107)** We'll move left and right with the H and L keys and we can move down and up with J and K.
 >

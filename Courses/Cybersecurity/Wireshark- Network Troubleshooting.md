@@ -713,7 +713,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=293)** Then that opens it all up so that it can take a closer look at all of those frame headers.
 >
-> **[5:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=300)** So place my cursor on that and then I go to View, and expand the subtree.
+> **[5:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=300)** So place my [[Cursor]] on that and then I go to View, and expand the subtree.
 >
 > **[5:06](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=306)** And that will just expand it.
 >
@@ -1172,7 +1172,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=87)** Over in the lower-left hand corner is the expert system.
 >
-> **[1:31](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=91)** Now, if we take a look at that, I've laid my cursor on it.
+> **[1:31](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=91)** Now, if we take a look at that, I've laid my [[Cursor]] on it.
 >
 > **[1:34](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=94)** It says, error is the highest expert information level.
 >
@@ -1333,7 +1333,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=177)** But the one I do like to use is the TCP time sequence or the Stevens Graph.
 >
-> **[3:03](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=183)** So when you have this open, as you can see, this shows us, and you could place your cursor here and pull this up.
+> **[3:03](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=183)** So when you have this open, as you can see, this shows us, and you could place your [[Cursor]] here and pull this up.
 >
 > **[3:11](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=191)** You can take a look behind the scenes here at the packet list, and when I place my cursor here, you can see that nothing happened for about 90 seconds, and then, as you can see, that was that delay.
 >
@@ -2434,7 +2434,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=0)** - [Presenter] Okay, now let's check our work.
 >
-> **[0:08](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=8)** First you are to use your favorite gen AI tool and enter the following prompts.
+> **[0:08](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=8)** First you are to use your favorite [[Generative AI|gen AI]] tool and enter the following prompts.
 >
 > **[0:14](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=14)** What are signs that someone is scanning the network and how can you use [[Wireshark]] to see if someone is scanning the network?
 >

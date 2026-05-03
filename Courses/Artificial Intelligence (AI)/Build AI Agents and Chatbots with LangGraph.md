@@ -623,7 +623,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=42)** We need to use the chat capabilities for requests and responses.
 >
-> **[0:47](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=47)** We will use GPT-4o for the model name.
+> **[0:47](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=47)** We will use [[GPT-4|GPT-4o]] for the model name.
 >
 > **[0:50](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/create-a-basic-react-agent-25229434?u=76281980&t=50)** The APA version is also set here.
 >
@@ -1268,7 +1268,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=14)** We begin by setting up the LLM model for the custom orders agent.
 >
-> **[0:18](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=18)** As before, we will use [[Microsoft Azure|Azure]] OpenAI GPT-4o model for this purpose.
+> **[0:18](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=18)** As before, we will use [[Microsoft Azure|Azure]] OpenAI [[GPT-4|GPT-4o]] model for this purpose.
 >
 > **[0:26](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/set-up-tools-for-orders-agent-25229433?u=76281980&t=26)** For setting up the laptop orders database, we have a list of orders in the data/Laptop Orders.csv file.
 >
@@ -1587,7 +1587,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/engineer-prompts-for-reflection-25228456?u=76281980&t=7)** Let's first set up the model and the prompts.
 >
-> **[0:10](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/engineer-prompts-for-reflection-25228456?u=76281980&t=10)** Similar to the previous examples, we set up the AzureChatOpenAI with the GPT-4O model.
+> **[0:10](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/engineer-prompts-for-reflection-25228456?u=76281980&t=10)** Similar to the previous examples, we set up the AzureChatOpenAI with the [[GPT-4|GPT-4O]] model.
 >
 > **[0:18](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/engineer-prompts-for-reflection-25228456?u=76281980&t=18)** In the case of summary with review, we use two LLMs, one for the summary and another for the review.
 >

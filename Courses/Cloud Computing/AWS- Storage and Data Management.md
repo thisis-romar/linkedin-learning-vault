@@ -5514,7 +5514,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980&t=143)** On this screen, we have a wizard that will walk us through the steps of creating a policy, or we can click this tab and edit [[JSON]] directly.
 >
-> **[2:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980&t=153)** Before we do anything here, click your cursor into the JSON, create a few lines here, and paste that ARN of the S3 bucket.
+> **[2:33](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980&t=153)** Before we do anything here, click your [[Cursor]] into the JSON, create a few lines here, and paste that ARN of the S3 bucket.
 >
 > **[2:42](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-sftp-prerequisites?u=76281980&t=162)** That way we've got it handy in just a moment.
 >
@@ -5747,7 +5747,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=308)** It's that public key that AWS wants us to paste in now.
 >
-> **[5:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=312)** So I'll cat that out, and you can see the contents and I could just copy this with my cursor, but to make sure that I've got everything and don't miss any characters, I'm going to use the pbcopy command.
+> **[5:12](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=312)** So I'll cat that out, and you can see the contents and I could just copy this with my [[Cursor]], but to make sure that I've got everything and don't miss any characters, I'm going to use the pbcopy command.
 >
 > **[5:26](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/create-an-sftp-endpoint?u=76281980&t=326)** So I'll cat that out again, but instead of hitting enter I'll do a vertical pipe and then pbcopy, which will place the contents onto my clipboard.
 >

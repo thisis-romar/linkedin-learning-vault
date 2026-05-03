@@ -185,7 +185,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=147)** A team that tries to be agile without the correct mindset will not be very effective.
 >
-> **[2:33](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=153)** The Agile Coach site, [[[Atlassian]].com/agile](https://atlassian.com/agile), contains great resources related to many aspects of agile.
+> **[2:33](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=153)** The Agile Coach site, [atlassian.com/agile](https://atlassian.com/agile), contains great resources related to many aspects of agile.
 >
 > **[2:41](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=161)** You are encouraged to take a look.
 >

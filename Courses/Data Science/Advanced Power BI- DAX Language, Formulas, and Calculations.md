@@ -190,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/variables?u=76281980&t=36)** We have a table called data already in our model.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/variables?u=76281980&t=41)** Within our formula bar, after the section data equals, we'll hold down the shift and enter keys at the same time to move our cursor to the start of the next line.
+> **[0:41](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/variables?u=76281980&t=41)** Within our formula bar, after the section data equals, we'll hold down the shift and enter keys at the same time to move our [[Cursor]] to the start of the next line.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/variables?u=76281980&t=53)** We'll then make the existing calculated table a variable using the var syntax to assign it to the variable name table.
 >

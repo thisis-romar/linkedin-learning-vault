@@ -1547,7 +1547,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=177)** You can build the poll right from here.
 >
-> **[2:59](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=179)** To delete it, just put the cursor directly after the poll and hit the backspace key.
+> **[2:59](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=179)** To delete it, just put the [[Cursor]] directly after the poll and hit the backspace key.
 >
 > **[3:06](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=186)** You can also insert Microsoft Loop components.
 >

@@ -524,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=0)** Let us now navigate into [[Azure AI Studio]].
 >
-> **[0:03](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=3)** You can access the studio through the URL ia.[[[Microsoft Azure|azure]].com](https://azure.com).
+> **[0:03](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=3)** You can access the studio through the URL ia.[azure.com](https://azure.com).
 >
 > **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=9)** Let me give you a warning here.
 >
@@ -532,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=22)** The model catalog gives you a list of models that you can deploy in Azure AI Studio.
 >
-> **[0:29](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=29)** As mentioned in the previous chapter, you not only have access to Azure Open AI models, but also other models such as Phi [[LLaMA]], Mistral, and all other models that Microsoft has a partnership with.
+> **[0:29](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=29)** As mentioned in the previous chapter, you not only have access to [[Microsoft Azure|Azure]] Open AI models, but also other models such as Phi [[LLaMA]], Mistral, and all other models that Microsoft has a partnership with.
 >
 > **[0:45](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=45)** The model benchmarks allow you to see how each model is performing against a specific task and industry recognized data set.
 >
@@ -1727,7 +1727,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=6)** You will never run out of things to learn.
 >
-> **[0:08](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=8)** There are so many concepts to cover just within GenAI.
+> **[0:08](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=8)** There are so many concepts to cover just within [[Generative AI|GenAI]].
 >
 > **[0:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=13)** You can continue to research the latest trends coming out of GenAI, such as organic workflows.
 >

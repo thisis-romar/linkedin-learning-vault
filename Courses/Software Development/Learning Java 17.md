@@ -3250,7 +3250,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-java-17/continue-your-java-learning?u=76281980&t=26)** If you want to dive deeper into Java, check out Java Essential Training or the Java Code Clinic series here on [[LinkedIn]] Learning.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-java-17/continue-your-java-learning?u=76281980&t=35)** If you want to build advanced programs that store more complicated data, check out my, [[[[Programming Foundations]]- [[Data Structures]]]] course.
+> **[0:35](https://www.linkedin.com/learning/learning-java-17/continue-your-java-learning?u=76281980&t=35)** If you want to build advanced programs that store more complicated data, check out my, [[Programming Foundations- Data Structures]] course.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-java-17/continue-your-java-learning?u=76281980&t=45)** I hope you enjoyed this course as much as I enjoyed making it.
 >

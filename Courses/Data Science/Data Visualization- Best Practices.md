@@ -2226,7 +2226,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980&t=49)** If you would like to learn about the brain science behind visual communication and data visualizations, check out my course 20 Rules of Visual Communication, and if you're looking to take what you learned today and leverage it for infographic design, check out my course Infographic Design Theory, followed by the hands-on Learning Infographic Design.
 >
-> **[1:14](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980&t=74)** And of course, be sure to check out other courses like [[Data Visualization [[Storytelling]]]] with Bill Shander, where you're going to learn how to tell stories with data.
+> **[1:14](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980&t=74)** And of course, be sure to check out other courses like [[Data Visualization Storytelling]] with Bill Shander, where you're going to learn how to tell stories with data.
 >
 > **[1:26](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980&t=86)** And if you're just learning about communicating with visuals, I suggest checking out Von Glitschka's 5-Day Drawing Challenge: Communicating Through Drawing.
 >

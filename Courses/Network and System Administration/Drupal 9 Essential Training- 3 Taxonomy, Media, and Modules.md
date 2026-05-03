@@ -2092,7 +2092,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=7)** There's one more module we need to install in order to prepare for the next section in the course.
 >
-> **[0:13](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=13)** Head over to [[[Drupal]].org/project/devel](https://drupal.org/project/devel).
+> **[0:13](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=13)** Head over to [drupal.org/project/devel](https://drupal.org/project/devel).
 >
 > **[0:18](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=18)** Now you'll remember from our site building workflow that we're not going to add content until the very end, but that doesn't mean that we don't need content in order to actually work on the next set of tasks.
 >
@@ -2102,7 +2102,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=55)** The Devel module does a lot more than that, but we're basically going to use it for that purpose during this course.
 >
-> **[1:02](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=62)** Now, as we scroll down, you'll note that as of June 23rd, 2020, Version 4.0.0 works with Drupal 8.8 and above and Drupal 9 and above.
+> **[1:02](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=62)** Now, as we scroll down, you'll note that as of June 23rd, 2020, Version 4.0.0 works with [[Drupal]] 8.8 and above and Drupal 9 and above.
 >
 > **[1:14](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=74)** So go ahead and install this module using the method that you prefer to use, and that could be downloading it and uploading it or downloading it and uploading it directly to the folder directory or using Composer.
 >

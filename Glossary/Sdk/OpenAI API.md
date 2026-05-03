@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # OpenAI API
 
-> **Type:** Sdk | **Courses:** 45 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Web Development]], [[Network and System Administration]], [[Database Management]]
+> **Type:** SDK | **Courses:** 45 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Web Development]], [[Network and System Administration]], [[Database Management]]
 
 ## Courses
 

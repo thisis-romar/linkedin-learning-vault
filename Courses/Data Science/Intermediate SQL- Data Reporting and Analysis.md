@@ -2735,7 +2735,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=165)** So the top row says, film with an ID of number one belongs to category number six, which is documentary.
 >
-> **[2:54](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=174)** That may be too small for you to see but there's a little popup on the cursor that says, documentary.
+> **[2:54](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=174)** That may be too small for you to see but there's a little popup on the [[Cursor]] that says, documentary.
 >
 > **[3:00](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980&t=180)** So let's try deleting from the category table where ID is six.
 >

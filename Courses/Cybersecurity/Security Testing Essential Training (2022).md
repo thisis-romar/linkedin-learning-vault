@@ -2056,9 +2056,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=73)** For the purpose of the demo, we're just going to focus on eth0, and all you have to do to run the utility is come up here and click the blue fin to start capturing packets.
 >
-> **[1:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=85)** Now it's not going to be very interesting unless I do something network connected, so let's try back in the terminal emulator to do a ping -c4, that says we're only going to do it four times, of [[[LinkedIn]].com](https://linkedin.com).
+> **[1:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=85)** Now it's not going to be very interesting unless I do something network connected, so let's try back in the terminal emulator to do a ping -c4, that says we're only going to do it four times, of [linkedin.com](https://linkedin.com).
 >
-> **[1:44](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=104)** And you can see that my Kali image sent a little bit of data over to LinkedIn, LinkedIn said, "Yep, I'm here."
+> **[1:44](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=104)** And you can see that my Kali image sent a little bit of data over to [[LinkedIn]], LinkedIn said, "Yep, I'm here."
 >
 > **[1:51](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=111)** And once the four pings were done, it stops.
 >

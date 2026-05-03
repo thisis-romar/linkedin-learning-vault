@@ -1034,7 +1034,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=66)** Here, I'm then going to highlight and copy the URL, and then go back to our project page.
 >
-> **[1:13](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=73)** To go ahead and attach this issue, we can go ahead and place our cursor in the bottom row of the project, and then just paste the URL.
+> **[1:13](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=73)** To go ahead and attach this issue, we can go ahead and place our [[Cursor]] in the bottom row of the project, and then just paste the URL.
 >
 > **[1:21](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/attaching-and-removing-issues-to-and-from-a-project-board?u=76281980&t=81)** Here, I'm then going to click on enter.
 >

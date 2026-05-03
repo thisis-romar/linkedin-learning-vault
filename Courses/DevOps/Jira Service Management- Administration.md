@@ -2702,7 +2702,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=99)** In Cloud, a project's email account is automatically created.
 >
-> **[1:43](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=103)** The default format is projectkey@yoursite.[[[Atlassian]].net](https://atlassian.net).
+> **[1:43](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=103)** The default format is projectkey@yoursite.[atlassian.net](https://atlassian.net).
 >
 > **[1:48](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=108)** You can customize the address's username if desired.
 >
@@ -2742,7 +2742,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=208)** Here, you can choose to accept email requests only from known customer accounts or from anyone on the web.
 >
-> **[3:36](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=216)** I want to share Atlassian's warning about the anyone on the web Cloud setting, which is called anyone can email in Server and Data Center.
+> **[3:36](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=216)** I want to share [[Atlassian]]'s warning about the anyone on the web Cloud setting, which is called anyone can email in Server and Data Center.
 >
 > **[3:44](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=224)** Atlassian says, when you choose this option, you have no control over who can create an account and raise requests.
 >

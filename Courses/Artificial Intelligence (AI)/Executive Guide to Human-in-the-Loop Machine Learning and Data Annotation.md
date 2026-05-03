@@ -1172,7 +1172,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=15)** An hour or two of experimenting and you'll have a better appreciation of what this is like.
 >
-> **[0:22](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=22)** If you're in analytics leadership and you want to continue your journey to better understand how machine learning works, I recommend a course I have in the library, [[[[Predictive Analytics]] Essential Training For Executives]].
+> **[0:22](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=22)** If you're in analytics leadership and you want to continue your journey to better understand how machine learning works, I recommend a course I have in the library, [[Predictive Analytics Essential Training For Executives]].
 >
 > **[0:37](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=37)** On the other hand, if you're a machine learning practitioner, you may be extremely curious about how to turn a data set of labeled images like the ones we've been talking about into a [[Computer Vision]] model.
 >

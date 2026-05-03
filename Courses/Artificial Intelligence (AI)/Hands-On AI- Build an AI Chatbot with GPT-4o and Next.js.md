@@ -552,9 +552,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=92)** And right here we'll call the createOpenAI function, and in it, we'll add the configuration for our client.
 >
-> **[1:38](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=98)** And we'll start with a baseURL of '[https://models.inference.ai.[[Microsoft Azure|azure]].com](https://models.inference.ai.azure.com).'
+> **[1:38](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=98)** And we'll start with a baseURL of '[https://models.inference.ai.azure.com](https://models.inference.ai.azure.com).'
 >
-> **[1:50](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=110)** This tells the OpenAI client to use the Azure OpenAI model endpoint.
+> **[1:50](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=110)** This tells the OpenAI client to use the [[Microsoft Azure|Azure]] OpenAI model endpoint.
 >
 > **[1:56](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=116)** Our client config also needs an API key.
 >
@@ -582,7 +582,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=179)** And inside of this generateText function, we're going to specify the model we want to use.
 >
-> **[3:05](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=185)** So on line 15, we have model as openai, and it needs ('gpt-4o').
+> **[3:05](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=185)** So on line 15, we have model as openai, and it needs ('[[GPT-4|gpt-4o]]').
 >
 > **[3:13](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=193)** So notice that you can choose any model you want right here, but we're going with 4o for this course.
 >
@@ -703,7 +703,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=141)** Next we need to set up our connection to the AI model and we'll do that by defining an OpenAI variable, which is for the OpenAI clients and then creates OpenAI and then it will start with baseURL again.
 >
-> **[2:41](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=161)** And let's set this to [https://models.inference.ai.[[Microsoft Azure|azure]].com](https://models.inference.ai.azure.com)
+> **[2:41](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=161)** And let's set this to [https://models.inference.ai.azure.com](https://models.inference.ai.azure.com)
 >
 > **[2:50](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=170)** and we have our API key as process.env.GITHUB_TOKEN.
 >
@@ -2203,7 +2203,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=206)** So let's set the model to openai, we'll call that.
 >
-> **[3:31](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=211)** And we can just use gpt-4o.
+> **[3:31](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=211)** And we can just use [[GPT-4|gpt-4o]].
 >
 > **[3:34](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=214)** Remember, you can use whichever model you want.
 >

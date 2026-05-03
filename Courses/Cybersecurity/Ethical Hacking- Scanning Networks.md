@@ -637,7 +637,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=89)** I've opened up a terminal so we can do a simple ping scan using Hping3.
 >
-> **[1:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=95)** I'm going to pinging scanme.[[[Nmap]].org](https://nmap.org), which is a site that allows you to test and do some pinging and scanning.
+> **[1:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=95)** I'm going to pinging scanme.[nmap.org](https://nmap.org), which is a site that allows you to test and do some pinging and scanning.
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=105)** So I've entered the command and I'll press Enter, and I'll stop that.
 >
@@ -1146,7 +1146,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=234)** And there's also stealth scans, such as the FIN, NULL, and Xmas Tree scan, which are designed to probe ports without completing a full handshake or connection.
 >
-> **[4:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=247)** Now, once done, the scanner will present you with a list of identified services, and here we see some examples of open ports here at [[[Nmap]].org](https://nmap.org), so you know what to look for once the scan is complete.
+> **[4:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=247)** Now, once done, the scanner will present you with a list of identified services, and here we see some examples of open ports here at [nmap.org](https://nmap.org), so you know what to look for once the scan is complete.
 >
 > **[4:23](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=263)** Now, let's test your knowledge.
 >
@@ -1521,7 +1521,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=76)** The response commonly includes a banner that displays information about the software, its version, and other details.
 >
-> **[1:26](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=86)** I'm hereat [[[Nmap]].org](https://nmap.org), where we see an example from an Nmap script that we can use to grab a banner.
+> **[1:26](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=86)** I'm hereat [nmap.org](https://nmap.org), where we see an example from an [[Nmap]] script that we can use to grab a banner.
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=94)** If we were to connect to an FTP server, it might yield this banner as shown in the script output.
 >

@@ -918,7 +918,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=136)** Download the handout and begin exploring which cybersecurity certifications are best for you.
 >
-> **[2:22](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=142)** To dive deeper into this topic, consider taking my course, [[[[Cybersecurity Careers]] and Certifications]].
+> **[2:22](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=142)** To dive deeper into this topic, consider taking my course, [[Cybersecurity Careers and Certifications]].
 >
 > **[2:27](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=147)** In that course, I'll guide you through the nine most common cybersecurity jobs, their duties, qualifications, and which certifications are the best matches for the roles.
 >
@@ -1552,7 +1552,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=131)** Some high level technical roles, such as senior security architect, don't involve managing people, but offer opportunities to grow your expertise and specialization.
 >
-> **[2:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=141)** I cover career paths in detail in my [[[[Cybersecurity Careers]] and Certifications]] course and I recommend you take that course to learn more about cybersecurity career possibilities.
+> **[2:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=141)** I cover career paths in detail in my [[Cybersecurity Careers and Certifications]] course and I recommend you take that course to learn more about cybersecurity career possibilities.
 >
 > **[2:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=151)** Take what you've learned from this video to start planning your career path in cybersecurity.
 >
@@ -1914,7 +1914,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=65)** Throughout your day, you'll attend meetings, either leading them or just participating.
 >
-> **[1:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=70)** Typical meetings include project status updates, security program reviews for the steering committee or [[[[Executive Leadership]]]], strategy talks with your boss, vendor meetings to discuss product issues or to learn about new offerings, compliance and audit updates, and cross departmental meetings like with [[DevOps]] or HR.
+> **[1:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=70)** Typical meetings include project status updates, security program reviews for the steering committee or [[Executive Leadership]], strategy talks with your boss, vendor meetings to discuss product issues or to learn about new offerings, compliance and audit updates, and cross departmental meetings like with [[DevOps]] or HR.
 >
 > **[1:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=91)** In the afternoons, you'll likely work on longer term projects related to security initiatives, such as deploying multifactor authentication, hardening end user or network systems, or implementing a zero-trust architecture.
 >

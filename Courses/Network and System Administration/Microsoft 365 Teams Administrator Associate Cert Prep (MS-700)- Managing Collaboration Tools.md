@@ -2490,7 +2490,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=0)** - [Instructor] [[Microsoft Entra ID|Azure Active Directory]] has something called access reviews, and that allows organizations to take a look and see what uses are up to and decide whether or not those types of activities should be approved or denied in upcoming events.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=14)** So I'm in Azure Active Directory by clicking on the Azure Active Directory button at portal.[[[Microsoft Azure|azure]].com](https://azure.com).
+> **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=14)** So I'm in Azure Active Directory by clicking on the Azure Active Directory button at portal.[azure.com](https://azure.com).
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=22)** And next, I'll click on Identity Governance.
 >
@@ -3097,7 +3097,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=156)** Troubleshooting in Teams usually has a simple solution.
 >
-> **[2:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=160)** You can also search [[[Microsoft]].com](https://Microsoft.com) for additional solutions if needed or you can open a ticket with Microsoft support.
+> **[2:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=160)** You can also search [Microsoft.com](https://Microsoft.com) for additional solutions if needed or you can open a ticket with [[Microsoft]] support.
 
 > [!info]- Semantic Content
 >

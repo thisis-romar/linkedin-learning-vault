@@ -2275,7 +2275,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=281)** I can quickly flip between them instead of maximizing and minimizing applications.
 >
-> **[4:46](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=286)** When I'm working and I'm not in overview mode, I can hold down my control and alt keys and use my up and down cursor keys to jump between workspaces.
+> **[4:46](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=286)** When I'm working and I'm not in overview mode, I can hold down my control and alt keys and use my up and down [[Cursor]] keys to jump between workspaces.
 >
 > **[4:55](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=295)** This is my favorite way of going between workspaces.
 >
@@ -2854,7 +2854,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=81)** You can also switch applications in overview mode by clicking on them or using alt tab to cycle through them.
 >
-> **[1:29](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=89)** Perhaps a more powerful feature is being able to use your cursor keys to choose the application instead of cycling through them one by one.
+> **[1:29](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=89)** Perhaps a more powerful feature is being able to use your [[Cursor]] keys to choose the application instead of cycling through them one by one.
 >
 > **[1:36](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=96)** If you have many running applications on a workspace, you can go directly to the one you want using the cursor keys.
 >

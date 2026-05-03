@@ -1172,7 +1172,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=21)** The next course to consider depends on if you're a data scientist or an executive.
 >
-> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=25)** There's an interesting connection between this course and my [[[[Predictive Analytics]] Essential Training For Executives]].
+> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=25)** There's an interesting connection between this course and my [[Predictive Analytics Essential Training For Executives]].
 >
 > **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=32)** In that course I make the case that estimating ROI is important.
 >

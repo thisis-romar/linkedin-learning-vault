@@ -2694,7 +2694,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=80)** Let's dig further to find the mail server with dig [sciencedirect.com](https://sciencedirect.com) minus -t mx, and we'll get the short output.
 >
-> **[1:33](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=93)** We've now got the name of the mail server which is sciencedirect.mail.protection.[[[Microsoft Outlook|outlook]].com](https://outlook.com).
+> **[1:33](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=93)** We've now got the name of the mail server which is sciencedirect.mail.protection.[outlook.com](https://outlook.com).
 >
 > **[1:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=101)** This is a [[Microsoft 365]] mail service.
 >

@@ -3,6 +3,11 @@ type: glossary
 cssclasses:
   - lle-glossary
 glossary_type: concept
+aliases:
+  - gpt-4o
+  - gpt-4-turbo
+  - gpt4
+  - GPT-4o
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
@@ -24,6 +29,8 @@ created: 2026-05-02
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/GPT-4.md)
 
 # GPT-4
+
+OpenAI's GPT-4 family of large language models, including GPT-4o and GPT-4 Turbo variants.
 
 > **Type:** Concept | **Courses:** 74 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Network and System Administration]], [[Web Development]]
 
@@ -121,4 +128,4 @@ created: 2026-05-02
 
 ---
 
-*Source: LinkedIn catalog (concept)*
+*Source: manually added*

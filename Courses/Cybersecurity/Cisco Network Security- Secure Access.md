@@ -1768,7 +1768,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=55)** If you're interested in learning about packet analysis, please check out my courses on [[Wireshark]].
 >
-> **[1:02](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=62)** My course, "[[Introduction to Pen Testing for [[Cybersecurity]] Professionals]]", will be well worth your time.
+> **[1:02](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=62)** My course, "[[Introduction to Pen Testing for Cybersecurity Professionals]]", will be well worth your time.
 >
 > **[1:10](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=70)** You might also want to see what my colleague, Malcolm Shore, has for you on his homepage.
 >

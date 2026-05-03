@@ -138,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=38)** There are many different courses which cover these topics in detail.
 >
-> **[0:42](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=42)** While not required, you might want to watch my [[[[Agile Software Development]]]]: Clean Code Practices course.
+> **[0:42](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=42)** While not required, you might want to watch my [[Agile Software Development]]: Clean Code Practices course.
 >
 > **[0:47](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=47)** The material on that course pairs nicely with what is covered in this one.
 
@@ -1543,7 +1543,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=46)** There are many different courses right here in the library which cover test-driven development.
 >
-> **[0:50](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=50)** One of my favorites is Neelam Dwivedi's course, [[[[Programming Foundations]]- Test-Driven Development]].
+> **[0:50](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=50)** One of my favorites is Neelam Dwivedi's course, [[Programming Foundations- Test-Driven Development]].
 >
 > **[0:56](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=56)** Another way to level up you TDD skills is to practice following TDD in a more controlled setting.
 >
@@ -1584,7 +1584,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=64)** There are many great resources for learning more about refactoring here in the library.
 >
-> **[1:08](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=68)** Richard Kasperowski's "[[[[Agile Software Development]]]]: "Refactoring" is a great place to start.
+> **[1:08](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=68)** Richard Kasperowski's "[[Agile Software Development]]: "Refactoring" is a great place to start.
 >
 > **[1:13](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=73)** Richard's course even covers some techniques which will be useful when working with existing code bases.
 >

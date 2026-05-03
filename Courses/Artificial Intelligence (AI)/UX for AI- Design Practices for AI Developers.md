@@ -888,7 +888,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=74)** Caching is a proven means to reducing costs.
 >
-> **[1:24](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=84)** Therefore, we want to cache the completions, ie GenAI, I ranked 'em myself.
+> **[1:24](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=84)** Therefore, we want to cache the completions, ie [[Generative AI|GenAI]], I ranked 'em myself.
 >
 > **[1:34](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=94)** You like, in this world you can like just talk to yourself, and someone's actually listening, actually not someone, again, don't want to humanize AI ever.
 >

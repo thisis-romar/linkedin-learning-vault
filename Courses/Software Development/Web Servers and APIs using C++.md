@@ -436,11 +436,11 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=0)** - [Instructor] Crow is a C++ web micro framework.
 >
-> **[0:03](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=3)** It is available at [[[GitHub]].com/ipkn/crow](https://github.com/ipkn/crow).
+> **[0:03](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=3)** It is available at [github.com/ipkn/crow](https://github.com/ipkn/crow).
 >
 > **[0:08](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=8)** It is inspired by Flask, which is written in [[Python (Programming Language)|Python]].
 >
-> **[0:12](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=12)** While Crow is not well known, it is well-liked with over four thousand stars on GitHub.
+> **[0:12](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=12)** While Crow is not well known, it is well-liked with over four thousand stars on [[GitHub]].
 >
 > **[0:17](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/building-crow?u=76281980&t=17)** It is also easy to understand, easy to use, and fast.
 >
@@ -2036,7 +2036,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=373)** First one's gonna be ::close_array, ::close_document, ::document, ::finalize, ::open_array, ::open_document, and finally the last one actually is not a stream, it is basic::kvp, for key value pair.
 >
-> **[6:52](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=412)** And then we're gonna have a using mongocxx::cursor.
+> **[6:52](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=412)** And then we're gonna have a using mongocxx::[[Cursor]].
 >
 > **[6:59](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=419)** Now we're gonna scroll all the way down to our main function.
 >
@@ -2249,7 +2249,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=291)** I'm gonna delete this [[JavaScript]] file here.
 >
-> **[4:55](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=295)** I'm gonna change the style sheet, and the style sheet is now going to point to [https://cdnjs.cloudflare.com/[[AJAX]]/libs/bulma](https://cdnjs.cloudflare.com/ajax/libs/bulma),
+> **[4:55](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=295)** I'm gonna change the style sheet, and the style sheet is now going to point to [https://cdnjs.cloudflare.com/ajax/libs/bulma](https://cdnjs.cloudflare.com/ajax/libs/bulma),
 >
 > **[5:18](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/adding-dynamic-data-to-a-page?u=76281980&t=318)** B-U-L-M-A, and bulma is a lightweight css framework similar to like the bootstrap or something.
 >

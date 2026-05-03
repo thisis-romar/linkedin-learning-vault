@@ -87,7 +87,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980&t=13)** In this course, we are not just talking about AI that works, we are diving into AI that works ethically, fairly, and with real-world impact.
 >
-> **[0:23](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980&t=23)** Together, we will explore the [[Foundations Of [[Responsible AI]]]], from ethical development to [[Continuous Monitoring]] and iterative improvement.
+> **[0:23](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980&t=23)** Together, we will explore the [[Foundations Of Responsible Ai]], from ethical development to [[Continuous Monitoring]] and iterative improvement.
 >
 > **[0:33](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980&t=33)** You'll gain practical tools to build AI systems that people can trust, whether you are navigating healthcare, finance, or any field where AI plays a role.
 >
@@ -95,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980&t=47)** I'm the founder of DigiFab AI, a [[LinkedIn]] Top Voice, with over 15 years of experience working with Fortune 100 companies.
 >
-> **[0:57](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980&t=57)** Let's unlock the true potential of responsible AI together.
+> **[0:57](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980&t=57)** Let's unlock the true potential of [[Responsible AI]] together.
 
 > [!info]- Semantic Content
 >

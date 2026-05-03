@@ -982,7 +982,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=125)** Comments are also often used to quickly activate or deactivate single or multiple lines of code for debugging purposes.
 >
-> **[2:12](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=132)** This is done by placing your cursor on the line or lines you want to comment out and then hitting control or command forward slash.
+> **[2:12](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=132)** This is done by placing your [[Cursor]] on the line or lines you want to comment out and then hitting control or command forward slash.
 >
 > **[2:20](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics?u=76281980&t=140)** So, if I hit control forward slash I comment out this line of code, if I do it again, so control or command forward slash, I uncomment this line.
 >
@@ -8035,7 +8035,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=40)** You now know what this means, it means somewhere else in the project sits something called react and something called prop-types and we're just importing it into this component so that we can use it in that component.
 >
-> **[0:50](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=50)** Then there's a constant called imgWithClick that sets up an object that has a single property, cursor and pointer.
+> **[0:50](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=50)** Then there's a constant called imgWithClick that sets up an object that has a single property, [[Cursor]] and pointer.
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-essential-training/making-sense-of-a-react-component?u=76281980&t=57)** In React, developers prefer to use objects for pretty much everything.
 >

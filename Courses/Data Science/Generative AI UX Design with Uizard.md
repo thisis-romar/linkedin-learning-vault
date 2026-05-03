@@ -116,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=0)** - [Narrator] Uizard is a new tool to help you design user interfaces and make the process of creating wire frames and prototypes simple.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=8)** What makes Uizard really stand out is its GenAI integration.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=8)** What makes Uizard really stand out is its [[Generative AI|GenAI]] integration.
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=12)** Uizard is made for designers who want to get things going quickly, but also for product managers, founders, developers, and others who might need to get some designs but don't have the chops or time to do things in [[Figma (Software)|Figma]] or other design tools.
 >
@@ -489,7 +489,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=70)** We looked at the zoom in and out.
 >
-> **[1:12](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=72)** You can change the type of cursor.
+> **[1:12](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=72)** You can change the type of [[Cursor]].
 >
 > **[1:15](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=75)** I'm currently using the selector cursor, or you can do this one, which is just a drag.
 >
@@ -664,7 +664,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=201)** So we'll just go to our landing page.
 >
-> **[3:23](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=203)** In this case, I'll just put [[[LinkedIn]].com](https://linkedin.com).
+> **[3:23](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=203)** In this case, I'll just put [linkedin.com](https://linkedin.com).
 >
 > **[3:25](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=205)** Alright, so once that's set, it's set.
 >
@@ -1279,7 +1279,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=13)** Getting the content right in the prototype phase has typically not been feasible.
 >
-> **[0:18](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=18)** One of the great things about gen AI is its ability to generate content, right, so creating images and text is a fairly simple process.
+> **[0:18](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=18)** One of the great things about [[Generative AI|gen AI]] is its ability to generate content, right, so creating images and text is a fairly simple process.
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=26)** So in this video, we're going to look at how you can use the AI tools in Wizard to generate images and content for your prototypes.
 >

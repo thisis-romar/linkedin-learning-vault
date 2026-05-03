@@ -1488,7 +1488,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=67)** I already created one for this demo, so I'm going to view the existing checks.
 >
-> **[1:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=71)** As you can see, I have a synthetics demo, which is pinging the [[[Google]].com](https://google.com) website.
+> **[1:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=71)** As you can see, I have a synthetics demo, which is pinging the [google.com](https://google.com) website.
 >
 > **[1:17](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=77)** Let's edit this to see how we've set this up.
 >

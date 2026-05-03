@@ -2237,7 +2237,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=21)** And depending on your current level, it might actually be nice to pick up some more advanced topics, such as [[Design Patterns]] and concurrency.
 >
-> **[0:29](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=29)** Some of the courses that would be a great follow up based on this are [[Programming Foundations]], discreet mathematics, but also monitoring and logging, or for example, as a new programming language, [[[[JavaScript]] Essential Training]] if you don't know JavaScript yet.
+> **[0:29](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=29)** Some of the courses that would be a great follow up based on this are [[Programming Foundations]], discreet mathematics, but also monitoring and logging, or for example, as a new programming language, [[JavaScript Essential Training]] if you don't know [[JavaScript]] yet.
 >
 > **[0:44](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=44)** Also interesting would be advanced design patterns, design principles, if you're a bit further already.
 >

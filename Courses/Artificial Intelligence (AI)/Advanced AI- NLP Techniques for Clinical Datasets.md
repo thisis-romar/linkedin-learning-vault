@@ -106,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] To maximize your learning experience, it is encouraged that you work along with the provided exercise files.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=7)** Let's start by going to collab.research.[[[Google]].com](https://google.com).
+> **[0:07](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=7)** Let's start by going to collab.research.[google.com](https://google.com).
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=12)** To upload an I [[Python (Programming Language)|Python]] file, click on file at the top left corner.
 >

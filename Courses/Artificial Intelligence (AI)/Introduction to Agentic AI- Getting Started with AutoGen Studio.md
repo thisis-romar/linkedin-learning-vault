@@ -300,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=10)** The first thing to do is to explore the main AutoGen website.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=14)** Here in [[Microsoft]].[[[GitHub]].io/autogen](https://github.io/autogen), we can go and check the documentation.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=14)** Here in [[Microsoft]].[github.io/autogen](https://github.io/autogen), we can go and check the documentation.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=22)** First, we can check on the Getting Started, the installation guide, and we can see that this is mostly for AutoGen, not AutoGen Studio.
 >
@@ -385,7 +385,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980&t=72)** Then we have the models.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980&t=73)** This is where we can configure the models that your agents will use, such as [[GPT-4]], GPT-3.5, GPT-4o, etc., and the agents themselves.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980&t=73)** This is where we can configure the models that your agents will use, such as [[GPT-4]], GPT-3.5, [[GPT-4|GPT-4o]], etc., and the agents themselves.
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980&t=83)** Here is where we can combine the skills and the models and create the agents, and we can assign them specific roles and like assisting with tasks or acting as a user proxy or managing a chat.
 >
@@ -495,7 +495,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=173)** Next is configuring a model.
 >
-> **[2:56](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=176)** Here we will pick a large language model for being used as the agent's brain, such as GPT-4o, for example.
+> **[2:56](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=176)** Here we will pick a large language model for being used as the agent's brain, such as [[GPT-4|GPT-4o]], for example.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=183)** With skills and a model, we can proceed to building the agent, which involves combining these components, giving the agent a set of tasks and a foundational understanding of its role.
 >
@@ -582,7 +582,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-and-configuring-your-first-ai-agent?u=76281980&t=142)** All right.
 >
-> **[2:24](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-and-configuring-your-first-ai-agent?u=76281980&t=144)** We are going to check the user proxy just in case it does not have the LLM properly assigned, and we can see we have the GPT-4o that we created and configured.
+> **[2:24](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-and-configuring-your-first-ai-agent?u=76281980&t=144)** We are going to check the user proxy just in case it does not have the LLM properly assigned, and we can see we have the [[GPT-4|GPT-4o]] that we created and configured.
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-and-configuring-your-first-ai-agent?u=76281980&t=160)** So that's everything.
 >
@@ -783,7 +783,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980&t=154)** And click on Create Agent.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980&t=157)** Now if we go to the top, we can see that we can assign a model, which we'll give the GPT-4o; and skills, which we don't need.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980&t=157)** Now if we go to the top, we can see that we can assign a model, which we'll give the [[GPT-4|GPT-4o]]; and skills, which we don't need.
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980&t=168)** And that should be it for the user proxy.
 >
@@ -1233,7 +1233,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=68)** With that done, we can check the model we will use.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=72)** We will use GPT-4o.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=72)** We will use [[GPT-4|GPT-4o]].
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=74)** We can test it again, check that it works, and we can go to Agents.
 >
@@ -1337,7 +1337,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/review-of-the-agentic-workflow?u=76281980&t=36)** We reviewed the skills that allow the agent to generate both text and images, and we saw how to configure the skill for image creation.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/review-of-the-agentic-workflow?u=76281980&t=46)** We have set up the OpenAI GPT-4o model so that the agent will use it to write the story and process natural language and use the skills.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/review-of-the-agentic-workflow?u=76281980&t=46)** We have set up the OpenAI [[GPT-4|GPT-4o]] model so that the agent will use it to write the story and process natural language and use the skills.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/review-of-the-agentic-workflow?u=76281980&t=56)** Then we have built the book-creating assistant, which brings these skills and models together to work its magic.
 >

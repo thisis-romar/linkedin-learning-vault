@@ -224,7 +224,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=258)** Typically, these are [[Infrastructure as code (IaC)|Infrastructure as Code]] artifacts, such as [[Microsoft Azure|Azure]] Resource Manager templates, CloudFormation templates, or [[Terraform]] modules.
 >
-> **[4:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=267)** The products should be built following the secure [[Software Development]] practices, such as code reviews, [[Static [[Application Security]] Testing]], and quality gates.
+> **[4:27](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=267)** The products should be built following the secure [[Software Development]] practices, such as code reviews, [[Static Application Security Testing]], and quality gates.
 >
 > **[4:36](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980&t=276)** The products can be developed centrally.
 >
@@ -824,7 +824,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=165)** Drift is a negative change from the known good configuration.
 >
-> **[2:49](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=169)** Remember, you get to the known good configuration by shifting security left and ensuring your [[Infrastructure as code (IaC)|infrastructure as code]] deployments pass your security tests such infrastructure security, [[Static [[Application Security]] Testing]].
+> **[2:49](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=169)** Remember, you get to the known good configuration by shifting security left and ensuring your [[Infrastructure as code (IaC)|infrastructure as code]] deployments pass your security tests such infrastructure security, [[Static Application Security Testing]].
 >
 > **[3:02](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980&t=182)** And finally, CSPM can either automatically mitigate set drift by playbooks that you customize, or in case human intervention is needed, they can even integrate with your SIEM tools to create incidents.
 >

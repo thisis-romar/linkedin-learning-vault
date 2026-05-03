@@ -1038,7 +1038,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=141)** When it comes to spreadsheets, screen readers don't necessarily read the file from top to bottom.
 >
-> **[2:26](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=146)** Instead, it starts reading wherever you put the cursor.
+> **[2:26](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=146)** Instead, it starts reading wherever you put the [[Cursor]].
 >
 > **[2:29](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=149)** So if you create a table but don't use the table command, or format it, or specify heading row, the data won't make sense to anyone using a screen reader.
 >

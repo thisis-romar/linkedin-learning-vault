@@ -1637,7 +1637,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=51)** I'm going to show you three examples of packet sniffing and how we can see the data that's not encrypted.
 >
-> **[0:58](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=58)** If you'd like to follow along, go to this website, wiki.[[[Wireshark]].org](https://wireshark.org), and we'll find three captures.
+> **[0:58](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=58)** If you'd like to follow along, go to this website, wiki.[wireshark.org](https://wireshark.org), and we'll find three captures.
 >
 > **[1:06](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=66)** Here, we'll select this one, mysql_complete.pcap.
 >
@@ -1645,7 +1645,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=77)** And then, we'll also select telnet-cooked.pcap.
 >
-> **[1:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=82)** Then, I'll open them in Wireshark.
+> **[1:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=82)** Then, I'll open them in [[Wireshark]].
 >
 > **[1:24](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=84)** So, first we'll select mysql_complete.pcap.
 >

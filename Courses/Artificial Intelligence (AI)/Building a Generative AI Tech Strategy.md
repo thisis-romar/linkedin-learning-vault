@@ -91,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/building-a-generative-ai-tech-strategy?u=76281980&t=30)** Hi, I'm Rashim Mogha, CEO of the eWOW Initiative, a technology leader, [[LinkedIn]] AI top voice, and a business strategy coach.
 >
-> **[0:40](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/building-a-generative-ai-tech-strategy?u=76281980&t=40)** Join me in this LinkedIn learning course where I share insights and personal experiences on how to build a gen AI tech strategy for your organization.
+> **[0:40](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/building-a-generative-ai-tech-strategy?u=76281980&t=40)** Join me in this LinkedIn learning course where I share insights and personal experiences on how to build a [[Generative AI|gen AI]] tech strategy for your organization.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/building-a-generative-ai-tech-strategy?u=76281980&t=50)** Let's get started.
 
@@ -115,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/conducting-a-generative-ai-opportunity-assessment?u=76281980&t=0)** - Understanding potential applications of [[Generative AI]] within an industry is crucial to make informed strategic decisions.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/conducting-a-generative-ai-opportunity-assessment?u=76281980&t=8)** Generative AI, or Gen AI is a subset of [[Artificial Intelligence (AI)|artificial intelligence]] that focuses on creating new content, data, or information rather than simply analyzing existing data or making decisions based on predefined rules.
+> **[0:08](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/conducting-a-generative-ai-opportunity-assessment?u=76281980&t=8)** Generative AI, or [[Generative AI|Gen AI]] is a subset of [[Artificial Intelligence (AI)|artificial intelligence]] that focuses on creating new content, data, or information rather than simply analyzing existing data or making decisions based on predefined rules.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/conducting-a-generative-ai-opportunity-assessment?u=76281980&t=23)** In this course, I will be using generative AI and Gen AI interchangeably.
 >
@@ -174,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/mapping-generative-ai-use-cases-to-your-business-goals?u=76281980&t=40)** This ensures that the integration of generative AI helps achieve organizational success.
 >
-> **[0:46](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/mapping-generative-ai-use-cases-to-your-business-goals?u=76281980&t=46)** As a tech leader, you not only need to clearly articulate your business goals and objectives, but also need to have a clear understanding of business goals of other divisions of your company, and that's because your tech and gen [[AI Strategy]] will impact the entire company.
+> **[0:46](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/mapping-generative-ai-use-cases-to-your-business-goals?u=76281980&t=46)** As a tech leader, you not only need to clearly articulate your business goals and objectives, but also need to have a clear understanding of business goals of other divisions of your company, and that's because your tech and [[Generative AI|gen AI]] strategy will impact the entire company.
 >
 > **[1:03](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/mapping-generative-ai-use-cases-to-your-business-goals?u=76281980&t=63)** For example, if customer engagement is a goal for your company, explore generative AI applications in improving customer interactions.
 >
@@ -202,7 +202,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/evaluating-integration-of-gen-ai-into-your-tech-strategy?u=76281980&t=0)** - Implementing GenAI solutions can be a huge undertaking, both from a time and a resource perspective.
+> **[0:00](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/evaluating-integration-of-gen-ai-into-your-tech-strategy?u=76281980&t=0)** - Implementing [[Generative AI|GenAI]] solutions can be a huge undertaking, both from a time and a resource perspective.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/evaluating-integration-of-gen-ai-into-your-tech-strategy?u=76281980&t=7)** While all teams in your company might want to leverage GenAI, it might not be possible given the effort required.
 >
@@ -288,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/defining-your-generative-ai-vision?u=76281980&t=8)** Defining and communicating the role generative AI will play in your tech strategy and setting the right expectations is critical to ensure success.
 >
-> **[0:17](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/defining-your-generative-ai-vision?u=76281980&t=17)** Defining a generative AI vision for your company involves articulating how you plan to leverage gen AI technologies for furthering your overall business values and objectives.
+> **[0:17](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/defining-your-generative-ai-vision?u=76281980&t=17)** Defining a generative AI vision for your company involves articulating how you plan to leverage [[Generative AI|gen AI]] technologies for furthering your overall business values and objectives.
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/defining-your-generative-ai-vision?u=76281980&t=29)** This vision should encompass the strategic goals, potential applications, and the expected outcomes of integrating generative AI into your business.
 >
@@ -345,7 +345,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/identifying-implementation-requirements?u=76281980&t=84)** While identifying infrastructure requirements, ask the following questions.
 >
-> **[1:29](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/identifying-implementation-requirements?u=76281980&t=89)** Do we have the computational power to train and run the Gen AI models?
+> **[1:29](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/identifying-implementation-requirements?u=76281980&t=89)** Do we have the computational power to train and run the [[Generative AI|Gen AI]] models?
 >
 > **[1:34](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/identifying-implementation-requirements?u=76281980&t=94)** Depending on your needs, you might require cloud-based solutions, powerful GPUs, or specialized [[Hardware]].
 >
@@ -396,13 +396,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-roadmap?u=76281980&t=6)** A phased approach allows for manageable implementation, reducing disruption and allowing for iterative improvements.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-roadmap?u=76281980&t=13)** To select a pilot project, prioritize a low risk, high impact project that is reflective of your gen [[AI Strategy]].
+> **[0:13](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-roadmap?u=76281980&t=13)** To select a pilot project, prioritize a low risk, high impact project that is reflective of your [[Generative AI|gen AI]] strategy.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-roadmap?u=76281980&t=21)** By doing so, you can validate your assumptions, infrastructure and integration needs and results before you move on to larger projects.
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-roadmap?u=76281980&t=30)** Choosing the right pilot project is important because if you choose the wrong project and it fails, you might not get approval to implement your gen AI strategy.
 >
-> **[0:40](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-roadmap?u=76281980&t=40)** Choose a project where it's easy to demonstrate and measure the impact of gen [[AI Solutions]] on your business.
+> **[0:40](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-roadmap?u=76281980&t=40)** Choose a project where it's easy to demonstrate and measure the impact of gen AI solutions on your business.
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-roadmap?u=76281980&t=47)** In a pilot project, you want to test out the critical aspects of larger gen AI solutions, so ensure that you use high quality data sets within your budget.
 >
@@ -444,7 +444,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-user-centric-solutions-approach?u=76281980&t=23)** Leverage [[Prototyping]], iterating, and gathering feedback throughout the development to create user-centric solutions.
 >
-> **[0:31](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-user-centric-solutions-approach?u=76281980&t=31)** While the basic principles of designing user-centric solutions apply to GenAI solutions, there are a few nuances.
+> **[0:31](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-user-centric-solutions-approach?u=76281980&t=31)** While the basic principles of designing user-centric solutions apply to [[Generative AI|GenAI]] solutions, there are a few nuances.
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-user-centric-solutions-approach?u=76281980&t=38)** Because the technology is new, the users might not understand the potential or limitations of generative AI, leading to frustration or misuse.
 >
@@ -502,7 +502,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/addressing-bias-in-generative-ai-systems?u=76281980&t=87)** Is the team educated on the types of biases and the strategies for mitigating them in AI development?
 >
-> **[1:35](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/addressing-bias-in-generative-ai-systems?u=76281980&t=95)** Identifying potential sources of bias in your GenAI solution is a crucial and iterative step in creating [[Responsible AI]] solutions and should not be skipped.
+> **[1:35](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/addressing-bias-in-generative-ai-systems?u=76281980&t=95)** Identifying potential sources of bias in your [[Generative AI|GenAI]] solution is a crucial and iterative step in creating [[Responsible AI]] solutions and should not be skipped.
 
 > [!info]- Semantic Content
 >
@@ -568,7 +568,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/designing-effective-workflows-for-interaction?u=76281980&t=0)** - An important aspect of developing a Gen AI solution is understanding when, why, and how your users will interact with it.
+> **[0:00](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/designing-effective-workflows-for-interaction?u=76281980&t=0)** - An important aspect of developing a [[Generative AI|Gen AI]] solution is understanding when, why, and how your users will interact with it.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/designing-effective-workflows-for-interaction?u=76281980&t=8)** This is defined by interaction workflows.
 >
@@ -620,7 +620,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/integrating-generative-ai-with-existing-solutions?u=76281980&t=7)** Integrating generative AI with your existing software and infrastructure requires a thoughtful approach to ensure compatibility, efficiency, and minimal disruption to the ongoing operations.
 >
-> **[0:19](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/integrating-generative-ai-with-existing-solutions?u=76281980&t=19)** You need to ensure that there is compatibility between the data formats used by your existing system and your gen AI solution so that the two systems can talk to each other.
+> **[0:19](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/integrating-generative-ai-with-existing-solutions?u=76281980&t=19)** You need to ensure that there is compatibility between the data formats used by your existing system and your [[Generative AI|gen AI]] solution so that the two systems can talk to each other.
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/integrating-generative-ai-with-existing-solutions?u=76281980&t=29)** To do so, map out the flow of data between generative AI solution and the existing systems.
 >
@@ -663,7 +663,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/continuous-learning-and-adaptation?u=76281980&t=0)** - [[Generative AI]] solutions benefit greatly from ongoing improvement and refinement based on user interactions, evolving data and changes in the operating environment.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/continuous-learning-and-adaptation?u=76281980&t=12)** Create a comprehensive continuous learning plan for your Gen AI solution so that it becomes more efficient and delivers a great [[User Experience (UX)|user experience]] over time.
+> **[0:12](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/continuous-learning-and-adaptation?u=76281980&t=12)** Create a comprehensive continuous learning plan for your [[Generative AI|Gen AI]] solution so that it becomes more efficient and delivers a great [[User Experience (UX)|user experience]] over time.
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/continuous-learning-and-adaptation?u=76281980&t=22)** You can use various strategies to ensure that your Gen AI solution continues to learn and adapt.
 >
@@ -691,7 +691,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/continuous-learning-and-adaptation?u=76281980&t=110)** Our data sets, though vast, are biased.
 >
-> **[1:53](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/continuous-learning-and-adaptation?u=76281980&t=113)** Collecting user feedback and training Gen [[AI Solutions]] based on this feedback is an opportunity to bring equity in data sets and create solutions that resonate with our diverse world.
+> **[1:53](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/continuous-learning-and-adaptation?u=76281980&t=113)** Collecting user feedback and training Gen AI solutions based on this feedback is an opportunity to bring equity in data sets and create solutions that resonate with our diverse world.
 
 > [!info]- Semantic Content
 >
@@ -712,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/next-steps?u=76281980&t=5)** Successfully adopting generative AI requires a robust strategy rooted in user-centric approach to maximize its benefits for the business.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/next-steps?u=76281980&t=15)** As next steps, use the template provided in this course to start building the gen [[AI Strategy]] for your organization, and use the [[LinkedIn]] Learning library to learn more about the Gen AI technology.
+> **[0:15](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/next-steps?u=76281980&t=15)** As next steps, use the template provided in this course to start building the [[Generative AI|gen AI]] strategy for your organization, and use the [[LinkedIn]] Learning library to learn more about the Gen AI technology.
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/next-steps?u=76281980&t=27)** For coaching on how to build the strategy, you can always reach out to me on LinkedIn.
 

@@ -520,7 +520,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=137)** Understand where risk lives, assign ownership and embed it in existing decision making processes.
 >
-> **[2:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=143)** Legal teams, risk officers, product leads and [[[[Executive Leadership]]]] all play a role in making your business stronger.
+> **[2:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=143)** Legal teams, risk officers, product leads and [[Executive Leadership]] all play a role in making your business stronger.
 
 > [!info]- Semantic Content
 >
@@ -944,7 +944,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=10)** In this video, we'll walk through a structure for assigning responsibility across your organization.
 >
-> **[0:15](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=15)** Start with [[[[Executive Leadership]]]] and ownership.
+> **[0:15](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=15)** Start with [[Executive Leadership]] and ownership.
 >
 > **[0:18](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=18)** Someone at the senior level needs to be accountable for overall [[AI Strategy]] across your organization.
 >

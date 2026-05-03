@@ -2171,7 +2171,7 @@ created: 2026-05-02
 >
 > **[6:47](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=407)** This can take some time.
 >
-> **[6:49](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=409)** If you're interested in learning more about these data structures, I encourage you to take my [[[[Programming Foundations]]- Data Structures]] course, here on [[LinkedIn]] Learning, where we dive deeper into these topics.
+> **[6:49](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=409)** If you're interested in learning more about these data structures, I encourage you to take my [[Programming Foundations- Data Structures]] course, here on [[LinkedIn]] Learning, where we dive deeper into these topics.
 
 > [!info]- Semantic Content
 >

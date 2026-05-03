@@ -771,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=5)** The notebook is coming pre-loaded with pip installs that install Pandas into this environment.
 >
-> **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=11)** To run these pip installs, all you need to do is to put your cursor in the code cell here and hit shift enter to run the code.
+> **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=11)** To run these pip installs, all you need to do is to put your [[Cursor]] in the code cell here and hit shift enter to run the code.
 >
 > **[0:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=21)** I'll do that now.
 >

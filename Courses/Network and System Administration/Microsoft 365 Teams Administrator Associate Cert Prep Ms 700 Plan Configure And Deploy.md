@@ -560,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=84)** So where do you go?
 >
-> **[1:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=85)** Well, you need to check those at endpoints.[[[Microsoft Office|office]].com/version](https://office.com/version).
+> **[1:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=85)** Well, you need to check those at endpoints.[office.com/version](https://office.com/version).
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=90)** Because those ports may change, you may need to go in and make changes to the firewalls on your clients, as well as your outbound firewall at the gateway.
 >
@@ -771,7 +771,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=261)** Although this shows the directions how to make a location with all of its devices, it doesn't really give the big picture on why and how this all works together to create emergency locations for call routing.
 >
-> **[4:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=273)** And that is beyond the scope of this course, but you can find out more by going to [[[Microsoft]].com/teams](https://microsoft.com/teams).
+> **[4:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=273)** And that is beyond the scope of this course, but you can find out more by going to [microsoft.com/teams](https://microsoft.com/teams).
 
 > [!info]- Semantic Content
 >
@@ -1002,7 +1002,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=0)** - [Instructor] There are lots of different types of licenses for [[Microsoft Teams]], phones and other types of messaging, but we don't purchase those licenses in the team's admin center.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=10)** We need to go to the [[Microsoft 365]] admin center at admin.[[[Microsoft]].com](https://microsoft.com).
+> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=10)** We need to go to the [[Microsoft 365]] admin center at admin.[microsoft.com](https://microsoft.com).
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=16)** And here's how we can purchase those licenses.
 >
@@ -1062,7 +1062,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=256)** Now, if you don't have any licenses assigned to a particular user, then it's possible that user will get deleted after certain amount of time.
 >
-> **[4:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=264)** Microsoft actually states this in their end user agreement.
+> **[4:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=264)** [[Microsoft]] actually states this in their end user agreement.
 >
 > **[4:28](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=268)** However, I have not seen anyone get deleted as of yet.
 >
@@ -1376,7 +1376,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=141)** The Microsoft 365 naming policies are not actually set in the Teams admin center.
 >
-> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=146)** We need to go to portal.[[[Microsoft Azure|azure]].com](https://azure.com), and then click on [[Microsoft Entra ID|Azure Active Directory]].
+> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=146)** We need to go to portal.[azure.com](https://azure.com), and then click on [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[2:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=152)** After that, we can go to Groups.
 >
@@ -1828,7 +1828,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=41)** So when I click on invite a users instead, and I'm going to put in the name, the email address and other information.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=48)** I've added in the information, and I'm using an account that's a free [[[Microsoft Outlook|outlook]].com](https://outlook.com) account, which is outside of my tenant.
+> **[0:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=48)** I've added in the information, and I'm using an account that's a free [outlook.com](https://outlook.com) account, which is outside of my tenant.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=55)** And this could be an account from anywhere, it could be from Gmail or anywhere else.
 >
@@ -1858,7 +1858,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=160)** At this point, the user will be able to see and perform any types of roles that you've added that user to.
 >
-> **[2:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=168)** Now, some roles you cannot add them to, others you can, you'll just need to look up at the [[[Microsoft]].com](https://microsoft.com), which roles are going to be appropriate for which type of guest.
+> **[2:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=168)** Now, some roles you cannot add them to, others you can, you'll just need to look up at the [microsoft.com](https://microsoft.com), which roles are going to be appropriate for which type of guest.
 >
 > **[2:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=177)** Using the [[Microsoft Azure|Azure]] portal through the business to business platform, you can configure guest access to secure your guests and other users.
 
@@ -1982,9 +1982,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=0)** - [Instructor] A lot of IT administrators may not realize this, but all regular standard users can log in to portal.[[[Microsoft Azure|azure]].com](https://azure.com) as themselves, and they may be able to see more information than you'd like them to see, so you can certainly block that.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=0)** - [Instructor] A lot of IT administrators may not realize this, but all regular standard users can log in to portal.[azure.com](https://azure.com) as themselves, and they may be able to see more information than you'd like them to see, so you can certainly block that.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=13)** However, if you choose to not block that ability, and the user logs in, they're going to see this when they log in to the portal settings for Azure.
+> **[0:13](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=13)** However, if you choose to not block that ability, and the user logs in, they're going to see this when they log in to the portal settings for [[Microsoft Azure|Azure]].
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=23)** If they want to leave an organization, they're a member of multiple organizations, for example, we'd go up to the username and we click on View Account.
 >
@@ -2160,7 +2160,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980&t=9)** Data is going to be retained for compliance reasons and it's available for e-discovery until that retention period expires.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980&t=16)** We need to start out in the security and compliance center, which is protection.[[[Microsoft Office|office]].com](https://office.com).
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980&t=16)** We need to start out in the security and compliance center, which is protection.[office.com](https://office.com).
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980&t=22)** On the left hand side, I'll click on information governance and then I'll click on retention.
 >

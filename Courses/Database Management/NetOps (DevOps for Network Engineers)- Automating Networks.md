@@ -240,7 +240,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=244)** Other principles of Lean include empower the team for decision making, build integrity in the process, and optimize as whole.
 >
-> **[4:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=252)** Let's dive into [[[[Agile Software Development]]]] principles.
+> **[4:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=252)** Let's dive into [[Agile Software Development]] principles.
 >
 > **[4:17](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=257)** In customer focus, the highest priority is always customer satisfaction, and we should also embrace changes and adapt accordingly.
 >

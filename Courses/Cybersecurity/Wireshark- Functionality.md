@@ -372,7 +372,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=31)** So now this is expanded.
 >
-> **[0:33](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=33)** I'll place my cursor on the IP header and I'll go to Edit and Copy, All Visible Selected Tree Items that I've expanded.
+> **[0:33](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=33)** I'll place my [[Cursor]] on the IP header and I'll go to Edit and Copy, All Visible Selected Tree Items that I've expanded.
 >
 > **[0:42](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=42)** That puts it on the clipboard.
 >
@@ -713,7 +713,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=268)** Another thing that we can take a look at is service response times.
 >
-> **[4:32](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=272)** Now lay my cursor right here.
+> **[4:32](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=272)** Now lay my [[Cursor]] right here.
 >
 > **[4:34](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=274)** And here you can see all of the different types of protocols that we can see how quickly I'm getting a response.
 >
@@ -832,7 +832,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=204)** And that will activate the TCP stream graphs.
 >
-> **[3:27](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=207)** We'll go to Statistics and then down below, and I'll lay my cursor there where we can see the different types of graphs.
+> **[3:27](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=207)** We'll go to Statistics and then down below, and I'll lay my [[Cursor]] there where we can see the different types of graphs.
 >
 > **[3:36](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=216)** First, we see time-sequence graphs, and this will plot TCP sequence numbers over time.
 >
@@ -2218,7 +2218,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980&t=161)** It helps them to know what those icons mean.
 >
-> **[2:44](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980&t=164)** Now of course we know we can still lay our cursor on the icon and it will tell us, but this is nice and handy.
+> **[2:44](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980&t=164)** Now of course we know we can still lay our [[Cursor]] on the icon and it will tell us, but this is nice and handy.
 >
 > **[2:50](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980&t=170)** Now we'll go back into Preferences and I'm going to change it back to "Icons only".
 >

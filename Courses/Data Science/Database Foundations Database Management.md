@@ -279,7 +279,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=370)** So make sure nothing is selected.
 >
-> **[6:12](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=372)** In fact, I can go ahead and scroll back up here to the very top and click my mouse cursor here at the beginning of line number one.
+> **[6:12](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=372)** In fact, I can go ahead and scroll back up here to the very top and click my mouse [[Cursor]] here at the beginning of line number one.
 >
 > **[6:17](https://www.linkedin.com/learning/database-foundations-database-management/create-the-two-trees-database?u=76281980&t=377)** Then I'll press the run button and this time I get the expected results.
 >
@@ -398,7 +398,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=97)** To turn this select query into a database view, we need to add a single line to the beginning.
 >
-> **[1:42](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=102)** I'll click my mouse cursor here, the very beginning of line number one, and move everything down so I have some room to type.
+> **[1:42](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=102)** I'll click my mouse [[Cursor]] here, the very beginning of line number one, and move everything down so I have some room to type.
 >
 > **[1:50](https://www.linkedin.com/learning/database-foundations-database-management/create-a-database-view?u=76281980&t=110)** To turn this into a view, we need the create view command.
 >

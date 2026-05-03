@@ -3462,7 +3462,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=147)** So I can create here a custom domain name and I can have it be anything.
 >
-> **[2:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=152)** It could be [[[Microsoft]].com](https://microsoft.com) if I want to.
+> **[2:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=152)** It could be [microsoft.com](https://microsoft.com) if I want to.
 >
 > **[2:35](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=155)** And you see that the validation check here is approved.
 >
@@ -3514,7 +3514,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=369)** What's included and excluded in a premium AD license is a moving target.
 >
-> **[6:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=375)** Microsoft often changes what is included or excluded in those licenses.
+> **[6:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=375)** [[Microsoft]] often changes what is included or excluded in those licenses.
 >
 > **[6:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=380)** So make sure to review the contents of the Premium P1 and Premium P2 licenses to see if there's any services in there that could be useful for your organization.
 

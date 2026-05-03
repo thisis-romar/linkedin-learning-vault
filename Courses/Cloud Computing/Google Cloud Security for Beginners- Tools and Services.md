@@ -760,7 +760,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=9)** First, let's access the [[Google Cloud Platform (GCP)|Google Cloud]] console.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=13)** To do so, make sure you go to [console.cloud](https://console.cloud).[[[Google]].com](https://google.com).
+> **[0:13](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=13)** To do so, make sure you go to [console.cloud](https://console.cloud).[google.com](https://google.com).
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=20)** From there, just enter your login credentials and you'll be good to go.
 >
@@ -806,7 +806,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=178)** For example, enabling allow RDP will allow any remote desktop connections from port 3389.
 >
-> **[3:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=189)** Lastly, you can choose between regional and global advanced dynamic [[Routing]] configurations that will either have Google routers learn routes only in the region you created them in, or dynamically learn from all regions.
+> **[3:09](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=189)** Lastly, you can choose between regional and global advanced dynamic [[Routing]] configurations that will either have [[Google]] routers learn routes only in the region you created them in, or dynamically learn from all regions.
 >
 > **[3:25](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/creating-a-virtual-private-cloud-vpc?u=76281980&t=205)** For the purpose, I'm going to leave it on regional.
 >

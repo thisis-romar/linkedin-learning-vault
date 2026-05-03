@@ -473,7 +473,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=77)** But it's a slow process that works best when the underlying model of the system doesn't change much.
 >
-> **[1:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=82)** This is definitely a problem in the modern landscape of [[[[Agile Software Development]]]] where everything changes all the time.
+> **[1:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=82)** This is definitely a problem in the modern landscape of [[Agile Software Development]] where everything changes all the time.
 >
 > **[1:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980&t=88)** To address this, there's been a rise in threat modeling that works with [[Agile Development|agile]] development.
 >
@@ -518,7 +518,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=5)** This is where you analyze code for vulnerabilities.
 >
-> **[0:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=8)** This is commonly done using a [[Static [[Application Security]] Testing]] tool, or SAST.
+> **[0:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=8)** This is commonly done using a [[Static Application Security Testing]] tool, or SAST.
 >
 > **[0:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/static-code-analysis?u=76281980&t=13)** The tools are able to do testing without actually running the code, which is why it's called static code analysis.
 >
@@ -593,7 +593,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=24)** To do this, we'll use [[Git]] Secrets.
 >
-> **[0:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=28)** First let's fire up a browser, and head over to Git Secrets page at [[[GitHub]].com/awslabs/git-secrets](https://Github.com/awslabs/git-secrets) Down in the read-me, we can see some example usage, as well as how to install it for [[Linux]], Mac, and [[Windows]].
+> **[0:28](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=28)** First let's fire up a browser, and head over to Git Secrets page at [Github.com/awslabs/git-secrets](https://Github.com/awslabs/git-secrets) Down in the read-me, we can see some example usage, as well as how to install it for [[Linux]], Mac, and [[Windows]].
 >
 > **[0:44](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/tool-keeping-secrets-with-git-secrets?u=76281980&t=44)** I've already installed this on my machine, but if you want to follow along, follow the installation instructions found here.
 >
@@ -879,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=31)** Evidence found by the tool is then grouped into collections, by vendor, product, and version.
 >
-> **[0:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=36)** Next OWASP Dependency Check compares what it finds to the National Vulnerability Database, which is maintained by [[[NIST]].gov](https://nist.gov).
+> **[0:36](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=36)** Next OWASP Dependency Check compares what it finds to the National Vulnerability Database, which is maintained by [nist.gov](https://nist.gov).
 >
 > **[0:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/owasp-dependency-check-in-practice?u=76281980&t=45)** It uses a Lucene index and fuzzy matching to determine if the evidence it found matches against the NVD.
 >
@@ -970,7 +970,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=29)** I have a forked repo of a Dockerized version of Retire.js.
 >
-> **[0:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=33)** I'm going to clone this by typing [[Git]] space clone and the project repo URL, [[[GitHub]].com/wickett/docker-retire.js.git](https://github.com/wickett/docker-retire.js.git).
+> **[0:33](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=33)** I'm going to clone this by typing [[Git]] space clone and the project repo URL, [github.com/wickett/docker-retire.js.git](https://github.com/wickett/docker-retire.js.git).
 >
 > **[0:48](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/javascript-security-with-retire-js-installation?u=76281980&t=48)** Let's move into the repo, and then type cat Dockerfile.
 >
@@ -1173,7 +1173,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=92)** But we now look for ways to emulate actions of attackers with your software.
 >
-> **[1:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=97)** One category of tools that we put into the build phase for this purpose is [[Dynamic [[Application Security]] Testing]] or DAST tools.
+> **[1:37](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=97)** One category of tools that we put into the build phase for this purpose is [[Dynamic Application Security Testing]] or DAST tools.
 >
 > **[1:45](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980&t=105)** These are commercial and open source scanners that try to attack your applications.
 >
@@ -1316,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=12)** The tool I'm talking about is Gauntlt.
 >
-> **[0:15](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=15)** I've got a whole course on this in the library called [[[[DevSecOps]]- Automated [[Security Testing]]]].
+> **[0:15](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=15)** I've got a whole course on this in the library called [[DevSecOps- Automated Security Testing]].
 >
 > **[0:21](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=21)** This video will just be a quick look at the tool, but if you want a full hands-on experience, be sure to check out that other course.
 >
@@ -1408,7 +1408,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=240)** This is powerful because once you write attack files for one app in your organization, you now have security tests as code and they can be shared.
 >
-> **[4:09](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=249)** A good friend of mine told me that he used Gauntlt as the primary way to jump start the DevSecOps movement at a large healthcare company he works for.
+> **[4:09](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=249)** A good friend of mine told me that he used Gauntlt as the primary way to jump start the [[DevSecOps]] movement at a large healthcare company he works for.
 >
 > **[4:17](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/gauntlt-in-practice?u=76281980&t=257)** By codifying security, everyone wins, except maybe the bad guys.
 

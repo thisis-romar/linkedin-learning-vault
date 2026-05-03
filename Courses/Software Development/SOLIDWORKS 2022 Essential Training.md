@@ -1963,7 +1963,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-relationships?u=76281980&t=29)** They're saying, hey, if you want to make another line and you want to make it at right angle to the original line I can come down here.
 >
-> **[0:35](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-relationships?u=76281980&t=35)** And notice that little yellow box that pops up next to where my cursor is, and it's saying that if I were to click here I would automatically add the relationship of perpendicular.
+> **[0:35](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-relationships?u=76281980&t=35)** And notice that little yellow box that pops up next to where my [[Cursor]] is, and it's saying that if I were to click here I would automatically add the relationship of perpendicular.
 >
 > **[0:46](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-relationships?u=76281980&t=46)** So let's go ahead and try that out.
 >
@@ -3507,7 +3507,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980&t=55)** Now that leaves the command active, right?
 >
-> **[0:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980&t=58)** So now that line is still connected to my cursor, and anywhere I click, it's going to make another line, right?
+> **[0:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980&t=58)** So now that line is still connected to my [[Cursor]], and anywhere I click, it's going to make another line, right?
 >
 > **[1:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980&t=65)** And you might not want to continue making lines.
 >
@@ -4031,7 +4031,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-ellipses-and-conics?u=76281980&t=109)** Parabola click here once where you want to start.
 >
-> **[1:51](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-ellipses-and-conics?u=76281980&t=111)** Here's our parabola kind of attached already to my cursor so we can do all kinds of fun things with it.
+> **[1:51](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-ellipses-and-conics?u=76281980&t=111)** Here's our parabola kind of attached already to my [[Cursor]] so we can do all kinds of fun things with it.
 >
 > **[1:55](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-ellipses-and-conics?u=76281980&t=115)** And then we can define where we want to be.
 >
@@ -4212,7 +4212,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=23)** So I'm going to type in hello, all right?
 >
-> **[0:26](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=26)** And notice right here on my screen, I get that little hello, right, and wherever I click, or I put my cursor at, and when I click there, it moves that text to wherever I happen to click.
+> **[0:26](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=26)** And notice right here on my screen, I get that little hello, right, and wherever I click, or I put my [[Cursor]] at, and when I click there, it moves that text to wherever I happen to click.
 >
 > **[0:36](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=36)** However, that's not really scientific, right, because I don't really know how to line things absolutely perfect.
 >
@@ -5031,7 +5031,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980&t=152)** But think about you having like a little pencil and right over here I'm going to start my pencil.
 >
-> **[2:36](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980&t=156)** I'm going to start drawing notice that little gray line that is following along with my cursor.
+> **[2:36](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980&t=156)** I'm going to start drawing notice that little gray line that is following along with my [[Cursor]].
 >
 > **[2:42](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980&t=162)** Well anywhere that little gray line goes it's going to cut over something and it's going to trim away to the closest thing it finds.
 >
@@ -5251,7 +5251,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/moving-copying-rotating-and-scaling?u=76281980&t=50)** So if I had X, Y I'm just going to type in an X and Y, delta change, or if I want to go From/To I can choose a starting point like this one right here.
 >
-> **[0:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/moving-copying-rotating-and-scaling?u=76281980&t=58)** And now that is attached to my cursor.
+> **[0:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/moving-copying-rotating-and-scaling?u=76281980&t=58)** And now that is attached to my [[Cursor]].
 >
 > **[1:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/moving-copying-rotating-and-scaling?u=76281980&t=61)** So anywhere I want to place it now I can just click and everything there will be moved over to that.
 >
@@ -9352,7 +9352,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=65)** So instead of a SolidWorks block, we're looking for an [[AutoCAD]] file, either a .dwg or .dxf file, and this one happens to be the .dxf file and there it is, click on that, click on Open.
 >
-> **[1:16](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=76)** And what that's going to do is going to bring that block and attach it to my cursor.
+> **[1:16](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=76)** And what that's going to do is going to bring that block and attach it to my [[Cursor]].
 >
 > **[1:21](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=81)** So whenever I click, it's going to drop that block and I'm going to drop it right there in the center of that sketch.
 >
@@ -10042,7 +10042,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980&t=116)** So if I click here, it's going to add that counter board hole right there, wherever that is.
 >
-> **[2:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980&t=121)** Now look at my cursor, it is a point command.
+> **[2:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980&t=121)** Now look at my [[Cursor]], it is a point command.
 >
 > **[2:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980&t=124)** Up here under the sketch toolbar.
 >
@@ -10560,7 +10560,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=115)** Click on that one there. Click on Open.
 >
-> **[1:57](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=117)** And notice, that block is now attached to my cursor.
+> **[1:57](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=117)** And notice, that block is now attached to my [[Cursor]].
 >
 > **[2:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=120)** Anywhere I click, it's going to drop that block.
 >
@@ -10777,7 +10777,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980&t=120)** Again, it's on the Desktop, exercise files chapter 10, 10.2, and there's my block.
 >
-> **[2:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980&t=126)** Click on OK, and now that block just attaches itself to wherever my cursor happens to be.
+> **[2:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980&t=126)** Click on OK, and now that block just attaches itself to wherever my [[Cursor]] happens to be.
 >
 > **[2:11](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980&t=131)** And I can just click anywhere I want to place that block.
 >
@@ -11645,7 +11645,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-toolbox?u=76281980&t=73)** And then over here on the left I can define the length, the size, the style, all this information can be configured right over here.
 >
-> **[1:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-toolbox?u=76281980&t=80)** And when you have it all looking good click on the green check mark and notice this screw is now attached to my cursor.
+> **[1:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-toolbox?u=76281980&t=80)** And when you have it all looking good click on the green check mark and notice this screw is now attached to my [[Cursor]].
 >
 > **[1:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-toolbox?u=76281980&t=88)** So anywhere I place this screw if I click on that inside edge there it'll automatically mate that screw to that hole.
 >
@@ -16309,7 +16309,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980&t=85)** And that'll add revision B.
 >
-> **[1:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980&t=87)** And notice this little cursor that shows up, or this little circle that shows up on my cursor, anywhere you click, it's going to add a little B showing that is where the change is being made.
+> **[1:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980&t=87)** And notice this little [[Cursor]] that shows up, or this little circle that shows up on my cursor, anywhere you click, it's going to add a little B showing that is where the change is being made.
 >
 > **[1:36](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980&t=96)** So, this is the revision symbol.
 >

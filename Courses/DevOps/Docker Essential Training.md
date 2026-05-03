@@ -747,7 +747,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=8)** Let's create a configuration file now.
 >
-> **[0:11](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=11)** First, we're going to open up our browser and go to [https://[[GitHub]].com/lima-vm/lima](https://github.com/lima-vm/lima).
+> **[0:11](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=11)** First, we're going to open up our browser and go to [https://github.com/lima-vm/lima](https://github.com/lima-vm/lima).
 >
 > **[0:23](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=23)** Next, we'll click on the examples folder.
 >
@@ -847,7 +847,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=301)** So to do that, I'm going to remove this cat, replace it with an mv, that's Mike Victor, our move.
 >
-> **[5:10](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=310)** And then I moved my cursor to the end of the command, so that I can type in the destination.
+> **[5:10](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=310)** And then I moved my [[Cursor]] to the end of the command, so that I can type in the destination.
 >
 > **[5:15](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=315)** The destination is going to be ~/Downloads, again with the capital D, /docker-rootful.yaml.
 >
@@ -3347,7 +3347,7 @@ created: 2026-05-02
 >
 > **[8:06](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980&t=486)** Next, I'm going to put sh here since I want our default command to just open a shell.
 >
-> **[8:12](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980&t=492)** Next, I'll move my cursor to the end of this command with control + E and put the arguments I want to give sh.
+> **[8:12](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980&t=492)** Next, I'll move my [[Cursor]] to the end of this command with control + E and put the arguments I want to give sh.
 >
 > **[8:19](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980&t=499)** Since I want to echo the value of $curl_bin specifically I'm going to put -c, and in single quotes I'm going to put echo $curl_bin.
 >
@@ -5881,7 +5881,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=0)** - [Instructor] Let's very briefly go back to the simple app that we've been using up until now.
 >
-> **[0:05](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=5)** We know that this app will attempt to visit [[[Google]].com](https://google.com) to get today's date unless a file is defined.
+> **[0:05](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=5)** We know that this app will attempt to visit [google.com](https://google.com) to get today's date unless a file is defined.
 >
 > **[0:11](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=11)** However, we never really thought about how the container does this.
 >
@@ -7926,7 +7926,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=85)** Usually the internet.
 >
-> **[1:27](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=87)** When you go to [[[LinkedIn]].com/learning](https://linkedin.com/learning), in your browser, the packet sent between you, and LinkedIn learning will be sent through the proxy.
+> **[1:27](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=87)** When you go to [linkedin.com/learning](https://linkedin.com/learning), in your browser, the packet sent between you, and [[LinkedIn]] learning will be sent through the proxy.
 >
 > **[1:35](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=95)** Here, the proxy determines whether to send the packets through, rewrite them beforehand, or simply drop them.
 >

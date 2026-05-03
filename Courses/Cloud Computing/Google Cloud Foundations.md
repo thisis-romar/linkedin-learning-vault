@@ -153,11 +153,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=63)** So let's jump into that real quick, just so you get a good insight on how to find this information.
 >
-> **[1:10](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=70)** Okay, so the first thing you want to do is, if you go to cloud.[[[Google]].com/security/compliance](https://google.com/security/compliance), you'll get to this compliance resource center.
+> **[1:10](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=70)** Okay, so the first thing you want to do is, if you go to cloud.[google.com/security/compliance](https://google.com/security/compliance), you'll get to this compliance resource center.
 >
 > **[1:20](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=80)** And when you're scrolling down here, you could see a lot of different things.
 >
-> **[1:24](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=84)** And the one thing I want to point out from the beginning is the offerings by region, and that's very important, because just depending on where you're located, this is going to show you what's available, and what standards that Google's able to meet, where you are.
+> **[1:24](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=84)** And the one thing I want to point out from the beginning is the offerings by region, and that's very important, because just depending on where you're located, this is going to show you what's available, and what standards that [[Google]]'s able to meet, where you are.
 >
 > **[1:39](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=99)** So I'm going to go and click on the USA, 'cause that's where I'm located.
 >
@@ -1099,9 +1099,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=11)** Let's look directly at Google Cloud's website and look at all the different support options that are available to you.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=18)** So if you go to cloud.[[[Google]].com/support](https://google.com/support), what you're going to find is a customer care portfolio.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=18)** So if you go to cloud.[google.com/support](https://google.com/support), what you're going to find is a customer care portfolio.
 >
-> **[0:25](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=25)** Now, Google has revamped this over the year, and I want to point out to it.
+> **[0:25](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=25)** Now, [[Google]] has revamped this over the year, and I want to point out to it.
 >
 > **[0:30](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=30)** If you scroll down in the middle, it's going to break down all your customer care offerings and these are your support options within GCP and it for the exam you definitely need to understand, which one you'd want to use depending on the situation you're in or just the type of service you need for that application or whatever you're trying to build on GCP.
 >

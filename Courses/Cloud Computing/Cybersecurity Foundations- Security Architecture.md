@@ -963,13 +963,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=0)** - [Pete] I hope this short course on [[[[Cybersecurity]] Foundations]] provided the insight and building blocks you need to develop a strong security architecture for your organization.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=0)** - [Pete] I hope this short course on [[Cybersecurity Foundations]] provided the insight and building blocks you need to develop a strong security architecture for your organization.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=9)** If you keep in mind these four disciplines, identity management, vulnerability management, threat management, and trust management, you'll start to see how they could be useful throughout your program, first as this reference architecture that we're discussing here, but also as a way to organize and manage your activities with metrics and [[Economic Analysis]].
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=30)** As you continue on your journey, here are some tips on where to go from here.
 >
-> **[0:34](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=34)** Read all you can about cybersecurity, especially in trade journals like CSO Online or on robust social media communities like those on Twitter.
+> **[0:34](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=34)** Read all you can about [[Cybersecurity]], especially in trade journals like CSO Online or on robust social media communities like those on Twitter.
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=45)** Learn from courses on [[LinkedIn]] Learning, like those from my friends Mike Chapel and Ron Warner.
 >

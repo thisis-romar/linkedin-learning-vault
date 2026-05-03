@@ -1953,7 +1953,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=45)** Now, if you're interested in studying further, here are some other courses on [[LinkedIn]] Learning that you might find interesting.
 >
-> **[0:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=51)** A natural next step would be to study advanced [[Data Processing]], Batch, [[Real-Time]] and Cloud Architectures for AI or [[Secure [[Data Management]] for AI Implementation]] and that's it from me here today.
+> **[0:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=51)** A natural next step would be to study advanced [[Data Processing]], Batch, [[Real-Time]] and Cloud Architectures for AI or [[Secure Data Management for AI Implementation]] and that's it from me here today.
 >
 > **[1:04](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=64)** I hope you enjoyed this course. Thank you for listening.
 

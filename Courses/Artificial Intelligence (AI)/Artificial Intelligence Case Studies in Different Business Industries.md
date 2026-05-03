@@ -980,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=31)** - If you want to dig deeper and learn more about the conceptual side of AI and machine learning, you may watch other courses on this topic on [[LinkedIn]] Learning.
 >
-> **[0:42](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=42)** - Some options to consider, our course on [[[[Artificial Intelligence (AI)|Artificial Intelligence]] and Business Strategy]] and our new favorite [[[[Generative AI]] for Business Leaders]] by Tomer Cohen.
+> **[0:42](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=42)** - Some options to consider, our course on [[Artificial Intelligence and Business Strategy]] and our new favorite [[Generative AI for Business Leaders]] by Tomer Cohen.
 >
 > **[0:55](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=55)** - Consider also the book, "The Age of AI and Our Human Future" co-authored by Henry Kissinger and Eric Schmidt, the former Chairman and CEO of [[Google]].
 >

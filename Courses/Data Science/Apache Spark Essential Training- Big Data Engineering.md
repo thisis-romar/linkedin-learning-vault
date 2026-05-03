@@ -931,7 +931,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-local-db?u=76281980&t=37)** In the real world, these will be three separate database instances, but for this example, we will create data for all the three warehouses in the same database.
 >
-> **[0:48](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-local-db?u=76281980&t=48)** We first establish a connection to the warehouse_stock database and open a cursor.
+> **[0:48](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-local-db?u=76281980&t=48)** We first establish a connection to the warehouse_stock database and open a [[Cursor]].
 >
 > **[0:57](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-local-db?u=76281980&t=57)** Then we delete all old data in the item stock table.
 >

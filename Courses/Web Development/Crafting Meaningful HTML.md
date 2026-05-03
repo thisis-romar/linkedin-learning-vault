@@ -226,7 +226,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=108)** And then go ahead and open up a web browser.
 >
-> **[1:52](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=112)** And you're going to go to [[[CodePen]].io](https://codepen.io).
+> **[1:52](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=112)** And you're going to go to [codepen.io](https://codepen.io).
 >
 > **[1:55](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=115)** And if you're not logged in, you can log in.
 >
@@ -242,7 +242,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=150)** You can go on ahead and hit Save after that.
 >
-> **[2:33](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=153)** And Codepen will go ahead and save this into your account.
+> **[2:33](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=153)** And [[CodePen]] will go ahead and save this into your account.
 >
 > **[2:36](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=156)** You can give this a name as you wish.
 >

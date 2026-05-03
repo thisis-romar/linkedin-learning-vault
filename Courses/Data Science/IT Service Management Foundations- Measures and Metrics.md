@@ -148,13 +148,13 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=167)** We have a student support group with over 10,000 other students, who are learning ITIL, cybersecurity and project management throughout our courses, just like you are.
 >
-> **[2:56](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=176)** Now, if you want to join the fund, you can find us at [[[Facebook]].com/groups/diontraining](https://facebook.com/groups/diontraining) and request to join this private group.
+> **[2:56](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=176)** Now, if you want to join the fund, you can find us at [facebook.com/groups/diontraining](https://facebook.com/groups/diontraining) and request to join this private group.
 >
 > **[3:04](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=184)** In the group, we answer your questions, we put out additional free content, and we help support each other throughout our IT careers.
 >
 > **[3:10](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=190)** Also, if you ask your question there, you're likely going to get an answer within just a few minutes, most of the time, because we have thousands of other students, both past and present who join in our conversations there.
 >
-> **[3:20](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=200)** So if you're on Facebook, I definitely recommend joining the group today.
+> **[3:20](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=200)** So if you're on [[Facebook]], I definitely recommend joining the group today.
 >
 > **[3:24](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=204)** Now, if you aren't on Facebook, don't worry, you can still ask questions if you get stuck during the course.
 >

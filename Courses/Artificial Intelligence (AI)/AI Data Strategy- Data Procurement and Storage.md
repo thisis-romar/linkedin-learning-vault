@@ -355,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=38)** You have full control, but it takes more time and expertise.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=42)** With generative AI you use a pre-trained model like GPT-4o or Sonnet-3.5 to generate text, images, or code.
+> **[0:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=42)** With generative AI you use a pre-trained model like [[GPT-4|GPT-4o]] or Sonnet-3.5 to generate text, images, or code.
 >
 > **[0:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=52)** Instead of training a model from scratch, you send input through an API and get results instantaneously.
 >
@@ -1212,7 +1212,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=263)** This approach, often referred to as LLM-as-a-judge, allows one AI model to evaluate the outputs of another, helping to minimize bias.
 >
-> **[4:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=274)** This is similar to having an LLM, let's say GPT-4o, judging the output of a smaller model, for example, GPT-4o mini, or any other model, perhaps Claude Sonnet 3.5.
+> **[4:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=274)** This is similar to having an LLM, let's say [[GPT-4|GPT-4o]], judging the output of a smaller model, for example, GPT-4o mini, or any other model, perhaps Claude Sonnet 3.5.
 >
 > **[4:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=290)** You can prompt the model to specifically check for fairness, inclusivity, and bias in the output before being presented to users.
 >

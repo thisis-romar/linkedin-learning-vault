@@ -485,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=5)** So before we do anything, we need to be introduced to the Hugging Face community and platform and see what it has to offer us.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=12)** Head over to [[[Hugging Face|huggingface]].co](https://huggingface.co), and here you can see what the Hugging Face community has to offer.
+> **[0:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=12)** Head over to [huggingface.co](https://huggingface.co), and here you can see what the Hugging Face community has to offer.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=19)** Hugging Face refers to a company and an open-source community that focuses on [[Natural Language Processing (NLP)|natural language processing]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
@@ -630,7 +630,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=97)** Now if you scroll a little further down under usage, you can see that Sumy is available on Hugging Face.
 >
-> **[1:43](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=103)** You see the URL there, [https://[[Hugging Face|huggingface]].co/spaces/issam9/sumy_space](https://huggingface.co/spaces/issam9/sumy_space).
+> **[1:43](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=103)** You see the URL there, [https://huggingface.co/spaces/issam9/sumy_space](https://huggingface.co/spaces/issam9/sumy_space).
 >
 > **[1:50](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=110)** This makes the Sumy library available on Hugging Face as a very simple app that we can just use.
 >
@@ -1421,7 +1421,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=318)** The homepage variable associated with the dataset will give you a URL where you can get more information about the data that you're working with.
 >
-> **[5:27](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=327)** This is the homepage on [[[GitHub]].com](https://GitHub.com) for this dataset.
+> **[5:27](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=327)** This is the homepage on [GitHub.com](https://GitHub.com) for this dataset.
 >
 > **[5:31](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=331)** Let's look at one of the samples.
 >
@@ -2638,7 +2638,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=50)** Now, if you're interested in studying further, here are some other courses on [[LinkedIn]] Learning that you might want to watch.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=56)** Self-supervised Machine Learning will show you how we can use data with no labels to train ML models. An [[Introduction to Attention-Based [[Neural Networks]]]] will dive deeper into the concept of attention in sequence-to-sequence models.
+> **[0:56](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=56)** Self-supervised Machine Learning will show you how we can use data with no labels to train ML models. An [[Introduction to Attention-Based Neural Networks]] will dive deeper into the concept of attention in sequence-to-sequence models.
 >
 > **[1:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=72)** Well, it's time for me to say goodbye.
 >

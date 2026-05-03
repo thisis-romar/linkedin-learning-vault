@@ -2348,7 +2348,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=61)** If the pointer is hard to see, we can increase its size too.
 >
-> **[1:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=65)** Click on cursor size default, and click on a different size cursor.
+> **[1:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=65)** Click on [[Cursor]] size default, and click on a different size cursor.
 >
 > **[1:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=70)** When done, choose the original cursor, close the dialog, and turn off high contrast, and large text.
 >
@@ -7216,7 +7216,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=319)** Type in clear.
 >
-> **[5:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=320)** Type in ping space [[[LinkedIn]].com](https://LinkedIn.com) and hit enter.
+> **[5:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=320)** Type in ping space [LinkedIn.com](https://LinkedIn.com) and hit enter.
 >
 > **[5:25](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=325)** If you get a response, then you have proper DNS resolution.
 >

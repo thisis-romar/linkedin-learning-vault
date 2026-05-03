@@ -508,13 +508,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=0)** - [Instructor] In the last few movies, we became familiar with how we can text prompt in a channel directly on Discord or on [[[Midjourney]].com](https://midjourney.com).
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=0)** - [Instructor] In the last few movies, we became familiar with how we can text prompt in a channel directly on Discord or on [midjourney.com](https://midjourney.com).
 >
 > **[0:09](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=9)** And at the time of this recording, this is available to anyone who has produced over 100 images.
 >
 > **[0:14](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=14)** Now, there's a few other things that you should know to find out information about your images that could be helpful.
 >
-> **[0:21](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=21)** One is that we can actually find out information about this specific job, as well as seed number directly in the Midjourney server.
+> **[0:21](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=21)** One is that we can actually find out information about this specific job, as well as seed number directly in the [[Midjourney]] server.
 >
 > **[0:29](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=29)** The way that we do this is to click on the Add Reaction button right next to the actual prompt that you're interested into.
 >
@@ -1589,7 +1589,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=308)** Let's press the return key, and here is what it sees.
 >
-> **[5:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=311)** So first off, all at the top, it sees certain [[Tokens]] which are going to drive the creation of your gen AI images, and that includes nature photography, cinematic, the words small water, middle, et cetera.
+> **[5:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=311)** So first off, all at the top, it sees certain [[Tokens]] which are going to drive the creation of your [[Generative AI|gen AI]] images, and that includes nature photography, cinematic, the words small water, middle, et cetera.
 >
 > **[5:25](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=325)** If I look here at shortened prompts, here are some ideas Midjourney has in order to not use as many words, but would probably have the same impact of what you're looking for.
 >

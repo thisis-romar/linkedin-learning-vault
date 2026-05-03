@@ -168,13 +168,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=91)** First thing you need to do is you need to enter an email address.
 >
-> **[1:34](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=94)** So I'm going to go ahead and put in landonhotel and some random numbers here that I have @[[[Microsoft Outlook|outlook]].com](https://outlook.com).
+> **[1:34](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=94)** So I'm going to go ahead and put in landonhotel and some random numbers here that I have @[outlook.com](https://outlook.com).
 >
 > **[1:43](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=103)** I just created this email address just for this course.
 >
 > **[1:47](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=107)** And you also may want to go ahead and do this where you go ahead and create like a free email address somewhere.
 >
-> **[1:54](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=114)** You can do it anywhere, outlook or Gmail or whatever.
+> **[1:54](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=114)** You can do it anywhere, [[Microsoft Outlook|outlook]] or Gmail or whatever.
 >
 > **[1:57](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980&t=117)** And the reason why is, 'cause this email address needs to not be tied to any other Microsoft or Office 365 product.
 >
@@ -340,7 +340,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=35)** Now it's asking as far as the domain if you have your own, actual domain out on the internet that you want to tie in with this trial account, then you can add the domain here and then there are some steps to go ahead and configure DNS to get it connected.
 >
-> **[0:53](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=53)** Because this is just a learning environment, I'm going to go ahead and click on "no," I'm going to use the default domain that it created for me, which was Landon Hotel with some random numbers dot on [[[Microsoft]].com](https://microsoft.com).
+> **[0:53](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=53)** Because this is just a learning environment, I'm going to go ahead and click on "no," I'm going to use the default domain that it created for me, which was Landon Hotel with some random numbers dot on [microsoft.com](https://microsoft.com).
 >
 > **[1:04](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=64)** That's the one I'm going to use.
 >
@@ -368,7 +368,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=133)** I apologize for the little popups that keep happening as I hover over different boxes.
 >
-> **[2:17](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=137)** That's just Microsoft trying to be helpful.
+> **[2:17](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=137)** That's just [[Microsoft]] trying to be helpful.
 >
 > **[2:19](https://www.linkedin.com/learning/configure-and-manage-onedrive/microsoft-final-setup-procedures?u=76281980&t=139)** But I can add that user, and as soon as I add that user, you'll notice that at the bottom where it said "do this later," it now says "add users and assign licenses."
 >
@@ -1263,7 +1263,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=154)** Now, likewise, let's say SPO Admin was an admin of this particular OneDrive folder and and I no longer want this account to be an admin of the folder.
 >
-> **[2:44](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=164)** Well, then I would simply just put the cursor here and delete that account.
+> **[2:44](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=164)** Well, then I would simply just put the [[Cursor]] here and delete that account.
 >
 > **[2:50](https://www.linkedin.com/learning/configure-and-manage-onedrive/add-or-remove-admins-for-a-onedrive-account?u=76281980&t=170)** And it's just that simple.
 >

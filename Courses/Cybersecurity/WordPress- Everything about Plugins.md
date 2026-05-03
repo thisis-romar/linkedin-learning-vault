@@ -1622,7 +1622,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980&t=21)** And you can usually find it through their page in the directory on the support tab.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980&t=25)** For example, if I need help for my GiveWP donation plugin, I can find the plugin on my Plugins page, go to View details, and then go to [[[WordPress]].org](https://WordPress.org) Plugin Page which is going to be here on the right.
+> **[0:25](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980&t=25)** For example, if I need help for my GiveWP donation plugin, I can find the plugin on my Plugins page, go to View details, and then go to [WordPress.org](https://WordPress.org) Plugin Page which is going to be here on the right.
 >
 > **[0:40](https://www.linkedin.com/learning/wordpress-everything-about-plugins/using-plugin-support-channels?u=76281980&t=40)** Sometimes it appears up here in these tabs, but it doesn't on this plugin.
 >

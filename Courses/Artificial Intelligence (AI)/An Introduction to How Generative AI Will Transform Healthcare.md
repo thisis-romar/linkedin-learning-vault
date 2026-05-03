@@ -85,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=13)** Hi, I am Dr. Matt Lungren, and after two decades in healthcare and leading teams building AI models, I'm excited to guide you through the rapidly evolving world of generative AI.
 >
-> **[0:22](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=22)** I'm here to bring my experience directly to you and share the most important concepts and principles of Gen AI in healthcare.
+> **[0:22](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=22)** I'm here to bring my experience directly to you and share the most important concepts and principles of [[Generative AI|Gen AI]] in healthcare.
 >
 > **[0:28](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=28)** I'll address issues like, will [[ChatGPT]] replace healthcare jobs, and discuss ways to implement AI tools responsibly.
 >

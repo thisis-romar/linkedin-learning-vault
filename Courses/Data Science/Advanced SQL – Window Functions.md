@@ -376,7 +376,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=107)** Next, the set is passed to the ORDER BY clause.
 >
-> **[1:51](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=111)** ORDER BY sorts the data set and at this point, it ceases to be a set and becomes a cursor.
+> **[1:51](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=111)** ORDER BY sorts the data set and at this point, it ceases to be a set and becomes a [[Cursor]].
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=118)** The cursor can be further processed by the query's final clause, the OFFSET [[Fetch]], also known as LIMIT OFFSET, where it is sliced into manageable bite-sized pages for user consumption.
 >

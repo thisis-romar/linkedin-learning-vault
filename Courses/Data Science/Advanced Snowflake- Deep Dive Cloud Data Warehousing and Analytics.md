@@ -581,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=24)** First, let me go ahead and create a database called ECOMMERCE_DB.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=29)** You can run this command by clicking on the run button off to the top-left, or by hitting command + enter or control + Enter with your cursor positioned over the [[Snowflake]] command you want to run.
+> **[0:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=29)** You can run this command by clicking on the run button off to the top-left, or by hitting command + enter or control + Enter with your [[Cursor]] positioned over the [[Snowflake]] command you want to run.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=40)** Once we've created this database, observe on the top-right of the worksheet, we are currently running with role ACCOUNTADMIN.
 >
@@ -1926,7 +1926,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=81)** Now let's head back to our Query editor, and let's run this exact same query again.
 >
-> **[1:27](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=87)** You can simply place your cursor on the previous query and rerun it or type in the same query again.
+> **[1:27](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=87)** You can simply place your [[Cursor]] on the previous query and rerun it or type in the same query again.
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=94)** This time around, when I hit Shift + Enter, you'll find that the query runs almost instantaneously.
 >
@@ -3244,7 +3244,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=78)** Another managed data platform for big data processing which is a competitor to Snowflake is Databricks.
 >
-> **[1:24](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=84)** If you're interested in learning more about Databricks, [[[[Microsoft Azure|Azure]] Spark Databricks Essential Training]] is a great course.
+> **[1:24](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=84)** If you're interested in learning more about Databricks, [[Azure Spark Databricks Essential Training]] is a great course.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=91)** I hope you enjoyed this course.
 >

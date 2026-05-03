@@ -2192,7 +2192,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/fill-cells-by-using-autofill?u=76281980&t=23)** First, I want to show you how you can use a group of cells and without retyping the information, have AutoFill repeat it for you.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/fill-cells-by-using-autofill?u=76281980&t=35)** So for instance, if I select East, North, South, and West, instead of having to copy and paste or retype all this, I'm going to come down to the AutoFill handle, click with my mouse and hold it down, and I'm going to copy this information down and you can see over to the right of my cursor the words South, North, East, as I'm copying it down, it's showing me what's going to be filled in.
+> **[0:35](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/fill-cells-by-using-autofill?u=76281980&t=35)** So for instance, if I select East, North, South, and West, instead of having to copy and paste or retype all this, I'm going to come down to the AutoFill handle, click with my mouse and hold it down, and I'm going to copy this information down and you can see over to the right of my [[Cursor]] the words South, North, East, as I'm copying it down, it's showing me what's going to be filled in.
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/fill-cells-by-using-autofill?u=76281980&t=63)** See how easy and quick that was?
 >
@@ -2407,7 +2407,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/format-cells-and-ranges?u=76281980&t=140)** I'll double-click on it, so I can use it as many times as I want to.
 >
-> **[2:24](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/format-cells-and-ranges?u=76281980&t=144)** Notice the paint brush that's now attached to my cursor.
+> **[2:24](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/format-cells-and-ranges?u=76281980&t=144)** Notice the paint brush that's now attached to my [[Cursor]].
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/format-cells-and-ranges?u=76281980&t=149)** I'll click, hold my mouse down and go all the way down so that all of the cities are now wrapped with their text.
 >

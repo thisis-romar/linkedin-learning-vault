@@ -306,7 +306,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=0)** - [Instructor] The [[WordPress]] [[Representational State Transfer (REST)|REST]] API and all its routes and endpoints sit at your WordPress site under a common URL, [yoursite.com/wp-[[JSON]]](https://yoursite.com/wp-json).
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=0)** - [Instructor] The [[WordPress]] [[Representational State Transfer (REST)|REST]] API and all its routes and endpoints sit at your WordPress site under a common URL, [yoursite.com/wp-json](https://yoursite.com/wp-json).
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=10)** From here we can request any of the content or any of the information about the site.
 >
@@ -314,7 +314,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=34)** So here, I want wp/v2/posts.
 >
-> **[0:40](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=40)** When I hit return, the GET request is processed and WordPress returns JSON to the client, in my case, the browser.
+> **[0:40](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=40)** When I hit return, the GET request is processed and WordPress returns [[JSON]] to the client, in my case, the browser.
 >
 > **[0:48](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=48)** Two things are immediately obvious here.
 >
@@ -1749,7 +1749,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=27)** And now we need to make a couple of changes to the settings in Word Press and also on our server to get everything to work.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=33)** All that information is on the plugin page on [[[WordPress]].org](https://wordpress.org).
+> **[0:33](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=33)** All that information is on the plugin page on [wordpress.org](https://wordpress.org).
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=37)** If you scroll down you'll see first we need to allow HTTP authorization headers and that's done in .htaccess if you have an .htaccess file.
 >

@@ -2747,7 +2747,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=91)** The systems ensure essential data, such as spend by service provider or user, is organized, accurate, and quickly retrievable.
 >
-> **[1:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=100)** This readiness reduces legal and business risks, supporting [[Data Integrity]], and gives assurance to both financial teams and [[[[Executive Leadership]]]] that regulatory and operational standards are being met.
+> **[1:40](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=100)** This readiness reduces legal and business risks, supporting [[Data Integrity]], and gives assurance to both financial teams and [[Executive Leadership]] that regulatory and operational standards are being met.
 >
 > **[1:54](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finding-value-with-ai-finops-tools?u=76281980&t=114)** In summary, AI-enabled FinOps platforms empower organizations to optimize, observe, and audit cloud spend effectively, underpinning better business decisions while maintaining agility and compliance.
 

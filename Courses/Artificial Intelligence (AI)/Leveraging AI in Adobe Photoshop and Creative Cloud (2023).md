@@ -458,7 +458,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=255)** I have a selection ready for all of us to get going, so I'm going to go ahead and take a look here at the Channels panel, and here there is a selection that is saved, which is called Alpha 1.
 >
-> **[4:26](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=266)** So I'm going to go ahead and press and hold down the Command key on the keyboard on Mac, this is Control if you're on Windows, and simply hover your cursor over this thumbnail, and then press and hold down the keys, so you're going to see that's going to change that little cursor icon here, and then simply click to load that Alpha channel as a selection.
+> **[4:26](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=266)** So I'm going to go ahead and press and hold down the Command key on the keyboard on Mac, this is Control if you're on Windows, and simply hover your [[Cursor]] over this thumbnail, and then press and hold down the keys, so you're going to see that's going to change that little cursor icon here, and then simply click to load that Alpha channel as a selection.
 >
 > **[4:45](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=285)** Again, this is just a pretty loose selection of the fence because if I were to [[Zoom]] in, you would see that there's actually a bit of space between the actual fence and the selection boundary.
 >
@@ -587,7 +587,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=286)** And I'm going to go ahead and just [[Zoom]] in a little bit here on the actual golf club because it didn't do a fabulous job here.
 >
-> **[4:53](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=293)** So what I'm going to do is I'm going to go ahead and press down on the Shift key, which changes your cursor to a plus symbol.
+> **[4:53](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=293)** So what I'm going to do is I'm going to go ahead and press down on the Shift key, which changes your [[Cursor]] to a plus symbol.
 >
 > **[4:59](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=299)** I'm just going to go ahead and just add to the selection just to fix this a little bit like so.
 >
@@ -1635,7 +1635,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-anything-from-an-image?u=76281980&t=132)** I would say something around 55 is pretty good.
 >
-> **[2:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-anything-from-an-image?u=76281980&t=135)** And keep in mind that this is just a brush, which means that you can just simply click once and then move your cursor, let's say to this area, press and hold down the shift key and now click again to connect the former brush point with this brush point.
+> **[2:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-anything-from-an-image?u=76281980&t=135)** And keep in mind that this is just a brush, which means that you can just simply click once and then move your [[Cursor]], let's say to this area, press and hold down the shift key and now click again to connect the former brush point with this brush point.
 >
 > **[2:30](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-anything-from-an-image?u=76281980&t=150)** So I'm going to come in here again, click, hold down the shift key, click again.
 >
@@ -1905,7 +1905,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=33)** However, I would like to extend this side of the picture just a bit more, which means I need to create more road.
 >
-> **[0:41](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=41)** This would take me a long time to get right but we can actually give this a go using Gen AI.
+> **[0:41](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=41)** This would take me a long time to get right but we can actually give this a go using [[Generative AI|Gen AI]].
 >
 > **[0:47](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=47)** Let's come in here and let's click the Lock icon for unlocking the background layer.
 >
@@ -2996,7 +2996,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980&t=171)** So what I can do is I can actually click on the visualize depth options and I can decide to have an extra area in focus by using the focus brush or the blur brush.
 >
-> **[3:01](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980&t=181)** I'm going to just click the focus brush and move my cursor inside of the canvas, and I can then use the bracket keys on the keyboard, just like in Photoshop to increase or decrease the brush size.
+> **[3:01](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980&t=181)** I'm going to just click the focus brush and move my [[Cursor]] inside of the canvas, and I can then use the bracket keys on the keyboard, just like in Photoshop to increase or decrease the brush size.
 >
 > **[3:12](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980&t=192)** Now, based on that, I can just come in and choose to just brush these areas of the tusk and even click the auto mask option to help me with my initial selections.
 >
@@ -4410,7 +4410,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=251)** Let go of the mouse.
 >
-> **[4:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=253)** And now I have a lowered cursor.
+> **[4:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=253)** And now I have a lowered [[Cursor]].
 >
 > **[4:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=255)** Hover over my current selection, press and hold down the Option key, or Alt on Windows, and then click to replace the current graphic.
 >
@@ -5170,7 +5170,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=93)** However, I am here to create my own image and not look at the ones from others.
 >
-> **[1:37](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=97)** So what I'm going to do is I'm going to put my cursor here in the prompt command box, and I'm going to paste my same description here, "breakfast near the sea with a croissant, "orange juice and coffee," and I'm going to click to Generate option to kickstart this process.
+> **[1:37](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=97)** So what I'm going to do is I'm going to put my [[Cursor]] here in the prompt command box, and I'm going to paste my same description here, "breakfast near the sea with a croissant, "orange juice and coffee," and I'm going to click to Generate option to kickstart this process.
 >
 > **[1:53](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=113)** Now, here at the bottom, I'm still getting the original Adobe Stock results.
 >

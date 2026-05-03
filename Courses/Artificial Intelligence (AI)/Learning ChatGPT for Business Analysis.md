@@ -909,7 +909,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=22)** In the resource file, there's a set of draft requirements created with the help of [[ChatGPT]].
 >
-> **[0:28](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=28)** To see how I got them, check out the video, "Drafting Business Analysis Requirements in Gen AI" in the course [[Generative AI]] for Business Analysts.
+> **[0:28](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=28)** To see how I got them, check out the video, "Drafting Business Analysis Requirements in [[Generative AI|Gen AI]]" in the course [[Generative AI]] for Business Analysts.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=38)** You can first ask ChatGPT to assist in categorizing each requirement.
 >

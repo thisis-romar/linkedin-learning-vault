@@ -136,7 +136,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=183)** I'm also a proponent of responsible use of AI and how generative AI can be used across various industries.
 >
-> **[3:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=191)** This course is my attempt at the last part, teaching you how to build practical Gen AI applications with Snowflake.
+> **[3:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=191)** This course is my attempt at the last part, teaching you how to build practical [[Generative AI|Gen AI]] applications with Snowflake.
 >
 > **[3:19](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=199)** Now, let's talk a little about who this course is best suited for.
 >
@@ -631,7 +631,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=43)** Snowflake Cortex allows you to access some of the most capable enterprise-grade models, such as the [[LLaMA]], Mistral, Reka, and Claude family of models.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=55)** LLM functions are easy to use building blocks for Gen AI apps, where the functions can be called to enable actions within the Snowflake environment.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=55)** LLM functions are easy to use building blocks for [[Generative AI|Gen AI]] apps, where the functions can be called to enable actions within the Snowflake environment.
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=64)** There are three types of LLM functions.
 >
@@ -2713,7 +2713,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980&t=66)** It also custom generates a response to the support ticket based on the customer request and their contact preference.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980&t=74)** Gen AI allows us to do incredible things.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980&t=74)** [[Generative AI|Gen AI]] allows us to do incredible things.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980&t=78)** We have only started to scratch the surface of the abilities gen AI offers in the [[Snowflake]] environment.
 >
@@ -2739,7 +2739,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=0)** - Welcome back, let's talk about what's next in your journey.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=5)** GenAI is a growing field that is changing how we do everything, and you have started on your learning path.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=5)** [[Generative AI|GenAI]] is a growing field that is changing how we do everything, and you have started on your learning path.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=13)** Whether for professional personal growth or general interest, you have put in the time to complete the first step in the process of developing a skill that you can put to use in your own life or career.
 >
@@ -2777,7 +2777,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=176)** As you can see between the task specific functions, complete and fine-tune, [[Snowflake]] Cortex offers a powerful set of tools to solve many of your use cases.
 >
-> **[3:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=188)** Congratulations again, You have covered the beginning of Gen AI in snowflake's environment and started yourself on an exciting journey.
+> **[3:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=188)** Congratulations again, You have covered the beginning of [[Generative AI|Gen AI]] in snowflake's environment and started yourself on an exciting journey.
 >
 > **[3:17](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=197)** GenAI is changing everything and those of us that are able to see and deploy the opportunities that GenAI presence us with, will leap ahead of others.
 >

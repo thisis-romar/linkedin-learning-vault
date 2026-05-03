@@ -936,7 +936,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=122)** So why don't we do that?
 >
-> **[2:04](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=124)** We can click insert at cursor and it's just replaced all of the code that we had.
+> **[2:04](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=124)** We can click insert at [[Cursor]] and it's just replaced all of the code that we had.
 >
 > **[2:12](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/working-with-github-s-copilot?u=76281980&t=132)** So let's actually test this to see if the new version of our code that Copilot has provided works.
 >
@@ -1129,7 +1129,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=71)** It has the context, it's learning about it, and now it knows the name of the functions I'm using.
 >
-> **[1:19](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=79)** Now I'm going to place my cursor here in the file just so it knows what I'm working with.
+> **[1:19](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=79)** Now I'm going to place my [[Cursor]] here in the file just so it knows what I'm working with.
 >
 > **[1:27](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/solution-writing-a-php-class-sorter?u=76281980&t=87)** And I'm going to say, using the provided Person class, please write a sorting function that sorts the people array first by age, then by name.
 >
@@ -1352,7 +1352,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=247)** So we can also have [[Microsoft Copilot|Copilot]] expand on these tests.
 >
-> **[4:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=250)** So we'll place our cursor in the class and then we could ask it.
+> **[4:10](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=250)** So we'll place our [[Cursor]] in the class and then we could ask it.
 >
 > **[4:15](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/writing-unit-tests-with-ai?u=76281980&t=255)** "Please generate five more tests for the Person class."
 >

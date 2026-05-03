@@ -262,9 +262,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980&t=0)** - [Instructor] In this movie, to follow along, head over to [[[Canva]].com](https://canva.com), create an account if you don't have one already, and log in.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980&t=0)** - [Instructor] In this movie, to follow along, head over to [canva.com](https://canva.com), create an account if you don't have one already, and log in.
 >
-> **[0:08](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980&t=8)** Personally, I will be using the Canva desktop app, which I have over right here.
+> **[0:08](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980&t=8)** Personally, I will be using the [[Canva]] desktop app, which I have over right here.
 >
 > **[0:14](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980&t=14)** And that looks very similar to the online environment.
 >
@@ -745,7 +745,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980&t=6)** Luckily, there are several places on the web where you can get some inspiration for color.
 >
-> **[0:11](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980&t=11)** The first place being [[[Canva]].com](https://Canva.com)'s own color palette generator.
+> **[0:11](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980&t=11)** The first place being [Canva.com](https://Canva.com)'s own color palette generator.
 >
 > **[0:16](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980&t=16)** From this site, you can either upload your own image or explore some other color palette ideas by clicking the button Try Demo Image.
 >
@@ -1434,9 +1434,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=0)** - [Instructor] Thanks for completing this course, and be sure to check out [[[LinkedIn]].com](https://linkedin.com) for other [[Canva]] content.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=0)** - [Instructor] Thanks for completing this course, and be sure to check out [linkedin.com](https://linkedin.com) for other [[Canva]] content.
 >
-> **[0:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=6)** There are a ton of videos and courses on Canva on LinkedIn Learning.
+> **[0:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=6)** There are a ton of videos and courses on Canva on [[LinkedIn]] Learning.
 >
 > **[0:12](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=12)** And while you're at it, you might as well also search for design courses as well.
 >

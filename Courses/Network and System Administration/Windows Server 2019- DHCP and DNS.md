@@ -2127,7 +2127,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-zone-transfers?u=76281980&t=197)** Okay, in other words, we have not added that zone.
 >
-> **[3:20](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-zone-transfers?u=76281980&t=200)** So when I go to resolve this time, it resolves quickly but this time it says that basically this server and I have to kind of put my cursor on it is not authoritative for this zone.
+> **[3:20](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-zone-transfers?u=76281980&t=200)** So when I go to resolve this time, it resolves quickly but this time it says that basically this server and I have to kind of put my [[Cursor]] on it is not authoritative for this zone.
 >
 > **[3:31](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-zone-transfers?u=76281980&t=211)** So I'm going to cancel out of there but once you get rolling and you start adding the zones and different servers, they will show up on the name servers tab.
 >
@@ -2917,7 +2917,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-queries?u=76281980&t=98)** Okay, this is just a list of 13 root servers.
 >
-> **[1:42](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-queries?u=76281980&t=102)** Let me open up my internet browser and here we're connected to www.[[[LinkedIn]].com](https://linkedin.com).
+> **[1:42](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-queries?u=76281980&t=102)** Let me open up my internet browser and here we're connected to www.[linkedin.com](https://linkedin.com).
 >
 > **[1:46](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-queries?u=76281980&t=106)** Here's what happens.
 >
@@ -3029,7 +3029,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-cache?u=76281980&t=32)** Alright and I went ahead and pulled up a browser and I'll actually do that here.
 >
-> **[0:35](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-cache?u=76281980&t=35)** Pull up the browser and it goes to www.[[[LinkedIn]].com](https://LinkedIn.com) And I went through the whole process of how it got that answer and then displays this up on the screen.
+> **[0:35](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-cache?u=76281980&t=35)** Pull up the browser and it goes to www.[LinkedIn.com](https://LinkedIn.com) And I went through the whole process of how it got that answer and then displays this up on the screen.
 >
 > **[0:43](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-cache?u=76281980&t=43)** Let me go ahead and close this.
 >

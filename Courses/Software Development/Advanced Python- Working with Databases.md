@@ -394,7 +394,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=110)** We'll talk more about transactions later but they're a set of all or nothing changes made to the database.
 >
-> **[1:57](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=117)** With this connection object, we can also grab a cursor.
+> **[1:57](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=117)** With this connection object, we can also grab a [[Cursor]].
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/python-database-api?u=76281980&t=122)** The cursor object allows us to interact with the database.
 >
@@ -498,7 +498,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=38)** The next time we run this function, connect will just connect us with the already created movies database.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=46)** To create our first table in this relational database, we'll need to grab the cursor object.
+> **[0:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=46)** To create our first table in this relational database, we'll need to grab the [[Cursor]] object.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-an-sqlite-database?u=76281980&t=53)** With the cursor, we can now execute commands and queries on the database.
 >
@@ -583,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=6)** For the first entry, we'll add Martin Scorsese's Taxi Driver.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=12)** We'll use the execute function on the cursor and an insert [[SQL]] command to insert the data.
+> **[0:12](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=12)** We'll use the execute function on the [[Cursor]] and an insert [[SQL]] command to insert the data.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-your-first-record-into-an-sqlite-database?u=76281980&t=19)** We'll insert this data into the Movies table where the values are Taxi Driver for the title, Martin Scorsese for the director, and 1976 for the year.
 >
@@ -656,7 +656,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980&t=36)** We can add these movies to our database with just one line of code.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980&t=40)** We'll use the execute mini function on the cursor object.
+> **[0:40](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980&t=40)** We'll use the execute mini function on the [[Cursor]] object.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/adding-multiple-records-at-a-time-to-an-sqlite-database?u=76281980&t=46)** We'll insert these movies into the movies table.
 >
@@ -724,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=26)** We'll address this soon, I promise.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=29)** To filter the results by those released in 1985, we'll use the cursor's execute function again.
+> **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=29)** To filter the results by those released in 1985, we'll use the [[Cursor]]'s execute function again.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/filtering-records-in-an-sqlite-database?u=76281980&t=37)** We'll select all the movies in the movies table.
 >
@@ -1094,7 +1094,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=56)** This is the file our database will be stored in.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=60)** Then we create a cursor object and we use it to create a new table.
+> **[1:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=60)** Then we create a [[Cursor]] object and we use it to create a new table.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/solution-create-an-sqlite-database?u=76281980&t=66)** If the table doesn't already exist, we'll create a user's table with four columns.
 >
@@ -1619,7 +1619,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=176)** These could be read from a file and then passed into this connection.
 >
-> **[3:01](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=181)** With the connection in place, we can get access to the cursor object and then execute a few [[SQL]] statements.
+> **[3:01](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=181)** With the connection in place, we can get access to the [[Cursor]] object and then execute a few [[SQL]] statements.
 >
 > **[3:09](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/connecting-a-python-application-to-a-mysql-database?u=76281980&t=189)** Now, this looks a lot like what we did in SQLite.
 >
@@ -1686,7 +1686,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=73)** We'll call it project data, and it'll have the project title and description.
 >
-> **[1:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=80)** Then we'll want to insert this entry into the projects table using the cursor.
+> **[1:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=80)** Then we'll want to insert this entry into the projects table using the [[Cursor]].
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/encapsulating-database-operations?u=76281980&t=88)** Next, we'll do the same for the tasks.
 >
@@ -1848,7 +1848,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=22)** Whether you're using Core or the ORM, both will work for [[MySQL]] and SQLite, and any other supported relational database for that matter.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=34)** The pattern we've established so far is retrieve the cursor object and execute some statements.
+> **[0:34](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=34)** The pattern we've established so far is retrieve the [[Cursor]] object and execute some statements.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/building-a-model-with-sqlalchemy-orm?u=76281980&t=42)** With the ORM, we'll be able to create classes and models for the objects our database will hold.
 >
@@ -2401,7 +2401,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=70)** We've also created a connection to our database, specifically the Red30 database.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=78)** Let's grab the cursor and create a table.
+> **[1:18](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=78)** Let's grab the [[Cursor]] and create a table.
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/creating-a-table-in-postgres-using-python?u=76281980&t=82)** We'll create a sales table.
 >
@@ -2450,7 +2450,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=15)** That's because of how compatible database tools are in [[Python (Programming Language)|Python]].
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=20)** For example, we could use the cursor object and execute a command or we could use the SQLAlchemy expression language.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=20)** For example, we could use the [[Cursor]] object and execute a command or we could use the SQLAlchemy expression language.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/inserting-data-into-a-postgres-database?u=76281980&t=29)** We could even do it directly in the Postgres Shell.
 >
@@ -2509,7 +2509,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=0)** - [Instructor] Let's create a function that inserts a new sale into our [[PostgreSQL|Postgres]] database with dynamic data.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=8)** Like in the other case with [[MySQL]], we'll pass the cursor in, but you could pass in the database connection instead.
+> **[0:08](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=8)** Like in the other case with [[MySQL]], we'll pass the [[Cursor]] in, but you could pass in the database connection instead.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/interacting-with-a-postgres-database-using-python?u=76281980&t=16)** Inside this function, we'll calculate the order total.
 >

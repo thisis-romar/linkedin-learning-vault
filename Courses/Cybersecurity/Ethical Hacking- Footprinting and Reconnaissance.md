@@ -968,7 +968,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=187)** We're at the Landon Hotel webpage, which is a fictitious site used for training.
 >
-> **[3:13](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=193)** You'll place your cursor anywhere on the page, right-click, and select View Page Source.
+> **[3:13](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=193)** You'll place your [[Cursor]] anywhere on the page, right-click, and select View Page Source.
 >
 > **[3:20](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=200)** It will open it in a new tab and there you can see the page source.
 >
@@ -1185,7 +1185,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=45)** And below, we see the top level domains, such as .com and .edu.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=51)** And then the second level domains that include [[[Google]].com](https://Google.com) and [MIT.edu](https://MIT.edu).
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=51)** And then the second level domains that include [Google.com](https://Google.com) and [MIT.edu](https://MIT.edu).
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=58)** And, you might also see some subdomains.
 >
@@ -1360,7 +1360,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=45)** In order to claim your overpayment create an e-Refund account so the monies can be deposited."
 >
-> **[0:53](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=53)** Now here is what I'll see when I place my cursor on the Get Started hyperlink.
+> **[0:53](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=53)** Now here is what I'll see when I place my [[Cursor]] on the Get Started hyperlink.
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=59)** Hmm, that looks kind of official.
 >
@@ -1448,7 +1448,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=61)** In [[Windows]], it will stop after pinging four times and in [[Linux]], it will keep pinging until you issue the command control C.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=71)** To demonstrate, I'll go into the command line interface and I'll type ping [[[Google]].com](https://Google.com) and we'll let it run.
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=71)** To demonstrate, I'll go into the command line interface and I'll type ping [Google.com](https://Google.com) and we'll let it run.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=81)** This is a Windows operating system, so it will ping four times and then stop.
 >
@@ -1533,7 +1533,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=44)** To find out the IP address of a host, you will need to enter the fully qualified domain name of the host.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=51)** I'll enter nslookup [[[Google]].com](https://google.com).
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=51)** I'll enter nslookup [google.com](https://google.com).
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=63)** I'll press Enter, and there you will see your results.
 >
@@ -1571,7 +1571,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=156)** Now, you can also use dig in Windows, however, you would have to install dig along with bind utilities.
 >
-> **[2:44](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=164)** But another way we can use dig is by going to the Google Apps toolbox.
+> **[2:44](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=164)** But another way we can use dig is by going to the [[Google]] Apps toolbox.
 >
 > **[2:50](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=170)** Now, I'm here at this site, and I've entered [google.com](https://google.com) and we see several records.
 >
@@ -2057,7 +2057,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=51)** Okay, so we can see why someone might click on the link, but next, I wanted you to take a look at how this email looks suspicious.
 >
-> **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=61)** Well, first it misspelled the [[Microsoft Word|word]] warning and it wanted me to click on a sketchy link, and I'll place my cursor on the link.
+> **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=61)** Well, first it misspelled the [[Microsoft Word|word]] warning and it wanted me to click on a sketchy link, and I'll place my [[Cursor]] on the link.
 >
 > **[1:11](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=71)** Here it shows us going to [[Firebase]] storage and then there's a firmer warning in the email with a greater sense of urgency in the message.
 >

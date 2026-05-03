@@ -327,7 +327,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=191)** Now that you understand a little about the coordinates behind a GIS map, why don't you see if you can find the latitude and longitude coordinates of where you are right now?
 >
-> **[3:20](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=200)** Just open a browser and go to [[[Google]].com/maps](https://google.com/maps).
+> **[3:20](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=200)** Just open a browser and go to [google.com/maps](https://google.com/maps).
 >
 > **[3:25](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=205)** Type in your address, right-click on the map, and you'll know exactly where you are.
 

@@ -88,7 +88,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=0)** - There are different versions of [[Microsoft Copilot]], including a free version that anybody can use at the website, [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com).
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=0)** - There are different versions of [[Microsoft Copilot]], including a free version that anybody can use at the website, [[Microsoft Copilot|copilot]].[microsoft.com](https://microsoft.com).
 >
 > **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=9)** But the version that we are covering in this workshop is [[Microsoft 365]] Copilot.
 >
@@ -98,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=26)** First, you must have an existing Microsoft 365 account with a business, school, or similar organization.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=32)** Generally, this means that your employer or school has assigned a Microsoft account to you and your coworkers, which you use for Microsoft Services and applications like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], and [[Microsoft Outlook|Outlook]].
+> **[0:32](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=32)** Generally, this means that your employer or school has assigned a [[Microsoft]] account to you and your coworkers, which you use for Microsoft Services and applications like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], and [[Microsoft Outlook|Outlook]].
 >
 > **[0:45](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=45)** You can see a list of the specific Microsoft 365 licenses that are eligible here on this website.
 >
@@ -135,9 +135,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=6)** Copilot is updated and changed very often.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=10)** In the past, I would recommend you start at the website, copilot.[[[Microsoft]].com](https://microsoft.com), but now the tools on this website are really only intended for individual consumers.
+> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=10)** In the past, I would recommend you start at the website, copilot.[microsoft.com](https://microsoft.com), but now the tools on this website are really only intended for individual consumers.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=19)** For business, enterprise and education users, you should go to [[[Microsoft Office|office]].com](https://office.com) and sign in with your [[Microsoft 365]] account.
+> **[0:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=19)** For business, enterprise and education users, you should go to [office.com](https://office.com) and sign in with your [[Microsoft 365]] account.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=28)** After signing in, you'll see a button for Copilot on the sidebar on the left.
 >
@@ -529,7 +529,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=46)** And when you're ready to actually write the message, Copilot can save you time by writing a draft for you.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=52)** First, make sure your cursor is in the body of the message, and in the ribbons at the top, make sure that the message ribbon is selected.
+> **[0:52](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=52)** First, make sure your [[Cursor]] is in the body of the message, and in the ribbons at the top, make sure that the message ribbon is selected.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=61)** Then you should see the Copilot button, and when you click that, a menu opens and you can choose Draft with Copilot.
 >

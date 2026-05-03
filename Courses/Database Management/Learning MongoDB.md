@@ -1210,7 +1210,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980&t=11)** So, how do you limit, sort or skip documents in your queries?
 >
-> **[0:18](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980&t=18)** When you request documents back from manga db, under the covers, the database returns back what is called a Cursor.
+> **[0:18](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980&t=18)** When you request documents back from manga db, under the covers, the database returns back what is called a [[Cursor]].
 >
 > **[0:25](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980&t=25)** Technically, when you run the Find command via the shell with the driver in your programming language even though it is sent to the server, it actually doesn't run right away.
 >
@@ -2385,7 +2385,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=132)** We can also run commands like we would on the shell, so, we could do recipes on our recipes collection, and find_one(), and we'll get back one document here.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=149)** We could also use find() instead of find_one(), but you see now, you're getting back a cursor.
+> **[2:29](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=149)** We could also use find() instead of find_one(), but you see now, you're getting back a [[Cursor]].
 >
 > **[2:35](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=155)** If you remember earlier, find() brings back a cursor of data, not just a string of documents, so, to deal with that, we're going to need to actually make a Python program.
 >
@@ -2526,7 +2526,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=232)** And here in line 16 we're using just the find instead of find one command.
 >
-> **[3:56](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=236)** And that will bring us back a cursor, if you recall from earlier, which means we'll need to iterate over that to get our recipes out of the cursor.
+> **[3:56](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=236)** And that will bring us back a [[Cursor]], if you recall from earlier, which means we'll need to iterate over that to get our recipes out of the cursor.
 >
 > **[4:04](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=244)** So we're just doing a simple wild loop here, and keep doing it as long as we have another document.
 >
@@ -2715,7 +2715,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=221)** We'll see in example three here, the same connection set up and then again, picking our recipes collection.
 >
-> **[3:50](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=230)** But this time we're using find and if you recall from earlier, find returns a cursor.
+> **[3:50](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=230)** But this time we're using find and if you recall from earlier, find returns a [[Cursor]].
 >
 > **[3:54](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=234)** So it means we need to iterate over it.
 >
@@ -2928,7 +2928,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=322)** This is more necessary when working Go, since Go is typed, and inherently mongoDB is schemeless.
 >
-> **[5:29](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=329)** So on our connection here, we'll again use our cooker database and our collection recipes, and on line 37 here, we'll get a cursor back when we use the Find command.
+> **[5:29](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=329)** So on our connection here, we'll again use our cooker database and our collection recipes, and on line 37 here, we'll get a [[Cursor]] back when we use the Find command.
 >
 > **[5:41](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=341)** Cause if you recall earlier, if you get multiple documents back and when- that's what happens when you use find, that's going to be a cursor which we'll need to iterate over.
 >

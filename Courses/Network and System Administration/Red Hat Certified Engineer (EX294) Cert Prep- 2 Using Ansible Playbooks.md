@@ -781,7 +781,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=160)** Save and Exit VIM by pressing Escape + : + X, exclamation mark and hitting Enter.
 >
-> **[2:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=166)** Now type in clear, and then type in [[Git]] space clone space [https://[[GitHub]].com./Yggdroot/indentLine](https://github.com./Yggdroot/indentLine)
+> **[2:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=166)** Now type in clear, and then type in [[Git]] space clone space [https://github.com./Yggdroot/indentLine](https://github.com./Yggdroot/indentLine)
 >
 > **[3:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=183)** with a capital L dot git space Tilda slash dot VIM slash pack slash vendor slash start, slash indent Line with a capital L again, and hit Enter.
 >
@@ -831,7 +831,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=319)** We can see that VIM has opened this file with all indents folded.
 >
-> **[5:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=324)** To unfold an indent, put your cursor over a full line and hit Escape to ensure you're not in insert mode, and then press Z + O to open.
+> **[5:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=324)** To unfold an indent, put your [[Cursor]] over a full line and hit Escape to ensure you're not in insert mode, and then press Z + O to open.
 >
 > **[5:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=333)** You can also open quickly by pressing the Spacebar.
 >

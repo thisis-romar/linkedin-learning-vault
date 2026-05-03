@@ -1429,7 +1429,7 @@ created: 2026-05-02
 >
 > **[9:56](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=596)** There's more than one way to solve the same problem.
 >
-> **[9:59](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=599)** Up next, let's dive into integrating Gen AI into your systems through simple API calls.
+> **[9:59](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=599)** Up next, let's dive into integrating [[Generative AI|Gen AI]] into your systems through simple API calls.
 
 > [!info]- Semantic Content
 >
@@ -1465,7 +1465,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=59)** Let's cover a few of these that are available at the time of this course.
 >
-> **[1:04](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=64)** One of the most widely used OpenAI APIs is the Chat Completions API, which enables developers to build AI-driven conversational agents and text generation tools using models like GPT-4o or GPT-4o mini.
+> **[1:04](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=64)** One of the most widely used OpenAI APIs is the Chat Completions API, which enables developers to build AI-driven conversational agents and text generation tools using models like [[GPT-4|GPT-4o]] or GPT-4o mini.
 >
 > **[1:22](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=82)** This API can answer questions, generate content, summarize text, and even assist with code writing and debugging.
 >
@@ -1571,7 +1571,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=149)** Let's look at those parameters now.
 >
-> **[2:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=152)** On line 9, I'm selecting the gpt-4o-mini large language model.
+> **[2:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=152)** On line 9, I'm selecting the [[GPT-4|gpt-4o]]-mini large language model.
 >
 > **[2:39](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=159)** Lines 10 through 16, I'm passing in the messages.
 >
@@ -1759,7 +1759,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=59)** I'm passing in the model that I want to use.
 >
-> **[1:02](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=62)** In this case, GPT-4o mini.
+> **[1:02](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=62)** In this case, [[GPT-4|GPT-4o]] mini.
 >
 > **[1:06](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=66)** On lines 13 through 21, I'm passing in the messages.
 >
@@ -2498,7 +2498,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980&t=24)** Try building your own API, experiment with authentication and security, or explore API first design tools like OpenAPI and Postman.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980&t=35)** To continue your learning journey, check out my other courses on [[LinkedIn]] Learning, such as [[Artificial Intelligence (AI)|artificial intelligence]]: machine learning, [[Building a Project with the [[ChatGPT]] API]], or creating GPTs with Actions.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980&t=35)** To continue your learning journey, check out my other courses on [[LinkedIn]] Learning, such as [[Artificial Intelligence (AI)|artificial intelligence]]: machine learning, [[Building a Project with the ChatGPT API]], or creating GPTs with Actions.
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980&t=50)** And let's stay connected.
 >

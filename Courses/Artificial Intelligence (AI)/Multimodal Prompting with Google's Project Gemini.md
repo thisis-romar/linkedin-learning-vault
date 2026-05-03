@@ -298,9 +298,9 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=0)** - Although Ultra, the version of [[Gemini]] with the most advanced features, won't be available until next year, there's a couple of places where you can find the developer options for Gemini.
 >
-> **[0:09](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=9)** The best place is the ai.[[[Google]].dev](https://google.dev) website.
+> **[0:09](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=9)** The best place is the ai.[google.dev](https://google.dev) website.
 >
-> **[0:12](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=12)** You can see the link to Google AI Studio here and underneath, you'll find the link to [[Vertex]] AI on [[Google Cloud Platform (GCP)|Google Cloud]].
+> **[0:12](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=12)** You can see the link to [[Google]] AI Studio here and underneath, you'll find the link to [[Vertex]] AI on [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:19](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/the-multimodal-model-in-action?u=76281980&t=19)** You do have to set up accounts for both of them, and there are some charges on Google Cloud, although there is a free tier.
 >

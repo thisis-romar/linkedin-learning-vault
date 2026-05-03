@@ -1149,7 +1149,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=15)** Fans of [[Open-Source Software]] will be happy to know that GitLab is an open-source product, with some portions licensed as source available.
 >
-> **[0:24](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=24)** All of the code is available on [gitlab.com](https://gitlab.com) and [[[GitHub]].com](https://github.com).
+> **[0:24](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=24)** All of the code is available on [gitlab.com](https://gitlab.com) and [github.com](https://github.com).
 >
 > **[0:29](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=29)** If you want to raise an issue with the development team or submit a pull request, you can start from either site.
 >

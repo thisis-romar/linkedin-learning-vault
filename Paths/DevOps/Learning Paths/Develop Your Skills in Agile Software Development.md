@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/develop-your-skills-in-agile-softwa
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 7
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/devops

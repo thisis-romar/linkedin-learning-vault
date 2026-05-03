@@ -5253,7 +5253,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=8)** Before you go, I'd like to share a couple of additional courses that I think you might find helpful to expand on the database topics that we've learned so far.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=17)** In my course, [[[[Relational Databases]] Essential Training]], I walked through the steps of planning a [[Database Design]] from scratch and show how to draw out and organize the blueprint for your database using graphical [[Diagramming]] software.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=17)** In my course, [[Relational Databases Essential Training]], I walked through the steps of planning a [[Database Design]] from scratch and show how to draw out and organize the blueprint for your database using graphical [[Diagramming]] software.
 >
 > **[0:31](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980&t=31)** For more in-depth content on the [[PostgreSQL]] RDBMS platform, take a look at my PostgresSQL Essential Training course.
 >

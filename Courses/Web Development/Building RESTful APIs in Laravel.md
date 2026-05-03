@@ -1268,7 +1268,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=143)** I'm going to replace the status code with a response::HTTP_OK
 >
-> **[2:36](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=156)** I will put my cursor back on the response and import the class.
+> **[2:36](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=156)** I will put my [[Cursor]] back on the response and import the class.
 >
 > **[2:43](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=163)** Make sure to import a correct response class the Illuminate HTTP one, because as you can see there are quite a few of them.
 >

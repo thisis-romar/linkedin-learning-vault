@@ -450,7 +450,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=120)** It's not really something we'll use that much.
 >
-> **[2:02](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=122)** Next to it is a cursor.
+> **[2:02](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=122)** Next to it is a [[Cursor]].
 >
 > **[2:04](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=124)** And then next to that are frames, which we'll spend a lot of time working on here, later.
 >
@@ -1197,7 +1197,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=33)** So, what I'll do is I'll come in here to this layer, even though the layer's already selected, I can come in here and double click.
 >
-> **[0:39](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=39)** Now, I'm able to bring a cursor up.
+> **[0:39](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=39)** Now, I'm able to bring a [[Cursor]] up.
 >
 > **[0:41](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=41)** So again, it's highlighted all blue.
 >
@@ -1770,7 +1770,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=263)** So if that happens, we can just bring it back up.
 >
-> **[4:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=265)** You can see here, this black bar that's showing up we move my cursor down, move it up see how it indents whenever I'm inside of the frame and here it pops back out.
+> **[4:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=265)** You can see here, this black bar that's showing up we move my [[Cursor]] down, move it up see how it indents whenever I'm inside of the frame and here it pops back out.
 >
 > **[4:36](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=276)** So if I just move my touchpad to the right sum it'll bring it back in the frame.
 >
@@ -2568,7 +2568,7 @@ created: 2026-05-02
 >
 > **[8:49](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=529)** Didn't accept it because I was in the text edit mode.
 >
-> **[8:52](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=532)** I had my cursor flashing.
+> **[8:52](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=532)** I had my [[Cursor]] flashing.
 >
 > **[8:54](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=534)** And you get out of that mode, so it's just the selected text layer, not the text I selected to draw my color.
 >
@@ -2899,7 +2899,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=337)** I want to hold my Shift key down with a line.
 >
-> **[5:39](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=339)** If you move your cursor around, it only lets you move it between kind of zero, 45, 90 degrees.
+> **[5:39](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=339)** If you move your [[Cursor]] around, it only lets you move it between kind of zero, 45, 90 degrees.
 >
 > **[5:45](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=345)** So it helps me make a line look a lot nicer.
 >

@@ -1277,7 +1277,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=0)** - [Instructor] The popularity and usefulness of [[Pandas (Software)|pandas]] has put it at the center of the [[[[Python (Programming Language)|Python]] Data Analysis]] universe, so it's no surprise that it spawned countless sister packages and dependencies throughout the Python ecosystem.
+> **[0:00](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=0)** - [Instructor] The popularity and usefulness of [[Pandas (Software)|pandas]] has put it at the center of the [[Python Data Analysis]] universe, so it's no surprise that it spawned countless sister packages and dependencies throughout the [[Python (Programming Language)|Python]] ecosystem.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980&t=14)** One related package, which I highly encourage you to use, particularly if you want to accelerate your exploratory data analysis, is pandas-profiling.
 >

@@ -246,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=23)** In other words, does the app do what it's supposed to do?
 >
-> **[0:28](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=28)** Consider the ZIP code example that I share in the [[Static [[Application Security]] Testing]] class.
+> **[0:28](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=28)** Consider the ZIP code example that I share in the [[Static Application Security Testing]] class.
 >
 > **[0:34](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=34)** If you're designing an application that requires a user's mailing address, chances are that you'll ask them for a postal code or a ZIP code.
 >
@@ -520,7 +520,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=0)** - [Instructor] I referenced the [[OWASP]] Web [[Security Testing]] Guide multiple times throughout both this course and the [[Static [[Application Security]] Testing]] course.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=0)** - [Instructor] I referenced the [[OWASP]] Web [[Security Testing]] Guide multiple times throughout both this course and the [[Static Application Security Testing]] course.
 >
 > **[0:10](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=10)** Why?
 >
@@ -594,7 +594,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=297)** Use this tool to track your initial test, then refer to it as a requirement, stock of sorts as you start automating each test.
 >
-> **[5:08](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=308)** By using the OWASP Testing Guide to build out your QA testing checklist, you can be confident that you're performing a comprehensive set of application security tests.
+> **[5:08](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=308)** By using the OWASP Testing Guide to build out your QA testing checklist, you can be confident that you're performing a comprehensive set of [[Application Security]] tests.
 >
 > **[5:20](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=320)** The end result will likely be an app that will meet your user's needs while relentlessly frustrating attackers.
 
@@ -1412,9 +1412,9 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=152)** Secret scanning looks for hard coded credentials, while software composition analysis looks for weaknesses in third party libraries or dependencies.
 >
-> **[2:41](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=161)** I've got an entire course on [[Static [[Application Security]] Testing]], which primarily focuses on weaknesses in source code.
+> **[2:41](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=161)** I've got an entire course on [[Static Application Security Testing]], which primarily focuses on weaknesses in source code.
 >
-> **[2:49](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=169)** Infrastructure is code scanning and container scanning focus on potential weaknesses in apps developed and deployed in cloud environments, while Dynamic Application Security Testing, this course, evaluates apps once they've been compiled and deployed.
+> **[2:49](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=169)** Infrastructure is code scanning and container scanning focus on potential weaknesses in apps developed and deployed in cloud environments, while Dynamic [[Application Security]] Testing, this course, evaluates apps once they've been compiled and deployed.
 >
 > **[3:06](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=186)** Infrastructure scanning looks at the app infrastructure, all the systems and components the app relies on to operate, and a compliance check is a catchall that covers additional testing required based on your organization's internal and external compliance requirements.
 >
@@ -3127,7 +3127,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=393)** It's even available as a Mac Homebrew install.
 >
-> **[6:37](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=397)** It can also be integrated into SonarQube, a source code quality tool that I covered in my [[Static [[Application Security]] Testing]] course.
+> **[6:37](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=397)** It can also be integrated into SonarQube, a source code quality tool that I covered in my [[Static Application Security Testing]] course.
 >
 > **[6:46](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=406)** The CVE database hosted by MITRE is an online searchable database of publicly disclosed vulnerabilities.
 >

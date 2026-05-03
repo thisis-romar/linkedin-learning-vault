@@ -1882,7 +1882,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=132)** We can do that by adding in a check constraint.
 >
-> **[2:15](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=135)** Now, the syntax might be slightly different depending on your database platform but to implement a check constraint in SQL Server syntax, you're going to alter this statement here and right after where it says, not null, but before the comma, I'm going to place my cursor.
+> **[2:15](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=135)** Now, the syntax might be slightly different depending on your database platform but to implement a check constraint in SQL Server syntax, you're going to alter this statement here and right after where it says, not null, but before the comma, I'm going to place my [[Cursor]].
 >
 > **[2:28](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=148)** In fact, I'm just going to press enter to move down a line to give myself some more room.
 >
@@ -3696,7 +3696,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=37)** Rather than type out the select query every time, you can save it as a virtual table object in the database.
 >
-> **[0:43](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=43)** To do that, place your cursor at the beginning of line number one, and then press enter to move it down a line.
+> **[0:43](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=43)** To do that, place your [[Cursor]] at the beginning of line number one, and then press enter to move it down a line.
 >
 > **[0:49](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=49)** Then, at the top, type create view, the name of the view that you want to create, I'm going to create one called product details, and then the key [[Microsoft Word|word]] as, and that's all you need to do.
 >

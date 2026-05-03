@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-as-an-it-help-d
 course_count: 11
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 8
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/it-help-desk

@@ -2201,7 +2201,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/building-a-chat-interface-with-streamlit?u=76281980&t=93)** This creates a typing like effect.
 >
-> **[1:36](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/building-a-chat-interface-with-streamlit?u=76281980&t=96)** And over here a blinking cursor is added to simulate the appearance of typing.
+> **[1:36](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/building-a-chat-interface-with-streamlit?u=76281980&t=96)** And over here a blinking [[Cursor]] is added to simulate the appearance of typing.
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/building-a-chat-interface-with-streamlit?u=76281980&t=102)** Last but not least, we append the assistant's response to the chat history stored in the session state.
 >

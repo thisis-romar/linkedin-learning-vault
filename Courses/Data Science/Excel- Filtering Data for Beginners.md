@@ -542,7 +542,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980&t=107)** Instead, we click Unique records only, and then Copy to is what we want to fill out.
 >
-> **[1:55](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980&t=115)** So put your cursor in that blank box and specify where you want to copy the unique values to.
+> **[1:55](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980&t=115)** So put your [[Cursor]] in that blank box and specify where you want to copy the unique values to.
 >
 > **[2:03](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980&t=123)** I'll say, we'll put it here in H2, and then when we click OK it will extract only the unique values and put them here.
 >
@@ -923,7 +923,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980&t=27)** If you wanted them back on, just press Control + Shift + L and do it twice and you can bring them back.
 >
-> **[0:35](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980&t=35)** If you move your cursor and select a cell with a filter button, you can open that filter button by pressing Alt + Down Arrow, and then you can press the Down Arrow until you get to the item you want to select.
+> **[0:35](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980&t=35)** If you move your [[Cursor]] and select a cell with a filter button, you can open that filter button by pressing Alt + Down Arrow, and then you can press the Down Arrow until you get to the item you want to select.
 >
 > **[0:52](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980&t=52)** And let's say you want to only show Company C's sales.
 >

@@ -180,13 +180,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=3)** By limiting scope to code, this AI is most useful for code completion, identifying bugs, and understanding code.
 >
-> **[0:10](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=10)** This is the [[[GitHub]].com](https://GitHub.com) [[Microsoft Copilot|Copilot]] features page.
+> **[0:10](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=10)** This is the [GitHub.com](https://GitHub.com) [[Microsoft Copilot|Copilot]] features page.
 >
 > **[0:13](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=13)** There are some interesting screenshots, tons of stats, and examples on how amazing Copilot is.
 >
 > **[0:21](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=21)** More valuable are the GitHub Copilot Docs.
 >
-> **[0:24](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=24)** You will probably find that you interface with Copilot in your IDE, but it's also available via command line and in GitHub Mobile.
+> **[0:24](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=24)** You will probably find that you interface with Copilot in your IDE, but it's also available via command line and in [[GitHub]] Mobile.
 >
 > **[0:31](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980&t=31)** Broadly, Copilot does two things: code completion and chat.
 >

@@ -1003,7 +1003,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=147)** These contingencies should be rolled up into enterprise incident and business continuity plans.
 >
-> **[2:33](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=153)** For a more extensive review of the suggested activities related to the govern function, see the AI playbook at the Trustworthy & [[Responsible AI]] Resource Center at [[[NIST]].gov](https://NIST.gov).
+> **[2:33](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=153)** For a more extensive review of the suggested activities related to the govern function, see the AI playbook at the Trustworthy & [[Responsible AI]] Resource Center at [NIST.gov](https://NIST.gov).
 >
 > **[2:47](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=167)** Once the govern function is established, it's time to move into the map, measure, and manage functions.
 >
@@ -1159,7 +1159,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=193)** This will help refine your AI system.
 >
-> **[3:16](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=196)** For more extensive review of the suggested activities related to the map function, see the AI playbook at the trustworthy and [[Responsible AI]] resource center at [[[NIST]].gov](https://nist.gov).
+> **[3:16](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=196)** For more extensive review of the suggested activities related to the map function, see the AI playbook at the trustworthy and [[Responsible AI]] resource center at [nist.gov](https://nist.gov).
 >
 > **[3:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=207)** We've established the govern and map functions.
 >
@@ -1293,7 +1293,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=240)** It includes consulting domain experts for measurement approaches for identifying risk in deployment, and results of measuring AI trustworthiness across the AI life cycle, validated by domain experts and other AI actors, and continual performance improvement or decline measurements is attained through continued input from internal and external stakeholders.
 >
-> **[4:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=267)** For a more extensive review of the suggested activities related to the Measure function, see the AI Playbook at the Trustworthy and [[Responsible AI]] Resource Center at [[[NIST]].gov](https://nist.gov).
+> **[4:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=267)** For a more extensive review of the suggested activities related to the Measure function, see the AI Playbook at the Trustworthy and [[Responsible AI]] Resource Center at [nist.gov](https://nist.gov).
 >
 > **[4:39](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=279)** Establishing, implementing, and maintaining the Measure function is an output necessary to accomplish the managed function of the AI RMF Core.
 >
@@ -1382,7 +1382,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=257)** Communicating incidents and errors to relevant AI actors and communities should be established.
 >
-> **[4:23](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=263)** For a more extensive review of the suggested activities related to the Manage function, see the AI Playbook at the trustworthy and [[Responsible AI]] Resource Center at [[[NIST]].gov](https://nist.gov).
+> **[4:23](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=263)** For a more extensive review of the suggested activities related to the Manage function, see the AI Playbook at the trustworthy and [[Responsible AI]] Resource Center at [nist.gov](https://nist.gov).
 >
 > **[4:35](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=275)** The AI RMF Playbook can operationalize the Govern, Map, Measure, and Manage functions.
 >

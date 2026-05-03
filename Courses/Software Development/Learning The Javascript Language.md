@@ -371,7 +371,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=42)** The console only shows one line, but you can type shift return to get more lines.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=49)** And wherever your cursor is, if you just hit return, whatever you've typed will execute.
+> **[0:49](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=49)** And wherever your [[Cursor]] is, if you just hit return, whatever you've typed will execute.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/places-to-tinker?u=76281980&t=55)** Different browsers will place the menu item that activates the console in different places.
 >
@@ -484,7 +484,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=141)** If I type that first of my pair of parentheses, the editor gives me the other one automatically.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=148)** You can see my cursor is between them, but I've only typed one of them.
+> **[2:28](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=148)** You can see my [[Cursor]] is between them, but I've only typed one of them.
 >
 > **[2:31](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/your-friend-the-text-editor?u=76281980&t=151)** And if I change my mind and just hit delete one time, they both go away.
 >
@@ -5492,7 +5492,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=122)** Websites can be defaced, site visitors can have their personal information revealed or stolen, and more.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=128)** You can find out more about XSS in the course is [[[[Cybersecurity]] Foundations]]: [[Application Security]] and [[[[Programming Foundations]]- Web Security]].
+> **[2:08](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=128)** You can find out more about XSS in the course is [[Cybersecurity Foundations]]: [[Application Security]] and [[Programming Foundations- Web Security]].
 >
 > **[2:18](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=138)** Next are performance issues.
 >
@@ -5506,7 +5506,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=175)** Beware of using lots of scripts, your visitors and customers time and attention is very valuable.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=180)** There's more information on optimizing websites for better performance in the courses [[Developing for Web Performance]], [[[[Vanilla]] JavaScript- Web Performance Optimization APIs]], and Learning Enterprise Web Application Performance, among others.
+> **[3:00](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=180)** There's more information on optimizing websites for better performance in the courses [[Developing for Web Performance]], [[Vanilla JavaScript- Web Performance Optimization APIs]], and Learning Enterprise Web Application Performance, among others.
 >
 > **[3:15](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/responsible-javascript?u=76281980&t=195)** For these reasons and others, JavaScript can be blocked by users.
 >

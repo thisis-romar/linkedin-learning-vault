@@ -126,7 +126,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=83)** Now let's have a quick tour of Azure AI Foundry.
 >
-> **[1:26](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=86)** To access Azure AI Foundry, I will open a browser and visit ai.[[[Microsoft Azure|azure]].com](https://azure.com).
+> **[1:26](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=86)** To access Azure AI Foundry, I will open a browser and visit ai.[azure.com](https://azure.com).
 >
 > **[1:34](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=94)** Then I will sign in with my Microsoft account.
 >
@@ -140,7 +140,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=140)** Build apps using code templates.
 >
-> **[2:31](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=151)** And explore various Azure AI services.
+> **[2:31](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=151)** And explore various [[Microsoft Azure|Azure]] AI services.
 
 > [!info]- Semantic Content
 >
@@ -317,7 +317,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=138)** We can click a model to view details.
 >
-> **[2:22](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=142)** For example, select GPT-4o.
+> **[2:22](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=142)** For example, select [[GPT-4|GPT-4o]].
 >
 > **[2:28](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=148)** We can see the description and the different model versions.
 >
@@ -408,7 +408,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=32)** Because I want to build an AI chat application, I will choose the Chat Playground.
 >
-> **[0:42](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=42)** On the deployment, I select the GPT-4o, which is the AI model I just deployed.
+> **[0:42](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=42)** On the deployment, I select the [[GPT-4|GPT-4o]], which is the AI model I just deployed.
 >
 > **[0:51](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=51)** Expand Parameters.
 >
@@ -705,7 +705,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=208)** I can apply my content filter to the deployed AI models.
 >
-> **[3:32](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=212)** For example, gpt-4o.
+> **[3:32](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=212)** For example, [[GPT-4|gpt-4o]].
 >
 > **[3:35](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=215)** Click Next.
 >

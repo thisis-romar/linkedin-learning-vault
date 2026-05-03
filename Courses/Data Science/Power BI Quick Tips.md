@@ -826,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/rearrange-and-resize-tiles-24999953?u=76281980&t=6)** With this report page in view, let's go ahead and select Edit from the toolbar at the top.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/rearrange-and-resize-tiles-24999953?u=76281980&t=11)** And now let's go ahead and place the mouse cursor directly over a tile that we want to change the size of.
+> **[0:11](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/rearrange-and-resize-tiles-24999953?u=76281980&t=11)** And now let's go ahead and place the mouse [[Cursor]] directly over a tile that we want to change the size of.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/rearrange-and-resize-tiles-24999953?u=76281980&t=17)** We'll give this tile a click and that provides these handles around the perimeter.
 >

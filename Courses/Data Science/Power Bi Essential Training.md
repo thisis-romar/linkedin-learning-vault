@@ -325,7 +325,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-essential-training-25882735/signup-for-power-bi?u=76281980&t=4)** If you are already licensed for Power BI and signed up, just hang around while the [[Representational State Transfer (REST)|rest]] of us do this.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-essential-training-25882735/signup-for-power-bi?u=76281980&t=11)** We will begin by going to powerbi.[[[Microsoft]].com](https://microsoft.com), which will take you to this page or a similar page.
+> **[0:11](https://www.linkedin.com/learning/power-bi-essential-training-25882735/signup-for-power-bi?u=76281980&t=11)** We will begin by going to powerbi.[microsoft.com](https://microsoft.com), which will take you to this page or a similar page.
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-essential-training-25882735/signup-for-power-bi?u=76281980&t=20)** And at the top, we have buy now, start free, sign in.
 >
@@ -5016,7 +5016,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-essential-training-25882735/learn-more-about-power-bi?u=76281980&t=42)** So learning [[Microsoft Power BI]] Desktop.
 >
-> **[0:45](https://www.linkedin.com/learning/power-bi-essential-training-25882735/learn-more-about-power-bi?u=76281980&t=45)** If you'd like to know even more beyond that, I recommend [[Power BI [[Data Modeling]] with [[DAX]]]].
+> **[0:45](https://www.linkedin.com/learning/power-bi-essential-training-25882735/learn-more-about-power-bi?u=76281980&t=45)** If you'd like to know even more beyond that, I recommend [[Power BI Data Modeling with DAX]].
 >
 > **[0:51](https://www.linkedin.com/learning/power-bi-essential-training-25882735/learn-more-about-power-bi?u=76281980&t=51)** Interested in more about [[Microsoft Copilot|Copilot]], Helen Wall's course, Power BI Copilot Tips and Troubleshooting, is very helpful for using Copilot.
 >

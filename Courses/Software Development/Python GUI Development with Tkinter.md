@@ -2661,7 +2661,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=346)** The two marks we see here are two marks that TK automatically keeps track of.
 >
-> **[5:51](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=351)** One is named insert, and as the name suggests, it marks the current index of the insert cursor.
+> **[5:51](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=351)** One is named insert, and as the name suggests, it marks the current index of the insert [[Cursor]].
 >
 > **[5:58](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=358)** The other automatically tracked mark is named current and specifies the index that is currently under the mouse.
 >

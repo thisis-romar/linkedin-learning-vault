@@ -4329,7 +4329,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=63)** So Entity Framework is a very common framework for people to use for data access to all sorts of [[Database Systems]].
 >
-> **[1:11](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=71)** [[[ASP.NET]]](https://ASP.NET) is a framework for building web applications.
+> **[1:11](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=71)** [ASP.NET](https://ASP.NET) is a framework for building web applications.
 >
 > **[1:16](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=76)** You have Blazor for building client applications using web technologies, like [[HTML]] and [[Cascading Style Sheets (CSS)|Cascading Style Sheets]], but C# instead of [[JavaScript]].
 >

@@ -794,7 +794,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/accessibility-for-web-design/effective-visual-focus-indicators-14872202?u=76281980&t=25)** They rely on the keyboard for different reasons.
 >
-> **[0:28](https://www.linkedin.com/learning/accessibility-for-web-design/effective-visual-focus-indicators-14872202?u=76281980&t=28)** Mary is blind and can't see the screen to see where a mouse cursor is.
+> **[0:28](https://www.linkedin.com/learning/accessibility-for-web-design/effective-visual-focus-indicators-14872202?u=76281980&t=28)** Mary is blind and can't see the screen to see where a mouse [[Cursor]] is.
 >
 > **[0:33](https://www.linkedin.com/learning/accessibility-for-web-design/effective-visual-focus-indicators-14872202?u=76281980&t=33)** She listens to the web by using a screen reader.
 >
@@ -1042,7 +1042,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980&t=18)** Sometimes the JavaScript can go wrong, and we create something known as a keyboard trap.
 >
-> **[0:23](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980&t=23)** A scenario where the keyboard cursor will get stuck.
+> **[0:23](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980&t=23)** A scenario where the keyboard [[Cursor]] will get stuck.
 >
 > **[0:26](https://www.linkedin.com/learning/accessibility-for-web-design/avoiding-keyboard-traps-14870318?u=76281980&t=26)** Usually that's because the person that designed and built that custom control or that task flow was really thinking about people that use a mouse, and not keyboard users.
 >
@@ -1167,7 +1167,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/accessibility-for-web-design/linear-flow-of-content-14875143?u=76281980&t=25)** Giovanni, someone with autism, who might describe himself as neurodivergent, expects a certain amount of predictability in the interface.
 >
-> **[0:33](https://www.linkedin.com/learning/accessibility-for-web-design/linear-flow-of-content-14875143?u=76281980&t=33)** When he's tabbing through pages, he expects the cursor to follow a typical pattern of going from top to bottom and left to right.
+> **[0:33](https://www.linkedin.com/learning/accessibility-for-web-design/linear-flow-of-content-14875143?u=76281980&t=33)** When he's tabbing through pages, he expects the [[Cursor]] to follow a typical pattern of going from top to bottom and left to right.
 >
 > **[0:41](https://www.linkedin.com/learning/accessibility-for-web-design/linear-flow-of-content-14875143?u=76281980&t=41)** Sean has low vision and magnifies the screen.
 >
@@ -1315,7 +1315,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=153)** How would that change your design if you literally optimized your design for foot operation?
 >
-> **[2:40](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=160)** Mary might make her screen reader cursor move with a swipe or double-tap gesture to read the objects on the screen.
+> **[2:40](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=160)** Mary might make her screen reader [[Cursor]] move with a swipe or double-tap gesture to read the objects on the screen.
 >
 > **[2:47](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980&t=167)** Sean may use voiceover with magnification and a Bluetooth keyboard attached, where he literally doesn't ever touch the screen at all.
 >
@@ -1432,7 +1432,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980&t=9)** Gestures are practically essential for a blind person to operate a touchscreen device.
 >
-> **[0:14](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980&t=14)** With gestures, they have the ability to swipe through an interface to move a cursor around the screen.
+> **[0:14](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980&t=14)** With gestures, they have the ability to swipe through an interface to move a [[Cursor]] around the screen.
 >
 > **[0:20](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-gestures-14876131?u=76281980&t=20)** Very similar to the way they can use a keyboard to move the cursor on a desktop computer.
 >

@@ -564,7 +564,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980&t=153)** So an Enter will add another shape, if you use your down arrow on your keyboard though, that will drop you down so that you can start typing in your next item, so let's do that, let's add a couple more items, so you can see what this looks like.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980&t=165)** Now, for the two here that we don't need right now, let's go ahead and place the cursor after each of those bullets, and Backspace just to get rid of those, and there you have it.
+> **[2:45](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980&t=165)** Now, for the two here that we don't need right now, let's go ahead and place the [[Cursor]] after each of those bullets, and Backspace just to get rid of those, and there you have it.
 >
 > **[2:53](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-smartart-graphics?u=76281980&t=173)** We have our three blocks within this list.
 >
@@ -920,7 +920,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/draw-with-digital-ink-on-a-slide?u=76281980&t=169)** You'll notice that that grays out all of the pens that we have here.
 >
-> **[2:51](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/draw-with-digital-ink-on-a-slide?u=76281980&t=171)** And now as I move my mouse cursor over this ink, I can select it, and that selects this digital ink stroke to be able to resize it or to even reposition it with the four-way arrow.
+> **[2:51](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/draw-with-digital-ink-on-a-slide?u=76281980&t=171)** And now as I move my mouse [[Cursor]] over this ink, I can select it, and that selects this digital ink stroke to be able to resize it or to even reposition it with the four-way arrow.
 >
 > **[3:06](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/draw-with-digital-ink-on-a-slide?u=76281980&t=186)** That's the draw ribbon and how you can work with digital ink within your presentation slides.
 >
@@ -1089,7 +1089,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=67)** We'll leave it set to English US.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=69)** I'm going to click outside of this menu to get that menu to close, and I'm going to place my mouse cursor right here.
+> **[1:09](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=69)** I'm going to click outside of this menu to get that menu to close, and I'm going to place my mouse [[Cursor]] right here.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980&t=74)** This is where we're going to start having the words that are spoken, typed as text here within this container.
 >
@@ -1779,7 +1779,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=145)** And I'd like it to read to me all of the notes that are in this notes area.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=149)** I'm going to place my mouse cursor here, select immersive reader.
+> **[2:29](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=149)** I'm going to place my mouse [[Cursor]] here, select immersive reader.
 >
 > **[2:34](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-slide-views?u=76281980&t=154)** And here's the text.
 >
@@ -2093,7 +2093,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=231)** All right, now we'll click outside of that menu.
 >
-> **[3:53](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=233)** You also have a cursor, so if you're wanting to point to something specific you're able to do that.
+> **[3:53](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=233)** You also have a [[Cursor]], so if you're wanting to point to something specific you're able to do that.
 >
 > **[3:59](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/present-in-a-microsoft-teams-meeting?u=76281980&t=239)** And you have a laser pointer.
 >

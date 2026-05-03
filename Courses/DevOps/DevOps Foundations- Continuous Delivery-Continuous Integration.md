@@ -1651,7 +1651,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=5)** Unit Tests build confidence in the development team to be able to deliver faster.
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=10)** For reminder, you can find the code for our sample application at [[[GitHub]].com/wicked/[[Microsoft Word|word]]-cloud-generator](https://github.com/wicked/word-cloud-generator).
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=10)** For reminder, you can find the code for our sample application at [github.com/wicked/word-cloud-generator](https://github.com/wicked/word-cloud-generator).
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=19)** Now, I know everyone watching is not a developer and even fewer people are Go Developers but the approaches we discuss here can be taken for almost any language or framework out there today.
 >
@@ -1663,7 +1663,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=45)** In particular, we're going to look at the ParseText function.
 >
-> **[0:49](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=49)** Our Word Cloud Generator takes a string of words and counts the number of occurrences of each word.
+> **[0:49](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=49)** Our [[Microsoft Word|Word]] Cloud Generator takes a string of words and counts the number of occurrences of each word.
 >
 > **[0:54](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=54)** It returns this as [[JSON]] and the [[JavaScript]] renders this into a nice little Word Cloud.
 >
@@ -2328,7 +2328,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=148)** For this demo, we're going to simplify it and use Gauntlt running in a Docker container.
 >
-> **[2:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=153)** Let's head over to [[[GitHub]].com/gauntlt/gauntlt-docker](https://github.com/gauntlt/gauntlt-docker).
+> **[2:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=153)** Let's head over to [github.com/gauntlt/gauntlt-docker](https://github.com/gauntlt/gauntlt-docker).
 >
 > **[2:38](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=158)** This gives you everything you need to get started and includes the attack tool, Arachni.
 >

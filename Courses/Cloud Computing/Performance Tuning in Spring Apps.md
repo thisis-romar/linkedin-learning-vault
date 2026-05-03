@@ -203,7 +203,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=37)** It's bundled with the JDK through [[Java]] 8.
 >
-> **[0:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=40)** After Java 8, you can leverage it as a standalone download at visualvm.[[[GitHub]].io](https://github.io), that is where you can get the download for this tool.
+> **[0:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=40)** After Java 8, you can leverage it as a standalone download at visualvm.[github.io](https://github.io), that is where you can get the download for this tool.
 >
 > **[0:50](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=50)** Basically in order to install and use this tool, you download the compressed package, extract it on your system and run the executable.
 >

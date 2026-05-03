@@ -2579,7 +2579,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=287)** Coupled with Matplotlib it offers a direct route to beautiful and informative visualizations.
 >
-> **[4:53](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=293)** In my course, [[Python [[Statistics]] Essential Training]], explores statistical plots in more detail and with more examples.
+> **[4:53](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=293)** In my course, [[Python Statistics Essential Training]], explores statistical plots in more detail and with more examples.
 >
 > **[5:00](https://www.linkedin.com/learning/python-data-analysis-2020/weather-charts?u=76281980&t=300)** You are now ready for your challenge.
 
@@ -2979,7 +2979,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=29)** Gapminder is a Swedish foundation created by the late Hans Rosling to promote a fact-based worldview and to fight misconceptions about global development.
 >
-> **[0:40](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=40)** If you want to make plots in the Gapminder style internalize their data in some depth, you can try my [[LinkedIn]] learning course, [[[[Python (Programming Language)|Python]] Statistics Essential Training]].
+> **[0:40](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=40)** If you want to make plots in the Gapminder style internalize their data in some depth, you can try my [[LinkedIn]] learning course, [[Python Statistics Essential Training]].
 >
 > **[0:51](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=51)** In this video we'll do simpler things but still learn a lot.
 >
@@ -3035,7 +3035,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=268)** I'll do it here with sort values.
 >
-> **[4:32](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=272)** The style of coding where I concatenate one Pandas method after the other is in fact quite idiomatic for Pandas, if not for Python.
+> **[4:32](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=272)** The style of coding where I concatenate one Pandas method after the other is in fact quite idiomatic for Pandas, if not for [[Python (Programming Language)|Python]].
 >
 > **[4:43](https://www.linkedin.com/learning/python-data-analysis-2020/plotting?u=76281980&t=283)** So when we say that Pandas speaks its own Python dialect.
 >

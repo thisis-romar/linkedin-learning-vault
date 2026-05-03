@@ -432,7 +432,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=0)** - [Narrator] If you're using an operating system other than [[Windows]] such as [[Linux]] or macOS you can follow the link on the install page of [[[Rust (Programming Language)|rust]]-lang.org](https://rust-lang.org) or other installation methods.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=0)** - [Narrator] If you're using an operating system other than [[Windows]] such as [[Linux]] or macOS you can follow the link on the install page of [rust-lang.org](https://rust-lang.org) or other installation methods.
 >
 > **[0:14](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=14)** Scroll down to the section on other ways to install rustup, select this shell command, copy it, switch over to a terminal, paste it, and then press Enter to run it.
 >
@@ -440,7 +440,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=39)** I'll select option one to proceed with the installation.
 >
-> **[0:46](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=46)** And everything worked correctly, so I get this message that Rust is installed, great.
+> **[0:46](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=46)** And everything worked correctly, so I get this message that [[Rust (Programming Language)|Rust]] is installed, great.
 >
 > **[0:51](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=51)** Now we also get this message that Cargo's bend directory needs to be included in our path environment variable.
 >

@@ -586,7 +586,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980&t=233)** Let me do this, I'm going to take the guest view and put it next to my view.
 >
-> **[3:58](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980&t=238)** All right, it's a little hard to tell, and I apologize 'cause my screen is so small here, but you can see on the left over here, this is actually me, this is the person that started this, I'm the board owner, and you can see, look on the right over there, you can see my cursor, this is the guest.
+> **[3:58](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980&t=238)** All right, it's a little hard to tell, and I apologize 'cause my screen is so small here, but you can see on the left over here, this is actually me, this is the person that started this, I'm the board owner, and you can see, look on the right over there, you can see my [[Cursor]], this is the guest.
 >
 > **[4:12](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980&t=252)** So this is the guest view, this is in their browser and they're going through and they're doing things.
 >
@@ -945,7 +945,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980&t=25)** Okay, one of the things I wanted to show you, which I think is really super-useful is if somebody, like let's say a guest, is over doing something else and they're focusing on something that they shouldn't be.
 >
-> **[0:36](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980&t=36)** You can see their cursor like way over there, and what you're talking about is right here.
+> **[0:36](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980&t=36)** You can see their [[Cursor]] like way over there, and what you're talking about is right here.
 >
 > **[0:41](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980&t=41)** You want them to focus on this.
 >

@@ -2067,7 +2067,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=7)** Now, follow me on [[LinkedIn]], because there I will be pushing in more updates.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=11)** And if you enjoyed this course, I've got two more courses that you can watch, which is "[[Playwright- [[Design Patterns]]]]" and "Playwright Advanced."
+> **[0:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=11)** And if you enjoyed this course, I've got two more courses that you can watch, which is "[[Playwright- Design Patterns]]" and "Playwright Advanced."
 >
 > **[0:18](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=18)** And for any further details about [[Selenium]], head over to [selenium.dev/documentation](https://selenium.dev/documentation), because you'll find many more resources over there.
 >

@@ -191,7 +191,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=13)** LlamaIndex has become popular in the [[Generative AI]] world for its capabilities and ease of use.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=20)** It's an open-source framework that enables development of GenAI applications.
+> **[0:20](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=20)** It's an open-source framework that enables development of [[Generative AI|GenAI]] applications.
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/ai-agents-in-llamaindex-25224601?u=76281980&t=26)** Its abstractions allow quick development and deployment of GenAI applications.
 >
@@ -949,7 +949,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=90)** They can help in building custom and powerful applications.
 >
-> **[1:35](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=95)** The workflow concept is independent of GenAI, so you can build non-AI process automations too with LlamaIndex workflows.
+> **[1:35](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=95)** The workflow concept is independent of [[Generative AI|GenAI]], so you can build non-AI process automations too with LlamaIndex workflows.
 >
 > **[1:45](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980&t=105)** We will build a simple non-AI workflow later in the chapter.
 >

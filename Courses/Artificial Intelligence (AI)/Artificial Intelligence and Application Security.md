@@ -79,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=0)** - All of a sudden, [[Artificial Intelligence (AI)|artificial intelligence]] is everywhere.
 >
-> **[0:04](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=4)** What are the implications of AI and GenAI on [[Cybersecurity]]?
+> **[0:04](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=4)** What are the implications of AI and [[Generative AI|GenAI]] on [[Cybersecurity]]?
 >
 > **[0:09](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980&t=9)** In this course, I'm going to discuss risks, predictions, and recommendations.
 >
@@ -134,7 +134,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=152)** AI, short for artificial intelligence, is a branch of computer science focused on creating machines with the ability to replicate human cognitive functions and the application of this field to software.
 >
-> **[2:47](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=167)** Gen AI, short for generative artificial intelligence, is a field within AI focused on creating [[Algorithms]], typically called models, capable of generating new content or output following the dataset that trained it.
+> **[2:47](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=167)** [[Generative AI|Gen AI]], short for generative artificial intelligence, is a field within AI focused on creating [[Algorithms]], typically called models, capable of generating new content or output following the dataset that trained it.
 >
 > **[3:05](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980&t=185)** My friend Jim Routh used these definitions in his white paper, "Shaping Trust in the Age of AI" from the cybersecurity think tank Institute for Critical Infrastructure Technology.
 >
@@ -300,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=12)** When I think about normal or non-generative AI, I'm thinking about asking a question and finding the answer in a very large data set.
 >
-> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=23)** Generative AI, or gen AI. is distinct from non-generative AI in that it actually creates something new.
+> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=23)** Generative AI, or [[Generative AI|gen AI]]. is distinct from non-generative AI in that it actually creates something new.
 >
 > **[0:33](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/generative-ai?u=76281980&t=33)** Generative AI does not simply find an answer in a data set.
 >

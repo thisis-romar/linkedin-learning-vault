@@ -92,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=30)** I work with C-Suite teams and executives on their strategy to uplift their corporate security posture.
 >
-> **[0:37](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=37)** I will provide practical insights and lessons learned to help you partner with your [[[[Executive Leadership]]]] team.
+> **[0:37](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=37)** I will provide practical insights and lessons learned to help you partner with your [[Executive Leadership]] team.
 >
 > **[0:45](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=45)** Come along for the ride!
 

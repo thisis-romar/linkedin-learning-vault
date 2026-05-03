@@ -3113,7 +3113,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=19)** We also have a course on Advanced SQL for Time Series Data, which focuses on really the specifics of how we can optimize our work and really build performant queries around time series data.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=32)** Then there's also [[Advanced SQL for [[Application Development]]]], where we turn our attention to optimizing SQL for transaction processing systems, and then the course on Designing Highly Available and Highly Scalable SQL [[Databases]] gets more into [[Data Architecture]] with a focus on high availability and [[Scalability]].
+> **[0:32](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=32)** Then there's also [[Advanced SQL for Application Development]], where we turn our attention to optimizing SQL for transaction processing systems, and then the course on Designing Highly Available and Highly Scalable SQL [[Databases]] gets more into [[Data Architecture]] with a focus on high availability and [[Scalability]].
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=50)** Then finally, I would just recommend, review the specific database documentation for the database that you work with.
 >

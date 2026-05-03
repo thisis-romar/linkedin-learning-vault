@@ -971,7 +971,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=178)** Together we create an integrated controls and governance framework, while we ensure a robust compliance posture.
 >
-> **[3:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=186)** You can visit the compliance resource center at cloud.[[[Google]].com/security/compliance](https://google.com/security/compliance).
+> **[3:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=186)** You can visit the compliance resource center at cloud.[google.com/security/compliance](https://google.com/security/compliance).
 >
 > **[3:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=193)** And explore the Compliance Reports Manager at cloud.[google.com/security/compliance](https://google.com/security/compliance)/ compliance-reports-manager.
 

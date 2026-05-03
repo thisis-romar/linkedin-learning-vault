@@ -3756,7 +3756,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=230)** After a moment, everything updates to indicate that we might have some errors on a few lines.
 >
-> **[3:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=235)** Also, I want you to notice that the line that your insertion cursor is on gets highlighted with a gray box around the line.
+> **[3:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=235)** Also, I want you to notice that the line that your insertion [[Cursor]] is on gets highlighted with a gray box around the line.
 >
 > **[4:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=242)** So it'll help you find the cursor if you lose track of it.
 >
@@ -4446,7 +4446,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=82)** Now, if I was only interested in seeing records for customers with an ID of 1500 or above, I could add a where clause to filter those results.
 >
-> **[1:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=93)** I'll click my insertion cursor right before the terminating semicolon character and move that down to line number four.
+> **[1:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=93)** I'll click my insertion [[Cursor]] right before the terminating semicolon character and move that down to line number four.
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=100)** Then, on line three, I'll add the where clause and we could put in our criteria.
 >

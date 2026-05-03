@@ -7088,7 +7088,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=12)** Suppose we wanted to gather a random sample from our data set.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=17)** So I'm going to put my cursor here inside of the table and let's see how it recommends.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=17)** So I'm going to put my [[Cursor]] here inside of the table and let's see how it recommends.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=27)** So remember, there's many different ways to gather random samples in [[Microsoft Excel|Excel]].
 >

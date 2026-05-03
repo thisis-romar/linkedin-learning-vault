@@ -197,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980&t=13)** But employee monitoring is rarely a good way to measure if work is getting done.
 >
-> **[0:18](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980&t=18)** I've known people who just wiggle their cursor to make the monitoring system think they're working.
+> **[0:18](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980&t=18)** I've known people who just wiggle their [[Cursor]] to make the monitoring system think they're working.
 >
 > **[0:24](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980&t=24)** Measuring activity or busyness rather than results was never good performance management approach and it really fails now.
 >

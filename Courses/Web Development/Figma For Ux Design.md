@@ -324,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=94)** After we start to get familiar with Figma, we're going to be using shortcuts and a lot of the icons, but everything that you would want to do inside of Figma is available from this Figma menu.
 >
-> **[1:43](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=103)** And then working our way over, we have our cursor, which is also just going to be our move tool.
+> **[1:43](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=103)** And then working our way over, we have our [[Cursor]], which is also just going to be our move tool.
 >
 > **[1:48](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=108)** And next to that we have frames.
 >
@@ -1152,7 +1152,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=127)** Okay let's go ahead and apply our Cintere H2 to this text layer.
 >
-> **[2:14](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=134)** Ah, see I did it again where I leave my cursor inside of there.
+> **[2:14](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=134)** Ah, see I did it again where I leave my [[Cursor]] inside of there.
 >
 > **[2:17](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=137)** So if I just click outside then the text layer gets selected instead of actually being inside of it.
 >
@@ -1697,7 +1697,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=50)** For me, I logged in as the same individual, so it's going to have the same initial.
 >
-> **[0:54](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=54)** But you can see now we also have another cursor, so I can actually see where the other individual is in the current document.
+> **[0:54](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=54)** But you can see now we also have another [[Cursor]], so I can actually see where the other individual is in the current document.
 >
 > **[1:01](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=61)** So if they were to go and start working on our frame 7 opening animation, and I could be down here working on frame 10, I'm able to see where that other individual is working.
 >
@@ -1776,7 +1776,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=72)** So again, I logged in as myself, so I left a comment mentioning myself that I need to change this to articles.
 >
-> **[1:21](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=81)** So what we'll do is go ahead and take our cursor, and let's select our blog, and let's change this to read articles.
+> **[1:21](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=81)** So what we'll do is go ahead and take our [[Cursor]], and let's select our blog, and let's change this to read articles.
 >
 > **[1:32](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=92)** Perfect.
 >

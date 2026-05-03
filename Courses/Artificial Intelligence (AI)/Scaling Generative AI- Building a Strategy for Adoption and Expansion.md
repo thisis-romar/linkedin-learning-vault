@@ -81,7 +81,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/setting-up-generative-ai-for-success-in-your-organisation?u=76281980&t=0)** - [[Generative AI]] is the world's most lucrative opportunity, adding anything from 7 to 15 trillion dollars in economic value in just a few years.
 >
-> **[0:09](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/setting-up-generative-ai-for-success-in-your-organisation?u=76281980&t=9)** No matter your role or technical skills, this course will help you implement Gen AI to transform your organization.
+> **[0:09](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/setting-up-generative-ai-for-success-in-your-organisation?u=76281980&t=9)** No matter your role or technical skills, this course will help you implement [[Generative AI|Gen AI]] to transform your organization.
 >
 > **[0:15](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/setting-up-generative-ai-for-success-in-your-organisation?u=76281980&t=15)** We'll explore governance structures, roles and responsibilities, and best practices around KPIs, and culture.
 >
@@ -110,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/what-is-genai?u=76281980&t=0)** - Have you ever wondered how some applications can generate detailed reports, create personalized customer responses, or even predict the market trends?
 >
-> **[0:08](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/what-is-genai?u=76281980&t=8)** This is the power of GenAI.
+> **[0:08](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/what-is-genai?u=76281980&t=8)** This is the power of [[Generative AI|GenAI]].
 >
 > **[0:10](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/what-is-genai?u=76281980&t=10)** You'll notice I said GenAI and not just AI.
 >
@@ -172,7 +172,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/benefits-of-genai-tools?u=76281980&t=0)** - For us to talk about the benefits of GenAI, we need to talk more about examples of where and why people are using it.
+> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/benefits-of-genai-tools?u=76281980&t=0)** - For us to talk about the benefits of [[Generative AI|GenAI]], we need to talk more about examples of where and why people are using it.
 >
 > **[0:07](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/benefits-of-genai-tools?u=76281980&t=7)** Here in this video, we'll dive into an example that everyone could benefit from.
 >
@@ -231,7 +231,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/key-considerations-of-genai?u=76281980&t=0)** - I cannot stress enough the significance of using GenAI in an ethical and legally compliant manner that aligns with both local and global regulations.
+> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/key-considerations-of-genai?u=76281980&t=0)** - I cannot stress enough the significance of using [[Generative AI|GenAI]] in an ethical and legally compliant manner that aligns with both local and global regulations.
 >
 > **[0:09](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/key-considerations-of-genai?u=76281980&t=9)** There have been a number of cases in the market where companies and individuals fail to consider these crucial aspects when harnessing the power of GenAI.
 >
@@ -299,7 +299,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/establishing-a-governance-framework?u=76281980&t=0)** - Now it's time to start thinking about what it takes in terms of structure and governance to get gen AI off to a winning start.
+> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/establishing-a-governance-framework?u=76281980&t=0)** - Now it's time to start thinking about what it takes in terms of structure and governance to get [[Generative AI|gen AI]] off to a winning start.
 >
 > **[0:07](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/establishing-a-governance-framework?u=76281980&t=7)** We'll also be considering how to look at and manage opportunities.
 >
@@ -380,7 +380,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/capturing-opportunities-correctly?u=76281980&t=15)** Then once you have those opportunities listed, work backwards to try and solve for it.
 >
-> **[0:20](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/capturing-opportunities-correctly?u=76281980&t=20)** That way you are geared to be solution and results orientated rather than just trying to apply a cool tech like GenAI to everything you can think of.
+> **[0:20](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/capturing-opportunities-correctly?u=76281980&t=20)** That way you are geared to be solution and results orientated rather than just trying to apply a cool tech like [[Generative AI|GenAI]] to everything you can think of.
 >
 > **[0:28](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/capturing-opportunities-correctly?u=76281980&t=28)** If you use GenAI that way, it will be a disaster.
 >
@@ -442,7 +442,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/roles-and-responsibilities?u=76281980&t=0)** - Now we've talked about the incredible capabilities of Gen AI, you might be wondering, "How can I actually implement this in my company?"
+> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/roles-and-responsibilities?u=76281980&t=0)** - Now we've talked about the incredible capabilities of [[Generative AI|Gen AI]], you might be wondering, "How can I actually implement this in my company?"
 >
 > **[0:07](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/roles-and-responsibilities?u=76281980&t=7)** Well, that's exactly what we're going to dive into, different roles, and their responsibilities.
 >
@@ -476,7 +476,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/roles-and-responsibilities?u=76281980&t=90)** They're the glue that holds the team together.
 >
-> **[1:33](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/roles-and-responsibilities?u=76281980&t=93)** [[Quality Assurance]] engineers, they rigorously test the Gen [[AI Solutions]] to make sure they meet the company quality standards.
+> **[1:33](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/roles-and-responsibilities?u=76281980&t=93)** [[Quality Assurance]] engineers, they rigorously test the Gen AI solutions to make sure they meet the company quality standards.
 >
 > **[1:41](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/roles-and-responsibilities?u=76281980&t=101)** They're your safety net, catching any issues before they reach the end-user.
 >
@@ -535,7 +535,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/track-and-measure-genai-success?u=76281980&t=0)** - So you have assembled your all-star team and you're ready to roll out GenAI solutions across your organization.
+> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/track-and-measure-genai-success?u=76281980&t=0)** - So you have assembled your all-star team and you're ready to roll out [[Generative AI|GenAI]] solutions across your organization.
 >
 > **[0:06](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/track-and-measure-genai-success?u=76281980&t=6)** But how do you ensure these solutions are actually being used and making an impact?
 >
@@ -639,7 +639,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/genai-and-company-culture?u=76281980&t=0)** - We've talked about assembling your Gen AI team, ensuring [[Accountability]], and now it's time to tackle something equally crucial, culture.
+> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/genai-and-company-culture?u=76281980&t=0)** - We've talked about assembling your [[Generative AI|Gen AI]] team, ensuring [[Accountability]], and now it's time to tackle something equally crucial, culture.
 >
 > **[0:09](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/genai-and-company-culture?u=76281980&t=9)** You see, culture isn't just about casual Fridays or team lunches.
 >
@@ -732,7 +732,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/fostering-the-right-future-workforce?u=76281980&t=0)** - We've been diving deep into the world of GenAI, haven't we?
+> **[0:00](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/fostering-the-right-future-workforce?u=76281980&t=0)** - We've been diving deep into the world of [[Generative AI|GenAI]], haven't we?
 >
 > **[0:03](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/fostering-the-right-future-workforce?u=76281980&t=3)** From strategy to culture, we've covered a lot.
 >
@@ -806,7 +806,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/scaling-genai?u=76281980&t=56)** Just the other day, [[ChatGPT]] Vision was announced, opening new use cases it can be applied to.
 >
-> **[1:02](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/scaling-genai?u=76281980&t=62)** You can also connect with me on [[LinkedIn]] and have a look at my website, [aimcgarry.com](https://aimcgarry.com), where I have a free newsletter with the latest gen AI trends that goes out to 500,000 very satisfied C-level business owners and world leaders.
+> **[1:02](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/scaling-genai?u=76281980&t=62)** You can also connect with me on [[LinkedIn]] and have a look at my website, [aimcgarry.com](https://aimcgarry.com), where I have a free newsletter with the latest [[Generative AI|gen AI]] trends that goes out to 500,000 very satisfied C-level business owners and world leaders.
 >
 > **[1:16](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/scaling-genai?u=76281980&t=76)** Now, you're part of the ever-growing community of professionals leveraging AI for organizational success.
 >

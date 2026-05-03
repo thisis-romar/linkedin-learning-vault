@@ -924,7 +924,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/next-steps?u=76281980&t=42)** A proactive approach will allow you to prepare everything even before it's mandatory and required by regulations.
 >
-> **[0:49](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/next-steps?u=76281980&t=49)** You can also continue your learning journey by exploring other [[LinkedIn]] learning courses, such as [[[[Prompt Engineering]]- How to Talk to the AIs]].
+> **[0:49](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/next-steps?u=76281980&t=49)** You can also continue your learning journey by exploring other [[LinkedIn]] learning courses, such as [[Prompt Engineering- How to Talk to the AIs]].
 >
 > **[0:58](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/next-steps?u=76281980&t=58)** If you are looking to earn a professional certificate, you can complete the Career Essentials in Generative AI by [[Microsoft]] and LinkedIn Learning Path.
 >

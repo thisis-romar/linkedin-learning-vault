@@ -7,7 +7,7 @@ course_count: 3
 linkedin_topics:
   - Database Management
   - DevOps
-louvain_cluster: 7
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/database-management

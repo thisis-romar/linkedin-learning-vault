@@ -2167,7 +2167,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=273)** Now, you may be wondering what advantage does this have?
 >
-> **[4:36](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=276)** Well, if you notice my cursor where it's sitting didn't change into a session.
+> **[4:36](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=276)** Well, if you notice my [[Cursor]] where it's sitting didn't change into a session.
 >
 > **[4:42](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=282)** So you remember we ran enter PS session.
 >

@@ -388,7 +388,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=169)** So that is CRISP-DM, one of the most common process descriptions for data mining.
 >
-> **[2:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=176)** If you'd like another take on the organization of a data project, I've described my own personal system, which I called the [[Data Science]] Pathway, in the course [[[[Data Science Foundations]]- Fundamentals]].
+> **[2:56](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=176)** If you'd like another take on the organization of a data project, I've described my own personal system, which I called the [[Data Science]] Pathway, in the course [[Data Science Foundations- Fundamentals]].
 >
 > **[3:07](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/the-crisp-dm-data-mining-model?u=76281980&t=187)** But with either approach, the industry standard CRISP-DM or the Data Science Pathway, you're going to be better able to set up, run, and get actionable insights from your data mining projects.
 

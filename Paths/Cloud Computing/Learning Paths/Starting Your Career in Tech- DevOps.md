@@ -10,7 +10,7 @@ linkedin_topics:
   - Data Science
   - DevOps
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/cloud-computing

@@ -554,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=101)** You can completely skip this process if you want to.
 >
-> **[1:45](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=105)** For instance, if you wanted to reach [[[Google]].com](https://google.com) you could simply enter in the IP address directly, but remembering [google.com](https://google.com) is a whole lot easier than remembering the IP address.
+> **[1:45](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=105)** For instance, if you wanted to reach [google.com](https://google.com) you could simply enter in the IP address directly, but remembering [google.com](https://google.com) is a whole lot easier than remembering the IP address.
 >
 > **[1:58](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=118)** The domain name is broken down into a few parts, the last part of the domain name is called the top-level domain, these are managed by the IANA, or Internet Assigned Numbers Authority, so for my website, www.[dougwinnie.com](https://dougwinnie.com) the .com is the top-level domain.
 >
@@ -665,7 +665,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=111)** Using a ping, you can test to see how long it takes to reach, or ping, the server, and if any of the packets are lost along the way.
 >
-> **[2:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=120)** So, you could ping [[[Google]].com](https://Google.com), and it will send a handful of packets to [Google.com](https://Google.com), resolving the domain to the IP address.
+> **[2:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=120)** So, you could ping [Google.com](https://Google.com), and it will send a handful of packets to [Google.com](https://Google.com), resolving the domain to the IP address.
 >
 > **[2:09](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=129)** It then sends a series of packets, in this case four, each of which are 32 bytes in size.
 >

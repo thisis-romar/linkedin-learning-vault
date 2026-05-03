@@ -2063,9 +2063,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=1)** You've gotten a good look at block patterns and have even created your own library of patterns to use.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=8)** You can always continue to add your own and even submit some to the block patterns directory at [[[WordPress]].org](https://wordpress.org).
+> **[0:08](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=8)** You can always continue to add your own and even submit some to the block patterns directory at [wordpress.org](https://wordpress.org).
 >
-> **[0:16](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=16)** If you want to learn more about the block editor, you can check out our WordPress learning path, become a block developer with the Developing Blocks with Gutenberg course, or even learn all about full-site editing with the Full-Site Editing courses in the [[LinkedIn]] Learning Library.
+> **[0:16](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=16)** If you want to learn more about the block editor, you can check out our [[WordPress]] learning path, become a block developer with the Developing Blocks with Gutenberg course, or even learn all about full-site editing with the Full-Site Editing courses in the [[LinkedIn]] Learning Library.
 >
 > **[0:33](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980&t=33)** Finally, I'd love to hear from you what block patterns you've come up with.
 >

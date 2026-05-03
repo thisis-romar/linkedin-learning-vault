@@ -1552,9 +1552,9 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=0)** - Thanks for taking the time to join me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=3)** Now that you've learned the basics, you can check out the library for my other two [[Arduino]] courses, "[[Learning Arduino- Interfacing with [[Hardware]]]]", where I use Arduino board with more complex devices like seven-segment LED, keypad, and LCD, and "[[Learning Arduino- Interfacing with Analog Devices]]", where I go through different projects using analog inputs and outputs components like LDR, temperature sensors, and separate motors.
+> **[0:03](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=3)** Now that you've learned the basics, you can check out the library for my other two [[Arduino]] courses, "[[Learning Arduino- Interfacing with Hardware]]", where I use Arduino board with more complex devices like seven-segment LED, keypad, and LCD, and "[[Learning Arduino- Interfacing with Analog Devices]]", where I go through different projects using analog inputs and outputs components like LDR, temperature sensors, and separate motors.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=39)** The [[LinkedIn]] Learning library has other Arduino courses like "Pulse Width Modulation" course and "[[Arduino- [[Prototyping]]]]" course.
+> **[0:39](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=39)** The [[LinkedIn]] Learning library has other Arduino courses like "Pulse Width Modulation" course and "[[Arduino- Prototyping]]" course.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=49)** If you like to learn more about the concept or check out other projects, as always, I recommend that you check Arduino website for resources and tutorials.
 >

@@ -120,9 +120,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=9)** First, I assume that you have a fundamental understanding of what machine learning is, specifically unsupervised machine learning.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=19)** If you don't, I recommend that you review my introductory [[LinkedIn]] learning course, [[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]].
+> **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=19)** If you don't, I recommend that you review my introductory [[LinkedIn]] learning course, [[Machine Learning with Python- Foundations]].
 >
-> **[0:28](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=28)** Second, it would be helpful if you have some entry level experience with coding in Python.
+> **[0:28](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=28)** Second, it would be helpful if you have some entry level experience with coding in [[Python (Programming Language)|Python]].
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-you-should-know?u=76281980&t=35)** I will assume that you know how to import a Python package, refer to the attributes of an object and call the methods of an object.
 >
@@ -1714,7 +1714,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=76)** Besides courses that explore other models, I also encourage you to explore LinkedIn Learning courses that highlight the importance of [[Ethics]] in [[Data Collection]] and use.
 >
-> **[1:28](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=88)** An example of such a course is [[[[Data Ethics]]- Watching Out for Data Misuse]].
+> **[1:28](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=88)** An example of such a course is [[Data Ethics- Watching Out for Data Misuse]].
 >
 > **[1:35](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980&t=95)** If you are interested in broadening your skillset into other languages, such as R, then also check out my book, "Practical Machine Learning in R."
 >

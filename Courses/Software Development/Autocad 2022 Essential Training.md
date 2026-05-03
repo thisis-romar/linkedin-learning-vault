@@ -692,7 +692,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=227)** So there's your viewport control there.
 >
-> **[3:49](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=229)** And obviously your cross hairs are what move around your cursor on the screen.
+> **[3:49](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=229)** And obviously your cross hairs are what move around your [[Cursor]] on the screen.
 >
 > **[3:52](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=232)** When you apply and close that you can see there's your view control there.
 >
@@ -4618,7 +4618,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=431)** And now all I've got to do is type in the text itself.
 >
-> **[7:15](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=435)** So you see there's a little flashing cursor there.
+> **[7:15](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=435)** So you see there's a little flashing [[Cursor]] there.
 >
 > **[7:17](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=437)** I'm going to type shelving like so, I press enter once, enter twice and it aligns it with the line based on those two end points that I've clicked on.
 >
@@ -4815,7 +4815,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=221)** Once you've clicked on the snaps, zoom in and just pan to make sure you can see what you're doing and click in the text editing area.
 >
-> **[3:50](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=230)** See the little cursor there?
+> **[3:50](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=230)** See the little [[Cursor]] there?
 >
 > **[3:52](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=232)** Click inside to make sure that AutoCAD knows that you're typing text in that particular box.
 >
@@ -4991,7 +4991,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=152)** If I use this little slider bar and come down to the text area, the last entry is the text override.
 >
-> **[2:40](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=160)** So if I click in that box there, I get a little cursor.
+> **[2:40](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=160)** So if I click in that box there, I get a little [[Cursor]].
 >
 > **[2:43](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=163)** Now, if you look above the text override it gives the actual physical measurement in model space based on my unit settings, which is 9601.2 millimeters.
 >
@@ -5648,7 +5648,7 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=385)** I'm going to zoom out and pan up and we've got here a little kickback area.
 >
-> **[6:29](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=389)** So I'll go multi leader, pick a point, take it to about there and there's our little cursor again.
+> **[6:29](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=389)** So I'll go multi leader, pick a point, take it to about there and there's our little [[Cursor]] again.
 >
 > **[6:35](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=395)** So this will be the staff kickback area and I click away from the text or close the text editor as you can see, it's got a little box around it.
 >
@@ -7264,7 +7264,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=22)** Like that.
 >
-> **[0:23](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=23)** I'll get the little flashing cursor.
+> **[0:23](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=23)** I'll get the little flashing [[Cursor]].
 >
 > **[0:25](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=25)** But if I now go up to the text editor.
 >

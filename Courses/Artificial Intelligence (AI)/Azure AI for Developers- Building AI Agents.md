@@ -1345,7 +1345,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980&t=144)** We can also send images to the agent as long as we are using a multimodal AI model.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980&t=151)** In our case, GPT-4o mini can handle images.
+> **[2:31](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980&t=151)** In our case, [[GPT-4|GPT-4o]] mini can handle images.
 >
 > **[2:39](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-assistant-agent?u=76281980&t=159)** You first display the image to the screen for cosmetic purposes.
 >

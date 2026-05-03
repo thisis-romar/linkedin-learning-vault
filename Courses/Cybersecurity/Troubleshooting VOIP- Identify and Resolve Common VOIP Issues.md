@@ -605,7 +605,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=226)** And then, we'll open it up.
 >
-> **[3:48](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=228)** And there's a lot of information here, but what I want to show you are the buffer alarms at the end here, and I'm just going to place my cursor right there because it has the most buffer alarms.
+> **[3:48](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=228)** And there's a lot of information here, but what I want to show you are the buffer alarms at the end here, and I'm just going to place my [[Cursor]] right there because it has the most buffer alarms.
 >
 > **[4:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980&t=240)** Now, to visualize this, I'm going to right-click and I'll say Apply as filter selected, and it will run a filter based on that one with the largest amount of buffer alarms.
 >

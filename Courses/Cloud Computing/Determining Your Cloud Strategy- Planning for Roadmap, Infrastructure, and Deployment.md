@@ -201,7 +201,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=151)** While evaluating, also consider your [[AI Strategy]].
 >
-> **[2:35](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=155)** My course, [[Building a [[Generative AI]] Tech Strategy]], can help you understand how to integrate your AI strategy with your cloud strategy.
+> **[2:35](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=155)** My course, [[Building a Generative AI Tech Strategy]], can help you understand how to integrate your AI strategy with your cloud strategy.
 >
 > **[2:45](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=165)** Moving to the cloud is a journey, and the decisions that you make today will have long-term implications.
 >
@@ -771,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=10)** [[Cloud Computing]] provides the agility and flexibility needed to navigate this constant change, and creating a robust [[Cloud Strategy]] is the first step to it.
 >
-> **[0:22](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=22)** As next steps, I encourage you to take my [[Building a [[Generative AI]] Tech Strategy]] course on [[LinkedIn]] Learning for coaching on how to build your cloud strategy.
+> **[0:22](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=22)** As next steps, I encourage you to take my [[Building a Generative AI Tech Strategy]] course on [[LinkedIn]] Learning for coaching on how to build your cloud strategy.
 >
 > **[0:32](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=32)** You can always reach out to me on LinkedIn.
 >

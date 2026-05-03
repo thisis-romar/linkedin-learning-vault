@@ -406,7 +406,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=109)** Checking things like your security and sharing permissions are important to make sure there are no invasive applications or integrations.
 >
-> **[1:58](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=118)** Let's take a look at a website you might be using right now to watch this course, and something that you use pretty often, and that is [[[LinkedIn]].com](https://linkedin.com).
+> **[1:58](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=118)** Let's take a look at a website you might be using right now to watch this course, and something that you use pretty often, and that is [linkedin.com](https://linkedin.com).
 >
 > **[2:08](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=128)** If you go to your account settings, you'll be able to see a number of different options for you to choose from.
 >
@@ -414,7 +414,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=143)** One of these sections is called other applications, under which you'll see permitted services.
 >
-> **[2:29](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=149)** These are services that you've authorized and can share and see your LinkedIn data.
+> **[2:29](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=149)** These are services that you've authorized and can share and see your [[LinkedIn]] data.
 >
 > **[2:35](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=155)** When clicked on it, you'll be able to see an entire list of applications and integrations with your LinkedIn profile.
 >
@@ -782,7 +782,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=132)** While this is not a foolproof way to keep attackers out, it does mean that the connection between your browser and the website is encrypted and therefore safe from eavesdropping.
 >
-> **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=142)** Take for example, go on to [[[Google]].com](https://google.com).
+> **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=142)** Take for example, go on to [google.com](https://google.com).
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=145)** If you look at the URL, there is a lock key in the top left corner.
 >

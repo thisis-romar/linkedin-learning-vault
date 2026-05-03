@@ -115,9 +115,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=8)** First, I assume that you have a fundamental understanding of what machine learning is, specifically unsupervised machine learning.
 >
-> **[0:16](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=16)** If you don't, I recommend that you review my introductory [[LinkedIn]] learning course "[[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]]."
+> **[0:16](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=16)** If you don't, I recommend that you review my introductory [[LinkedIn]] learning course "[[Machine Learning with Python- Foundations]]."
 >
-> **[0:24](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=24)** Second, it will be helpful if you have some entry level knowledge coding in Python.
+> **[0:24](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=24)** Second, it will be helpful if you have some entry level knowledge coding in [[Python (Programming Language)|Python]].
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=30)** I will assume that you know how to import a Python package, refer to the attributes of an object, and call the methods of an object.
 >

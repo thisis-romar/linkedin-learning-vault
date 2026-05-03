@@ -503,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=39)** You'll need to use the [[SQL]] syntax specific for each specific DBMS.
 >
-> **[0:47](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=47)** This common interface includes a connection object for holding the credentials and parameters of the database connection, a cursor object for maintaining context in a sequence of query responses, common hooks for committing and rolling back transactions, and a common set of exceptions for catching errors from the DBMS.
+> **[0:47](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=47)** This common interface includes a connection object for holding the credentials and parameters of the database connection, a [[Cursor]] object for maintaining context in a sequence of query responses, common hooks for committing and rolling back transactions, and a common set of exceptions for catching errors from the DBMS.
 >
 > **[1:13](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=73)** Each DBMS has its own implementation, which may include different connection details.
 >
@@ -565,7 +565,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=79)** I call it db.
 >
-> **[1:21](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=81)** Once I'm connected, I can create a cursor object.
+> **[1:21](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=81)** Once I'm connected, I can create a [[Cursor]] object.
 >
 > **[1:24](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=84)** And I do this with the cursor method off the db object.
 >
@@ -686,7 +686,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=89)** So the same piece of code works on all these different platforms.
 >
-> **[1:33](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=93)** We grab a cursor and then we execute some [[SQL]].
+> **[1:33](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=93)** We grab a [[Cursor]] and then we execute some [[SQL]].
 >
 > **[1:37](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=97)** We drop the table if it already exists because this is just temporary table.
 >
@@ -783,7 +783,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=24)** Here, we're using [[MySQL]] and you notice I have MY_HOST, USER and PASSWORD as Constance that makes the connection line a lot cleaner.
 >
-> **[0:34](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=34)** And then you notice that when I create my cursor, I have this option in here prepared=True.
+> **[0:34](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=34)** And then you notice that when I create my [[Cursor]], I have this option in here prepared=True.
 >
 > **[0:43](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=43)** MySQL by default does not provide prepared statements and you always want to use prepared statements.
 >
@@ -898,7 +898,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=87)** Of course, here at the top, I import the SQL Lite three module print a little hello, have to predefine these variables to, as I call it "satisfy the warnings monster" code works without that. It just generates warnings.
 >
-> **[1:44](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=104)** And here we are connecting to the in-memory database system, create a cursor, and I print the [[Microsoft Word|word]] connected.
+> **[1:44](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=104)** And here we are connecting to the in-memory database system, create a [[Cursor]], and I print the [[Microsoft Word|word]] connected.
 >
 > **[1:51](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=111)** Do you notice that all of this is in a tri block and we're using the SQL Lite exception class for the exceptions.
 >
@@ -1002,7 +1002,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=84)** Much of this if you watch the previous movie with [[SQL]] Lite three example, you notice this is much of the same code and we're doing pretty much the same things.
 >
-> **[1:35](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=95)** Notice again, here on line 20, my cursor is being initialized with prepared = True and that's so that we can use prepared statements.
+> **[1:35](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=95)** Notice again, here on line 20, my [[Cursor]] is being initialized with prepared = True and that's so that we can use prepared statements.
 >
 > **[1:44](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=104)** You will always put prepared, equals true when you're using MySQL, you always want prepared statements.
 >
@@ -1118,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=19)** I set up my constants for my [[SQL]] inside of main.
 >
-> **[0:26](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=26)** You notice I define my database and cursor objects outside of the tri blocks. This is just good practice.
+> **[0:26](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=26)** You notice I define my database and [[Cursor]] objects outside of the tri blocks. This is just good practice.
 >
 > **[0:34](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=34)** It works if you do it inside the tri blocks, but [[Python (Programming Language)|Python]] will throw warnings about it.
 >
@@ -1398,7 +1398,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=378)** And so, they specify that it must be turned off by default and I leave it off and I simply do commits when I need them.
 >
-> **[6:26](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=386)** And so, for this SQL do, where we basically take an SQL statement and whatever parameters and then pass those on to the execute on the cursor, I have a no commit version and I have a version that's by default with commit.
+> **[6:26](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=386)** And so, for this SQL do, where we basically take an SQL statement and whatever parameters and then pass those on to the execute on the [[Cursor]], I have a no commit version and I have a version that's by default with commit.
 >
 > **[6:42](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=402)** And this way I can choose which one or I can do my commits manually if I prefer to do that.
 >
@@ -1622,7 +1622,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=127)** I can change the table to a different table and get those rows and I can change it back and just get those rows.
 >
-> **[2:16](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=136)** Drop table if exists and the close of the database handle and the cursor is handled by the destructor in the class.
+> **[2:16](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=136)** Drop table if exists and the close of the database handle and the [[Cursor]] is handled by the destructor in the class.
 >
 > **[2:27](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=147)** So I'll just go ahead and run it this, and you'll see all of these things happening here.
 >
@@ -2049,7 +2049,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=63)** So we're going to do that. We're going to add one.
 >
-> **[1:05](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=65)** I'm going to say the target URL (inhales) let's say it's "[[[Google]].com](https://google.com)" and my short URL is going to be "ggl".
+> **[1:05](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=65)** I'm going to say the target URL (inhales) let's say it's "[google.com](https://google.com)" and my short URL is going to be "ggl".
 >
 > **[1:16](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=76)** And so I'm going to add the record, and there it is, it says, "Record (ggl) added.
 >
@@ -2256,7 +2256,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=391)** So the first time you come in here, it automatically sets the focus.
 >
-> **[6:34](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=394)** It puts the cursor in that field.
+> **[6:34](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=394)** It puts the [[Cursor]] in that field.
 >
 > **[6:36](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=396)** That's really the only thing I'm using any JavaScript for here, everything else is just done in HTML.
 >

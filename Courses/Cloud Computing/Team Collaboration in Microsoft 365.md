@@ -143,7 +143,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=111)** If you do have your Microsoft 365 accounts set up, you should sign into your account to get started.
 >
-> **[1:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=117)** And for that, you can go to [[[Microsoft Office|office]].com](https://office.com) and sign in there or your organization might have a different sign in page that they recommend.
+> **[1:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=117)** And for that, you can go to [office.com](https://office.com) and sign in there or your organization might have a different sign in page that they recommend.
 >
 > **[2:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=125)** I'm going to sign into my account.
 >
@@ -948,7 +948,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=7)** Some people use it as their main work hub and it integrates very well with other [[Microsoft 365]] tools.
 >
-> **[0:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=13)** You can access Teams from the Microsoft 365 webpage or you can go to teams.[[[Microsoft]].com](https://microsoft.com).
+> **[0:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=13)** You can access Teams from the Microsoft 365 webpage or you can go to teams.[microsoft.com](https://microsoft.com).
 >
 > **[0:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=21)** When we go to Teams, there are a few sections over here on the left side.
 >
@@ -1054,7 +1054,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=295)** But don't worry, if you already have a group in SharePoint or Outlook, there is an easy way to make a new team and connect it to that existing group.
 >
-> **[5:03](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=303)** And that's covered in the Microsoft Team's Essential Training course.
+> **[5:03](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=303)** And that's covered in the [[Microsoft]] Team's Essential Training course.
 >
 > **[5:07](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=307)** But we'll stop here because this is just an introduction to Teams.
 >
@@ -2006,7 +2006,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=34)** Now, this works in PowerPoint and Excel, but it has some differences that we'll see in a moment but first, how do you add a comment like this?
 >
-> **[0:41](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=41)** Well, first you'll need to place your cursor somewhere in the document, or you can even select some text where you want to apply the comment, and then you can click the Comments button, up here in the top right, to open this panel, and then you can click the New comment button, or you can go to the Review ribbon and click the New comment button there.
+> **[0:41](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=41)** Well, first you'll need to place your [[Cursor]] somewhere in the document, or you can even select some text where you want to apply the comment, and then you can click the Comments button, up here in the top right, to open this panel, and then you can click the New comment button, or you can go to the Review ribbon and click the New comment button there.
 >
 > **[0:59](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=59)** So I'll click that and type in my comment, then click the Send button, and that comment has been added.
 >

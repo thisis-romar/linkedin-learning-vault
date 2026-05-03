@@ -1179,7 +1179,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/css-essential-training-2023/project-creating-a-css-file?u=76281980&t=112)** The editor will automatically add the right curly bracket.
 >
-> **[1:56](https://www.linkedin.com/learning/css-essential-training-2023/project-creating-a-css-file?u=76281980&t=116)** Enter or return to move the cursor between and onto the next line.
+> **[1:56](https://www.linkedin.com/learning/css-essential-training-2023/project-creating-a-css-file?u=76281980&t=116)** Enter or return to move the [[Cursor]] between and onto the next line.
 >
 > **[2:01](https://www.linkedin.com/learning/css-essential-training-2023/project-creating-a-css-file?u=76281980&t=121)** Most editors will also add a tab space automatically to indent the code for readability.
 >
@@ -1667,7 +1667,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=108)** In CodePen, the right curly bracket will automatically be added.
 >
-> **[1:52](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=112)** Press Enter to move the cursor between the brackets which also automatically adds the indentation.
+> **[1:52](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=112)** Press Enter to move the [[Cursor]] between the brackets which also automatically adds the indentation.
 >
 > **[1:58](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=118)** Then we'll add the color property followed by a colon and any color value.
 >
@@ -4889,7 +4889,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/css-essential-training-2023/project-aligning-elements-with-flexbox?u=76281980&t=172)** This gives it a subtle dynamic effect.
 >
-> **[2:55](https://www.linkedin.com/learning/css-essential-training-2023/project-aligning-elements-with-flexbox?u=76281980&t=175)** Also note that when you hover over the link the cursor changes into a finger pointing cursor.
+> **[2:55](https://www.linkedin.com/learning/css-essential-training-2023/project-aligning-elements-with-flexbox?u=76281980&t=175)** Also note that when you hover over the link the [[Cursor]] changes into a finger pointing cursor.
 >
 > **[3:01](https://www.linkedin.com/learning/css-essential-training-2023/project-aligning-elements-with-flexbox?u=76281980&t=181)** This is to help indicate that you can click on it.
 >
@@ -5276,7 +5276,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=376)** I can also add the column-gap property in here to see how much space to add.
 >
-> **[6:21](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=381)** Just click in any blank area, and a cursor will appear.
+> **[6:21](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=381)** Just click in any blank area, and a [[Cursor]] will appear.
 >
 > **[6:25](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=385)** Add the column-gap property and a colon.
 >

@@ -334,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=80)** Now, we will see how to upload an appointment sheet and paste the optimized prompt into our AI agent.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=88)** We will start by going to [[[ChatGPT]].com](https://Chatgpt.com), so let me go there.
+> **[1:28](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=88)** We will start by going to [Chatgpt.com](https://Chatgpt.com), so let me go there.
 >
 > **[1:33](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=93)** Next, I will upload our wisdom Pet Medicine Appointment sheet.
 >
@@ -572,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=37)** Let's try it out with [[Microsoft Copilot|Copilot]].
 >
-> **[0:40](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=40)** So I will navigate to copilot.[[[Microsoft]].com](https://microsoft.com) and start a new chat.
+> **[0:40](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=40)** So I will navigate to copilot.[microsoft.com](https://microsoft.com) and start a new chat.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=45)** I got my dog's blood results, so I will attach that document.
 >
@@ -804,7 +804,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=353)** Let's take a look on how to do that.
 >
-> **[5:57](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=357)** So let's go to [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com) this time, and let's say that we want a heart warming description of any animal, right?
+> **[5:57](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=357)** So let's go to [[Microsoft Copilot|copilot]].[microsoft.com](https://microsoft.com) this time, and let's say that we want a heart warming description of any animal, right?
 >
 > **[6:07](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=367)** So we type out prompt with a very simple example and even a more simple request.
 >
@@ -866,7 +866,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980&t=69)** This helps keep the pets from licking or biting their freshly trimmed nails.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980&t=74)** Let's go to [[[ChatGPT]].com](https://chatgpt.com).
+> **[1:14](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980&t=74)** Let's go to [chatgpt.com](https://chatgpt.com).
 >
 > **[1:17](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980&t=77)** Here, we will paste our prompt.
 >
@@ -919,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980&t=48)** So, let's provide both of our colleagues reasoning approaches so our AI learns and considers both of them in its thinking process.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980&t=57)** Let's go to [[[ChatGPT]].com](https://chatgpt.com) and we paste our prompt.
+> **[0:57](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980&t=57)** Let's go to [chatgpt.com](https://chatgpt.com) and we paste our prompt.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980&t=62)** Note that we reduce here the pawdicure steps to five, simply to simplify the process in the prompt.
 >
@@ -1202,7 +1202,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=279)** We will consolidate the four step-by-step prompts we just used into a single all in one prompt.
 >
-> **[4:46](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=286)** So, let's go back to copilot.[[[Microsoft]].com](https://microsoft.com).
+> **[4:46](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=286)** So, let's go back to copilot.[microsoft.com](https://microsoft.com).
 >
 > **[4:49](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=289)** First, I will give it an overarching instruction to read the document and to analyze and evaluate the software using the provided steps.
 >
@@ -1526,7 +1526,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=126)** Our goal is to review tomorrow's appointments and generate personalized reminder emails.
 >
-> **[2:13](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=133)** I will go to [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com) and I will click the plus button, or simply drag and drop the file to upload our Wisdom Pets Appointment Information Data .xlsx file, which you can find on the course resources.
+> **[2:13](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=133)** I will go to [[Microsoft Copilot|copilot]].[microsoft.com](https://microsoft.com) and I will click the plus button, or simply drag and drop the file to upload our Wisdom Pets Appointment Information Data .xlsx file, which you can find on the course resources.
 >
 > **[2:30](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=150)** So this way, our AI agent can read tomorrow's appointment data well of at least the day, the appointment's for a one date.
 >

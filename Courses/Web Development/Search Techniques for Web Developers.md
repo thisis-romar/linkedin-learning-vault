@@ -427,7 +427,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=28)** People like you and me, developers who are working with the technologies in real-world projects.
 >
-> **[0:33](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=33)** These resources take many different [[Forms]], from online magazines like Smashing Magazine and A List Apart and CSS-Tricks, to collaboration and knowledge-sharing platforms like Stack Overflow, to application specific websites and user forums like [[[WordPress]].org](https://wordpress.org) and community chats like Gatsby's Discord channel or personal blogs.
+> **[0:33](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=33)** These resources take many different [[Forms]], from online magazines like Smashing Magazine and A List Apart and CSS-Tricks, to collaboration and knowledge-sharing platforms like Stack Overflow, to application specific websites and user forums like [wordpress.org](https://wordpress.org) and community chats like Gatsby's Discord channel or personal blogs.
 >
 > **[0:52](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=52)** If you're looking for hands-on, in-depth tutorials, examples, and case studies of how to achieve a goal or use a specific feature in a real-world application, community resources are usually the best way to go.
 >

@@ -2967,7 +2967,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980&t=8)** - [Instructor] A great way to learn more about the intuition behind [[Neural Networks]] is to play with the playground.[[[TensorFlow]].org](https://tensorflow.org) tool.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980&t=8)** - [Instructor] A great way to learn more about the intuition behind [[Neural Networks]] is to play with the playground.[tensorflow.org](https://tensorflow.org) tool.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980&t=17)** And here we see that we've got a dataset selected that has two distinct classes, and we have a couple features here, and we have some neurons here in one layer.
 >
@@ -6734,7 +6734,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=6)** One of the best ways to understand how to do [[MLOps]] ML engineering on the [[Google Cloud Platform (GCP)|Google Cloud platform]] is to use the official courses that are available on developers.[[[Google]].com](https://google.com).
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=6)** One of the best ways to understand how to do [[MLOps]] ML engineering on the [[Google Cloud Platform (GCP)|Google Cloud platform]] is to use the official courses that are available on developers.[google.com](https://google.com).
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=18)** Here, we have the machine learning course selection from the machine learning which goes through and shows us the foundational courses.
 >
@@ -6760,7 +6760,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=119)** And then the classic Image Classification and then also Fairness in Perspective API.
 >
-> **[2:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=126)** So these are all things that you should be aware of when you're going through and studying for the Google Machine learning Engineering certification.
+> **[2:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=126)** So these are all things that you should be aware of when you're going through and studying for the [[Google]] Machine learning Engineering certification.
 >
 > **[2:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=134)** Another thing that I'll mention in closing here is the Glossary.
 >

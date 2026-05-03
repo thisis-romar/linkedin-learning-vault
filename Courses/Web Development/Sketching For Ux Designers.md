@@ -1831,7 +1831,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980&t=86)** All I do is switch to a thicker line way, and put a few little lines around the finger there just to indicate a press.
 >
-> **[1:34](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980&t=94)** And if you work with desktop applications and want to indicate a click, well, it's exactly the same technique just with this cursor that I've drawn here.
+> **[1:34](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980&t=94)** And if you work with desktop applications and want to indicate a click, well, it's exactly the same technique just with this [[Cursor]] that I've drawn here.
 >
 > **[1:41](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980&t=101)** We put a few simple little lines around like that really simple way to draw attention to that.
 >

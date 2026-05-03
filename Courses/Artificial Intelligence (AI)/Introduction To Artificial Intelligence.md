@@ -561,7 +561,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=123)** The AI system would generate much more information from the chat, but this system would need much more data and processing power.
 >
-> **[2:10](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=130)** This new Gen AI system has the capability to address a wider range of general questions.
+> **[2:10](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=130)** This new [[Generative AI|Gen AI]] system has the capability to address a wider range of general questions.
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=137)** It could answer a question like, "Will today's financial news affect my balance in my account?"
 >
@@ -1171,7 +1171,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=45)** Plus, in the last few years, the cost of computing has gone down.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=49)** This mixture of massive datasets and low cost computing helped create a bunch of new GenAI systems.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=49)** This mixture of massive datasets and low cost computing helped create a bunch of new [[Generative AI|GenAI]] systems.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=57)** In 2022, the company OpenAI released one of the very first public generative AI systems.
 >
@@ -1503,7 +1503,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=156)** Like, you ask it to write a story about you driving in a sports car with Big Bird from the show "Sesame Street".
 >
-> **[2:43](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=163)** The Gen AI system needs to know a lot about birds, cars, roads, and even television to be able to generate that story.
+> **[2:43](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=163)** The [[Generative AI|Gen AI]] system needs to know a lot about birds, cars, roads, and even television to be able to generate that story.
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=171)** Data models are still the core of AI in most organizations.
 >
@@ -2998,7 +2998,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=65)** That means that there's no label to understand the data.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=69)** So gen AI systems need to compare this unlabeled data with data it already knows.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=69)** So [[Generative AI|gen AI]] systems need to compare this unlabeled data with data it already knows.
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=75)** In a sense, it makes guesses about the data based on the contents.
 >
@@ -3119,7 +3119,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=144)** This foundation model gives the AI system a much wider view of the world.
 >
-> **[2:30](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=150)** That's how you can use these GenAI systems to create a marble sculpture of a French fry.
+> **[2:30](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=150)** That's how you can use these [[Generative AI|GenAI]] systems to create a marble sculpture of a French fry.
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=155)** It has the pseudo labels and the data it needs to make an accurate image.
 >
@@ -3180,7 +3180,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=63)** They're just repeating back to you what they've heard.
 >
-> **[1:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=66)** It might sound strange, but this is very similar to how a gen AI large language model works.
+> **[1:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=66)** It might sound strange, but this is very similar to how a [[Generative AI|gen AI]] large language model works.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=73)** These models look through billions of sentences and trillions of words.
 >
@@ -3283,7 +3283,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=109)** Ideally, they should look exactly the same.
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=112)** So why would the Gen AI system go through this terrible process of destroying and then recreating images?
+> **[1:52](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=112)** So why would the [[Generative AI|Gen AI]] system go through this terrible process of destroying and then recreating images?
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=118)** Remember, the generative AI systems create something new.
 >

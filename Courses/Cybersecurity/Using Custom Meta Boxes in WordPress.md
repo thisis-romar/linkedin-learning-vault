@@ -281,7 +281,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=31)** Now that's it, there's no UI or admin menus for us to interact with the plugin, that's all done through code.
 >
-> **[0:39](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=39)** So to test this, we'll grab the examples-functions.[[PHP]] file from the documentation website over at [[[GitHub]].com/CMB2/CMB2/wiki](https://github.com/CMB2/CMB2/wiki).
+> **[0:39](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=39)** So to test this, we'll grab the examples-functions.[[PHP]] file from the documentation website over at [github.com/CMB2/CMB2/wiki](https://github.com/CMB2/CMB2/wiki).
 >
 > **[0:53](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/installing-cmb2-via-the-plugin-directory?u=76281980&t=53)** We'll click on examplefunctions.php then we'll click Raw and we'll copy all of this code.
 >
@@ -708,7 +708,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=224)** For a full list of all of the arguments for this function.
 >
-> **[3:48](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=228)** You can check the documentation at [[[GitHub]].com/cmb2/cmb2/wiki](https://github.com/cmb2/cmb2/wiki).
+> **[3:48](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=228)** You can check the documentation at [github.com/cmb2/cmb2/wiki](https://github.com/cmb2/cmb2/wiki).
 >
 > **[3:55](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/creating-our-meta-boxes?u=76281980&t=235)** Next is priority, and this will determine where on the admin screen our box will show up.
 >

@@ -451,7 +451,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/testing-text-inputs?u=76281980&t=0)** - [Instructor] All right, so at this point, we've written our first test with [[[Cypress.io]]](https://Cypress.io), which checked the text inside a header element.
+> **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/testing-text-inputs?u=76281980&t=0)** - [Instructor] All right, so at this point, we've written our first test with [Cypress.io](https://Cypress.io), which checked the text inside a header element.
 >
 > **[0:08](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/testing-text-inputs?u=76281980&t=8)** Now, this was a great way to get a better feel for the syntax and flow of Cypress tests, and honestly, this might be something that you want to do a lot of the time, right?
 >

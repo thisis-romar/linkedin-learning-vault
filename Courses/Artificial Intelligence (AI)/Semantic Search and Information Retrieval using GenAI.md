@@ -147,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=86)** Finally, for the purpose of this course, we have a sample of customer data and knowledge graph to interpret that data semantically.
 >
-> **[1:36](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=96)** If you want to make your own knowledge graph, check out my other courses on Knowledge Graph for AI Use Cases as well as Knowledge [[Data Engineering]] for Gen AI.
+> **[1:36](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=96)** If you want to make your own knowledge graph, check out my other courses on Knowledge Graph for AI Use Cases as well as Knowledge [[Data Engineering]] for [[Generative AI|Gen AI]].
 >
 > **[1:46](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=106)** So with the logistics covered, let's move on to the use case we will experiment with in this course.
 
@@ -355,7 +355,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=67)** Just remember, good information retrieval means better RAG and better AI in general.
 >
-> **[1:14](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=74)** So information retrieval is incredibly important to GenAI processes.
+> **[1:14](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=74)** So information retrieval is incredibly important to [[Generative AI|GenAI]] processes.
 >
 > **[1:20](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=80)** So let's break down information retrieval.
 >
@@ -462,7 +462,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=103)** Whereas a customer who purchased chili-flavored olive oil, while connected to Jackie and Sam because they all purchased some olive oil, they're not highly related because they would be two hops out from Jackie and Sam.
 >
-> **[1:58](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=118)** While gen AI can also pick up on these relationships, techniques like [[GraphRAG]] can certainly help extract networks of nodes related to each other from unstructured text.
+> **[1:58](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=118)** While [[Generative AI|gen AI]] can also pick up on these relationships, techniques like [[GraphRAG]] can certainly help extract networks of nodes related to each other from unstructured text.
 >
 > **[2:08](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=128)** Business and use case context is missing because you miss out on the context of why the nodes are related.
 >

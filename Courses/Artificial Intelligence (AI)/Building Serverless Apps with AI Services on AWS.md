@@ -384,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=9)** Let's do that in this video.
 >
-> **[0:11](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=11)** To understand a bit better why generative AI or GenAI is so powerful, you need to understand the two types of ML models that are out there.
+> **[0:11](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=11)** To understand a bit better why generative AI or [[Generative AI|GenAI]] is so powerful, you need to understand the two types of ML models that are out there.
 >
 > **[0:20](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=20)** Deterministic models and probabilistic models.
 >
@@ -459,7 +459,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-bedrock?u=76281980&t=6)** But what is Bedrock?
 >
-> **[0:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-bedrock?u=76281980&t=8)** Bedrock is a fully-managed service that offers a selection of high-performing foundational models along with a broad set of capabilities to build gen AI applications.
+> **[0:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-bedrock?u=76281980&t=8)** Bedrock is a fully-managed service that offers a selection of high-performing foundational models along with a broad set of capabilities to build [[Generative AI|gen AI]] applications.
 >
 > **[0:18](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-bedrock?u=76281980&t=18)** Let's go into that definition and break it out into parts.
 >
@@ -494,7 +494,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=0)** - [Instructor] Up to now, you learned what AI and Gen AI are, their use cases, and what AWS offers you to build those AI applications.
+> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=0)** - [Instructor] Up to now, you learned what AI and [[Generative AI|Gen AI]] are, their use cases, and what AWS offers you to build those AI applications.
 >
 > **[0:10](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=10)** But if you are taking this course, most probably you're a developer or an architect, not a data scientist, or maybe not an expert in ML.
 >
@@ -2257,7 +2257,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=61)** So the first thing we want to do is to create the prompt.
 >
-> **[1:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=65)** So we need to create the prompt that we are going to give the Gen AI model.
+> **[1:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=65)** So we need to create the prompt that we are going to give the [[Generative AI|Gen AI]] model.
 >
 > **[1:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=72)** Then we want to combine the prompt with the translated text.
 >

@@ -1976,7 +1976,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=5)** There's an AI revolution going on right now in computing.
 >
-> **[0:08](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=8)** Gen AI and [[Large Language Models (LLM)|large language models]] are being applied to nearly everything.
+> **[0:08](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=8)** [[Generative AI|Gen AI]] and [[Large Language Models (LLM)|large language models]] are being applied to nearly everything.
 >
 > **[0:13](https://www.linkedin.com/learning/it-service-management-foundations-change-management/ai-and-change-management-add?u=76281980&t=13)** How does AI apply to the world of change management?
 >

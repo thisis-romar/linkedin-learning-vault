@@ -890,7 +890,7 @@ created: 2026-05-02
 >
 > **[8:36](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/insert-symbols-bullet-points-stars-and-francois?u=76281980&t=516)** That's the Capricorn, right, yes.
 >
-> **[8:39](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/insert-symbols-bullet-points-stars-and-francois?u=76281980&t=519)** Now, the thing to notice, we click here, with my cursor on the Virgo symbol, you look in the formula bar and see that there is still a lowercase e there, whereas if you go to this capital A with a circumflex, that's an a with a circumflex in the formula bar.
+> **[8:39](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/insert-symbols-bullet-points-stars-and-francois?u=76281980&t=519)** Now, the thing to notice, we click here, with my [[Cursor]] on the Virgo symbol, you look in the formula bar and see that there is still a lowercase e there, whereas if you go to this capital A with a circumflex, that's an a with a circumflex in the formula bar.
 >
 > **[9:05](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/insert-symbols-bullet-points-stars-and-francois?u=76281980&t=545)** If we go to the cent sign, it is a cent sign and not something else that's relying on the format of the font.
 >
@@ -1475,7 +1475,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980&t=139)** Now I can change the header to make sure that when anybody looks at this data, they know that this is in thousands.
 >
-> **[2:31](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980&t=151)** And notice, we still have the full value, with my cursor in C2, we have the abbreviated thousands version of this value but in the formula bar, we still have the 442.
+> **[2:31](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980&t=151)** And notice, we still have the full value, with my [[Cursor]] in C2, we have the abbreviated thousands version of this value but in the formula bar, we still have the 442.
 >
 > **[2:46](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980&t=166)** So if we do any math, check it out, we want tourists divided by employees equals number divided by employees, Enter.
 >
@@ -1543,7 +1543,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=96)** Here we go.
 >
-> **[1:38](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=98)** Cursor in the dataset and the data is in a table.
+> **[1:38](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=98)** [[Cursor]] in the dataset and the data is in a table.
 >
 > **[1:43](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=103)** Right click, Get Data From Selection.
 >
@@ -2105,7 +2105,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980&t=20)** The first thing we're going to do is put this data into a table to ensure that any new data has the conditional formatting follow along with it.
 >
-> **[0:33](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980&t=33)** With the cursor in the data set, I'm in home tab, format as table.
+> **[0:33](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980&t=33)** With the [[Cursor]] in the data set, I'm in home tab, format as table.
 >
 > **[0:38](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980&t=38)** And let's grab this one.
 >
@@ -3196,7 +3196,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=70)** It's cleaner.
 >
-> **[1:11](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=71)** Okay, now notice with the cursor inside this data set or inside this table, up top we have a table design tab.
+> **[1:11](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=71)** Okay, now notice with the [[Cursor]] inside this data set or inside this table, up top we have a table design tab.
 >
 > **[1:22](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=82)** I'm going to click away from the table data over here.
 >
@@ -3272,7 +3272,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-slicers?u=76281980&t=5)** You should be using them, all right?
 >
-> **[0:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-slicers?u=76281980&t=8)** My cursor is in the data set.
+> **[0:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-slicers?u=76281980&t=8)** My [[Cursor]] is in the data set.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-slicers?u=76281980&t=10)** I have to first put this data into a table.
 >

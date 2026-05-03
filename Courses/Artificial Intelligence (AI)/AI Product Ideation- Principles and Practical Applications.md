@@ -1301,7 +1301,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=305)** AI is the big umbrella term that covers all 13 families of solutions.
 >
-> **[5:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=311)** While GenAI is just one of those families, I also present the standard AI does predictions, while GenAI focuses on generating things like text, pictures, and sounds.
+> **[5:11](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=311)** While [[Generative AI|GenAI]] is just one of those families, I also present the standard AI does predictions, while GenAI focuses on generating things like text, pictures, and sounds.
 >
 > **[5:26](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-you-should-know-before-ideating?u=76281980&t=326)** Make sure you prepare your participants for the workshop.
 >

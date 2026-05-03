@@ -126,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=12)** We begin by discussing the need for this protocol in this video.
 >
-> **[0:17](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=17)** Let's briefly review the typical setup of a GenAI system or application.
+> **[0:17](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=17)** Let's briefly review the typical setup of a [[Generative AI|GenAI]] system or application.
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=23)** The system is provided with inputs by a user or a client system, mostly in the form of text, data, or other formats.
 >
@@ -205,7 +205,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=25)** The MCP Host is the application that wants to access resources, tools, and prompts using MCP.
 >
-> **[0:34](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=34)** This is typically the gen AI application that does orchestration across resources.
+> **[0:34](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=34)** This is typically the [[Generative AI|gen AI]] application that does orchestration across resources.
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=40)** This application is usually an executable service itself.
 >
@@ -290,7 +290,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=4)** It can be resources, tools, and prompt templates.
 >
-> **[0:09](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=9)** MCP is built as a general purpose interface for any kind of data and these three are the most popular ones used in the Gen AI world.
+> **[0:09](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=9)** MCP is built as a general purpose interface for any kind of data and these three are the most popular ones used in the [[Generative AI|Gen AI]] world.
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=20)** Let's first discuss resources.
 >
@@ -502,7 +502,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=17)** There are prebuilt MCP servers available that are ready to be deployed and used.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=25)** Several data and services providers are building out MCP servers for their offerings, so they can be instantly integrated into Gen AI workflows.
+> **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=25)** Several data and services providers are building out MCP servers for their offerings, so they can be instantly integrated into [[Generative AI|Gen AI]] workflows.
 >
 > **[0:36](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=36)** In addition, other third parties are also building open-source MCP servers for popular databases and [[Cloud Services]].
 >
@@ -1692,7 +1692,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980&t=54)** Here, the agent is built as an A2A server agent, and is deployed with a known URI.
 >
-> **[1:01](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980&t=61)** The URI is well-known, similar to [[[Google]].com](https://google.com), or it is an internal AA agent whose URI is published inside the organization.
+> **[1:01](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980&t=61)** The URI is well-known, similar to [google.com](https://google.com), or it is an internal AA agent whose URI is published inside the organization.
 >
 > **[1:11](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980&t=71)** The agent will host its own Agent Card.
 >

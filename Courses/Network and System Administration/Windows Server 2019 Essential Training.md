@@ -574,7 +574,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=345)** It's not in the first list so I need to move on, to the second list where you'll find IP Address Management IPAM Server, when you check the box, you'll see that not only do you get administration tools but there are several prerequisites that are being added as well.
 >
-> **[6:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=363)** The .NET Framework and [[[ASP.NET]]](https://ASP.NET) versions 4.7 components are required in addition to access to the DNS server tools.
+> **[6:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=363)** The .NET Framework and [ASP.NET](https://ASP.NET) versions 4.7 components are required in addition to access to the DNS server tools.
 >
 > **[6:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=375)** As a general rule I accept all of the prerequisites and tools that are offered to me when I install a role or a feature, but I do take time to scroll through them and see what they are.
 >

@@ -2070,13 +2070,13 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=194)** If they are the same, then we know that there has been no modification of the data in transit.
 >
-> **[3:22](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=202)** Now, I'll take you out to [[[NIST]].gov](https://nist.gov) which will tell you a little bit about some of the hash algorithms and what is considered approved algorithms today.
+> **[3:22](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=202)** Now, I'll take you out to [nist.gov](https://nist.gov) which will tell you a little bit about some of the hash algorithms and what is considered approved algorithms today.
 >
 > **[3:32](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=212)** Now, as you can see that we have SHA-1 and SHA-2, but there's also a lot more research going on into SHA-3, which as you can see permutation based functions based on Keccak.
 >
 > **[3:46](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=226)** So there's another family of algorithms called SHA-3 which you'll most likely be seeing more of.
 >
-> **[3:53](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=233)** In addition, you will find a lot of information on NIST and here's a little bit of blockchain technology and finding out about blockchain technology and the use of hash algorithms.
+> **[3:53](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=233)** In addition, you will find a lot of information on [[NIST]] and here's a little bit of blockchain technology and finding out about blockchain technology and the use of hash algorithms.
 >
 > **[4:05](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/diving-into-hash-algorithms?u=76281980&t=245)** So NIST provides a lot of information about cryptographic techniques.
 >
@@ -2146,7 +2146,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980&t=167)** Now, let's take a look how it looks if you were to go in a browser.
 >
-> **[2:52](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980&t=172)** I'm in Mozilla at [[[Google]].com](https://google.com).
+> **[2:52](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980&t=172)** I'm in Mozilla at [google.com](https://google.com).
 >
 > **[2:56](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/public-key-infrastructure?u=76281980&t=176)** I can see the HTTPS, which represents [google.com](https://google.com) and a secure connection.
 >

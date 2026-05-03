@@ -422,7 +422,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=28)** I'm just going to put mine right here after the viewport tag and it starts with meta shockingly, after that, we're going to say HTTP-equiv equals refresh.
 >
-> **[0:43](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=43)** And then we're going to say something like, the content here equals a number, I'm going to say five followed by a semi colon inside of that quote there, URL equals here I'm going to put an http@www.[[[Google]].com](https://google.com).
+> **[0:43](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=43)** And then we're going to say something like, the content here equals a number, I'm going to say five followed by a semi colon inside of that quote there, URL equals here I'm going to put an http@www.[google.com](https://google.com).
 >
 > **[1:05](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=65)** Then we're going to close our double quotes and close our tag.
 >
@@ -434,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=79)** The refresh indicates that we're going to redirect this web page and then content equals obviously we've put in a couple of parameters here.
 >
-> **[1:29](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=89)** We've put in a single number, followed by a semi colon and then this URL thing and so this is indicating that we're going to take five seconds on this page, and then we're going to redirect to in this case, Google.
+> **[1:29](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=89)** We've put in a single number, followed by a semi colon and then this URL thing and so this is indicating that we're going to take five seconds on this page, and then we're going to redirect to in this case, [[Google]].
 >
 > **[1:44](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=104)** Occasionally you'll see some text, which is probably a pretty smart thing to do, right now our webpage is completely blank and so, people will have no idea what's going on.
 >
@@ -1654,7 +1654,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=34)** Basically, it's a base tag, and then it could be followed by an href.
 >
-> **[0:40](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=40)** And I could say something like https www.[[[LinkedIn]].com](https://linkedin.com).
+> **[0:40](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=40)** And I could say something like https www.[linkedin.com](https://linkedin.com).
 >
 > **[0:48](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=48)** And what this would say this particular version of the tag, would indicate that all of the links in this document, should start with www.[linkedin.com](https://linkedin.com).
 >
@@ -1674,7 +1674,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=114)** I knew those go to [genkramer.org](https://genkramer.org).
 >
-> **[1:56](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=116)** But they could have gone to LinkedIn if I had been hosting here.
+> **[1:56](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=116)** But they could have gone to [[LinkedIn]] if I had been hosting here.
 >
 > **[2:00](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=120)** And I should continue to spell them out, even if I am making use of the base tag because Open Graph doesn't acknowledge the base.
 >

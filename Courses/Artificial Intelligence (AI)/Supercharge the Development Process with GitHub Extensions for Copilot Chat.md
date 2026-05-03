@@ -348,7 +348,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=198)** Immersive mode allows you to switch to a different model.
 >
-> **[3:21](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=201)** By default, you'll see that I'm using GPT-4o, but I can use one of the brand-new [[ChatGPT]] models, like o1-preview or o1-mini.
+> **[3:21](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=201)** By default, you'll see that I'm using [[GPT-4|GPT-4o]], but I can use one of the brand-new [[ChatGPT]] models, like o1-preview or o1-mini.
 >
 > **[3:31](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=211)** Those are considered the absolute best right now, especially when it comes to questions about coding.
 >

@@ -1057,7 +1057,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=2)** If you would like to learn more about some of the topics raised in this course, there are many resources available for you via the [[LinkedIn]] Library of Courses as well as [[IT Service Management]] Forums in your local area.
 >
-> **[0:16](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=16)** I also post articles on better service management processes from time to time on my blog, SystemCenterNoise.[[[WordPress]].com](https://Wordpress.com).
+> **[0:16](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=16)** I also post articles on better service management processes from time to time on my blog, SystemCenterNoise.[Wordpress.com](https://Wordpress.com).
 >
 > **[0:26](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=26)** I also post [[Microsoft]] System Center notes from the field and ways to improve delivery of services to end customers.
 >

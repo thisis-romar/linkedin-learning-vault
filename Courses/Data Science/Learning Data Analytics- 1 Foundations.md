@@ -2620,7 +2620,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980&t=247)** Okay, I'll go ahead and click on A1.
 >
-> **[4:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980&t=250)** I also want to bold my header so for this, I'll use a shortcut, I'm going to do shift control and right arrow that will go all the way from where my cursor was placed in A1 to the end of the data which it sees in this scenario as G1.
+> **[4:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980&t=250)** I also want to bold my header so for this, I'll use a shortcut, I'm going to do shift control and right arrow that will go all the way from where my [[Cursor]] was placed in A1 to the end of the data which it sees in this scenario as G1.
 >
 > **[4:25](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980&t=265)** And then I'll bold these headers, I'll do control B.
 >

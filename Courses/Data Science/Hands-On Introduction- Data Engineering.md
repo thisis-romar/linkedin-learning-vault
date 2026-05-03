@@ -487,7 +487,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=170)** As mentioned, there are many ETL tools available today both open source and proprietary which can be used to build data pipelines.
 >
-> **[2:59](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=179)** Some of the popular ETL tools include Apache NiFi, [[Apache Airflow]], Talend, and [[Microsoft]] [[[[Microsoft SQL Server|SQL Server]] Integration Services]].
+> **[2:59](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=179)** Some of the popular ETL tools include Apache NiFi, [[Apache Airflow]], Talend, and [[Microsoft]] [[SQL Server Integration Services]].
 >
 > **[3:09](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/extract-transform-load-etl?u=76281980&t=189)** For these reasons, I perceive the real power of ETL to be in the structure of thinking.
 >

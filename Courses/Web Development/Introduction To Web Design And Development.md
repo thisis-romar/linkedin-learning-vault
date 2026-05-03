@@ -2103,7 +2103,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=1)** - A domain name is the address for your website.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=4)** For example, www.[[[LinkedIn]].com](https://linkedin.com) is the address for LinkedIn.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=4)** For example, www.[linkedin.com](https://linkedin.com) is the address for [[LinkedIn]].
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/registering-a-domain-name?u=76281980&t=10)** Domain names are often inexpensive and it's easy to purchase one or several for your website to go with your web hosting.
 >

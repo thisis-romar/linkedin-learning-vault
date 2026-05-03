@@ -182,13 +182,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=91)** First thing you need to do is you need to enter an email address.
 >
-> **[1:34](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=94)** So I'm going to go ahead and put in landonhotel and some random numbers here that I have, @[[[Microsoft Outlook|outlook]].com](https://outlook.com).
+> **[1:34](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=94)** So I'm going to go ahead and put in landonhotel and some random numbers here that I have, @[outlook.com](https://outlook.com).
 >
 > **[1:44](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=104)** I just created this email address just for this course.
 >
 > **[1:48](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=108)** And you also may want to go ahead and do this, where you go ahead and create like a free email address somewhere.
 >
-> **[1:55](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=115)** You know, you can do it anywhere, Outlook or Gmail or whatever.
+> **[1:55](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=115)** You know, you can do it anywhere, [[Microsoft Outlook|Outlook]] or Gmail or whatever.
 >
 > **[1:57](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=117)** And the reason why is 'cause this email address needs to not be tied to any other Microsoft or Office 365 product.
 >
@@ -1458,7 +1458,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=130)** So we can see this is a site for Hub site one, and in the upper left you'll see that I can add a link.
 >
-> **[2:17](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=137)** So I'm going to click on that, and in the link here I'm going to go ahead and I'm going to put in LandonHotel483.[[[SharePoint]].com/sites](https://sharepoint.com/sites)/.
+> **[2:17](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=137)** So I'm going to click on that, and in the link here I'm going to go ahead and I'm going to put in LandonHotel483.[sharepoint.com/sites](https://sharepoint.com/sites)/.
 >
 > **[2:32](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=152)** Now everything up to this point, you'll notice it's the same as what we have up in the URL for our, for any of our sites, but now we have to give a name for this other site.
 >
@@ -1478,7 +1478,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=191)** And you'll notice that I now have a link up at the top that says sub site one but sub site one doesn't actually exist.
 >
-> **[3:19](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=199)** So let's go back to the SharePoint admin center, and let's create it.
+> **[3:19](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=199)** So let's go back to the [[SharePoint]] admin center, and let's create it.
 >
 > **[3:27](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=207)** I'm going to click on create, and we're going to do sub site one.
 >

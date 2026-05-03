@@ -236,7 +236,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980&t=6)** Now let's start to look at how AI can assist us with the creative process and even augment it.
 >
-> **[0:12](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980&t=12)** We'll start off defining various areas it can help us in, and then in the subsequent videos dive deeper into how we might apply this using currently available AI and gen AI tools.
+> **[0:12](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980&t=12)** We'll start off defining various areas it can help us in, and then in the subsequent videos dive deeper into how we might apply this using currently available AI and [[Generative AI|gen AI]] tools.
 >
 > **[0:24](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980&t=24)** So we're going to put this all into a framework we'll now refer to as fines.
 >
@@ -544,7 +544,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=159)** If we think about nurturing and refining creative visuals, [[Adobe Photoshop]] has some wonderful use cases to dramatically speed up the process of enhancing images.
 >
-> **[2:49](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=169)** We can use Gen AI and neural filters to enhance work and extend the capabilities of what's possible.
+> **[2:49](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=169)** We can use [[Generative AI|Gen AI]] and neural filters to enhance work and extend the capabilities of what's possible.
 >
 > **[2:57](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=177)** This can be achieved by extending photos using Gen AI image content, referred to as outpainting, change or modify regions of our image, referred to as inpainting, and then using neural filters to repair, colorize black and white imagery, replace skies, and even refine skin, and last, upscale photos to double or even four times their size.
 >
@@ -701,7 +701,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=0)** - Sharing and collaborating are at the forefront of many creative works, and when you look at the design of several text-to-GenAI-image services, you can't help but notice the community built around learning and sharing with others.
+> **[0:00](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=0)** - Sharing and collaborating are at the forefront of many creative works, and when you look at the design of several text-to-[[Generative AI|GenAI]]-image services, you can't help but notice the community built around learning and sharing with others.
 >
 > **[0:12](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=12)** Let's take a look at a few examples in both text-to-image apps and LLMs.
 >
@@ -778,7 +778,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980&t=83)** Another thing to look at is relying too heavily on AI leads to just good enough, and a lack of original content, a lack of great work.
 >
-> **[1:34](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980&t=94)** And if you're like me, you've come across a flood of generated AI content in your feed from LLMs writing generic content, to seeing gen AI pictures over and over and over again.
+> **[1:34](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980&t=94)** And if you're like me, you've come across a flood of generated AI content in your feed from LLMs writing generic content, to seeing [[Generative AI|gen AI]] pictures over and over and over again.
 >
 > **[1:49](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980&t=109)** Now, going back to AI's speed.
 >

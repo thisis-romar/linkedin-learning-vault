@@ -225,7 +225,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=1)** - [Instructor] You can have multiple [[Pivot Tables]] on the same sheet.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=4)** Just like before, we'll place our cursor inside the dataset, change to the Insert tab and click PivotTable.
+> **[0:04](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=4)** Just like before, we'll place our [[Cursor]] inside the dataset, change to the Insert tab and click PivotTable.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=14)** This time, instead of selecting New Worksheet, I'm going to choose Existing Worksheet.
 >

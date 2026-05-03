@@ -1975,7 +1975,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980&t=118)** I'm going to press up to get to my previous command.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980&t=122)** Then I'm going to put my cursor behind the image name ubuntu.
+> **[2:02](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980&t=122)** Then I'm going to put my [[Cursor]] behind the image name ubuntu.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-docker-17236240/saving-data-from-containers?u=76281980&t=128)** Here I'm going to provide -v.
 >

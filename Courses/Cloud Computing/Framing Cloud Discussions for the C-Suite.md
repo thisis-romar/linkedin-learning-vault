@@ -519,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980&t=45)** Yeah, I know it's basic, but it is a way of explaining the cloud to someone who isn't tech savvy.
 >
-> **[0:52](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980&t=52)** More than likely, the people you need to talk to about the cloud in your company, including the company [[[[Executive Leadership]]]], have a higher understanding about the cloud than this.
+> **[0:52](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980&t=52)** More than likely, the people you need to talk to about the cloud in your company, including the company [[Executive Leadership]], have a higher understanding about the cloud than this.
 >
 > **[1:01](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980&t=61)** But you can't guarantee that.
 >
@@ -842,7 +842,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=35)** Metrics and measurements are important to nearly all company leaders in all industries, in all fields of study.
 >
-> **[0:42](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=42)** It is nearly impossible to convince any company's [[[[Executive Leadership]]]] of the value to an investment without being able to prove the value using data.
+> **[0:42](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=42)** It is nearly impossible to convince any company's [[Executive Leadership]] of the value to an investment without being able to prove the value using data.
 >
 > **[0:53](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=53)** Certainly, Explore California's leadership team is no different.
 >
@@ -1089,7 +1089,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=0)** - [Instructor] Your efforts have paid off.
 >
-> **[0:02](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=2)** You've now convinced Dustin, Jerome, Tracy, Sven, and the entire [[[[Executive Leadership]]]] team that moving the Explore California suite of applications to the cloud is a cost-effective project.
+> **[0:02](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=2)** You've now convinced Dustin, Jerome, Tracy, Sven, and the entire [[Executive Leadership]] team that moving the Explore California suite of applications to the cloud is a cost-effective project.
 >
 > **[0:15](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=15)** You've talked to the team about dynamic infrastructures.
 >

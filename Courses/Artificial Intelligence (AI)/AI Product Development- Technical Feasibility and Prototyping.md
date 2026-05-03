@@ -1220,7 +1220,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=104)** This means that you should engage people who are experienced in the particular technology you want to use in your project.
 >
-> **[1:52](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=112)** At the feasibility stage, you can engage generalists, but for the project, plan for the field, utilize experts like time series experts, voice GenAI experts, recommendation engine experts, and so forth.
+> **[1:52](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=112)** At the feasibility stage, you can engage generalists, but for the project, plan for the field, utilize experts like time series experts, voice [[Generative AI|GenAI]] experts, recommendation engine experts, and so forth.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=129)** And now, pro tip from my projects.
 >
@@ -1933,7 +1933,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=70)** Check these connections now and then, because there are more and more of them, and they make our life so much easier.
 >
-> **[1:18](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=78)** The fifth one is AI tools-based prototype, where you use GenAI to design the prototype for you.
+> **[1:18](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=78)** The fifth one is AI tools-based prototype, where you use [[Generative AI|GenAI]] to design the prototype for you.
 >
 > **[1:27](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=87)** It requires some practice to design the whole product experience just by GenAI, but for some mockups, it is more than enough.
 >
@@ -1943,7 +1943,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=107)** You input a prompt and the system generates a design for you.
 >
-> **[1:52](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=112)** There are general LLM-based tools that can help you out, like Claude, and also specialized AI-based tools that are great for designing websites, interfaces, and mockups like Bolt, Lovable, Cursor or VZERO.
+> **[1:52](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=112)** There are general LLM-based tools that can help you out, like Claude, and also specialized AI-based tools that are great for designing websites, interfaces, and mockups like Bolt, Lovable, [[Cursor]] or VZERO.
 >
 > **[2:11](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=131)** My pro tip for such tools is to join some Reddit and Discord UI designers groups that share prompts for designing interfaces.
 >

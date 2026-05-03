@@ -86,7 +86,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980&t=0)** - [Lynn] Are you wondering how to build [[Google Gemini]]-based GenAI applications using your enterprise data?
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980&t=0)** - [Lynn] Are you wondering how to build [[Google Gemini]]-based [[Generative AI|GenAI]] applications using your enterprise data?
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980&t=7)** With [[Google Cloud Platform (GCP)|Google Cloud]]'s [[Vertex]] AI suite of tools, you will accelerate time to value as you create and iterate on [[Gemini]]-based AI applications.
 >
@@ -116,7 +116,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=0)** - [Instructor] When you get ready to start building gen AI applications with your own enterprise data, how do you do that?
+> **[0:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=0)** - [Instructor] When you get ready to start building [[Generative AI|gen AI]] applications with your own enterprise data, how do you do that?
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980&t=6)** Well, hopefully, you've watched my previous course, which is focused on understanding the capabilities of [[Gemini]], and it uses the [[Google]] AI Studio, which you can see is mentioned here in the API documentation.
 >
@@ -324,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=100)** And I have to authenticate here.
 >
-> **[1:43](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=103)** So it's pip installing Google Gen AI.
+> **[1:43](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=103)** So it's pip installing Google [[Generative AI|Gen AI]].
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-colab-enterprise-with-the-gemini-api?u=76281980&t=106)** And then I'm going to use the library.
 >
@@ -493,7 +493,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=133)** So the thinking around this again, is this whole idea of how to talk to the models is new for most people.
 >
-> **[2:21](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=141)** And so this is actually using GenAI to optimize the prompt for GenAI.
+> **[2:21](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=141)** And so this is actually using [[Generative AI|GenAI]] to optimize the prompt for GenAI.
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980&t=147)** It's kind of meta, it's something that a lot of my customers are finding useful.
 >
@@ -709,7 +709,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=121)** So judge model is more scalable.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=123)** The Gen AI evaluation service uses a configured [[Gemini]] 2.0 flash model by default as a judge model.
+> **[2:03](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=123)** The [[Generative AI|Gen AI]] evaluation service uses a configured [[Gemini]] 2.0 flash model by default as a judge model.
 >
 > **[2:09](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-evaluate-prompts?u=76281980&t=129)** But you can customize that and here it talks about how to prepare.
 >
@@ -1290,7 +1290,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=58)** So inside of this, what are these?
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=60)** So AI Applications allow us to tap into the power of Google's foundational models, so [[Gemini]], search expertise and [[Conversational AI]] technologies to create enterprise-grade GenAI applications.
+> **[1:00](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=60)** So AI Applications allow us to tap into the power of Google's foundational models, so [[Gemini]], search expertise and [[Conversational AI]] technologies to create enterprise-grade [[Generative AI|GenAI]] applications.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980&t=73)** So it's a set of tools that allow us to combine in an agentic fashion all these different capabilities to create sophisticated applications which integrate Gemini and the associated model family.
 >
@@ -1668,7 +1668,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=37)** In addition, there are a couple of exciting announcements that there will be more functionality and more courseware coming from me later this year.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=45)** The first one is the Agent2Agent protocol, which makes agentic GenAI [[Application Development]] even more fast, basically.
+> **[0:45](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=45)** The first one is the Agent2Agent protocol, which makes agentic [[Generative AI|GenAI]] [[Application Development]] even more fast, basically.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980&t=55)** So this was launched as of this recording just a couple weeks ago, and you can see that it is a set of tools and libraries that help for agentic AI app development.
 >

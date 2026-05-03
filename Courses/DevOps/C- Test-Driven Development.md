@@ -159,7 +159,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=99)** You will still be able to follow along, but of course it's beneficial if you have already had some exposure to Entity Framework Core.
 >
-> **[1:49](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=109)** Also, we will be talking about testing web applications, so knowledge of [[[ASP.NET]]](https://ASP.NET) Core, especially [API.NET](https://API.NET) Core MVC is beneficial.
+> **[1:49](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=109)** Also, we will be talking about testing web applications, so knowledge of [ASP.NET](https://ASP.NET) Core, especially [API.NET](https://API.NET) Core MVC is beneficial.
 >
 > **[2:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=120)** Having seen web APIs is helpful too.
 >
@@ -612,7 +612,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/creating-a-test?u=76281980&t=248)** And I set a few properties, the article ID, let's say 42 and a quantity, five.
 >
-> **[4:15](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/creating-a-test?u=76281980&t=255)** And you see a lot of red squiggly lines because that clause doesn't exist yet, but I make sure the cursor is here, control dot.
+> **[4:15](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/creating-a-test?u=76281980&t=255)** And you see a lot of red squiggly lines because that clause doesn't exist yet, but I make sure the [[Cursor]] is here, control dot.
 >
 > **[4:22](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/creating-a-test?u=76281980&t=262)** And then I generate the AddToCartItem clause, and I get a preview here as well.
 >
@@ -1360,7 +1360,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980&t=14)** Because this time I would like to display a few articles, and then of course I need a name and maybe also a price.
 >
-> **[0:21](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980&t=21)** Then I've set up a new [[[ASP.NET]]](https://asp.net) core application.
+> **[0:21](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980&t=21)** Then I've set up a new [asp.net](https://asp.net) core application.
 >
 > **[0:26](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980&t=26)** And I would like to start MVC style.
 >
@@ -1482,7 +1482,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980&t=236)** And then once we run it, after a short while we'll see that everything is green again.
 >
-> **[4:03](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980&t=243)** And that's the basic approach, how you can test [[[ASP.NET]]](https://ASP.NET) Core applications when they're using MVC.
+> **[4:03](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980&t=243)** And that's the basic approach, how you can test [ASP.NET](https://ASP.NET) Core applications when they're using MVC.
 >
 > **[4:10](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980&t=250)** You access the controllers, you instantiate the controllers, and then you run the action methods.
 >

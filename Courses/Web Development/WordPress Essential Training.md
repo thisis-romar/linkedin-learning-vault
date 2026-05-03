@@ -1661,7 +1661,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-posts?u=76281980&t=48)** This way you can find the posts that you want much more quickly.
 >
-> **[0:52](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-posts?u=76281980&t=52)** When you hover your mouse or cursor over a post, you have a few options.
+> **[0:52](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-posts?u=76281980&t=52)** When you hover your mouse or [[Cursor]] over a post, you have a few options.
 >
 > **[0:56](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-posts?u=76281980&t=56)** Clicking on edit will bring you to the edit screen that we worked on in the last video.
 >

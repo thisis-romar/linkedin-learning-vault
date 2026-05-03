@@ -2957,7 +2957,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=29)** When you're done, commit and push the changes.
 >
-> **[0:32](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=32)** After that, open [[[GitHub]].com](https://github.com) and create a pull request.
+> **[0:32](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=32)** After that, open [github.com](https://github.com) and create a pull request.
 >
 > **[0:37](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=37)** Do a final review of the code and merge it into the main branch.
 >

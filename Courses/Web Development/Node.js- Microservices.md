@@ -146,7 +146,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=0)** - This course is not for beginners.
 >
-> **[0:02](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=2)** If you're new to Express, start with my courses "[[Building a Website with [[Node.js]] and [[Express.js]]]]," and "Advanced Express," which you can find in the [[LinkedIn]] library.
+> **[0:02](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=2)** If you're new to Express, start with my courses "[[Building a Website with Node.js and Express.js]]," and "Advanced Express," which you can find in the [[LinkedIn]] library.
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=11)** These courses will provide you with all the fundamentals you need.
 >
@@ -156,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=30)** Plus, understanding promises and async await is important.
 >
-> **[0:36](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=36)** When it comes to Node.js, you should know how to install modules using [[npm]] and how to start an application.
+> **[0:36](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=36)** When it comes to [[Node.js]], you should know how to install modules using [[npm]] and how to start an application.
 >
 > **[0:42](https://www.linkedin.com/learning/node-js-microservices-22685072/what-you-should-know?u=76281980&t=42)** You also need a good handle on Express and how HTTP works.
 >

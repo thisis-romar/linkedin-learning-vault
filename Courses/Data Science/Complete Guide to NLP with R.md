@@ -389,7 +389,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=249)** And then line 23 says, just give me the top 10.
 >
-> **[4:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=254)** I'm going to put my cursor in line 13.
+> **[4:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=254)** I'm going to put my [[Cursor]] in line 13.
 >
 > **[4:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=257)** I'll click on run and we give it a minute and our returns with a top poetry terms, and you'll see that that's appeared in the top-right-hand corner in the environment.
 >

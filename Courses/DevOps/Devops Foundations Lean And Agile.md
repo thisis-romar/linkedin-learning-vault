@@ -142,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=22)** How can you plan and execute them effectively?
 >
-> **[0:25](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=25)** - [[[[Agile Software Development]]]] is a way to manage the work of a group of professionals in an iterative and incremental way until it reaches its goal of creating working technology solutions.
+> **[0:25](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=25)** - [[Agile Software Development]] is a way to manage the work of a group of professionals in an iterative and incremental way until it reaches its goal of creating working technology solutions.
 >
 > **[0:37](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980&t=37)** - The name [[Agile Development|Agile]] comes from the manifesto for [[Agile Software Development]].
 >
@@ -2830,9 +2830,9 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=157)** It's like having a safety net for innovation.
 >
-> **[2:40](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=160)** Now, let's talk about gen AI and the workflow.
+> **[2:40](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=160)** Now, let's talk about [[Generative AI|gen AI]] and the workflow.
 >
-> **[2:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=164)** You may have already seen AI being used in development to help create and understand code inside code editors using tools like [[GitHub Copilot]], [[Gemini]] Code Assist, or Cursor.
+> **[2:44](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=164)** You may have already seen AI being used in development to help create and understand code inside code editors using tools like [[GitHub Copilot]], [[Gemini]] Code Assist, or [[Cursor]].
 >
 > **[2:55](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/advanced-topics?u=76281980&t=175)** But what about the [[Representational State Transfer (REST)|rest]] of the [[Software Development]] lifecycle?
 >

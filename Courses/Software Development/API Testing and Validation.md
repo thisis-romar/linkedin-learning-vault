@@ -1000,9 +1000,9 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=89)** This is where we're going to put our credential in just a moment.
 >
-> **[1:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=93)** Now we need to go over to [[[GitHub]].com](https://github.com) to get that credential.
+> **[1:33](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=93)** Now we need to go over to [github.com](https://github.com) to get that credential.
 >
-> **[1:36](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=96)** When you visit GitHub, I've included the link to go to in your behat.dist.yml file.
+> **[1:36](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=96)** When you visit [[GitHub]], I've included the link to go to in your behat.dist.yml file.
 >
 > **[1:42](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980&t=102)** But if you want to navigate it to it directly, you can go to your Profile, Settings, all the way down on the left-hand side, Developer Settings, Personal Access Token, Fine-grained [[Tokens]].
 >
@@ -1816,7 +1816,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=177)** Then we want to provide a sample URL.
 >
-> **[2:58](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=178)** So we'll say [http://[[LinkedIn]].com](http://linkedin.com).
+> **[2:58](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=178)** So we'll say [http://linkedin.com](http://linkedin.com).
 >
 > **[3:07](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980&t=187)** We need one parameter of true.
 >

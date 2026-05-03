@@ -475,7 +475,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=43)** So let's get started.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=44)** The first thing you want to do to get directly into GCP, if you go into the URL box and you just type in [console.cloud](https://console.cloud).[[[Google]].com](https://google.com), it's going to take you into GCP.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=44)** The first thing you want to do to get directly into GCP, if you go into the URL box and you just type in [console.cloud](https://console.cloud).[google.com](https://google.com), it's going to take you into GCP.
 >
 > **[0:57](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=57)** Now, from here, you may see you already have a project, like what we're seeing on my screen, but let's just say you don't, I'm going to show you how to create one.
 >
@@ -549,7 +549,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=249)** And then this last one is optional.
 >
-> **[4:11](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=251)** This is more about your security keys and we'll just leave it at Google Manage.
+> **[4:11](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=251)** This is more about your security keys and we'll just leave it at [[Google]] Manage.
 >
 > **[4:14](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-migrating-data-in-cloud-storage?u=76281980&t=254)** So all that being said, we're going to click create.
 >
@@ -1947,7 +1947,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=67)** I'm just going to go ahead and jump right into it.
 >
-> **[1:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=69)** I'm just going to go to datastudio.[[[Google]].com](https://google.com).
+> **[1:09](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=69)** I'm just going to go to datastudio.[google.com](https://google.com).
 >
 > **[1:12](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=72)** And from here, what we'll do, let's just take a little example report.
 >
@@ -1963,7 +1963,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=111)** And when I click on it, you could see all of these different connectors you can use to bring data into this report.
 >
-> **[1:59](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=119)** Anything from YouTube, to BigQuery, Google Sheets, you name it, you can take your own file if it's a CSV file and upload it in here as well.
+> **[1:59](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=119)** Anything from YouTube, to BigQuery, [[Google]] Sheets, you name it, you can take your own file if it's a CSV file and upload it in here as well.
 >
 > **[2:10](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/demo-creating-an-interactive-report-in-data-studio?u=76281980&t=130)** So to give you an example, what we're going to do here is, let's just say for the United States, I'm going to click on this and I want to change the style of what this looks like, right?
 >

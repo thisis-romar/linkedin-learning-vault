@@ -178,7 +178,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=0)** - [Instructor] If you took my course, [[From [[React.js|React]] to [[React Native]]]], the project we'll use in this course to test and debug will look familiar, as it's the same app.
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=0)** - [Instructor] If you took my course, [[From React to React Native]], the project we'll use in this course to test and debug will look familiar, as it's the same app.
 >
 > **[0:09](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=9)** If you don't have access to the exercise files and didn't take the other course, no worries.
 >
@@ -220,7 +220,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=110)** So the source folder is where you have all the files.
 >
-> **[1:53](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=113)** So you have the regular index, which is a React application, and then you have the index.tss.
+> **[1:53](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=113)** So you have the regular index, which is a [[React.js|React]] application, and then you have the index.tss.
 >
 > **[1:59](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=119)** So in the data folder you're going to have a [[JSON]] file, which will have all the data that we're going to need to run this application, and we're going to have a static file as opposed to persist with a server or database.
 >

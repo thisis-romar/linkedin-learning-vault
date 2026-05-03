@@ -409,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=12)** Microsoft Azure started off as an internal project, code name project Red Dog, with a very limited number of services formed around a couple of pillars.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=22)** They included compute, networking, and storage services, [[[Microsoft]].net](https://microsoft.net) for developers, live services for file sharing, Microsoft [[SQL]] for [[Databases]], and [[SharePoint]] services for CRM services.
+> **[0:22](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=22)** They included compute, networking, and storage services, [microsoft.net](https://microsoft.net) for developers, live services for file sharing, [[Microsoft]] [[SQL]] for [[Databases]], and [[SharePoint]] services for CRM services.
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/microsoft-azure-hybrid-cloud?u=76281980&t=38)** [[Microsoft Azure|Azure]] started off as a niche developer community platform, and was not enterprise friendly.
 >

@@ -1919,7 +1919,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=71)** Each number is lined with a particular number associated with it.
 >
-> **[1:17](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=77)** So of course right now what you see is just a number 1 with the blinking cursor.
+> **[1:17](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=77)** So of course right now what you see is just a number 1 with the blinking [[Cursor]].
 >
 > **[1:23](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/another-toy-dataset?u=76281980&t=83)** Above that, you have a series of different icons.
 >

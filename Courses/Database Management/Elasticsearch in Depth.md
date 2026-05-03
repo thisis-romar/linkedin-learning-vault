@@ -526,7 +526,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=154)** This allows us to do multi-line queries fairly easily.
 >
-> **[2:42](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=162)** If we remove the format equals text, we could see that the result is returned as JSON, and also, importantly, it has a cursor, which would allow us to retrieve larger result sets and page through them.
+> **[2:42](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=162)** If we remove the format equals text, we could see that the result is returned as JSON, and also, importantly, it has a [[Cursor]], which would allow us to retrieve larger result sets and page through them.
 >
 > **[3:00](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=180)** The endpoint has a translate feature.
 >

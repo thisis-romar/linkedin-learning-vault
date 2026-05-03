@@ -1290,7 +1290,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980&t=90)** Now this is going to open up the reading order panel in my document and this is a key element that allows me to tag content in my document.
 >
-> **[1:40](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980&t=100)** The way that this works is I'm going to use my cursor and I'm going to click and drag around an object that I want to tag.
+> **[1:40](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980&t=100)** The way that this works is I'm going to use my [[Cursor]] and I'm going to click and drag around an object that I want to tag.
 >
 > **[1:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980&t=108)** And you'll notice when I let go, that object has been selected.
 >
@@ -1463,7 +1463,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=75)** I just need to tag it as something else first, and then I can rename it.
 >
-> **[1:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=80)** Now, what I'm going to do is using my cursor, I am going to click and drag to select only the bulleted item in each entry.
+> **[1:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=80)** Now, what I'm going to do is using my [[Cursor]], I am going to click and drag to select only the bulleted item in each entry.
 >
 > **[1:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=89)** And you'll notice using my cursor, I have to get pretty big with my marquee, right?
 >
@@ -1739,7 +1739,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links?u=76281980&t=244)** So this is going to help with users of assistive technology, but even for sighted users, if they use the hand tool in Acrobat, they can click on this link.
 >
-> **[4:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links?u=76281980&t=257)** You can see my cursor changes to a pointer, and when I click on that, it takes me to the page that that entry is linked to.
+> **[4:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links?u=76281980&t=257)** You can see my [[Cursor]] changes to a pointer, and when I click on that, it takes me to the page that that entry is linked to.
 >
 > **[4:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links?u=76281980&t=265)** It could be a bit of work, but creating links for your table of contents entry creates a better [[User Experience (UX)|user experience]] and provides an easy means for users of assistive technology to efficiently navigate and read content in a document.
 
@@ -2469,7 +2469,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980&t=46)** And the first thing we need to do is we need to tag that number.
 >
-> **[0:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980&t=51)** So using my cursor, I'm going to click and drag so that I only have that number selected.
+> **[0:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980&t=51)** So using my [[Cursor]], I'm going to click and drag so that I only have that number selected.
 >
 > **[0:58](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980&t=58)** And over here in my Reading Order panel, I can click on the Reference button, or I can just tap the letter Q on my keyboard to automatically tag that number as a reference.
 >
@@ -3202,7 +3202,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980&t=132)** So it gets a little bit confusing here, but this is actually the tool that we can use to tag content in our document.
 >
-> **[2:19](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980&t=139)** So with this reading order panel open, using my cursor, I'm going to click and drag to marquee around the logo up here at the top of the document.
+> **[2:19](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980&t=139)** So with this reading order panel open, using my [[Cursor]], I'm going to click and drag to marquee around the logo up here at the top of the document.
 >
 > **[2:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980&t=151)** And a little bit of advice here, when you're selecting objects using this tool, go bigger than you think you need to, right?
 >
@@ -3681,7 +3681,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980&t=202)** And so to properly tag this list, I'm going to tag each one of those components individually.
 >
-> **[3:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980&t=209)** So using my cursor, I'm going to marquee around the bullet character.
+> **[3:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980&t=209)** So using my [[Cursor]], I'm going to marquee around the bullet character.
 >
 > **[3:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980&t=213)** And again, you might need to go a little bit bigger than you think you will have to go.
 >
@@ -3803,7 +3803,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=74)** And with that panel open, I can use this to start tagging my content.
 >
-> **[1:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=80)** Now, what I'm going to do here, is I'm going to use my cursor and I'm going to marquee around the text area of the content that I want to tag.
+> **[1:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=80)** Now, what I'm going to do here, is I'm going to use my [[Cursor]] and I'm going to marquee around the text area of the content that I want to tag.
 >
 > **[1:30](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=90)** So in this case, it's section one introduction, and then of course the number three at the end.
 >
@@ -3952,7 +3952,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=58)** And over here in my navigation pane on the right, I'm going to right click and I'm going to choose destinations, and that's going to open up my destination's pane.
 >
-> **[1:11](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=71)** Now what I'm going to do is with my cursor, I'm going to highlight this text that says Section 1: Introduction.
+> **[1:11](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=71)** Now what I'm going to do is with my [[Cursor]], I'm going to highlight this text that says Section 1: Introduction.
 >
 > **[1:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=77)** And then at the top of the destination's pane, I'm going to click on the create new destination button.
 >
@@ -4153,7 +4153,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980&t=95)** I'm going to choose prepare for accessibility, and then I'm going to click on fixed reading order.
 >
-> **[1:40](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980&t=100)** And using my cursor, you can select various areas of this table.
+> **[1:40](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980&t=100)** And using my [[Cursor]], you can select various areas of this table.
 >
 > **[1:46](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980&t=106)** Now, one of the things you'll notice if I marque this entire table right here, there is a button in the reading order panel called Table, and if you click that button, it's going to seem as if it tagged that table correctly.
 >
@@ -6358,7 +6358,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980&t=59)** And you and I are going to recreate that table of contents from scratch.
 >
-> **[1:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980&t=66)** So the way that we do that is you basically position your cursor where you want the table of contents to appear.
+> **[1:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980&t=66)** So the way that we do that is you basically position your [[Cursor]] where you want the table of contents to appear.
 >
 > **[1:12](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980&t=72)** And if you come up here to the References menu, you're going to notice right here is a button for your Table of Contents.
 >
@@ -6570,7 +6570,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980&t=53)** So I'm going to click insert footnote.
 >
-> **[0:56](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980&t=56)** And what it does is it creates a footnote reference where my cursor was, but then it also creates an area at the bottom of the page where I can type my text.
+> **[0:56](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980&t=56)** And what it does is it creates a footnote reference where my [[Cursor]] was, but then it also creates an area at the bottom of the page where I can type my text.
 >
 > **[1:09](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980&t=69)** Now I'm chilling a little bit as I'm copying this text from another location, but you can feel free to pause the video and type this out on your own as well.
 >
@@ -8639,7 +8639,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980&t=198)** And the reason I'm getting a red dot here is because it's fictitious and it can't get there.
 >
-> **[3:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980&t=205)** If I were to come in here and change this to say, [[[LinkedIn]].com](https://LinkedIn.com).
+> **[3:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980&t=205)** If I were to come in here and change this to say, [LinkedIn.com](https://LinkedIn.com).
 >
 > **[3:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980&t=213)** Now you'll notice I have a green button because it can actually get to that link.
 >
@@ -8712,7 +8712,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980&t=83)** So I'm going to undo all of that.
 >
-> **[1:26](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980&t=86)** And the right way to approach this is with your cursor inside of this paragraph.
+> **[1:26](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980&t=86)** And the right way to approach this is with your [[Cursor]] inside of this paragraph.
 >
 > **[1:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980&t=93)** We're going to make sure that we're in our paragraph formatting over here, and I'm going to click on the bulleted list button up here in the control panel.
 >
@@ -8928,7 +8928,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-an-indesign-table-of-contents?u=76281980&t=24)** I'm starting this video with the 06_13 document open, and I'm going to go ahead and navigate to page two where I have deleted the table of contents for the benefit of being able to show you how to build one.
 >
-> **[0:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-an-indesign-table-of-contents?u=76281980&t=37)** Now, what I'm going to do is I'm going to simply place my cursor.
+> **[0:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-an-indesign-table-of-contents?u=76281980&t=37)** Now, what I'm going to do is I'm going to simply place my [[Cursor]].
 >
 > **[0:41](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-an-indesign-table-of-contents?u=76281980&t=41)** I should point out that I've already created a text frame on page two that links to page three.
 >
@@ -9433,7 +9433,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=108)** And now I'm going to [[Zoom]] in a little bit so we can see this a little bit better.
 >
-> **[1:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=111)** And I'm going to put my cursor after the [[Microsoft Word|word]] conditions.
+> **[1:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=111)** And I'm going to put my [[Cursor]] after the [[Microsoft Word|word]] conditions.
 >
 > **[1:55](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=115)** And now to insert the footnote, I'm going to go to the type menu and I'm going to choose insert footnote.
 >
@@ -9634,7 +9634,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/including-an-index-with-indesign?u=76281980&t=214)** Now I'm going to go ahead and click the OK button.
 >
-> **[3:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/including-an-index-with-indesign?u=76281980&t=217)** And I'm going to get a loaded cursor, very similar to my table of contents.
+> **[3:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/including-an-index-with-indesign?u=76281980&t=217)** And I'm going to get a loaded [[Cursor]], very similar to my table of contents.
 >
 > **[3:41](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/including-an-index-with-indesign?u=76281980&t=221)** And if I click in this frame, it is going to generate the index for my book based on the references that I created inside of this document.
 >

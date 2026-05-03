@@ -89,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=1)** My name is Tom Green, and welcome to Using [[Stark (Accessibility Software)|Stark]] for [[Accessible Design]].
 >
-> **[0:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=6)** In what seems like the blink of an eye, Stark has become a de facto standard when it comes to [[Accessibility for [[Web Design]]]].
+> **[0:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=6)** In what seems like the blink of an eye, Stark has become a de facto standard when it comes to [[Accessibility for Web Design]].
 >
 > **[0:13](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=13)** For those of you familiar with Stark's tools for [[Figma (Software)|Figma]], Sketch, [[Adobe XD]], and other applications, the Stark web tools are pretty well the same.
 >
@@ -1397,13 +1397,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=6)** Well, there's a lot you can learn about accessibility here at [[LinkedIn]] Learning.
 >
-> **[0:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=12)** Let's start with a course I did, [[Accessibility and Inclusion with [[Figma (Software)|Figma]]]], and what it has is just a complete rundown on how to use the [[Stark (Accessibility Software)|Stark]] plugins for Figma.
+> **[0:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=12)** Let's start with a course I did, [[Accessibility and Inclusion with Figma]], and what it has is just a complete rundown on how to use the [[Stark (Accessibility Software)|Stark]] plugins for [[Figma (Software)|Figma]].
 >
-> **[0:25](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=25)** If you want to learn about [[Accessibility for [[Web Design]]]], then Derek Featherstone, who I regard as one of the world experts on the subject of accessibility, has a great course here at LinkedIn Learning, [[Accessibility for Web Design]].
+> **[0:25](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=25)** If you want to learn about [[Accessibility for Web Design]], then Derek Featherstone, who I regard as one of the world experts on the subject of accessibility, has a great course here at LinkedIn Learning, [[Accessibility for Web Design]].
 >
 > **[0:40](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=40)** It is complete.
 >
-> **[0:42](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=42)** And a lot of the topics I covered in this course are gone into in great depth, and by the end of it, you really should have an idea of how accessibility is so important when it comes to web design.
+> **[0:42](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=42)** And a lot of the topics I covered in this course are gone into in great depth, and by the end of it, you really should have an idea of how accessibility is so important when it comes to [[Web Design]].
 >
 > **[0:55](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=55)** Derek has another course, this course by Derek UX Foundation's Accessibility is just a tremendous, tremendous overview of the whole process of working with accessibility in UX, and I think it will be a great course for you to sort of poke around and understand exactly how accessibility is applied in UX design.
 >

@@ -2119,7 +2119,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=0)** - [Narrator] Why should we mention generative [[Artificial Intelligence (AI)|artificial intelligence]], or GenAI, in a course on [[Software Development]] lifecycle?
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=0)** - [Narrator] Why should we mention generative [[Artificial Intelligence (AI)|artificial intelligence]], or [[Generative AI|GenAI]], in a course on [[Software Development]] lifecycle?
 >
 > **[0:09](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=9)** It's because [[Generative AI]] is now an inseparable part of our personal and professional life.
 >

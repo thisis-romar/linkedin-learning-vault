@@ -1795,7 +1795,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=0)** - [Terezija] I hope you enjoyed the course and now have a solid foundation in [[Calculus]] so you can continue your machine learning journey.
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=8)** A good next step would be to look in our library for my [[Machine Learning Foundations- [[Linear Algebra]]]] course and other machine learning courses.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=8)** A good next step would be to look in our library for my [[Machine Learning Foundations- Linear Algebra]] course and other machine learning courses.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980&t=18)** I want to wrap up by saying thank you.
 >

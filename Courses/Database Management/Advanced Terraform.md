@@ -454,7 +454,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=24)** If you don't already have a [[Google Cloud Platform (GCP)|Google Cloud]] account, your first step is to create one.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=28)** Go to cloud.[[[Google]].com](https://google.com) and create a new account.
+> **[0:28](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=28)** Go to cloud.[google.com](https://google.com) and create a new account.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-terraform-18720794/google-cloud-and-terraform-tools-and-setup?u=76281980&t=31)** You will be asked to use a credit card to open the account.
 >

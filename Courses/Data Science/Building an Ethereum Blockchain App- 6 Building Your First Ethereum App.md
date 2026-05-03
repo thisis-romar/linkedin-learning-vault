@@ -612,7 +612,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=262)** All right, so how do we fix this?
 >
-> **[4:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=264)** Let's go to our web browser and navigate to [https://[[GitHub]].com/[[Ethereum]]/solc-bin/tree/gh-pages/bin](https://github.com/ethereum/solc-bin/tree/gh-pages/bin).
+> **[4:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=264)** Let's go to our web browser and navigate to [https://github.com/ethereum/solc-bin/tree/gh-pages/bin](https://github.com/ethereum/solc-bin/tree/gh-pages/bin).
 >
 > **[4:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=283)** Wow.
 >
@@ -620,7 +620,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=287)** All right, so basically this is the list of all the Solidity compiler versions.
 >
-> **[4:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=294)** Okay, so now we're on GitHub, and you see this really long list of compilers.
+> **[4:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=294)** Okay, so now we're on [[GitHub]], and you see this really long list of compilers.
 >
 > **[4:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=298)** What do we want?
 >
@@ -660,7 +660,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=390)** We only have one right now.
 >
-> **[6:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=392)** Notice this is the Ethereum Solidity language plugin or extension by Juan Blanco.
+> **[6:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=392)** Notice this is the [[Ethereum]] Solidity language plugin or extension by Juan Blanco.
 >
 > **[6:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/compiling-your-simple-smart-contract?u=76281980&t=399)** And there's a little gear here for managing your settings.
 >

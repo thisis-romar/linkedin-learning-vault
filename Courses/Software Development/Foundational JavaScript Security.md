@@ -993,7 +993,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980&t=12)** Without going everything we did in that video, this is the main point we were looking for.
 >
-> **[0:18](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980&t=18)** Whenever you need the latest and greatest information about security threats, your best resource is [[[OWASP]].org](https://OWASP.org).
+> **[0:18](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980&t=18)** Whenever you need the latest and greatest information about security threats, your best resource is [OWASP.org](https://OWASP.org).
 >
 > **[0:27](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980&t=27)** That's [O-W-A-S-P.org](https://O-W-A-S-P.org) where they have a list of the top 10 threats, list more information on the issue, and even have code snippets on how to resolve it.
 

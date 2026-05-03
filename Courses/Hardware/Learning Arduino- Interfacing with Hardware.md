@@ -125,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=28)** You can check out the Learning Arduino course in the library to get you prepared for this course if needed.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=34)** I'll cover the wiring needed for this course, but if you'd like a refresher on [[Hardware]] components throughout this course, I would recommend referring to the [[[[Electronics]] Foundations- Fundamentals]].
+> **[0:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=34)** I'll cover the wiring needed for this course, but if you'd like a refresher on [[Hardware]] components throughout this course, I would recommend referring to the [[Electronics Foundations- Fundamentals]].
 >
 > **[0:45](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=45)** During this course, I'll cover some [[Programming Concepts]] like for loops, if statements, and arrays.
 >
@@ -457,7 +457,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=156)** The way we number them is a zero for the first row and one for the second row, and the numbers for the column goes from zero to 15.
 >
-> **[2:46](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=166)** So if you want to show a sentence and you want to start from the first row then you need to set the cursor to be in a position zero, zero.
+> **[2:46](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=166)** So if you want to show a sentence and you want to start from the first row then you need to set the [[Cursor]] to be in a position zero, zero.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=175)** The same thing if you wanna show it in the second row then the set cursor to be in a zero, one.
 >
@@ -2163,7 +2163,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=129)** We're using the same tab, so we do not change anything in here.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=132)** And then, I set the cursor to start from the first line as you can see that in line 39.
+> **[2:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=132)** And then, I set the [[Cursor]] to start from the first line as you can see that in line 39.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=138)** Line 40 is that I have a simple sentence saying that enter the keypad number and then line 41, I sent the cursor to go to the 2nd row in order to show the numbers.
 >

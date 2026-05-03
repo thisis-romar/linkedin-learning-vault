@@ -298,7 +298,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=184)** And the LLM would answer two plus two equals four.
 >
-> **[3:07](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=187)** So large language models while being Gen AI models work in fairly simple ways.
+> **[3:07](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=187)** So large language models while being [[Generative AI|Gen AI]] models work in fairly simple ways.
 >
 > **[3:12](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/what-are-large-language-models-llms?u=76281980&t=192)** Now, how do we train these models and where do we get the data?
 >
@@ -370,7 +370,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=16)** In other words, it's a way of giving instructions.
 >
-> **[0:19](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=19)** So that's head back to [[[ChatGPT]].com](https://ChatGPT.com).
+> **[0:19](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=19)** So that's head back to [ChatGPT.com](https://ChatGPT.com).
 >
 > **[0:21](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=21)** Last time we asked GPT about the climate in Toronto and San Francisco.
 >
@@ -392,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=42)** Alright, that's a pretty funny one.
 >
-> **[0:44](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=44)** Now what I can do is I can use ChatGPT to rephrase this joke.
+> **[0:44](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=44)** Now what I can do is I can use [[ChatGPT]] to rephrase this joke.
 >
 > **[0:47](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980&t=47)** So clicking on this refresh icon and hitting try again.
 >
@@ -1782,7 +1782,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=84)** We'll go to the top right.
 >
-> **[1:26](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=86)** We see here we have GPT-4o mini.
+> **[1:26](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=86)** We see here we have [[GPT-4|GPT-4o]] mini.
 >
 > **[1:29](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/building-a-no-code-chatbot?u=76281980&t=89)** If you go through the models, you have many to choose from, but we'll stick with GPT-4o.
 >

@@ -2323,7 +2323,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=26)** It was mostly for convenience sake.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=29)** There's no row order until the order by mutilates are set and turns it into a cursor.
+> **[0:29](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=29)** There's no row order until the order by mutilates are set and turns it into a [[Cursor]].
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/the-cursors-curse?u=76281980&t=36)** So any discussion of row order before that isn't even relevant.
 >

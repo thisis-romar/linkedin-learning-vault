@@ -1004,7 +1004,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=74)** There happens to be some great resources on [[LinkedIn]] Learning, so you don't have to go far.
 >
-> **[1:19](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=79)** I also have some projects I've personally worked on with reinforcement learning at khaulat.[[[GitHub]].io](https://github.io).
+> **[1:19](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=79)** I also have some projects I've personally worked on with reinforcement learning at khaulat.[github.io](https://github.io).
 >
 > **[1:28](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=88)** If you have any questions during your learning journey, you can always ask in the question and answer section.
 >

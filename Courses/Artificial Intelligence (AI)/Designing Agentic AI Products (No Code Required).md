@@ -653,7 +653,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-customer-experience-applications?u=76281980&t=9)** Everything the agent AI does is to analyze, get results, reason, and present output, and iterate to arrive at the desired optimization.
 >
-> **[0:20](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-customer-experience-applications?u=76281980&t=20)** The fastest growing use case for GenAI is customer experience with intelligent chatbots, but this involves human interaction to make decisions when the chatbot makes mistakes or when customer gives feedback that can be applied to enhance their experience.
+> **[0:20](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-customer-experience-applications?u=76281980&t=20)** The fastest growing use case for [[Generative AI|GenAI]] is customer experience with intelligent chatbots, but this involves human interaction to make decisions when the chatbot makes mistakes or when customer gives feedback that can be applied to enhance their experience.
 >
 > **[0:36](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-customer-experience-applications?u=76281980&t=36)** How can an agent AI break down this task to enhance customer experience?
 >
@@ -1345,7 +1345,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=52)** The core of [Agent.ai](https://Agent.ai) is LLM, and LLM costs, token costs, for compute, [[Fine Tuning]], and for running inference in production.
 >
-> **[1:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=63)** Refer to my No Code Gen [[AI for Business]] Professionals course on [[LinkedIn]] Learning to understand token costs of running LLMs.
+> **[1:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=63)** Refer to my No Code [[Generative AI|Gen AI]] for Business Professionals course on [[LinkedIn]] Learning to understand token costs of running LLMs.
 >
 > **[1:13](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=73)** The final piece is to understand the many API costs for the tools needed.
 >
@@ -1366,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-hallucinations-and-agents?u=76281980&t=0)** - [Instructor] Do you remember what AI hallucination is?
 >
-> **[0:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-hallucinations-and-agents?u=76281980&t=3)** It is the strange behavior of GenAI to give an answer that is completely made up with total confidence.
+> **[0:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-hallucinations-and-agents?u=76281980&t=3)** It is the strange behavior of [[Generative AI|GenAI]] to give an answer that is completely made up with total confidence.
 >
 > **[0:12](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-hallucinations-and-agents?u=76281980&t=12)** For example, if your customer asks in a chatbot support system, "What is the warranty cost for a 10-year warranty?"
 >
@@ -1602,7 +1602,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=19)** I'm happy to help you continue your learning journey.
 >
-> **[0:23](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=23)** Follow me on [[LinkedIn]] at my student community, Business School of AI, where I share lots of learning resources and invite you to my monthly live stream where I will answer your questions to make Gen AI work for you in your job and career.
+> **[0:23](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=23)** Follow me on [[LinkedIn]] at my student community, Business School of AI, where I share lots of learning resources and invite you to my monthly live stream where I will answer your questions to make [[Generative AI|Gen AI]] work for you in your job and career.
 >
 > **[0:41](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=41)** Join #weeklywed, a global speaker series for my student panels every Wednesday at bit.lee/weeklywebregistration.
 >

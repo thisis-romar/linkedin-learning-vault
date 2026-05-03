@@ -764,7 +764,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=220)** Now the next piece is to ensure that it's writing it into markdown.
 >
-> **[3:43](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=223)** And the reason we're doing that is so we can then paste it into a Cursor or whatever IDE you're using to do their coding.
+> **[3:43](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=223)** And the reason we're doing that is so we can then paste it into a [[Cursor]] or whatever IDE you're using to do their coding.
 >
 > **[3:50](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=230)** And you can also allow the AI to add to this markdown and mark off different check boxes as it progresses.
 >
@@ -945,7 +945,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980&t=16)** But, the tools that I recommend for this process that I just walked you through are these three.
 >
-> **[0:21](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980&t=21)** So we have Cursor, we have Windsurf, and we have Aider.
+> **[0:21](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980&t=21)** So we have [[Cursor]], we have Windsurf, and we have Aider.
 >
 > **[0:25](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980&t=25)** Now, the reason I'm recommending these three is they give you the most control over the code and how the AI is writing that code.
 >

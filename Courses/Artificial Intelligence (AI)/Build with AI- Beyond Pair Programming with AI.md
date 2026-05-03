@@ -120,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=9)** It's more of a, here's how I think you can do things with AI coding tools, and I invite you to try these techniques to see if they work for you, type course.
 >
-> **[0:18](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=18)** Now, throughout the course, I'll be demoing [[GitHub Copilot]], [[ChatGPT]], Cursor, and Claude.
+> **[0:18](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=18)** Now, throughout the course, I'll be demoing [[GitHub Copilot]], [[ChatGPT]], [[Cursor]], and Claude.
 >
 > **[0:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=24)** And if you want to follow along in every demo, you need accounts for all these services.
 >
@@ -261,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=104)** This can be useful and can also be really frustrating.
 >
-> **[1:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=108)** In particular, when you use tools like ChatGPT that are configured to be chatty, and this is why specialized coding tools like [[GitHub Copilot]] and Cursor exist, to separate concerns between the chatty natural language part and the code-producing part.
+> **[1:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=108)** In particular, when you use tools like ChatGPT that are configured to be chatty, and this is why specialized coding tools like [[GitHub Copilot]] and [[Cursor]] exist, to separate concerns between the chatty natural language part and the code-producing part.
 >
 > **[2:06](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=126)** That doesn't mean you can't get ChatGPT and its class of tools to do the same though, quite the contrary.
 >
@@ -324,7 +324,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=16)** We're already seeing clear signs of this with how AI tools work in our IDEs today.
 >
-> **[0:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=22)** Extensions like [[GitHub Copilot]] add a wide range of deep integrations into existing IDEs and new IDEs like Cursor and Replit are built around AI tools to make them a natural part of the workflow.
+> **[0:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=22)** Extensions like [[GitHub Copilot]] add a wide range of deep integrations into existing IDEs and new IDEs like [[Cursor]] and Replit are built around AI tools to make them a natural part of the workflow.
 >
 > **[0:36](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=36)** AI interactions in the IDE can take many [[Forms]].
 >
@@ -534,7 +534,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=149)** First, most of what you see me do in one tool can be done in any of the other tools in the same category.
 >
-> **[2:37](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=157)** So generating inline AI completions with GitHub Copilot works the same way as generating inline code completions with Cursor and so on.
+> **[2:37](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=157)** So generating inline AI completions with GitHub Copilot works the same way as generating inline code completions with [[Cursor]] and so on.
 >
 > **[2:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=166)** And second, even if you follow me exactly, using the same code and the same prompts, chances are you'll get a different completion.
 >
@@ -775,7 +775,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=100)** Now, as before, I can take this proposal as is, or if I don't like it, I can go regenerate it to get a different proposal.
 >
-> **[1:47](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=107)** If I like it, I can either apply it in the editor, insert it in line at the cursor, so that applies if we're saying, look at the file and find an error or add some component, or I can copy the code in its entirety and then paste it in somewhere.
+> **[1:47](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=107)** If I like it, I can either apply it in the editor, insert it in line at the [[Cursor]], so that applies if we're saying, look at the file and find an error or add some component, or I can copy the code in its entirety and then paste it in somewhere.
 >
 > **[2:01](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=121)** So I'm going to use this apply in editor function.
 >
@@ -888,7 +888,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=152)** And it does.
 >
-> **[2:33](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=153)** And if I'm using an integrated AI tool like [[GitHub]], [[Microsoft Copilot|Copilot]], or Cursor, it'll recognize this pattern going forward and use it for future function declarations most of the time.
+> **[2:33](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=153)** And if I'm using an integrated AI tool like [[GitHub]], [[Microsoft Copilot|Copilot]], or [[Cursor]], it'll recognize this pattern going forward and use it for future function declarations most of the time.
 >
 > **[2:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=166)** My recommended best practice for you is to always stay on top of the latest standards and practices for whatever code language and application you're using, and monitor what the AI coding tool does.
 >
@@ -1243,7 +1243,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=96)** The article shows you how to set up and configure an OpenAI assistant with a function call.
 >
-> **[1:42](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=102)** Next, I'll help you get started on a project by showing you how to get Cursor to set up a project from scratch.
+> **[1:42](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=102)** Next, I'll help you get started on a project by showing you how to get [[Cursor]] to set up a project from scratch.
 >
 > **[1:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=108)** If you don't have Cursor, you can get the same results by using Claude or [[ChatGPT]] or by using [[GitHub Copilot]].
 >
@@ -1280,7 +1280,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=0)** - [Instructor] Throughout this chapter, I'll use Cursor as my IDE.
+> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=0)** - [Instructor] Throughout this chapter, I'll use [[Cursor]] as my IDE.
 >
 > **[0:03](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=3)** Marketed as the AI Code Editor, Cursor is a highly opinionated variant of VS Code that has AI baked into every feature.
 >
@@ -1312,7 +1312,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=109)** Before I put in a prompt, notice it says claude-3.5-sonnet here, that's because Cursor is AI agnostic, you can choose whatever language models you want Cursor to use as you're working.
 >
-> **[2:01](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=121)** Claude-3.5-sonnet is the default, but you can switch to gpt-4o, o1-mini, cursor-small, and you can also add your own custom AI models.
+> **[2:01](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=121)** Claude-3.5-sonnet is the default, but you can switch to [[GPT-4|gpt-4o]], o1-mini, cursor-small, and you can also add your own custom AI models.
 >
 > **[2:10](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=130)** This gives you control over how you want to interact with AI.
 >
@@ -1399,7 +1399,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980&t=18)** But first, I want to ensure (indistinct).
 >
-> **[0:21](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980&t=21)** So let's see if we can get Cursor to help us do that.
+> **[0:21](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980&t=21)** So let's see if we can get [[Cursor]] to help us do that.
 >
 > **[0:23](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980&t=23)** But first, I want to ensure Cursor is following my set of instructions.
 >
@@ -1503,7 +1503,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=49)** And I want to have an extension function that allows me to pass in a latitude and longitude at any time to animate the map to a new location.
 >
-> **[1:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=60)** Let's see if we can get the cursor AI to do this.
+> **[1:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=60)** Let's see if we can get the [[Cursor]] AI to do this.
 >
 > **[1:03](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=63)** Now I'm going to be working inside the MapBox.tsx file, which is sitting under components.
 >
@@ -1730,7 +1730,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=183)** And here you can call in a webpage for example.
 >
-> **[3:06](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=186)** So we could point at the URI to the documentation or we can add new documentation to cursor itself by clicking docs.
+> **[3:06](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=186)** So we could point at the URI to the documentation or we can add new documentation to [[Cursor]] itself by clicking docs.
 >
 > **[3:13](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=193)** That way you can load in documentation and that documentation is referenced anytime you're doing work.
 >
@@ -2660,7 +2660,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980&t=119)** If that doesn't work, I start a brand new chat with the current example to get a clean slate.
 >
-> **[2:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980&t=125)** Second, some applications like Cursor allow you to specify the context you want to work in.
+> **[2:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980&t=125)** Second, some applications like [[Cursor]] allow you to specify the context you want to work in.
 >
 > **[2:11](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980&t=131)** This is super useful and also means if you forget to add the right context, things go off the rails almost immediately.
 >

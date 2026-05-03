@@ -546,7 +546,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980&t=218)** - This really is your safety net available in browser, on your smart watch, on your phone, as long as you can get online nowadays, you can get great auto captioning.
 >
-> **[3:49](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980&t=229)** - [Narrator] On a Microsoft [[Windows]] setting screen, the cursor selects Ease of Access.
+> **[3:49](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980&t=229)** - [Narrator] On a Microsoft [[Windows]] setting screen, the [[Cursor]] selects Ease of Access.
 >
 > **[3:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980&t=235)** - [Hector] Another great feature is notification delay.
 >
@@ -637,7 +637,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mobility-and-dexterity-accessibility?u=76281980&t=95)** Presenting as limb disabilities, arthritis, carpal tunnel syndrome, hemiplegia, muscular dystrophies, and spinal cord injury.
 >
-> **[1:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mobility-and-dexterity-accessibility?u=76281980&t=104)** - [Announcer] On a computer screen, the cursor selects devices on the [[Windows]] settings screen.
+> **[1:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mobility-and-dexterity-accessibility?u=76281980&t=104)** - [Announcer] On a computer screen, the [[Cursor]] selects devices on the [[Windows]] settings screen.
 >
 > **[1:50](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mobility-and-dexterity-accessibility?u=76281980&t=110)** - [Hector] I want to start with typing and text input.
 >
@@ -814,7 +814,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mental-health-accessibility?u=76281980&t=112)** Use Focus mode in [[Windows]] or in [[Microsoft Office|Office]].
 >
-> **[1:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mental-health-accessibility?u=76281980&t=115)** - [Narrator] In [[Microsoft Word]] the cursor selects the Focus button at the bottom of the screen.
+> **[1:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mental-health-accessibility?u=76281980&t=115)** - [Narrator] In [[Microsoft Word]] the [[Cursor]] selects the Focus button at the bottom of the screen.
 >
 > **[2:01](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mental-health-accessibility?u=76281980&t=121)** The document isolates against a black background.
 >
@@ -902,7 +902,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/cognition-accessibility?u=76281980&t=67)** First is read aloud.
 >
-> **[1:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/cognition-accessibility?u=76281980&t=68)** - [Female Voiceover] In [[Microsoft Word]], the cursor opens the review tab and selects, read aloud.
+> **[1:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/cognition-accessibility?u=76281980&t=68)** - [Female Voiceover] In [[Microsoft Word]], the [[Cursor]] opens the review tab and selects, read aloud.
 >
 > **[1:13](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/cognition-accessibility?u=76281980&t=73)** The words in the document are highlighted one at a time as they are read.
 >
@@ -1132,7 +1132,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/tips-for-more-accessible-social-media?u=76281980&t=63)** Most platforms have an option to add image description or provide alt, alternative, text.
 >
-> **[1:09](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/tips-for-more-accessible-social-media?u=76281980&t=69)** - [Narrator] The cursor clicks the Add Description button and types a description of the image.
+> **[1:09](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/tips-for-more-accessible-social-media?u=76281980&t=69)** - [Narrator] The [[Cursor]] clicks the Add Description button and types a description of the image.
 >
 > **[1:14](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/tips-for-more-accessible-social-media?u=76281980&t=74)** - [Hector] Simple rule here, describe the meaning being conveyed by the photo.
 >
@@ -1579,9 +1579,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/enhancing-your-accessibility-skills?u=76281980&t=21)** Now, you may be wondering, where can I go to learn more?
 >
-> **[0:24](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/enhancing-your-accessibility-skills?u=76281980&t=24)** The first place I'd recommend is [[[Microsoft]].com/Accessibility](https://microsoft.com/Accessibility).
+> **[0:24](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/enhancing-your-accessibility-skills?u=76281980&t=24)** The first place I'd recommend is [microsoft.com/Accessibility](https://microsoft.com/Accessibility).
 >
-> **[0:29](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/enhancing-your-accessibility-skills?u=76281980&t=29)** - [Narrator] The webpage reads "Microsoft is committed to accessibility.
+> **[0:29](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/enhancing-your-accessibility-skills?u=76281980&t=29)** - [Narrator] The webpage reads "[[Microsoft]] is committed to accessibility.
 >
 > **[0:34](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/enhancing-your-accessibility-skills?u=76281980&t=34)** There are no limits to what people can achieve when technology reflects the diversity of everyone."
 >

@@ -563,7 +563,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=0)** - [Instructor] You'll need to go to [[[Neo4j]].com/sandbox](https://neo4j.com/sandbox), and you'll be greeted with this page.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=0)** - [Instructor] You'll need to go to [neo4j.com/sandbox](https://neo4j.com/sandbox), and you'll be greeted with this page.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=7)** We're going to be pressing the Launch the Free Sandbox button, and you'll be presented with a login page.
 >
@@ -593,7 +593,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=84)** And for the purposes of this course, do not worry if your sandbox expires, you can always create a new blank sandbox and run our load scripts accordingly.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=94)** Let's take this opportunity to now press the open button, and this is going to launch the Neo4j browser.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=94)** Let's take this opportunity to now press the open button, and this is going to launch the [[Neo4j]] browser.
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=101)** Do bear in mind that when you run the browser for the first time, it may take a few moments for it to appear.
 >

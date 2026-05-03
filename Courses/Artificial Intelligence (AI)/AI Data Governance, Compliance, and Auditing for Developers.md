@@ -1250,7 +1250,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=163)** Data controls that are built on a solid foundation of data mapping and monitoring can significantly decrease these risk.
 >
-> **[2:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=171)** For a more granular explanation of those techniques, you should check out Jazmia Henry's "[[Learning XAI- Explainable [[Artificial Intelligence (AI)|Artificial Intelligence]]]]" course that is included in the "Building AI [[Microsoft Products|Products]]; Implementing [[Responsible AI]]" professional certificate.
+> **[2:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=171)** For a more granular explanation of those techniques, you should check out Jazmia Henry's "[[Learning XAI- Explainable Artificial Intelligence]]" course that is included in the "Building AI [[Microsoft Products|Products]]; Implementing [[Responsible AI]]" professional certificate.
 >
 > **[3:06](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=186)** But in this video, you've just gained a solid understanding of the key data techniques that can be used to ensure AI compliance.
 >
@@ -1381,7 +1381,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=370)** I recognize that there is a whole body of knowledge on model-level bias mitigation techniques that are not discussed in this course.
 >
-> **[6:18](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=378)** For more information about those techniques, you should check out Laurence Moroney's [[[[Responsible AI]] and [[Application Development]]]] course that is also included in the Building AI [[Microsoft Products|Products]]: Implementing Responsible AI Professional Certificate.
+> **[6:18](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=378)** For more information about those techniques, you should check out Laurence Moroney's [[Responsible AI and Application Development]] course that is also included in the Building AI [[Microsoft Products|Products]]: Implementing [[Responsible AI]] Professional Certificate.
 >
 > **[6:32](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=392)** Now that you better understand administrative, data, and model techniques to meet AI compliance requirements, the next chapter will provide an overview on the process for demonstrating compliance: the AI audit.
 

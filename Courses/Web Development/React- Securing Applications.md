@@ -508,7 +508,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=18)** Let me demonstrate an example of cross-site scripting.
 >
-> **[0:22](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=22)** So go to [[[Google]].com/about/appsecurity/learning/xss](https://google.com/about/appsecurity/learning/xss) and once you get to this website, scroll down until you see this window here.
+> **[0:22](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=22)** So go to [google.com/about/appsecurity/learning/xss](https://google.com/about/appsecurity/learning/xss) and once you get to this website, scroll down until you see this window here.
 >
 > **[0:34](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-scripting-xss-attacks?u=76281980&t=34)** And then click on show demo.
 >

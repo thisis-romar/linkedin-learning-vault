@@ -1434,7 +1434,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=31)** When you're ready for more training, the natural next step would be the course that picks up where this course has just ended, where this course focuses on modeling, executive guide to deploying, monitoring, and maintaining machine learning models focuses on the machine learning lifecycle after modeling.
 >
-> **[0:52](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=52)** If you want a high-level strategic overview of the entire machine learning lifecycle, you might want to consider [[[[Predictive Analytics]] Essential Training For Executives]], or a similar course for [[Data Science]] practitioners, [[Predictive Analytics Essential Training- [[Data Mining]]]], whichever you choose.
+> **[0:52](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=52)** If you want a high-level strategic overview of the entire machine learning lifecycle, you might want to consider [[Predictive Analytics Essential Training For Executives]], or a similar course for [[Data Science]] practitioners, [[Predictive Analytics Essential Training- Data Mining]], whichever you choose.
 >
 > **[1:13](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=73)** I hope that you'll stay in touch by following me on [[LinkedIn]] and looking out for one of my [[Microsoft Office|office]] hour events.
 >

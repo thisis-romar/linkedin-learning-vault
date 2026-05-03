@@ -253,13 +253,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=0)** - [Instructor] [[Getting Started With [[Microsoft Power BI|Power Bi]]]] can feel a bit overwhelming, especially when it comes to licensing.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=0)** - [Instructor] [[Getting Started With Power Bi]] can feel a bit overwhelming, especially when it comes to licensing.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=6)** Many of you may already have access through your organization.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=10)** If you're able to log in here or when you come to app.[powerbi.com](https://powerbi.com) and hit enter, you are given a sort of recognized login account and you can log in that way, you can skip this video.
 >
-> **[0:26](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=26)** For those of you who can't log in or don't have a corporate setup, you're going to need a license to access Power BI service.
+> **[0:26](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=26)** For those of you who can't log in or don't have a corporate setup, you're going to need a license to access [[Microsoft Power BI|Power BI]] service.
 >
 > **[0:33](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-power-bi-licensing-and-using-trial-accounts?u=76281980&t=33)** Fortunately, [[Microsoft]] offers a free trial, which is the fastest way to get started.
 >
@@ -2021,7 +2021,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=13)** For this, there is marketplace.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=16)** Appsource.[[[Microsoft]].com](https://microsoft.com).
+> **[0:16](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=16)** Appsource.[microsoft.com](https://microsoft.com).
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=19)** Once you have filtered for Power BI Visuals under Power Platform, you'll see that there are 700 custom visuals available to you.
 >
@@ -2057,7 +2057,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=126)** Unfortunately, you can't filter up here by certified at the moment, which would help if your organization has such a restriction in place.
 >
-> **[2:15](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=135)** A number of these visuals are actually produced by Microsoft.
+> **[2:15](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=135)** A number of these visuals are actually produced by [[Microsoft]].
 >
 > **[2:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/use-custom-visuals-to-solve-unmet-requirements?u=76281980&t=139)** If we scroll down, you see this one says Date Picker, and then TRUVIZ Inc.
 >

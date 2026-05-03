@@ -132,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980&t=5)** Enter a value in a cell, (keyboard clicks) and hover your mouse over the bottom right-hand side of the cell.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980&t=13)** When the cursor turns into a black crosshair icon, drag through all the rows you want to fill with that value.
+> **[0:13](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980&t=13)** When the [[Cursor]] turns into a black crosshair icon, drag through all the rows you want to fill with that value.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980&t=21)** To work with a series, start the series, select both cells, and drag down on the last cell.
 >
@@ -261,7 +261,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-quick-tips-2023/summing-rows?u=76281980&t=7)** As you select or deselect cells the sum will instantly update.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-quick-tips-2023/summing-rows?u=76281980&t=14)** Another method is to place your cursor at the end of the column you wish to sum the data from.
+> **[0:14](https://www.linkedin.com/learning/excel-quick-tips-2023/summing-rows?u=76281980&t=14)** Another method is to place your [[Cursor]] at the end of the column you wish to sum the data from.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-quick-tips-2023/summing-rows?u=76281980&t=18)** From the home ribbon click the sum button and the formula will be inserted and you can press the enter key on your keyboard to see the sum.
 >
@@ -402,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980&t=1)** - [Narrator] To make an adjustment to your sheet, you can click on a single cell to select it, but you can also click on the column header or row header to select an entire column or row.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980&t=12)** You can select a range of columns or rows by placing your cursor on one header, clicking and holding, and then dragging to select the range.
+> **[0:12](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980&t=12)** You can select a range of columns or rows by placing your [[Cursor]] on one header, clicking and holding, and then dragging to select the range.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980&t=20)** Or select several non-contiguous columns or rows by selecting one, then holding the Control key or the Command key on a Mac, and clicking the other headers you want.
 >
@@ -611,7 +611,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=13)** To make sure all the content is visible in a single cell, select the cell and click the Wrap Text button in the Home ribbon, or select the entire column to apply the text wrap to all of its cells.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=30)** Ultimately, you can also make the cell width adjust to the width of its contents by placing the mouse cursor on the right border of the cell header and double-clicking.
+> **[0:30](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=30)** Ultimately, you can also make the cell width adjust to the width of its contents by placing the mouse [[Cursor]] on the right border of the cell header and double-clicking.
 >
 > **[0:39](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=39)** Also, if you have so much text in the cell that is difficult to read, try adding line breaks by placing your cursor in the cell where you want the brake to occur and pressing Option + Enter on a Mac or Alt + Enter on [[Windows]].
 
@@ -713,7 +713,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/adjust-row-height-and-column-width?u=76281980&t=1)** - [Instructor] Adjusting the height of a row or the width of a column is easy.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-quick-tips-2023/adjust-row-height-and-column-width?u=76281980&t=4)** Place your mouse cursor on the right edge of the column header and drag or drag the bottom edge of a row header.
+> **[0:04](https://www.linkedin.com/learning/excel-quick-tips-2023/adjust-row-height-and-column-width?u=76281980&t=4)** Place your mouse [[Cursor]] on the right edge of the column header and drag or drag the bottom edge of a row header.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-quick-tips-2023/adjust-row-height-and-column-width?u=76281980&t=16)** If you need to set a specific height or width value, right click on the header and choose Row Height or Column Width.
 >
@@ -868,7 +868,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=22)** With that cell selected in the home tab, click the format painter button.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=28)** Notice your mouse cursor turns into a paintbrush icon.
+> **[0:28](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=28)** Notice your mouse [[Cursor]] turns into a paintbrush icon.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=30)** Use the paintbrush to select or paint over the cell or cells you want to apply.
 >

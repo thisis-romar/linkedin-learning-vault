@@ -5740,7 +5740,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=229)** So I'm going to show you how that thing works.
 >
-> **[3:52](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=232)** So I'm going to use the multi cursor here because I like to do that and I'm going to remove the parentheses here.
+> **[3:52](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=232)** So I'm going to use the multi [[Cursor]] here because I like to do that and I'm going to remove the parentheses here.
 >
 > **[4:00](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=240)** So Jim is associated to 555.
 >

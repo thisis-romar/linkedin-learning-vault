@@ -725,11 +725,11 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=0)** - [Instructor] Now let's walk through the solution to the challenge activity.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=3)** My first step was to navigate to cloud.[[[Couchbase]].com/sign-up](https://couchbase.com/sign-up).
+> **[0:03](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=3)** My first step was to navigate to cloud.[couchbase.com/sign-up](https://couchbase.com/sign-up).
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=10)** I've filled in my information, checked service agreements, and chosen a cloud service and geography appropriate to my database needs.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=20)** And this is what our Couchbase trial database dashboard looks like as of today.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=20)** And this is what our [[Couchbase]] trial database dashboard looks like as of today.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=25)** Please keep in mind that Couchbase Capella is always evolving to provide users with the very best experience, so your dashboard might look a little different.
 >

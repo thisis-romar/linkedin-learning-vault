@@ -356,7 +356,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=376)** So let's try to add that image to our layout.
 >
-> **[6:19](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=379)** And I'm simply going to press the option key, so that gives me the copy sign on the cursor and then try to move it onto the layout.
+> **[6:19](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=379)** And I'm simply going to press the option key, so that gives me the copy sign on the [[Cursor]] and then try to move it onto the layout.
 >
 > **[6:28](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=388)** There you go!
 >
@@ -974,7 +974,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=257)** Now on the right hand side, let's change the radius of it to 12, maybe a little more.
 >
-> **[4:26](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=266)** Hover your cursor on the icon here, and it gives you an option to drag and increase, or to reduce the size.
+> **[4:26](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=266)** Hover your [[Cursor]] on the icon here, and it gives you an option to drag and increase, or to reduce the size.
 >
 > **[4:34](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=274)** There you go.
 >

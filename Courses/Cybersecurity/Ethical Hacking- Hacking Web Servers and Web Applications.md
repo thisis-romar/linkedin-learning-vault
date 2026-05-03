@@ -227,7 +227,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=161)** AngularJS is another framework that can be used with similar characteristics to Ember.js.
 >
-> **[2:46](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=166)** And [[Microsoft]] offers [[[ASP.NET]]](https://ASP.NET) MVC.
+> **[2:46](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=166)** And [[Microsoft]] offers [ASP.NET](https://ASP.NET) MVC.
 >
 > **[2:49](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980&t=169)** A simple deployment approach is to have three components on one platform linked to a database on a separate platform.
 >
@@ -753,7 +753,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=68)** We might like to have our webpage reference another webpage.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=71)** Perhaps www.[[[OWASP]].com](https://owasp.com).
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=71)** Perhaps www.[owasp.com](https://owasp.com).
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-html?u=76281980&t=74)** We can do this by using a hyperlink, or href, in an element called a.
 >

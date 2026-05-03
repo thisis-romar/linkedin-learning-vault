@@ -279,7 +279,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=179)** Then you repeat the process for all the functionality you need to implement and all the positive and negative test cases.
 >
-> **[3:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=187)** Robert Martin, a.k.a Uncle Bob, created the following laws of TDD in his book Clean Code: A Handbook of [[[[Agile Software Development]]]].
+> **[3:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=187)** Robert Martin, a.k.a Uncle Bob, created the following laws of TDD in his book Clean Code: A Handbook of [[Agile Software Development]].
 >
 > **[3:15](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=195)** These laws help ensure you're following the TDD process.
 >

@@ -1668,7 +1668,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=212)** So every six minutes, then this one is going to be hours, or this one is 25 past the minutes, and then every six hours, et cetera, and then it executes a specific type of command.
 >
-> **[3:44](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=224)** Now, if I just move my cursor all the way down here, we can then start to add specific things to the files.
+> **[3:44](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=224)** Now, if I just move my [[Cursor]] all the way down here, we can then start to add specific things to the files.
 >
 > **[3:53](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=233)** Now, before we do that, you'll see that my file is actually unwriteable.
 >

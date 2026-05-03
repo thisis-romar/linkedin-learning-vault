@@ -228,7 +228,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=1)** - [Instructor] Today, [[[[Agile Software Development]]]] has largely replaced a waterfall approach and certainly has a number of benefits for companies and development teams.
+> **[0:01](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=1)** - [Instructor] Today, [[Agile Software Development]] has largely replaced a waterfall approach and certainly has a number of benefits for companies and development teams.
 >
 > **[0:10](https://www.linkedin.com/learning/ux-research-being-flexible/agile-flexibility?u=76281980&t=10)** By and large, most projects that I do represent some form of [[Agile Development|agile]] development.
 >

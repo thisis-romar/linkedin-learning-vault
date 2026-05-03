@@ -112,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980&t=13)** That's what we will cover in this course.
 >
-> **[0:16](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980&t=16)** We will take a conceptual overview on how to create a GenAI journey for your enterprise.
+> **[0:16](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980&t=16)** We will take a conceptual overview on how to create a [[Generative AI|GenAI]] journey for your enterprise.
 >
 > **[0:23](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980&t=23)** We will cover prioritizing use cases, choosing a model, evaluating it, ensuring it's safe, and measure its success.
 >
@@ -175,7 +175,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/the-gen-ai-revolution?u=76281980&t=0)** Let's begin this course by discussing about how [[Generative AI]], or GenAI for short, is impacting the world.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/the-gen-ai-revolution?u=76281980&t=0)** Let's begin this course by discussing about how [[Generative AI]], or [[Generative AI|GenAI]] for short, is impacting the world.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/the-gen-ai-revolution?u=76281980&t=9)** In this chapter, we will discuss the impact of GenAI and what enterprises are doing about it.
 >
@@ -216,7 +216,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/how-gen-ai-is-impacting-enterprises?u=76281980&t=0)** How are enterprises around the world reacting to the advances in GenAI?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/how-gen-ai-is-impacting-enterprises?u=76281980&t=0)** How are enterprises around the world reacting to the advances in [[Generative AI|GenAI]]?
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/how-gen-ai-is-impacting-enterprises?u=76281980&t=6)** [[Generative AI]] is slowly but surely becoming a vital technology driver for enterprises with potential to significantly impact business processes and workflows.
 >
@@ -256,7 +256,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-challenges-for-enterprises?u=76281980&t=0)** How easy is it for enterprises to start using GenAI in their business?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-challenges-for-enterprises?u=76281980&t=0)** How easy is it for enterprises to start using [[Generative AI|GenAI]] in their business?
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-challenges-for-enterprises?u=76281980&t=6)** There are significant roadblocks that enterprises face in their GenAI journey. As they look to accelerate GenAI adoption across the business, they need to overcome a few roadblocks before deploying GenAI.
 >
@@ -309,7 +309,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-adoption-process?u=76281980&t=0)** How do we bring GenAI into your organization?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-adoption-process?u=76281980&t=0)** How do we bring [[Generative AI|GenAI]] into your organization?
 >
 > **[0:04](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-adoption-process?u=76281980&t=4)** What does the adoption process look like?
 >
@@ -357,7 +357,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/popular-gen-ai-use-cases?u=76281980&t=0)** In this chapter, we will focus on identifying use cases for GenAI in an organization and prioritize them for execution.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/popular-gen-ai-use-cases?u=76281980&t=0)** In this chapter, we will focus on identifying use cases for [[Generative AI|GenAI]] in an organization and prioritize them for execution.
 >
 > **[0:10](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/popular-gen-ai-use-cases?u=76281980&t=10)** We will begin with looking at popular GenAI.
 >
@@ -412,7 +412,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/identifying-and-evaluating-gen-ai-use-cases?u=76281980&t=0)** The GenAI journey of an enterprise begins with scouting for potential use cases and then evaluating them for prioritization.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/identifying-and-evaluating-gen-ai-use-cases?u=76281980&t=0)** The [[Generative AI|GenAI]] journey of an enterprise begins with scouting for potential use cases and then evaluating them for prioritization.
 >
 > **[0:10](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/identifying-and-evaluating-gen-ai-use-cases?u=76281980&t=10)** How do we scout for use cases within an enterprise?
 >
@@ -490,7 +490,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/creating-a-gen-ai-roadmap?u=76281980&t=0)** Once we have done this scouting and evaluation of use cases, the next step is to create a GenAI roadmap for the enterprise.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/creating-a-gen-ai-roadmap?u=76281980&t=0)** Once we have done this scouting and evaluation of use cases, the next step is to create a [[Generative AI|GenAI]] roadmap for the enterprise.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/creating-a-gen-ai-roadmap?u=76281980&t=9)** Let's discuss the steps needed to create a roadmap.
 >
@@ -571,7 +571,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/building-proof-of-concepts-for-gen-ai?u=76281980&t=13)** It is an important tool that is used where uncertainties and risks exist for building a product.
 >
-> **[0:21](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/building-proof-of-concepts-for-gen-ai?u=76281980&t=21)** Why build POCs for GenAI?
+> **[0:21](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/building-proof-of-concepts-for-gen-ai?u=76281980&t=21)** Why build POCs for [[Generative AI|GenAI]]?
 >
 > **[0:24](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/building-proof-of-concepts-for-gen-ai?u=76281980&t=24)** First, it allows us to experiment with new technologies to understand how they work and what their capabilities and shortcomings are.
 >
@@ -639,7 +639,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-gen-ai-powered-email-helpdesk?u=76281980&t=16)** As we discuss several best practices, we will apply them as required in this use case.
 >
-> **[0:23](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-gen-ai-powered-email-helpdesk?u=76281980&t=23)** The course use case we will discuss is a GenAI powered email helpdesk.
+> **[0:23](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-gen-ai-powered-email-helpdesk?u=76281980&t=23)** The course use case we will discuss is a [[Generative AI|GenAI]] powered email helpdesk.
 >
 > **[0:30](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-gen-ai-powered-email-helpdesk?u=76281980&t=30)** Let's discuss some background now.
 >
@@ -689,7 +689,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-model-landscape?u=76281980&t=0)** Having created a GenAI roadmap for the enterprise, let's now get into implementing a specific use case.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-model-landscape?u=76281980&t=0)** Having created a [[Generative AI|GenAI]] roadmap for the enterprise, let's now get into implementing a specific use case.
 >
 > **[0:08](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-model-landscape?u=76281980&t=8)** The first task in implementing a use case is evaluating, [[Fine Tuning]] and selecting a GenAI model.
 >
@@ -779,7 +779,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/selection-criteria-for-gen-ai-models?u=76281980&t=0)** Given the wide list of choices for models available in the GenAI landscape, how do we select a model?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/selection-criteria-for-gen-ai-models?u=76281980&t=0)** Given the wide list of choices for models available in the [[Generative AI|GenAI]] landscape, how do we select a model?
 >
 > **[0:07](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/selection-criteria-for-gen-ai-models?u=76281980&t=7)** We need to first decide on the list of criteria specific to the use case.
 >
@@ -845,7 +845,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/build-vs-buy-for-gen-ai?u=76281980&t=0)** GenAI models can either be built ground up, bought from a third-party vendor, or used from open source.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/build-vs-buy-for-gen-ai?u=76281980&t=0)** [[Generative AI|GenAI]] models can either be built ground up, bought from a third-party vendor, or used from open source.
 >
 > **[0:08](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/build-vs-buy-for-gen-ai?u=76281980&t=8)** When it comes to machine learning models in general and GenAI models in particular, a key decision to be made is whether to build the model in-house or buy the model from a third-party.
 >
@@ -902,7 +902,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-model-deployment-considerations?u=76281980&t=0)** Another key decision to be made with GenAI models is how we would deploy and use them with our GenAI applications.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-model-deployment-considerations?u=76281980&t=0)** Another key decision to be made with [[Generative AI|GenAI]] models is how we would deploy and use them with our GenAI applications.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-model-deployment-considerations?u=76281980&t=9)** There are two options available, each with their advantages and shortcomings.
 >
@@ -996,7 +996,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/impact-of-training-data-in-gen-ai?u=76281980&t=0)** When exploring GenAI models, it is important to understand what data they are trained on.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/impact-of-training-data-in-gen-ai?u=76281980&t=0)** When exploring [[Generative AI|GenAI]] models, it is important to understand what data they are trained on.
 >
 > **[0:07](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/impact-of-training-data-in-gen-ai?u=76281980&t=7)** Let's discuss why data used for training these models is important.
 >
@@ -1055,7 +1055,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/evaluating-gen-ai-models?u=76281980&t=12)** Let's start with model evaluation.
 >
-> **[0:15](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/evaluating-gen-ai-models?u=76281980&t=15)** GenAI models are already trained and tested extensively by the creators of the model.
+> **[0:15](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/evaluating-gen-ai-models?u=76281980&t=15)** [[Generative AI|GenAI]] models are already trained and tested extensively by the creators of the model.
 >
 > **[0:22](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/evaluating-gen-ai-models?u=76281980&t=22)** So why should we do evaluation? To begin with, each task or use case is unique.
 >
@@ -1160,7 +1160,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/fine-tuning-gen-ai-models?u=76281980&t=19)** Let's discuss available [[Fine Tuning]] options and processes.
 >
-> **[0:24](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/fine-tuning-gen-ai-models?u=76281980&t=24)** There are several fine tuning techniques available when it comes to GenAI models.
+> **[0:24](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/fine-tuning-gen-ai-models?u=76281980&t=24)** There are several fine tuning techniques available when it comes to [[Generative AI|GenAI]] models.
 >
 > **[0:30](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/fine-tuning-gen-ai-models?u=76281980&t=30)** The provider of the model usually exposes one or more of them.
 >
@@ -1245,7 +1245,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/building-datasets-for-evaluation-and-fine-tuning?u=76281980&t=77)** Errors and exception conditions should also be captured in these prompts to ensure that the model behaves correctly in those scenarios.
 >
-> **[1:26](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/building-datasets-for-evaluation-and-fine-tuning?u=76281980&t=86)** Toxicity, bias, and hallucination are common considerations when building GenAI applications.
+> **[1:26](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/building-datasets-for-evaluation-and-fine-tuning?u=76281980&t=86)** Toxicity, bias, and hallucination are common considerations when building [[Generative AI|GenAI]] applications.
 >
 > **[1:34](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/building-datasets-for-evaluation-and-fine-tuning?u=76281980&t=94)** The data set should also contain few samples of these types to test on how the model behaves in such scenarios.
 >
@@ -1285,7 +1285,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/metrics-for-gen-ai?u=76281980&t=0)** When we do evaluations, fine-tuning, or use models for inference, we need to measure the performance of these models using metrics.
 >
-> **[0:10](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/metrics-for-gen-ai?u=76281980&t=10)** What metrics do we use in the case of GenAI models?
+> **[0:10](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/metrics-for-gen-ai?u=76281980&t=10)** What metrics do we use in the case of [[Generative AI|GenAI]] models?
 >
 > **[0:14](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/metrics-for-gen-ai?u=76281980&t=14)** Let's look at some popular metrics for GenAI models.
 >
@@ -1432,7 +1432,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/a-typical-gen-ai-app?u=76281980&t=0)** Having discussed about choosing a generative model for our use case, let's now discuss other elements needed for a complete solution.
 >
-> **[0:09](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/a-typical-gen-ai-app?u=76281980&t=9)** We will now focus on other elements of [[Application Development]] for GenAI in this chapter.
+> **[0:09](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/a-typical-gen-ai-app?u=76281980&t=9)** We will now focus on other elements of [[Application Development]] for [[Generative AI|GenAI]] in this chapter.
 >
 > **[0:15](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/a-typical-gen-ai-app?u=76281980&t=15)** What does a typical GenAI application look like?
 >
@@ -1476,7 +1476,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/batch-generation-with-gen-ai-models?u=76281980&t=0)** Batch generation is an important option to consider while designing [[Generative AI]] applications.
 >
-> **[0:08](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/batch-generation-with-gen-ai-models?u=76281980&t=8)** While we visualize a GenAI app being a chat interface that immediately responds to user prompts, there are several use cases that could benefit from a batch-mode approach.
+> **[0:08](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/batch-generation-with-gen-ai-models?u=76281980&t=8)** While we visualize a [[Generative AI|GenAI]] app being a chat interface that immediately responds to user prompts, there are several use cases that could benefit from a batch-mode approach.
 >
 > **[0:21](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/batch-generation-with-gen-ai-models?u=76281980&t=21)** In a batch approach, instead of sending one prompt in a single request to a GenAI model, we send multiple prompts, say 5 or 10 prompts at the same time in a single request, and receive the responses at once.
 >
@@ -1535,7 +1535,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/user-and-api-interfaces?u=76281980&t=0)** GenAI applications have some unique considerations when it comes to designing user and API interfaces.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/user-and-api-interfaces?u=76281980&t=0)** [[Generative AI|GenAI]] applications have some unique considerations when it comes to designing user and API interfaces.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/user-and-api-interfaces?u=76281980&t=9)** Let's discuss some key best practices for user and API interfaces in this video.
 >
@@ -1612,7 +1612,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/prompt-engineering?u=76281980&t=0)** [[Prompt Engineering]] is a key component of any GenAI application performance.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/prompt-engineering?u=76281980&t=0)** [[Prompt Engineering]] is a key component of any [[Generative AI|GenAI]] application performance.
 >
 > **[0:05](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/prompt-engineering?u=76281980&t=5)** Let's discuss some considerations for creating good prompts.
 >
@@ -1659,7 +1659,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/data-collection-monitoring?u=76281980&t=0)** Let's now discuss a key component of a GenAI application, namely [[Data Collection]] and monitoring.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/data-collection-monitoring?u=76281980&t=0)** Let's now discuss a key component of a [[Generative AI|GenAI]] application, namely [[Data Collection]] and monitoring.
 >
 > **[0:07](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/data-collection-monitoring?u=76281980&t=7)** Observability is essential for any production grade application, and that applies to GenAI applications too.
 >
@@ -1705,7 +1705,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-architecture?u=76281980&t=0)** Having discussed some best practices around GenAI [[Application Development]], let's create an architecture for our use case, namely email helpdesk.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-architecture?u=76281980&t=0)** Having discussed some best practices around [[Generative AI|GenAI]] [[Application Development]], let's create an architecture for our use case, namely email helpdesk.
 >
 > **[0:10](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-architecture?u=76281980&t=10)** We may not apply all the learnings in the chapter, but what is applicable to this specific use case.
 >
@@ -1787,7 +1787,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/ethical-and-legal-considerations?u=76281980&t=0)** As much as GenAI is a transformation technology for enterprises, it also comes with significant ethical and legal challenges.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/ethical-and-legal-considerations?u=76281980&t=0)** As much as [[Generative AI|GenAI]] is a transformation technology for enterprises, it also comes with significant ethical and legal challenges.
 >
 > **[0:10](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/ethical-and-legal-considerations?u=76281980&t=10)** Hence, it's no wonder that GenAI has attracted tremendous attention from governing bodies across the world.
 >
@@ -1844,7 +1844,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/protecting-against-vulnerabilities?u=76281980&t=0)** In this video, let's explore the vulnerabilities that GenAI applications are exposed to and some best practices to manage them.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/protecting-against-vulnerabilities?u=76281980&t=0)** In this video, let's explore the vulnerabilities that [[Generative AI|GenAI]] applications are exposed to and some best practices to manage them.
 >
 > **[0:09](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/protecting-against-vulnerabilities?u=76281980&t=9)** [[Generative AI]] applications have some unique vulnerabilities that are not seen in general-purpose software applications.
 >
@@ -1926,7 +1926,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/toxicity-and-bias-in-gen-ai?u=76281980&t=0)** Toxicity and bias are two important trust concerns for GenAI applications.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/toxicity-and-bias-in-gen-ai?u=76281980&t=0)** Toxicity and bias are two important trust concerns for [[Generative AI|GenAI]] applications.
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/toxicity-and-bias-in-gen-ai?u=76281980&t=6)** Let us discuss what they are and how to mitigate them.
 >
@@ -2047,7 +2047,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/hallucinations?u=76281980&t=126)** [[Prompt Engineering]] is again important to ensure that the model has enough information to synthesize an accurate response to the prompt.
 >
-> **[2:15](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/hallucinations?u=76281980&t=135)** Whenever possible, validate the facts by using another GenAI model, or a knowledge base.
+> **[2:15](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/hallucinations?u=76281980&t=135)** Whenever possible, validate the facts by using another [[Generative AI|GenAI]] model, or a knowledge base.
 >
 > **[2:22](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/hallucinations?u=76281980&t=142)** Finally, human feedback is essential to check if any hallucinations are introduced in the outputs.
 >
@@ -2063,7 +2063,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-guardrails?u=76281980&t=0)** How do we add guardrails to a GenAI application architecture for email helpdesk?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-guardrails?u=76281980&t=0)** How do we add guardrails to a [[Generative AI|GenAI]] application architecture for email helpdesk?
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-guardrails?u=76281980&t=6)** Here is the application architecture we have already created in our previous chapter.
 >
@@ -2116,7 +2116,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/performance-goals-for-gen-ai-apps?u=76281980&t=0)** There are several metrics used by data scientists to measure the performance of GenAI models, but in a business context, what metrics are important and how do we measure and improve them?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/performance-goals-for-gen-ai-apps?u=76281980&t=0)** There are several metrics used by data scientists to measure the performance of [[Generative AI|GenAI]] models, but in a business context, what metrics are important and how do we measure and improve them?
 >
 > **[0:14](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/performance-goals-for-gen-ai-apps?u=76281980&t=14)** We will discuss these in this chapter.
 >
@@ -2183,7 +2183,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/improving-gen-ai-accuracy?u=76281980&t=0)** What are some of the best practices for improving the accuracy of GenAI applications?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/improving-gen-ai-accuracy?u=76281980&t=0)** What are some of the best practices for improving the accuracy of [[Generative AI|GenAI]] applications?
 >
 > **[0:06](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/improving-gen-ai-accuracy?u=76281980&t=6)** The list provided here is a rehash of best practices we discussed in the earlier videos.
 >
@@ -2221,7 +2221,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/reducing-latency-for-gen-ai?u=76281980&t=0)** Let's discuss about the second goal for GenAI performance, namely latency.
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/reducing-latency-for-gen-ai?u=76281980&t=0)** Let's discuss about the second goal for [[Generative AI|GenAI]] performance, namely latency.
 >
 > **[0:05](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/reducing-latency-for-gen-ai?u=76281980&t=5)** What are some best practices to reduce latency?
 >
@@ -2265,7 +2265,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-cost-control?u=76281980&t=0)** How do we control costs for GenAI applications?
+> **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-cost-control?u=76281980&t=0)** How do we control costs for [[Generative AI|GenAI]] applications?
 >
 > **[0:04](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-cost-control?u=76281980&t=4)** Let's discuss some best practices for cost control.
 >
@@ -2349,7 +2349,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/continue-your-gen-ai-journey?u=76281980&t=0)** We have reached the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/continue-your-gen-ai-journey?u=76281980&t=3)** By now, you have an understanding of what it takes to incorporate GenAI into your organization, but this is just a foundation.
+> **[0:03](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/continue-your-gen-ai-journey?u=76281980&t=3)** By now, you have an understanding of what it takes to incorporate [[Generative AI|GenAI]] into your organization, but this is just a foundation.
 >
 > **[0:14](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/continue-your-gen-ai-journey?u=76281980&t=14)** If you want to start integrating these further, here is what I will recommend.
 >

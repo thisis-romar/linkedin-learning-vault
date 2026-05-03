@@ -86,7 +86,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=0)** - It feels like every post on [[LinkedIn]] these days has three parts: a noun, a verb, and the [[Microsoft Word|word]] gen AI.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=0)** - It feels like every post on [[LinkedIn]] these days has three parts: a noun, a verb, and the [[Microsoft Word|word]] [[Generative AI|gen AI]].
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=6)** But what about [[Privacy]] in this age of gen AI?
 >
@@ -366,7 +366,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=132)** It is not common for the technical and legal domains to be in [[Flux]] at the same time, but today we are at a unique moment.
 >
-> **[2:18](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=138)** Laws are changing as we speak, and technologies in the age of gen AI are changing as well.
+> **[2:18](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=138)** Laws are changing as we speak, and technologies in the age of [[Generative AI|gen AI]] are changing as well.
 >
 > **[2:24](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=144)** Consider the scale of modern computing, internet penetration, [[Data Processing]], mobile device usage, adoption of gen AI models, and all these other changes.
 >
@@ -492,7 +492,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=92)** Besides classification and inventory, data governance also requires you to look at code and software.
 >
-> **[1:37](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=97)** This is especially true in the age of Gen AI where code powers models, which then create more data, which then feed into other models and so on.
+> **[1:37](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=97)** This is especially true in the age of [[Generative AI|Gen AI]] where code powers models, which then create more data, which then feed into other models and so on.
 >
 > **[1:46](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=106)** You will need tools and mechanisms to detect in real time code that violates your [[Privacy]] commitments, so as to avoid [[Data Privacy]] issues down the line.
 >
@@ -750,7 +750,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=208)** Fourth, what does privacy do to help [[Data Quality]]?
 >
-> **[3:31](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=211)** Could you make common cause with teams that care about quality, like the gen AI team, for example?
+> **[3:31](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=211)** Could you make common cause with teams that care about quality, like the [[Generative AI|gen AI]] team, for example?
 >
 > **[3:36](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=216)** Remember, proactive and preemptive data inventory will help minimize risk and maximize efficiency.
 >
@@ -1183,7 +1183,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=49)** They have three key responsibilities.
 >
-> **[0:52](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=52)** Fist, convince [[[[Executive Leadership]]]] that your customers and their data should be treated with trust and transparency.
+> **[0:52](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=52)** Fist, convince [[Executive Leadership]] that your customers and their data should be treated with trust and transparency.
 >
 > **[0:58](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=58)** Second, benchmark based on industry trends and regulatory sentiment so that privacy is top-of-mind in [[Product Design]].
 >
@@ -1316,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=1)** - Thank you so much for taking this course.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=3)** I hope you found the lessons around [[Data Privacy]] in the age of gen AI useful and educational.
+> **[0:03](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=3)** I hope you found the lessons around [[Data Privacy]] in the age of [[Generative AI|gen AI]] useful and educational.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=7)** But data and models don't stop growing and learning, do they?
 >

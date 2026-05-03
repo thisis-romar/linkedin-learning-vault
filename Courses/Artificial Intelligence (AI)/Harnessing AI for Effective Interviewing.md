@@ -247,7 +247,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/training-interviewers-to-work-with-ai-tools?u=76281980&t=161)** I reassured them that AI is designed to complement their skills, not replace them, and fostered a supportive environment by encouraging continuous learning and experimentation with AI tools.
 >
-> **[2:56](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/training-interviewers-to-work-with-ai-tools?u=76281980&t=176)** What challenges have you faced while training your interviewers adopt Gen AI in interviewing?
+> **[2:56](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/training-interviewers-to-work-with-ai-tools?u=76281980&t=176)** What challenges have you faced while training your interviewers adopt [[Generative AI|Gen AI]] in interviewing?
 >
 > **[3:01](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/training-interviewers-to-work-with-ai-tools?u=76281980&t=181)** How did you overcome them?
 >
@@ -342,7 +342,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-in-structured-vs-unstructured-interviews?u=76281980&t=91)** For unstructured interviews, AI analyzes conversational patterns to identify key themes and areas of interest.
 >
-> **[1:39](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-in-structured-vs-unstructured-interviews?u=76281980&t=99)** [[[Interviewing]].io](https://Interviewing.io) uses AI to provide insights into candidate's communication styles, and problem-solving abilities.
+> **[1:39](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-in-structured-vs-unstructured-interviews?u=76281980&t=99)** [Interviewing.io](https://Interviewing.io) uses AI to provide insights into candidate's communication styles, and problem-solving abilities.
 >
 > **[1:48](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-in-structured-vs-unstructured-interviews?u=76281980&t=108)** Additionally, AI enhances the candidate experience by making the process more interactive and responsive.
 >
@@ -350,7 +350,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-in-structured-vs-unstructured-interviews?u=76281980&t=125)** By leveraging AI, you can enhance both structured and unstructured interviews, achieving consistency and reducing bias, while also making the process more dynamic and engaging.
 >
-> **[2:18](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-in-structured-vs-unstructured-interviews?u=76281980&t=138)** As you think about integrating AI into your interviews, consider this, how can you balance the structured and flexible elements to optimize your interviewing process and make more informed decisions?
+> **[2:18](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-in-structured-vs-unstructured-interviews?u=76281980&t=138)** As you think about integrating AI into your interviews, consider this, how can you balance the structured and flexible elements to optimize your [[Interviewing]] process and make more informed decisions?
 
 > [!info]- Semantic Content
 >
@@ -848,7 +848,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/understanding-data-privacy-and-consent-issues?u=76281980&t=205)** Thank you for joining me in this course.
 >
-> **[3:27](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/understanding-data-privacy-and-consent-issues?u=76281980&t=207)** Don't forget to check out my other courses on using GenAI for performance management and skills-first interviewing to sharpen your skills.
+> **[3:27](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/understanding-data-privacy-and-consent-issues?u=76281980&t=207)** Don't forget to check out my other courses on using [[Generative AI|GenAI]] for performance management and skills-first interviewing to sharpen your skills.
 >
 > **[3:35](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/understanding-data-privacy-and-consent-issues?u=76281980&t=215)** Happy interviewing!
 

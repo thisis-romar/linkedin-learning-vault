@@ -2009,7 +2009,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=227)** Press Enter.
 >
-> **[3:48](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=228)** Type .[[[Microsoft]].com](https://microsoft.com).
+> **[3:48](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=228)** Type .[microsoft.com](https://microsoft.com).
 >
 > **[3:54](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=234)** Based on this regular expression, our proxy server, Squid, will block whatever domain name ending with .[microsoft.com](https://microsoft.com).
 >
@@ -2082,13 +2082,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=15)** It's blocking all the websites instead of the ones specified in the file called Blocked.
 >
-> **[0:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=24)** Let me try [[[LinkedIn]].com](https://linkedin.com).
+> **[0:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=24)** Let me try [linkedin.com](https://linkedin.com).
 >
 > **[0:29](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=29)** Press Enter.
 >
 > **[0:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=30)** You get this error message.
 >
-> **[0:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=33)** Our intention was to allow all the websites except for the ones with the [[[Microsoft]].com](https://microsoft.com) domain name.
+> **[0:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=33)** Our intention was to allow all the websites except for the ones with the [microsoft.com](https://microsoft.com) domain name.
 >
 > **[0:42](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=42)** Your mission is to fix this problem by revisiting the squid.conf file so that we only block the [microsoft.com](https://microsoft.com) websites.
 
@@ -2122,7 +2122,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=47)** What this means is, Squid is blocking all the websites in addition to the one we specified.
 >
-> **[0:54](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=54)** That is, [[[Microsoft]].com](https://microsoft.com).
+> **[0:54](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=54)** That is, [microsoft.com](https://microsoft.com).
 >
 > **[0:58](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=58)** You might have noticed the error messages blocking the websites were slightly different.
 >
@@ -2146,7 +2146,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=150)** Now let's see if Squid allows other websites.
 >
-> **[2:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=156)** Earlier, I typed [[[LinkedIn]].com](https://linkedin.com) and got this message.
+> **[2:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=156)** Earlier, I typed [linkedin.com](https://linkedin.com) and got this message.
 >
 > **[2:41](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=161)** Let's reload the webpage, And it works.
 
@@ -2364,7 +2364,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=182)** Let's visit the website.
 >
-> **[3:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=185)** [[[LinkedIn]].com](https://Linkedin.com).
+> **[3:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=185)** [Linkedin.com](https://Linkedin.com).
 >
 > **[3:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=191)** You can see, lots of messages are passing by.
 >
@@ -2459,7 +2459,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=62)** Let's generate some more traffic by opening up our web browser.
 >
-> **[1:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=68)** Let's visit [[[LinkedIn]].com](https://linkedin.com).
+> **[1:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=68)** Let's visit [linkedin.com](https://linkedin.com).
 >
 > **[1:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=75)** You can see a lot more traffic being generated.
 >

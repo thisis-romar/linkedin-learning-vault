@@ -318,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=71)** We offer role-specific guidance.
 >
-> **[1:14](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=74)** In level two, you'll find courses like [[Generative AI]] for project management, creating a collaborative team culture with AI, and building a GenAI tech strategy.
+> **[1:14](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=74)** In level two, you'll find courses like [[Generative AI]] for project management, creating a collaborative team culture with AI, and building a [[Generative AI|GenAI]] tech strategy.
 >
 > **[1:25](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/ai-content-framework-level-2-applying-prompting-productivity-and-strategy?u=76281980&t=85)** And if your company uses [[Microsoft 365]], we offer best-in-class coverage for [[Microsoft Copilot]].
 >

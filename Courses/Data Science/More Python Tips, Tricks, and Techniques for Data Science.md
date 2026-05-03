@@ -1545,7 +1545,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=256)** And as you can see, this is all interactive.
 >
-> **[4:19](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=259)** As I move my cursor along the chart, you see the X and Y values changing, and then I have different methods.
+> **[4:19](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=259)** As I move my [[Cursor]] along the chart, you see the X and Y values changing, and then I have different methods.
 >
 > **[4:25](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=265)** So this is for downloading the figure, this is for zooming, this is for panning axes on left mouse, even on [[Zoom]] with right.
 >

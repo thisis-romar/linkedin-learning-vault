@@ -117,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980&t=20)** Now, prompt engineering refers to constructing inputs that help us get the most out of generative AI and language models in particular.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980&t=31)** Now, this is a really fast-changing ecosystem we're dealing with here, and at the time of this recording, some of the technologies where prompt engineering really shines include [[ChatGPT]], which is powered by [[GPT-4]] and GPT-4o, there's [[Microsoft Copilot]], which also leverages GPT-4o, there's [[Google]]'s [[Gemini]], there's Claude by the company Anthropic, then there are image generating models such as [[DALL-E]], which is now part of ChatGPT, [[Stable Diffusion]], [[Midjourney]], and even video generation tools such as Sora.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980&t=31)** Now, this is a really fast-changing ecosystem we're dealing with here, and at the time of this recording, some of the technologies where prompt engineering really shines include [[ChatGPT]], which is powered by [[GPT-4]] and [[GPT-4|GPT-4o]], there's [[Microsoft Copilot]], which also leverages GPT-4o, there's [[Google]]'s [[Gemini]], there's Claude by the company Anthropic, then there are image generating models such as [[DALL-E]], which is now part of ChatGPT, [[Stable Diffusion]], [[Midjourney]], and even video generation tools such as Sora.
 
 > [!info]- Semantic Content
 >
@@ -168,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=6)** For that, let's head over to open AI's platform where we can experiment with language models.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=13)** This is GPT-4o, but I'm going to select a prior model that supports completions.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=13)** This is [[GPT-4|GPT-4o]], but I'm going to select a prior model that supports completions.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=20)** This is because it has this unique show probabilities option.
 >
@@ -1038,7 +1038,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=52)** So in both of these cases, you have a visual modality along with text.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=59)** Now, if you want to learn more about multimodality, feel free to check out my extensive course called [[Introduction to [[Multimodal Prompting]] for [[Generative AI]]]].
+> **[0:59](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=59)** Now, if you want to learn more about multimodality, feel free to check out my extensive course called [[Introduction to Multimodal Prompting for Generative AI]].
 
 > [!info]- Semantic Content
 >
@@ -1113,7 +1113,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980&t=109)** I can change text, I can change different parameters here.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980&t=114)** I can also choose a different model, and I'm going to choose gpt-4o, which at the time of this recording is the latest and greatest model from OpenAI.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980&t=114)** I can also choose a different model, and I'm going to choose [[GPT-4|gpt-4o]], which at the time of this recording is the latest and greatest model from OpenAI.
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980&t=126)** And once I'm ready, I can go ahead and click view code.
 >
@@ -1220,9 +1220,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=7)** Now, to keep the learning going, there are a few courses I can recommend from the library.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=13)** To learn more about multimodal AI, you can check out my course, [[Introduction to [[Multimodal Prompting]] for [[Generative AI]]]].
+> **[0:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=13)** To learn more about multimodal AI, you can check out my course, [[Introduction to Multimodal Prompting for Generative AI]].
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=23)** There's also my course, [[Prompt Engineering with [[ChatGPT]]]], where we use ChatGPT to examine some best practices when it comes to prompt engineering.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=23)** There's also my course, [[Prompt Engineering with ChatGPT]], where we use [[ChatGPT]] to examine some best practices when it comes to prompt engineering.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=35)** For developers who wish to have more control over their AI application, there is Ray Villalobos' course, Developing with [[LLaMA]] Three, Meta's Innovative and Open Large Language Model.
 >

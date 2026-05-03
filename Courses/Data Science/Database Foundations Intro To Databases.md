@@ -1420,7 +1420,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=218)** So for SQLserver, I'm just going to pick 1420, and we'll send that into the container on 1433, which is SQLserver's default port.
 >
-> **[3:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=227)** So we'll send that in, and then finally we specify dash D and the path to the image that we're going to be pulling from, and for SQLserver that comes from mcr.[[[Microsoft]].com](https://microsoft.com), forward slash MSSQL, forward slash server, and then a tag after a colon to indicate which version of the server you want.
+> **[3:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=227)** So we'll send that in, and then finally we specify dash D and the path to the image that we're going to be pulling from, and for SQLserver that comes from mcr.[microsoft.com](https://microsoft.com), forward slash MSSQL, forward slash server, and then a tag after a colon to indicate which version of the server you want.
 >
 > **[4:09](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=249)** And we've been working with 2019 dash latest.
 >
@@ -1456,7 +1456,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=337)** So I could say Docker start 9d262019, for instance, because that's the first few numbers here in the container ID.
 >
-> **[5:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=347)** And let's where I enter here and move my cursor here to the end, press enter.
+> **[5:47](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=347)** And let's where I enter here and move my [[Cursor]] here to the end, press enter.
 >
 > **[5:51](https://www.linkedin.com/learning/database-foundations-intro-to-databases/solution-create-a-server-container?u=76281980&t=351)** It'll know which one I'm talking about, just because it's the unique identifier.
 >

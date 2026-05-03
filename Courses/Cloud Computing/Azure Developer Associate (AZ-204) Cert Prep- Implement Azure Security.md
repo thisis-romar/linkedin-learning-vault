@@ -474,11 +474,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=0)** - [Tutor] So all of the built-in roles are actually defined here in docs.[[[Microsoft]].com](https://microsoft.com) under built-in roles for [[Microsoft Azure|Azure]] resources page.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=0)** - [Tutor] So all of the built-in roles are actually defined here in docs.[microsoft.com](https://microsoft.com) under built-in roles for [[Microsoft Azure|Azure]] resources page.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=8)** For example, if I were to look for [[SQL]] related roles, I could just go ahead and search for SQL.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=14)** We'll see that there are actually a couple of roles built specifically for Microsoft SQL.
+> **[0:14](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=14)** We'll see that there are actually a couple of roles built specifically for [[Microsoft]] SQL.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=20)** And let's have a look at the SQL Database Contributor role for more details.
 >

@@ -2403,7 +2403,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980&t=106)** Now, we'll go down to answers and we'll pull this up.
 >
-> **[1:50](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980&t=110)** And here we see [[[Google]].com](https://google.com), type A, which is an IPv4 address.
+> **[1:50](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980&t=110)** And here we see [google.com](https://google.com), type A, which is an IPv4 address.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980&t=117)** And here, we see the time to live.
 >

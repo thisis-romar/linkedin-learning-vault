@@ -668,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=55)** Now, where will we actually be writing or composing?
 >
-> **[0:59](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=59)** Well, you see where my cursor is blinking here?
+> **[0:59](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=59)** Well, you see where my [[Cursor]] is blinking here?
 >
 > **[1:01](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=61)** I'm just typing in random words at the moment, but this is where we'll be composing our queries, and it is referred to as the query pane.
 >

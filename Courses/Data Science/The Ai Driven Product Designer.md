@@ -2162,7 +2162,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=134)** While the image you generated may appear unique, it's entirely possible that it used copyright material as its nexus.
 >
-> **[2:22](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=142)** If you think this could be a concern, make sure you understand where your gen AI is getting its building blocks to stay protected.
+> **[2:22](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=142)** If you think this could be a concern, make sure you understand where your [[Generative AI|gen AI]] is getting its building blocks to stay protected.
 >
 > **[2:28](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=148)** There are LLMs out there that are working to use items in Creative Commons and things like that that should make this not or less of an issue.
 >

@@ -718,7 +718,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=98)** We're going to go to macOS.
 >
-> **[1:41](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=101)** And inside of macOS there's lots of different versions here but the one that I like is '[[[PostgreSQL|POSTGRES]].APP](https://POSTGRES.APP)'.
+> **[1:41](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=101)** And inside of macOS there's lots of different versions here but the one that I like is '[POSTGRES.APP](https://POSTGRES.APP)'.
 >
 > **[1:47](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=107)** This is very user-friendly, straight-forward, and simple.
 >
@@ -746,7 +746,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=183)** So let's go ahead and hit the 'Initialize' button here, this is going to get things started up for us.
 >
-> **[3:08](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=188)** The very first time you can see there's been a couple of different things added here; postgres, nickwalter (that's just my username on this computer), template1, all these different things here.
+> **[3:08](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=188)** The very first time you can see there's been a couple of different things added here; [[PostgreSQL|postgres]], nickwalter (that's just my username on this computer), template1, all these different things here.
 >
 > **[3:18](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/postgres-setup-for-django?u=76281980&t=198)** But what we want to do is double click on the postgres that we have here.
 >

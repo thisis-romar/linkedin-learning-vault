@@ -303,7 +303,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=3)** If you are already signed up, if you have a license and have been using or checking out Power BI, just hang out while the [[Representational State Transfer (REST)|rest]] of us do this.
 >
-> **[0:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=12)** To start, I'm going to go to powerbi.[[[Microsoft]].com](https://microsoft.com).
+> **[0:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=12)** To start, I'm going to go to powerbi.[microsoft.com](https://microsoft.com).
 >
 > **[0:19](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=19)** You'll end up on a page that looks something like this.
 >
@@ -341,7 +341,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=105)** What we're going to do is we're going to go to [[Microsoft Office|office]].[microsoft.com](https://microsoft.com), and one of your choices here is going to be a free trial.
 >
-> **[1:57](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=117)** So you'll notice that Buy now is a choice and All Microsoft is a choice.
+> **[1:57](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=117)** So you'll notice that Buy now is a choice and All [[Microsoft]] is a choice.
 >
 > **[2:02](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=122)** But if you scroll down towards the middle here, you'll see Find a plan, and check out Work, See business plans.
 >

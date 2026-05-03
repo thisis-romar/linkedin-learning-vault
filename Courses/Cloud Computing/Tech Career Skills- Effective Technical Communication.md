@@ -880,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=8)** Now this course is not focused on how to apply [[Agile Development|Agile]] in your company.
 >
-> **[0:12](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=12)** For more on that, I would recommend the [[[[Agile Software Development]]]] course available in our library.
+> **[0:12](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=12)** For more on that, I would recommend the [[Agile Software Development]] course available in our library.
 >
 > **[0:18](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=18)** But just as a quick overview, with an Agile approach, you're going to have a product backlog.
 >

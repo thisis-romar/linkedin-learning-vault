@@ -351,7 +351,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=0)** - [Instructor] Now that we have the basic server dependencies for our project, we need to install Mongo so we can add the database when we build the server, but also we'll use Mongoose to simplify some of the initial code.
 >
-> **[0:11](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=11)** So go to [[[MongoDB]].com](https://mongodb.com) and then go to [[Microsoft Products|Products]], Community Server in the Community Edition, and then here you can find some downloads to install MongoDB.
+> **[0:11](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=11)** So go to [mongodb.com](https://mongodb.com) and then go to [[Microsoft Products|Products]], Community Server in the Community Edition, and then here you can find some downloads to install [[MongoDB]].
 >
 > **[0:26](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=26)** So if you're on macOS, you can download this package and follow the instructions.
 >

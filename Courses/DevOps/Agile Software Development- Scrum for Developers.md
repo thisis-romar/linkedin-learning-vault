@@ -139,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=25)** These are the topics that will be most useful for you to get up and running in Scrum.
 >
-> **[0:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=30)** If you'd like to take a deeper dive into the history and high-level concepts of Scrum, check out my other course, [[[[Agile Software Development]]]].
+> **[0:30](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=30)** If you'd like to take a deeper dive into the history and high-level concepts of Scrum, check out my other course, [[Agile Software Development]].
 >
 > **[0:40](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/what-you-should-know?u=76281980&t=40)** In this course, we'll be focusing on hands-on Scrum implementation.
 >
@@ -507,7 +507,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=93)** In this case, it is a user story, which is a method of capturing requirements for [[Agile Development|agile]] projects.
 >
-> **[1:41](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=101)** If you'd like to know more in-depth information about a user story, check out my other course, [[[[Agile Software Development]]]].
+> **[1:41](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=101)** If you'd like to know more in-depth information about a user story, check out my other course, [[Agile Software Development]].
 >
 > **[1:49](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-overview?u=76281980&t=109)** The user story is, as a fitness club member, I should be able to generate member badge on my mobile phone so I can check in without my physical membership card.
 >
@@ -1394,7 +1394,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=0)** - [Instructor] One of the key processes in product backlog refinement is estimating backlog items.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=7)** Planning poker was discussed in my previous course on [[[[Agile Software Development]]]].
+> **[0:07](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=7)** Planning poker was discussed in my previous course on [[Agile Software Development]].
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/planning-poker?u=76281980&t=12)** It's essentially a process where the development team members estimate product backlog items.
 >

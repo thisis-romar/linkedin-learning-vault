@@ -485,7 +485,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=63)** For example, an AI that predicts the weather or if a stock's value is going to go up or down.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=70)** And the second is attacks on [[Generative AI]], gen AI.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=70)** And the second is attacks on [[Generative AI]], [[Generative AI|gen AI]].
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=75)** These are systems that ingest data in order to generate new content.
 >
@@ -1080,7 +1080,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=79)** In the model development phase, model security becomes paramount.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=83)** Activities in this phase include securing notebooks, model security scanning, and embracing software composition analysis, also known as SCA, and [[Dynamic [[Application Security]] Testing]], also known as DAST, specifically tailored for ML environments.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=83)** Activities in this phase include securing notebooks, model security scanning, and embracing software composition analysis, also known as SCA, and [[Dynamic Application Security Testing]], also known as DAST, specifically tailored for ML environments.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=99)** Model scanning identify security flaws and vulnerabilities within machine learning models, and AI aware SCA and DAST tools analyze dependencies and detect potential security vulnerabilities and ML components.
 >
@@ -1115,7 +1115,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=49)** The measure function quantifies some of the information surfaced in the map function with tools and methodologies to benchmark and analyze AI and ML risks.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=59)** ML SecOp activities such as model scanning, software composition analysis, and SAST, [[Static [[Application Security]] Testing]], can be used for benchmarking in support of the measure function.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=59)** ML SecOp activities such as model scanning, software composition analysis, and SAST, [[Static Application Security Testing]], can be used for benchmarking in support of the measure function.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=71)** Once AI and ML risks have been mapped and measured, the manage function comes into play.
 >

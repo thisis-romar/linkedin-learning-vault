@@ -1108,7 +1108,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=121)** Now we already have a MyProject folder, which is you could see it's under Users.
 >
-> **[2:07](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=127)** I'll hold my cursor there so you can see.
+> **[2:07](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=127)** I'll hold my [[Cursor]] there so you can see.
 >
 > **[2:08](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980&t=128)** Users, Gordon-[[LinkedIn]], Documents, ArcGIS, Projects.
 >
@@ -5535,7 +5535,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=73)** That's because I have snapping turned on.
 >
-> **[1:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=75)** If you don't see that, and you put your cursor right there and you don't see anything happening, make sure snapping is checked on.
+> **[1:15](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=75)** If you don't see that, and you put your [[Cursor]] right there and you don't see anything happening, make sure snapping is checked on.
 >
 > **[1:23](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/drawing-new-data?u=76281980&t=83)** That means that as soon as you get to a nearest vertex, it actually snaps to it.
 >

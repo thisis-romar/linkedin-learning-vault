@@ -351,7 +351,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=32)** Anything that comes with core can be easily replaced so this could be the WP admin or WP includes folders.
 >
-> **[0:39](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=39)** You can easily download these again from [[[WordPress]].org](https://WordPress.org).
+> **[0:39](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=39)** You can easily download these again from [WordPress.org](https://WordPress.org).
 >
 > **[0:43](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=43)** What is irreplaceable is the database, especially as more customizations live there now.
 >
@@ -373,7 +373,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=105)** One way to take backups is to do them manually.
 >
-> **[1:48](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=108)** You can use an FTP program to download your files regularly and then you can use a plugin like WP Migrate DB, which is free in the WordPress plugin repository, to download the [[SQL]] file for your database.
+> **[1:48](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=108)** You can use an FTP program to download your files regularly and then you can use a plugin like WP Migrate DB, which is free in the [[WordPress]] plugin repository, to download the [[SQL]] file for your database.
 >
 > **[2:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=125)** And while this would certainly satisfy the criteria of multiple copies in a separate location, the backup might not be current.
 >

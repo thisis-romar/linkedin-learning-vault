@@ -411,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980&t=98)** Select gives you the ability to ask the database for data, and that's probably going to be the most common keyword that you use when working with SQL, so you'll definitely get used to seeing it.
 >
-> **[1:48](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980&t=108)** So we're in the execute query tab, and we're going to place our cursor in this first box and then enter select star from employees, and then hit the execute all button, the play symbol here.
+> **[1:48](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980&t=108)** So we're in the execute query tab, and we're going to place our [[Cursor]] in this first box and then enter select star from employees, and then hit the execute all button, the play symbol here.
 >
 > **[2:07](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980&t=127)** And there you go.
 >

@@ -198,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=9)** We begin with a review of [[Generative AI]].
 >
-> **[0:12](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=12)** In order to differentiate from agentic AI, we will call the use of LLMs to generate content as basic GenAI.
+> **[0:12](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=12)** In order to differentiate from agentic AI, we will call the use of LLMs to generate content as basic [[Generative AI|GenAI]].
 >
 > **[0:21](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980&t=21)** Generative AI, or GenAI for short, has taken the world by storm recently.
 >
@@ -246,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=0)** - [Narrator] What is a agentic AI?
 >
-> **[0:02](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=2)** How is it different from basic GenAI?
+> **[0:02](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=2)** How is it different from basic [[Generative AI|GenAI]]?
 >
 > **[0:06](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/what-is-agentic-ai?u=76281980&t=6)** Let's first discuss the concept of agentic.
 >
@@ -325,7 +325,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/an-agentic-ai-example?u=76281980&t=0)** - [Instructor] How is agentic AI different from manual processes and basic GenAI?
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/an-agentic-ai-example?u=76281980&t=0)** - [Instructor] How is agentic AI different from manual processes and basic [[Generative AI|GenAI]]?
 >
 > **[0:06](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/an-agentic-ai-example?u=76281980&t=6)** Let's discuss it with an example.
 >
@@ -408,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=108)** This means that any mistakes made by the agents may go unnoticed and may have disastrous impact to the business.
 >
-> **[1:56](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=116)** Regulations and governance around GenAI and [[AI Agents]] are coming up.
+> **[1:56](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=116)** Regulations and governance around [[Generative AI|GenAI]] and [[AI Agents]] are coming up.
 >
 > **[2:02](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/benefits-challenges-of-agentic-ai?u=76281980&t=122)** Conformance to these requirements is required for businesses to use agents.
 >
@@ -434,7 +434,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=8)** There are several frameworks and technologies that are emerging for agentic AI.
 >
-> **[0:13](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=13)** Most of them build upon existing gen AI capabilities, like LLM and RAG.
+> **[0:13](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=13)** Most of them build upon existing [[Generative AI|gen AI]] capabilities, like LLM and RAG.
 >
 > **[0:19](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/technologies-for-agentic-ai?u=76281980&t=19)** Existing frameworks for gen AI have been adding agentic capabilities over their current functions.
 >
@@ -504,7 +504,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980&t=91)** The planner in turn uses an LLM to understand inputs and progress to create the next set of actions.
 >
-> **[1:40](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980&t=100)** This is where Gen AI plays the role in decision making, making the application agentic.
+> **[1:40](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980&t=100)** This is where [[Generative AI|Gen AI]] plays the role in decision making, making the application agentic.
 >
 > **[1:47](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980&t=107)** The orchestrator then uses the executor to execute the plans created by the planner.
 >
@@ -557,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980&t=19)** What are some of the characteristics of goals?
 >
-> **[0:23](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980&t=23)** Goals can be considered similar to prompts in GenAI, and they look very similar, but goals typically require a multi-step process across multiple tools to achieve the end result.
+> **[0:23](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980&t=23)** Goals can be considered similar to prompts in [[Generative AI|GenAI]], and they look very similar, but goals typically require a multi-step process across multiple tools to achieve the end result.
 >
 > **[0:36](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/goals-in-agentic-ai?u=76281980&t=36)** Goals are typically provided in natural language format, like a question or a work order.
 >
@@ -844,7 +844,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=71)** [[Microservices]] that are part of an enterprise application workflow can also be used as tools.
 >
-> **[1:18](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=78)** GenAI models can also be used as tools when they provide a specific function like image generation, video analysis, or translation.
+> **[1:18](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=78)** [[Generative AI|GenAI]] models can also be used as tools when they provide a specific function like image generation, video analysis, or translation.
 >
 > **[1:28](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/tools-in-agentic-ai?u=76281980&t=88)** Cloud platforms like Salesforce or [[Microsoft]] [[SharePoint]] can also be integrated with as tools in agentic AI.
 >
@@ -873,7 +873,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/gen-ai-models-in-agentic-ai?u=76281980&t=0)** - [Instructor] In this video, let's discuss GenAI models in agentic AI and some considerations for using them.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/gen-ai-models-in-agentic-ai?u=76281980&t=0)** - [Instructor] In this video, let's discuss [[Generative AI|GenAI]] models in agentic AI and some considerations for using them.
 >
 > **[0:07](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/gen-ai-models-in-agentic-ai?u=76281980&t=7)** LLMS and GenAI models form a integral part of an AI agent providing intelligence and [[Decision-Making]] capabilities LLMS are considered the brains of [[AI Agents]].
 >
@@ -2333,7 +2333,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=0)** - [Instructor] The last topic we will discuss in this course is Compliance.
 >
-> **[0:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=4)** Agentic AI is subject to several compliance requirements like GenAI.
+> **[0:04](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=4)** Agentic AI is subject to several compliance requirements like [[Generative AI|GenAI]].
 >
 > **[0:09](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/compliance-in-agentic-ai?u=76281980&t=9)** When building [[AI Agents]], care should be taken to ensure that they comply with legal, ethical, and organizational requirements for agents.
 >

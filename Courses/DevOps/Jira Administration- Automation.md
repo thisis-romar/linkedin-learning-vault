@@ -184,7 +184,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=34)** If you have Jira Cloud Premium or Enterprise, Sandbox functionality is already built in.
 >
-> **[0:41](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=41)** Access it from the [[Microsoft Products|products]] tab at admin.[[[Atlassian]].com](https://atlassian.com).
+> **[0:41](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=41)** Access it from the [[Microsoft Products|products]] tab at admin.[atlassian.com](https://atlassian.com).
 >
 > **[0:47](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=47)** If there's no existing test environment, sign up for your own free version of Jira Cloud.
 >

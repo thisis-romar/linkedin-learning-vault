@@ -911,7 +911,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=192)** But that wouldn't be very good here.
 >
-> **[3:14](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=194)** So the sketch uses set cursor to set the position back to the beginning of the line each time.
+> **[3:14](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=194)** So the sketch uses set [[Cursor]] to set the position back to the beginning of the line each time.
 >
 > **[3:21](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=201)** That's it for our hello world sketch.
 >
@@ -978,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=27)** First, you need to change the text in the LCD print statement.
 >
-> **[0:31](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=31)** Then you need to explicitly place the cursor before each line is written to the LCD using the set cursor method.
+> **[0:31](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=31)** Then you need to explicitly place the [[Cursor]] before each line is written to the LCD using the set cursor method.
 >
 > **[0:38](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=38)** Let's go to the [[Arduino]] IDE to see how this works.
 >
@@ -1027,7 +1027,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=0)** - [Instructor] The design concept we're working from has two rows, one row with invaders and one row with a laser that moves back and forth.
 >
-> **[0:07](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=7)** We already know how to show characters on the display using set cursor and print, so let's focus on animating the laser.
+> **[0:07](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=7)** We already know how to show characters on the display using set [[Cursor]] and print, so let's focus on animating the laser.
 >
 > **[0:15](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=15)** Traditionally, animation consists of frames being presented one-by-one.
 >
@@ -1506,7 +1506,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=11)** The first new feature there is to set up the invaders.
 >
-> **[0:14](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=14)** Following our keep it simple mantra, one approach is to simply use LCD set cursor and LCD print to display a string of invaders at the top of our display.
+> **[0:14](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=14)** Following our keep it simple mantra, one approach is to simply use LCD set [[Cursor]] and LCD print to display a string of invaders at the top of our display.
 >
 > **[0:25](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=25)** One thing that will be useful to know when we get to our sketch is that individual characters in a string can be accessed directly.
 >
@@ -1669,7 +1669,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980&t=132)** I need to use a double equals rather than a string.
 >
-> **[2:17](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980&t=137)** And then I'll set a block here and I want to set the cursor erase the invader, but now I also want to remove it from the invader string.
+> **[2:17](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980&t=137)** And then I'll set a block here and I want to set the [[Cursor]] erase the invader, but now I also want to remove it from the invader string.
 >
 > **[2:33](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980&t=153)** So I'll say invaders also with index laser column
 >
@@ -2394,7 +2394,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980&t=93)** Zap Invaders.
 >
-> **[1:35](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980&t=95)** And then I'll set the cursor to the second line.
+> **[1:35](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980&t=95)** And then I'll set the [[Cursor]] to the second line.
 >
 > **[1:44](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980&t=104)** And print the second line of the message.
 >
@@ -2704,7 +2704,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980&t=122)** If an invader was hit, deactivate it.
 >
-> **[2:13](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980&t=133)** And we check if the invader at the laser column is an asterisk, then we set the cursor to the laser column.
+> **[2:13](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980&t=133)** And we check if the invader at the laser column is an asterisk, then we set the [[Cursor]] to the laser column.
 >
 > **[2:22](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980&t=142)** And instead of printing a space there, we want to print a plus sign and reduce the number of invaders.
 >

@@ -1582,9 +1582,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=13)** You can now start to apply what you've learned and, on your way, you might come across the topics we've covered and you'll likely want to delve deeper into them.
 >
-> **[0:22](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=22)** In the library, you'll find another course of mine called [[[[Node.js]]- Microservices]].
+> **[0:22](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=22)** In the library, you'll find another course of mine called [[Node.js- Microservices]].
 >
-> **[0:26](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=26)** There I cover how to build your own microservice infrastructure using Node.js.
+> **[0:26](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=26)** There I cover how to build your own microservice infrastructure using [[Node.js]].
 >
 > **[0:30](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=30)** If you know Node.js already, this can really get you started in understanding microservice platforms.
 >

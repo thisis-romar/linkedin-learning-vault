@@ -139,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=18)** Then we will cover the capabilities of Microsoft security solutions, including [[Microsoft]] [[Microsoft Entra ID|Entra]], [[Microsoft Defender|Defender]] XDR, Defender for Cloud, Sentinel, Intune, Purview, Priva and [[Microsoft Azure|Azure]] Security services.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=33)** And lastly, we'll discover the AI-powered protection provided by [[Microsoft Security [[Microsoft Copilot|Copilot]]]].
+> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=33)** And lastly, we'll discover the AI-powered protection provided by [[Microsoft Security Copilot]].
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=41)** I'm Bryan and I worked in IT and cyber security for many years.
 >
@@ -169,7 +169,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=62)** Risk and [[Compliance Management]], [[Data Governance]] and security, [[Privacy Protection]], and AI-powered protection.
 >
-> **[1:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=73)** In this course, we will look into key Microsoft security solutions in each of these categories, such as [[Microsoft]] [[Microsoft Entra ID|Entra]] for Identity and Access Management, [[Microsoft Defender]] XDR for threat protection, [[Microsoft Azure|Azure]] Security Services for cloud security, Microsoft Defender for Cloud for Cloud Native Application Protection Platform, Microsoft Intune for endpoint management and security, Microsoft Sentinel for SIEM and SOAR, Microsoft Purview for risk and compliance management, Microsoft Purview for data governance and security, Microsoft Priva for privacy protection, and [[Microsoft Security [[Microsoft Copilot|Copilot]]]] for AI-powered protection.
+> **[1:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=73)** In this course, we will look into key Microsoft security solutions in each of these categories, such as [[Microsoft]] [[Microsoft Entra ID|Entra]] for Identity and Access Management, [[Microsoft Defender]] XDR for threat protection, [[Microsoft Azure|Azure]] Security Services for cloud security, Microsoft Defender for Cloud for Cloud Native Application Protection Platform, Microsoft Intune for endpoint management and security, Microsoft Sentinel for SIEM and SOAR, Microsoft Purview for risk and compliance management, Microsoft Purview for data governance and security, Microsoft Priva for privacy protection, and [[Microsoft Security Copilot]] for AI-powered protection.
 >
 > **[2:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=128)** As you can see, Microsoft offers end-to-end AI-powered security [[Microsoft Products|products]].
 >
@@ -1677,9 +1677,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=90)** You can access Microsoft Defender XDR through its unified portal.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=97)** In addition, Microsoft Defender XDR is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], an AI-powered security analysis solution.
+> **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=97)** In addition, Microsoft Defender XDR is integrated with [[Microsoft Security Copilot]], an AI-powered security analysis solution.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=107)** With Security Copilot, you can use prompts to perform common tasks, such as summarizing an incident or generating a guided response.
+> **[1:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=107)** With Security [[Microsoft Copilot|Copilot]], you can use prompts to perform common tasks, such as summarizing an incident or generating a guided response.
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=118)** Now let's take a quick tour of Microsoft Defender XDR.
 >
@@ -1691,7 +1691,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=157)** Under threat intelligence, you can find recent threat analytics reports.
 >
-> **[2:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=164)** Through the Microsoft Defender unified portal, you can access various Microsoft security products, including Microsoft Defender for Identity, Microsoft Defender for Endpoint, Microsoft Defender Vulnerability Management, Microsoft Defender for Office 365 and Microsoft Defender for Cloud Apps.
+> **[2:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=164)** Through the Microsoft Defender unified portal, you can access various [[Microsoft Security]] products, including Microsoft Defender for Identity, Microsoft Defender for Endpoint, Microsoft Defender Vulnerability Management, Microsoft Defender for Office 365 and Microsoft Defender for Cloud Apps.
 >
 > **[3:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=192)** You can also access Microsoft Sentinel capabilities from this portal, which brings you unified [[Security Operations]] platform between XDR and SIEM solutions.
 
@@ -2295,9 +2295,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=67)** It also provides additional capabilities, such as monitoring both network and application network traffic, including protocols like HTTPS, building high availability to ensure continuous operations, tracking states of active connections to make decisions based on traffic context, supporting source and destination Network Address Translation, or NAT, to manage and secure traffic between the internet and your private resources, and integration with many other Azure services, like Azure Virtual Networks, Azure Policy, and Azure Monitor.
 >
-> **[1:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=113)** Moreover, Azure Firewall is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], an AI-powered assistant for security analysts.
+> **[1:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=113)** Moreover, Azure Firewall is integrated with [[Microsoft Security Copilot]], an AI-powered assistant for security analysts.
 >
-> **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=123)** By enabling the Azure Firewall plugin, you can use prompts to access its capabilities in [[Microsoft Security Copilot]], such as searching across firewalls for [[Intrusion Detection]] and prevention signatures, or asking Copilot to generate recommendations to secure your environment using Azure Firewall.
+> **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=123)** By enabling the Azure Firewall plugin, you can use prompts to access its capabilities in [[Microsoft Security Copilot]], such as searching across firewalls for [[Intrusion Detection]] and prevention signatures, or asking [[Microsoft Copilot|Copilot]] to generate recommendations to secure your environment using Azure Firewall.
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=147)** When speaking of network security services in Azure, you may wonder, "What's the difference between an Azure Firewall and an Azure Network Security Group or NSG?"
 >
@@ -2352,7 +2352,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=106)** Azure WAF also helps defend against distributed denial of service, DDoS, attacks targeting applications.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=115)** Moreover, Azure Web Application Firewall is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], an AI-powered assistant for security analysts.
+> **[1:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=115)** Moreover, Azure Web Application Firewall is integrated with [[Microsoft Security Copilot]], an AI-powered assistant for security analysts.
 >
 > **[2:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=126)** You can use prompts to access its capabilities in [[Microsoft Security Copilot]], such as getting details of [[SQL]] injection or cross-site script attacks blocked by Azure Web Application Firewall.
 
@@ -2648,7 +2648,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=240)** You can view the detailed information and take action to mitigate the threat.
 >
-> **[4:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=246)** If your organization has [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] enabled, you can use the AI assistant to summarize this recommendation.
+> **[4:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=246)** If your organization has [[Microsoft Security Copilot]] enabled, you can use the AI assistant to summarize this recommendation.
 
 > [!info]- Semantic Content
 >
@@ -2788,9 +2788,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=83)** It's a cloud-based endpoint management and security solution that provides the capabilities such as device management, app management, [[Endpoint Security]], and endpoint analytics.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=99)** In addition, Microsoft Intune is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], an AI-powered security analysis solution.
+> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=99)** In addition, Microsoft Intune is integrated with [[Microsoft Security Copilot]], an AI-powered security analysis solution.
 >
-> **[1:48](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=108)** With Security Copilot, you can use prompts to perform common tasks such as getting device details or summarizing a device policy.
+> **[1:48](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=108)** With Security [[Microsoft Copilot|Copilot]], you can use prompts to perform common tasks such as getting device details or summarizing a device policy.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=119)** Now, let's take a quick tour of Microsoft Intune.
 >
@@ -2866,9 +2866,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=51)** It's a unified platform that offers a comprehensive set of solutions for risk and compliance management, data security, and data governance.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=63)** In addition, Microsoft Purview is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], and an AI powered security analysis solution.
+> **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=63)** In addition, Microsoft Purview is integrated with [[Microsoft Security Copilot]], and an AI powered security analysis solution.
 >
-> **[1:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=73)** With Security Copilot, you can use prompts to perform common tasks such as summarizing e-discovery documents or summarizing messages in communication compliance.
+> **[1:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=73)** With Security [[Microsoft Copilot|Copilot]], you can use prompts to perform common tasks such as summarizing e-discovery documents or summarizing messages in communication compliance.
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=87)** Now let's take a quick tour of Microsoft Purview.
 >
@@ -3018,7 +3018,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=179)** You can tag the file.
 >
-> **[3:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=185)** If your organization has [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] enabled in Microsoft Purview, you can ask this AI assistant to summarize the file and help with your reviews.
+> **[3:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=185)** If your organization has [[Microsoft Security Copilot]] enabled in Microsoft Purview, you can ask this AI assistant to summarize the file and help with your reviews.
 
 > [!info]- Semantic Content
 >
@@ -3839,7 +3839,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] is an AI powered security analysis solution.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Security Copilot]] is an AI powered security analysis solution.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=6)** You might be wondering, what can AI do with security.
 >
@@ -3853,13 +3853,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=53)** Specifically the rise of [[Generative AI]] is transforming how we work and learn today.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=59)** This is why [[Microsoft]] introduced Copilot, an AI powered virtual companion to improve work productivity.
+> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=59)** This is why [[Microsoft]] introduced [[Microsoft Copilot|Copilot]], an AI powered virtual companion to improve work productivity.
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=68)** Built on Copilot architecture, [[Microsoft Security Copilot]] helps organizations protect, detect, and respond to security threats faster and more effectively.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=79)** This is a diagram from Microsoft that illustrates the architecture of [[Microsoft Security Copilot]] and how it integrates with variants, services, and the tools to deliver an AI powered security protection.
 >
-> **[1:34](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=94)** First, at the AI model layer, [[Microsoft Security Copilot]] combines OpenAI's generative AI models with Microsoft security data sources.
+> **[1:34](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=94)** First, at the AI model layer, [[Microsoft Security Copilot]] combines OpenAI's generative AI models with [[Microsoft Security]] data sources.
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=105)** Security Copilot operates on Microsoft's hyperscale AI and the [[Cloud Infrastructure]].
 >
@@ -3930,13 +3930,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=0)** - [Instructor] Let's look at the general process flow of [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]].
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=0)** - [Instructor] Let's look at the general process flow of [[Microsoft Security Copilot]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=5)** [[Microsoft Security Copilot]] uses orchestrator to work with user interfaces, plugins, and AI.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=14)** First, a user prompt submitted from the standalone portal or embedded panel is sent to Security Copilot's orchestrator.
+> **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=14)** First, a user prompt submitted from the standalone portal or embedded panel is sent to Security [[Microsoft Copilot|Copilot]]'s orchestrator.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=24)** Next, Copilot selects the right plugin to pre-process the prompt, so it can retrieve the specific context from the selected service, such as Microsoft Security [[Microsoft Products|Products]], third-party tools, or custom services.
+> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=24)** Next, Copilot selects the right plugin to pre-process the prompt, so it can retrieve the specific context from the selected service, such as [[Microsoft Security]] [[Microsoft Products|Products]], third-party tools, or custom services.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=40)** Then the modified prompt is sent to the Large Language Model, or LLM.
 >
@@ -4021,9 +4021,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] is powered by [[Generative AI]].
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Security Copilot]] is powered by [[Generative AI]].
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=5)** Prompting is how you interact with Security Copilot.
+> **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=5)** Prompting is how you interact with Security [[Microsoft Copilot|Copilot]].
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=9)** What is a prompt?
 >
@@ -4108,13 +4108,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=0)** - [Instructor] [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] is integrated with the variants of Microsoft security solutions.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=0)** - [Instructor] [[Microsoft Security Copilot]] is integrated with the variants of [[Microsoft Security]] solutions.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=7)** For example, [[Microsoft Defender]] XDR for threat protection, Microsoft Defender Threat Intelligence, Microsoft Defender for Cloud, [[Microsoft]] [[Microsoft Entra ID|Entra]] for identity and access management, Microsoft Intune for endpoint management and security, Microsoft Purview for [[Data Governance]], security and compliance, Microsoft Sentinel for security information and event management, and [[Microsoft Azure|Azure]] Security services such as Azure Firewall and Azure Web application firewall.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=45)** [[Microsoft Security Copilot]] provides two ways for you to access the capabilities, provided by Microsoft Security Solutions.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=53)** You can use the standalone Copilot portal, or you can use the embedded Copilot within many of Microsoft security [[Microsoft Products|products]].
+> **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=53)** You can use the standalone [[Microsoft Copilot|Copilot]] portal, or you can use the embedded Copilot within many of Microsoft security [[Microsoft Products|products]].
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=63)** This is convenient because you don't need to leave the product page to access Copilot.
 >
@@ -4279,7 +4279,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=5)** Now, you have a comprehensive understanding of [[Microsoft Security]] Essentials.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=10)** As a quick summary, we covered the fundamental concepts of security, identity, governance, risk, compliance, and [[Privacy]], the capabilities of Microsoft security solutions including [[Microsoft]] [[Microsoft Entra ID|Entra]], [[Microsoft Defender|Defender]] XDR, Defender for Cloud, Sentinel, Intune, Purview, Priva, and [[Microsoft Azure|Azure]] Security Services, and the AI-powered protection provided by [[Microsoft Security [[Microsoft Copilot|Copilot]]]].
+> **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=10)** As a quick summary, we covered the fundamental concepts of security, identity, governance, risk, compliance, and [[Privacy]], the capabilities of Microsoft security solutions including [[Microsoft]] [[Microsoft Entra ID|Entra]], [[Microsoft Defender|Defender]] XDR, Defender for Cloud, Sentinel, Intune, Purview, Priva, and [[Microsoft Azure|Azure]] Security Services, and the AI-powered protection provided by [[Microsoft Security Copilot]].
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=40)** So, what's next?
 >

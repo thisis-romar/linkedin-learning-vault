@@ -445,7 +445,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=134)** Awesome. The import was successful.
 >
-> **[2:17](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=137)** So this is a simple [[[ASP.NET]]](https://ASP.NET) Core application that shows the assessment report of all students for a particular course.
+> **[2:17](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=137)** So this is a simple [ASP.NET](https://ASP.NET) Core application that shows the assessment report of all students for a particular course.
 >
 > **[2:28](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980&t=148)** We will build the CI/CD pipeline to deploy this application to stages, also known as environments, like the dev, test and production environment.
 >
@@ -496,7 +496,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=102)** In that case, you need to define custom task in the empty job in order to build your pipeline.
 >
-> **[1:51](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=111)** A sample application is an [[[ASP.NET]]](https://ASP.net) Coreweb application.
+> **[1:51](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=111)** A sample application is an [ASP.net](https://ASP.net) Coreweb application.
 >
 > **[1:56](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-build-pipeline?u=76281980&t=116)** So let's search for [ASP.net](https://ASP.net) Coreor scroll down.
 >
@@ -1065,7 +1065,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=268)** Let's provide a name for this task group.
 >
-> **[4:31](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=271)** I'll call it net core build task and a description, tasker for building [[[ASP.NET]]](https://ASP.net) Core applications.
+> **[4:31](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=271)** I'll call it net core build task and a description, tasker for building [ASP.net](https://ASP.net) Core applications.
 >
 > **[4:49](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/create-a-task-group-for-build-pipelines?u=76281980&t=289)** The category will be build.
 >
@@ -1646,7 +1646,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=338)** We are done configuring the dev stage, so let's go ahead and check out the QA stage.
 >
-> **[5:45](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=345)** To do that, place your mouse cursor over the task tab and select QA.
+> **[5:45](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=345)** To do that, place your mouse [[Cursor]] over the task tab and select QA.
 >
 > **[5:52](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-a-release-pipeline-for-multistage-deployment?u=76281980&t=352)** Let's select the appropriate subscription.
 >

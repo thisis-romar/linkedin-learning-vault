@@ -395,7 +395,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980&t=71)** Use IDE add-ins for coding languages such as [[Python (Programming Language)|Python]] and infrastructure code, such as [[Terraform]], and use source control.
 >
-> **[1:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980&t=79)** Later in this course, I'll show how I'm using gen AI tools such as [[GitHub Copilot]] and Claude AI to speed up my work with cloud.
+> **[1:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980&t=79)** Later in this course, I'll show how I'm using [[Generative AI|gen AI]] tools such as [[GitHub Copilot]] and Claude AI to speed up my work with cloud.
 
 > [!info]- Semantic Content
 >
@@ -429,7 +429,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=43)** The key is to expand your thinking about what kinds of code you may need to write for the cloud.
 >
-> **[0:49](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=49)** Also, get started using gen AI tools to quickly prototype, debug, and test both application and infrastructure code.
+> **[0:49](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=49)** Also, get started using [[Generative AI|gen AI]] tools to quickly prototype, debug, and test both application and infrastructure code.
 
 > [!info]- Semantic Content
 >
@@ -459,7 +459,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=45)** And [[NoSQL]] [[Cloud Services]] for best TCO, or total cost of ownership.
 >
-> **[0:50](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=50)** Explore serverless and GenAI services and tool-to-speed, time-to-value.
+> **[0:50](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=50)** Explore serverless and [[Generative AI|GenAI]] services and tool-to-speed, time-to-value.
 
 > [!info]- Semantic Content
 >
@@ -477,7 +477,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=5)** - Two years ago, I would've said [[Python (Programming Language)|Python]] and [[Terraform]].
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=9)** While these continue to be key cloud languages, my work has completely changed due to the explosion of Gen AI tools.
+> **[0:09](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=9)** While these continue to be key cloud languages, my work has completely changed due to the explosion of [[Generative AI|Gen AI]] tools.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=17)** As a trained linguist, it thrills me to say that English is now my core programming language.
 >
@@ -848,7 +848,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=130)** NVIDIA, of course, is, you know, so fundamental in the growth of AI because of the [[Hardware]] that they make.
 >
-> **[2:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=139)** So they have added a number of certifications that are becoming increasingly valued in this world of GenAI and advanced machine learning.
+> **[2:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=139)** So they have added a number of certifications that are becoming increasingly valued in this world of [[Generative AI|GenAI]] and advanced machine learning.
 >
 > **[2:29](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=149)** So they have, for example, a Certified Associate for Generative AI and LLMs, and they have a Generative AI Multimodal certification that I'm actually looking at taking 'cause it seems interesting.
 >
@@ -888,7 +888,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=53)** Using the best fit tools for proactive network and security monitoring is a key skill for both DevOps and SecOps.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=62)** Common tools include cloud monitoring, logging, alerting, and applied gen AI tools, which analyze workloads and suggest remediations.
+> **[1:02](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=62)** Common tools include cloud monitoring, logging, alerting, and applied [[Generative AI|gen AI]] tools, which analyze workloads and suggest remediations.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=73)** There are more jobs than trained professionals for cloud security.
 
@@ -917,7 +917,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=33)** Some customers have cloud devs write wrappers around [[Cloud Services]] for [[Hybrid Cloud]] flexibility.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=40)** With the rise of gen AI or LLM based [[Application Development]], I've seen other devs partner with data scientists to build custom apps such as chatbots using a combination of app and DevOps code, along with custom machine learning models or augmented gen AI apps.
+> **[0:40](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=40)** With the rise of [[Generative AI|gen AI]] or LLM based [[Application Development]], I've seen other devs partner with data scientists to build custom apps such as chatbots using a combination of app and DevOps code, along with custom machine learning models or augmented gen AI apps.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=60)** The key is to think more broadly than traditional business app dev.
 >
@@ -1006,7 +1006,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=0)** - [Instructor] I'm going to show you how I use GenAI tools for various cloud roles.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=0)** - [Instructor] I'm going to show you how I use [[Generative AI|GenAI]] tools for various cloud roles.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=5)** Let's start with developer.
 >
@@ -1157,7 +1157,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=124)** So here's the deployment script.
 >
-> **[2:08](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=128)** So once I have both of these scripts, I might want to go over it and use Amazon's GenAI to make sure that these scripts are generated via best practices because you would think that Amazon's GenAI would be trained on Amazon's documentation specifically.
+> **[2:08](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=128)** So once I have both of these scripts, I might want to go over it and use Amazon's [[Generative AI|GenAI]] to make sure that these scripts are generated via best practices because you would think that Amazon's GenAI would be trained on Amazon's documentation specifically.
 >
 > **[2:24](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=144)** So what I would then do is I would go over and open Amazon Q, and I would say list five best practices for deploying, I'll say EC2 instances with GPUs.
 >
@@ -1363,7 +1363,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=0)** - [Instructor] Here's an example of how I used GenAI in a current architecture task.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=0)** - [Instructor] Here's an example of how I used [[Generative AI|GenAI]] in a current architecture task.
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=6)** The client wanted me to help design and build a quick POC for a RAG-based GenAI custom application, and they wanted to build it on [[Google Cloud Platform (GCP)|Google Cloud]].
 >

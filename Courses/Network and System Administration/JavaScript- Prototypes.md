@@ -1151,7 +1151,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=13)** If you want to understand another tricky part of coding in JavaScript, take a look at my course on [[JavaScript- Closures]].
 >
-> **[0:19](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=19)** If you want more practice implementing prototypes, take a look at [[JavaScript Practice- [[Object-Oriented Programming (OOP)|Object-Oriented Programming]]]].
+> **[0:19](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=19)** If you want more practice implementing prototypes, take a look at [[JavaScript Practice- Object-Oriented Programming]].
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980&t=27)** Now take your new skills and build something amazing.
 >

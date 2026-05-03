@@ -14675,9 +14675,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=35)** Now, although it uses [[Tableau]] for all of its visualizations, it's actually tool agnostic.
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=41)** The other course you should really look at is the [[Creating Interactive Tableau [[Dashboards]]]].
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=41)** The other course you should really look at is the [[Creating Interactive Tableau Dashboards]].
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=46)** This goes into a lot more detail about the final part of our Tableau journey, which is creating the dashboards.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=46)** This goes into a lot more detail about the final part of our Tableau journey, which is creating the [[Dashboards]].
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=53)** In that course, we talk about the types of dashboard that we create.
 >

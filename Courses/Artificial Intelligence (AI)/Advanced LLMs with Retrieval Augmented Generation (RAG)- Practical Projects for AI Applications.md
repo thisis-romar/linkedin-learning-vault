@@ -305,7 +305,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=61)** So feel free to follow the notebooks either in the GitHub website or around it locally.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=70)** So here I'm going to use my Visual Studio Code environment powered by Cursor, and we are going to run the code here.
+> **[1:10](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=70)** So here I'm going to use my Visual Studio Code environment powered by [[Cursor]], and we are going to run the code here.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/building-simple-rag-example?u=76281980&t=79)** So this is the simple RAG implementation, the first notebook in our journey.
 >

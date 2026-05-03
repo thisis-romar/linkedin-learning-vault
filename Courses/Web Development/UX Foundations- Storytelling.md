@@ -860,7 +860,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=98)** How can you speak to your audience's fears, concerns, anxieties, if you don't know what they are?
 >
-> **[1:44](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=104)** For more information about how to get to know your customers, check out my course, [[[[Market Research]] Foundations]], where we'll talk about all sorts of qualitative and quantitative techniques you can use to learn about your audience.
+> **[1:44](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=104)** For more information about how to get to know your customers, check out my course, [[Market Research Foundations]], where we'll talk about all sorts of qualitative and quantitative techniques you can use to learn about your audience.
 >
 > **[1:58](https://www.linkedin.com/learning/ux-foundations-storytelling/authentic-relatable-stories-21040231?u=76281980&t=118)** Third, look for the scenes, not the story.
 >
@@ -1414,7 +1414,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=25)** If you're craving more, I do have another course on [[LinkedIn]] Learning that I know you're going to love.
 >
-> **[0:31](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=31)** I've worked with hundreds of companies to gather stories from their customers, and in the course [[[[Market Research]] Foundations]], I teach you how to get this data, precisely how to ask your customers about their journey and document their stories for your company.
+> **[0:31](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=31)** I've worked with hundreds of companies to gather stories from their customers, and in the course [[Market Research Foundations]], I teach you how to get this data, precisely how to ask your customers about their journey and document their stories for your company.
 >
 > **[0:46](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980&t=46)** I'd love to keep in touch.
 >

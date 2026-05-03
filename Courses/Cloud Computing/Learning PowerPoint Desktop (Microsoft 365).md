@@ -232,7 +232,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=49)** That placeholder text immediately disappears.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=51)** And now I have a flashing cursor, which means I can just start typing.
+> **[0:51](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=51)** And now I have a flashing [[Cursor]], which means I can just start typing.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=55)** Throughout this course, I'll be working on a presentation for a fictitious chain of hotels called Landon Hotels.
 >
@@ -464,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-text-with-text-slides-boxes-and-shapes?u=76281980&t=30)** I'll go up to the Insert tab of the ribbon, and here we have a Text Box button.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-text-with-text-slides-boxes-and-shapes?u=76281980&t=35)** Clicking that turns your mouse cursor into the text box tool.
+> **[0:35](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-text-with-text-slides-boxes-and-shapes?u=76281980&t=35)** Clicking that turns your mouse [[Cursor]] into the text box tool.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-text-with-text-slides-boxes-and-shapes?u=76281980&t=38)** And we can use this in one of two ways.
 >
@@ -1745,7 +1745,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-presenter-view?u=76281980&t=22)** You can also enter Presenter View without connecting to a second display, which you might want to do to set the view up the way you like before you're in front of a live audience.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-presenter-view?u=76281980&t=29)** Let's go into Slide Show View, and I'll move my cursor down here to the lower left, and I'll click this menu button and choose Show Presenter View.
+> **[0:29](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-presenter-view?u=76281980&t=29)** Let's go into Slide Show View, and I'll move my [[Cursor]] down here to the lower left, and I'll click this menu button and choose Show Presenter View.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-presenter-view?u=76281980&t=42)** Okay, so this is what you see on your computer when you're connected to a projector.
 >

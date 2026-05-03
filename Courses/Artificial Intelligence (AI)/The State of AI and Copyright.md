@@ -190,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980&t=50)** I think the key issue, at least in the US is on fair-use and when it comes to, you know, Garrick as you said, as these machine learning models are ingesting lots of copyrighted information along with all sorts of other information, personal data, sensitive information, is it a fair-use of that material to copy that material which would be one of the exclusive rights of copyright holders to make copies of their work and use those copies to build and train one of these generative AI models that may then output some material that looks kind of similar to that original source material.
 >
-> **[1:33](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980&t=93)** The things I've heard is, you know is this theft on a mass scale of copyrighted works on the content owner side and then on the gen AI platform side, you know, is this a transformative, novel use of the works and something we need to do for technological progress?
+> **[1:33](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980&t=93)** The things I've heard is, you know is this theft on a mass scale of copyrighted works on the content owner side and then on the [[Generative AI|gen AI]] platform side, you know, is this a transformative, novel use of the works and something we need to do for technological progress?
 >
 > **[1:52](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980&t=112)** So very strong views on both sides of this issue.
 >
@@ -262,7 +262,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=66)** And then if you look particularly at maybe Singapore and Japan, the general belief is that they have a broad exception, which does allow this text and data mining training of AI to take place.
 >
-> **[1:19](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=79)** - I think it's interesting right now, if we think about some of the big gen AI companies, you know, the ones that come to mind are US-based and US law. - Right.
+> **[1:19](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=79)** - I think it's interesting right now, if we think about some of the big [[Generative AI|gen AI]] companies, you know, the ones that come to mind are US-based and US law. - Right.
 >
 > **[1:29](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=89)** - And I think we would expect, and as we've seen in some of the papers, they are relying on this expansive fair use exception to justify the training.
 >
@@ -757,7 +757,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980&t=12)** - Mm-hm.
 >
-> **[0:13](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980&t=13)** - I think we've all seen the headlines and public comments from a lot of the gen AI companies saying, "Please regulate us."
+> **[0:13](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980&t=13)** - I think we've all seen the headlines and public comments from a lot of the [[Generative AI|gen AI]] companies saying, "Please regulate us."
 >
 > **[0:20](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980&t=20)** And where are we going to see those regulations?
 >

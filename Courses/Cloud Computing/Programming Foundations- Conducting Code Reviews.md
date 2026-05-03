@@ -238,7 +238,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=16)** Many development processes exist, but in this case we'll be looking at a basic [[Agile Development|Agile]] process.
 >
-> **[0:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=23)** In an [[[[Agile Software Development]]]] process, there is planning, analysis, design, implementation, testing, integration, and maintenance.
+> **[0:23](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=23)** In an [[Agile Software Development]] process, there is planning, analysis, design, implementation, testing, integration, and maintenance.
 >
 > **[0:33](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/code-reviews-in-the-software-development-life-cycle?u=76281980&t=33)** While we won't be diving too deep into Agile, testing and integration are great places to start practicing code reviews.
 >

@@ -91,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980&t=30)** I'm Jake Dunlap, the author of "Innovative Seller," co-host of the "AI Unleashed" series on [[LinkedIn]], and CEO of Skaled Consulting.
 >
-> **[0:38](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980&t=38)** Join me in transforming your sales approach with GenAI strategies that will help you get started on this journey.
+> **[0:38](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980&t=38)** Join me in transforming your sales approach with [[Generative AI|GenAI]] strategies that will help you get started on this journey.
 
 > [!info]- Semantic Content
 >
@@ -254,7 +254,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=111)** Finally, and this is one of the more common use cases for ChatGPT, we have brainstorming.
 >
-> **[1:57](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=117)** We can leverage gen AI for brainstorming sessions, generating many ideas for [[Sales Strategy]], outbound campaigns, or dealing with tough situations, and it can swiftly evaluate options to help you come up with the best one.
+> **[1:57](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=117)** We can leverage [[Generative AI|gen AI]] for brainstorming sessions, generating many ideas for [[Sales Strategy]], outbound campaigns, or dealing with tough situations, and it can swiftly evaluate options to help you come up with the best one.
 >
 > **[2:12](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=132)** By mastering these six types of prompts, ChatGPT becomes more than a tool.
 >
@@ -730,7 +730,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=124)** This prompt aims to break down silos, encouraging departments to see the mutual benefits of working together, thereby building trust and opening lines of communication.
 >
-> **[2:15](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=135)** Through these GenAI plays, we're not just solving immediate collaboration challenges, we're laying the groundwork for ongoing relationships and trust building that values open dialogue and mutual success across departments.
+> **[2:15](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=135)** Through these [[Generative AI|GenAI]] plays, we're not just solving immediate collaboration challenges, we're laying the groundwork for ongoing relationships and trust building that values open dialogue and mutual success across departments.
 >
 > **[2:30](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=150)** This approach strengthens relationships, not just for the task at hand, but for future projects as well.
 

@@ -711,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=19)** Examples of relational [[Database Management]] systems that we can integrate into websites are [[MySQL]], [[PostgreSQL]], and SQLite.
 >
-> **[0:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=27)** I also work with a lot of [[[ASP.NET]]](https://asp.net) applications that use [[Microsoft SQL Server]] as its database backend.
+> **[0:27](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=27)** I also work with a lot of [asp.net](https://asp.net) applications that use [[Microsoft SQL Server]] as its database backend.
 >
 > **[0:34](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/web-development?u=76281980&t=34)** Let's take a look at an example of how we integrate and manage data for a website.
 >
@@ -943,7 +943,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=209)** As you can see, in addition to SQL data engineers can also be familiar with Python along with [[Linux]] and Unix commands, Secure FTP, [[API Development]], and encryption protocols.
 >
-> **[3:43](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=223)** If you're interested in learning more check out more in the [[LinkedIn]] Learning library on [[[[Data Engineering]] Foundations]].
+> **[3:43](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-engineering-and-cloud-computing?u=76281980&t=223)** If you're interested in learning more check out more in the [[LinkedIn]] Learning library on [[Data Engineering Foundations]].
 
 > [!info]- Semantic Content
 >

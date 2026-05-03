@@ -248,7 +248,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=6)** Let's use [[GPT-4]] to help us out.
 >
-> **[0:08](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=8)** I'm on [[[ChatGPT]].com](https://ChatGPT.com) and have selected GPT-4o in the top left corner as my model.
+> **[0:08](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=8)** I'm on [ChatGPT.com](https://ChatGPT.com) and have selected [[GPT-4|GPT-4o]] in the top left corner as my model.
 >
 > **[0:14](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=14)** You can click up here to double check.
 >
@@ -270,7 +270,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=47)** This is a pretty fun idea, but I don't have that much time to prepare for this.
 >
-> **[0:51](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=51)** So let's ask ChatGPT for three simpler ideas that don't require too much prep.
+> **[0:51](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=51)** So let's ask [[ChatGPT]] for three simpler ideas that don't require too much prep.
 >
 > **[0:56](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=56)** What are three ideas that don't require too much prep?
 >
@@ -676,7 +676,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=63)** This is why these models are stronger coding and math, domains where verification on answers is easier.
 >
-> **[1:08](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=68)** So let's ask GPT-4o and o4-mini the same question.
+> **[1:08](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=68)** So let's ask [[GPT-4|GPT-4o]] and o4-mini the same question.
 >
 > **[1:13](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=73)** Let's start off with an easy one.
 >
@@ -1195,7 +1195,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=61)** So we can use one of the tools, we can click on Write or code, and now this is going to use the canvas feature.
 >
-> **[1:09](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=69)** So let's go ahead and rewrite this code with GPT-4o.
+> **[1:09](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=69)** So let's go ahead and rewrite this code with [[GPT-4|GPT-4o]].
 >
 > **[1:14](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=74)** So this is a new interface.
 >

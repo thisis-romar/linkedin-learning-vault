@@ -237,7 +237,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=175)** Now, the version of GitHub Copilot that I'm going to use is the latest one.
 >
-> **[2:59](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=179)** So I'm going to work with the GPT-4o model, and I also want to ensure that I communicate this upfront that GitHub Copilot is a paid subscription.
+> **[2:59](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=179)** So I'm going to work with the [[GPT-4|GPT-4o]] model, and I also want to ensure that I communicate this upfront that GitHub Copilot is a paid subscription.
 >
 > **[3:09](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/prerequisites-and-learning-goals?u=76281980&t=189)** So you would need to have a paid license before you can start writing code with GitHub Copilot.
 >
@@ -528,7 +528,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=117)** So I'm going to allow, and this takes me to a page wherein I need to verify my session.
 >
-> **[2:06](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=126)** It comes to my [[[GitHub]].com](https://github.com) and I need to continue to allow the extension to use my credentials.
+> **[2:06](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=126)** It comes to my [github.com](https://github.com) and I need to continue to allow the extension to use my credentials.
 >
 > **[2:13](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-visual-studio-code?u=76281980&t=133)** And I'm back on GitHub Copilot chat and I see Ask [[Microsoft Copilot|Copilot]], which means I'm successfully authenticated.
 >

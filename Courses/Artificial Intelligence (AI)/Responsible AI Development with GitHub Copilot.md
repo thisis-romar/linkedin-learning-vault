@@ -1193,7 +1193,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=27)** It saves a lot of time.
 >
-> **[0:28](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=28)** As for [[GitHub Copilot]], you just go to docs.[[[GitHub]].com/[[Microsoft Copilot|copilot]]](https://github.com/copilot), and you'll be able to read extremely comprehensive documentation from troubleshooting guides, feature references, model comparisons, and countless other things.
+> **[0:28](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=28)** As for [[GitHub Copilot]], you just go to docs.[github.com/copilot](https://github.com/copilot), and you'll be able to read extremely comprehensive documentation from troubleshooting guides, feature references, model comparisons, and countless other things.
 >
 > **[0:45](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=45)** When you hit an issue, you can search through the docs.
 >
@@ -1203,7 +1203,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=59)** [[Gemini]] has Googled AI's documentation, which are all also listed in Copilots documentation within.
 >
-> **[1:07](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=67)** You can also go to GitHub's community discussion at [github.com/community](https://github.com/community) where there's Copilot sections where you can ask questions and report issues.
+> **[1:07](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=67)** You can also go to [[GitHub]]'s community discussion at [github.com/community](https://github.com/community) where there's [[Microsoft Copilot|Copilot]] sections where you can ask questions and report issues.
 >
 > **[1:18](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=78)** You can search before asking too.
 >

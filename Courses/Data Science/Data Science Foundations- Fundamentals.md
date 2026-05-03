@@ -1349,7 +1349,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=179)** Those don't fit into spreadsheets.
 >
-> **[3:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=182)** Or biometric data, facial recognition, your fingerprints, your heart readings, and when you move the mouse on your computer to find out where the cursor went.
+> **[3:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=182)** Or biometric data, facial recognition, your fingerprints, your heart readings, and when you move the mouse on your computer to find out where the [[Cursor]] went.
 >
 > **[3:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=192)** That's a distinctive signature that is recorded and identified for each user.
 >
@@ -3058,7 +3058,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=262)** Another place where this shows up is generative AI.
 >
-> **[4:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=265)** This is a GenAI photo of a bowl of soup, and the idea is a lot of AI, it's pretty obvious that it's AI when you look at the pictures, but there are ways to use these methods, especially the simulations, to get to something that looks a little more realistic.
+> **[4:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=265)** This is a [[Generative AI|GenAI]] photo of a bowl of soup, and the idea is a lot of AI, it's pretty obvious that it's AI when you look at the pictures, but there are ways to use these methods, especially the simulations, to get to something that looks a little more realistic.
 >
 > **[4:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=282)** Now, you may be familiar with the approach that's generally used called GANs, which is for generative adversarial network.
 >
@@ -5007,7 +5007,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=311)** It can cluster immediately based on the data that it already has.
 >
-> **[5:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=318)** A couple of other perks of using these gen AI or transformer-based models is that they are built for non-linear data, and so they're able to model non-linear associations and use those when they're clustering.
+> **[5:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=318)** A couple of other perks of using these [[Generative AI|gen AI]] or transformer-based models is that they are built for non-linear data, and so they're able to model non-linear associations and use those when they're clustering.
 >
 > **[5:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=333)** They can also work at much higher dimensions.
 >
@@ -5136,7 +5136,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=234)** You can also use personal measures, things like biometrics or latency in typing, or you can measure a person's height approximately by the angle at which they hold their cell phone.
 >
-> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=245)** The mode of transportation they're on by getting the vibration through the accelerometer, or an interesting one is a signature of their name, or a person trying to find the cursor on their computer is in fact a signature that can be measured and stored and new data can be compared against that.
+> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=245)** The mode of transportation they're on by getting the vibration through the accelerometer, or an interesting one is a signature of their name, or a person trying to find the [[Cursor]] on their computer is in fact a signature that can be measured and stored and new data can be compared against that.
 >
 > **[4:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=261)** And of course, [[Generative AI]] methods have also had an impact on these problems as well.
 >

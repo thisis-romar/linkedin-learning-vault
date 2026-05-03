@@ -887,7 +887,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=209)** So, the error here is no-console, and the value is going to be an array.
 >
-> **[3:37](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=217)** So this is all documented as everything else in that [[[ESLint]].org](https://eslint.org) man page for this particular rule.
+> **[3:37](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=217)** So this is all documented as everything else in that [eslint.org](https://eslint.org) man page for this particular rule.
 >
 > **[3:45](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=225)** And so first we say, a string, we give a string for the type of issue that we want raised when this problem occurs, and we want it to raise an error.
 >
@@ -917,7 +917,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=314)** So, I have an else statement here that's orphaned, there's nothing in that else statement, but it's also not being flagged.
 >
-> **[5:20](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=320)** So we'll go to eslint and add one more rule.
+> **[5:20](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=320)** So we'll go to [[ESLint]] and add one more rule.
 >
 > **[5:24](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=324)** And that is the no-empty rule.
 >

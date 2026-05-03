@@ -2435,9 +2435,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=13)** Now in the Microsoft Azure Cloud, we can use the GUI portal administrative tool.
 >
-> **[0:18](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=18)** I've already signed in to portal.[[[Microsoft Azure|azure]].com](https://azure.com).
+> **[0:18](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=18)** I've already signed in to portal.[azure.com](https://azure.com).
 >
-> **[0:22](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=22)** The first thing we need to consider is if we want to generate certificates here in the Azure Cloud, we can do that quite easily, but we're going to need a key vault first.
+> **[0:22](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=22)** The first thing we need to consider is if we want to generate certificates here in the [[Microsoft Azure|Azure]] Cloud, we can do that quite easily, but we're going to need a key vault first.
 >
 > **[0:33](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=33)** Now a key vault is a resource that you create in your Azure subscription, and it serves as a centralized cloud-based secure storage location for secrets such as certificates.
 >
@@ -2729,7 +2729,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=325)** But another possibility is malicious actors registering a DNS domain and adding records as if they were another organization, or what happens often using nomenclature that is very similar, but not quite spelt exactly correctly.
 >
-> **[5:44](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=344)** Imagine, for example, attackers registering a DNS domain name back in the day for [[[Google]].com](https://google.com), but only with one o because some people typed that in incorrectly, and then registering a certificate for it.
+> **[5:44](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=344)** Imagine, for example, attackers registering a DNS domain name back in the day for [google.com](https://google.com), but only with one o because some people typed that in incorrectly, and then registering a certificate for it.
 >
 > **[5:57](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=357)** So, that's another way that hackers might go about trying to compromise this.
 >

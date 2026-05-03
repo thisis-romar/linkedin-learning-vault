@@ -1885,7 +1885,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=30)** First, you'll want to find a good database.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=32)** The course [[[[Databases]] for Node.js Developers]] by Daniel Khan is a great place to start.
+> **[0:32](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=32)** The course [[Databases for Node.js Developers]] by Daniel Khan is a great place to start.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=37)** This course introduces [[MongoDB]], [[Redis]], and [[MySQL]].
 >

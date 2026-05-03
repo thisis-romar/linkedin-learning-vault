@@ -427,7 +427,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980&t=0)** - To better understand the [[Agile Development|Agile]] mindset, you have to start by looking at the manifesto for [[[[Agile Software Development]]]] or what's commonly called the Agile Manifesto.
+> **[0:00](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980&t=0)** - To better understand the [[Agile Development|Agile]] mindset, you have to start by looking at the manifesto for [[Agile Software Development]] or what's commonly called the Agile Manifesto.
 >
 > **[0:11](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980&t=11)** The Agile Manifesto is a set of statements of four values and 12 principles that are intended to help you embrace an Agile mindset.
 >
@@ -1788,7 +1788,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=61)** XP is still only focused on software development.
 >
-> **[1:05](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=65)** That means if you're an [[[[Agile Software Development]]]] team, you should probably consider using many of the XP practices.
+> **[1:05](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=65)** That means if you're an [[Agile Software Development]] team, you should probably consider using many of the XP practices.
 >
 > **[1:13](https://www.linkedin.com/learning/agile-foundations/extreme-programming-21057909?u=76281980&t=73)** A few of these practices are agile planning, [[Continuous Integration (CI)|continuous integration]], software refactoring and test driven development.
 >

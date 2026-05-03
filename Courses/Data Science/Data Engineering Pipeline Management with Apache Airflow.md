@@ -1250,7 +1250,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=46)** I'm logged into my Gmail account here.
 >
-> **[0:49](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=49)** I'm going to open up a new tab and go to myaccount.[[[Google]].com/usecurity](https://google.com/usecurity).
+> **[0:49](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=49)** I'm going to open up a new tab and go to myaccount.[google.com/usecurity](https://google.com/usecurity).
 >
 > **[0:56](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=56)** I'm logged in as Loonytestuser.001 and I want to be able to send emails from this Gmail address when an SLA Miss occurs.
 >
@@ -1262,7 +1262,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=83)** Head over to myaccount.[google.com/apppasswords](https://google.com/apppasswords).
 >
-> **[1:28](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=88)** This will take you to a page where you can generate app passwords that allows you to sign into your Google account from apps on devices that don't support two-step verification.
+> **[1:28](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=88)** This will take you to a page where you can generate app passwords that allows you to sign into your [[Google]] account from apps on devices that don't support two-step verification.
 >
 > **[1:40](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=100)** If you're on a corporate account, this page may not be accessible to you.
 >
@@ -3352,7 +3352,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=76)** Here are some other interesting courses on [[LinkedIn]] Learning.
 >
-> **[1:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=80)** [[[[Apache Kafka]] Essential Training- Getting Started]] will introduce you to the Apache Kafka message broking service, or if you'd rather do some [[Big Data]] processing, Introduction to Spark is a great course for you to watch.
+> **[1:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=80)** [[Apache Kafka Essential Training- Getting Started]] will introduce you to the [[Apache Kafka]] message broking service, or if you'd rather do some [[Big Data]] processing, Introduction to Spark is a great course for you to watch.
 >
 > **[1:34](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=94)** Well, that's it from me here today.
 >

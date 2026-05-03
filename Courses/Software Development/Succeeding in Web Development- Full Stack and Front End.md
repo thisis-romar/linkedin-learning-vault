@@ -547,7 +547,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=83)** Most of the time, when we're working on the web, we don't see these numbers.
 >
-> **[1:27](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=87)** But instead use names like [[[Google]].com](https://Google.com) or [[[LinkedIn]].com](https://LinkedIn.com).
+> **[1:27](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=87)** But instead use names like [Google.com](https://Google.com) or [LinkedIn.com](https://LinkedIn.com).
 >
 > **[1:31](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=91)** But those names get translated into numbers by a sort of address book system called the Domain Name Servers, or DNS.
 >
@@ -559,7 +559,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=124)** And they're also known as URLs or Uniform Resource Locators.
 >
-> **[2:09](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=129)** When you type in an address, like [https://linkedin.com](https://linkedin.com), you're identifying that you want to use the ACTPS protocol and that you want to locate the LinkedIn domain using the dot com extension.
+> **[2:09](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=129)** When you type in an address, like [https://linkedin.com](https://linkedin.com), you're identifying that you want to use the ACTPS protocol and that you want to locate the [[LinkedIn]] domain using the dot com extension.
 >
 > **[2:23](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980&t=143)** A DNS server will translate that into a number and send the request to a server that returns back a website.
 >

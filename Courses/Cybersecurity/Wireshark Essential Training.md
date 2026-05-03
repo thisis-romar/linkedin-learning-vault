@@ -1224,7 +1224,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=134)** Now, where did that value come from?
 >
-> **[2:16](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=136)** Well, I'll scroll down here and I'll place my cursor on the HTTP header and here you see 134 bytes.
+> **[2:16](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=136)** Well, I'll scroll down here and I'll place my [[Cursor]] on the HTTP header and here you see 134 bytes.
 >
 > **[2:23](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=143)** Again, that's just a number calculated in Wireshark.
 >
@@ -1441,7 +1441,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=116)** Now with that first packet, going from the client to the server, comes with it some options.
 >
-> **[2:03](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=123)** If I place my cursor on the TCP header and then look down below the TCP header is 40 bytes.
+> **[2:03](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=123)** If I place my [[Cursor]] on the TCP header and then look down below the TCP header is 40 bytes.
 >
 > **[2:11](https://www.linkedin.com/learning/wireshark-essential-training/viewing-the-tcp-handshake-and-teardown?u=76281980&t=131)** The TCP header is 20 bytes at least, but with options it's more, now at this point it's 40 bytes.
 >
@@ -1674,7 +1674,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=58)** This tells us the header length, and it is 20 bytes.
 >
-> **[1:02](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=62)** And I can confirm if we go and place my cursor up on the top, and then look down below, that it is 20 bytes.
+> **[1:02](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=62)** And I can confirm if we go and place my [[Cursor]] up on the top, and then look down below, that it is 20 bytes.
 >
 > **[1:11](https://www.linkedin.com/learning/wireshark-essential-training/outlining-ipv4?u=76281980&t=71)** This field value here is called differentiated services.
 >
@@ -1841,7 +1841,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980&t=257)** So let's take a look.
 >
-> **[4:20](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980&t=260)** Now, down below, we see the ICMPv6 header, and I'll place my cursor here and then down below on the status bar, we see that it's 144 bytes.
+> **[4:20](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980&t=260)** Now, down below, we see the ICMPv6 header, and I'll place my [[Cursor]] here and then down below on the status bar, we see that it's 144 bytes.
 >
 > **[4:34](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-ipv6-24579234?u=76281980&t=274)** It says the Next Header is ICMPv6, which we know, and the Hop Limit is 255.
 >
@@ -2165,7 +2165,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980&t=175)** I'll pull this up.
 >
-> **[2:57](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980&t=177)** And we'll place my cursor on that TCP header.
+> **[2:57](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980&t=177)** And we'll place my [[Cursor]] on that TCP header.
 >
 > **[3:00](https://www.linkedin.com/learning/wireshark-essential-training/solution-evaluating-a-pcap?u=76281980&t=180)** And I want you to take a look down below.
 >

@@ -3451,7 +3451,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=86)** And if you would like a firmer foundation in data modeling, I would recommend Robin Hunt's Learning Data Analytics courses, which you can work through right alongside the Power BI tools.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=100)** Finally, if you'd like to know more about data modeling in Power BI using formulas, I recommend my course, [[Power BI Data Modeling with [[DAX]]]], which allows you to add formulas to the modeling techniques you already have learned to work, for example, with custom columns.
+> **[1:40](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=100)** Finally, if you'd like to know more about data modeling in Power BI using formulas, I recommend my course, [[Power BI Data Modeling with DAX]], which allows you to add formulas to the modeling techniques you already have learned to work, for example, with custom columns.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=119)** It's truly been a pleasure to create this course for you.
 >

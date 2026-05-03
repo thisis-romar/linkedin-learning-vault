@@ -781,7 +781,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=10)** If you want to further explore the [[OpenAI API]], there's my course, OpenAI API Vision, where we look at the neat [[Computer Vision]] capabilities of this API.
 >
-> **[0:22](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=22)** Then there's my course, [[Introduction To [[Prompt Engineering]] For [[Generative AI]]]], where we look at the broad landscape of Gen AI tools, and unique prompt engineering techniques.
+> **[0:22](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=22)** Then there's my course, [[Introduction To Prompt Engineering For Generative Ai]], where we look at the broad landscape of [[Generative AI|Gen AI]] tools, and unique [[Prompt Engineering]] techniques.
 >
 > **[0:35](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=35)** Finally, there's Training a Neural Network in [[Python (Programming Language)|Python]] with Eduardo Corpeno.
 >

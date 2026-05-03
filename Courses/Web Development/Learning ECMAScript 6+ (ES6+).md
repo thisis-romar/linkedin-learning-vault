@@ -304,7 +304,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=15)** So you can stay on top of what this committee is up to by going to the repo.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=22)** So you can use this repo [[[GitHub]].com/tc39](https://github.com/tc39).
+> **[0:22](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=22)** So you can use this repo [github.com/tc39](https://github.com/tc39).
 >
 > **[0:27](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=27)** In it, you're going to see all of the different proposals that are part of the ECMAScript process.
 >
@@ -2124,7 +2124,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=26)** Fetch is just going to take in the URL of our API.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=30)** So that api.[open-notify.org/astros/[[JSON]]](https://open-notify.org/astros/json), that's where all of our data is.
+> **[0:30](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=30)** So that api.[open-notify.org/astros/json](https://open-notify.org/astros/json), that's where all of our data is.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=37)** So we're going to pass that directly into this fetch function.
 >
@@ -2132,7 +2132,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=48)** Now, fetch returns the entire response object.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=51)** And the object has a JSON function that parses the body as JSON.
+> **[0:51](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=51)** And the object has a [[JSON]] function that parses the body as JSON.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=56)** So let's go ahead and take the response and we'll call it response.json.
 >

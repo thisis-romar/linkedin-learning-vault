@@ -85,11 +85,11 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=0)** Hi, and welcome to this course.
 >
-> **[0:02](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=2)** [[AI Workshop- Build a Neural Network with [[PyTorch]] Lightning]].
+> **[0:02](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=2)** [[AI Workshop- Build a Neural Network with PyTorch Lightning]].
 >
 > **[0:06](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=6)** Since this course is an AI workshop, for most of this course we'll be performing hands-on coding.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=12)** We'll build a neural network with PyTorch and we'll see how we can write cleaner, more modular reusable code with PyTorch Lightning.
+> **[0:12](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=12)** We'll build a neural network with [[PyTorch]] and we'll see how we can write cleaner, more modular reusable code with PyTorch Lightning.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=19)** Now, before we get to the demos, just a little bit of an overview of PyTorch and PyTorch lightning.
 >

@@ -555,7 +555,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=107)** On level one for example we can get the amount of redirects that the user had to have in that particular navigation using performance.navigation.redirectCount.
 >
-> **[2:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=120)** So for example if you went to [[[Facebook]].com](https://Facebook.com) from a mobile device and [Facebook.com](https://Facebook.com) redirected to m.[facebook.com](https://facebook.com) because you're on mobile browser in that case performance navigation rediectCount will give you one.
+> **[2:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=120)** So for example if you went to [Facebook.com](https://Facebook.com) from a mobile device and [Facebook.com](https://Facebook.com) redirected to m.[facebook.com](https://facebook.com) because you're on mobile browser in that case performance navigation rediectCount will give you one.
 >
 > **[2:15](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=135)** Because there was one redirect to get to that point.
 >

@@ -109,7 +109,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=79)** So while it's important to understand what Copilot agents are capable of, in this course, we're just going to dip our toes in and look at the basics of how to create agents in Copilot Studio, how to add knowledge to them, and how to get them to perform certain types of tasks, and we'll look at a very basic example of creating an autonomous agent at the end.
 >
-> **[1:37](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=97)** Now, before we get started, this course does assume that you have at least some experience using Copilot or [[Generative AI Tools]] in general, so we're not going to spend time talking about what gen AI is or how to write prompts and so on.
+> **[1:37](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=97)** Now, before we get started, this course does assume that you have at least some experience using Copilot or [[Generative AI Tools]] in general, so we're not going to spend time talking about what [[Generative AI|gen AI]] is or how to write prompts and so on.
 >
 > **[1:48](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=108)** If you haven't spent much time with AI tools, I suggest you first check out courses like, "What is Copilot: Get Started with [[Microsoft]]'s Everyday AI Companion" and "Streamlining Your Work with [[Microsoft Copilot]]" both by my colleague, Nick Brazzi.
 
@@ -128,7 +128,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=0)** - [Instructor] Okay, so to create a [[Microsoft Copilot|Copilot]] agent, we go to copilotstudio.[[[Microsoft]].com](https://microsoft.com) and sign in.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=0)** - [Instructor] Okay, so to create a [[Microsoft Copilot|Copilot]] agent, we go to copilotstudio.[microsoft.com](https://microsoft.com) and sign in.
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=6)** Now, if you just want to try this out, you can sign in with your work account for a free trial that will allow you to build and test agents.
 >

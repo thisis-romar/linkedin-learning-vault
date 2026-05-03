@@ -517,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=178)** Before we continue, I want to point out something that's happening behind the scenes.
 >
-> **[3:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=182)** For both of these options, this wizard is actually downloading and installing a free plugin from [[[WordPress]].org](https://WordPress.org).
+> **[3:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=182)** For both of these options, this wizard is actually downloading and installing a free plugin from [WordPress.org](https://WordPress.org).
 >
 > **[3:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=189)** So if you see an extra plugin or two on your site, now you know why.
 >
@@ -592,7 +592,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=79)** So I'll actually deactivate them for right now.
 >
-> **[1:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=81)** Since we want Automated Taxes, we need to connect to [[[WordPress]].com](https://wordpress.com), which powers all of this functionality.
+> **[1:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=81)** Since we want Automated Taxes, we need to connect to [wordpress.com](https://wordpress.com), which powers all of this functionality.
 >
 > **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=88)** And in order to do that we need to connect our store via Jetpack, which is a free plugin offered by [wordpress.com](https://wordpress.com).
 >
@@ -1635,7 +1635,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=71)** I've already downloaded the WooCommerce plugin to my computer.
 >
-> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=75)** You can also go to [[[WordPress]].org](https://wordpress.org) and download the WooCommerce plugin there.
+> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=75)** You can also go to [wordpress.org](https://wordpress.org) and download the WooCommerce plugin there.
 >
 > **[1:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=81)** I'll click on Choose File, I'll go to my desktop, and here is the unzipped plugin that I just downloaded.
 >
@@ -1693,7 +1693,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=5)** This is all well and good, but our store looks pretty boring.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=9)** Luckily for us, there are hundreds of free [[WooCommerce]] themes on [[[WordPress]].org](https://WordPress.org), and there are plenty of theme stores like WooCommerce and ThemeForest that sell premium themes.
+> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=9)** Luckily for us, there are hundreds of free [[WooCommerce]] themes on [WordPress.org](https://WordPress.org), and there are plenty of theme stores like WooCommerce and ThemeForest that sell premium themes.
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=19)** We've already installed a theme called Storefront onto the site through the Welcome Wizard.
 >
@@ -2713,7 +2713,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=84)** If you're just setting this up, you'll first need to add a credit card.
 >
-> **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=88)** I've already set this up on other sites, so [[[WordPress]].com](https://wordpress.com) already knows what my credit card looks like.
+> **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=88)** I've already set this up on other sites, so [wordpress.com](https://wordpress.com) already knows what my credit card looks like.
 >
 > **[1:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=93)** Let's go ahead and click "Create shipping label".
 >
@@ -4629,7 +4629,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=17)** I'll click that button.
 >
-> **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=20)** Go ahead and enter your [[[WordPress]].com](https://wordpress.com) email address.
+> **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=20)** Go ahead and enter your [wordpress.com](https://wordpress.com) email address.
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=25)** It might be auto suggested.
 >

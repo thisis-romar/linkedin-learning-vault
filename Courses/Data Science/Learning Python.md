@@ -138,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-python-25309312/before-you-get-started?u=76281980&t=37)** So having some prior programming knowledge will help, but again, it's not required.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-python-25309312/before-you-get-started?u=76281980&t=42)** However, if you really are completely new to programming and have never written any code before, I would suggest you watch the [[[[Programming Foundations]] Fundamentals]] course before taking this one.
+> **[0:42](https://www.linkedin.com/learning/learning-python-25309312/before-you-get-started?u=76281980&t=42)** However, if you really are completely new to programming and have never written any code before, I would suggest you watch the [[Programming Foundations Fundamentals]] course before taking this one.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-python-25309312/before-you-get-started?u=76281980&t=53)** It does a great job of introducing the basic fundamentals of programming.
 >
@@ -473,7 +473,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-python-25309312/building-hello-world?u=76281980&t=73)** So what's happening here is the Python Interpreter is reading what I typed, evaluating the code, printing the result, and then looping back again to the input state.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-python-25309312/building-hello-world?u=76281980&t=85)** You can see the cursor there next to the little three arrows.
+> **[1:25](https://www.linkedin.com/learning/learning-python-25309312/building-hello-world?u=76281980&t=85)** You can see the [[Cursor]] there next to the little three arrows.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-python-25309312/building-hello-world?u=76281980&t=88)** That's where the term REPL comes from.
 >

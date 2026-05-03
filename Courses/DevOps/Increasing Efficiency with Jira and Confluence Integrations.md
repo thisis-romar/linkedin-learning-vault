@@ -977,7 +977,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=72)** When you're done with this course, you can keep the free versions for future testing, or for personal projects, like planning your next vacation, or documenting major purchase decisions.
 >
-> **[1:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=84)** Here's how to create brand-new cloud test applications, visit [[[Atlassian]].com/software/jira](https://atlassian.com/software/jira), and click Get Jira free.
+> **[1:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=84)** Here's how to create brand-new cloud test applications, visit [atlassian.com/software/jira](https://atlassian.com/software/jira), and click Get Jira free.
 >
 > **[1:35](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=95)** Next, enter an email address and click the Sign up button.
 >
@@ -991,7 +991,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=118)** I'll enter woodworking.
 >
-> **[2:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=120)** That name is taken on Atlassian servers now, so you'll need to enter something different for yourself.
+> **[2:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=120)** That name is taken on [[Atlassian]] servers now, so you'll need to enter something different for yourself.
 >
 > **[2:06](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=126)** Then Atlassian will ask you some getting-started questions, like what kind of work you do and what methodology you use to do the work.
 >

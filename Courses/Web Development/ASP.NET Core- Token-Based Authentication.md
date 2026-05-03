@@ -97,7 +97,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=45)** Hi, I am Ervis Trupja and I specialize in building .NET web applications.
 >
-> **[0:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=51)** Join me in my [[LinkedIn]] Learning course as we explore the token-based authentication in an [[[ASP.NET]]](https://ASP.NET) Web API application.
+> **[0:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=51)** Join me in my [[LinkedIn]] Learning course as we explore the token-based authentication in an [ASP.NET](https://ASP.NET) Web API application.
 
 > [!info]- Semantic Content
 >

@@ -769,7 +769,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=7)** We're going to be using VS Code to write our code, which is free to download and install from code.[visualstudio.com](https://visualstudio.com).
 >
-> **[0:15](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=15)** We will also need to install .NET, which can be done from dotnet.[[[Microsoft]].com](https://microsoft.com), both the SDK and the runtime.
+> **[0:15](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=15)** We will also need to install .NET, which can be done from dotnet.[microsoft.com](https://microsoft.com), both the SDK and the runtime.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=24)** In order to run C# code in Visual Studio, you'll also need the C# extension, which can be searched for in the Extensions tab.
 >
@@ -1419,7 +1419,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=0)** - [Instructor] Here we can see that we are back in our [[Microsoft Azure|Azure]] Data Lake account.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=3)** However, in this case, we are viewing our Data Lake from Azure Storage Explorer, which is a tool, which is available to download from azure.[[[Microsoft]].com](https://microsoft.com).
+> **[0:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=3)** However, in this case, we are viewing our Data Lake from Azure Storage Explorer, which is a tool, which is available to download from azure.[microsoft.com](https://microsoft.com).
 >
 > **[0:14](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=14)** You remember that we have a few folders set up in our Data Lake.
 >

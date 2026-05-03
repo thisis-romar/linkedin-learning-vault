@@ -1378,7 +1378,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=50)** Tools like [[ChatGPT]] can help you write social media responses to customers posts, but they can also help you read and interpret posts so you can reply accurately.
 >
-> **[1:01](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=61)** Now, some of you may have used Gen AI tools before, and some of you may be brand new to them.
+> **[1:01](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=61)** Now, some of you may have used [[Generative AI|Gen AI]] tools before, and some of you may be brand new to them.
 >
 > **[1:08](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=68)** If you need to get up to speed, here are six [[LinkedIn]] learning courses that will help you understand what generative AI is and how you may use it to respond to customers on social media.
 >
@@ -1526,7 +1526,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=87)** Let ChatGPT help.
 >
-> **[1:29](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=89)** Use a prompt that includes Deanna's Facebook post, instructions on what type of social posts you want the GenAI to write and how long it should be, the link to the policy at the TSA website for ChatGPT to use and to share with the customer.
+> **[1:29](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=89)** Use a prompt that includes Deanna's Facebook post, instructions on what type of social posts you want the [[Generative AI|GenAI]] to write and how long it should be, the link to the policy at the TSA website for ChatGPT to use and to share with the customer.
 >
 > **[1:46](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=106)** Here's what your ChatGPT prompt could be.
 >

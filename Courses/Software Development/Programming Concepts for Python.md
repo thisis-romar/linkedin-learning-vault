@@ -1717,7 +1717,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=153)** For example, to use the urlopen function, we would type urllib.request.urlopen and then give it the URL we want to access.
 >
-> **[2:46](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=166)** Let's try accessing [[[Google]].com](https://google.com).
+> **[2:46](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=166)** Let's try accessing [google.com](https://google.com).
 >
 > **[2:50](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=170)** That function accesses [google.com](https://google.com) and returns an HTTPResponse object that contains the information it retrieved.
 >
@@ -3686,7 +3686,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=150)** This example script begins by importing the request module from the URL lib package.
 >
-> **[2:36](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=156)** Then on line five, it uses the URL open function from that request module to access the URL for [[[Google]].com](https://google.com).
+> **[2:36](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=156)** Then on line five, it uses the URL open function from that request module to access the URL for [google.com](https://google.com).
 >
 > **[2:44](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=164)** The URL open function will return an HTTP response object, which contains the raw binary data for the webpage.
 >

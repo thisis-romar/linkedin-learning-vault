@@ -853,7 +853,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/mitigating-the-risk-of-information-accumulation?u=76281980&t=139)** My personal inclination is to keep a little bit more, but make sure that your security program is strong.
 >
-> **[2:27](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/mitigating-the-risk-of-information-accumulation?u=76281980&t=147)** If you want more information about data classification, check the course library for "[[[[Data Science Foundations]]- Fundamentals]]", and "[[Data Privacy]], Governance, and Compliance: How to Classify and Inventory Your Data".
+> **[2:27](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/mitigating-the-risk-of-information-accumulation?u=76281980&t=147)** If you want more information about data classification, check the course library for "[[Data Science Foundations- Fundamentals]]", and "[[Data Privacy]], Governance, and Compliance: How to Classify and Inventory Your Data".
 
 > [!info]- Semantic Content
 >
@@ -913,7 +913,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/streamlining-and-automating-processes?u=76281980&t=180)** So no extra charge. Free is always a good thing.
 >
-> **[3:06](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/streamlining-and-automating-processes?u=76281980&t=186)** There's a great course in the online library, [[[[Process Mining]] for [[Robotic Process Automation (RPA)|Robotic Process Automation]]]], which will give you more information on analyzing your processes and converting them into automated routines.
+> **[3:06](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/streamlining-and-automating-processes?u=76281980&t=186)** There's a great course in the online library, [[Process Mining for Robotic Process Automation]], which will give you more information on analyzing your processes and converting them into automated routines.
 >
 > **[3:20](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/streamlining-and-automating-processes?u=76281980&t=200)** You might also want to do a search for Microsoft Power platform to see what you can do with some of the tools you may already have in hand.
 

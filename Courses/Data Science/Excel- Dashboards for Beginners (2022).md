@@ -334,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980&t=76)** Okay, so let us now actually implement the table because it's going to let us easily organize our data.
 >
-> **[1:23](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980&t=83)** So I'm over here, I'm going to put my cursor anywhere within this table region.
+> **[1:23](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980&t=83)** So I'm over here, I'm going to put my [[Cursor]] anywhere within this table region.
 >
 > **[1:28](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980&t=88)** I'll go to the Insert tab then I'm going to click Table.
 >
@@ -728,7 +728,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=162)** Let's go take a look at that.
 >
-> **[2:44](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=164)** I'll put my cursor in here.
+> **[2:44](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=164)** I'll put my [[Cursor]] in here.
 >
 > **[2:46](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=166)** I'm going to go to the pivot table analyze ribbon tab.
 >
@@ -855,7 +855,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=1)** - [Instructor] Once we have become acquainted with our data, we are now ready to turn it into an [[Microsoft Excel|Excel]] table.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=6)** I'll put my cursor anywhere within this data region.
+> **[0:06](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=6)** I'll put my [[Cursor]] anywhere within this data region.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=9)** Then, I'm going to go up to the Insert tab and click Table right here.
 >
@@ -950,7 +950,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/build-impactful-charts?u=76281980&t=117)** Now the final thing I want to do with this table here is I would like to make sure this is sorted.
 >
-> **[2:03](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/build-impactful-charts?u=76281980&t=123)** So I'm going to put my cursor in cell B4, and I'm going to right-click here.
+> **[2:03](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/build-impactful-charts?u=76281980&t=123)** So I'm going to put my [[Cursor]] in cell B4, and I'm going to right-click here.
 >
 > **[2:08](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/build-impactful-charts?u=76281980&t=128)** And I'll click Sort, and we'll say Sort Smallest to Largest.
 >

@@ -1538,7 +1538,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=239)** It supports a wide range of server-side programming languages, and frameworks.
 >
-> **[4:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=243)** As of now, it supports the following frameworks, [[[ASP.NET]]](https://asp.net) and [asp.net](https://asp.net) core.
+> **[4:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=243)** As of now, it supports the following frameworks, [asp.net](https://asp.net) and [asp.net](https://asp.net) core.
 >
 > **[4:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=249)** It supports [[Java]] as a language, [[Node.js]], [[PHP]], [[Python (Programming Language)|Python]], and the Microsoft languages, C sharp, F sharp, and visual basic.
 >
@@ -1813,7 +1813,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=0)** - [Instructor] What we're looking at here is an [[[ASP.NET]]](https://ASP.NET) website that I created in Visual Studio, and I have deployed it as a web app in [[Microsoft Azure|Azure]].
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=0)** - [Instructor] What we're looking at here is an [ASP.NET](https://ASP.NET) website that I created in Visual Studio, and I have deployed it as a web app in [[Microsoft Azure|Azure]].
 >
 > **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=9)** So this is the site we're looking at.
 >
@@ -2038,7 +2038,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=123)** Or it's possible to create one from an existing Azure service.
 >
-> **[2:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=127)** So for instance, if I've got an app service that is already hosting an [[[ASP.NET]]](https://asp.net) web API, I can just go in here and browse out, look at my existing resources on Azure, pick it, and then tell the Management tools to start managing that API.
+> **[2:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=127)** So for instance, if I've got an app service that is already hosting an [asp.net](https://asp.net) web API, I can just go in here and browse out, look at my existing resources on Azure, pick it, and then tell the Management tools to start managing that API.
 >
 > **[2:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=144)** Once you've added your existing APIs or defined your new APIs, then you can go in and create our what called [[Microsoft Products|products]].
 >
@@ -2609,7 +2609,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=37)** Every object that you store in Azure storage has an address and includes this unique account name.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=42)** So you can find it at BigPicture; that's my chosen name, .blob.core.[[[Windows]].net](https://windows.net).
+> **[0:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=42)** So you can find it at BigPicture; that's my chosen name, .blob.core.[windows.net](https://windows.net).
 >
 > **[0:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=49)** Next, we configure the storage services.
 >
@@ -3948,7 +3948,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=9)** At its core, AI is about creating intelligent machines and software that can perform tasks that would normally require human intelligence, such as recognizing patterns, making decisions, and learning from experience.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=22)** This is such a large and important topic that I've created another course called, "[[[[Microsoft Azure|Azure]] AI- The Big Picture]]."
+> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=22)** This is such a large and important topic that I've created another course called, "[[Azure AI- The Big Picture]]."
 >
 > **[0:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=28)** That course has a more in-depth exploration of this fascinating topic.
 >
@@ -3982,7 +3982,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=113)** The algorithm then identifies patterns within the music and utilizes these characteristics to recognize and catalog other songs.
 >
-> **[2:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=120)** Machine learning serves as the fundamental building block of Azure AI, providing the backbone upon which many of its key features and capabilities are built in.
+> **[2:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=120)** Machine learning serves as the fundamental building block of [[Microsoft Azure|Azure]] AI, providing the backbone upon which many of its key features and capabilities are built in.
 >
 > **[2:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=129)** The machine learning algorithms are used to analyze data and identify patterns or relationships in that data.
 >

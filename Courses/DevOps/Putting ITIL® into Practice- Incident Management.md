@@ -3771,7 +3771,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=0)** - [Instructor] Want to take your incident reduction skills to the next level?
 >
-> **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=3)** Check out HDI's Revolutionizing Incident Management, [[Google]]'s approach to incident prevention, and [[[DevOps]].com](https://DevOps.com)'s incident reduction strategies.
+> **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=3)** Check out HDI's Revolutionizing Incident Management, [[Google]]'s approach to incident prevention, and [DevOps.com](https://DevOps.com)'s incident reduction strategies.
 >
 > **[0:12](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=12)** Looking to deepen your approach to shifting incidents left?
 >

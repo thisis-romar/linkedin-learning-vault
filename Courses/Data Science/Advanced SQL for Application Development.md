@@ -523,7 +523,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=98)** The username is postgres, the password is blanked out, our database name is ecomm, and we're working with the default port 5433.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=106)** Now, once we have a connection, then we want to be able to use something called a cursor.
+> **[1:46](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=106)** Now, once we have a connection, then we want to be able to use something called a [[Cursor]].
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-sql-for-application-development/connecting-to-a-database?u=76281980&t=112)** A cursor is created on a connection.
 >
@@ -553,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=0)** - [Instructor] Now I'm going to pick up where I left off in the previous video.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=3)** Now one thing I'm going to do is, I want to remove that global variable called cursor that I just created, so I'll just delete it.
+> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=3)** Now one thing I'm going to do is, I want to remove that global variable called [[Cursor]] that I just created, so I'll just delete it.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-sql-for-application-development/parameterizing-select-statements?u=76281980&t=10)** And I'm going to do that because I'm going to create a local variable called cursor.
 >
@@ -642,7 +642,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=42)** So let's see how that would look.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=43)** First of all, I'm going to create a cursor conn.cursor and I'm going to have a local variable here called fetch, all count, which I'm going to use just to print out, to show how many times we're going to the database.
+> **[0:43](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=43)** First of all, I'm going to create a [[Cursor]] conn.cursor and I'm going to have a local variable here called fetch, all count, which I'm going to use just to print out, to show how many times we're going to the database.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-sql-for-application-development/avoiding-n-plus-1-queries?u=76281980&t=58)** And now what I want to do is iterate over my list, all ovens.
 >

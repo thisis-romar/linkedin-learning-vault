@@ -1268,13 +1268,13 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=0)** - Having a growth mindset about your career and getting honest feedback is critical for anyone to grow.
 >
-> **[0:06](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=6)** My colleague Chris Pruett, he's the VP of Engineering for [[[LinkedIn]].com](https://LinkedIn.com) for our consumer business, and we met each other seven years ago.
+> **[0:06](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=6)** My colleague Chris Pruett, he's the VP of Engineering for [LinkedIn.com](https://LinkedIn.com) for our consumer business, and we met each other seven years ago.
 >
 > **[0:14](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=14)** We built trust and a relationship together where we can give that honest feedback to one another.
 >
 > **[0:19](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=19)** And I'm super excited to sit down with him and share some of our advice together.
 >
-> **[0:23](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=23)** I think we should probably reflect a little bit about how we got to where we're at, but then also maybe how we've changed through our careers, even before LinkedIn.
+> **[0:23](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=23)** I think we should probably reflect a little bit about how we got to where we're at, but then also maybe how we've changed through our careers, even before [[LinkedIn]].
 >
 > **[0:32](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=32)** - You know, early in my career, I was certainly, I think I've always been someone that is always looking to do, you know, stay excited about what I'm doing.
 >

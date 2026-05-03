@@ -82,7 +82,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/talking-to-the-ais?u=76281980&t=0)** - If you're here, you probably have already heard about [[ChatGPT]] and GPT4 and might have even come across the term [[Prompt Engineering]] in that context.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/talking-to-the-ais?u=76281980&t=0)** - If you're here, you probably have already heard about [[ChatGPT]] and [[GPT-4|GPT4]] and might have even come across the term [[Prompt Engineering]] in that context.
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/talking-to-the-ais?u=76281980&t=9)** Is prompt engineering something you should care about?
 >

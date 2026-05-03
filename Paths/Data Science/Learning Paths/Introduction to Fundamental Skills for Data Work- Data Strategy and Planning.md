@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - Data Science
   - Database Management
-louvain_cluster: 5
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/data-science

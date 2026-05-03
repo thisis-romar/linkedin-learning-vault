@@ -2202,7 +2202,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=187)** And we're going to want to place this in the entry-meta div.
 >
-> **[3:10](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=190)** So we're going to place our cursor right after the entry-meta div, and we're going to paste the code that we copied.
+> **[3:10](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=190)** So we're going to place our [[Cursor]] right after the entry-meta div, and we're going to paste the code that we copied.
 >
 > **[3:19](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/adding-a-custom-taxonomy-to-a-template?u=76281980&t=199)** Now we're going to make a small change here, we're going to get rid of the paragraph, because entry-meta is already styled, and we want the size label to stand out, so we're going to wrap the size label in an opening and closing b tag.
 >

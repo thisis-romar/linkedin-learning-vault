@@ -411,7 +411,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=157)** The only reason that it's different is if I'm using a screen reader that needs to read the content for me to let me know what it is, once it gets here, it will tell me, click on this link.
 >
-> **[2:48](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=168)** If I do advance to this link, it will say that it's on a link and then read https//docs.[[[Google]].com/presentation](https://google.com/presentation).
+> **[2:48](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=168)** If I do advance to this link, it will say that it's on a link and then read https//docs.[google.com/presentation](https://google.com/presentation).
 >
 > **[2:59](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=179)** It will be extremely annoying.
 >
@@ -541,7 +541,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=49)** I recommend learning more about screen readers and how they work.
 >
-> **[0:52](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=52)** You can learn more about this stuff in some of the courses in our library, including UX Foundations for Accessibility and [[Accessibility for [[Web Design]]]].
+> **[0:52](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=52)** You can learn more about this stuff in some of the courses in our library, including UX Foundations for Accessibility and [[Accessibility for Web Design]].
 >
 > **[1:02](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=62)** Screen readers help someone who is unable to see access information online.
 >

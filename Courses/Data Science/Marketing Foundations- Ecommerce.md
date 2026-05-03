@@ -513,7 +513,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=123)** If you want to do a competitive analysis on yourself, or you can search some of your competitors and put their domains in here.
 >
-> **[2:11](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=131)** Now I've gone ahead and typed in [[[Google]].com](https://google.com), just to give you an overview of what it would look like to research your competitors.
+> **[2:11](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=131)** Now I've gone ahead and typed in [google.com](https://google.com), just to give you an overview of what it would look like to research your competitors.
 >
 > **[2:19](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=139)** So it will give you a breakdown of Authority Score.
 >
@@ -549,7 +549,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=249)** So what competitors are competing with this brand in the search engines, and you can even see a sample of the texts in ads.
 >
-> **[4:19](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=259)** So this might give you an idea in terms of how you should formulate your ads if you're planning to run Google Ads.
+> **[4:19](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=259)** So this might give you an idea in terms of how you should formulate your ads if you're planning to run [[Google]] Ads.
 >
 > **[4:25](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=265)** And then you can see some back link information, and some top, anchor texts, and also referring domains as well.
 >

@@ -597,7 +597,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/using-copilot-chat-in-excel-for-non-excel-tasks?u=76281980&t=181)** And we have our summaries here.
 >
-> **[3:03](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/using-copilot-chat-in-excel-for-non-excel-tasks?u=76281980&t=183)** If you need more comprehensive help from AI outside of Excel, if you're brainstorming ideas, drafting content and so forth, it's probably worth switching over to the full Copilot experience at copilot.[[[Microsoft]].com](https://microsoft.com).
+> **[3:03](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/using-copilot-chat-in-excel-for-non-excel-tasks?u=76281980&t=183)** If you need more comprehensive help from AI outside of Excel, if you're brainstorming ideas, drafting content and so forth, it's probably worth switching over to the full Copilot experience at copilot.[microsoft.com](https://microsoft.com).
 >
 > **[3:19](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/using-copilot-chat-in-excel-for-non-excel-tasks?u=76281980&t=199)** Also, there is Copilot in [[Microsoft Outlook|Outlook]] and [[Microsoft PowerPoint|PowerPoint]], so depending on your use case, using the right tool, you'll get a better experience from that Copilot.
 >

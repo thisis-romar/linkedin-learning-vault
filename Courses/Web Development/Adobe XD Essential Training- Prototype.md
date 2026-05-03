@@ -411,7 +411,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=330)** Now, what you'll notice is as I point to content here, in my desktop preview, it looks fine, when I hover over anything that's an interactive area, anything that has a trigger defined for it.
 >
-> **[5:43](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=343)** My cursor changes to the hand tool, letting me know that I can click.
+> **[5:43](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=343)** My [[Cursor]] changes to the hand tool, letting me know that I can click.
 >
 > **[5:47](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=347)** When I go ahead and click that, I get that nice ease transition to the second art board and notice that it takes me right there, up to the top of that art board, where I scroll down and look at the content that I have here.
 >

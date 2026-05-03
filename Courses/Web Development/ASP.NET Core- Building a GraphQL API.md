@@ -107,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980&t=58)** Hi, I am Ervis Trupja and I'm a full [stack.NET](https://stack.NET) Web Developer and trainer.
 >
-> **[1:04](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980&t=64)** Join me in my [[LinkedIn]] learning course, as we explore GraphQL in an [[[ASP.NET]]](https://ASP.NET) web API application.
+> **[1:04](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980&t=64)** Join me in my [[LinkedIn]] learning course, as we explore GraphQL in an [ASP.NET](https://ASP.NET) web API application.
 
 > [!info]- Semantic Content
 >
@@ -124,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980&t=0)** - [Instructor] Now, let us talk about a couple of things that you need to know to get the most out of this course.
 >
-> **[0:06](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980&t=6)** On this course, we are going to add [[GraphQL]] to an existing [[[ASP.NET]]](https://ASP.NET) Web API project.
+> **[0:06](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980&t=6)** On this course, we are going to add [[GraphQL]] to an existing [ASP.NET](https://ASP.NET) Web API project.
 >
 > **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-you-should-know?u=76281980&t=13)** So having a basic understanding of how Web API projects work is recommended, but it is not required.
 >
@@ -483,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=65)** Then you later search for graphiql.
 >
-> **[1:09](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=69)** This is the package and it says in here that the GraphiQL is available as a middleware for [[[ASP.NET]]](https://ASP.NET) Core.
+> **[1:09](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=69)** This is the package and it says in here that the GraphiQL is available as a middleware for [ASP.NET](https://ASP.NET) Core.
 >
 > **[1:16](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/setting-up-graphql-in-web-api?u=76281980&t=76)** And then you click install.
 >

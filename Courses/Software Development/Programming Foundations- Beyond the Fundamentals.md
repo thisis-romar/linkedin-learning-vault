@@ -145,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=0)** - In this course, I assume you are already familiar with a few basic [[Programming Concepts]], specifically variables, functions, and conditional logic.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=10)** If any of these don't ring a bell or if you could use a little brushing up, check out the [[[[Programming Foundations]] Fundamentals]] course in the library.
+> **[0:10](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=10)** If any of these don't ring a bell or if you could use a little brushing up, check out the [[Programming Foundations Fundamentals]] course in the library.
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/what-you-should-know-22194994?u=76281980&t=18)** I'll be walking you through example code in this course using the [[Python (Programming Language)|Python]] programming language.
 >

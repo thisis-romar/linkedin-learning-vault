@@ -463,7 +463,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=118)** While these examples don't encompass all of the steps to test for accessibility, it's a good place to start.
 >
-> **[2:04](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=124)** For more information on building accessible products, check out the [[[[Digital Accessibility]] for the Modern Workplace]] course here on [[LinkedIn]] Learning.
+> **[2:04](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=124)** For more information on building accessible products, check out the [[Digital Accessibility for the Modern Workplace]] course here on [[LinkedIn]] Learning.
 >
 > **[2:13](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/test-and-validate-toward-accessibility-standards?u=76281980&t=133)** I encourage you to continue learning, testing, and validating for accessibility to provide accessible and inclusive experiences for all.
 

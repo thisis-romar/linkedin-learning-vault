@@ -570,7 +570,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980&t=154)** This indicates a compiler error.
 >
-> **[2:37](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980&t=157)** If we place our cursor over that line, we should see the error message, val cannot be reassigned.
+> **[2:37](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980&t=157)** If we place our [[Cursor]] over that line, we should see the error message, val cannot be reassigned.
 >
 > **[2:46](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980&t=166)** So why are we seeing this error?
 >
@@ -1097,7 +1097,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=310)** The Elvis operator allows us to evaluate an expression and return some default value if that expression evaluates to null.
 >
-> **[5:19](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=319)** So if we place our cursor after the call to .length, we can add a question mark, colon.
+> **[5:19](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=319)** So if we place our [[Cursor]] after the call to .length, we can add a question mark, colon.
 >
 > **[5:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=328)** This is the Elvis operator and now we can provide some default value.
 >
@@ -1201,7 +1201,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980&t=208)** And now we want to explicitly define the return type of this function.
 >
-> **[3:33](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980&t=213)** To do that, we'll move our cursor after the parenthesis.
+> **[3:33](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980&t=213)** To do that, we'll move our [[Cursor]] after the parenthesis.
 >
 > **[3:38](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980&t=218)** And similar to defining the type for a variable, we will add a colon, and then we are going to add the string type.
 >
@@ -2765,7 +2765,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-replace-an-if-else-expression-with-a-when-expression-14798822?u=76281980&t=20)** The easiest way to convert the if expression to a when expression is actually to use the IntelliJ tooling and have the IDE perform the refactor for us.
 >
-> **[0:31](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-replace-an-if-else-expression-with-a-when-expression-14798822?u=76281980&t=31)** If we move our cursor and click on the if in the if else expression of our getOutput function and then hit Alt + Enter, we'll see that there is an option to replace if with when.
+> **[0:31](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-replace-an-if-else-expression-with-a-when-expression-14798822?u=76281980&t=31)** If we move our [[Cursor]] and click on the if in the if else expression of our getOutput function and then hit Alt + Enter, we'll see that there is an option to replace if with when.
 >
 > **[0:48](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-replace-an-if-else-expression-with-a-when-expression-14798822?u=76281980&t=48)** If I hit Enter on that, it will actually automatically convert the if else expression to a when expression for us.
 >
@@ -2911,7 +2911,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980&t=183)** This will let us pause execution of our program after our random number is generated.
 >
-> **[3:09](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980&t=189)** To set the breakpoint, move your cursor to the left-hand gutter in between the line number and the code, and click in that gutter space.
+> **[3:09](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980&t=189)** To set the breakpoint, move your [[Cursor]] to the left-hand gutter in between the line number and the code, and click in that gutter space.
 >
 > **[3:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980&t=200)** This should result in a red circle icon being added.
 >
@@ -3158,7 +3158,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/evaluate-expressions-and-add-watches-14804065?u=76281980&t=190)** So let's take the case of checking whether our random value is divisible by 3 or not.
 >
-> **[3:15](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/evaluate-expressions-and-add-watches-14804065?u=76281980&t=195)** So we can come down into our tool window and in the variable section where it says evaluate expression or add a watch, I'm going to place my cursor and I'm going to type in that same random.rem(3)== 0 expression.
+> **[3:15](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/evaluate-expressions-and-add-watches-14804065?u=76281980&t=195)** So we can come down into our tool window and in the variable section where it says evaluate expression or add a watch, I'm going to place my [[Cursor]] and I'm going to type in that same random.rem(3)== 0 expression.
 >
 > **[3:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/evaluate-expressions-and-add-watches-14804065?u=76281980&t=207)** random.rem(3)== 0 expression.
 >
@@ -4236,7 +4236,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=92)** So before we go any further, let's just print this out and test out how this is working so far.
 >
-> **[1:39](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=99)** So here, we've gotten our prompt to enter a filename and we can see our cursor here.
+> **[1:39](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=99)** So here, we've gotten our prompt to enter a filename and we can see our [[Cursor]] here.
 >
 > **[1:47](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=107)** And now I might enter a filename.
 >
@@ -4258,9 +4258,9 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=158)** When you type file and add the parentheses, you may be prompted to import the file.
 >
-> **[2:44](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=164)** You may notice here that now at the top of the file I see import [[[Java]].io](https://java.io).File.
+> **[2:44](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=164)** You may notice here that now at the top of the file I see import [java.io](https://java.io).File.
 >
-> **[2:50](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=170)** This is going to pull in that file type from the standard set of Java components which we have full access to via [[Kotlin]].
+> **[2:50](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=170)** This is going to pull in that file type from the standard set of [[Java]] components which we have full access to via [[Kotlin]].
 >
 > **[3:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=180)** So to finish off creating my file then I want to pass in the filename that was entered by the user.
 >
@@ -4355,7 +4355,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980&t=73)** So to do so, we will create a variable called scoresFile and then we're going to create an instance of the file.
 >
-> **[1:23](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980&t=83)** And when prompted by the IDE to import that, we can move our cursor over the file name and hit Alt + Enter and that will import the file type for us.
+> **[1:23](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980&t=83)** And when prompted by the IDE to import that, we can move our [[Cursor]] over the file name and hit Alt + Enter and that will import the file type for us.
 >
 > **[1:37](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980&t=97)** And now within the file constructor, we want to pass the name of the file.
 >
@@ -4500,7 +4500,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-parsing-a-list-of-data-from-a-file-14802642?u=76281980&t=114)** So we could solve this in a couple ways.
 >
-> **[1:56](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-parsing-a-list-of-data-from-a-file-14802642?u=76281980&t=116)** We could move our cursor over the is null or empty call, hit alt+enter and then hit enter on the option to change call to is empty.
+> **[1:56](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-parsing-a-list-of-data-from-a-file-14802642?u=76281980&t=116)** We could move our [[Cursor]] over the is null or empty call, hit alt+enter and then hit enter on the option to change call to is empty.
 >
 > **[2:06](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-parsing-a-list-of-data-from-a-file-14802642?u=76281980&t=126)** So this will would be one way to simplify things.
 >

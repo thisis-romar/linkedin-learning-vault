@@ -202,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=21)** For example, let's see how we can map our [[Customer Support]] use case with an AI orchestrator.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=27)** To start, we'd like to use GPT-4o mini as our main model; fast, cheap, and with a large context window.
+> **[0:27](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=27)** To start, we'd like to use [[GPT-4|GPT-4o]] mini as our main model; fast, cheap, and with a large context window.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-orchestration-foundations/what-is-ai-orchestration-and-why-is-it-useful?u=76281980&t=35)** Next, we'd like to use information from our website to answer FAQs, so that when user ask them, we'll use them as a response.
 >
@@ -392,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=8)** To start, the most basic AI application will have an input, a model, and an output.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=15)** For example, if we think about [[[ChatGPT]].com](https://chatgpt.com) as an AI application, we provide an input as text, we select a model we want to use, and we generate a response.
+> **[0:15](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=15)** For example, if we think about [chatgpt.com](https://chatgpt.com) as an AI application, we provide an input as text, we select a model we want to use, and we generate a response.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=26)** In this case, counting to 10.
 >
@@ -402,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=45)** Then we use a second prompt to generate the email using the previous output, and we can show that to the user.
 >
-> **[0:51](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=51)** I can manually do this in ChatGPT with two different [[Windows]].
+> **[0:51](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=51)** I can manually do this in [[ChatGPT]] with two different [[Windows]].
 >
 > **[0:55](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=55)** I'm going to be using prompts from the Exercise Files located under 02_03.
 >
@@ -458,7 +458,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=167)** Now, prompt chaining also allows us to use multiple [[Large Language Models (LLM)|large language models]] or even small language models to get better results.
 >
-> **[2:54](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=174)** As you can see here, under Generate Ideas, under the prompt setting, I'm using GPT-4o.
+> **[2:54](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=174)** As you can see here, under Generate Ideas, under the prompt setting, I'm using [[GPT-4|GPT-4o]].
 >
 > **[3:00](https://www.linkedin.com/learning/ai-orchestration-foundations/orchestrating-llms-with-prompt-chaining?u=76281980&t=180)** But on the email prompt, if we edit the prompt and click Settings, I'm using GPT-4o mini.
 >
@@ -641,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=25)** The first one is size, where smaller models are faster and cheaper, and larger ones often achieve higher accuracy.
 >
-> **[0:32](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=32)** For example, there's GPT-4o and GPT-4o mini.
+> **[0:32](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=32)** For example, there's [[GPT-4|GPT-4o]] and GPT-4o mini.
 >
 > **[0:36](https://www.linkedin.com/learning/ai-orchestration-foundations/specialized-large-language-models-llms?u=76281980&t=36)** The larger model, GPT-4o, usually does better at more complex tasks and synthesizing users' information.
 >
@@ -778,7 +778,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980&t=57)** Here we can see we have a pretty comprehensive prompt that'll help us generate an answer.
 >
-> **[1:02](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980&t=62)** If we click on settings in the top right, we'll be able to see that we're using GPT-4o mini.
+> **[1:02](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980&t=62)** If we click on settings in the top right, we'll be able to see that we're using [[GPT-4|GPT-4o]] mini.
 >
 > **[1:07](https://www.linkedin.com/learning/ai-orchestration-foundations/visualizing-an-ai-orchestration-framework?u=76281980&t=67)** We can also change the model here.
 >
@@ -1399,7 +1399,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980&t=16)** You can also watch my other courses, like Building Apps with AI Tools or AI Pricing: A Technical Breakdown of Cost and Revenue Opportunities to learn more.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980&t=25)** So be sure to keep learning about GenAI and add this skill set to your tool belt.
+> **[0:25](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980&t=25)** So be sure to keep learning about [[Generative AI|GenAI]] and add this skill set to your tool belt.
 
 > [!info]- Semantic Content
 >

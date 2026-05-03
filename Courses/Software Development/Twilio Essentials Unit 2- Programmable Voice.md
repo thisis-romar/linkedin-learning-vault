@@ -702,7 +702,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=5)** The call API is very similar to the message API, so it should feel pretty familiar.
 >
-> **[0:11](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=11)** So on [[[Twilio]].com/docs](https://twilio.com/docs), I'm going to click on voice.
+> **[0:11](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=11)** So on [twilio.com/docs](https://twilio.com/docs), I'm going to click on voice.
 >
 > **[0:18](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=18)** And in here, I'm going to look for the API reference.
 >
@@ -748,7 +748,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=97)** So we're going to go back to my command line here.
 >
-> **[1:41](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=101)** We're going to say twilio API core calls create and we will do from our number, which was... You can find that in your console here.
+> **[1:41](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=101)** We're going to say [[Twilio]] API core calls create and we will do from our number, which was... You can find that in your console here.
 >
 > **[2:05](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=125)** I'm going to copy my number from that number, my 415 number, to my number, which is plus +1 503-836-8731.
 >

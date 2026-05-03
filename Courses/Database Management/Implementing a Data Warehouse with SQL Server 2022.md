@@ -147,7 +147,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=7)** I'm going to be using SQL Server 2022 and Management Studio version 19, but you can use whatever is easily available.
 >
-> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=16)** You'll also need a couple of sample [[Databases]] and you can get them from the [[Microsoft SQL Server]] samples repository at [[[GitHub]].com/[[Microsoft]]/[[SQL]]-server-samples](https://github.com/microsoft/sql-server-samples).
+> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=16)** You'll also need a couple of sample [[Databases]] and you can get them from the [[Microsoft SQL Server]] samples repository at [github.com/microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples).
 >
 > **[0:27](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=27)** Here you'll find lots of different databases designed around different learning topics and programming languages.
 >
@@ -1556,13 +1556,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=0)** - [Instructor] The [[[[Microsoft SQL Server|SQL Server]] Integration Services]] Data Flow task provides the three main components of the ETL process.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=0)** - [Instructor] The [[SQL Server Integration Services]] Data Flow task provides the three main components of the ETL process.
 >
 > **[0:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=8)** The first component is the data source.
 >
 > **[0:11](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=11)** With this component, you'll define where the original data is located and how to access it.
 >
-> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=16)** SSIS supports connections to a wide variety of [[Data Storage]] platforms, everything from simple [[Microsoft Excel|Excel]] files to Flat Files like XML or CSV or other [[Databases]] such as Access, Oracle, remote SQL server instances, and many more.
+> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=16)** SSIS supports connections to a wide variety of [[Data Storage]] platforms, everything from simple [[Microsoft Excel|Excel]] files to Flat Files like XML or CSV or other [[Databases]] such as Access, Oracle, remote [[Microsoft SQL Server|SQL server]] instances, and many more.
 >
 > **[0:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=33)** You can even connect to [[Big Data]] providers such as a [[Hadoop]] Distributed File System.
 >
@@ -2303,7 +2303,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=25)** It's particularly useful when you're moving data from a number of source [[Databases]], each with their own peculiarities, and consolidating it all in a single, consistent data warehouse.
 >
-> **[0:37](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=37)** You can read up on the features and implementation details on learn.[[[Microsoft]].com](https://microsoft.com).
+> **[0:37](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=37)** You can read up on the features and implementation details on learn.[microsoft.com](https://microsoft.com).
 >
 > **[0:42](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=42)** But I wanted to take a few minutes and walk through an example so that you can see how DQS can help you maintain a more valuable data warehouse.
 >
@@ -2925,7 +2925,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=185)** I'll place a check mark for .net extensibility 3.5 and 4.8.
 >
-> **[3:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=190)** Also [[[ASP.NET]]](https://ASP.net) 3.5 and 4.8, and then make sure that we also got check marks placed for IS API extensions, and IS API filters.
+> **[3:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=190)** Also [ASP.net](https://ASP.net) 3.5 and 4.8, and then make sure that we also got check marks placed for IS API extensions, and IS API filters.
 >
 > **[3:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=202)** Okay, we're done in this section, let's go ahead and minimize that, and come down to common HTTP features.
 >
@@ -3566,9 +3566,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=54)** For that, you could turn to my course on [[SQL Server- Reporting Services]] to format principal and mobile reports.
 >
-> **[1:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=61)** Or dive into [[[[Microsoft Power BI|Power Bi]] Essential Training]] to learn how to build interactive visualizations.
+> **[1:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=61)** Or dive into [[Power Bi Essential Training]] to learn how to build interactive visualizations.
 >
-> **[1:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=68)** Finally, you can find out more about cloud-hosted data warehouse options with [[[[Microsoft Azure]] Synapse for Developers]].
+> **[1:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=68)** Finally, you can find out more about cloud-hosted data warehouse options with [[Microsoft Azure Synapse for Developers]].
 >
 > **[1:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=76)** Until next time, I've been Adam Wilbert, and I hope you have a great day.
 

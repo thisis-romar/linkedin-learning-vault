@@ -1063,7 +1063,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=114)** I certainly don't make a habit of memorizing IP addresses.
 >
-> **[1:57](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=117)** Instead, we'll probably use the name of that server, something like [[[LinkedIn]].com](https://LinkedIn.com).
+> **[1:57](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=117)** Instead, we'll probably use the name of that server, something like [LinkedIn.com](https://LinkedIn.com).
 >
 > **[2:03](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=123)** But to send packets to [LinkedIn.com](https://LinkedIn.com), we need to know [LinkedIn.com](https://LinkedIn.com)'s IP address.
 >
@@ -1230,7 +1230,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=19)** So we need to take those easy to remember names and translate them into the often harder to remember IP addresses, and that's the job of a DNS server where DNS stands for [[Domain Name System (DNS)|Domain Name System]].
 >
-> **[0:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=33)** Consider this typology, where the PC it wants to reach the [[[LinkedIn]].com](https://linkedin.com) web server.
+> **[0:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=33)** Consider this typology, where the PC it wants to reach the [linkedin.com](https://linkedin.com) web server.
 >
 > **[0:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=40)** Usually an end-user device, like this PC, it knows the IP address of a DNS server, that's one of the pieces of information that it learned from its [[DHCP]] server, and if the PC does indeed know the IP address of the DNS server, it can send out a request to that DNS server saying, "Hey, what's the IP address of [linkedin.com](https://linkedin.com)?"
 >

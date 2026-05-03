@@ -87,7 +87,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-and-the-transformation-of-hr?u=76281980&t=0)** - [[Generative AI]] is penetrating every area of the workplace.
 >
-> **[0:04](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-and-the-transformation-of-hr?u=76281980&t=4)** Gen AI tools provide HR leaders opportunities to reimagine and optimize HR processes, from recruiting and onboarding to training and employee experience.
+> **[0:04](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-and-the-transformation-of-hr?u=76281980&t=4)** [[Generative AI|Gen AI]] tools provide HR leaders opportunities to reimagine and optimize HR processes, from recruiting and onboarding to training and employee experience.
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-and-the-transformation-of-hr?u=76281980&t=15)** Gen AI is new and comes with challenges, but as an HR leader, you need to be prepared for this moment, so that you can strategically leverage gen AI for your organization.
 >
@@ -153,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-catalyzes-transforms-and-amplifies-hr?u=76281980&t=10)** The integration of [[Generative AI]] has the potential to elevate and magnify the impact of HR significantly.
 >
-> **[0:17](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-catalyzes-transforms-and-amplifies-hr?u=76281980&t=17)** The range of applications for gen AI with HR includes talent acquisition, learning and development, performance management, [[Diversity and Inclusion]], employee experience and more.
+> **[0:17](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-catalyzes-transforms-and-amplifies-hr?u=76281980&t=17)** The range of applications for [[Generative AI|gen AI]] with HR includes talent acquisition, learning and development, performance management, [[Diversity and Inclusion]], employee experience and more.
 >
 > **[0:29](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-catalyzes-transforms-and-amplifies-hr?u=76281980&t=29)** In fact, according to SHRM, generative AI even has the potential to be used in compliance to generate engagement surveys and sentiment analysis, prepare performance reviews and write job descriptions and interview questions.
 >
@@ -195,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/generative-ai-in-hr/talent-acquisition-and-onboarding?u=76281980&t=24)** [[Generative AI]] can mitigate some of the heavy lifting by streamlining processes.
 >
-> **[0:30](https://www.linkedin.com/learning/generative-ai-in-hr/talent-acquisition-and-onboarding?u=76281980&t=30)** There are several areas in which Gen AI can drive momentum in talent acquisition.
+> **[0:30](https://www.linkedin.com/learning/generative-ai-in-hr/talent-acquisition-and-onboarding?u=76281980&t=30)** There are several areas in which [[Generative AI|Gen AI]] can drive momentum in talent acquisition.
 >
 > **[0:34](https://www.linkedin.com/learning/generative-ai-in-hr/talent-acquisition-and-onboarding?u=76281980&t=34)** In this video, I'll focus on three fundamental areas, job descriptions, interview questions, and onboarding.
 >
@@ -283,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/generative-ai-in-hr/leadership-and-employee-development?u=76281980&t=47)** However, the biggest challenge is of course time and resources.
 >
-> **[0:51](https://www.linkedin.com/learning/generative-ai-in-hr/leadership-and-employee-development?u=76281980&t=51)** GenAI can help you create a hyper-personalized learning path tailored to employees specific needs like role, career goals, and learning preferences.
+> **[0:51](https://www.linkedin.com/learning/generative-ai-in-hr/leadership-and-employee-development?u=76281980&t=51)** [[Generative AI|GenAI]] can help you create a hyper-personalized learning path tailored to employees specific needs like role, career goals, and learning preferences.
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-in-hr/leadership-and-employee-development?u=76281980&t=62)** It can track learning progress and adjust as needed.
 >
@@ -344,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-in-hr/diversity-equity-and-inclusion?u=76281980&t=28)** Recent research from McLean & Company revealed that DEI currently ranks sixth in HR priorities and may fall further as organizations face impending economic headwinds.
 >
-> **[0:42](https://www.linkedin.com/learning/generative-ai-in-hr/diversity-equity-and-inclusion?u=76281980&t=42)** GenAI can help HR leaders prioritize DEI programs and initiatives and amplify impact across the employee lifecycle.
+> **[0:42](https://www.linkedin.com/learning/generative-ai-in-hr/diversity-equity-and-inclusion?u=76281980&t=42)** [[Generative AI|GenAI]] can help HR leaders prioritize DEI programs and initiatives and amplify impact across the employee lifecycle.
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-in-hr/diversity-equity-and-inclusion?u=76281980&t=51)** It can generate training materials, potentially detect bias in hiring practices, aid in developing inclusive performance management practices, and create customized DEI programs.
 >
@@ -432,7 +432,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/generative-ai-in-hr/employee-experience?u=76281980&t=115)** Here's what I recommend.
 >
-> **[1:57](https://www.linkedin.com/learning/generative-ai-in-hr/employee-experience?u=76281980&t=117)** As you evaluate and reimagine employee experience for your organization in the context of work-life balance and well-being, use gen AI as the horsepower for the process.
+> **[1:57](https://www.linkedin.com/learning/generative-ai-in-hr/employee-experience?u=76281980&t=117)** As you evaluate and reimagine employee experience for your organization in the context of work-life balance and well-being, use [[Generative AI|gen AI]] as the horsepower for the process.
 >
 > **[2:09](https://www.linkedin.com/learning/generative-ai-in-hr/employee-experience?u=76281980&t=129)** Use it to help you build a holistic approach to employee experience.
 >
@@ -464,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/generative-ai-in-hr/developing-hr-policies?u=76281980&t=23)** You need to have a future of work strategy so that you can develop and revise policies to meet the evolution of business and work.
 >
-> **[0:31](https://www.linkedin.com/learning/generative-ai-in-hr/developing-hr-policies?u=76281980&t=31)** HR leaders will need to develop new or revised policies for a host of things, like remote, hybrid, and flexible work schedules, employee monitoring and productivity expectations, [[Privacy]], ethical, and responsible use of employee data, mitigating bias in AI recruitment outcomes, work-life balance and inclusive culture, upskilling, re-skilling, and out-skilling employees, working in the metaverse, digital nomad programs, and using Gen AI in the workplace.
+> **[0:31](https://www.linkedin.com/learning/generative-ai-in-hr/developing-hr-policies?u=76281980&t=31)** HR leaders will need to develop new or revised policies for a host of things, like remote, hybrid, and flexible work schedules, employee monitoring and productivity expectations, [[Privacy]], ethical, and responsible use of employee data, mitigating bias in AI recruitment outcomes, work-life balance and inclusive culture, upskilling, re-skilling, and out-skilling employees, working in the metaverse, digital nomad programs, and using [[Generative AI|Gen AI]] in the workplace.
 >
 > **[1:03](https://www.linkedin.com/learning/generative-ai-in-hr/developing-hr-policies?u=76281980&t=63)** Here are five examples of how Gen AI can help.
 >
@@ -510,7 +510,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-in-hr/assess-organizational-readiness?u=76281980&t=0)** - The [[Generative AI]] market is projected to grow exponentially between 2023 and 2028, and more and more organizations are considering introducing gen AI into the workplace.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-in-hr/assess-organizational-readiness?u=76281980&t=0)** - The [[Generative AI]] market is projected to grow exponentially between 2023 and 2028, and more and more organizations are considering introducing [[Generative AI|gen AI]] into the workplace.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-in-hr/assess-organizational-readiness?u=76281980&t=13)** The guidance of HR leaders will be vital.
 >
@@ -585,7 +585,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/generative-ai-in-hr/build-ai-awareness-and-fluency?u=76281980&t=71)** Then I asked for examples of how it could help me in my work in business.
 >
-> **[1:15](https://www.linkedin.com/learning/generative-ai-in-hr/build-ai-awareness-and-fluency?u=76281980&t=75)** Gen AI is relatively new, and certifications and credentials in gen AI and [[Prompt Engineering]] are on the horizon and will soon hit the market.
+> **[1:15](https://www.linkedin.com/learning/generative-ai-in-hr/build-ai-awareness-and-fluency?u=76281980&t=75)** [[Generative AI|Gen AI]] is relatively new, and certifications and credentials in gen AI and [[Prompt Engineering]] are on the horizon and will soon hit the market.
 >
 > **[1:23](https://www.linkedin.com/learning/generative-ai-in-hr/build-ai-awareness-and-fluency?u=76281980&t=83)** So determine which is best for demonstrating improving your fluency and skill.
 >
@@ -637,7 +637,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-in-hr/develop-use-cases?u=76281980&t=0)** - Gen AI complements the work of humans by promoting efficiency, productivity, improving decision making, increasing creativity, and enhancing the quality of work.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-in-hr/develop-use-cases?u=76281980&t=0)** - [[Generative AI|Gen AI]] complements the work of humans by promoting efficiency, productivity, improving decision making, increasing creativity, and enhancing the quality of work.
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-in-hr/develop-use-cases?u=76281980&t=11)** It's important for senior leaders to understand how gen AI can transform work processes for employees, drive higher levels of productivity and performance, and deliver strategic value across the organization.
 >
@@ -682,7 +682,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-in-hr/identify-skill-gaps?u=76281980&t=1)** - A recent resume builder survey found that 91% of firms are looking for workers with GenAI skills.
+> **[0:01](https://www.linkedin.com/learning/generative-ai-in-hr/identify-skill-gaps?u=76281980&t=1)** - A recent resume builder survey found that 91% of firms are looking for workers with [[Generative AI|GenAI]] skills.
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-in-hr/identify-skill-gaps?u=76281980&t=7)** The same report revealed that 66% of business leaders say hiring workers with GenAI experience will give the company a competitive advantage.
 >
@@ -742,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-in-hr/training-and-pilot-testing?u=76281980&t=10)** Keeping pace with AI adoption will require employees to upskill and re-skill continually, and HR will enable much of this learning.
 >
-> **[0:19](https://www.linkedin.com/learning/generative-ai-in-hr/training-and-pilot-testing?u=76281980&t=19)** PwC recently announced that it's making a $1-billion investment to scale its AI capabilities, and as a part of the initiative, it will upskill its entire workforce on GenAI, why?
+> **[0:19](https://www.linkedin.com/learning/generative-ai-in-hr/training-and-pilot-testing?u=76281980&t=19)** PwC recently announced that it's making a $1-billion investment to scale its AI capabilities, and as a part of the initiative, it will upskill its entire workforce on [[Generative AI|GenAI]], why?
 >
 > **[0:34](https://www.linkedin.com/learning/generative-ai-in-hr/training-and-pilot-testing?u=76281980&t=34)** Well, according to the Chief People Officer, because of the fundamental need for all employees to have GenAI skills.
 >
@@ -816,7 +816,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-in-hr/legal-and-ethical-responsibilities?u=76281980&t=0)** - While GenAI holds immense potential for organizations, it is critical that you carefully consider legal, ethical, and responsible use implications.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-in-hr/legal-and-ethical-responsibilities?u=76281980&t=0)** - While [[Generative AI|GenAI]] holds immense potential for organizations, it is critical that you carefully consider legal, ethical, and responsible use implications.
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-in-hr/legal-and-ethical-responsibilities?u=76281980&t=10)** Some companies have banned the use of GenAI and several tech leaders and policymakers are calling for a slowdown in the advancement of GenAI until regulations can catch up due to the potential societal risk that they pose.
 >
@@ -871,7 +871,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-in-hr/future-of-generative-ai-and-jobs?u=76281980&t=1)** - So what is the future of gen AI in the workplace?
+> **[0:01](https://www.linkedin.com/learning/generative-ai-in-hr/future-of-generative-ai-and-jobs?u=76281980&t=1)** - So what is the future of [[Generative AI|gen AI]] in the workplace?
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-in-hr/future-of-generative-ai-and-jobs?u=76281980&t=4)** It will continue to evolve, and new [[Forms]] will emerge beyond text, voice, image, video, music, 3D, and code to AI.
 >
@@ -935,7 +935,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-in-hr/continue-your-gen-ai-for-hr-journey?u=76281980&t=0)** - Congratulations on completing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/generative-ai-in-hr/continue-your-gen-ai-for-hr-journey?u=76281980&t=3)** You've done your part to increase your GenAI fluency.
+> **[0:03](https://www.linkedin.com/learning/generative-ai-in-hr/continue-your-gen-ai-for-hr-journey?u=76281980&t=3)** You've done your part to increase your [[Generative AI|GenAI]] fluency.
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-in-hr/continue-your-gen-ai-for-hr-journey?u=76281980&t=6)** You can now begin to prepare your organization for GenAI.
 >

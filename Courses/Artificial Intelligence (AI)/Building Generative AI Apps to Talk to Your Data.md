@@ -190,7 +190,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=275)** We'll also build a Streamlit app in Module 2 that lets you talk with unstructured data.
 >
-> **[4:40](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=280)** So in this module, we'll get our hands on the key GenAI components that make this work, including RAG or retrieval-augmented generation, and text-to-SQL.
+> **[4:40](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=280)** So in this module, we'll get our hands on the key [[Generative AI|GenAI]] components that make this work, including RAG or retrieval-augmented generation, and text-to-SQL.
 >
 > **[4:50](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=290)** We'll also learn some tricks along the way for building an engaging front end on top of generative AI apps with Streamlit, which will allow streaming and multi turn conversations.
 >
@@ -825,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=45)** I'm very excited to share what I have learned and put into practice in my career just so that you can too.
 >
-> **[0:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=51)** So by the end of this course, you'll have your own gen AI apps built, coupled with the understanding of how they work, which you can take and apply elsewhere on your own.
+> **[0:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=51)** So by the end of this course, you'll have your own [[Generative AI|gen AI]] apps built, coupled with the understanding of how they work, which you can take and apply elsewhere on your own.
 >
 > **[1:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=61)** Thanks for sticking with me this far.
 >
@@ -1054,7 +1054,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=366)** Before we talk about searching [[Unstructured Data]], we need to start with how to get the data in.
 >
-> **[6:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=372)** If you completed our Intro to [[Generative AI]] with Snowflake course, you might remember that Snowflake offers a number of tasks specific LLM functions, which we use in that course to complete common tasks with GenAI.
+> **[6:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=372)** If you completed our Intro to [[Generative AI]] with Snowflake course, you might remember that Snowflake offers a number of tasks specific LLM functions, which we use in that course to complete common tasks with [[Generative AI|GenAI]].
 >
 > **[6:24](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=384)** In this module, to help with preparing data for search, we'll introduce two new task specific functions.
 >

@@ -1,0 +1,9 @@
+# Obsidian workspace state — changes on every open, not worth tracking
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian built-in trash
+.trash/
+
+# macOS
+.DS_Store

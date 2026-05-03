@@ -330,9 +330,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=0)** - [Instructor] Okay, so let's go back to [[[OWASP]].org](https://OWASP.org), and we're going to be talking about cryptographic failures.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=0)** - [Instructor] Okay, so let's go back to [OWASP.org](https://OWASP.org), and we're going to be talking about cryptographic failures.
 >
-> **[0:06](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=6)** So you can find this in the OWASP Top Ten from the Projects, and then scroll down all the way to here, and then this is the page on this particular threat.
+> **[0:06](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=6)** So you can find this in the [[OWASP]] Top Ten from the Projects, and then scroll down all the way to here, and then this is the page on this particular threat.
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=19)** So cryptographic failures occur when applications improperly implement or manage cryptographic processes, leading to vulnerabilities that can expose sensitive data to unauthorized access.
 >

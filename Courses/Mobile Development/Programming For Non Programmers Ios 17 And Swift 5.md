@@ -884,7 +884,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-text?u=76281980&t=56)** And then go back to the button grid.
 >
-> **[0:58](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-text?u=76281980&t=58)** Now for each of these buttons, we can put our cursor in the parentheses, type "buttonText", and then pass in a string value.
+> **[0:58](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-text?u=76281980&t=58)** Now for each of these buttons, we can put our [[Cursor]] in the parentheses, type "buttonText", and then pass in a string value.
 >
 > **[1:07](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-text?u=76281980&t=67)** For the 1, it doesn't change anything because that's the default value, but if we wanted to do 2 or 3, I could copy that and paste that in these other views.
 >

@@ -1680,7 +1680,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=0)** - You have now gone on a full journey through the real meaning and role of strategic financial intelligence, and we've covered a lot.
 >
-> **[0:10](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=10)** We reframed financial intelligence, not as a technical skill, but as the foundation of [[[[Executive Leadership]]]].
+> **[0:10](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=10)** We reframed financial intelligence, not as a technical skill, but as the foundation of [[Executive Leadership]].
 >
 > **[0:17](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980&t=17)** We covered how to connect business decisions with financial consequences, how to translate [[Financial Data]] into action, and how to communicate with executives, with boards, lenders, and teams, each through their own lens.
 >

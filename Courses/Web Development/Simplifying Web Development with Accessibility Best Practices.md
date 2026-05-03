@@ -144,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/overcomplicating-things-that-already-work?u=76281980&t=56)** But this is not a button and the browser will never recognize this as a button at all.
 >
-> **[1:02](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/overcomplicating-things-that-already-work?u=76281980&t=62)** Hover your mouse over it and the cursor remains a pointer.
+> **[1:02](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/overcomplicating-things-that-already-work?u=76281980&t=62)** Hover your mouse over it and the [[Cursor]] remains a pointer.
 >
 > **[1:05](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/overcomplicating-things-that-already-work?u=76281980&t=65)** Use keyboard navigation and it never gets into focus because this is just a div, and this div is not accessible.
 >
@@ -249,7 +249,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/why-accessibility-breaks?u=76281980&t=105)** So it's not a link because it doesn't navigate the visitor anywhere and the whole div needs to be clickable, so it doesn't look anything like a button.
 >
-> **[1:53](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/why-accessibility-breaks?u=76281980&t=113)** So the easiest way to solve this problem is to add an onclick event to the wrapping div and add some CSS to make the cursor respond on hover.
+> **[1:53](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/why-accessibility-breaks?u=76281980&t=113)** So the easiest way to solve this problem is to add an onclick event to the wrapping div and add some CSS to make the [[Cursor]] respond on hover.
 >
 > **[2:00](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/why-accessibility-breaks?u=76281980&t=120)** And just like that, development iteration has resulted in an entirely inaccessible div button.
 >
@@ -1133,7 +1133,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/the-img-element?u=76281980&t=74)** The image element also accepts a title attributes though it's not recommended for use and here's why.
 >
-> **[1:20](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/the-img-element?u=76281980&t=80)** The title attribute usually appears as a tool tip if you hover over the image with your mouse or your cursor but you can't assume anyone will ever see it.
+> **[1:20](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/the-img-element?u=76281980&t=80)** The title attribute usually appears as a tool tip if you hover over the image with your mouse or your [[Cursor]] but you can't assume anyone will ever see it.
 >
 > **[1:29](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/the-img-element?u=76281980&t=89)** So while it's not technically wrong to use an title attribute on an image, in almost every case it's pointless information will never be seen by anyone and has no purpose.
 >

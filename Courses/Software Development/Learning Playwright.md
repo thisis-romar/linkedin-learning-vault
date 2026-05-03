@@ -1275,7 +1275,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=96)** I see there's a new call down here and I see it's actually hitting an API.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=100)** So api.[practicesoftwaretesting.com/[[Microsoft Products|products]]](https://practicesoftwaretesting.com/products) and then that has some query parameters with a price and some other stuff.
+> **[1:40](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=100)** So api.[practicesoftwaretesting.com/products](https://practicesoftwaretesting.com/products) and then that has some query parameters with a price and some other stuff.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980&t=110)** And I can actually see the data that's actually returned matches up with what's on the screen.
 >

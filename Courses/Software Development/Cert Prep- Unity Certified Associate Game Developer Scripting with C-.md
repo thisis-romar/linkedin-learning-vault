@@ -365,7 +365,7 @@ created: 2026-05-02
 >
 > **[6:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=403)** You can't just clear them out of existence and even if I try to press play on the toolbar unity tells me that all the errors need to be fixed before the game can be executed and in this case although we have an error only on one line we actually have three different error messages.
 >
-> **[7:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=425)** The way to address these error messages here is simply to move to the very top and the very first error message and double-click that from the console and when I do that, it brings visual studio interview and my cursor is positioned at the line where there is an error.
+> **[7:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=425)** The way to address these error messages here is simply to move to the very top and the very first error message and double-click that from the console and when I do that, it brings visual studio interview and my [[Cursor]] is positioned at the line where there is an error.
 >
 > **[7:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=445)** So I can check out that line and see what problems there might be.
 >
@@ -1683,7 +1683,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=70)** We can easily play test this environment right now just by pressing play on the toolbar.
 >
-> **[1:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=77)** I can use W, A, S and D on the keyboard to move the player character around and I can also use my mouse cursor to rotate the character head and walk around the environment.
+> **[1:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=77)** I can use W, A, S and D on the keyboard to move the player character around and I can also use my mouse [[Cursor]] to rotate the character head and walk around the environment.
 >
 > **[1:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=90)** There's the enemy character completely stationary at least for now.
 >

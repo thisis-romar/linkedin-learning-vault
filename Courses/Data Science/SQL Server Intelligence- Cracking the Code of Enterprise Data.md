@@ -938,7 +938,7 @@ created: 2026-05-02
 >
 > **[11:43](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=703)** We want to go more vertically.
 >
-> **[11:46](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=706)** And I can do that by just putting my cursor at the beginning of the column name and hitting Enter and getting it formatted much more in line with what's known as an industry practice in terms of the creation of your SQL statements.
+> **[11:46](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=706)** And I can do that by just putting my [[Cursor]] at the beginning of the column name and hitting Enter and getting it formatted much more in line with what's known as an industry practice in terms of the creation of your SQL statements.
 >
 > **[12:05](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-basic-query-structure-using-aliases-23858346?u=76281980&t=725)** So, here, we have a basic SQL statement, a basic SQL statement.
 >

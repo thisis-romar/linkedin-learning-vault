@@ -242,7 +242,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=22)** The application of AI for data analytics are immense, and the industry is predicting that AI tools will soon be part of the air we breathe.
 >
-> **[0:30](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=30)** For example, Gartner predicts that by 2027, 75% of new analytics content will be contextualized for intelligent applications through GenAI to connect insights and action.
+> **[0:30](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=30)** For example, Gartner predicts that by 2027, 75% of new analytics content will be contextualized for intelligent applications through [[Generative AI|GenAI]] to connect insights and action.
 >
 > **[0:44](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/why-learn-data-analytics-in-an-ai-world?u=76281980&t=44)** However, to be an effective data analyst in a world of AI tools, one must understand how to analyze data.
 >

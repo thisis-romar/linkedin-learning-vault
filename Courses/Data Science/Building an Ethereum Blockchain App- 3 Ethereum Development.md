@@ -1139,7 +1139,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=136)** All of those are web based IDEs where you basically just need internet access to be able to get in and develop your code.
 >
-> **[2:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=144)** So here's Remix, if you just navigate to remix.[[[Ethereum]].org](https://ethereum.org), this is what you'll see.
+> **[2:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=144)** So here's Remix, if you just navigate to remix.[ethereum.org](https://ethereum.org), this is what you'll see.
 >
 > **[2:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=151)** It shows you two contracts in solidity.
 >

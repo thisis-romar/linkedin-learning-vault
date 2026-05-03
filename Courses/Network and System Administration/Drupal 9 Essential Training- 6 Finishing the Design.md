@@ -679,7 +679,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=74)** Although it's not necessarily the best thing you can do for a production site, though many people do.
 >
-> **[1:20](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=80)** I'm at [[[Drupal]].org/project/asset_injector](https://drupal.org/project/asset_injector).
+> **[1:20](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=80)** I'm at [drupal.org/project/asset_injector](https://drupal.org/project/asset_injector).
 >
 > **[1:26](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=86)** And this has a terrific module.
 >
@@ -689,7 +689,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=103)** Go ahead and install it.
 >
-> **[1:45](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=105)** You'll note that version 8 x 2.7 is recommended for Drupal 8.8 or nine.
+> **[1:45](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=105)** You'll note that version 8 x 2.7 is recommended for [[Drupal]] 8.8 or nine.
 >
 > **[1:52](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=112)** Go ahead and install it.
 >

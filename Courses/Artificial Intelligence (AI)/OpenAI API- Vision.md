@@ -316,7 +316,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-vision/vision-api-prompts?u=76281980&t=0)** - [Instructor] We've looked at how we can get more out of this API by sending our images along with a prompt.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-api-vision/vision-api-prompts?u=76281980&t=7)** Now [[Prompt Engineering]] is quite an elaborate craft, and I encourage you to check out other titles in the library that deal with prompt engineering, specifically, my course, "[[Introduction To Prompt Engineering For [[Generative AI]]]]."
+> **[0:07](https://www.linkedin.com/learning/openai-api-vision/vision-api-prompts?u=76281980&t=7)** Now [[Prompt Engineering]] is quite an elaborate craft, and I encourage you to check out other titles in the library that deal with prompt engineering, specifically, my course, "[[Introduction To Prompt Engineering For Generative Ai]]."
 >
 > **[0:22](https://www.linkedin.com/learning/openai-api-vision/vision-api-prompts?u=76281980&t=22)** Now a few good best practices to keep in mind are to use specific instructions, to use concise language, and to specify output format if needed.
 >
@@ -773,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/openai-api-vision/next-steps?u=76281980&t=18)** If you want to learn more about this API, there is my course, [[OpenAI API]]: Speech, where we look at the text-to-speech and speech-to-text capabilities of the OpenAI API.
 >
-> **[0:31](https://www.linkedin.com/learning/openai-api-vision/next-steps?u=76281980&t=31)** Then there's my course, [[Introduction To [[Prompt Engineering]] For [[Generative AI]]]], where we look at different AI tools and prompt engineering techniques.
+> **[0:31](https://www.linkedin.com/learning/openai-api-vision/next-steps?u=76281980&t=31)** Then there's my course, [[Introduction To Prompt Engineering For Generative Ai]], where we look at different AI tools and [[Prompt Engineering]] techniques.
 >
 > **[0:42](https://www.linkedin.com/learning/openai-api-vision/next-steps?u=76281980&t=42)** Finally, if you want to dive deeper into machine learning and AI with [[Python (Programming Language)|Python]], there is Fred Nwanganga's course, [[Machine Learning with Python- Foundations]].
 >

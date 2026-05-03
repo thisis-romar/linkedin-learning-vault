@@ -1705,7 +1705,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=125)** Let's move on to row order.
 >
-> **[2:08](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=128)** Once an order has been applied to a set, it ceases to be a set and its new status deserves public shaming with the name cursor as we move into the realm of row by row operations also known as the dark side of SQL.
+> **[2:08](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=128)** Once an order has been applied to a set, it ceases to be a set and its new status deserves public shaming with the name [[Cursor]] as we move into the realm of row by row operations also known as the dark side of SQL.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=146)** Once all select list expressions have been evaluated and the result set is formed, it is passed on to the order by clause where it is sorted according to the sorting expressions.
 >

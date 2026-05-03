@@ -426,7 +426,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=193)** The NuGet package models' become mature and popular enough that [[Microsoft]] now ships many of their libraries through this platform.
 >
-> **[3:20](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=200)** Everything from data access libraries to the libraries that make up the [[[ASP.NET]]](https://ASP.NET) web programming framework are now packaged and distributed using NuGet.
+> **[3:20](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=200)** Everything from data access libraries to the libraries that make up the [ASP.NET](https://ASP.NET) web programming framework are now packaged and distributed using NuGet.
 >
 > **[3:30](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=210)** This enables faster, more focused updates to the libraries rather than big bang approaches of an entire new framework every year or two.
 >
@@ -2059,7 +2059,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980&t=79)** All of those properties that we've declared there are available on this object.
 >
-> **[1:26](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980&t=86)** You'll see anonymous types get used in a number of different scenarios in C-sharp sometimes with [[[ASP.NET]]](https://asp.net) web pages, other cases where we used [[Language Integrated Query (LINQ)|language integrated query]] to project or create new object types on the fly with some state.
+> **[1:26](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980&t=86)** You'll see anonymous types get used in a number of different scenarios in C-sharp sometimes with [asp.net](https://asp.net) web pages, other cases where we used [[Language Integrated Query (LINQ)|language integrated query]] to project or create new object types on the fly with some state.
 >
 > **[1:43](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980&t=103)** And in those cases that var keyword is critical because we don't know that type ahead of time by name.
 >
@@ -3694,7 +3694,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=28)** After that, there's additional learning topics, including more C# language features or courses where you can dig deeper into those individual topics if you find one that really sparks your interest or is very applicable in your job.
 >
-> **[0:42](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=42)** You can look into some of the frameworks, like Entity framework for doing data access, [[[ASP.NET]]](https://ASP.NET) for building web applications, or you can look at Blazor, which is all about building user interfaces using [[HTML]] and CSS but programming in C#, and it can run natively in the browser with WebAssembly.
+> **[0:42](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=42)** You can look into some of the frameworks, like Entity framework for doing data access, [ASP.NET](https://ASP.NET) for building web applications, or you can look at Blazor, which is all about building user interfaces using [[HTML]] and CSS but programming in C#, and it can run natively in the browser with WebAssembly.
 >
 > **[1:03](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=63)** Maybe you want to look at Xamarin for using C# to write mobile applications for iOS and [[Android]] or [[Windows]] Presentation Foundation or the other Windows-based UI frameworks if you're building desktop applications solely to run on Windows.
 >

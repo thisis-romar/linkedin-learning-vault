@@ -391,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980&t=107)** Generative AI can ensure all feedback has been addressed.
 >
-> **[1:51](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980&t=111)** Moreover, gen AI can summarize books, documents, academic papers, or lengthy texts, and add tremendous value for you by extracting the key points and presenting them in a concise format.
+> **[1:51](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980&t=111)** Moreover, [[Generative AI|gen AI]] can summarize books, documents, academic papers, or lengthy texts, and add tremendous value for you by extracting the key points and presenting them in a concise format.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980&t=124)** It's like having a copy of your mind that reads and distills the information for you.
 >

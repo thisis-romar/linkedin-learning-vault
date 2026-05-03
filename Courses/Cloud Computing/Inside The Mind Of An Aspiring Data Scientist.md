@@ -563,7 +563,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/using-projects-and-hackathons-to-demonstrate-expertise?u=76281980&t=74)** Some informal education include courses, workshops, nanodegrees, and certifications.
 >
-> **[1:23](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/using-projects-and-hackathons-to-demonstrate-expertise?u=76281980&t=83)** You can download the resume templates I used in this lesson from the exercise files and also check out other useful and relevant templates at [diversek.com/[[Microsoft Products|products]]](https://diversek.com/products).
+> **[1:23](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/using-projects-and-hackathons-to-demonstrate-expertise?u=76281980&t=83)** You can download the resume templates I used in this lesson from the exercise files and also check out other useful and relevant templates at [diversek.com/products](https://diversek.com/products).
 
 > [!info]- Semantic Content
 >

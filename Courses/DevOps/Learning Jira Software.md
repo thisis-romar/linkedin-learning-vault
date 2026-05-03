@@ -2547,13 +2547,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=197)** Don't forget to escape or encode any special characters or spaces.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=201)** More about the REST API is available in the developer documentation at developer.[[[Atlassian]].com](https://atlassian.com).
+> **[3:21](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=201)** More about the REST API is available in the developer documentation at developer.[atlassian.com](https://atlassian.com).
 >
 > **[3:28](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=208)** Further, server and data center users can also directly query the database, but be careful.
 >
 > **[3:33](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=213)** Only change data directly in the database as a last resort.
 >
-> **[3:37](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=217)** There are also third party apps in the Atlassian marketplace that help you access additional information.
+> **[3:37](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=217)** There are also third party apps in the [[Atlassian]] marketplace that help you access additional information.
 
 > [!info]- Semantic Content
 >

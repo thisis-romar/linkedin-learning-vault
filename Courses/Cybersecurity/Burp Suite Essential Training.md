@@ -597,7 +597,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=104)** Cd /var/www/[[HTML]].
 >
-> **[1:51](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=111)** And we'll sudo [[Git]] clone [https://[[GitHub]].com/s4n7h0/xvwa.git](https://github.com/s4n7h0/xvwa.git).
+> **[1:51](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=111)** And we'll sudo [[Git]] clone [https://github.com/s4n7h0/xvwa.git](https://github.com/s4n7h0/xvwa.git).
 >
 > **[2:14](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=134)** Okay, let's set up a user for XVWA and create the XVWA database.
 >

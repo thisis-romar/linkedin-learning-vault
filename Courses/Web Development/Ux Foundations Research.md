@@ -915,7 +915,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=209)** Understanding the team processes and development cycles can help you best identify when and what kinds of research will make sense.
 >
-> **[3:36](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=216)** For a deeper dive, check out my [[LinkedIn]] learning course [[[[UX Research]] for Agile Teams]].
+> **[3:36](https://www.linkedin.com/learning/ux-foundations-research-19417883/agile-vs-waterfall?u=76281980&t=216)** For a deeper dive, check out my [[LinkedIn]] learning course [[UX Research for Agile Teams]].
 
 > [!info]- Semantic Content
 >

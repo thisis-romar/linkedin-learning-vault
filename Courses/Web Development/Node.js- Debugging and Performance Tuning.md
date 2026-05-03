@@ -182,7 +182,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=146)** No experience with MySQL or Knex is required, and we're not gonna be debugging either of them.
 >
-> **[2:31](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=151)** But, if you'd like to learn more, check out [[[[Databases]] for Node.js Developers]] in our library.
+> **[2:31](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=151)** But, if you'd like to learn more, check out [[Databases for Node.js Developers]] in our library.
 >
 > **[2:38](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-you-should-know?u=76281980&t=158)** As this is a course on debugging, and not on systems administration, I've included a Docker configuration to get MySQL up and running, with minimal effort.
 >
@@ -1192,7 +1192,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=135)** PM2 isn't the only Node.js process manager out there.
 >
-> **[2:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=139)** Other options include, StrongLoop Process Manager from [strong-pm.io](https://strong-pm.io), and forever from [[[GitHub]].com/foreverjs](https://github.com/foreverjs).
+> **[2:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=139)** Other options include, StrongLoop Process Manager from [strong-pm.io](https://strong-pm.io), and forever from [github.com/foreverjs](https://github.com/foreverjs).
 >
 > **[2:28](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/introducing-pm2-for-process-management?u=76281980&t=148)** They're both very capable options.
 >
@@ -3747,7 +3747,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=80)** Let's look at the download page together.
 >
-> **[1:23](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=83)** Navigate to [apachefriends.org/download.[[HTML]]](https://apachefriends.org/download.html).
+> **[1:23](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=83)** Navigate to [apachefriends.org/download.html](https://apachefriends.org/download.html).
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-with-apachebench?u=76281980&t=89)** Click on More Downloads, then XAMPP Windows.
 >
@@ -4363,7 +4363,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=18)** Automated testing and code quality tools can be used to detect logical errors and prevent regressions.
 >
-> **[0:24](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=24)** Check out the course, [[[[Node.js]]- Testing and Code Quality]] in your library for more details.
+> **[0:24](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=24)** Check out the course, [[Node.js- Testing and Code Quality]] in your library for more details.
 >
 > **[0:30](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=30)** Investigate options for aggregating your logs into one place for analysis.
 >
@@ -4381,9 +4381,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=73)** Here's three courses that I'd like to highlight in your library that are excellent resources for continuing your discovery.
 >
-> **[1:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=79)** Designing Websites for Performance, Learning Enterprise Web Application Performance, and [[[[Databases]] for Node.js Developers]], especially the [[Redis]] part.
+> **[1:19](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=79)** Designing Websites for Performance, Learning Enterprise Web Application Performance, and [[Databases for Node.js Developers]], especially the [[Redis]] part.
 >
-> **[1:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=89)** We've come a long way together, and I hope you've gained an understanding of the fundamentals of debugging and tuning in Node.js applications.
+> **[1:29](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=89)** We've come a long way together, and I hope you've gained an understanding of the fundamentals of debugging and tuning in [[Node.js]] applications.
 >
 > **[1:37](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/next-steps?u=76281980&t=97)** This is a massive topic and there's no one correct solution.
 >

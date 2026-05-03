@@ -945,7 +945,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/learning-linux-command-line-2023/write-commands-in-a-shell-at-the-prompt?u=76281980&t=99)** Because it's different on different platforms, you might wonder if you can customize it further and you can, but that's not something we're going to do right now.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-linux-command-line-2023/write-commands-in-a-shell-at-the-prompt?u=76281980&t=107)** What we're focusing on here is the right side of this prompt, where our cursor is, that's where we'll type commands to send to the system.
+> **[1:47](https://www.linkedin.com/learning/learning-linux-command-line-2023/write-commands-in-a-shell-at-the-prompt?u=76281980&t=107)** What we're focusing on here is the right side of this prompt, where our [[Cursor]] is, that's where we'll type commands to send to the system.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-linux-command-line-2023/write-commands-in-a-shell-at-the-prompt?u=76281980&t=115)** So let's run a command, I'll type LS and press enter.
 >
@@ -1064,7 +1064,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/learning-linux-command-line-2023/finding-help-for-commands?u=76281980&t=124)** Occasionally, you'll come across a command that takes no options, but that's fairly rare.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-linux-command-line-2023/finding-help-for-commands?u=76281980&t=129)** Here at the bottom of the screen, I see a little status bar that tells me my cursor is on line one of this document, and it offers some options to help or quit.
+> **[2:09](https://www.linkedin.com/learning/learning-linux-command-line-2023/finding-help-for-commands?u=76281980&t=129)** Here at the bottom of the screen, I see a little status bar that tells me my [[Cursor]] is on line one of this document, and it offers some options to help or quit.
 >
 > **[2:19](https://www.linkedin.com/learning/learning-linux-command-line-2023/finding-help-for-commands?u=76281980&t=139)** I'll press the H key to show the help.
 >
@@ -1215,7 +1215,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-linux-command-line-2023/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=119)** For now I'll backspace this command and type clear, to clear the screen.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-linux-command-line-2023/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=124)** Once we move beyond short commands, it'll sometimes become necessary to move the cursor around and edit commands or parameters.
+> **[2:04](https://www.linkedin.com/learning/learning-linux-command-line-2023/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=124)** Once we move beyond short commands, it'll sometimes become necessary to move the [[Cursor]] around and edit commands or parameters.
 >
 > **[2:12](https://www.linkedin.com/learning/learning-linux-command-line-2023/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=132)** We can use the arrow keys for that, but it gets pretty tedious to have to click for every character that you want to move.
 >
@@ -3435,7 +3435,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/learning-linux-command-line-2023/edit-text-with-vim?u=76281980&t=97)** So we need to be careful that we're in an insertion mode, if we want to make changes to the text.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-linux-command-line-2023/edit-text-with-vim?u=76281980&t=102)** Using the arrow keys, I'll navigate to the D character, and then I'll press lowercase i, to go back into insertion mode, which more precisely lets us insert text right before the cursor.
+> **[1:42](https://www.linkedin.com/learning/learning-linux-command-line-2023/edit-text-with-vim?u=76281980&t=102)** Using the arrow keys, I'll navigate to the D character, and then I'll press lowercase i, to go back into insertion mode, which more precisely lets us insert text right before the [[Cursor]].
 >
 > **[1:53](https://www.linkedin.com/learning/learning-linux-command-line-2023/edit-text-with-vim?u=76281980&t=113)** We can see if I type, I'm inserting right before where the cursor is.
 >

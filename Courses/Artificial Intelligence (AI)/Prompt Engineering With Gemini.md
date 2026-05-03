@@ -92,7 +92,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/learning-prompt-engineering-with-gemini?u=76281980&t=0)** - [[Gemini]] is [[Google]]'s new GenAI model with powerful multimodal capabilities and integrations.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/learning-prompt-engineering-with-gemini?u=76281980&t=0)** - [[Gemini]] is [[Google]]'s new [[Generative AI|GenAI]] model with powerful multimodal capabilities and integrations.
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/learning-prompt-engineering-with-gemini?u=76281980&t=6)** In this course, we'll learn how to complete a variety of tasks through Gemini, like brainstorming ideas, writing emails, putting together comprehensive reports, and even summarizing your favorite YouTube videos.
 >
@@ -116,7 +116,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=0)** - [Instructor] I'm here on the [[Gemini]] website at gemini.[[[Google]].com](https://google.com).
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=0)** - [Instructor] I'm here on the [[Gemini]] website at gemini.[google.com](https://google.com).
 >
 > **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=4)** Let's get started and chat with Gemini.
 >
@@ -128,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=20)** I'm here on the public website, but if I want access to more powerful models, clicking on the top left here or other features, I should sign in and make an account.
 >
-> **[0:29](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=29)** So let's go ahead and log into my Google account.
+> **[0:29](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=29)** So let's go ahead and log into my [[Google]] account.
 >
 > **[0:32](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=32)** Now you can see here I'm logged into my Google account.
 >
@@ -142,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=57)** All right, so now we're in the Gemini Privacy Hub and the privacy hub will indicate how our data is being used.
 >
-> **[1:02](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=62)** One thing to remember is that even though gen AI is powerful, it's important to understand what data policies are being used.
+> **[1:02](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=62)** One thing to remember is that even though [[Generative AI|gen AI]] is powerful, it's important to understand what data policies are being used.
 >
 > **[1:09](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980&t=69)** In general, you should know that your data is being collected and may be reviewed for quality purposes.
 >
@@ -1800,7 +1800,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/generating-short-videos-with-veo3?u=76281980&t=0)** - [Instructor] One of the amazing developments in 2024 was the ability of gen AI to generate realistic videos.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/generating-short-videos-with-veo3?u=76281980&t=0)** - [Instructor] One of the amazing developments in 2024 was the ability of [[Generative AI|gen AI]] to generate realistic videos.
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/generating-short-videos-with-veo3?u=76281980&t=6)** Since then, the capability has continued to improve, and now [[Google]]'s Veo 3 model is integrated as a preview into [[Gemini]].
 >
@@ -2169,7 +2169,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/continuing-your-prompt-engineering-journey?u=76281980&t=3)** [[Google]] has some great resources on its website to continue your learning and keeping up to date.
 >
-> **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/continuing-your-prompt-engineering-journey?u=76281980&t=8)** You can also follow me on [[LinkedIn]] to stay up to date with GenAI updates.
+> **[0:08](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/continuing-your-prompt-engineering-journey?u=76281980&t=8)** You can also follow me on [[LinkedIn]] to stay up to date with [[Generative AI|GenAI]] updates.
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/continuing-your-prompt-engineering-journey?u=76281980&t=13)** You can also watch my other courses, like GPT Foundations or Getting Hands-on with GPT.
 >

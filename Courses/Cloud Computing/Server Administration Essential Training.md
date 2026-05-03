@@ -638,7 +638,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=120)** All right, these are all things and they're links.
 >
-> **[2:02](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=122)** You'll notice that when I hover the cursor over it, it kind of highlights, like it's a link, okay?
+> **[2:02](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=122)** You'll notice that when I hover the [[Cursor]] over it, it kind of highlights, like it's a link, okay?
 >
 > **[2:07](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=127)** So again, this is going to be slightly different depending on what operating environment you're in but I will do kind of a quick demonstration of a couple things here.
 >

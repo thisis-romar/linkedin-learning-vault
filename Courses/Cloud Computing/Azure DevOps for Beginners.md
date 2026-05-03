@@ -616,11 +616,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=35)** Now, the name of the organization becomes part of your URL.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=39)** So, if I click on this one here, terrys-open-source, you can see that we're at dev.[[[Microsoft Azure|azure]].com/terrys-open-source](https://azure.com/terrys-open-source).
+> **[0:39](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=39)** So, if I click on this one here, terrys-open-source, you can see that we're at dev.[azure.com/terrys-open-source](https://azure.com/terrys-open-source).
 >
 > **[0:47](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=47)** She also has another one here.
 >
-> **[0:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=49)** And then this is one that I used for another Azure course I taught.
+> **[0:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=49)** And then this is one that I used for another [[Microsoft Azure|Azure]] course I taught.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=52)** So, let's look at terrys-open-source, and then we'll go to Organizational settings.
 >
@@ -783,7 +783,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=85)** This one uses the [[Scrum]] work item templates.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=88)** [[[ASP.NET]]](https://ASP.NET) Core and Azure App Service.
+> **[1:28](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=88)** [ASP.NET](https://ASP.NET) Core and Azure App Service.
 >
 > **[1:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=91)** This one uses Scrum and [ASP.NET](https://ASP.NET) Core, and Azure App Service.
 >
@@ -3284,7 +3284,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=0)** - [Instructor] I created this [[[ASP.NET]]](https://ASP.NET) Core website in Visual Studio using the [ASP.NET](https://ASP.NET) Core template, it's using all the default settings.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=0)** - [Instructor] I created this [ASP.NET](https://ASP.NET) Core website in Visual Studio using the [ASP.NET](https://ASP.NET) Core template, it's using all the default settings.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=9)** I've made one slight change to the code here in Layout.cshtml, it's right here on line 40.
 >
@@ -3383,7 +3383,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=4)** When you're creating a build pipeline, you can use a template to get started.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=7)** We'll take a look at some of the templates that are available for [[[ASP.NET]]](https://ASP.NET).
+> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=7)** We'll take a look at some of the templates that are available for [ASP.NET](https://ASP.NET).
 >
 > **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=11)** The first step is to open pipelines, and then go to the build pipeline section, that's this one here, click on a new pipeline.
 >
@@ -3747,7 +3747,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=10)** If you look at the footer on the bottom of this page, you see there's a version number.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=14)** So I have some version number code in the [[[ASP.NET]]](https://ASP.NET) site that picks this up.
+> **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=14)** So I have some version number code in the [ASP.NET](https://ASP.NET) site that picks this up.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=20)** This is not the standard number format that is used by a .NET core.
 >

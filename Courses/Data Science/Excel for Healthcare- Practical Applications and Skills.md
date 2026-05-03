@@ -173,7 +173,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=9)** Though limited in functionalities, it's free and readily available with a [[Microsoft]] email account.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=17)** To get started, go to [[[Microsoft Office|office]].com](https://office.com), where you have option to sign in or sign up for a free version of [[Microsoft 365]].
+> **[0:17](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=17)** To get started, go to [office.com](https://office.com), where you have option to sign in or sign up for a free version of [[Microsoft 365]].
 >
 > **[0:30](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/the-anatomy-and-navigation-of-the-excel-interface?u=76281980&t=30)** Once you've logged in, create your first workbook by clicking on the Excel icon on the left pane or wherever the Excel notebook icon is displayed.
 >
@@ -2335,7 +2335,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=31)** Identify a process where your new skills can make a difference and implement it.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=37)** If you're interested in further expanding your knowledge, consider exploring my other courses on LinkedIn Learning [[[[[[Python (Programming Language)|Python]] Data Analysis]] for Healthcare]], [[Machine Learning Fundamentals for Healthcare]] and for a deeper dive, check out [[Hands-on [[Data Science]] and AI for Healthcare]].
+> **[0:37](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=37)** If you're interested in further expanding your knowledge, consider exploring my other courses on LinkedIn Learning [[[[Python Data Analysis]] for Healthcare]], [[Machine Learning Fundamentals for Healthcare]] and for a deeper dive, check out [[Hands-on Data Science and AI for Healthcare]].
 >
 > **[0:54](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980&t=54)** Wishing you the best in your journey.
 

@@ -148,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=48)** This course is designed to interface analog components with Arduino board and coding.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=55)** I'll cover the wire needed for our project, but if you need a refresher on [[Hardware]] components, throughout this course, I would recommend referring to [[[[Electronics]] Foundations- Fundamentals]].
+> **[0:55](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=55)** I'll cover the wire needed for our project, but if you need a refresher on [[Hardware]] components, throughout this course, I would recommend referring to [[Electronics Foundations- Fundamentals]].
 >
 > **[1:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=69)** If you have zero experience with Arduino, you might want to first check out my other Arduino essential course, Learning Arduino: Foundations, that we have in our library, to get you prepared for this course.
 
@@ -2075,7 +2075,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/next-steps?u=76281980&t=0)** - Thanks for taking the time to join me in this course. 2 If you want to learn more about [[Arduino]], 3 you can check out the library for my other Arduino courses, 4 like [[Learning Arduino- Interfacing with [[Hardware]]]], 5 where I use the Arduino, board 6 with devices like Seven Segment LED, Keypad, and LCD. 7 The [[LinkedIn]] Learning Library has other adrenal Arduino, 8 like Pulse with Modulation and Arduino [[Prototyping]]. 9 If you like to learn more about the concepts 10 or check out other projects, as always, 11 I recommend that you check the Arduino website 12 for resources and tutorials. 13 I hope to see you in another course.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/next-steps?u=76281980&t=0)** - Thanks for taking the time to join me in this course. 2 If you want to learn more about [[Arduino]], 3 you can check out the library for my other Arduino courses, 4 like [[Learning Arduino- Interfacing with Hardware]], 5 where I use the Arduino, board 6 with devices like Seven Segment LED, Keypad, and LCD. 7 The [[LinkedIn]] Learning Library has other adrenal Arduino, 8 like Pulse with Modulation and Arduino [[Prototyping]]. 9 If you like to learn more about the concepts 10 or check out other projects, as always, 11 I recommend that you check the Arduino website 12 for resources and tutorials. 13 I hope to see you in another course.
 
 > [!info]- Semantic Content
 >

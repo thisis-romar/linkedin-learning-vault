@@ -2084,7 +2084,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=68)** But I did find some code that works for Lex Version 2.
 >
-> **[1:11](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=71)** So I'm going to go to [[[GitHub]].com/aws-samples](https://github.com/aws-samples) and scroll down a little bit to the Find a Repository.
+> **[1:11](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=71)** So I'm going to go to [github.com/aws-samples](https://github.com/aws-samples) and scroll down a little bit to the Find a Repository.
 >
 > **[1:19](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=79)** And I am going to search for "booktrip."
 >

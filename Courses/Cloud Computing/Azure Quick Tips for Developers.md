@@ -1722,7 +1722,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=30)** There's also a number of online courses.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=32)** These are connected to the learn.[[[Microsoft]].com](https://microsoft.com) and there's a number of great opportunities to go through and learn how to set up and do things like working with the compute services or managing your Azure costs.
+> **[0:32](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=32)** These are connected to the learn.[microsoft.com](https://microsoft.com) and there's a number of great opportunities to go through and learn how to set up and do things like working with the compute services or managing your Azure costs.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=46)** But the quick start center is a great place to start out and see where you're at and to get started quickly.
 

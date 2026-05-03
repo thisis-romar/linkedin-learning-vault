@@ -1266,7 +1266,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=150)** So here I've got just a super basic [[HTML]] form and I've applied an outline that will display whenever a form field comes into focus.
 >
-> **[2:41](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=161)** And by focus, I mean that either, a user has clicked their cursor on a field or has navigated to a field via keyboard.
+> **[2:41](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=161)** And by focus, I mean that either, a user has clicked their [[Cursor]] on a field or has navigated to a field via keyboard.
 >
 > **[2:48](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=168)** Now the outline, which I have super exaggerated for this example, draws attention to the element.
 >
@@ -1977,7 +1977,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=11)** Let me show you what I mean.
 >
-> **[0:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=13)** So here I am on the [[[WordPress]].org](https://wordpress.org) site, and the website really doesn't matter, I just want to illustrate the tool.
+> **[0:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=13)** So here I am on the [wordpress.org](https://wordpress.org) site, and the website really doesn't matter, I just want to illustrate the tool.
 >
 > **[0:19](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=19)** So I'm using Firefox, and if I right click anywhere on the page, I get this popup menu and I want to click Inspect.
 >
@@ -2158,11 +2158,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=21)** This course takes the topics I've introduced to you here and expands on them in much greater detail.
 >
-> **[0:28](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=28)** Next, there's [[[[HTML]] & CSS- Creating [[Forms]]]].
+> **[0:28](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=28)** Next, there's [[HTML & CSS- Creating Forms]].
 >
-> **[0:32](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=32)** As a web professional, it's almost guaranteed that you'll work with forms at some point.
+> **[0:32](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=32)** As a web professional, it's almost guaranteed that you'll work with [[Forms]] at some point.
 >
-> **[0:38](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=38)** This course teaches the ins and outs of building forms properly with HTML and then styling them with CSS.
+> **[0:38](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=38)** This course teaches the ins and outs of building forms properly with [[HTML]] and then styling them with CSS.
 >
 > **[0:46](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=46)** Finally, there's Semantic HTML and CSS Code Challenges.
 >

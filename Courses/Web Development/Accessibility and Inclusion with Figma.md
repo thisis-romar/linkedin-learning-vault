@@ -2191,7 +2191,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=0)** - [Tom] Well, here we are at the end of the course, and you may be wondering, "Where can I get some further learning around the topics you've covered?'
 >
-> **[0:09](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=9)** Well, here at [[LinkedIn]] Learning, we have one of the top accessibility experts in the world, as far as I'm concerned, Derek Featherstone, who has done several courses for us, and my suggestion is [[UX Foundations- Accessibility]] and [[Accessibility for [[Web Design]]]].
+> **[0:09](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=9)** Well, here at [[LinkedIn]] Learning, we have one of the top accessibility experts in the world, as far as I'm concerned, Derek Featherstone, who has done several courses for us, and my suggestion is [[UX Foundations- Accessibility]] and [[Accessibility for Web Design]].
 >
 > **[0:29](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=29)** Both are tremendous courses.
 >

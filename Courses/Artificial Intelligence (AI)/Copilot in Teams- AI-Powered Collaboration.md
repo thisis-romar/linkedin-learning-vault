@@ -215,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-to-rewrite-messages?u=76281980&t=100)** And did you know that you can edit messages even after you've sent them?
 >
-> **[1:44](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-to-rewrite-messages?u=76281980&t=104)** Just point your mouse cursor at a message and these buttons will appear above it.
+> **[1:44](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-to-rewrite-messages?u=76281980&t=104)** Just point your mouse [[Cursor]] at a message and these buttons will appear above it.
 >
 > **[1:47](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-to-rewrite-messages?u=76281980&t=107)** This button that looks like a pencil is the edit button, so you can click that and then you can make changes, or in this edit view, you can click the Copilot button beneath the text field to get the AI assistant to rewrite it for you.
 >
@@ -471,7 +471,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=0)** - [Instructor] I'm looking at the website, [[Microsoft Copilot|Copilot]].[[[Microsoft]].com](https://microsoft.com), where you can use the Copilot Chat Assistant.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=0)** - [Instructor] I'm looking at the website, [[Microsoft Copilot|Copilot]].[microsoft.com](https://microsoft.com), where you can use the Copilot Chat Assistant.
 >
 > **[0:07](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=7)** This is available to anybody.
 >
@@ -493,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=53)** If you plan to use this on a regular basis, I recommend you right click on that button and choose Pin, and then that button will stay in the sidebar.
 >
-> **[1:01](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=61)** So this is an AI Chat Assistant, but instead of answering questions using information from the internet, this is able to answer questions using information from your organization's Microsoft Graph.
+> **[1:01](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=61)** So this is an AI Chat Assistant, but instead of answering questions using information from the internet, this is able to answer questions using information from your organization's [[Microsoft]] Graph.
 >
 > **[1:14](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=74)** So it's able to find information about the people in your organization, documents stored on your company's [[Microsoft OneDrive|OneDrive]] or [[SharePoint]] libraries, messages sent and meetings scheduled between your coworkers and more.
 >

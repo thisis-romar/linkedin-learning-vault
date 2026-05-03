@@ -1487,7 +1487,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=96)** Third, the DPO is bound by confidentiality in the performance of their tasks, and will only report directly to the highest level of management and the organization.
 >
-> **[1:45](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=105)** The DPO is designed to be the unbiased link between your users and [[[[Executive Leadership]]]] on privacy.
+> **[1:45](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=105)** The DPO is designed to be the unbiased link between your users and [[Executive Leadership]] on privacy.
 >
 > **[1:52](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=112)** Fourth, a DPO must have the technical expertise and a legal understanding of appropriate privacy laws.
 >

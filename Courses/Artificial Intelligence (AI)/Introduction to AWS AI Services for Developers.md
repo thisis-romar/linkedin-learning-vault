@@ -157,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=0)** A coding assistant that is built into your code editor can scan your existing source code and as you type, make recommendations to you that you can use to autocomplete parts of your code.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=12)** So if in your source code, you have a variable called email_address that stores the email address of the current user, and when you start typing the variable name, email, the autocomplete function of your code assistant will pop up with a dialog under your cursor and try to fill in the underscore address part for you.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=12)** So if in your source code, you have a variable called email_address that stores the email address of the current user, and when you start typing the variable name, email, the autocomplete function of your code assistant will pop up with a dialog under your [[Cursor]] and try to fill in the underscore address part for you.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980&t=34)** Coding assistant can also download a language server that runs in the background on your computer that is programmed with the rules and documentation of your particular programming language.
 >

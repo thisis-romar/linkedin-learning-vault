@@ -806,7 +806,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980&t=107)** In a UEFI system, you'll most likely have a mouse interface so you can click on items.
 >
-> **[1:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980&t=112)** In a BIOS system, you'll need to use your cursor keys to select and deselect items.
+> **[1:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980&t=112)** In a BIOS system, you'll need to use your [[Cursor]] keys to select and deselect items.
 >
 > **[1:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980&t=116)** Don't forget to save before you exit.
 >
@@ -4403,7 +4403,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=357)** There are other commands too.
 >
-> **[5:58](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=358)** You can visit the Libvirt documentation at [libvirt.org/docs.[[HTML]]](https://libvirt.org/docs.html), for more information.
+> **[5:58](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=358)** You can visit the Libvirt documentation at [libvirt.org/docs.html](https://libvirt.org/docs.html), for more information.
 
 > [!info]- Semantic Content
 >
@@ -5330,7 +5330,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980&t=222)** Let's add this.
 >
-> **[3:44](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980&t=224)** Press the up arrow key, and move your cursor over to etc, and insert 2> etcerr.txt.
+> **[3:44](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980&t=224)** Press the up arrow key, and move your [[Cursor]] over to etc, and insert 2> etcerr.txt.
 >
 > **[3:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980&t=236)** You should have find /etc 2> etcerr.txt | sort | tee etcsort.txt | wc-l, and hit enter.
 >
@@ -7399,7 +7399,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/awareness-of-emacs-nano-and-vim?u=76281980&t=86)** Now let's take a look at Nano's version of Cut Copy and Paste.
 >
-> **[1:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/awareness-of-emacs-nano-and-vim?u=76281980&t=89)** To cut text, move your cursor up to the 127 line and press left Control K.
+> **[1:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/awareness-of-emacs-nano-and-vim?u=76281980&t=89)** To cut text, move your [[Cursor]] up to the 127 line and press left Control K.
 >
 > **[1:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/awareness-of-emacs-nano-and-vim?u=76281980&t=94)** If you press left Control K again, it adds it to the buffer as opposed to overwriting it.
 >
@@ -7483,7 +7483,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980&t=94)** In command mode we interact with VIM through keyboard shortcuts.
 >
-> **[1:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980&t=98)** Move your cursor to the last line of text and press d d.
+> **[1:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980&t=98)** Move your [[Cursor]] to the last line of text and press d d.
 >
 > **[1:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980&t=102)** We just deleted the last line of text.
 >
@@ -7583,7 +7583,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980&t=49)** We'll cut, copy, delete and paste in command mode.
 >
-> **[0:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980&t=52)** Move your cursor to a line of text and press escape to go to command mode.
+> **[0:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980&t=52)** Move your [[Cursor]] to a line of text and press escape to go to command mode.
 >
 > **[0:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980&t=57)** To cut text we'll use the C key.
 >
@@ -7657,7 +7657,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980&t=15)** I'm going to add line one, line two, line three, line four, and then the last line I'm going to type in line space line and hit enter.
 >
-> **[0:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980&t=28)** Let's move our cursor to the top of the file.
+> **[0:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980&t=28)** Let's move our [[Cursor]] to the top of the file.
 >
 > **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980&t=31)** To search from your current position to the end of the document, exit insert mode by pressing escape, press forward slash to search, and then start typing.
 >

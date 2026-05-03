@@ -3432,7 +3432,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=61)** To launch the project in codespaces, go to the GitHub repo like I'm doing now, and click on Code, Codespaces.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=69)** The default machine is just too small for this application, particularly the GenAI section of the (indistinct) So, we need to choose a bigger visual machine.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=69)** The default machine is just too small for this application, particularly the [[Generative AI|GenAI]] section of the (indistinct) So, we need to choose a bigger visual machine.
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=79)** To do that, click on the three dots, and then select New width options.
 >
@@ -5451,7 +5451,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=23)** All you need is a Google account.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=25)** Just so you know, gen AI applications are heavy.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=25)** Just so you know, [[Generative AI|gen AI]] applications are heavy.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=30)** So the free compute units are limited.
 >

@@ -1386,7 +1386,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=68)** Finally, implement and enforce strong security policies that prohibit unauthorized deployment of IT systems or solutions.
 >
-> **[1:16](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=76)** Security policy should be approved by [[[[Executive Leadership]]]] and should clearly state what is allowed when it comes to IT deployments.
+> **[1:16](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=76)** Security policy should be approved by [[Executive Leadership]] and should clearly state what is allowed when it comes to IT deployments.
 >
 > **[1:24](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/protect-against-shadow-it?u=76281980&t=84)** That way, you'll have an answer when asked why shadow IT systems need to be removed.
 >

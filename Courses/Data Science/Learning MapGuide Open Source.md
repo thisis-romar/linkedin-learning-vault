@@ -3355,7 +3355,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=381)** And I would put a URL that's allowed to be embedded inside of a task pane or inside of an I-frame.
 >
-> **[6:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=387)** Items like [[[LinkedIn]].com](https://linkedin.com) or [[[Google]].com](https://google.com) won't allow you to put anything in there.
+> **[6:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=387)** Items like [linkedin.com](https://linkedin.com) or [google.com](https://google.com) won't allow you to put anything in there.
 >
 > **[6:32](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=392)** So you have to put in your own URL that allows that.
 >
@@ -4934,7 +4934,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=34)** That's the first port of call when developing with MapGuide is the JavaScript Wrapper.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=40)** Also, you can check out all the [[PHP]] courses, as well as the [[[ASP.NET]]](https://asp.net) to do some more backend development with MapGuide.
+> **[0:40](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=40)** Also, you can check out all the [[PHP]] courses, as well as the [asp.net](https://asp.net) to do some more backend development with MapGuide.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=48)** I hope you enjoyed this course as much as I did teaching it.
 >

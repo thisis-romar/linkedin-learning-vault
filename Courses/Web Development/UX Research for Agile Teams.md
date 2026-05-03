@@ -79,7 +79,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=0)** - The [[[[Agile Software Development]]]] approach continues to grow in popularity and [[User Experience (UX)|user experience]] is becoming an even more integral part of organizations of all kinds.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=0)** - The [[Agile Software Development]] approach continues to grow in popularity and [[User Experience (UX)|user experience]] is becoming an even more integral part of organizations of all kinds.
 >
 > **[0:11](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=11)** The iterative, response nature of the approach can be very conducive to integrating ongoing research, but doing so successfully can be a real challenge.
 >

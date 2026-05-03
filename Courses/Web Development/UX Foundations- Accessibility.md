@@ -1060,7 +1060,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=224)** It can take something that should be a one-step action and turn it into something that takes six separate commands.
 >
-> **[3:50](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=230)** Dragon can also be used to control the cursor with commands like mouse move left, or mouse move up 200, and faster or slower, and stop.
+> **[3:50](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=230)** Dragon can also be used to control the [[Cursor]] with commands like mouse move left, or mouse move up 200, and faster or slower, and stop.
 >
 > **[4:03](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=243)** Much like the mouse grid, this mechanism works but it isn't really efficient.
 
@@ -1096,7 +1096,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=68)** This helps them get the detail they need from the magnified view, but also maintains some sense of orientation about where they are on the page with the unmagnified view.
 >
-> **[1:18](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=78)** Some people will also use a picture and picture mode where they [[Zoom]] in only over top of the mouse cursor.
+> **[1:18](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=78)** Some people will also use a picture and picture mode where they [[Zoom]] in only over top of the mouse [[Cursor]].
 >
 > **[1:24](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=84)** So the magnified view follows the cursor around the page.
 >
@@ -1403,7 +1403,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=110)** Just be aware that most of the work is done at the code level by development teams.
 >
-> **[1:55](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=115)** A blind user can't see the screen and if they can't see the screen, they can't see where the mouse cursor is.
+> **[1:55](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=115)** A blind user can't see the screen and if they can't see the screen, they can't see where the mouse [[Cursor]] is.
 >
 > **[2:01](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=121)** So what do they do?
 >

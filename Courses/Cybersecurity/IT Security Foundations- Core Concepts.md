@@ -2128,7 +2128,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980&t=173)** So we'll say get started and then just go through and look at the email.
 >
-> **[2:59](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980&t=179)** And then you can lay your cursor and read the link and make a decision whether it's a phishing or legitimate email.
+> **[2:59](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980&t=179)** And then you can lay your [[Cursor]] and read the link and make a decision whether it's a phishing or legitimate email.
 >
 > **[3:07](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980&t=187)** In this case, I'll say phishing.
 >

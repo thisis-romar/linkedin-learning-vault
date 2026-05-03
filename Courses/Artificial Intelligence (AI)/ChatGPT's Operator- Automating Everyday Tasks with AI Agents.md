@@ -284,7 +284,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=28)** Once that's done, you can watch the video and share it.
 >
-> **[0:32](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=32)** Notice that the cursor changes a bit to make things more clear and it burns a link and time code at the bottom of the video.
+> **[0:32](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=32)** Notice that the [[Cursor]] changes a bit to make things more clear and it burns a link and time code at the bottom of the video.
 >
 > **[0:39](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=39)** If you hit the Publish button, the link to the video will be copied to your clipboard.
 >

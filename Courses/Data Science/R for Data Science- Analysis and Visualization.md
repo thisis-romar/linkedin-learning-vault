@@ -1153,7 +1153,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980&t=222)** So let me show you what it's like when I run that again.
 >
-> **[3:45](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980&t=225)** I just put the cursor in there, and then I do commander control return, and now I get a different kind.
+> **[3:45](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980&t=225)** I just put the [[Cursor]] in there, and then I do commander control return, and now I get a different kind.
 >
 > **[3:51](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/comments-and-headers?u=76281980&t=231)** And you can compare the two by going back and forth here with and without the options.
 >

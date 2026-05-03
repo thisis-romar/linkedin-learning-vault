@@ -889,7 +889,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=54)** AI is statistics wrapped in a learning algorithm.
 >
-> **[0:57](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=57)** We can manage training by hand if they're just two parameters, but if there's thousands of parameters or millions of parameters, as found in [[Deep Learning]] models, or billions of parameters, as found in gen AI models, then we need an automated learning algorithm to tweak the equation's parameters to minimize error.
+> **[0:57](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=57)** We can manage training by hand if they're just two parameters, but if there's thousands of parameters or millions of parameters, as found in [[Deep Learning]] models, or billions of parameters, as found in [[Generative AI|gen AI]] models, then we need an automated learning algorithm to tweak the equation's parameters to minimize error.
 >
 > **[1:15](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=75)** As mentioned, AI is statistics wrapped in a learning algorithm.
 >

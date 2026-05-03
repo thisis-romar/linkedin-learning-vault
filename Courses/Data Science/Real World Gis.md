@@ -3496,7 +3496,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=61)** Note that this is going to be inside of a geodatabase in the project I've created here called WebMapping.
 >
-> **[1:07](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=67)** So I'm going to put my cursor in here, back it up a little bit, and I'm going to call it POINTS.
+> **[1:07](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=67)** So I'm going to put my [[Cursor]] in here, back it up a little bit, and I'm going to call it POINTS.
 >
 > **[1:14](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-build-web-maps-from-arcgis-pro?u=76281980&t=74)** I'll make it all caps. There we go.
 >
@@ -5716,7 +5716,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=133)** They might challenge you on it.
 >
-> **[2:15](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=135)** If you have no experience, then start getting some by watching courses on [[[LinkedIn]].com](https://linkedin.com) for programming languages that the GIS industry uses, for example.
+> **[2:15](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=135)** If you have no experience, then start getting some by watching courses on [linkedin.com](https://linkedin.com) for programming languages that the GIS industry uses, for example.
 >
 > **[2:26](https://www.linkedin.com/learning/real-world-gis-22715766/how-can-you-master-the-gis-job-interview-part-2?u=76281980&t=146)** In the Esri software, it's primarily using [[Python (Programming Language)|Python]] for scripting, but if you don't actually know Python, then don't say that you do.
 >

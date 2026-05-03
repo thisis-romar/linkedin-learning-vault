@@ -360,7 +360,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=151)** There's various models we can use for this.
 >
-> **[2:33](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=153)** We'll just use GPT-4o.
+> **[2:33](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=153)** We'll just use [[GPT-4|GPT-4o]].
 >
 > **[2:36](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980&t=156)** So, we'll say gpt-4o.
 >

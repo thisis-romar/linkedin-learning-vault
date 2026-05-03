@@ -386,7 +386,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=79)** Now, if you haven't already, you're going to need to sign up for a [[Hugging Face]].
 >
-> **[1:23](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=83)** So the way you could do that is just by going to [[[Hugging Face|huggingface]].co](https://huggingface.co).
+> **[1:23](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=83)** So the way you could do that is just by going to [huggingface.co](https://huggingface.co).
 >
 > **[1:29](https://www.linkedin.com/learning/prompt-engineering-with-langchain/base-llms-vs-instruction-tuned-llms?u=76281980&t=89)** Just click on Sign Up, and you'll be prompted to enter some information here.
 >
@@ -5805,7 +5805,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=0)** - [Instructor] In order to use LangSmith, you first have to sign up and obtain an API key.
 >
-> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=6)** You could do that by going to smith.[[[LangChain]].com](https://langchain.com).
+> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=6)** You could do that by going to smith.[langchain.com](https://langchain.com).
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=9)** And as you'll see, you've got multiple options to sign up.
 >
@@ -5873,7 +5873,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=177)** Let's say LinkedIn Learning example.
 >
-> **[2:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=179)** Description, this is a prompt that we are using in the LangSmith section of the LinkedIn Learning course titled [[Prompt Engineering]] with LangChain.
+> **[2:59](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=179)** Description, this is a prompt that we are using in the LangSmith section of the LinkedIn Learning course titled [[Prompt Engineering]] with [[LangChain]].
 >
 > **[3:21](https://www.linkedin.com/learning/prompt-engineering-with-langchain/langsmith-walkthrough?u=76281980&t=201)** And we'll spell learning correctly.
 >

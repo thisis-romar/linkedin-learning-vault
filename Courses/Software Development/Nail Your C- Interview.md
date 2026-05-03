@@ -288,7 +288,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=80)** Since C# was created by Microsoft, it's rarely used outside of Windows environments, but it is standardized so it could be used for other use cases.
 >
-> **[1:30](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=90)** With C#, you would typically create console or Windows applications, [[[ASP.NET]]](https://ASP.NET) applications or mobile apps.
+> **[1:30](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=90)** With C#, you would typically create console or Windows applications, [ASP.NET](https://ASP.NET) applications or mobile apps.
 >
 > **[1:39](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980&t=99)** It's also a strong language for client and web-based applications.
 >
@@ -1889,7 +1889,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=433)** This can take some time.
 >
-> **[7:16](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=436)** If you're interested in learning more about these data structures, I encourage you to take my [[[[Programming Foundations]]- Data Structures]] course here on [[LinkedIn]] Learning.
+> **[7:16](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=436)** If you're interested in learning more about these data structures, I encourage you to take my [[Programming Foundations- Data Structures]] course here on [[LinkedIn]] Learning.
 >
 > **[7:25](https://www.linkedin.com/learning/nail-your-c-sharp-interview/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=445)** In this course, we dive deeper into these topics.
 

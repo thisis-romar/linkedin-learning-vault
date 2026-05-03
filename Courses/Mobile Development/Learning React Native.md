@@ -185,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=50)** I'm going to introduce it in this course, but at some point, you might want to learn Flexbox end to end.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=55)** I recommend taking a course like "[[Advanced Responsive Layouts with [[CSS Flexbox]]]]" by Morten Rand-Hendriksen.
+> **[0:55](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=55)** I recommend taking a course like "[[Advanced Responsive Layouts with CSS Flexbox]]" by Morten Rand-Hendriksen.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-react-native/what-you-should-know?u=76281980&t=62)** Now if you're comfortable with JavaScript and you understand the basics of React, then you're ready for this course.
 >

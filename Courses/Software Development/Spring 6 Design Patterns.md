@@ -1853,7 +1853,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=92)** Common task semantics can be templatized to reduce the cost of implementing new versions of them.
 >
-> **[1:40](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=100)** This is really powerful when you look at JDBC template, where you have to go and create a connection, get a cursor, execute your operations, and then close that connection.
+> **[1:40](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=100)** This is really powerful when you look at JDBC template, where you have to go and create a connection, get a [[Cursor]], execute your operations, and then close that connection.
 >
 > **[1:51](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=111)** So, how do you go about creating templates within Spring?
 >

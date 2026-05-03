@@ -110,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=35)** The other thing you'll need is some type of [[Microsoft]] sign-in credential.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=38)** I'll be using a [[Microsoft 365]] Business account in a corporate environment, but you can use other accounts like personal Windows, Live accounts, [[[Microsoft Outlook|Outlook]].com](https://Outlook.com), or even an old Hotmail account.
+> **[0:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=38)** I'll be using a [[Microsoft 365]] Business account in a corporate environment, but you can use other accounts like personal Windows, Live accounts, [Outlook.com](https://Outlook.com), or even an old Hotmail account.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=50)** We'll discuss this further in the next chapter.
 >
@@ -156,17 +156,17 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=21)** There's many ways to get logged in using an existing account.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=24)** Perhaps you have an old Hotmail account an [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) account, Skype, for example.
+> **[0:24](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=24)** Perhaps you have an old Hotmail account an [Outlook.com](https://Outlook.com) account, Skype, for example.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=29)** All of those will get you signed in.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=32)** Going to Google and searching for a word online will give you a number of different options for getting logged in.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=38)** Notice at [[[Microsoft Office|Office]].com](https://Office.com) here using [[Microsoft 365]], we have a link to Word online.
+> **[0:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=38)** Notice at [Office.com](https://Office.com) here using [[Microsoft 365]], we have a link to Word online.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=44)** Same thing from [[[Microsoft]].com](https://Microsoft.com).
+> **[0:44](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=44)** Same thing from [Microsoft.com](https://Microsoft.com).
 >
-> **[0:46](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=46)** A little further down, office.[live.com](https://live.com).
+> **[0:46](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=46)** A little further down, [[Microsoft Office|office]].[live.com](https://live.com).
 >
 > **[0:49](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=49)** And I'm going to go over here to another tab I have open where I've just simply typed in [office.com](https://office.com) up at the top in the address bar taking me to this screen where I can sign in using the sign-in button or sign up for the free version of Microsoft 365 if I don't already have it.
 >
@@ -476,7 +476,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=31)** Just a couple of lines of text so far.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=34)** Cursor flashing on a blank line, ready to continue.
+> **[0:34](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=34)** [[Cursor]] flashing on a blank line, ready to continue.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=37)** Now if you're following along, you can also work with a blank page or any document you like at this point.
 >
@@ -829,7 +829,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=154)** Click anywhere in the document to deselect, and then just click anywhere in the line or paragraph you want to format.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=162)** Automatically, when we apply styles, it gets applied to text where our cursor's flashing, looking for a hard return at the end, and that's where it stops.
+> **[2:42](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=162)** Automatically, when we apply styles, it gets applied to text where our [[Cursor]]'s flashing, looking for a hard return at the end, and that's where it stops.
 >
 > **[2:51](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=171)** So for styles, we go back to our ribbon once again, but you can see it has its own group here, and we can click the dropdown to see those styles.
 >
@@ -1173,7 +1173,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=154)** There are a number of different formats we can insert into a word online document like JPEGs, for example, GIFs, TIFs and so on.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=163)** So with AI Graphic PNG selected for me, clicking open's going to insert it right where my cursor was flashing.
+> **[2:43](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=163)** So with AI Graphic PNG selected for me, clicking open's going to insert it right where my [[Cursor]] was flashing.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=168)** You can find your own graphic if you're following along, select it and click open.
 >
@@ -1676,7 +1676,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=87)** And there's the flag right there, we can hover over it to see the name of the person who's working in that spot.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=93)** But, by going here and choosing "go to location," it'll take our cursor right to the same spot.
+> **[1:33](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=93)** But, by going here and choosing "go to location," it'll take our [[Cursor]] right to the same spot.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=98)** We might want to choose to work somewhere else, for example, maybe go down to this paragraph, select it and change the font color.
 >

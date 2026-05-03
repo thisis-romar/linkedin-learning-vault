@@ -92,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=25)** Get Started with Microsoft's Everyday AI Companion."
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=29)** From there, you may also want to explore courses like Nick's "[[Learning [[Microsoft 365]]]] Copilot," or my two courses, "[[Microsoft Copilot]]: the Art of Prompt Writing," and "Building AI Skills with Microsoft Copilot Lab."
+> **[0:29](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=29)** From there, you may also want to explore courses like Nick's "[[Learning Microsoft 365]] Copilot," or my two courses, "[[Microsoft Copilot]]: the Art of Prompt Writing," and "Building AI Skills with Microsoft Copilot Lab."
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=41)** These courses will give you the background you need to get the most out of this course on using Copilot with a focus on sales.
 
@@ -114,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=0)** - [Host] [[Microsoft Copilot|Copilot]] can help accelerate and streamline customer research and sales preparation tasks in a number of significant ways.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=7)** I'm currently in my web browser at copilot.[[[Microsoft]].com](https://microsoft.com), and from here you can use Copilot to help you with things like customer outreach, creating presentations, preparing for cold calls, and so on.
+> **[0:07](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=7)** I'm currently in my web browser at copilot.[microsoft.com](https://microsoft.com), and from here you can use Copilot to help you with things like customer outreach, creating presentations, preparing for cold calls, and so on.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=19)** Let's say for example, we want to contact a new potential client, in this case, a company called Leaf and Mortar Landscaping Company.
 >
@@ -199,11 +199,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=11)** Copilot can help you with your research.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=14)** For example, I'm in my web browser at copilot.[[[Microsoft]].com](https://microsoft.com).
+> **[0:14](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=14)** For example, I'm in my web browser at copilot.[microsoft.com](https://microsoft.com).
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=17)** And one way you can get started with your research is by asking Copilot to quickly pull information from a customer's website or their annual report or any other source of information that you think is relevant.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=29)** For instance, here's Microsoft's annual report.
+> **[0:29](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=29)** For instance, here's [[Microsoft]]'s annual report.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=33)** It's around 80 pages long and you can see it's loaded with information that I probably want to take into account when coming up with my pitch.
 >

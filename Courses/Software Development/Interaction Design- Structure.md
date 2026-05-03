@@ -1049,7 +1049,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=1)** I hope you enjoyed this course and took away some insights to apply concepts of structure to your next UX project.
 >
-> **[0:08](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=8)** You can check out my other courses, [[UX Foundations- [[Prototyping]]]] and Sketch: Mobile Design Workflows, to learn more relevant material.
+> **[0:08](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=8)** You can check out my other courses, [[UX Foundations- Prototyping]] and Sketch: Mobile Design Workflows, to learn more relevant material.
 >
 > **[0:16](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=16)** If you have any followup questions, feel free to post them on the Q&A on this course's page.
 >

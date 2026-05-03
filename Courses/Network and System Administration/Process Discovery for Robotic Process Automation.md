@@ -106,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980&t=0)** - Since producing the first version of this course, many things have happened that both supplement and reinforce the value of process discovery in your efforts to digitize and modernize your business.
 >
-> **[0:11](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980&t=11)** The last few years have seen an explosion of AI tools, including GenAI and [[AI Agents]].
+> **[0:11](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980&t=11)** The last few years have seen an explosion of AI tools, including [[Generative AI|GenAI]] and [[AI Agents]].
 >
 > **[0:18](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980&t=18)** These tools help us do everything from craft content to write code to evaluate intense amounts of data.
 >
@@ -145,9 +145,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=49)** These aren't strict prerequisites, but I'm confident that you'll find them helpful to relate to throughout this course.
 >
-> **[0:56](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=56)** One is [[[[Process Mining]] for [[Robotic Process Automation (RPA)|Robotic Process Automation]]]], which is a primer for the general class of technologies that process discovery belongs to.
+> **[0:56](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=56)** One is [[Process Mining for Robotic Process Automation]], which is a primer for the general class of technologies that process discovery belongs to.
 >
-> **[1:07](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=67)** The other is Introduction to Robotic Process Automation, otherwise known as RPA.
+> **[1:07](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=67)** The other is Introduction to [[Robotic Process Automation (RPA)|Robotic Process Automation]], otherwise known as RPA.
 >
 > **[1:13](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=73)** That course is useful because of the many synergies between process discovery and RPA.
 >

@@ -3149,7 +3149,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=17)** There's a lot more to learn about binomial and multinomial models, as well as starting to explore ordinal models, which I touched on slightly in this course.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=27)** If you want to learn more about AI and machine learning models, as well as statistical methods, check out some of the other courses in the library on these topics, like [[Microsoft Excel]]: Using Solver for Decision Analysis, R for [[Data Science]]: Lunchbreak Lessons, [[[[Microsoft Power BI|Power BI]]- Integrating AI]] and Machine Learning, Data [[Dashboards]] in Power BI, and Advanced [[Microsoft Power BI]].
+> **[0:27](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=27)** If you want to learn more about AI and machine learning models, as well as statistical methods, check out some of the other courses in the library on these topics, like [[Microsoft Excel]]: Using Solver for Decision Analysis, R for [[Data Science]]: Lunchbreak Lessons, [[Power BI- Integrating AI]] and Machine Learning, Data [[Dashboards]] in [[Microsoft Power BI|Power BI]], and Advanced [[Microsoft Power BI]].
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=53)** I'd love to stay connected, and hope you learn more about logistic regression.
 >

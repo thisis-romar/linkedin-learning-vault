@@ -107,11 +107,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=14)** In the [[LinkedIn]] Library, I have multiple courses that will allow you to get those foundational skills on Microsoft Azure.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=22)** Specifically, I will recommend that you follow the [[[[Microsoft Azure|Azure]] Administration Essential Training]].
+> **[0:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=22)** Specifically, I will recommend that you follow the [[Azure Administration Essential Training]].
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=28)** This course will allow you to learn about all of the essential workloads, services and resource types in Microsoft Azure.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=36)** Throughout this course, you will learn about the management tools and the various features available within Azure, as well as all of the underlying structure that allows Microsoft to create these cloud technologies.
+> **[0:36](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=36)** Throughout this course, you will learn about the management tools and the various features available within [[Microsoft Azure|Azure]], as well as all of the underlying structure that allows Microsoft to create these cloud technologies.
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=51)** [[Microsoft Entra ID]] for Administrators is another course that I recommend for you to take before you take the security course.
 >

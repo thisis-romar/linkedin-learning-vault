@@ -1346,7 +1346,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=369)** Okay, color, white.
 >
-> **[6:14](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=374)** Cursor, pointer.
+> **[6:14](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=374)** [[Cursor]], pointer.
 >
 > **[6:19](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=379)** Okay.
 >

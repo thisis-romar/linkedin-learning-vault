@@ -101,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=46)** I've been using extreme programming since it was introduced.
 >
-> **[0:49](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=49)** And I created and teach the course, [[[[Agile Software Development]]]], at Harvard University.
+> **[0:49](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=49)** And I created and teach the course, [[Agile Software Development]], at Harvard University.
 >
 > **[0:53](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=53)** So join me in my [[LinkedIn]] Learning course to learn about extreme programming and how to build more software better and faster.
 
@@ -196,7 +196,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=173)** They also practice the daily stand-up, known in Scrum as the daily scrum.
 >
-> **[2:57](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=177)** Many of the best [[[[Agile Software Development]]]] teams succeed by combining the rigorous technical practices of XP with the process control elements of Scrum.
+> **[2:57](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=177)** Many of the best [[Agile Software Development]] teams succeed by combining the rigorous technical practices of XP with the process control elements of Scrum.
 >
 > **[3:06](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=186)** And many of the best teams I've ever worked on do exactly that, augment Scrum with the technical practices of extreme programming.
 
@@ -217,7 +217,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=5)** It's a way of building software [[Microsoft Products|products]] together as a team.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=10)** [[[[Agile Software Development]]]] is a set of values and principles.
+> **[0:10](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=10)** [[Agile Software Development]] is a set of values and principles.
 >
 > **[0:14](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=14)** There are four values in [[Agile Development|agile]].
 >
@@ -1446,7 +1446,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=247)** Modern IDEs like IntelliJ and Eclipse can perform a lot of these refactorings for you, making it easy to improve your code all the time.
 >
-> **[4:15](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=255)** To learn more about refactoring, take a look at [[[[Agile Software Development]]]]: Refactoring on [[LinkedIn]] Learning.
+> **[4:15](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=255)** To learn more about refactoring, take a look at [[Agile Software Development]]: Refactoring on [[LinkedIn]] Learning.
 >
 > **[4:21](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=261)** You'll be able to practice with hands-on exercise to help you master refactoring.
 
@@ -2018,7 +2018,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=246)** Use tools like SonarQube to continuously identify code complexity hot spots and refactor the hot spots to make them simpler.
 >
-> **[4:14](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=254)** And check out the [[[[Agile Software Development]]]] Refactoring course and practice refactoring until it becomes second nature.
+> **[4:14](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=254)** And check out the [[Agile Software Development]] Refactoring course and practice refactoring until it becomes second nature.
 
 > [!info]- Semantic Content
 >
@@ -2054,7 +2054,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=29)** The XP Wiki pages include entries from Kent Beck, from Ron Jeffries, and other [[Agile Development|Agile]]-ators who helped create and spread the ideas of extreme programming.
 >
-> **[0:38](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=38)** Take these other [[[[Agile Software Development]]]] courses on [[LinkedIn]] Learning, my course on refactoring, which covers both refactoring and TDD, Lynn Langit's courses on pair programming and mod programming, and [[Continuous Delivery (CD)|continuous delivery]], and Scott Ford's course on code quality.
+> **[0:38](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=38)** Take these other [[Agile Software Development]] courses on [[LinkedIn]] Learning, my course on refactoring, which covers both refactoring and TDD, Lynn Langit's courses on pair programming and mod programming, and [[Continuous Delivery (CD)|continuous delivery]], and Scott Ford's course on code quality.
 >
 > **[0:52](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=52)** And visit my website to subscribe to my newsletter and stay informed about XP and other great practices, or to ask me for help any time.
 >

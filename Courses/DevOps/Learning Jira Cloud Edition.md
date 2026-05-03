@@ -1087,7 +1087,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=112)** The Jira has two types of boards; [[Scrum]] and Kanban.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=116)** But these terms are from the [[[[Agile Software Development]]]] methodology.
+> **[1:56](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=116)** But these terms are from the [[Agile Software Development]] methodology.
 >
 > **[2:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=120)** Scrum boards are for teams that deliver their work in regular fixed intervals called sprints.
 >
@@ -2748,9 +2748,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=27)** On the right, is a list of issues and areas you worked last.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=31)** If you click the "Manage account" button, you'll leave Jira and visit id.[[[Atlassian]].com](https://atlassian.com).
+> **[0:31](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=31)** If you click the "Manage account" button, you'll leave Jira and visit id.[atlassian.com](https://atlassian.com).
 >
-> **[0:38](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=38)** From that website, you can access your overall Atlassian account settings.
+> **[0:38](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=38)** From that website, you can access your overall [[Atlassian]] account settings.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=42)** Go there to change your time zone and default language, for example.
 >

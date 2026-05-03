@@ -399,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=9)** Doing this enables translators to use automated tools to easily extract all the text that needs to be translated from your code.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=17)** If you intend to submit your plugin or theme to the [[[WordPress]].org](https://wordpress.org) repository, there's a couple of things to be aware of.
+> **[0:17](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=17)** If you intend to submit your plugin or theme to the [wordpress.org](https://wordpress.org) repository, there's a couple of things to be aware of.
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=25)** First, stay away from underscores or special characters.
 >
@@ -407,7 +407,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=32)** Also, the folder name of the plugin or theme, should match your text domain.
 >
-> **[0:37](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=37)** Following these naming conventions, enables WordPress' automated translation services to work.
+> **[0:37](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=37)** Following these naming conventions, enables [[WordPress]]' automated translation services to work.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=44)** To give you an idea of how this works, I've got a local installation of WordPress already set up.
 >

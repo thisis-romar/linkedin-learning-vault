@@ -318,9 +318,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=0)** - [Instructor] To get started, open your web browser and go to ai.[[[Microsoft Azure|azure]].com](https://azure.com).
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=0)** - [Instructor] To get started, open your web browser and go to ai.[azure.com](https://azure.com).
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=6)** If you have not signed in yet with your Azure accounts, you'll see an information page about the foundry.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=6)** If you have not signed in yet with your [[Microsoft Azure|Azure]] accounts, you'll see an information page about the foundry.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=12)** Otherwise, you'll see this on this page.
 >
@@ -699,7 +699,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=37)** The model is trained on 10 million chemical compounds from PubChem.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=42)** The second one is E.L.Y. Crop Protection by Bayer, and that enables the creation of Gen AI based agricultural solutions.
+> **[0:42](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=42)** The second one is E.L.Y. Crop Protection by Bayer, and that enables the creation of [[Generative AI|Gen AI]] based agricultural solutions.
 >
 > **[0:50](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=50)** Another one is Saifir, a model that can highlight potential non-compliant language in the financial industry.
 >

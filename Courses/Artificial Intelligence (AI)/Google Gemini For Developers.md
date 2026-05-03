@@ -95,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980&t=0)** - [Lynn] What does the [[Google Gemini]] 2.x model family offer for your [[Generative AI]] use cases?
 >
-> **[0:07](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980&t=7)** In addition to the powerful foundational LLMs, [[Gemini]] now includes a number of tools, libraries, and services that you can use to build your own gen AI applications.
+> **[0:07](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980&t=7)** In addition to the powerful foundational LLMs, [[Gemini]] now includes a number of tools, libraries, and services that you can use to build your own [[Generative AI|gen AI]] applications.
 >
 > **[0:18](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980&t=18)** We'll explore these capabilities by looking at dev environments, prompt mechanics, grounding, API capabilities, and reference applications.
 >
@@ -134,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=45)** So I just copied this prompt, and the tool that I recommend that you use is not a developer tool to interact with the business.
 >
-> **[0:53](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=53)** I recommend use the commercial tool, just gemini.[[[Google]].com](https://google.com), because it's super friendly when you are in the early stages of building.
+> **[0:53](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=53)** I recommend use the commercial tool, just gemini.[google.com](https://google.com), because it's super friendly when you are in the early stages of building.
 >
 > **[1:01](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=61)** Of course, as your application goes more towards maturity and release, you will then use the dev tools.
 >
@@ -1412,7 +1412,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=0)** - [Instructor] And to round out our tour of the tools available in AI Studio, we're going to look at my favorite tool, which is grounding with [[Google]] Search.
 >
-> **[0:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=9)** How often have we, in using some gen AI tool, went and done a manual Google search to look at the quality of the output?
+> **[0:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=9)** How often have we, in using some [[Generative AI|gen AI]] tool, went and done a manual Google search to look at the quality of the output?
 >
 > **[0:17](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=17)** Well, this is so nicely integrated both in this tool set and also, of course, in the API.
 >

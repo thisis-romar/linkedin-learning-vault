@@ -181,7 +181,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=125)** And this is where we create new projects for the Unity engine.
 >
-> **[2:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=128)** To get started, I'm going to move my cursor to make sure that I'm on the projects section.
+> **[2:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=128)** To get started, I'm going to move my [[Cursor]] to make sure that I'm on the projects section.
 >
 > **[2:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=133)** You don't want to be anywhere else here.
 >

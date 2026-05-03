@@ -686,7 +686,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/a-netcat-refresher?u=76281980&t=207)** For example, we can use Netcat to connect to a web server.
 >
-> **[3:31](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/a-netcat-refresher?u=76281980&t=211)** I'll type nc -v [[[Google]].com](https://google.com) on port 80.
+> **[3:31](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/a-netcat-refresher?u=76281980&t=211)** I'll type nc -v [google.com](https://google.com) on port 80.
 >
 > **[3:34](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/a-netcat-refresher?u=76281980&t=214)** I'll type nc -v [google.com](https://google.com) on port 80.
 >
@@ -3472,7 +3472,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/find-exploit-code?u=76281980&t=56)** A source of ready-made exploits for testing is the offensive security exploit database.
 >
-> **[1:03](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/find-exploit-code?u=76281980&t=63)** Here we have the full set of exploits on [[[Exploit-DB|exploitdb]].com](https://exploitdb.com).
+> **[1:03](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/find-exploit-code?u=76281980&t=63)** Here we have the full set of exploits on [exploitdb.com](https://exploitdb.com).
 >
 > **[1:06](https://www.linkedin.com/learning/penetration-testing-essential-training-2021/find-exploit-code?u=76281980&t=66)** Let's select the filters button and search for the type remote.
 >

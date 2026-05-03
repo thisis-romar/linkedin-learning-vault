@@ -126,7 +126,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=126)** ANN are computing systems inspired by the human brain, consisting of interconnected layers of artificial neurons, and can be trained to match inputs to outputs by adjusting parameters within the network.
 >
-> **[2:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=138)** [[Large Language Models (LLM)|Large language models]], or LLMs, are a subset of [[Generative AI]], GenAI, focused specifically on understanding and generating human language, text.
+> **[2:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=138)** [[Large Language Models (LLM)|Large language models]], or LLMs, are a subset of [[Generative AI]], [[Generative AI|GenAI]], focused specifically on understanding and generating human language, text.
 >
 > **[2:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=149)** Some common LLMs include [[ChatGPT]], [[Microsoft Copilot|Copilot]], and [[Gemini]].
 >
@@ -228,7 +228,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=185)** Big data technologies provide the infrastructure to manage large data sets used for analysis, pattern recognition, and prediction at scale.
 >
-> **[3:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=194)** Building on the large scale data and infrastructure discussed earlier, one of the most well-known applications of GenAI is an NLP.
+> **[3:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=194)** Building on the large scale data and infrastructure discussed earlier, one of the most well-known applications of [[Generative AI|GenAI]] is an NLP.
 >
 > **[3:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=202)** This includes models such as generative pre-trained transformers, GPTs, which generate human-like text based on a given prompt.
 >
@@ -1063,7 +1063,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980&t=66)** A global health nonprofit used AI-driven donor predictions to identify high-value prospects and optimize outreach, securing $831,000 in additional funding in one year.
 >
-> **[1:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980&t=78)** For proposal writing and grant application generation functions, GenAI can draft proposal sections and initial narratives, helping ensure alignment with donor guidance while allowing fundraisers to refine strategy and messaging.
+> **[1:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980&t=78)** For proposal writing and grant application generation functions, [[Generative AI|GenAI]] can draft proposal sections and initial narratives, helping ensure alignment with donor guidance while allowing fundraisers to refine strategy and messaging.
 >
 > **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980&t=91)** Tools you can explore include Freewill Grant Assistant, [[ChatGPT]], and [[Microsoft Copilot]].
 >

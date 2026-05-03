@@ -351,7 +351,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=146)** In Agile development, [[Microsoft Products|products]] and services are built incrementally by self-organizing cross-functional teams.
 >
-> **[2:33](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=153)** [[[[Agile Software Development]]]] lifecycle refers to a process based on iterative development and adaptive planning, gathering requirements like user stories, analysis, design, coding, testing, release, and deployment with customer feedback at each iteration.
+> **[2:33](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=153)** [[Agile Software Development]] lifecycle refers to a process based on iterative development and adaptive planning, gathering requirements like user stories, analysis, design, coding, testing, release, and deployment with customer feedback at each iteration.
 >
 > **[2:52](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=172)** Agile methodology values people more than processes and emphasizes the need for flexibility in producing products and services that provide value to the service consumer.
 >

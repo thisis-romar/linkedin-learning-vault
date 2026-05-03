@@ -554,7 +554,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=36)** Here, you'll need a [[Microsoft]] account to sign up.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=40)** I've already created one beforehand, so, I'll type in that, sbckdm@[[[Microsoft Outlook|outlook]].com](https://outlook.com).
+> **[0:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=40)** I've already created one beforehand, so, I'll type in that, sbckdm@[outlook.com](https://outlook.com).
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=48)** sbckdm is just an abbreviation of my company name and my name combined, Serverbaba Consulting, Kunal D. Metha.
 >

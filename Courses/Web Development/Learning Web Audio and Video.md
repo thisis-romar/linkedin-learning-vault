@@ -1557,7 +1557,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-progress-bar?u=76281980&t=146)** Additionally since this will be interactive, we want the user to know that they can click on it.
 >
-> **[2:31](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-progress-bar?u=76281980&t=151)** So we can change the cursor to a pointer whenever anybody hovers over this element.
+> **[2:31](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-progress-bar?u=76281980&t=151)** So we can change the [[Cursor]] to a pointer whenever anybody hovers over this element.
 >
 > **[2:37](https://www.linkedin.com/learning/learning-web-audio-and-video/design-your-progress-bar?u=76281980&t=157)** And there we are.
 >

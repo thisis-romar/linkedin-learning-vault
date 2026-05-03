@@ -860,7 +860,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=279)** I set it at 60 characters.
 >
-> **[4:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=282)** You can also have a blinking cursor.
+> **[4:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=282)** You can also have a blinking [[Cursor]].
 >
 > **[4:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=284)** You can allow drag and drop.
 >
@@ -951,7 +951,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=126)** And you read this as, "a gets one."
 >
-> **[2:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=130)** So I'm just going to put the cursor in there and I'm going to hit Cmd.
+> **[2:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=130)** So I'm just going to put the [[Cursor]] in there and I'm going to hit Cmd.
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=134)** And then when that happens, you see both, it says that it did it, and then if you come over here to the environment on the top right, it says I have a variable call to A and its value is one.
 >

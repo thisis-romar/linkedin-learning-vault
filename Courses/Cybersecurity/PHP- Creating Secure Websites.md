@@ -166,7 +166,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=94)** In this training, we will briefly review the security challenges that you'll face before we focus our efforts on crafting solutions in PHP.
 >
-> **[1:41](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=101)** Two other training titles in the library can provide a deeper explanation of the how and why hackers use certain attacks, [[[[Programming Foundations]]- Web Security]] and Web Security: User Authentication and Access Control.
+> **[1:41](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=101)** Two other training titles in the library can provide a deeper explanation of the how and why hackers use certain attacks, [[Programming Foundations- Web Security]] and Web Security: User Authentication and Access Control.
 >
 > **[1:54](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=114)** These courses focus on awareness of the security issues.
 >
@@ -299,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=0)** - [Narrator] Let's quickly review the primary security principles.
 >
-> **[0:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=3)** These principles are covered in more depth in the course I mentioned earlier, [[[[Programming Foundations]]- Web Security]].
+> **[0:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=3)** These principles are covered in more depth in the course I mentioned earlier, [[Programming Foundations- Web Security]].
 >
 > **[0:08](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=8)** The first principle is called least privilege.
 >

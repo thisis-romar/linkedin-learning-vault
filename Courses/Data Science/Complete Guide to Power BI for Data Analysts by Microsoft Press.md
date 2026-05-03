@@ -2015,7 +2015,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=139)** We can see here in this spreadsheet we've got a sheet called sheet number one, which contains all the data that we can see on this particular sheet.
 >
-> **[2:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=149)** If I put my cursor inside of this area here, I will notice at the very top in the ribbon I have this thing called table design.
+> **[2:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=149)** If I put my [[Cursor]] inside of this area here, I will notice at the very top in the ribbon I have this thing called table design.
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=156)** And if I just open this up, we'll also see that there is a table called table table number one.
 >
@@ -8272,7 +8272,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-selection-pane?u=76281980&t=54)** So if we want, we could go ahead and set our report page up for accessibility and make it so that as the user tabbed across all these objects in a logical order, that the screen reader would go ahead and read it.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-selection-pane?u=76281980&t=68)** And as it stands right now, if I go ahead and put my cursor on the total sales here, I'm just going to go and turn my edit interactions off.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-selection-pane?u=76281980&t=68)** And as it stands right now, if I go ahead and put my [[Cursor]] on the total sales here, I'm just going to go and turn my edit interactions off.
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-selection-pane?u=76281980&t=75)** Didn't turn it off from last lesson, so put it right here.
 >

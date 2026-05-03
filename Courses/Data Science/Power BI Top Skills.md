@@ -154,11 +154,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=0)** - [Instructor] [[Getting Started With [[Microsoft Power BI|Power Bi]]]] is easier than you might think.
+> **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=0)** - [Instructor] [[Getting Started With Power Bi]] is easier than you might think.
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=3)** In just a few clicks, you'll have the app installed and ready to go, no App Store needed.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=9)** Power BI Desktop is the free [[Windows]] application you'll use to build and design reports, while Power BI Service is the online platform where you can share and collaborate.
+> **[0:09](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=9)** [[Microsoft Power BI|Power BI]] Desktop is the free [[Windows]] application you'll use to build and design reports, while Power BI Service is the online platform where you can share and collaborate.
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=19)** In this lesson, you'll see how to install and open Power BI Desktop, the first step towards building interactive and data-driven reports.
 >
@@ -168,13 +168,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=37)** Let's jump in.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=39)** Open your web browser and go to [[[Microsoft]].com](https://microsoft.com).
+> **[0:39](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=39)** Open your web browser and go to [microsoft.com](https://microsoft.com).
 >
 > **[0:55](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=55)** Click the search bar, type Power BI Desktop.
 >
 > **[1:03](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=63)** Press Enter.
 >
-> **[1:06](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=66)** One of the top results will say, "Download [[Microsoft Power BI]] Desktop from the Official Microsoft Download Center."
+> **[1:06](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=66)** One of the top results will say, "Download [[Microsoft Power BI]] Desktop from the Official [[Microsoft]] Download Center."
 >
 > **[1:13](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=73)** Select the link to open the page.
 >
@@ -425,7 +425,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=118)** It's also helpful to identify the report's audience.
 >
-> **[2:01](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=121)** The audience is the Talent Development Team, managers, and [[[[Executive Leadership]]]].
+> **[2:01](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=121)** The audience is the Talent Development Team, managers, and [[Executive Leadership]].
 >
 > **[2:06](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=126)** Identifying the audience is valuable because it ensures the report is tailored to meet the specific needs, priorities, and terminology of those who will use it.
 >

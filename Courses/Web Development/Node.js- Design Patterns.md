@@ -2750,7 +2750,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980&t=94)** Also on lines three and four, we set up standard input to listen for key press events through readline.
 >
-> **[1:41](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980&t=101)** If we go down to line 19, we can see where we actually handle a key press event, and lines 21 and 22 clear the line and move the cursor to zero so that we can replace the text that was printed to the last line.
+> **[1:41](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980&t=101)** If we go down to line 19, we can see where we actually handle a key press event, and lines 21 and 22 clear the line and move the [[Cursor]] to zero so that we can replace the text that was printed to the last line.
 >
 > **[1:51](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980&t=111)** We're also checking the key.name in a switch statement and each of these cases respond to a specific arrow key.
 >

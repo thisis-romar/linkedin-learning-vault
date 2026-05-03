@@ -1138,7 +1138,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980&t=160)** This indicates they can't respond to user interaction due to invalid conditions.
 >
-> **[2:45](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980&t=165)** Disabled elements are often styled to appear dimmed or grayed out with the not allowed mouse cursor.
+> **[2:45](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980&t=165)** Disabled elements are often styled to appear dimmed or grayed out with the not allowed mouse [[Cursor]].
 >
 > **[2:52](https://www.linkedin.com/learning/accessibility-first-design/accessible-interactive-states?u=76281980&t=172)** By using the disabled [[HTML]] attribute, buttons will announce the state to assistive technology.
 >

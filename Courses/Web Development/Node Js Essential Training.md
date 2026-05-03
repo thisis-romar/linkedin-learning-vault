@@ -852,7 +852,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=27)** And then we're going to say process.standard output.clearLine.
 >
-> **[0:39](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=39)** We're going to say process, standard, output.cursorTo and we'll set the cursor to zero.
+> **[0:39](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=39)** We're going to say process, standard, output.cursorTo and we'll set the [[Cursor]] to zero.
 >
 > **[0:48](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=48)** So that first position will get rid of our other console message.
 >

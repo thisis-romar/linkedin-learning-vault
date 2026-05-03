@@ -547,7 +547,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=32)** If you haven't pulled down the code example, I encourage you to deepen your understanding and retain your newfound knowledge through hands-on exploration.
 >
-> **[0:42](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=42)** You can also continue learning by watching my other courses, "[[Building a Project with the [[ChatGPT]] API]]", "[[[[Artificial Intelligence Foundations]]- Machine Learning]]", and other courses in the OpenAI API series.
+> **[0:42](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=42)** You can also continue learning by watching my other courses, "[[Building a Project with the ChatGPT API]]", "[[Artificial Intelligence Foundations- Machine Learning]]", and other courses in the OpenAI API series.
 >
 > **[0:59](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=59)** I've enjoyed our time together.
 >

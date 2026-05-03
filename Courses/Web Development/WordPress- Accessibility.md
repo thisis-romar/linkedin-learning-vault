@@ -852,7 +852,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=73)** What does this control look like when it has a keyboard focus?
 >
-> **[1:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=77)** Does it look different under the mouse cursor?
+> **[1:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=77)** Does it look different under the mouse [[Cursor]]?
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=79)** What does a toggle look like when its control is open versus when it's closed?
 >

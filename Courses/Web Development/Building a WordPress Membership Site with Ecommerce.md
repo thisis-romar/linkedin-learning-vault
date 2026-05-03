@@ -583,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=35)** And you can get this in two ways.
 >
-> **[0:37](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=37)** You could re-download WooCommerce from [[[WordPress]].org](https://wordpress.org), open up that ZIP and find the files in the folder, or go to your existing WordPress install, which is what I'm doing, and find it from there.
+> **[0:37](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=37)** You could re-download WooCommerce from [wordpress.org](https://wordpress.org), open up that ZIP and find the files in the folder, or go to your existing [[WordPress]] install, which is what I'm doing, and find it from there.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/importing-demo-products?u=76281980&t=50)** There are a couple of ways to import products.
 >

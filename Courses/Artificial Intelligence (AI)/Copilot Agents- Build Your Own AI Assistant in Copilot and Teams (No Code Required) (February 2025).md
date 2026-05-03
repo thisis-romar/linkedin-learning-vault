@@ -106,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=30)** More on that in a moment.
 >
-> **[0:31](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=31)** To start, we'll go to [[[Microsoft Office|office]].com](https://office.com).
+> **[0:31](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=31)** To start, we'll go to [office.com](https://office.com).
 >
 > **[0:34](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=34)** You must sign in with a Microsoft 365 account that was assigned to you by your company, school, or a similar organization.
 >

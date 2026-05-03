@@ -129,7 +129,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=73)** The second tool is TruffleHog.
 >
-> **[1:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=75)** If you go to [[[GitHub]].com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog), there are instructions on how you can install this for your particular operating system.
+> **[1:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=75)** If you go to [github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog), there are instructions on how you can install this for your particular operating system.
 >
 > **[1:27](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=87)** We'll be writing and executing a [[Python (Programming Language)|Python]] script in this course, so it will help if you go ahead and have this installed.
 >
@@ -137,7 +137,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=99)** You can set up a free account through their community edition.
 >
-> **[1:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=105)** You should also have a GitHub account already set up.
+> **[1:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=105)** You should also have a [[GitHub]] account already set up.
 >
 > **[1:48](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=108)** And when you do, go to [github.com/webco/webco](https://github.com/webco/webco),
 >
@@ -1511,7 +1511,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=166)** The future of AppSec isn't about choosing between human expertise and AI, it's about leveraging both to create more secure applications than ever before.
 >
-> **[2:55](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=175)** Now, let's look at a demo where we can use gen AI to analyze application security in real time.
+> **[2:55](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=175)** Now, let's look at a demo where we can use [[Generative AI|gen AI]] to analyze application security in real time.
 >
 > **[3:03](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=183)** Let's flip over to VS Code.
 >

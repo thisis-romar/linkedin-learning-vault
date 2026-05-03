@@ -1276,7 +1276,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=152)** First is [[Azure AI Foundry]], next is Lighteval, which is a downloadable and installable tool from [[GitHub]].
 >
-> **[2:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=160)** [llm-stats.com](https://llm-stats.com) is another website, as well as [[[Hugging Face|huggingface]].co/models](https://huggingface.co/models).
+> **[2:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=160)** [llm-stats.com](https://llm-stats.com) is another website, as well as [huggingface.co/models](https://huggingface.co/models).
 >
 > **[2:47](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=167)** These are websites that allow you to view benchmarks and be able to compare different models together.
 >
@@ -1467,7 +1467,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=47)** One of my favorite features in the Azure AI Foundry is the ability to review and filter all the models available.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=53)** When I click on the model catalog, it shows me all the models as well as the ability to filter on a variety of things such as GPT-4o,
+> **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=53)** When I click on the model catalog, it shows me all the models as well as the ability to filter on a variety of things such as [[GPT-4|GPT-4o]],
 >
 > **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=66)** and it gives me a detailed description as well as benchmarks of how it performs with various datasets and in comparison with other models.
 >

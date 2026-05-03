@@ -1831,7 +1831,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=132)** So this is where all the models are listed, and we can select any model to work with.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=137)** For now, let us say we want to work with the OpenAI GPT-4o model, so let us select that.
+> **[2:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=137)** For now, let us say we want to work with the OpenAI [[GPT-4|GPT-4o]] model, so let us select that.
 >
 > **[2:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=148)** And once selected, we get taken to the playground where we can play around with prompts without having to do any form of coding.
 >
@@ -1984,7 +1984,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=62)** Once your Azure AI account is set up, let's add back to our GitHub Models page at [github.com/marketplace/models](https://github.com/marketplace/models).
 >
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=71)** On this page, let us click the dropdown and go for GPT-4o mini.
+> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=71)** On this page, let us click the dropdown and go for [[GPT-4|GPT-4o]] mini.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=78)** On the Playground page, Let's now click the Use This Model button.
 >
@@ -2179,7 +2179,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=7)** GitHub Codespaces is a GitHub service and it heavily relies on GitHub workflows.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=12)** So, if you want to take full advantage of Codespaces and your GitHub code management skills are still lacking then I advise you to take the GitHub Essential Training and [[Learning [[Git]] and GitHub]] courses from the [[LinkedIn]] Library.
+> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=12)** So, if you want to take full advantage of Codespaces and your GitHub code management skills are still lacking then I advise you to take the GitHub Essential Training and [[Learning Git and GitHub]] courses from the [[LinkedIn]] Library.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=26)** To take full advantage of the Codespaces Editor, having strong Visual Studio skills is essential.
 >

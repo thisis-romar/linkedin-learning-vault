@@ -227,9 +227,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980&t=0)** - [Instructor] The materials for this course are hosted on [[[GitHub]].com](https://github.com).
+> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980&t=0)** - [Instructor] The materials for this course are hosted on [github.com](https://github.com).
 >
-> **[0:04](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980&t=4)** Once you pull up the GitHub repository, you'll see a green button to the right where you can download the project via SSH or HTTP.
+> **[0:04](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980&t=4)** Once you pull up the [[GitHub]] repository, you'll see a green button to the right where you can download the project via SSH or HTTP.
 >
 > **[0:12](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980&t=12)** If you don't have administrative access to the computer you're using, you can use the HTTPS option to download it on your machine.
 >

@@ -391,7 +391,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-py-excel-function?u=76281980&t=177)** We'll change it back so we can see this as a comparison.
 >
-> **[3:01](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-py-excel-function?u=76281980&t=181)** We can add multiple lines of Python code just by using the Enter key to move the cursor within the formula bar to the next line.
+> **[3:01](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-py-excel-function?u=76281980&t=181)** We can add multiple lines of Python code just by using the Enter key to move the [[Cursor]] within the formula bar to the next line.
 >
 > **[3:08](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/using-py-excel-function?u=76281980&t=188)** Unlike writing Excel formulas explicitly without the Python function, hitting the Enter key doesn't return the results.
 >

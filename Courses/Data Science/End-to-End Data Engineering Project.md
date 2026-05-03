@@ -128,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=6)** First, let's talk about knowledge base.
 >
-> **[0:08](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=8)** To make the most of this course, you should be familiar with [[[[Data Engineering]] Foundations]], have a basic understanding of [[SQL]] and [[Python (Programming Language)|Python]], and comfortable with basic command line operations and [[Git]].
+> **[0:08](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=8)** To make the most of this course, you should be familiar with [[Data Engineering Foundations]], have a basic understanding of [[SQL]] and [[Python (Programming Language)|Python]], and comfortable with basic command line operations and [[Git]].
 >
 > **[0:21](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=21)** About the tech stack, you will need Python 3, Docker and Docker [[Jetpack Compose|Compose]], which are bundled with Docker Desktop, and an IDE.
 >
@@ -136,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=33)** You can find links on how to install all of these tools in the Exercise File.
 >
-> **[0:38](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=38)** We will build this data engineering project together from scratch.
+> **[0:38](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=38)** We will build this [[Data Engineering]] project together from scratch.
 >
 > **[0:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=41)** The main takeaway from this course is a [[GitHub]] Repo to showcase what you built.
 >
@@ -778,7 +778,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=143)** To make our life easier, we can go for incremental deduped+history, so we get final tables with no duplicates plus history tables.
 >
-> **[2:33](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=153)** The primary keys and the cursor fields are automatically identified by Airbyte, so let's leave everything as is.
+> **[2:33](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=153)** The primary keys and the [[Cursor]] fields are automatically identified by Airbyte, so let's leave everything as is.
 >
 > **[2:42](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=162)** Finally, let's select normalized traveler data.
 >

@@ -657,7 +657,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=228)** To foil password cracking attempts, don't make your password predictable, and better yet, use a passphrase with at least 12 or more characters.
 >
-> **[3:58](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=238)** For more information on how to create a strong password, visit this page at [[[Google]].com](https://Google.com).
+> **[3:58](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=238)** For more information on how to create a strong password, visit this page at [Google.com](https://Google.com).
 >
 > **[4:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=247)** Now let's test your knowledge.
 >

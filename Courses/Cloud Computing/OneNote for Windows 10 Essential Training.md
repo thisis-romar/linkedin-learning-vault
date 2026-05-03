@@ -1044,7 +1044,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rearranging-with-the-cut-copy-and-paste-tools?u=76281980&t=102)** It happens to be this untitled page.
 >
-> **[1:43](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rearranging-with-the-cut-copy-and-paste-tools?u=76281980&t=103)** I'll place it right where my mouse cursor is.
+> **[1:43](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rearranging-with-the-cut-copy-and-paste-tools?u=76281980&t=103)** I'll place it right where my mouse [[Cursor]] is.
 >
 > **[1:45](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rearranging-with-the-cut-copy-and-paste-tools?u=76281980&t=105)** Where your mouse cursor is is going to define the starting point for pasting the contents of that note container.
 >
@@ -1083,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/working-in-full-screen-mode?u=76281980&t=45)** So I'm going to select Insert Or Remove Extra Space.
 >
-> **[0:47](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/working-in-full-screen-mode?u=76281980&t=47)** Now, where my mouse cursor's indicating a bar and that arrow, I'm going to left click and drag, and you'll notice that I'm able to determine the size of space that I want between those images in that note container.
+> **[0:47](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/working-in-full-screen-mode?u=76281980&t=47)** Now, where my mouse [[Cursor]]'s indicating a bar and that arrow, I'm going to left click and drag, and you'll notice that I'm able to determine the size of space that I want between those images in that note container.
 >
 > **[0:59](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/working-in-full-screen-mode?u=76281980&t=59)** And now I have room to take some typed notes or handwritten notes in between these images.
 >
@@ -1122,7 +1122,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=20)** Then we're going to go up here to the home ribbon and we're going to come over here and select format painter.
 >
-> **[0:26](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=26)** Now you'll notice as I move the mouse cursor over the page that my mouse cursor has a paintbrush.
+> **[0:26](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=26)** Now you'll notice as I move the mouse [[Cursor]] over the page that my mouse cursor has a paintbrush.
 >
 > **[0:31](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=31)** This is indicating that it has picked up everything about that font formatting.
 >
@@ -1293,7 +1293,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-to-do-list?u=76281980&t=47)** And that's what we'll do.
 >
-> **[0:48](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-to-do-list?u=76281980&t=48)** So when I do that based on where my mouse cursor is positioned it's creating a new note container.
+> **[0:48](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-to-do-list?u=76281980&t=48)** So when I do that based on where my mouse [[Cursor]] is positioned it's creating a new note container.
 >
 > **[0:53](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-to-do-list?u=76281980&t=53)** You'll notice a blinking mouse cursor indicating we can type in the information for that first tag.
 >
@@ -1445,7 +1445,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-space-for-additional-notes?u=76281980&t=49)** All right, I'm going to go ahead and select Insert or Remove Extra Space.
 >
-> **[0:52](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-space-for-additional-notes?u=76281980&t=52)** And as I get my mouse cursor over the page, you'll notice that this pointer arrow changes.
+> **[0:52](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-space-for-additional-notes?u=76281980&t=52)** And as I get my mouse [[Cursor]] over the page, you'll notice that this pointer arrow changes.
 >
 > **[0:57](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-space-for-additional-notes?u=76281980&t=57)** Now I have a vertical bar and the arrow that's hovering over that is indicating that I can left-click and drag to insert space in this area of the page.
 >
@@ -1651,7 +1651,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=48)** We can even just click outside of this menu and that takes us back out.
 >
-> **[0:52](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=52)** Now, when I select this microphone, you are going to see a red dot show up, and that indicates that it's currently listening, and it's going to be transcribing the spoken words as typed text on the page where the cursor is positioned.
+> **[0:52](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=52)** Now, when I select this microphone, you are going to see a red dot show up, and that indicates that it's currently listening, and it's going to be transcribing the spoken words as typed text on the page where the [[Cursor]] is positioned.
 >
 > **[1:06](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=66)** If it's the first time that you're working with Office Dictation, there is going to be a [[Privacy]] Information pop-up that you will need to acknowledge before you can start working with this tool.
 >
@@ -1764,7 +1764,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980&t=181)** So let's go ahead and try it out.
 >
-> **[3:03](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980&t=183)** You'll notice that my mouse cursor is positioned on the page but I do have a stylus in my hand, so I'm just going to start taking some notes.
+> **[3:03](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980&t=183)** You'll notice that my mouse [[Cursor]] is positioned on the page but I do have a stylus in my hand, so I'm just going to start taking some notes.
 >
 > **[3:09](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980&t=189)** So as I get my stylus close to the touch-enabled device, that cursor changes.
 >
@@ -1863,7 +1863,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980&t=99)** So we'll select capture area.
 >
-> **[1:42](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980&t=102)** That turns the mouse cursor into this plus sign, indicating that we can left-click and drag to capture just what is within that frame.
+> **[1:42](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980&t=102)** That turns the mouse [[Cursor]] into this plus sign, indicating that we can left-click and drag to capture just what is within that frame.
 >
 > **[1:49](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980&t=109)** So we'll start up here, just above Dining in the Area.
 >
@@ -1993,7 +1993,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980&t=77)** It happens to be the Meet the Chef page here.
 >
-> **[1:19](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980&t=79)** I'm going to place my mouse cursor here, and we'll go to the insert ribbon.
+> **[1:19](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980&t=79)** I'm going to place my mouse [[Cursor]] here, and we'll go to the insert ribbon.
 >
 > **[1:23](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980&t=83)** Next, we'll select online video.
 >
@@ -2324,7 +2324,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/replay-notes?u=76281980&t=35)** Let's go ahead and move the mouse over here.
 >
-> **[0:37](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/replay-notes?u=76281980&t=37)** Notice that the mouse cursor is now a plus sign.
+> **[0:37](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/replay-notes?u=76281980&t=37)** Notice that the mouse [[Cursor]] is now a plus sign.
 >
 > **[0:40](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/replay-notes?u=76281980&t=40)** We'll left click and drag to select the area that we would like to replay.
 >
@@ -2390,7 +2390,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=103)** Okay, let's go ahead and close the help panel.
 >
-> **[1:45](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=105)** Now I'm going to minimize this application, and in the browser, I have it already pre-populated with some of the resources that I recommend, starting here with support.[[[Microsoft]].com](https://microsoft.com).
+> **[1:45](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=105)** Now I'm going to minimize this application, and in the browser, I have it already pre-populated with some of the resources that I recommend, starting here with support.[microsoft.com](https://microsoft.com).
 >
 > **[1:56](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=116)** This is the official site for [[Microsoft Office|Office]] help and training, all of the various office applications that you use.
 >
@@ -2432,7 +2432,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=221)** That's your school email address here to help you get started with that.
 >
-> **[3:46](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=226)** If you're on Twitter, you may want to follow @msonenote to get the latest news and tips about Microsoft OneNote.
+> **[3:46](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=226)** If you're on Twitter, you may want to follow @msonenote to get the latest news and tips about [[Microsoft]] OneNote.
 >
 > **[3:54](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=234)** And if you're specifically working with OneNote for education, you can also find that on Twitter by following @OneNoteEDU.
 >

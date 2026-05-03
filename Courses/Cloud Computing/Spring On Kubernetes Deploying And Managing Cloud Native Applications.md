@@ -1826,7 +1826,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=55)** And now for some annotations.
 >
-> **[1:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=60)** All right, nginx.ingress.[[[Kubernetes]].io/use](https://kubernetes.io/use).
+> **[1:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=60)** All right, nginx.ingress.[kubernetes.io/use](https://kubernetes.io/use).
 >
 > **[1:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=68)** RegX will be set equal to true.
 >
@@ -1846,7 +1846,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=139)** That individual path will be /wisdom-api.
 >
-> **[2:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=143)** So we will go to the context route of Kubernetes to /wisdom-api.
+> **[2:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=143)** So we will go to the context route of [[Kubernetes]] to /wisdom-api.
 >
 > **[2:27](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=147)** And from there, everything beyond this is going to be routed to our pod, and that's really important.
 >

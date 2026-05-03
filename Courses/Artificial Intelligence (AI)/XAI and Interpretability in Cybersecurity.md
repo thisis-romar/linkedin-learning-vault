@@ -117,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=14)** I recommend the following [[LinkedIn]] courses as valuable prerequisites.
 >
-> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=21)** The first one is Artificial Intelligence Foundation: Machine Learning by Kesha Williams, [[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]] by Frederick Nwanganga, and [[Deep Learning]]: Getting Started.
+> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=21)** The first one is Artificial Intelligence Foundation: Machine Learning by Kesha Williams, [[Machine Learning with Python- Foundations]] by Frederick Nwanganga, and [[Deep Learning]]: Getting Started.
 >
 > **[0:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=39)** These courses will give you a strong grounding in AI concepts and machine learning techniques.
 >
@@ -135,7 +135,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=148)** Now we'll be able to achieve these goals through a combination of theoretical discussions, practical exercises, and real-world case studies.
 >
-> **[2:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=159)** Now throughout this course, we'll be using Python for coding exercises, Jupyter Notebooks for interactive demonstrations, popular XAI libraries, such as SHAP and LIME, cybersecurity datasets for hands-on experience, and MITRE Caldera, which is an automated adversary emulation platform.
+> **[2:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=159)** Now throughout this course, we'll be using [[Python (Programming Language)|Python]] for coding exercises, Jupyter Notebooks for interactive demonstrations, popular XAI libraries, such as SHAP and LIME, cybersecurity datasets for hands-on experience, and MITRE Caldera, which is an automated adversary emulation platform.
 >
 > **[3:07](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=187)** Now, make sure you have these tools installed and ready before we begin.
 >
@@ -2533,7 +2533,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=15)** Now, I would recommend using three ways of expanding your XAI knowledge.
 >
-> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=21)** So the first one is to explore related courses on [[LinkedIn]] Learning, such as the [[[[Artificial Intelligence (AI)|Artificial Intelligence]] for Cybersecurity]] by Sam Siegel, which covers AI applications in a security context.
+> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=21)** So the first one is to explore related courses on [[LinkedIn]] Learning, such as the [[Artificial Intelligence for Cybersecurity]] by Sam Siegel, which covers AI applications in a security context.
 >
 > **[0:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=35)** Number two, dive into academic resources.
 >

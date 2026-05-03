@@ -5503,7 +5503,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=134)** Now, you can even create comments with a shortcut key combination on your keyboard.
 >
-> **[2:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=138)** To do this, place your cursor on the line that you want to comment, and then press and hold the Control key on your keyboard, and then tap K and C.
+> **[2:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=138)** To do this, place your [[Cursor]] on the line that you want to comment, and then press and hold the Control key on your keyboard, and then tap K and C.
 >
 > **[2:27](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=147)** That'll automatically add in the two hyphens on the line.
 >
@@ -7220,7 +7220,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=48)** My course, SQL Server Database Triggers, will help you automate tasks in your database by setting up systems that monitor activity and automatically perform actions based on specific conditions.
 >
-> **[1:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=60)** And finally, if you want to learn how to create your own custom functions and store procedures that you can use to streamline your queries, take a look at my course, [[Program Databases with [[Transact-SQL (T-SQL)|Transact-SQL]]]].
+> **[1:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=60)** And finally, if you want to learn how to create your own custom functions and store procedures that you can use to streamline your queries, take a look at my course, [[Program Databases with Transact-SQL]].
 >
 > **[1:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=72)** I encourage you to bookmark these courses now and add them to your Learning Watch list so that they're easy to find when you're ready to dig further into SQL queries.
 >

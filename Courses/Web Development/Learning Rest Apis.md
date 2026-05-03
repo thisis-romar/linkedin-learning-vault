@@ -283,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-rest-apis/sidebar-url-vs-uri?u=76281980&t=114)** On the web, a URN can be either an explicit URN, like oasis:names:spcification:docbook, etc.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-rest-apis/sidebar-url-vs-uri?u=76281980&t=123)** or it can be a resource name like [[[LinkedIn]].com/learning/instructors/morten-rand-hendrikson](https://linkedin.com/learning/instructors/morten-rand-hendrikson).
+> **[2:03](https://www.linkedin.com/learning/learning-rest-apis/sidebar-url-vs-uri?u=76281980&t=123)** or it can be a resource name like [linkedin.com/learning/instructors/morten-rand-hendrikson](https://linkedin.com/learning/instructors/morten-rand-hendrikson).
 >
 > **[2:10](https://www.linkedin.com/learning/learning-rest-apis/sidebar-url-vs-uri?u=76281980&t=130)** Finally, a URN can also be a URL, but doesn't have to be.
 >
@@ -647,7 +647,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980&t=57)** Whether all these listed methods work on the resource at the end of the provided URI depends on the configuration of the REST API and the authorized capabilities of the current user.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980&t=67)** So if we want a list of the most recent posts on a WordPress site, we send a GET request to the resource URI for all posts, GET [site.com/wp-[[JSON]]/wp/v2/posts](https://site.com/wp-json/wp/v2/posts).
+> **[1:07](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980&t=67)** So if we want a list of the most recent posts on a WordPress site, we send a GET request to the resource URI for all posts, GET [site.com/wp-json/wp/v2/posts](https://site.com/wp-json/wp/v2/posts).
 >
 > **[1:23](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980&t=83)** When we submit a request, we can also send along [[Metadata]] in the request header.
 >
@@ -657,7 +657,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980&t=112)** Here, the data structure of the request needs to match the content type defined in the request.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980&t=118)** So in this example, the content type is set to application/json, meaning the data has to be marked up as JSON as well.
+> **[1:58](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980&t=118)** So in this example, the content type is set to application/[[JSON]], meaning the data has to be marked up as JSON as well.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980&t=127)** To create a new post through the WordPress REST API, we send a POST request to the post's resource through the same URI as before.
 >

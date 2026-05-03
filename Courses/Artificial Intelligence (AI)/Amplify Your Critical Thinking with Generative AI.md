@@ -77,7 +77,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980&t=16)** Welcome to the course that will help you answer this question using the timeless critical thinking framework, amplified by the ever-evolving technology of generative AI.
 >
-> **[0:28](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980&t=28)** This critical thinking gen AI partnership will help you ask empowered questions, scrutinize information, and improve the quality of your conclusions.
+> **[0:28](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980&t=28)** This critical thinking [[Generative AI|gen AI]] partnership will help you ask empowered questions, scrutinize information, and improve the quality of your conclusions.
 >
 > **[0:40](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980&t=40)** If you agree that the world needs more trusted sources for discerning the truth and making wiser decisions, this course is for you.
 
@@ -90,7 +90,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980&t=0)** - When it comes to GenAI, are you mostly a skeptic, a cynic, or neither?
+> **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980&t=0)** - When it comes to [[Generative AI|GenAI]], are you mostly a skeptic, a cynic, or neither?
 >
 > **[0:07](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980&t=7)** Ready to take the one question quiz and find out?
 >
@@ -201,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=28)** And the star of today's show, questioning and evaluating information for reliability, relevance and validity.
 >
-> **[0:38](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=38)** You have to know the difference between these different types of thinking because GenAI doesn't, and if you only tell it to think creatively or strategically, ignoring critical thinking, it can cost you dearly.
+> **[0:38](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=38)** You have to know the difference between these different types of thinking because [[Generative AI|GenAI]] doesn't, and if you only tell it to think creatively or strategically, ignoring critical thinking, it can cost you dearly.
 >
 > **[0:55](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=55)** It's up to you to tell GenAI which way to think.
 >
@@ -258,7 +258,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=0)** - You may be tempted to think that with its silicon smarts and data diet, that GenAI is less biased than the average human, fleshy intelligence.
+> **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=0)** - You may be tempted to think that with its silicon smarts and data diet, that [[Generative AI|GenAI]] is less biased than the average human, fleshy intelligence.
 >
 > **[0:10](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=10)** But here's the truth.
 >
@@ -345,7 +345,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-your-thinking-using-generative-ai?u=76281980&t=15)** In the last video, we talked about how AI can be biased.
 >
-> **[0:19](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-your-thinking-using-generative-ai?u=76281980&t=19)** Now let's check out how our own biases might creep in and how you can use GenAI to expose and challenge these pesky brain bugs.
+> **[0:19](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-your-thinking-using-generative-ai?u=76281980&t=19)** Now let's check out how our own biases might creep in and how you can use [[Generative AI|GenAI]] to expose and challenge these pesky brain bugs.
 >
 > **[0:31](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-your-thinking-using-generative-ai?u=76281980&t=31)** Your data is in, it strongly supports your decision to launch your game and you and your team are hyped.
 >
@@ -433,7 +433,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980&t=67)** Enter PIQPACC, a timeless framework designed to pick apart your thinking and rigorously assess information through the lens of critical thinking.
 >
-> **[1:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980&t=76)** PIQPACC empowers you with the essential critical thinking elements and associated questions, so you can use it with Gen AI to help you validate the accuracy of information and test different assumptions and simulate different perspectives, and check whether your evidence supports your conclusions.
+> **[1:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980&t=76)** PIQPACC empowers you with the essential critical thinking elements and associated questions, so you can use it with [[Generative AI|Gen AI]] to help you validate the accuracy of information and test different assumptions and simulate different perspectives, and check whether your evidence supports your conclusions.
 >
 > **[1:36](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980&t=96)** PIQPACC is an acronym, and here's what it stands for.
 >
@@ -486,7 +486,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=12)** She knew this decision would be fraught with emotion, and she wanted to guide the board in making a decision that prioritized logic and reason.
 >
-> **[0:21](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=21)** She suspected that Gen AI could help take the sting out of the process by offering a non-human way to prioritize critical thinking.
+> **[0:21](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=21)** She suspected that [[Generative AI|Gen AI]] could help take the sting out of the process by offering a non-human way to prioritize critical thinking.
 >
 > **[0:31](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=31)** And she was right.
 >
@@ -596,7 +596,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=52)** Starting with, does it come from a trustworthy source?
 >
-> **[0:56](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=56)** The source can be a person, organization, tool of measurement, like a scale or GenAI.
+> **[0:56](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=56)** The source can be a person, organization, tool of measurement, like a scale or [[Generative AI|GenAI]].
 >
 > **[1:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=63)** It's also important to assess the reliability of the sources your source uses.
 >
@@ -626,7 +626,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=150)** The board assessed whether Malik's Source was reliable using GenAI in two ways.
 >
-> **[2:36](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=156)** First, they asked Gen AI how to evaluate the reliability of Malik's source.
+> **[2:36](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=156)** First, they asked [[Generative AI|Gen AI]] how to evaluate the reliability of Malik's source.
 >
 > **[2:43](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=163)** And two, they asked GenAI to evaluate the reliability of Malik's source.
 >
@@ -694,7 +694,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=19)** If you could change one element or introduce one new character to make the story more engaging and thought provoking, what change would you make and how do you think it would transform the way the story is perceived and appreciated?
 >
-> **[0:34](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=34)** These questions were inspired by GenAI because GenAI isn't just about getting answers to our questions, but it also involves getting questions that we can ask others.
+> **[0:34](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=34)** These questions were inspired by [[Generative AI|GenAI]] because GenAI isn't just about getting answers to our questions, but it also involves getting questions that we can ask others.
 >
 > **[0:47](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=47)** Asking empowered questions is the Q part of Pikpak.
 >
@@ -787,7 +787,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=53)** Seeking to understand different perspectives is a requirement for critical thinking, but it's been a difficult one until now.
 >
-> **[1:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=63)** Welcome to Perspective [[Simulation]], one of the most exciting critical thinking use cases for Gen AI because the next step in pick pack is P, Perspectives.
+> **[1:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=63)** Welcome to Perspective [[Simulation]], one of the most exciting critical thinking use cases for [[Generative AI|Gen AI]] because the next step in pick pack is P, Perspectives.
 >
 > **[1:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=76)** The idea is to simulate perspectives with regard to a specific claim.
 >
@@ -857,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=5)** They masquerade as verified facts.
 >
-> **[0:09](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=9)** But with a sprinkle of GenAI magic, you can unveil hidden assumptions and replace guesswork with evidence-based decisions.
+> **[0:09](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=9)** But with a sprinkle of [[Generative AI|GenAI]] magic, you can unveil hidden assumptions and replace guesswork with evidence-based decisions.
 >
 > **[0:18](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=18)** That's the goal of this next step of PickPack, A, assumptions, specifically probing assumptions.
 >
@@ -929,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=3)** Where every [[Microsoft Word|word]] in every language has the same clear meaning from person to person.
 >
-> **[0:10](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=10)** As useful as GenAI is, this may not ever become a reality, but critical thinking values clarity, so that dream should be the ideal.
+> **[0:10](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=10)** As useful as [[Generative AI|GenAI]] is, this may not ever become a reality, but critical thinking values clarity, so that dream should be the ideal.
 >
 > **[0:22](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=22)** That's why clarifying concepts is this next step in pick pack.
 >
@@ -1014,7 +1014,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=32)** We'll borrow a case where a college basketball team's management had to decide whether to invest in a new training facility.
 >
-> **[0:41](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=41)** They use gen AI to sort their claims, improve their conclusions, and make a wiser decision.
+> **[0:41](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=41)** They use [[Generative AI|gen AI]] to sort their claims, improve their conclusions, and make a wiser decision.
 >
 > **[0:48](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=48)** First, let's clear up common confusion about the difference between facts, truth claims, and opinions from a critical thinking standpoint.
 >
@@ -1134,7 +1134,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980&t=16)** Can you please help spread critical thinking?
 >
-> **[0:20](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980&t=20)** I know it's not a simple request, but it's easier than it was before you had Gen AI to help.
+> **[0:20](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980&t=20)** I know it's not a simple request, but it's easier than it was before you had [[Generative AI|Gen AI]] to help.
 >
 > **[0:26](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980&t=26)** Why the ask?
 >

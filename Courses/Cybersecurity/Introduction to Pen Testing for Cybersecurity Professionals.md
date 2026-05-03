@@ -878,7 +878,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=368)** So now I've entered the username and password, and now I'm in Kali Linux.
 >
-> **[6:15](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=375)** Now, in this interface, I just really wanted to show you all the tools that are built into Kali Linux, so we go here and just drop down in the upper left hand corner, and we can see the applications, and then I'll lay my cursor here, where we can see all those tools that include information gathering, web application analysis, password attacks, wireless attacks, sniffing and spoofing, and much, much more.
+> **[6:15](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=375)** Now, in this interface, I just really wanted to show you all the tools that are built into Kali Linux, so we go here and just drop down in the upper left hand corner, and we can see the applications, and then I'll lay my [[Cursor]] here, where we can see all those tools that include information gathering, web application analysis, password attacks, wireless attacks, sniffing and spoofing, and much, much more.
 >
 > **[6:47](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/discovering-pen-testing-tools-25860099?u=76281980&t=407)** So I encourage you to look more into Kali Linux and see what it can do for you during a pen testing exercise.
 >
@@ -1391,7 +1391,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=164)** Another site is OpenVAS online scan.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=168)** Now here, you can try this for free, and I scanned scanme.[[[Nmap]].org](https://nmap.org), which is a site designed to be scanned for you for testing, and I selected Scan Now and I let it run.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=168)** Now here, you can try this for free, and I scanned scanme.[nmap.org](https://nmap.org), which is a site designed to be scanned for you for testing, and I selected Scan Now and I let it run.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=183)** Now, keep in mind it might take a while to run a scan on your site depending on how involved your site is.
 >

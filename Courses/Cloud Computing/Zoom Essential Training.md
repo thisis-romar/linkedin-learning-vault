@@ -1362,9 +1362,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=9)** We touched on scheduling earlier but let's take a closer look now.
 >
-> **[0:12](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=12)** If you're logged into your account at [[[Zoom]].com](https://zoom.com), you can go to Meetings and here click Schedule a Meeting.
+> **[0:12](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=12)** If you're logged into your account at [zoom.com](https://zoom.com), you can go to Meetings and here click Schedule a Meeting.
 >
-> **[0:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=20)** Alternately, we can go to the Zoom desktop app and here at the top select Meetings.
+> **[0:20](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=20)** Alternately, we can go to the [[Zoom]] desktop app and here at the top select Meetings.
 >
 > **[0:26](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980&t=26)** Here we'll click the plus button to schedule a new meeting.
 >

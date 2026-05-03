@@ -273,7 +273,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980&t=136)** So with that said, let's go over to the console.
 >
-> **[2:19](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980&t=139)** So the first thing you see on [console.cloud](https://console.cloud).[[[Google]].com](https://google.com) after you log in, and you have to log in with an account, which I've done already, is you see this new welcome screen.
+> **[2:19](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980&t=139)** So the first thing you see on [console.cloud](https://console.cloud).[google.com](https://google.com) after you log in, and you have to log in with an account, which I've done already, is you see this new welcome screen.
 >
 > **[2:30](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980&t=150)** And this is relatively new.
 >
@@ -311,7 +311,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980&t=236)** In addition, you have these recommendations which take a couple of hours or days to propagate, and this is a new account.
 >
-> **[4:04](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980&t=244)** So what will show up here is Google recommendations around security and productivity.
+> **[4:04](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980&t=244)** So what will show up here is [[Google]] recommendations around security and productivity.
 >
 > **[4:11](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980&t=251)** A key aspect of working with a console is being in the right place.
 >
@@ -930,7 +930,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-colab-notebooks?u=76281980&t=19)** And this is Colaboratory.
 >
-> **[0:21](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-colab-notebooks?u=76281980&t=21)** So it's at colab.research.[[[Google]].com](https://google.com).
+> **[0:21](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-colab-notebooks?u=76281980&t=21)** So it's at colab.research.[google.com](https://google.com).
 >
 > **[0:25](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-colab-notebooks?u=76281980&t=25)** And the basic tier of this allows you to have access to notebook resources that you can do your [[Data Science]] experiments.
 >
@@ -938,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-colab-notebooks?u=76281980&t=37)** And I find that my customers who use this for anything other than just learning classes, they will usually invest in the pro tiers, which are paid, because of the amount of resources you get and the runtime.
 >
-> **[0:50](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-colab-notebooks?u=76281980&t=50)** But you can just go to this website and you can work with notebooks that either Google makes available that you've stored on [[Google Drive]], that are in [[GitHub]], or you can upload.
+> **[0:50](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-colab-notebooks?u=76281980&t=50)** But you can just go to this website and you can work with notebooks that either [[Google]] makes available that you've stored on [[Google Drive]], that are in [[GitHub]], or you can upload.
 >
 > **[1:02](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-colab-notebooks?u=76281980&t=62)** So if I look at the recent here, and I've got this Welcome to Colaboratory, this is a notebook environment.
 >

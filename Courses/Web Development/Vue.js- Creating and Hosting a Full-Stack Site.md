@@ -4836,7 +4836,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=0)** - [Instructor] The first thing that we're going to have to do in order to add [[Firebase]] authentication to our project is set up a Firebase project and app in the Firebase console.
 >
-> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=10)** So you're going to want to navigate to console.firebase.[[[Google]].com](https://google.com), which is the current URL of the Firebase console.
+> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=10)** So you're going to want to navigate to console.firebase.[google.com](https://google.com), which is the current URL of the Firebase console.
 >
 > **[0:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=18)** And what you're going to want to do is, of course, log in with your Gmail account or some sort of account like that and you should see a screen that looks something like this.
 >
@@ -4852,7 +4852,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=53)** And once we've entered in the name we're going to click continue.
 >
-> **[0:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=57)** The next thing Firebase is going to ask us now is if we want to add Google Analytics to our project.
+> **[0:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=57)** The next thing Firebase is going to ask us now is if we want to add [[Google]] Analytics to our project.
 >
 > **[1:02](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=62)** Now in general, Google Analytics is a very helpful tool but since we don't need it for this project I'm just going to turn this Enable Google Analytics for this project switch off, and then we can click Create Project.
 >

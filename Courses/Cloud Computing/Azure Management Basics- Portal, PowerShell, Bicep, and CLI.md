@@ -187,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=37)** Just make sure it's the latest version to assure that the functionality is all there.
 >
-> **[0:44](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=44)** I'm going to come up here and simply type in portal.[[[Microsoft Azure|azure]].com](https://azure.com).
+> **[0:44](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=44)** I'm going to come up here and simply type in portal.[azure.com](https://azure.com).
 >
 > **[0:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=52)** I'm going to hit Enter and it comes in here automatically for me, and that is because I have logged in here before.
 >
@@ -229,7 +229,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=166)** Moving to the right, we have something that's called the Cloud Shell, and the Cloud Shell allows you with your credentials and your subscription and your proper [[Microsoft Entra ID|Entra ID]] focus right in onto your account.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=181)** So if you have command lines that you want to do with [[Powershell]] or Azure [[CLI]], you can do this through the Cloud Shell.
+> **[3:01](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=181)** So if you have command lines that you want to do with [[Powershell]] or [[Microsoft Azure|Azure]] [[CLI]], you can do this through the Cloud Shell.
 >
 > **[3:09](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=189)** And then we have notifications.
 >
@@ -1586,7 +1586,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=158)** That's an important lesson to learn here.
 >
-> **[2:41](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=161)** The Tab, if you hit Tab, you can pretty much guarantee everything to the left of your cursor is going to be correct because that is not misspelled.
+> **[2:41](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=161)** The Tab, if you hit Tab, you can pretty much guarantee everything to the left of your [[Cursor]] is going to be correct because that is not misspelled.
 >
 > **[2:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=172)** That is something that the PowerShell itself gave us.
 >

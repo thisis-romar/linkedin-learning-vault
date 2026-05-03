@@ -1861,7 +1861,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=176)** So in this case PHP 7.1 is what we went with.
 >
-> **[2:59](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=179)** So where I have my cursor right now, is where we will see the results of any test runs.
+> **[2:59](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=179)** So where I have my [[Cursor]] right now, is where we will see the results of any test runs.
 >
 > **[3:04](https://www.linkedin.com/learning/php-testing-legacy-applications/planning-a-scenario?u=76281980&t=184)** We will see a dot for any test that passes, and we'll see an F for any test that fails.
 >
@@ -2210,7 +2210,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=332)** Now you can see that we had two tests that passed.
 >
-> **[5:34](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=334)** Where my cursor is you can see we have two dots to indicate we had two tests and they passed, over on the far right it said two of two tests passed.
+> **[5:34](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=334)** Where my [[Cursor]] is you can see we have two dots to indicate we had two tests and they passed, over on the far right it said two of two tests passed.
 >
 > **[5:43](https://www.linkedin.com/learning/php-testing-legacy-applications/building-real-to-doubles?u=76281980&t=343)** So we have our time, we have our memory, and it says "OK, 2 tests, 2 assertions."
 >

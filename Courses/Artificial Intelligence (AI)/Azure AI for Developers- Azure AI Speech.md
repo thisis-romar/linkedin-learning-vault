@@ -163,7 +163,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=3)** Let's find out.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=6)** Now, we're in the Speech Studio at speech.[[[Microsoft]].com](https://microsoft.com).
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=6)** Now, we're in the Speech Studio at speech.[microsoft.com](https://microsoft.com).
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=10)** At the very top of the Speech Studio are some common scenarios in which Speech is used.
 >
@@ -256,13 +256,13 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=0)** - [Instructor] So let's have a look at these transcription functions.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=4)** To demonstrate this part, we'll use the [[Azure AI Foundry]] at ai.[[[Microsoft Azure|azure]].com](https://azure.com).
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=4)** To demonstrate this part, we'll use the [[Azure AI Foundry]] at ai.[azure.com](https://azure.com).
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=10)** To get started in the Azure AI Foundry, you're going to want to create a project.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=14)** This project will be a repository of all the different resources that you'll need to use speech and all kinds of other functions in Azure AI Foundry.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=23)** Once you've got your project, you can find the Azure AI speech functions in the Speech Playground.
+> **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=23)** Once you've got your project, you can find the [[Microsoft Azure|Azure]] AI speech functions in the Speech Playground.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=29)** Let's begin with [[Real-Time]] transcription.
 >
@@ -780,7 +780,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=79)** Fortunately, there's a tool called Audio Content Creation, which can help you construct it.
 >
-> **[1:25](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=85)** As of this recording, Audio Content Creation is not yet available in the [[Azure AI Foundry]] portal, so we'll get there via the Speech Studio at speech.[[[Microsoft]].com](https://microsoft.com).
+> **[1:25](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=85)** As of this recording, Audio Content Creation is not yet available in the [[Azure AI Foundry]] portal, so we'll get there via the Speech Studio at speech.[microsoft.com](https://microsoft.com).
 >
 > **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=114)** Here I can produce natural sounding speech using all of the features of SSML.
 >
@@ -802,7 +802,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=171)** [[GPT-4]].
 >
-> **[2:53](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=173)** And so here I've got the latest GPT-4o model as of this recording, and I'm going to tell it to make some SSML and welcome LinkedIn Learners and then make me the [[CLI]] call for that.
+> **[2:53](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=173)** And so here I've got the latest [[GPT-4|GPT-4o]] model as of this recording, and I'm going to tell it to make some SSML and welcome LinkedIn Learners and then make me the [[CLI]] call for that.
 >
 > **[3:03](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=183)** All right, we got that. Let's try it out.
 >
@@ -1341,7 +1341,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=0)** - [Instructor] There now exist [[Real-Time]] [[Large Language Models (LLM)|large language models]] like GPT-4o Realtime.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=0)** - [Instructor] There now exist [[Real-Time]] [[Large Language Models (LLM)|large language models]] like [[GPT-4|GPT-4o]] Realtime.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=6)** These models are direct audio in and audio out, so you don't need to layer something like [[Microsoft Azure|Azure]] AI Speech on top of them.
 >
@@ -1406,9 +1406,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=5)** So in the course of this course, we have gone through a number of different sites and repositories of sample code.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=14)** First of all, the [[Azure AI Foundry]] at ai.[[[Microsoft Azure|azure]].com](https://azure.com) contains the Speech Playground where you can try many of the aspects of Azure AI Speech.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=14)** First of all, the [[Azure AI Foundry]] at ai.[azure.com](https://azure.com) contains the Speech Playground where you can try many of the aspects of [[Microsoft Azure|Azure]] AI Speech.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=29)** As of this recording as you may have seen, some of the items are still not quite migrated to the Azure AI Foundry and they can be found in the Speech Studio at speech.[[[Microsoft]].com](https://microsoft.com).
+> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=29)** As of this recording as you may have seen, some of the items are still not quite migrated to the Azure AI Foundry and they can be found in the Speech Studio at speech.[microsoft.com](https://microsoft.com).
 >
 > **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=44)** When it comes to these code samples, there are a ton of them available here in the cognitive-services-speech-sdk repository in Azure samples in [[GitHub]].
 >

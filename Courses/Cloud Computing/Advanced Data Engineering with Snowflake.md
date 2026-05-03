@@ -2755,13 +2755,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=0)** I mentioned this in [[Introduction to Modern [[Data Engineering]] with [[Snowflake]]]] and it's too important not to mention again.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=0)** I mentioned this in [[Introduction to Modern Data Engineering with Snowflake]] and it's too important not to mention again.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=7)** Much of your experience is going to come from putting your hands on the keyboard and tinkering with pipelines using the documentation, videos, tutorials, and more.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=16)** This goes for both concepts covered in this course, [[DevOps]] and observability.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=22)** For DevOps, we covered cutting-edge features within Snowflake that allow teams to build declarative [[Data Pipelines]] that are able to respond quickly to constantly changing demands.
+> **[0:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=22)** For DevOps, we covered cutting-edge features within [[Snowflake]] that allow teams to build declarative [[Data Pipelines]] that are able to respond quickly to constantly changing demands.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=32)** You specifically learned how to use CREATE OR ALTER, Snowflake's [[Git]] integration, [[GitHub]] Actions, and Snowflake [[CLI]] to build a pipeline that can do this.
 >

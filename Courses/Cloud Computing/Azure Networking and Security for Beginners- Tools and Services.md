@@ -119,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=10)** We'll also dive into the configuration of many [[Microsoft Azure|Azure]] tools, so have an Azure account to follow along.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=16)** If you do not have an Azure account, you can sign up for a free account at azure.[[[Microsoft]].com](https://microsoft.com).
+> **[0:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=16)** If you do not have an Azure account, you can sign up for a free account at azure.[microsoft.com](https://microsoft.com).
 >
 > **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=22)** Azure offers a $200 credit for new accounts that you can use within 30 days.
 >

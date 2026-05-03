@@ -611,7 +611,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=257)** Even as an estimate, that may be a few billion off, that's some leap.
 >
-> **[4:22](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=262)** And you can see now where GPT4 gets its smarts.
+> **[4:22](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=262)** And you can see now where [[GPT-4|GPT4]] gets its smarts.
 >
 > **[4:27](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=267)** So what are these parameters in a large language model?
 >

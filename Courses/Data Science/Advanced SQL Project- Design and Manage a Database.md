@@ -1087,9 +1087,9 @@ created: 2026-05-02
 >
 > **[9:18](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=558)** Informatica, a comprehensive data integration tool with advanced features.
 >
-> **[9:24](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=564)** And [[Microsoft]] SSIS and that stands for [[[[Microsoft SQL Server|SQL Server]] Integration Services]].
+> **[9:24](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=564)** And [[Microsoft]] SSIS and that stands for [[SQL Server Integration Services]].
 >
-> **[9:30](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=570)** And this is an ETL tool integrated with SQL server for data integration tasks.
+> **[9:30](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=570)** And this is an ETL tool integrated with [[Microsoft SQL Server|SQL server]] for data integration tasks.
 >
 > **[9:37](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=577)** Now some of the key features, at least with Talend, is a drag-and-drop interface.
 >
@@ -2641,7 +2641,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980&t=20)** This introspection will help you rightsize your next learning steps with your career goals in mind.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980&t=28)** Here are some of my courses available on the [[LinkedIn]] Learning platform that can further enhance your skills, "[[[[SQL]] Essential Training]]," "Complete Guide to AI and [[Data Science]] for SQL Developers: From Beginner to Advanced," "[[[[Microsoft SQL Server|SQL Server]] Intelligence- Cracking the Code of Enterprise Data]]," and "[[Data Analysis- Investigate with SQL]]."
+> **[0:28](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980&t=28)** Here are some of my courses available on the [[LinkedIn]] Learning platform that can further enhance your skills, "[[SQL Essential Training]]," "Complete Guide to AI and [[Data Science]] for [[SQL]] Developers: From Beginner to Advanced," "[[SQL Server Intelligence- Cracking the Code of Enterprise Data]]," and "[[Data Analysis- Investigate with SQL]]."
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980&t=56)** Taking these and similar courses will not only broaden your understanding, but also strengthen your skills in database modeling and data analysis.
 >

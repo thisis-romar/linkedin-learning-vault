@@ -1023,7 +1023,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=46)** So let's install these libraries by running the following command.
 >
-> **[0:52](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=52)** Now, with these libraries installed, that's the dotenv library and the @google/generative-ai library, we can now start writing some code to configure the Gemini API inside our project.
+> **[0:52](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=52)** Now, with these libraries installed, that's the dotenv library and the @google/[[Generative AI|generative-ai]] library, we can now start writing some code to configure the Gemini API inside our project.
 >
 > **[1:04](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/configuring-the-generative-ai-sdk?u=76281980&t=64)** Now back in VS Code to configure the Gemini API, let's start by bringing in the libraries we just installed.
 >

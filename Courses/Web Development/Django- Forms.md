@@ -2479,7 +2479,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=4)** Hopefully, you've realized how excellent they are and you'll be using them in your projects going forward.
 >
-> **[0:10](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=10)** Now, as far as next steps goes, if you'd like to dive deeper into how forms work, I'd recommend a course called [[[[HTML]] & CSS- Creating Forms]].
+> **[0:10](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=10)** Now, as far as next steps goes, if you'd like to dive deeper into how forms work, I'd recommend a course called [[HTML & CSS- Creating Forms]].
 >
 > **[0:19](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=19)** This isn't Django-specific, but it really gets behind the nuts and bolts about how forms work on the web.
 >

@@ -5256,7 +5256,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=74)** The first is "Prediction, Causation, and Statistical Inference," and the second is "Causal Inference and Modeling."
 >
-> **[1:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=82)** Finally, if you want to build upon your new regression skills by exploring new areas like machine learning and predictive analytics, I'd recommend "[[Predictive Analytics Essential Training- [[Data Mining]]]]."
+> **[1:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=82)** Finally, if you want to build upon your new regression skills by exploring new areas like machine learning and predictive analytics, I'd recommend "[[Predictive Analytics Essential Training- Data Mining]]."
 >
 > **[1:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=96)** Whichever you choose, I hope you'll stay in touch by following me on [[LinkedIn]], and signing up to watch my monthly [[Microsoft Office|office]] hours.
 >

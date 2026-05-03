@@ -2179,7 +2179,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=50)** We discussed potential issues that could arise with data and models in the AI workflow, and what you should be tracking and monitoring to mitigate these issues.
 >
-> **[1:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=60)** If you're interested in AI systems and workflows, here are some other courses on [[LinkedIn]] Learning that you might find interesting, [[[[MLOps]] and Data Pipeline Orchestration for AI Systems]] and [[Secure [[Data Management]] for AI Implementation]].
+> **[1:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=60)** If you're interested in AI systems and workflows, here are some other courses on [[LinkedIn]] Learning that you might find interesting, [[MLOps and Data Pipeline Orchestration for AI Systems]] and [[Secure Data Management for AI Implementation]].
 >
 > **[1:15](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=75)** Well, that's it from me here to today.
 >

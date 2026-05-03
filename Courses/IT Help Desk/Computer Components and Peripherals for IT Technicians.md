@@ -1970,7 +1970,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=88)** Caps lock controls only the alphabet keys.
 >
-> **[1:31](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=91)** Num lock toggles the state of the numeric keypad between the number keys and the cursor control keys.
+> **[1:31](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=91)** Num lock toggles the state of the numeric keypad between the number keys and the [[Cursor]] control keys.
 >
 > **[1:37](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=97)** The scroll lock key is used only in a few programs, such as [[Microsoft Excel]], and that's about it.
 >

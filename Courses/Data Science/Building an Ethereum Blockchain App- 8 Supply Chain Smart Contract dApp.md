@@ -2272,7 +2272,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=105)** It'll take you a little while, but it's a great resource to start off with.
 >
-> **[1:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=109)** If we go to consensys.[[[GitHub]].io/smart-contract](https://github.io/smart-contract)
+> **[1:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=109)** If we go to consensys.[github.io/smart-contract](https://github.io/smart-contract)
 >
 > **[1:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=114)** - best practices.
 >

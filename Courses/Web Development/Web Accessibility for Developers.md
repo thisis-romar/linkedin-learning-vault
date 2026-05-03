@@ -198,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980&t=24)** The whole site flows pretty naturally from top to bottom.
 >
-> **[0:29](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980&t=29)** As a mouse user, if I wanted to visit, say the blog, I would move my cursor to the blog button and click it.
+> **[0:29](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980&t=29)** As a mouse user, if I wanted to visit, say the blog, I would move my [[Cursor]] to the blog button and click it.
 >
 > **[0:35](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980&t=35)** Now let's see how to navigate this same website without using a mouse.
 >
@@ -335,7 +335,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=104)** JAWS has several special modes for navigating websites.
 >
-> **[1:47](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=107)** The first is virtual cursor.
+> **[1:47](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=107)** The first is virtual [[Cursor]].
 >
 > **[1:49](https://www.linkedin.com/learning/web-accessibility-for-developers/nvda-and-jaws?u=76281980&t=109)** Like NVDA, there are navigation quick keys to move the virtual cursor between features of the page, such as links and headings.
 >

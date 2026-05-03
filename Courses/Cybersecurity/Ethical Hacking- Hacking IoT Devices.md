@@ -1254,7 +1254,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=75)** In this graphic, we see how a network of controllers and computers work together to manage and automate tasks such as regulating temperature, pressure, flow, and other critical parameters.
 >
-> **[1:30](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=90)** A [[Programmable Logic Controller (PLC)|programmable logic controller]] automates and controls machinery and processes in manufacturing and industrial applications.
+> **[1:30](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=90)** A [[PLC|programmable logic controller]] automates and controls machinery and processes in manufacturing and industrial applications.
 >
 > **[1:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=100)** It does this by executing logic-based tasks and monitoring inputs from sensors and switches, and then making decisions based on the input.
 >
@@ -1302,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SCADA]] (4), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (2), [[Ethical Hacking]] (1), [[Data Acquisition]] (1), [[PLC]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (4), [[PLC|Programmable logic controller]] (2), [[Ethical Hacking]] (1), [[Data Acquisition]] (1), [[PLC]] (1)
 > **Env Vars:** scada (4), plc (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4)
@@ -1819,7 +1819,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=143)** For instance, a malicious actor can use [[Metasploit]] or any other hacking tool to gain access to read and overwrite data on a Modbus server.
 >
-> **[2:35](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=155)** A [[Programmable Logic Controller (PLC)|programmable logic controller]] automates and controls machinery and processes and manufacturing and industrial applications.
+> **[2:35](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=155)** A [[PLC|programmable logic controller]] automates and controls machinery and processes and manufacturing and industrial applications.
 >
 > **[2:45](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=165)** If exploited the attack can impact the functionality and alter controls or configurations.
 >
@@ -1839,7 +1839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SCADA]] (2), [[Cybersecurity]] (1), [[Hardware]] (1), [[Metasploit]] (1), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (2), [[Cybersecurity]] (1), [[Hardware]] (1), [[Metasploit]] (1), [[PLC|Programmable logic controller]] (1)
 > **Env Vars:** dnp3 (2), scada (2), plc (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **Tools:** terminal (1)
@@ -2076,7 +2076,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=85)** So let's next take a look at this graphic.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=88)** I'm here at [[[NIST]].gov](https://nist.gov) and I'll scroll down.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=88)** I'm here at [nist.gov](https://nist.gov) and I'll scroll down.
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=96)** On the right, we see a traditional approach to secure the organization.
 >

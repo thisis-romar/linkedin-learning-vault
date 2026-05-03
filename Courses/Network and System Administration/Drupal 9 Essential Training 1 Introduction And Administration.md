@@ -661,7 +661,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=45)** He's got a number of repositories.
 >
-> **[0:47](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=47)** We're going to be using a fork of his ddev Gitpod repository so head over to [[[GitHub]].com/imrodmartin/ddev-gitpod](https://github.com/imrodmartin/ddev-gitpod).
+> **[0:47](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=47)** We're going to be using a fork of his ddev Gitpod repository so head over to [github.com/imrodmartin/ddev-gitpod](https://github.com/imrodmartin/ddev-gitpod).
 >
 > **[0:59](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=59)** The link is on the screen.
 >
@@ -677,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=73)** Click the link there and it's going to take you to this screen over at Gitpod.
 >
-> **[1:18](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=78)** You'll need to either have a GitLab, GitHub or [[Bitbucket]] account.
+> **[1:18](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=78)** You'll need to either have a GitLab, [[GitHub]] or [[Bitbucket]] account.
 >
 > **[1:22](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=82)** Now, these are all free.
 >
@@ -1677,7 +1677,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980&t=8)** The help pages are not exactly that helpful.
 >
-> **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980&t=10)** Honestly, your best bet is to go to the online documentation at [[[Drupal]].org](https://drupal.org), where you'll find the documentation for literally everything Drupal.
+> **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980&t=10)** Honestly, your best bet is to go to the online documentation at [drupal.org](https://drupal.org), where you'll find the documentation for literally everything [[Drupal]].
 >
 > **[0:20](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980&t=20)** You can search and discover all of the documentation for core and contributed modules, as well as theming and module development here at [drupal.org](https://drupal.org).
 >

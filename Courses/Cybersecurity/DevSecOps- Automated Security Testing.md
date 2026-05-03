@@ -639,9 +639,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=123)** Our course has a main repo and you can access a zipped up version of it in the exercise files, or you can pull directly from the public [[Git]] hub repo.
 >
-> **[2:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=132)** You can see it at [[[GitHub]].com/wicket/security-testing-class](https://github.com/wicket/security-testing-class).
+> **[2:12](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=132)** You can see it at [github.com/wicket/security-testing-class](https://github.com/wicket/security-testing-class).
 >
-> **[2:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=139)** I have git setup with by github keys and I'm switching to the terminal, and I'm just going to pull it down using git clone.
+> **[2:19](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=139)** I have git setup with by [[GitHub]] keys and I'm switching to the terminal, and I'm just going to pull it down using git clone.
 >
 > **[2:25](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980&t=145)** I'm typing git clone git@[github.com](https://github.com):wickett/security-testing-class.
 >
@@ -881,7 +881,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=47)** Let's take a look at it on the command line but to do this we need to get our Docket container built and ready to use.
 >
-> **[0:54](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=54)** Let's head over to [[[GitHub]].com](https://github.com) and look at the Gauntlt Docker repo.
+> **[0:54](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=54)** Let's head over to [github.com](https://github.com) and look at the Gauntlt Docker repo.
 >
 > **[0:58](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-attack-tools?u=76281980&t=58)** I'm typing [github.com/gauntlt/gauntlt-docker](https://github.com/gauntlt/gauntlt-docker) into my browser.
 >
@@ -1709,7 +1709,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=24)** When you see news articles with thousands or millions of records being dumped, SQLi is probably the attack vector behind the scenes.
 >
-> **[0:31](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=31)** [[[OWASP]].org](https://OWASP.org) has several examples, but this is probably the easiest to look at, to get an idea for SQL injection.
+> **[0:31](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=31)** [OWASP.org](https://OWASP.org) has several examples, but this is probably the easiest to look at, to get an idea for SQL injection.
 >
 > **[0:38](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=38)** Here we're seeing select everything from the items table, with a specific owner and a certain item name, and it's taking fields in from a form.
 >
@@ -1721,7 +1721,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=61)** Defensive measures for SQL injection can be accomplished through parameterized queries, using stored procedures, whitelisting, and managing database privileges, to name a few.
 >
-> **[1:11](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=71)** If you're looking for more info on how to defend against SQL injection, I suggest checking out OWASP's SQL injection prevention cheat sheet.
+> **[1:11](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=71)** If you're looking for more info on how to defend against SQL injection, I suggest checking out [[OWASP]]'s SQL injection prevention cheat sheet.
 >
 > **[1:18](https://www.linkedin.com/learning/devsecops-automated-security-testing/sqli-attack-automation?u=76281980&t=78)** There's a link to it in the course handout.
 >

@@ -265,7 +265,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=207)** The pricing calculator lets you estimate how changes to cloud usage will affect costs.
 >
-> **[3:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=213)** The calculator is available at cloud.[[[Google]].com/[[Microsoft Products|products]]/calculator](https://google.com/products/calculator).
+> **[3:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=213)** The calculator is available at cloud.[google.com/products/calculator](https://google.com/products/calculator).
 >
 > **[3:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=221)** Now that you've had a chance to explore some cloud financial governance best practices, the next step is to implement them.
 >
@@ -676,7 +676,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=153)** Both the enhanced and premium support plans offer value add services that are available for additional purchase.
 >
-> **[2:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=158)** You can learn more about the value add services and all Google Cloud customer care support offerings at cloud.[[[Google]].com/support](https://google.com/support).
+> **[2:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=158)** You can learn more about the value add services and all Google Cloud customer care support offerings at cloud.[google.com/support](https://google.com/support).
 
 > [!info]- Semantic Content
 >
@@ -871,7 +871,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=66)** If you are looking to demonstrate your knowledge of the topics from these six courses, you're encouraged to take the Cloud Digital Leader Certification Exam.
 >
-> **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=74)** For more information about the exam, including additional resources to help continue your preparation, please visit cloud.[[[Google]].com/learn/certification/cloud-digital-leader](https://google.com/learn/certification/cloud-digital-leader).
+> **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=74)** For more information about the exam, including additional resources to help continue your preparation, please visit cloud.[google.com/learn/certification/cloud-digital-leader](https://google.com/learn/certification/cloud-digital-leader).
 >
 > **[1:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=88)** And if you're looking to further expand your knowledge of Google Cloud [[Microsoft Products|products]] and services, please explore the entire catalog at cloud.[google.com/training](https://google.com/training).
 >

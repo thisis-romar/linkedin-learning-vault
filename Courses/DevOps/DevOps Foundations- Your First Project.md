@@ -2625,7 +2625,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=211)** There are lots of great courses right here on [[LinkedIn]] learning that I would recommend checking out if you want to go deeper into this topic.
 >
-> **[3:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=219)** Richard Wells's "[[Unit Testing]] and Test Driven Development in [[Python (Programming Language)|Python]]" or Meaghan Lewis's "[[[[Test Automation]] Foundations]]" are some pretty good courses to get started with.
+> **[3:39](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=219)** Richard Wells's "[[Unit Testing]] and Test Driven Development in [[Python (Programming Language)|Python]]" or Meaghan Lewis's "[[Test Automation Foundations]]" are some pretty good courses to get started with.
 >
 > **[3:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980&t=229)** So let's grab ourselves a coffee, tea, or whatever your favorite drink is, fire up that terminal and get into it.
 
@@ -3209,9 +3209,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=95)** Let's take a look at its documentation to see.
 >
-> **[1:38](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=98)** To do that, I'm going to go to my browser and visit [https://[[GitHub]].com](https://github.com)/ teamcapybara/capybara.
+> **[1:38](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=98)** To do that, I'm going to go to my browser and visit [https://github.com](https://github.com)/ teamcapybara/capybara.
 >
-> **[1:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=109)** That will take us right to Capybara's source code on GitHub, which also happens to be its documentation.
+> **[1:49](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=109)** That will take us right to Capybara's source code on [[GitHub]], which also happens to be its documentation.
 >
 > **[1:56](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=116)** Now that we're looking at Capybara's source code and documentation, let's go line by line in our pseudocode to see if we can find equivalents in Capybara to what we want to do.
 >
@@ -3245,7 +3245,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=194)** Really, really convenient.
 >
-> **[3:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=196)** So now that we found this all we have to do is copy that line, go back to our source code, remove this "get" stuff over here, align our cursor with "visit" and then paste that right in. Next, we're not interested in "table tr", since we're not looking for a table, we're looking for an "a" element with a class set to "logo."
+> **[3:16](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=196)** So now that we found this all we have to do is copy that line, go back to our source code, remove this "get" stuff over here, align our [[Cursor]] with "visit" and then paste that right in. Next, we're not interested in "table tr", since we're not looking for a table, we're looking for an "a" element with a class set to "logo."
 >
 > **[3:38](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-the-unit-test-24080515?u=76281980&t=218)** So to do that I'm going to go ahead and change "table tr"to "a.logo".
 >
@@ -3686,9 +3686,9 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=0)** Before we dive into OpenTofu, let's find the latest version of OpenTofu that's available for us to use.
 >
-> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=6)** To do that, I'm going to open a web browser like you see here, and then visit [[[GitHub]].com/opentofu/opentofu](https://github.com/opentofu/opentofu).
+> **[0:06](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=6)** To do that, I'm going to open a web browser like you see here, and then visit [github.com/opentofu/opentofu](https://github.com/opentofu/opentofu).
 >
-> **[0:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=15)** That's going to bring us to OpenTofu's source code on GitHub.
+> **[0:15](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=15)** That's going to bring us to OpenTofu's source code on [[GitHub]].
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/finding-the-version-of-opentofu-to-use-24082450?u=76281980&t=20)** From here, what I'm going to do is I'm going to click on Main, and then I'm going to click on Tags.
 >
@@ -3971,7 +3971,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=115)** If you're using them like I am to switch between panes, all you have to do is hit the Ctrl key and hold it, then press W twice like this.
 >
-> **[2:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=123)** You'll see the cursor over here move into the pain that you're currently in.
+> **[2:03](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=123)** You'll see the [[Cursor]] over here move into the pain that you're currently in.
 >
 > **[2:07](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/writing-your-integration-test-24079508?u=76281980&t=127)** So right now this gray cursor is over here on the right side.
 >

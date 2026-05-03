@@ -161,7 +161,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=206)** I recommend copying and pasting the [[LinkedIn]] profile of the person you need to give feedback to or a previous email.
 >
-> **[3:34](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=214)** Their profile will help inform the response as the Gen AI takes into consideration the person's writing style and listed skills.
+> **[3:34](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=214)** Their profile will help inform the response as the [[Generative AI|Gen AI]] takes into consideration the person's writing style and listed skills.
 >
 > **[3:42](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=222)** You could also go into detail describing the performance problem, additional context within the team, or any other details you might tell another human about the situation.
 >

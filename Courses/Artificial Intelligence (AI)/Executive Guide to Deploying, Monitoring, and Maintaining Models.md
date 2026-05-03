@@ -949,7 +949,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=138)** Now, if you want a more philosophical take on model monitoring, in Tom Khabaza's "The 9 Laws of Data Mining," he talks about the law of change.
 >
-> **[2:30](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=150)** I discuss the law of change as well as all of the CRISP-DM phases in detail in my course, [[[[Predictive Analytics]] Essential Training- Data Mining]].
+> **[2:30](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=150)** I discuss the law of change as well as all of the CRISP-DM phases in detail in my course, [[Predictive Analytics Essential Training- Data Mining]].
 >
 > **[2:42](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=162)** I want to now share an example, which, unfortunately, is an example where monitoring was not done, and it started to cause problems.
 >

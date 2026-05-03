@@ -666,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=47)** And the reason I'm doing that search specifically is because I'm looking for a document, right, there's an article here.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=55)** It's from learn.[[[Microsoft]].com](https://microsoft.com) that's called Microsoft 365 For Enterprise Overview.
+> **[0:55](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=55)** It's from learn.[microsoft.com](https://microsoft.com) that's called Microsoft 365 For Enterprise Overview.
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=61)** And when I click on it, it will take me into a very detailed explanation of all sorts of different aspects of Microsoft 365 for the Enterprise.
 >
@@ -676,7 +676,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=98)** When it comes to planning and deploying Microsoft 365, you have three options available.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=106)** You could do it in partnership with something called FastTrack, which is simply where the Microsoft engineers are going to help you move to the Cloud at the pace that you require.
+> **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=106)** You could do it in partnership with something called FastTrack, which is simply where the [[Microsoft]] engineers are going to help you move to the Cloud at the pace that you require.
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adopting-microsoft-365?u=76281980&t=117)** And there is a link if you'd like to get more information on how to make that happen.
 >
@@ -959,13 +959,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=94)** First thing you need to do is you need to enter an email address.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=97)** So I'm going to go ahead and put in Landon Hotel and some random numbers here that I have at [[[Microsoft Outlook|outlook]].com](https://outlook.com).
+> **[1:37](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=97)** So I'm going to go ahead and put in Landon Hotel and some random numbers here that I have at [outlook.com](https://outlook.com).
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=106)** I just created this email address just for this course.
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=110)** And you also may want to go ahead and do this where you go ahead and create like a free email address somewhere.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=116)** You know, you can do it anywhere, outlook or Gmail, or whatever.
+> **[1:56](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=116)** You know, you can do it anywhere, [[Microsoft Outlook|outlook]] or Gmail, or whatever.
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980&t=120)** And the reason why is 'cause this email address needs to not be tied to any other Microsoft or Office 365 product.
 >
@@ -1576,7 +1576,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=29)** But I do want to tell you that if you did not have this open, right, so let's just get completely out of it, if you ever want to go there, it's a very simple URL to remember.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=38)** All you have to go to is admin.[[[Microsoft]].com](https://microsoft.com).
+> **[0:38](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=38)** All you have to go to is admin.[microsoft.com](https://microsoft.com).
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=43)** And when you do that, it will take you to one of two things.
 >
@@ -1608,7 +1608,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=181)** So you want to pin the areas of administration that you use most frequently.
 >
-> **[3:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=187)** Microsoft has given these, at least as of right now when I'm recording this, as the default, and in any of the videos in this course if I ever go into a particular section and you don't see it, all you ever have to do is click show all and you should be able to find that particular area.
+> **[3:07](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=187)** [[Microsoft]] has given these, at least as of right now when I'm recording this, as the default, and in any of the videos in this course if I ever go into a particular section and you don't see it, all you ever have to do is click show all and you should be able to find that particular area.
 >
 > **[3:28](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/using-the-microsoft-365-admin-center?u=76281980&t=208)** So now we have this whole working area on the middle to right hand side of the Admin Center, and this is what's known as the dashboard.
 >
@@ -1690,7 +1690,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=106)** Then over on the right we get to choose which domain we want this user to be a part of, if we have multiple domains, okay, which in this environment we do, we have two, right?
 >
-> **[1:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=118)** So I could make this user part of Landon Hotel on [[[Microsoft]].com](https://microsoft.com) or it could be my [LandonHotel620.com](https://LandonHotel620.com) that we had also added to this Microsoft 365 account.
+> **[1:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=118)** So I could make this user part of Landon Hotel on [microsoft.com](https://microsoft.com) or it could be my [LandonHotel620.com](https://LandonHotel620.com) that we had also added to this Microsoft 365 account.
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980&t=132)** All right, we can choose either one.
 >
@@ -3676,7 +3676,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=276)** So let's go ahead and let's say demo user is likely to be impersonated, so I'll go ahead and add that user in just to go ahead and put something in there.
 >
-> **[4:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=286)** As far as domains, let's go ahead and put in Landon Hotel on [[[Microsoft]].com](https://microsoft.com).
+> **[4:46](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=286)** As far as domains, let's go ahead and put in Landon Hotel on [microsoft.com](https://microsoft.com).
 >
 > **[4:58](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980&t=298)** Add.
 >

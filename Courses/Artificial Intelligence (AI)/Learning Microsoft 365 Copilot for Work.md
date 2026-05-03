@@ -267,7 +267,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=19)** This is nice if it's not your document.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=22)** You can also notice this Copilot icon next to where the cursor is in the dock.
+> **[0:22](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=22)** You can also notice this Copilot icon next to where the [[Cursor]] is in the dock.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/generate-drafts-and-modify-documents-in-word-30057157?u=76281980&t=26)** I'll talk about that in a bit, but I also want to draw your attention to the Home ribbon tab all the way on the right-hand side.
 >
@@ -590,7 +590,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=300)** I want to add a new slide after slide number three.
 >
-> **[5:04](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=304)** I'll place my cursor here, use the Copilot button and choose add a slide.
+> **[5:04](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=304)** I'll place my [[Cursor]] here, use the Copilot button and choose add a slide.
 >
 > **[5:12](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/create-and-improve-presentations-in-powerpoint?u=76281980&t=312)** I want to add a slide about choosing a financial planner.
 >

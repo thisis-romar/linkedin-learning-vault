@@ -861,9 +861,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=8)** This is an online Jupyter Notebook.
 >
-> **[0:11](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=11)** To open your workspace, simply go to colab.research.[[[Google]].com](https://google.com).
+> **[0:11](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=11)** To open your workspace, simply go to colab.research.[google.com](https://google.com).
 >
-> **[0:17](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=17)** If you're logged onto a Google account, this opens directly to a welcome page showing you how it works.
+> **[0:17](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=17)** If you're logged onto a [[Google]] account, this opens directly to a welcome page showing you how it works.
 >
 > **[0:25](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=25)** If not, there is a prompt for you to log in.
 >

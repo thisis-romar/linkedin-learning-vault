@@ -623,7 +623,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=320)** Now let's discuss a different class of algorithms that can be used in the digital twin, the ones getting most of the attention these days, and those are neural networks.
 >
-> **[5:30](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=330)** Neural networks include, well, neural networks, deep neural networks, and [[Generative AI]], or gen AI.
+> **[5:30](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=330)** Neural networks include, well, neural networks, deep neural networks, and [[Generative AI]], or [[Generative AI|gen AI]].
 >
 > **[5:37](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=337)** These are a different newer class of AI algorithms.
 >

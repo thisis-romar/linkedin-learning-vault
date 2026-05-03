@@ -3,6 +3,11 @@ type: glossary
 cssclasses:
   - lle-glossary
 glossary_type: concept
+aliases:
+  - GenAI
+  - gen ai
+  - generative-ai
+  - genai
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
@@ -24,6 +29,8 @@ created: 2026-05-02
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Generative%20AI.md)
 
 # Generative AI
+
+AI systems that generate new content — text, images, code, or audio — from patterns learned during training.
 
 > **Type:** Concept | **Courses:** 282 | **Topics:** [[Artificial Intelligence (AI)]], [[Data Science]], [[Software Development]], [[Cloud Computing]], [[Cybersecurity]]
 
@@ -329,4 +336,4 @@ created: 2026-05-02
 
 ---
 
-*Source: LinkedIn catalog (concept)*
+*Source: manually added*

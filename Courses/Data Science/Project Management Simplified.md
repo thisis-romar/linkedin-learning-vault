@@ -1335,7 +1335,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/project-management-simplified-2019/set-up-a-basic-gantt-chart-in-excel-24301537?u=76281980&t=254)** So to insert the diamond, I just go to Insert, Illustrations, Shapes, and I just pick up the diamond from down here, and I just draw on a little diamond like that.
 >
-> **[4:28](https://www.linkedin.com/learning/project-management-simplified-2019/set-up-a-basic-gantt-chart-in-excel-24301537?u=76281980&t=268)** And I just use the cursor keys to get it nicely lined up.
+> **[4:28](https://www.linkedin.com/learning/project-management-simplified-2019/set-up-a-basic-gantt-chart-in-excel-24301537?u=76281980&t=268)** And I just use the [[Cursor]] keys to get it nicely lined up.
 >
 > **[4:31](https://www.linkedin.com/learning/project-management-simplified-2019/set-up-a-basic-gantt-chart-in-excel-24301537?u=76281980&t=271)** So you can see that diamond means, if you're thinking, what is this line?
 >

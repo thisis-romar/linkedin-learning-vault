@@ -4120,7 +4120,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980&t=163)** When you suspect that these are occurring at different times when you're checking different data, get in the habit of clicking on the right side of the cell.
 >
-> **[2:49](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980&t=169)** And if there is a trailing space, you'll see that the blinking cursor is removed.
+> **[2:49](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980&t=169)** And if there is a trailing space, you'll see that the blinking [[Cursor]] is removed.
 >
 > **[2:54](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980&t=174)** Right here it's okay, right there it's okay.
 >

@@ -1642,7 +1642,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=11)** In this video, we will explore the popular Brown Corpus using the NLTK library.
 >
-> **[0:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=18)** We'll be running our coding, colab.[[[Google]].com](https://google.com), or any [[Python (Programming Language)|Python]] compatible IDE.
+> **[0:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=18)** We'll be running our coding, colab.[google.com](https://google.com), or any [[Python (Programming Language)|Python]] compatible IDE.
 >
 > **[0:26](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=26)** First, we import NLTK and download the Brown Corpus.
 >
@@ -1797,7 +1797,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=22)** It includes datasets, transformations, and pre-trained models for speech-related task.
 >
-> **[0:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=29)** To follow along, log in or sign up at colab.[[[Google]].com](https://google.com), or use any preferred [[Python (Programming Language)|Python]] IDE.
+> **[0:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=29)** To follow along, log in or sign up at colab.[google.com](https://google.com), or use any preferred [[Python (Programming Language)|Python]] IDE.
 >
 > **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=39)** First, import os torchaudio
 >
@@ -2015,7 +2015,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=27)** You can consider it a type of app store for AI models.
 >
-> **[0:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=32)** In this video, we will explore the platform by visiting [[[Hugging Face|huggingface]].co](https://huggingface.co).
+> **[0:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=32)** In this video, we will explore the platform by visiting [huggingface.co](https://huggingface.co).
 >
 > **[0:38](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=38)** We'll take a thought of the on page and key sections.
 >
@@ -2142,7 +2142,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=9)** In this video, we will practice using the fine-tuned BERT-based model to perform a sentiment analysis task.
 >
-> **[0:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=19)** We will run our code using the notebook at colab.[[[Google]].com](https://google.com).
+> **[0:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=19)** We will run our code using the notebook at colab.[google.com](https://google.com).
 >
 > **[0:24](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=24)** To select our model on [[Hugging Face]] in the Filter by name, search for BERT, meaning we want the BERT-based model, that is fine-tuned for sentiment analysis.
 >
@@ -2251,7 +2251,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=129)** So these are other models that are available in the o series that are the reasoning models, and these are other models that are available in the GPT series.
 >
-> **[2:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=140)** This is GPT-4o Audio for audio input and output.
+> **[2:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=140)** This is [[GPT-4|GPT-4o]] Audio for audio input and output.
 >
 > **[2:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=145)** So this is where you look at the available models that you can use in your workflow.
 >
@@ -2322,7 +2322,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=5)** In this video, we'll learn how to do the same using the OpenAI developer API key.
 >
-> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=12)** We'll be running the code on collab.reset.[[[Google]].com](https://google.com), or you can use any [[Python (Programming Language)|Python]] ID that you prefer.
+> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=12)** We'll be running the code on collab.reset.[google.com](https://google.com), or you can use any [[Python (Programming Language)|Python]] ID that you prefer.
 >
 > **[0:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=21)** First, import OpenAI.
 >
@@ -2577,7 +2577,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=42)** First, pip install, google-generativeai.
 >
-> **[0:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=51)** Then, import google-generativeai as genai.
+> **[0:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=51)** Then, import google-generativeai as [[Generative AI|genai]].
 >
 > **[1:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=63)** The next step is to configure your API key.
 >
@@ -2824,7 +2824,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=32)** It's a great exercise for you to poke around and figure it out.
 >
-> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=39)** To assess the models, remember to go to [[[GitHub]].com/marketplace/models](https://github.com/marketplace/models).
+> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=39)** To assess the models, remember to go to [github.com/marketplace/models](https://github.com/marketplace/models).
 >
 > **[0:45](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=45)** And on the select model, let's look for Codestral 25.01.
 >
@@ -2856,7 +2856,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=197)** It makes better sense to read the documentation, to know what works for what, or if you are up for the exploration for you to compare like this.
 >
-> **[3:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=207)** And you can do that very well with GitHub models.
+> **[3:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=207)** And you can do that very well with [[GitHub]] models.
 >
 > **[3:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=211)** So the next step for you is for you to practice, poke around these models, use them, figure out how they work, and have fun as you build AI product.
 

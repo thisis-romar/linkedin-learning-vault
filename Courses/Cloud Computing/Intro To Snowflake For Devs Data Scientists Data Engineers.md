@@ -229,7 +229,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=279)** We designed this to be the single point of entry for a longer Snowflake learning journey.
 >
-> **[4:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=284)** For those who want to go deeper on, say, data engineering with Snowflake, GenAI with Snowflake, applications with Snowflake, and more.
+> **[4:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=284)** For those who want to go deeper on, say, data engineering with Snowflake, [[Generative AI|GenAI]] with Snowflake, applications with Snowflake, and more.
 >
 > **[4:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980&t=292)** In this course, we're going to talk about lots of Snowflake [[Microsoft Products|products]] and features, including some that are still in preview as of the time of filming.
 >
@@ -341,7 +341,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=185)** So first we set the role.
 >
-> **[3:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=187)** You do this by putting your cursor inside the block of code you want to run.
+> **[3:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=187)** You do this by putting your [[Cursor]] inside the block of code you want to run.
 >
 > **[3:11](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=191)** Each block of code is separated by a semicolon, so just put your cursor somewhere before the semicolon, but after the previous semicolon.
 >
@@ -4758,7 +4758,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=182)** For DE, we'll practice ingesting streaming data with Snowpipe.
 >
-> **[3:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=186)** For Snowflake's Gen AI workload, we'll use the Snowflake cortex LLM function called "complete" to query an LLM within Snowflake.
+> **[3:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=186)** For Snowflake's [[Generative AI|Gen AI]] workload, we'll use the Snowflake cortex LLM function called "complete" to query an LLM within Snowflake.
 >
 > **[3:14](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980&t=194)** For Snowflake's ML workload, we'll use Snowpark ML to create an XGBoost model and make predictions about where a particular food truck will be over time.
 >
@@ -5427,7 +5427,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=7)** If you're sitting there thinking, I don't think the past several hours of this course have been simple, then, that's probably on me, not on Snowflake.
 >
-> **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=15)** In this video, we're going to do an overview of GenAI at Snowflake, and I hope you'll come away agreeing that Snowflake has done a lot to make using GenAI Simple.
+> **[0:15](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=15)** In this video, we're going to do an overview of [[Generative AI|GenAI]] at Snowflake, and I hope you'll come away agreeing that Snowflake has done a lot to make using GenAI Simple.
 >
 > **[0:24](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980&t=24)** That said, sometimes your use case requires something more customizable than an out-of-the-box experience.
 >
@@ -5605,7 +5605,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=118)** Just specify the input and output languages.
 >
-> **[2:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=121)** Later, we'll see that Snowflake Cortex's ML functions operate very similarly, except that under the hood, they're powered by ML models instead of by Gen AI ones.
+> **[2:01](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=121)** Later, we'll see that Snowflake Cortex's ML functions operate very similarly, except that under the hood, they're powered by ML models instead of by [[Generative AI|Gen AI]] ones.
 >
 > **[2:13](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-ii?u=76281980&t=133)** So this last category of Snowflake Gen AI functionality on the far right, Snowpark Container Services, could be the subject of multiple courses.
 >
@@ -5894,7 +5894,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=156)** And six, we learned how to get COMPLETE to work with an array holding our previous prompt history.
 >
-> **[2:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=163)** As I mentioned in the Gen AI overview, snowflake doesn't restrict your Gen AI workflows to LLM functions like COMPLETE.
+> **[2:43](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=163)** As I mentioned in the [[Generative AI|Gen AI]] overview, snowflake doesn't restrict your Gen AI workflows to LLM functions like COMPLETE.
 >
 > **[2:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-ii?u=76281980&t=171)** You can pretty much get as sophisticated as you want with LLMs and Snowflake.
 >
@@ -5946,7 +5946,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=44)** So here's how we're going to go about this.
 >
-> **[0:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=46)** The structure of this video will be pretty much identical to the structure we used when we learned about Gen AI at Snowflake.
+> **[0:46](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=46)** The structure of this video will be pretty much identical to the structure we used when we learned about [[Generative AI|Gen AI]] at Snowflake.
 >
 > **[0:52](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980&t=52)** We'll talk about ML features that can be used in seconds, ML features that can be used in minutes, and more customized ML features that can be used in hours.
 >
@@ -6127,7 +6127,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=266)** Okay, let's talk about Streamlit in the ML context.
 >
-> **[4:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=269)** We discussed Streamlit in our Gen AI overview, but I wanted to emphasize that it's also really useful in ML workflows.
+> **[4:29](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=269)** We discussed Streamlit in our [[Generative AI|Gen AI]] overview, but I wanted to emphasize that it's also really useful in ML workflows.
 >
 > **[4:36](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-ii?u=76281980&t=276)** With Streamlit in Snowflake, Python developers can turn data and ML models into interactive web apps without needing to do any [[Front-End Development]].
 >
@@ -6589,7 +6589,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=0)** - We've covered three of the four workloads we'll cover in this course DE, GenAI, and ML.
+> **[0:00](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=0)** - We've covered three of the four workloads we'll cover in this course DE, [[Generative AI|GenAI]], and ML.
 >
 > **[0:05](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980&t=5)** Woo-hoo, now there's just one workload left on our agenda, applications.
 >
@@ -7194,7 +7194,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=62)** We talked about Snowflake's [[Data Engineering]] capabilities, and then tried out snowpipe.
 >
-> **[1:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=66)** We talked about Snowflake's gen AI capabilities, and then tried out Snowflake cortex LLM functions.
+> **[1:06](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=66)** We talked about Snowflake's [[Generative AI|gen AI]] capabilities, and then tried out Snowflake cortex LLM functions.
 >
 > **[1:12](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/wrap-up-of-overview-of-builder-workloads?u=76281980&t=72)** We talked about Snowflake's ML capabilities and then tried out snowpark ML.
 >
@@ -7263,7 +7263,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=33)** Second, we wanted you to come away equipped to take a bunch of other Snowflake coursework, if that was of interest to you.
 >
-> **[0:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=39)** We designed this to be the single point of entry for a longer Snowflake learning journey for those who want to go deeper on, say, data engineering with Snowflake, gen AI with Snowflake, applications with Snowflake, and more.
+> **[0:39](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=39)** We designed this to be the single point of entry for a longer Snowflake learning journey for those who want to go deeper on, say, data engineering with Snowflake, [[Generative AI|gen AI]] with Snowflake, applications with Snowflake, and more.
 >
 > **[0:51](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/course-conclusion?u=76281980&t=51)** So my question to you is how did it go?
 >

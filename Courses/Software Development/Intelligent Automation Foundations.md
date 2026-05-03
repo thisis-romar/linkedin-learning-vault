@@ -1174,7 +1174,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=183)** Companies with a lot of data sources, which is most companies can benefit from setting universal data policies, definitions, quality, security and compliance standards.
 >
-> **[3:15](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=195)** If you want to learn more about [[Data Management]] and governance, I recommend [[Learning [[Data Governance]]]].
+> **[3:15](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=195)** If you want to learn more about [[Data Management]] and governance, I recommend [[Learning Data Governance]].
 >
 > **[3:21](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=201)** In summary, I've had the privilege of working with and advising hundreds of clients around the planet.
 >

@@ -213,7 +213,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=74)** Mistral's new Ministral model, for example, offers low latency,
 >
-> **[1:27](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=87)** while GPT-4o is currently the most powerful and widely used multimodal model.
+> **[1:27](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=87)** while [[GPT-4|GPT-4o]] is currently the most powerful and widely used multimodal model.
 >
 > **[1:36](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=96)** As you can see, you can test drive these models for free with the interactive playground and try out your prompts before you spend a dime in production.
 >
@@ -289,7 +289,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=59)** As I noted earlier, large language models are limited to the knowledge that was available as of the time that they were trained.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=66)** I have a Hyundai Ioniq 6, and that car came out after even the latest GPT-4o was trained.
+> **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=66)** I have a Hyundai Ioniq 6, and that car came out after even the latest [[GPT-4|GPT-4o]] was trained.
 >
 > **[1:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=72)** So if I ask a question about that model of car, the model by itself won't know how to answer it.
 >
@@ -942,7 +942,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=6)** You can layer [[Microsoft Azure|Azure]] AI speech onto a large language model like I did here with this taco ordering site.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=12)** To do this, I layered an Azure AI speech voice on top of GPT-4o mini, a model which doesn't have any speech capabilities of its own.
+> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=12)** To do this, I layered an Azure AI speech voice on top of [[GPT-4|GPT-4o]] mini, a model which doesn't have any speech capabilities of its own.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=22)** Let's have a look at how this works.
 >
@@ -1035,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=28)** Once in a while, the game stumps me and so I decided to enlist the help of AI.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=35)** I set it up so that I only need to show the game to my laptop camera, and when it snaps a picture, it sends the image to GPT-4o which is one of the most robust [[Large Language Models (LLM)|large language models]] with vision capabilities.
+> **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=35)** I set it up so that I only need to show the game to my laptop camera, and when it snaps a picture, it sends the image to [[GPT-4|GPT-4o]] which is one of the most robust [[Large Language Models (LLM)|large language models]] with vision capabilities.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=48)** Here, it's figured out what the tiles are and has generated all possible words from them.
 >
@@ -1327,7 +1327,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=0)** - [Instructor] That concludes our look at the fundamentals of [[Microsoft Azure|Azure]] AI and using the [[Azure AI Foundry]].
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=6)** For more information, check out the content on learn.[[[Microsoft]].com](https://microsoft.com), which includes documentation, but also numerous code samples.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=6)** For more information, check out the content on learn.[microsoft.com](https://microsoft.com), which includes documentation, but also numerous code samples.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=16)** Also, you can search other [[LinkedIn]] Learning courses for Azure OpenAI and the other AI services.
 >

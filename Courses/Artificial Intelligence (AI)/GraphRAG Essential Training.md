@@ -115,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=15)** Even if you know nothing about graphs, I'll show you how to create a knowledge graph in a graph database from unstructured text.
 >
-> **[0:23](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=23)** Then you can use it with common gen AI tools in [[Python (Programming Language)|Python]] to create a graph RAG that will power a real application all in a single afternoon.
+> **[0:23](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=23)** Then you can use it with common [[Generative AI|gen AI]] tools in [[Python (Programming Language)|Python]] to create a graph RAG that will power a real application all in a single afternoon.
 >
 > **[0:33](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980&t=33)** I'm Claire Sullivan and I've been working in [[Data Science]] for more than two decades.
 >
@@ -132,7 +132,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=0)** - Have you ever asked a Gen AI chatbot a simple question and it just made something up?
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=0)** - Have you ever asked a [[Generative AI|Gen AI]] chatbot a simple question and it just made something up?
 >
 > **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/an-example-of-knowledge-graphs-at-work-in-ai?u=76281980&t=5)** That's what we call a hallucination, and yeah, it's a problem.
 >
@@ -280,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=96)** And third, do I care about those connections?
 >
-> **[1:41](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=101)** In Gen AI, graphs help provide context to your [[Large Language Models (LLM)|large language models]], or LLMs, because they show how different concepts relate.
+> **[1:41](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=101)** In [[Generative AI|Gen AI]], graphs help provide context to your [[Large Language Models (LLM)|large language models]], or LLMs, because they show how different concepts relate.
 >
 > **[1:50](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980&t=110)** I'm going to show you how using graphs through an approach called graph retrieval augmented generation, or [[GraphRAG]], can reduce LLM hallucinations.
 >
@@ -401,7 +401,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=110)** They structure it in a way that makes it easy to navigate.
 >
-> **[1:54](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=114)** So why does this matter For GenAI?
+> **[1:54](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=114)** So why does this matter For [[Generative AI|GenAI]]?
 >
 > **[1:58](https://www.linkedin.com/learning/graphrag-essential-training/why-are-graphs-useful?u=76281980&t=118)** One of the biggest challenges with LLMs is that they don't actually know anything.
 >
@@ -464,7 +464,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=144)** By combining nodes, relationships, and properties, you get a graph that isn't just about structure, it's about meaning.
 >
-> **[2:32](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=152)** That's why graphs are so powerful for things like GenAI.
+> **[2:32](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=152)** That's why graphs are so powerful for things like [[Generative AI|GenAI]].
 >
 > **[2:35](https://www.linkedin.com/learning/graphrag-essential-training/nodes-relationships-and-properties?u=76281980&t=155)** They can provide the context and tell the LLM why something is the way it is.
 >
@@ -574,7 +574,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=59)** If you were to use this graph, you can see it would be easy to ask questions like, What are some places Claire could visit while in New York City, or what show could Claire go see after dinner at the Starlight Diner?
 >
-> **[1:13](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=73)** GenAI systems are made better by using knowledge graphs to ground their answers in structured knowledge when done right, combining LLMs with knowledge graphs can help you assign meaning to different terms by considering the contextual relationships of the words.
+> **[1:13](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=73)** [[Generative AI|GenAI]] systems are made better by using knowledge graphs to ground their answers in structured knowledge when done right, combining LLMs with knowledge graphs can help you assign meaning to different terms by considering the contextual relationships of the words.
 >
 > **[1:31](https://www.linkedin.com/learning/graphrag-essential-training/knowledge-graphs-connecting-information?u=76281980&t=91)** For example, if I were talking about the [[Microsoft Word|word]] apple, I could be referring to the computer, like in number one as you see on screen, or the fruit, like in number two.
 >
@@ -594,7 +594,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=0)** - In the same way that maps and GPS help us navigate cities, [[Knowledge Graphs]] help gen AI organize and retrieve information efficiently.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=0)** - In the same way that maps and GPS help us navigate cities, [[Knowledge Graphs]] help [[Generative AI|gen AI]] organize and retrieve information efficiently.
 >
 > **[0:09](https://www.linkedin.com/learning/graphrag-essential-training/how-graphs-power-ai?u=76281980&t=9)** Instead of treating text as isolated words, graphs provide structured pathways between concepts, helping gen AI understand relationships between things.
 >
@@ -703,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=5)** Neo4j is a native graph database, which means it stores the data as nodes and relationships instead of rows and columns.
 >
-> **[0:14](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=14)** This matters for Gen AI and GraphRAG because in these applications, relationships between concepts, entities and documents are just as important as the entities themselves.
+> **[0:14](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=14)** This matters for [[Generative AI|Gen AI]] and GraphRAG because in these applications, relationships between concepts, entities and documents are just as important as the entities themselves.
 >
 > **[0:25](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-neo4j?u=76281980&t=25)** So, using a graph database like Neo4j lets you store, query and analyze these relationships at scale, and in real time.
 >
@@ -738,7 +738,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=0)** - [Instructor] Let's start by using our web browser to navigate to login.[[[Neo4j]].com](https://neo4j.com).
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=0)** - [Instructor] Let's start by using our web browser to navigate to login.[neo4j.com](https://neo4j.com).
 >
 > **[0:07](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=7)** Here, you'll create a free account and log into Aura.
 >
@@ -756,7 +756,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=47)** Great, now we have our database instance running, so let's get into it by clicking Connect and Query.
 >
-> **[0:56](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=56)** What you see now is the Neo4j Browser.
+> **[0:56](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=56)** What you see now is the [[Neo4j]] Browser.
 >
 > **[1:00](https://www.linkedin.com/learning/graphrag-essential-training/setting-up-neo4j?u=76281980&t=60)** This is similar to other database browsers in that it's a user interface where you can directly query the database.
 >
@@ -992,7 +992,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/connecting-python-to-neo4j?u=76281980&t=0)** - [Instructor] Up until this point, we've been using the [[Neo4j]] browser to query the database, but in order to create GenAI applications based on [[GraphRAG]], we're going to want to do this in [[Python (Programming Language)|Python]].
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/connecting-python-to-neo4j?u=76281980&t=0)** - [Instructor] Up until this point, we've been using the [[Neo4j]] browser to query the database, but in order to create [[Generative AI|GenAI]] applications based on [[GraphRAG]], we're going to want to do this in [[Python (Programming Language)|Python]].
 >
 > **[0:12](https://www.linkedin.com/learning/graphrag-essential-training/connecting-python-to-neo4j?u=76281980&t=12)** Fortunately, there's a Python driver for Neo4j that makes this easy for us.
 >
@@ -1089,7 +1089,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=158)** We now have the ability to run cipher queries on our Neo4j database without ever leaving Python.
 >
-> **[2:45](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=165)** Now that we know how to work with Neo4j and Cipher in Python, we have everything we need to start building cool gen AI apps using [[GraphRAG]].
+> **[2:45](https://www.linkedin.com/learning/graphrag-essential-training/testing-your-setup-with-cypher-queries?u=76281980&t=165)** Now that we know how to work with Neo4j and Cipher in Python, we have everything we need to start building cool [[Generative AI|gen AI]] apps using [[GraphRAG]].
 
 > [!info]- Semantic Content
 >
@@ -1156,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=28)** If you just do a keyword search, you're likely to come up with the wrong answer.
 >
-> **[0:33](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=33)** Ultimately, the driving force behind all gen AI applications is math.
+> **[0:33](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=33)** Ultimately, the driving force behind all [[Generative AI|gen AI]] applications is math.
 >
 > **[0:39](https://www.linkedin.com/learning/graphrag-essential-training/how-rag-works-with-vector-embeddings?u=76281980&t=39)** Don't worry though.
 >
@@ -1202,7 +1202,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=0)** - So you already know that retrieval augmented generation or RAG helps gen AI pull in relevant facts before generating responses.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=0)** - So you already know that retrieval augmented generation or RAG helps [[Generative AI|gen AI]] pull in relevant facts before generating responses.
 >
 > **[0:09](https://www.linkedin.com/learning/graphrag-essential-training/improving-your-rag-with-graphs-graphrag?u=76281980&t=9)** But let's talk about why [[GraphRAG]] is often a better choice than just using vector search.
 >
@@ -1281,7 +1281,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=0)** - [Instructor] Once we start programming GenAI applications in this course, we're going to be using a [[Python (Programming Language)|Python]] package called [[LangChain]].
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=0)** - [Instructor] Once we start programming [[Generative AI|GenAI]] applications in this course, we're going to be using a [[Python (Programming Language)|Python]] package called [[LangChain]].
 >
 > **[0:08](https://www.linkedin.com/learning/graphrag-essential-training/overview-of-langchain?u=76281980&t=8)** LangChain is a developer framework for working with [[Large Language Models (LLM)|large language models]].
 >
@@ -1366,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=10)** It turns out that LangChain has its own integration of [[Neo4j]] and other graph tools.
 >
-> **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=15)** I guess they realize the importance of graphs to gen AI.
+> **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=15)** I guess they realize the importance of graphs to [[Generative AI|gen AI]].
 >
 > **[0:19](https://www.linkedin.com/learning/graphrag-essential-training/key-concepts-in-langchain-for-graph-workflows?u=76281980&t=19)** This is going to help us in many ways as we set up to do [[GraphRAG]].
 >
@@ -1441,7 +1441,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=77)** So let's start with that text here.
 >
-> **[1:21](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=81)** Before Gen AI, if we wanted to turn this into a graph, we'd have to do some fancy, complicated [[Natural Language Processing (NLP)|natural language processing]] by getting our subjects, verbs and objects and uploading them into the graph.
+> **[1:21](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=81)** Before [[Generative AI|Gen AI]], if we wanted to turn this into a graph, we'd have to do some fancy, complicated [[Natural Language Processing (NLP)|natural language processing]] by getting our subjects, verbs and objects and uploading them into the graph.
 >
 > **[1:34](https://www.linkedin.com/learning/graphrag-essential-training/populating-a-knowledge-graph-into-neo4j-using-langchain?u=76281980&t=94)** It was ugly, but fortunately, Lang Chain has this LLM graph transformer tool to do it for us.
 >
@@ -1796,7 +1796,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=39)** There's a famous saying in working with data, "Garbage in, garbage out."
 >
-> **[0:43](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=43)** In GenAI, this can refer to the quality of the input data or the effectiveness of the prompt.
+> **[0:43](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=43)** In [[Generative AI|GenAI]], this can refer to the quality of the input data or the effectiveness of the prompt.
 >
 > **[0:49](https://www.linkedin.com/learning/graphrag-essential-training/using-knowledge-graphs-in-a-graphrag-pipeline?u=76281980&t=49)** In this video, we're going to work with the prompt.
 >
@@ -1890,7 +1890,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=0)** - [Instructor] Whenever you create any application with GenAI, you should also create a plan to test and evaluate it.
+> **[0:00](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=0)** - [Instructor] Whenever you create any application with [[Generative AI|GenAI]], you should also create a plan to test and evaluate it.
 >
 > **[0:07](https://www.linkedin.com/learning/graphrag-essential-training/evaluating-your-graphrag-pipeline?u=76281980&t=7)** It's also best practice to be constantly evaluating your applications as you make changes to them.
 >
@@ -2278,7 +2278,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=13)** Don't worry about making mistakes.
 >
-> **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=15)** Just start simple and build from there because I find I learn something new about Gen AI and GraphRAG with every step I take.
+> **[0:15](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=15)** Just start simple and build from there because I find I learn something new about [[Generative AI|Gen AI]] and GraphRAG with every step I take.
 >
 > **[0:23](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980&t=23)** If you have questions or want to engage with others on their graph journeys, I encourage you to come chat with us on the Graph Geeks Discord server.
 >

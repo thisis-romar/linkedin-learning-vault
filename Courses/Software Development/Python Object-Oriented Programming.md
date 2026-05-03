@@ -156,7 +156,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=85)** You should also be familiar with basic [[Object-Oriented Programming (OOP)|object-oriented programming]] principles such as classes, methods and inheritance, and so on.
 >
-> **[1:33](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=93)** We're going to be learning about the Python specific details of these concepts in this course, but if you need to learn about the basics first, I suggest you watch [[[[Programming Foundations]]- Object-Oriented Design]].
+> **[1:33](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=93)** We're going to be learning about the Python specific details of these concepts in this course, but if you need to learn about the basics first, I suggest you watch [[Programming Foundations- Object-Oriented Design]].
 >
 > **[1:45](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=105)** When you're comfortable with these subjects you are ready to proceed with the course.
 

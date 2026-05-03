@@ -708,7 +708,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=13)** So, the service worker will manage everything that happens, within that scope.
 >
-> **[0:19](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=19)** So, for example, if the scope is [https://[[LinkedIn]].com](https://linkedin.com), then here we can see several examples that will be managed by the service worker.
+> **[0:19](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=19)** So, for example, if the scope is [https://linkedin.com](https://linkedin.com), then here we can see several examples that will be managed by the service worker.
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=31)** So, [linkedin.com](https://linkedin.com), so the home page, will be managed by the service worker, the same as /about, or /assets/static/terms.pdf, or anything inside that domain.
 >
@@ -778,11 +778,11 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=261)** To avoid cross-site tracking, it's using a more complex scenario only on websites with cross-origin iframes that are using service workers.
 >
-> **[4:31](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=271)** So, for example, your website at [linkedin.com](https://linkedin.com) can be open in a normal page, in a normal browser tab, or it can be also inside an iframe on another domain, for example, [[[Microsoft]].com](https://microsoft.com).
+> **[4:31](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=271)** So, for example, your website at [linkedin.com](https://linkedin.com) can be open in a normal page, in a normal browser tab, or it can be also inside an iframe on another domain, for example, [microsoft.com](https://microsoft.com).
 >
 > **[4:44](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=284)** In that case, even if both [linkedin.com](https://linkedin.com) instances are pointing and registering the same service worker, Safari will create a partition on the one with an iframe.
 >
-> **[4:55](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=295)** And it's creating two different scopes, one for [linkedin.com](https://linkedin.com) alone, and the other one for the pair of microsoft and linkedin at the same time.
+> **[4:55](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=295)** And it's creating two different scopes, one for [linkedin.com](https://linkedin.com) alone, and the other one for the pair of [[Microsoft]] and [[LinkedIn]] at the same time.
 >
 > **[5:05](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=305)** It's the same service worker file, but they will be different registration instances inside that particular browser.
 >

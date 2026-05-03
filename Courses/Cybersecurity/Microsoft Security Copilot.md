@@ -277,9 +277,9 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] Let's get started with [[Microsoft Security]] [[Microsoft Copilot|Copilot]].
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=4)** Open the browser, and enter the URL, securitycopilot.[[[Microsoft]].com](https://microsoft.com).
+> **[0:04](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=4)** Open the browser, and enter the URL, securitycopilot.[microsoft.com](https://microsoft.com).
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=11)** I will sign in with my Microsoft work account.
+> **[0:11](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=11)** I will sign in with my [[Microsoft]] work account.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/get-started-with-microsoft-security-copilot?u=76281980&t=15)** After signing, I can see the Security Copilot portal.
 >

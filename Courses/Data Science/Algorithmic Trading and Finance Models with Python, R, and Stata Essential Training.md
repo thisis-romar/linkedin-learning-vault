@@ -1562,7 +1562,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=48)** So now if we wanted to go ahead and run this particular code and plot cars, let's see what this does.
 >
-> **[0:56](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=56)** So I'm going to put my cursor here between the P and the L, hold down the control and Enter key and the Shift key all at once.
+> **[0:56](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=56)** So I'm going to put my [[Cursor]] here between the P and the L, hold down the control and Enter key and the Shift key all at once.
 >
 > **[1:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=66)** And voila, it plots the distribution of cars based on speed and distance.
 >

@@ -1050,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/css-animation-14153685/the-steps-timing-function?u=76281980&t=53)** And that one at a time part, is what steps will make possible.
 >
-> **[0:57](https://www.linkedin.com/learning/css-animation-14153685/the-steps-timing-function?u=76281980&t=57)** So I already have things partly started and I've written some key frames that we'll use to animate the cursor blinking.
+> **[0:57](https://www.linkedin.com/learning/css-animation-14153685/the-steps-timing-function?u=76281980&t=57)** So I already have things partly started and I've written some key frames that we'll use to animate the [[Cursor]] blinking.
 >
 > **[1:03](https://www.linkedin.com/learning/css-animation-14153685/the-steps-timing-function?u=76281980&t=63)** But we still need some key frames to make the type on effect and essentially reveal the h1, one letter at a time.
 >
@@ -2537,7 +2537,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=99)** [Animistic.net](https://Animistic.net) is similar to those last two, but it also has a robust customization visualizer, which can be really useful for learning in addition to customizing the effect you want.
 >
-> **[1:51](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=111)** And last but not least, browsing [[[CodePen]].io](https://codepen.io) is a great place to find CSS animation inspiration, and pick up on some new coding techniques.
+> **[1:51](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=111)** And last but not least, browsing [codepen.io](https://codepen.io) is a great place to find CSS animation inspiration, and pick up on some new coding techniques.
 >
 > **[2:00](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980&t=120)** I hope you'll find all of these sites useful in your CSS animation work.
 

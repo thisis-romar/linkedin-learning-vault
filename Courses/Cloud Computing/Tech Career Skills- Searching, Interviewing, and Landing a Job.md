@@ -162,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=62)** But these candidates are also proving to be adaptable to changing business needs.
 >
-> **[1:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=67)** For example, engineers with data analysis skills can use their data expertise to build complex business models using generative [[Artificial Intelligence (AI)|artificial intelligence]] or GenAI.
+> **[1:07](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=67)** For example, engineers with data analysis skills can use their data expertise to build complex business models using generative [[Artificial Intelligence (AI)|artificial intelligence]] or [[Generative AI|GenAI]].
 >
 > **[1:17](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/how-people-are-finding-jobs-now?u=76281980&t=77)** This involves building new skills as well as deploying existing skills for new business needs.
 >
@@ -2309,7 +2309,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=179)** This gives you the ability to relate the role to your own goals and make that closing argument for your candidacy.
 >
-> **[3:05](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=185)** The results are useful to get from the hiring manager a sense of how the [[[[Executive Leadership]]]] values this team and their work.
+> **[3:05](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=185)** The results are useful to get from the hiring manager a sense of how the [[Executive Leadership]] values this team and their work.
 >
 > **[3:13](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/acing-the-hiring-manager-interview?u=76281980&t=193)** Try and get a sense of what the [[Executive Leadership]] expects from the hiring manager.
 >

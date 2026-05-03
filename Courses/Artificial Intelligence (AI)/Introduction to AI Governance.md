@@ -422,7 +422,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=233)** Timely audits and rigorous testing of such systems with clear disclosure of its [[Decision-Making]] steps should have been shared with all associated stakeholders, including schools, parents, and students, before even leveraging such algorithms for full scale-decisions, that is official scoring.
 >
-> **[4:14](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=254)** Having discussed the impact of AI on access to education in the pre-[[Generative AI]] era, let us also see the repercussions that have surfaced with the advent of gen AI.
+> **[4:14](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=254)** Having discussed the impact of AI on access to education in the pre-[[Generative AI]] era, let us also see the repercussions that have surfaced with the advent of [[Generative AI|gen AI]].
 >
 > **[4:26](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=266)** An algorithm recently raised a false alert, flagging the use of AI to complete an assignment, leading to poor grades for the student.
 >
@@ -1015,7 +1015,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=146)** Coming from a place of new regulations or where efforts are underway to fill existing gaps countering the complexity of AI risk, the UK is in an exciting space for fostering innovation that promotes industry growth by not heavily regulating it.
 >
-> **[2:43](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=163)** Another variant of regulating AI comes from China, which proposed enforceable rules with the onset of the GenAI era.
+> **[2:43](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=163)** Another variant of regulating AI comes from China, which proposed enforceable rules with the onset of the [[Generative AI|GenAI]] era.
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=172)** What is the variation?
 >
@@ -1172,7 +1172,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980&t=88)** Do we have a role to play to safeguard ourselves?
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980&t=91)** Yes, we are critical to the success of the Gen AI revolution.
+> **[1:31](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980&t=91)** Yes, we are critical to the success of the [[Generative AI|Gen AI]] revolution.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980&t=96)** While effective mobilization of [[AI Governance]] may take time, it is incumbent on us as users of such advanced technology to criticize what we are presented with.
 >

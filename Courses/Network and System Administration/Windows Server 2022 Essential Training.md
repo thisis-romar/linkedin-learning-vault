@@ -272,7 +272,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=305)** And this can lead to a 30 percent faster startup time using better performance.
 >
-> **[5:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=311)** There are many more improvements to security and performance you can also find at docs.[[[Microsoft]].com](https://microsoft.com).
+> **[5:11](https://www.linkedin.com/learning/windows-server-2022-essential-training/changes-to-windows-server-2022?u=76281980&t=311)** There are many more improvements to security and performance you can also find at docs.[microsoft.com](https://microsoft.com).
 
 > [!info]- Semantic Content
 >
@@ -3675,7 +3675,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=0)** - Many organizations are moving to the cloud and they're using [[Windows Server]] 2022.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=6)** I'm logged into portal.[[[Microsoft Azure|azure]].com](https://azure.com).
+> **[0:06](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=6)** I'm logged into portal.[azure.com](https://azure.com).
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=9)** And from here, you can create any one of many different types of resources.
 >
@@ -3685,7 +3685,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=22)** Now, when I go to create a virtual machine, it's going to give me several different options.
 >
-> **[0:27](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=27)** I can choose to create a standard Hyper-V Azure virtual machine.
+> **[0:27](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=27)** I can choose to create a standard Hyper-V [[Microsoft Azure|Azure]] virtual machine.
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=32)** I can create one with preset configuration.
 >

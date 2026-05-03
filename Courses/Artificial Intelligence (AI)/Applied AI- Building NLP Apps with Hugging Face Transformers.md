@@ -187,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=11)** We will be using Anaconda and Jupyter Notebooks for these exercises.
 >
-> **[0:16](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=16)** You can download and install Anaconda from the website, [anconda.com/[[Microsoft Products|products]]/distribution](https://anconda.com/products/distribution) for your specific operating system.
+> **[0:16](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=16)** You can download and install Anaconda from the website, [anconda.com/products/distribution](https://anconda.com/products/distribution) for your specific operating system.
 >
 > **[0:27](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/setting-up-the-exercise-files?u=76281980&t=27)** Once downloaded, we will go to the Anaconda GUI.
 >

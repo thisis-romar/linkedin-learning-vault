@@ -904,7 +904,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=140)** A great information security team will work hard to find ways to use that new technology within the boundaries of the organization's risk tolerance.
 >
-> **[2:30](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=150)** This may require the information security team to find new ways of working such as when [[[[Agile Software Development]]]] became popular, or deploy new security [[Microsoft Products|products]] like executive level email encryption.
+> **[2:30](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=150)** This may require the information security team to find new ways of working such as when [[Agile Software Development]] became popular, or deploy new security [[Microsoft Products|products]] like executive level email encryption.
 >
 > **[2:44](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=164)** The output of this work is usually a multi-year roadmap.
 >
@@ -1199,7 +1199,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=99)** That means you need to be skilled in that work.
 >
-> **[1:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=102)** At a minimum, you'll need empathy, strong [[[[Interpersonal Communication]]]] skills, and the ability to set and enforce boundaries with firmness and respect, and it'll help a lot if you're likable.
+> **[1:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=102)** At a minimum, you'll need empathy, strong [[Interpersonal Communication]] skills, and the ability to set and enforce boundaries with firmness and respect, and it'll help a lot if you're likable.
 >
 > **[1:57](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=117)** In fact, a study published in the July 2013 issue of Harvard Business Review said that, "To be very influential, you need to balance warmth with competence."
 >

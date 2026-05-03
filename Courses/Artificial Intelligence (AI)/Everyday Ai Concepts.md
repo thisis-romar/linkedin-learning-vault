@@ -1403,7 +1403,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=14)** Then you saw how larger companies are starting to use [[Generative AI]].
 >
-> **[0:19](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=19)** GenAI now gives you the ability to work with much larger data sources.
+> **[0:19](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=19)** [[Generative AI|GenAI]] now gives you the ability to work with much larger data sources.
 >
 > **[0:23](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=23)** These new systems move beyond prediction and allow you to generate new images and text.
 >

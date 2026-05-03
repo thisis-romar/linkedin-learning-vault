@@ -136,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=34)** The other thing that you'll need is access to Power BI Desktop.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=39)** Head on over to powerbi.[[[Microsoft]].com](https://microsoft.com) for more information on how to get started.
+> **[0:39](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=39)** Head on over to powerbi.[microsoft.com](https://microsoft.com) for more information on how to get started.
 >
 > **[0:45](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-you-should-know?u=76281980&t=45)** And once again, the free version of this software is all you'll need for this course.
 >

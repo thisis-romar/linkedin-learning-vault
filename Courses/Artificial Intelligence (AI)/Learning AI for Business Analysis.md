@@ -695,7 +695,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=199)** We keep the user and business value as our guide while having these conversations.
 >
-> **[3:25](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=205)** For more information and to go deeper on AI agents, check out Charlene Li's course here on [[LinkedIn]] Learning called "[[Transforming Business with AI Agents- Autonomous Efficiency and [[Decision-Making]]]]."
+> **[3:25](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=205)** For more information and to go deeper on AI agents, check out Charlene Li's course here on [[LinkedIn]] Learning called "[[Transforming Business with AI Agents- Autonomous Efficiency and Decision-Making]]."
 >
 > **[3:39](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-agents-roles-for-business-analysis?u=76281980&t=219)** The technical team typically figures out how all these concepts will be implemented technically, and it takes tight collaboration to get it right and deliver the magic business leaders and users both want.
 

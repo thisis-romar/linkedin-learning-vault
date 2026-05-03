@@ -734,7 +734,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/fixing-untagged-hyperlinks?u=76281980&t=72)** They'll come up here to Link, Add/Edit Web or Document Link.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/fixing-untagged-hyperlinks?u=76281980&t=77)** And using the cursor, they can click and drag around an object to create a hyperlink for that element, right?
+> **[1:17](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/fixing-untagged-hyperlinks?u=76281980&t=77)** And using the [[Cursor]], they can click and drag around an object to create a hyperlink for that element, right?
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/fixing-untagged-hyperlinks?u=76281980&t=86)** So I'm just going to create an example here.
 >
@@ -1374,7 +1374,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/tagging-challenging-elements?u=76281980&t=346)** So I'm going to click on my accessibility tool and then I'm going to click on the reading order panel.
 >
-> **[5:52](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/tagging-challenging-elements?u=76281980&t=352)** And using my cursor, I'm just going to marque the text of each one of these items to select it.
+> **[5:52](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/tagging-challenging-elements?u=76281980&t=352)** And using my [[Cursor]], I'm just going to marque the text of each one of these items to select it.
 >
 > **[5:59](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/tagging-challenging-elements?u=76281980&t=359)** And I'm going to click on the text paragraph button to tag it as text.
 >
@@ -3634,7 +3634,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-adobe-acrobat?u=76281980&t=221)** And we're going to be using this one to start which is the text field.
 >
-> **[3:46](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-adobe-acrobat?u=76281980&t=226)** And if you move your cursor down, I'm not dragging, I'm just moving my cursor down, what I'm going to do is I'm going to go ahead and click to the right of first name so that it adds a form field at that location.
+> **[3:46](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-adobe-acrobat?u=76281980&t=226)** And if you move your [[Cursor]] down, I'm not dragging, I'm just moving my cursor down, what I'm going to do is I'm going to go ahead and click to the right of first name so that it adds a form field at that location.
 >
 > **[3:59](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-adobe-acrobat?u=76281980&t=239)** And this little yellow dialogue pops up where I can give the form field an appropriate name.
 >
@@ -3985,7 +3985,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/manually-tagging-form-fields?u=76281980&t=99)** And what I'm going to do is I'm going to go ahead and [[Zoom]] in a little bit (mouse clicking) on this document, so we can see what we're doing here.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/manually-tagging-form-fields?u=76281980&t=107)** In the Reading Order Panel, using your cursor, what you could do is click and drag to marquee the Form Field that you want to tag.
+> **[1:47](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/manually-tagging-form-fields?u=76281980&t=107)** In the Reading Order Panel, using your [[Cursor]], what you could do is click and drag to marquee the Form Field that you want to tag.
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/manually-tagging-form-fields?u=76281980&t=118)** As you could see here, it grabbed a couple of extra elements.
 >
@@ -4995,7 +4995,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/working-with-multilevel-lists?u=76281980&t=38)** This is kind of how [[Microsoft Word]] works.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/working-with-multilevel-lists?u=76281980&t=41)** So like if I put my cursor after the level one bullet and hit Return, it's going to want to create another level one bullet.
+> **[0:41](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/working-with-multilevel-lists?u=76281980&t=41)** So like if I put my [[Cursor]] after the level one bullet and hit Return, it's going to want to create another level one bullet.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/working-with-multilevel-lists?u=76281980&t=50)** I'm just going to type something here.
 >
@@ -5789,7 +5789,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-indesign?u=76281980&t=263)** Now, what I also like to do and this is the tip I wanted to show you.
 >
-> **[4:27](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-indesign?u=76281980&t=267)** So I'm going to select this field and then what I want to do to kind of make sure that the field appears at the right location within my text I'm going to click on the anchor icon and I'm going to drag it so that the cursor is right after the text right in the field.
+> **[4:27](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-indesign?u=76281980&t=267)** So I'm going to select this field and then what I want to do to kind of make sure that the field appears at the right location within my text I'm going to click on the anchor icon and I'm going to drag it so that the [[Cursor]] is right after the text right in the field.
 >
 > **[4:46](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-indesign?u=76281980&t=286)** And I'll [[Zoom]] in, maybe you can see this, yeah it's kind of hard to see, but this field is now anchored to that text in that position, okay?
 >

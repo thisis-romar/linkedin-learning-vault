@@ -111,7 +111,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980&t=35)** I've held leadership positions at companies like Skillsoft, Oracle, and AWS, where I have built diverse high performing teams.
 >
-> **[0:44](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980&t=44)** Join me in my LinkedIn Learning course where I share the secrets of succeeding as a tech manager in the fast paced high stakes world while leveraging emerging tech like GenAI.
+> **[0:44](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980&t=44)** Join me in my LinkedIn Learning course where I share the secrets of succeeding as a tech manager in the fast paced high stakes world while leveraging emerging tech like [[Generative AI|GenAI]].
 >
 > **[0:55](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980&t=55)** Let's get started.
 
@@ -191,7 +191,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980&t=161)** Technology is evolving at the rapid pace.
 >
-> **[2:44](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980&t=164)** Every organization today is exploring use cases for gen AI.
+> **[2:44](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980&t=164)** Every organization today is exploring use cases for [[Generative AI|gen AI]].
 >
 > **[2:49](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980&t=169)** You should take advantage of tech training to stay relevant and lead your team effectively.
 >
@@ -230,7 +230,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980&t=20)** They're wondering how having a new manager is going to impact the direction of their projects, working style, their career and professional goals, and overall morale of the team.
 >
-> **[0:32](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980&t=32)** Many of them are also wondering what impact AI and GenAI will have on their jobs.
+> **[0:32](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980&t=32)** Many of them are also wondering what impact AI and [[Generative AI|GenAI]] will have on their jobs.
 >
 > **[0:38](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980&t=38)** There are a few things that you can do to better understand your team.
 >
@@ -553,7 +553,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980&t=70)** Once per quarter, I change our team meeting to a scenario planning, or what we call a what if session where we as a team talk about emerging technologies and their impact on our industry.
 >
-> **[1:23](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980&t=83)** These sessions often lead to structured and unstructured learning and use case exploration for emerging technologies like GenAI, Automation and 6G.
+> **[1:23](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980&t=83)** These sessions often lead to structured and unstructured learning and use case exploration for emerging technologies like [[Generative AI|GenAI]], Automation and 6G.
 >
 > **[1:34](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980&t=94)** For [[Generative AI]], you can explore use cases like automated [[Content Creation]], code generation, or design assistance to increase productivity.
 >
@@ -579,7 +579,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980&t=0)** - Today's work culture is evolving and transforming continuously.
 >
-> **[0:04](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980&t=4)** Organizational vision and business strategy shift with changes in the market and emerging tech like Gen AI, NLP, and 6G.
+> **[0:04](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980&t=4)** Organizational vision and business strategy shift with changes in the market and emerging tech like [[Generative AI|Gen AI]], NLP, and 6G.
 >
 > **[0:13](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980&t=13)** As a leader, you need to ensure that you effectively communicate the organizational vision and strategy to your team.
 >

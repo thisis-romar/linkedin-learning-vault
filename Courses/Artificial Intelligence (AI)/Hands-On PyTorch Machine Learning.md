@@ -338,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=58)** You can find these data sets and functions on the PyTorch website with the links included in this slide.
 >
-> **[1:05](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=65)** For example, for image dataset go to [pytorch.org/vision/stable/datasets.[[HTML]]](https://pytorch.org/vision/stable/datasets.html).
+> **[1:05](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=65)** For example, for image dataset go to [pytorch.org/vision/stable/datasets.html](https://pytorch.org/vision/stable/datasets.html).
 >
 > **[1:14](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-data-exploration?u=76281980&t=74)** For text datasets go to [pytorch.org/text/stable/datasets.html](https://pytorch.org/text/stable/datasets.html).
 >

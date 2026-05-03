@@ -8,7 +8,7 @@ linkedin_topics:
   - Cloud Computing
   - Network and System Administration
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing

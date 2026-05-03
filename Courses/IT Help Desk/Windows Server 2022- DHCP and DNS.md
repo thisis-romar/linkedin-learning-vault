@@ -2574,7 +2574,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=154)** I have a website here that I own, and what I'm going to do is do a DNS lookup for mail records.
 >
-> **[2:42](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=162)** So I'm going to put in the name of a domain in this case I'll do [[[LinkedIn]].com](https://linkedin.com).
+> **[2:42](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=162)** So I'm going to put in the name of a domain in this case I'll do [linkedin.com](https://linkedin.com).
 >
 > **[2:48](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=168)** Instead of choosing the a or host record, I'm going to choose the MX record to see where email gets delivered whenever I want to send an email to someone@[linkedin.com](https://linkedin.com) And here's the MX preferences followed by the host names.
 >
@@ -2699,7 +2699,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=14)** So for instance, if I go up to View and click Advanced, it's going to show some additional things it didn't show before and one of those is cached lookups.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=25)** And the advantage to cached lookups is if I go to say [[[Google]].com](https://google.com), it's going to go out the first time to my internet service provider or whatever DNS forwarder I put in and it's going to look for that IP address and then it's going to give me that resolution and then I can go out to [google.com](https://google.com).
+> **[0:25](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=25)** And the advantage to cached lookups is if I go to say [google.com](https://google.com), it's going to go out the first time to my internet service provider or whatever DNS forwarder I put in and it's going to look for that IP address and then it's going to give me that resolution and then I can go out to [google.com](https://google.com).
 >
 > **[0:43](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=43)** However, the next time I go, I don't want to have to wait for it to go to do that.
 >
@@ -2715,7 +2715,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=88)** I'm going to go back to com and I'm going to go to my command prompt and I'm going to ping [google.com](https://google.com) since it didn't show up in the list there and you see I get a resolution.
 >
-> **[1:40](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=100)** Now I'm going to minimize and go back to com and now I'm going to refresh and there's my Google host record.
+> **[1:40](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=100)** Now I'm going to minimize and go back to com and now I'm going to refresh and there's my [[Google]] host record.
 >
 > **[1:48](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=108)** Now, the next time I want to go to Google, it will be already there and ready for me to use.
 >

@@ -533,7 +533,7 @@ created: 2026-05-02
 >
 > **[8:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=494)** I'm writing this at a time where the most current Cohere model is the Command R+
 >
-> **[8:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=504)** and the most recent model from OpenAI is GPT-4o.
+> **[8:24](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=504)** and the most recent model from OpenAI is [[GPT-4|GPT-4o]].
 >
 > **[8:30](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/setting-up-your-environment?u=76281980&t=510)** So we'll be making use of those in this course.
 >
@@ -672,7 +672,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=374)** Of course, cost is always a issue.
 >
-> **[6:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=378)** So OpenAI for GPT-4o has a blended rate of about $10 per million [[Tokens]].
+> **[6:18](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=378)** So OpenAI for [[GPT-4|GPT-4o]] has a blended rate of about $10 per million [[Tokens]].
 >
 > **[6:28](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/choosing-an-llm-and-embeddings-provider?u=76281980&t=388)** So for input tokens, it's $5 per million input tokens, and then I believe it is $15 per output token.
 >
@@ -5074,7 +5074,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=244)** Again, we are using the in-memory vector store.
 >
-> **[4:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=248)** We're also going to be using [[GPT-4]], now GPT-4o as our language model.
+> **[4:08](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=248)** We're also going to be using [[GPT-4]], now [[GPT-4|GPT-4o]] as our language model.
 >
 > **[4:15](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/document-summary-index?u=76281980&t=255)** And remember that we're only taking a subset of all our documents.
 >

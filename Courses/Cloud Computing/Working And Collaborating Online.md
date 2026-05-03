@@ -334,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=71)** It's usually a different color from the surrounding text like we see here, or it becomes underlined or already is underlined, or it's just visually different in some other way.
 >
-> **[1:20](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=80)** Alternately, if you place your mouse over text or an image and the cursor turns into a hand with a pointing finger, that indicates the item is a clickable link.
+> **[1:20](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=80)** Alternately, if you place your mouse over text or an image and the [[Cursor]] turns into a hand with a pointing finger, that indicates the item is a clickable link.
 >
 > **[1:28](https://www.linkedin.com/learning/working-and-collaborating-online/browse-the-web-with-microsoft-edge?u=76281980&t=88)** You'll also see the address that clicking the link will take you to there in the lower left hand corner and if I click that link I'll go to that page.
 >
@@ -1512,7 +1512,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=123)** So if Jade adds some text to this document, and I switch back to my copy of the document here in Word on my computer, I can see that change.
 >
-> **[2:13](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=133)** And I can see exactly where Jade is working on the document, which is indicated by this colored cursor here.
+> **[2:13](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=133)** And I can see exactly where Jade is working on the document, which is indicated by this colored [[Cursor]] here.
 >
 > **[2:17](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980&t=137)** If I roll my mouse over it, I can see her name.
 >
@@ -1540,7 +1540,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980&t=12)** This allows everyone to share feedback and collaborate in one place, the document itself.
 >
-> **[0:17](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980&t=17)** To make a comment, place your cursor at the location in the document where you want the comment to appear.
+> **[0:17](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980&t=17)** To make a comment, place your [[Cursor]] at the location in the document where you want the comment to appear.
 >
 > **[0:21](https://www.linkedin.com/learning/working-and-collaborating-online/add-comments?u=76281980&t=21)** For example, I'll place my cursor next to this logo at the top of the page.
 >
@@ -1689,7 +1689,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=17)** Be aware that you may already have an account.
 >
-> **[0:19](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=19)** Some ways you may have already created an account include if you have a subscription to [[Microsoft 365]], if you have Hotmail or [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) email address, if you have a Skype account, or if you have an Xbox Live account.
+> **[0:19](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=19)** Some ways you may have already created an account include if you have a subscription to [[Microsoft 365]], if you have Hotmail or [Outlook.com](https://Outlook.com) email address, if you have a Skype account, or if you have an Xbox Live account.
 >
 > **[0:31](https://www.linkedin.com/learning/working-and-collaborating-online/creating-a-onedrive-account?u=76281980&t=31)** You can use any of these methods to sign in to and access your OneDrive [[Cloud Storage]] space.
 >
@@ -1911,7 +1911,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=45)** If you already have a [[Microsoft]] account, you can use that same account to log into Skype.
 >
-> **[0:49](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=49)** Some ways you might have already created an account are if you have a subscription to [[Microsoft 365]], if you have a Hotmail or [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) email address, or if you have an Xbox Live account.
+> **[0:49](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=49)** Some ways you might have already created an account are if you have a subscription to [[Microsoft 365]], if you have a Hotmail or [Outlook.com](https://Outlook.com) email address, or if you have an Xbox Live account.
 >
 > **[1:00](https://www.linkedin.com/learning/working-and-collaborating-online/sign-into-skype?u=76281980&t=60)** You can use any of these methods to sign into Skype.
 >

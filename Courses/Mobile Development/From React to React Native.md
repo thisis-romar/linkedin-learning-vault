@@ -1247,7 +1247,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980&t=5)** And if you're wondering, what is this library, this is where you can actually reach it.
 >
-> **[0:10](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980&t=10)** Callstack.[[[GitHub]].IO/[[React.js|react]]-native-paper](https://github.IO/react-native-paper).
+> **[0:10](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980&t=10)** Callstack.[github.IO/react-native-paper](https://github.IO/react-native-paper).
 >
 > **[0:16](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980&t=16)** And on that page, you're going to see some examples and code snippets.
 >

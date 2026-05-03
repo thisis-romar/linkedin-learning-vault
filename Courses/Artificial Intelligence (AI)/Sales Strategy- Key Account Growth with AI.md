@@ -970,7 +970,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980&t=118)** Summarize your prospect's perspective and critical learnings to help your salespeople land other big contracts.
 >
-> **[2:05](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980&t=125)** Use your findings for sales training, and share with key departments such as marketing, professional services, and the [[[[Executive Leadership]]]] team.
+> **[2:05](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980&t=125)** Use your findings for sales training, and share with key departments such as marketing, professional services, and the [[Executive Leadership]] team.
 >
 > **[2:13](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980&t=133)** Your win celebration is a wonderful time for the opportunity team leader to recount the untold stories.
 >

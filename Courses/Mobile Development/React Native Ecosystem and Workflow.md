@@ -195,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/exploring-icons-for-react-native?u=76281980&t=12)** So fire up your browser and let's get started.
 >
-> **[0:16](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/exploring-icons-for-react-native?u=76281980&t=16)** So what you need to do is go to this web address here, [[[GitHub]].com/oblador/[[React.js|react]]-native-vector-icons](https://github.com/oblador/react-native-vector-icons).
+> **[0:16](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/exploring-icons-for-react-native?u=76281980&t=16)** So what you need to do is go to this web address here, [github.com/oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons).
 >
 > **[0:26](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/exploring-icons-for-react-native?u=76281980&t=26)** And as you scroll down, you'll see basically the information, how to install it, what is available and what are the font libraries that you have access to.
 >

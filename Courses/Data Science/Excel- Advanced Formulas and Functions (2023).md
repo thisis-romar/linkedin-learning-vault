@@ -273,7 +273,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980&t=40)** Okay, and then I'm going to get rid of the filter buttons.
 >
-> **[0:43](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980&t=43)** And notice, when my cursor is in the table, we have this Table Design Tab.
+> **[0:43](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980&t=43)** And notice, when my [[Cursor]] is in the table, we have this Table Design Tab.
 >
 > **[0:51](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980&t=51)** And it has things like Show A Header Row; Show A Total Row; Filter Button, you saw me toggle that off.
 >
@@ -469,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables-and-absolute-cell-references?u=76281980&t=28)** Right?
 >
-> **[0:29](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables-and-absolute-cell-references?u=76281980&t=29)** And then I'm going to go up here to table design with my cursor in that data set.
+> **[0:29](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables-and-absolute-cell-references?u=76281980&t=29)** And then I'm going to go up here to table design with my [[Cursor]] in that data set.
 >
 > **[0:35](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables-and-absolute-cell-references?u=76281980&t=35)** Right?
 >
@@ -785,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980&t=35)** Here we go.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980&t=37)** Cursor is in that first cell, equals if open parentheses, if what?
+> **[0:37](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980&t=37)** [[Cursor]] is in that first cell, equals if open parentheses, if what?
 >
 > **[0:44](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980&t=44)** Okay, what is our first logical test?
 >
@@ -909,7 +909,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980&t=26)** Scroll down.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980&t=28)** There is our data, all of the donations also with the cursor in the table.
+> **[0:28](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980&t=28)** There is our data, all of the donations also with the [[Cursor]] in the table.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980&t=36)** I'm going to go to table design and you can see the table's name is donations.
 >
@@ -1218,7 +1218,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/maxifs-minifs-and-averageifs?u=76281980&t=45)** We want it to be International and our maximum budget is $2,000.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/maxifs-minifs-and-averageifs?u=76281980&t=49)** And I'm going to put my cursor inside the table.
+> **[0:49](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/maxifs-minifs-and-averageifs?u=76281980&t=49)** And I'm going to put my [[Cursor]] inside the table.
 >
 > **[0:53](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/maxifs-minifs-and-averageifs?u=76281980&t=53)** We get the Table Design tab available and go over and we see that the table's name is Vacations.
 >
@@ -1367,7 +1367,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=118)** The specialization data is not in a table and that's deliberate cause I need to show you some things and this data, yeah let's go ahead and put this into a table.
 >
-> **[2:11](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=131)** The cursor is within A data set.
+> **[2:11](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=131)** The [[Cursor]] is within A data set.
 >
 > **[2:13](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=133)** I'm going to go format as table.
 >
@@ -2104,7 +2104,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/two-way-lookups?u=76281980&t=337)** And one thing, as a bonus, I'll show you this.
 >
-> **[5:39](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/two-way-lookups?u=76281980&t=339)** I'm go to table design while the cursor is inside the table.
+> **[5:39](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/two-way-lookups?u=76281980&t=339)** I'm go to table design while the [[Cursor]] is inside the table.
 >
 > **[5:45](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/two-way-lookups?u=76281980&t=345)** And I'm going to go to total row.
 >
@@ -2238,7 +2238,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/approximate-and-tiered-matches?u=76281980&t=224)** Here we go.
 >
-> **[3:46](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/approximate-and-tiered-matches?u=76281980&t=226)** Cursor's in that data set.
+> **[3:46](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/approximate-and-tiered-matches?u=76281980&t=226)** [[Cursor]]'s in that data set.
 >
 > **[3:49](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/approximate-and-tiered-matches?u=76281980&t=229)** Format it as a table.
 >
@@ -5440,7 +5440,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/unique?u=76281980&t=87)** So let's first put this data into a table.
 >
-> **[1:31](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/unique?u=76281980&t=91)** Put the cursor in that data set, format as a table.
+> **[1:31](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/unique?u=76281980&t=91)** Put the [[Cursor]] in that data set, format as a table.
 >
 > **[1:36](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/unique?u=76281980&t=96)** Let's go with this.
 >
@@ -7004,7 +7004,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980&t=12)** In column C, we want to put lookup values that will retrieve the appropriate project, but we're going to to use wildcards and I'm going to put this data into a table.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980&t=28)** The cursor is in the data set.
+> **[0:28](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980&t=28)** The [[Cursor]] is in the data set.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980&t=31)** Format as Table.
 >
@@ -7460,7 +7460,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=5)** Now, in cell B2, I want the text "date greater than or equal to 10 days", but I want the true mathematical symbol for greater than a equal to.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=17)** One way to do that, with my cursor in that cell I'm going to double click in it and put my cursor right there so I can edit.
+> **[0:17](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=17)** One way to do that, with my [[Cursor]] in that cell I'm going to double click in it and put my cursor right there so I can edit.
 >
 > **[0:27](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=27)** And I'm on the insert tab and I'm going to go over to symbols and symbol greater than or equal to is right there.
 >

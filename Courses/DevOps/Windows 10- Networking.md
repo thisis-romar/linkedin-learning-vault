@@ -1796,9 +1796,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=40)** I'll type powershell here on the task bar and click [[Windows]] PowerShell in the results.
 >
-> **[0:47](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=47)** Let's type tracert www.[[[LinkedIn]].com](https://linkedin.com).
+> **[0:47](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=47)** Let's type tracert www.[linkedin.com](https://linkedin.com).
 >
-> **[0:55](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=55)** It might take a while, but you'll see that the connection is successful, because the result ends at the LinkedIn destination.
+> **[0:55](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=55)** It might take a while, but you'll see that the connection is successful, because the result ends at the [[LinkedIn]] destination.
 >
 > **[1:02](https://www.linkedin.com/learning/windows-10-networking-22602895/use-tracert-to-troubleshoot-network-connectivity?u=76281980&t=62)** If you see asterisks, a response wasn't given from the router in the expected interval, but if you wait, you may see that eventually, data is returned from another source, provided the host can be reached in the end as you can see here.
 >
@@ -1859,7 +1859,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=25)** Let's open a [[Powershell]] window and try it out.
 >
-> **[0:30](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=30)** I'll type pathping www.[[[LinkedIn]].com](https://linkedin.com) and press Enter.
+> **[0:30](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=30)** I'll type pathping www.[linkedin.com](https://linkedin.com) and press Enter.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-networking-22602895/use-pathping-to-troubleshoot-network-connectivity?u=76281980&t=40)** This could take a little while, perhaps three or four minutes to complete on your end.
 >

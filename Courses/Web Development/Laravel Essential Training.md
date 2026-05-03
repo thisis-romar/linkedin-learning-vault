@@ -2743,13 +2743,13 @@ created: 2026-05-02
 >
 > **[8:01](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=481)** Let's look at the docs.
 >
-> **[8:03](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=483)** Go to [[[Laravel]].com](https://laravel.com), documentation, and you can search for CSRF.
+> **[8:03](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=483)** Go to [laravel.com](https://laravel.com), documentation, and you can search for CSRF.
 >
 > **[8:14](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=494)** And you can read more about the vulnerability here.
 >
 > **[8:18](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=498)** Basically, all forms that use post, put, patch, or delete requests are vulnerable to such attacks.
 >
-> **[8:26](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=506)** So Laravel automatically generates a CSRF token for each session to make sure that the authenticated user is the one making the request and not someone on the outside.
+> **[8:26](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=506)** So [[Laravel]] automatically generates a CSRF token for each session to make sure that the authenticated user is the one making the request and not someone on the outside.
 >
 > **[8:37](https://www.linkedin.com/learning/laravel-essential-training/add-a-create-method-and-view-to-show-a-form?u=76281980&t=517)** So every form on Laravel with such requests has to include a CSRF token to validate the request, and this can simply be done by adding a CSRF blade directive within the form.
 >

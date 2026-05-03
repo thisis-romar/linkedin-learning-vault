@@ -257,7 +257,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=91)** So let's look at some of the examples.
 >
-> **[1:34](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=94)** So I'm going to come back here to the [[[GitHub]].com](https://github.com) page, and I'm going to try to search for something super simple.
+> **[1:34](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=94)** So I'm going to come back here to the [github.com](https://github.com) page, and I'm going to try to search for something super simple.
 >
 > **[1:40](https://www.linkedin.com/learning/practical-github-code-search/search-qualifiers?u=76281980&t=100)** Notice that already when I click on the search box or I hit the Slash button, I get a lot of different options here.
 >
@@ -472,7 +472,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=48)** So let's take a look at some examples of this.
 >
-> **[0:51](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=51)** All right, so here I am back on [[[GitHub]].com](https://github.com).
+> **[0:51](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=51)** All right, so here I am back on [github.com](https://github.com).
 >
 > **[0:53](https://www.linkedin.com/learning/practical-github-code-search/syntax-operators?u=76281980&t=53)** You could just hit this little icon if you ever want to get to the main level here.
 >
@@ -930,7 +930,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=9)** They look so natural that you're really going to love it.
 >
-> **[0:11](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=11)** So I'm going to start off by once again being at just [[[GitHub]].com](https://github.com).
+> **[0:11](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=11)** So I'm going to start off by once again being at just [github.com](https://github.com).
 >
 > **[0:15](https://www.linkedin.com/learning/practical-github-code-search/code-results?u=76281980&t=15)** Which you can get to it just by clicking on this Mona Lisa icon here.
 >

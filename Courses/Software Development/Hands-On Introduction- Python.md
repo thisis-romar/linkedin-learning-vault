@@ -1633,7 +1633,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=67)** I'll grab the GITHUB_TOKEN, which is going to allow me to use GitHub Models in order to access my model.
 >
-> **[1:15](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=75)** I'll have an endpoint here, which is this [inference.ai](https://inference.ai).[[Microsoft Azure|azure]] endpoint, and I'll name my model, which is gpt-4o.
+> **[1:15](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=75)** I'll have an endpoint here, which is this [inference.ai](https://inference.ai).[[Microsoft Azure|azure]] endpoint, and I'll name my model, which is [[GPT-4|gpt-4o]].
 >
 > **[1:27](https://www.linkedin.com/learning/hands-on-introduction-python/openai-api?u=76281980&t=87)** gpt-4o is an extremely capable model from OpenAI.
 >

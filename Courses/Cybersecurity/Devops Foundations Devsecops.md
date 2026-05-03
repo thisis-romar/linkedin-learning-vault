@@ -778,7 +778,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=194)** Some of these have been around for a while, but some of them are a little bit newer.
 >
-> **[3:17](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=197)** [[Static [[Application Security]] Testing]], otherwise known as SAST, really looks at the source code of the application and tries to look for security vulnerabilities before it's compiled.
+> **[3:17](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=197)** [[Static Application Security Testing]], otherwise known as SAST, really looks at the source code of the application and tries to look for security vulnerabilities before it's compiled.
 >
 > **[3:27](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=207)** Most of the tools that are on the market today support multiple languages, especially the commercial ones, but the problem with these tools is that they tend to have a high false positive rate.
 >
@@ -816,7 +816,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=311)** It's lightweight and automatable.
 >
-> **[5:15](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=315)** Interactive application security testing, otherwise known as IAST, is one of the newer types of tools on the market.
+> **[5:15](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=315)** Interactive [[Application Security]] testing, otherwise known as IAST, is one of the newer types of tools on the market.
 >
 > **[5:21](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=321)** The security tests are actually happening while the application is being used.
 >

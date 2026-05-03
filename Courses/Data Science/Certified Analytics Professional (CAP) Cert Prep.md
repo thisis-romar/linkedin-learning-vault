@@ -2060,7 +2060,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=101)** After establishing this connection, you have access to the [[Representational State Transfer (REST)|rest]] of the MySQL API to manipulate the database of your choice.
 >
-> **[1:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=111)** For example, to query the database, call the cursor method on the context object cnx like this.
+> **[1:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=111)** For example, to query the database, call the [[Cursor]] method on the context object cnx like this.
 >
 > **[2:02](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=122)** The query in this case is to show employee names, along with their hire dates.
 >

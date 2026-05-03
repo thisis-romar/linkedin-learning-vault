@@ -402,7 +402,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=84)** These projects are often looking for contributors to help keep the code up-to-date.
 >
-> **[1:29](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=89)** So, you can go to [[[GitHub]].com](https://github.com) and search for your favorite open-source application, and see if you can make a contribution.
+> **[1:29](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=89)** So, you can go to [github.com](https://github.com) and search for your favorite open-source application, and see if you can make a contribution.
 >
 > **[1:37](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=97)** One of the easiest ways to get started with making open-source contributions is to update documentation.
 >
@@ -691,7 +691,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=0)** - In your opinion, what are the differences between lean [[Software Development]], [[[[Agile Software Development]]]], and [[DevOps]]?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=0)** - In your opinion, what are the differences between lean [[Software Development]], [[Agile Software Development]], and [[DevOps]]?
 >
 > **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=7)** - You're likely to get this question if you're [[Interviewing]] for a job that's closely aligned with software development.
 >

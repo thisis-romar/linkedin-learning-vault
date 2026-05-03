@@ -3879,7 +3879,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=74)** And what you'll see is the session approach utilizes a standard PowerShell commandment code, New-PSSession, which is used for remoting to other machines.
 >
-> **[1:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=84)** In this instance, the configuration name is Microsoft Exchange with a URI that points to ps.compliance.protection.[[[Microsoft Outlook|outlook]].com](https://outlook.com).
+> **[1:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=84)** In this instance, the configuration name is Microsoft Exchange with a URI that points to ps.compliance.protection.[outlook.com](https://outlook.com).
 >
 > **[1:33](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=93)** And then we pass the creds and we get a connection.
 >

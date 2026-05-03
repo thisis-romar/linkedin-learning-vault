@@ -367,7 +367,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=321)** Okay, that's where I could add an additional network adapter, if I wanted to configure a second network adapter, which again, I am going to do later on in the course, just wanted to show you that's where this is.
 >
-> **[5:31](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=331)** Beyond that you can mostly ignore most of this management stuff at the bottom, for my machine here I do actually make sure to check the box for guest services just has to do with the cursor moving in and out and stuff like that, but if I click apply and then, okay, I have now configured a computer to be ready for the installation of Windows Server 2022.
+> **[5:31](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/preparing-for-windows-server-installation?u=76281980&t=331)** Beyond that you can mostly ignore most of this management stuff at the bottom, for my machine here I do actually make sure to check the box for guest services just has to do with the [[Cursor]] moving in and out and stuff like that, but if I click apply and then, okay, I have now configured a computer to be ready for the installation of Windows Server 2022.
 
 > [!info]- Semantic Content
 >
@@ -531,7 +531,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=130)** But the other difference here is you'll notice that I don't have a graphical [[User Experience (UX)|user experience]].
 >
-> **[2:16](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=136)** Yes, there is a cursor here, but it really isn't doing anything, I can't do anything, I have to do everything with the keyboard and the arrows.
+> **[2:16](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=136)** Yes, there is a [[Cursor]] here, but it really isn't doing anything, I can't do anything, I have to do everything with the keyboard and the arrows.
 >
 > **[2:25](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installation-with-server-core?u=76281980&t=145)** Okay, and you'll see here it says the user's password, administrator user's password, must be changed before signing in, so I'm going to click OK, and I'll hit enter, and then type in the new password and confirm it, and hit enter.
 >
@@ -760,7 +760,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-sconfig?u=76281980&t=40)** Now it comes up by default, and you'll notice that in this configuration, again, it's all going to be done via the keyboard.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-sconfig?u=76281980&t=45)** There is technically a mouse cursor that you can move around, but it doesn't do anything.
+> **[0:45](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-sconfig?u=76281980&t=45)** There is technically a mouse [[Cursor]] that you can move around, but it doesn't do anything.
 >
 > **[0:50](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-sconfig?u=76281980&t=50)** I can't click on anything here to make anything happen.
 >

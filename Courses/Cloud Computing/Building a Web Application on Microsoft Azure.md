@@ -151,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=56)** Now, speaking of the tools, we're going to use, of course, .NET SDK.
 >
-> **[1:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=61)** It's the first one since this is an [[[ASP.NET]]](https://ASP.NET) core web application.
+> **[1:01](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=61)** It's the first one since this is an [ASP.NET](https://ASP.NET) core web application.
 >
 > **[1:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-need-to-know?u=76281980&t=66)** And you need an IDE.
 >
@@ -190,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=35)** The company specifically focuses on caring for dogs, cats, and rabbits.
 >
-> **[0:41](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=41)** To begin, we'll use a code base created with [[[ASP.NET]]](https://ASP.NET) Core and the C# programming language.
+> **[0:41](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=41)** To begin, we'll use a code base created with [ASP.NET](https://ASP.NET) Core and the C# programming language.
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/what-you-are-going-to-build?u=76281980&t=47)** This web application uses the Entity Framework Core and it's in-memory data provider.
 >
@@ -242,7 +242,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=0)** - [Instructor] After a few days of work, you have a functional first version of the path management application.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=6)** You built it using [[[ASP.NET]]](https://ASP.NET) Core and the C# programming language.
+> **[0:06](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=6)** You built it using [ASP.NET](https://ASP.NET) Core and the C# programming language.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980&t=12)** You're using Entity Framework Core within memory data provider for data access.
 >
@@ -1423,7 +1423,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=32)** As you can see, this kind of pages are a combination of [[HTML]] and the Razor pages syntax.
 >
-> **[0:39](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=39)** If you're not familiar with Razor pages or the [[[ASP.NET]]](https://asp.net) core framework, don't worry, okay?
+> **[0:39](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=39)** If you're not familiar with Razor pages or the [asp.net](https://asp.net) core framework, don't worry, okay?
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/modifying-the-user-interface-to-upload-photos?u=76281980&t=47)** This is going to be easy.
 >
@@ -2411,7 +2411,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=137)** In this case, let's use 10 seconds and we're ready to go.
 >
-> **[2:24](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=144)** In this case, I want to use another step which is the [[[Microsoft Outlook|outlook]].com](https://outlook.com) action.
+> **[2:24](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=144)** In this case, I want to use another step which is the [outlook.com](https://outlook.com) action.
 >
 > **[2:31](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/creating-the-azure-logic-app-resource-for-sending-an-email?u=76281980&t=151)** Specifically, I want to send an email.
 >

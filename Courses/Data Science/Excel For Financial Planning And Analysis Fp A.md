@@ -399,7 +399,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=87)** Let's talk through a very basic example first.
 >
-> **[1:31](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=91)** Again, I'm going to go all the way here to the right, all the way down, and I'm going to put my cursor here at M4980.
+> **[1:31](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=91)** Again, I'm going to go all the way here to the right, all the way down, and I'm going to put my [[Cursor]] here at M4980.
 >
 > **[1:39](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=99)** We'll use a function here called SUMIFS.
 >
@@ -531,7 +531,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=90)** And on insert, I have this icon that says table.
 >
-> **[1:33](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=93)** When I put my cursor over it, it says, create a table to organize and analyze related data.
+> **[1:33](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=93)** When I put my [[Cursor]] over it, it says, create a table to organize and analyze related data.
 >
 > **[1:38](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=98)** Tables make it easy to sort, filter and format data within a sheet.
 >
@@ -770,7 +770,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=221)** For the sake of simplicity, I'm not going to make any major changes, and I'm going to go over here to my home ribbon.
 >
-> **[3:47](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=227)** When I put my cursor over here onto Close & Load, it gives me this option of either close & load or close & load to.
+> **[3:47](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=227)** When I put my [[Cursor]] over here onto Close & Load, it gives me this option of either close & load or close & load to.
 >
 > **[3:54](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=234)** I'm going to select close & load to.
 >
@@ -988,7 +988,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=210)** If I go control shift space bar in my name box, you see that this is called US Sales by Region Data.
 >
-> **[3:38](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=218)** If I move my cursor all the way to the right and all the way down there you see that I have my data wedge all the way down at R4977.
+> **[3:38](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=218)** If I move my [[Cursor]] all the way to the right and all the way down there you see that I have my data wedge all the way down at R4977.
 >
 > **[3:49](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=229)** By formatting this data table as a dynamic table named US Sales by Region data, this allows me to be able to call on it by name no matter how big or small it gets.
 >
@@ -1650,7 +1650,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980&t=51)** Now, when I select this dropdown, you can see that I have my list of dates all the way from January down to December.
 >
-> **[0:58](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980&t=58)** Now, if I put my cursor on each one of these formulas, you'll recognize the consistency that we have.
+> **[0:58](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980&t=58)** Now, if I put my [[Cursor]] on each one of these formulas, you'll recognize the consistency that we have.
 >
 > **[1:04](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980&t=64)** What this is doing is it is summing an INDEX MATCH to an INDEX MATCH, all being driven by these dates up here in N2 and N3.
 >
@@ -1773,7 +1773,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-xlookup-for-dynamic-ranges?u=76281980&t=44)** I'm going to move all the way down here to row 47.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-xlookup-for-dynamic-ranges?u=76281980&t=51)** I'm going to put my cursor here, so you can see what it is that I'm doing.
+> **[0:51](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-xlookup-for-dynamic-ranges?u=76281980&t=51)** I'm going to put my [[Cursor]] here, so you can see what it is that I'm doing.
 >
 > **[0:55](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-xlookup-for-dynamic-ranges?u=76281980&t=55)** Now I've used XLOOKUP to identify the value of Secondary Research, row 34, for January.
 >
@@ -2444,7 +2444,7 @@ created: 2026-05-02
 >
 > **[8:17](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980&t=497)** It should appear in my Quick Access Toolbar, and then click OK.
 >
-> **[8:22](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980&t=502)** Now, you will note that at the very top of your ribbon, you're going to have this camera icon, and when you put your cursor on top of it, it is in fact going to say Camera.
+> **[8:22](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980&t=502)** Now, you will note that at the very top of your ribbon, you're going to have this camera icon, and when you put your [[Cursor]] on top of it, it is in fact going to say Camera.
 >
 > **[8:31](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980&t=511)** Now, take a look.
 >
@@ -2904,7 +2904,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=297)** Now why am I doing this?
 >
-> **[4:59](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=299)** If I were to put my cursor here and you say, well, what is sort order?
+> **[4:59](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=299)** If I were to put my [[Cursor]] here and you say, well, what is sort order?
 >
 > **[5:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=303)** Remember, my options are I can do a positive one for ascending, a negative one for descending.
 >

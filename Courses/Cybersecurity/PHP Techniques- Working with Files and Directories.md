@@ -1249,7 +1249,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=18)** It does that using the file pointer.
 >
-> **[0:21](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=21)** The file pointer is similar to the cursor in a [[Microsoft Word|word]] processing application.
+> **[0:21](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=21)** The file pointer is similar to the [[Cursor]] in a [[Microsoft Word|word]] processing application.
 >
 > **[0:26](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=26)** You can move the file pointer forward, and backwards through the characters in a file, and you can choose a position to start reading or writing from the file.
 >

@@ -517,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=6)** The easiest and quickest way to get started is to click your mouse right at the top of the screen where it says Search.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=13)** You'll notice that when you put your cursor in there, a dialogue box pops up with some recent searches that you may have made, people whose emails you might like to see, some recently used actions, if you've typed anything in there before, and some suggested actions.
+> **[0:13](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=13)** You'll notice that when you put your [[Cursor]] in there, a dialogue box pops up with some recent searches that you may have made, people whose emails you might like to see, some recently used actions, if you've typed anything in there before, and some suggested actions.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/search-your-mail?u=76281980&t=27)** For example, you can filter your email right from here but I'm going to get started by simply putting in a [[Microsoft Word|word]] that I'm looking for.
 >
@@ -709,7 +709,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=110)** Now, we've already done this a little bit but reinforcement is good so I want to show you one more time.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=116)** We'll fill out the to field, the subject as normal and then put your cursor in the body of the email.
+> **[1:56](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=116)** We'll fill out the to field, the subject as normal and then put your [[Cursor]] in the body of the email.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/work-with-attachments?u=76281980&t=122)** From here, click the paperclip icon in the ribbon.
 >

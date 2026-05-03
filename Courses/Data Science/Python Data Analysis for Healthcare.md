@@ -153,7 +153,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] To get started with the exercise files provided in this course, go to colab.research.[[[Google]].com](https://google.com).
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] To get started with the exercise files provided in this course, go to colab.research.[google.com](https://google.com).
 >
 > **[0:09](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=9)** And then on the left pane, click on File, Upload notebook.
 >
@@ -448,7 +448,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980&t=8)** First, we upload the demo_hospital_outpatient_data.csv that is provided in the exercise files.
 >
-> **[0:18](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980&t=18)** We will be using [[Pandas (Software)|pandas]], a [[[[Python (Programming Language)|Python]] Data Analysis]] library, so import pandas as pd.
+> **[0:18](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980&t=18)** We will be using [[Pandas (Software)|pandas]], a [[Python Data Analysis]] library, so import pandas as pd.
 >
 > **[0:26](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980&t=26)** Now let's read the data into a data frame named df_visit, meaning df_visit data frame of visit pd.read_csv.
 >
@@ -3527,7 +3527,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=0)** - This is the end of the [[[[Python (Programming Language)|Python]] Data Analysis]] for Healthcare Course.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=0)** - This is the end of the [[Python Data Analysis]] for Healthcare Course.
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=5)** If you made it this far, congratulations.
 >

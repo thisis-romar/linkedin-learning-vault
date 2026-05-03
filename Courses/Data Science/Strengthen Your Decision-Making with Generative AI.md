@@ -773,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-gen-ai-to-include-stakeholder-perspectives?u=76281980&t=32)** So let's think about those other people so you can imagine a positive conversation with them about your decision and increase the likelihood of your decision's success.
 >
-> **[0:43](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-gen-ai-to-include-stakeholder-perspectives?u=76281980&t=43)** You'll divide this process into two parts, your part and GenAI's.
+> **[0:43](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-gen-ai-to-include-stakeholder-perspectives?u=76281980&t=43)** You'll divide this process into two parts, your part and [[Generative AI|GenAI]]'s.
 >
 > **[0:48](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-gen-ai-to-include-stakeholder-perspectives?u=76281980&t=48)** First, make a list of the people who will be impacted by your decision or play a role in the outcome.
 >
@@ -1015,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980&t=114)** I said, "Pull key insights "from this hybrid car snow survey data."
 >
-> **[2:00](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980&t=120)** Using your preferred GenAI, upload the spreadsheet or copy the data into the AI engine and ask it to pull key insights from the data that may be important in your buying process.
+> **[2:00](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980&t=120)** Using your preferred [[Generative AI|GenAI]], upload the spreadsheet or copy the data into the AI engine and ask it to pull key insights from the data that may be important in your buying process.
 >
 > **[2:13](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980&t=133)** This practice will prepare you to use GenAI to examine a data set.
 >
@@ -1060,7 +1060,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=0)** - Congratulations, you've completed your journey through the Dreams Framework, where we've unlocked the power of gen AI to enhance your [[Decision-Making]].
+> **[0:00](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=0)** - Congratulations, you've completed your journey through the Dreams Framework, where we've unlocked the power of [[Generative AI|gen AI]] to enhance your [[Decision-Making]].
 >
 > **[0:09](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=9)** Thank you for your dedication and enthusiasm throughout the course.
 >

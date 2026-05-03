@@ -87,13 +87,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=0)** - [Instructor] Assuming your request for access to the service was granted by [[Microsoft]], you'll be able to log in with your organization account to this site, oai.[[[Microsoft Azure|azure]].com](https://azure.com).
+> **[0:00](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=0)** - [Instructor] Assuming your request for access to the service was granted by [[Microsoft]], you'll be able to log in with your organization account to this site, oai.[azure.com](https://azure.com).
 >
 > **[0:11](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=11)** On the left rail is the playground and management links but before you explore the playground, you need to have a deployed OpenAI service.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=19)** There are three criteria for getting this AI playground ready.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=22)** First, have an Azure Resource Group.
+> **[0:22](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=22)** First, have an [[Microsoft Azure|Azure]] Resource Group.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980&t=24)** Second in that group, create an OpenAI service.
 >

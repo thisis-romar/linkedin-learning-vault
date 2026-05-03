@@ -206,11 +206,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=33)** And, you also should already have the fundamentals of working with PHP in an object-oriented way.
 >
-> **[0:40](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=40)** I covered these concepts in '[[PHP- [[Object-Oriented Programming (OOP)|Object-Oriented Programming]]]],' and you can refer back to that if you need some extra help.
+> **[0:40](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=40)** I covered these concepts in '[[PHP- Object-Oriented Programming]],' and you can refer back to that if you need some extra help.
 >
 > **[0:47](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=47)** You don't have to take these exact courses, but you should be fluent in all of the concepts that are there, because this course is going to merge those concepts, the concepts of working with PHP and a database, along with the concepts of working with PHP in an object-oriented way.
 >
-> **[1:03](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=63)** And that's going to be very powerful, because object-oriented programming is going to offer us many benefits when we're working with [[Databases]], and that's what we want to explore in this course.
+> **[1:03](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=63)** And that's going to be very powerful, because [[Object-Oriented Programming (OOP)|object-oriented programming]] is going to offer us many benefits when we're working with [[Databases]], and that's what we want to explore in this course.
 >
 > **[1:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=73)** There are also some preparations you should have in advance, you should make sure that you have a web server that's running, you should be able to identify your web document root, that is the place that you can put your files so that your web server will serve them out to you, you should ensure that PHP is installed and working.
 >

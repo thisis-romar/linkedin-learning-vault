@@ -4268,7 +4268,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=7)** We barely scratched the surface of [[Spring Data]]'s capabilities, so for more details, check out my course, Spring Data.
 >
-> **[0:14](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=14)** And if you want to learn more about Docker, I have an [[Introduction to Docker for [[Java]] Developers]] course.
+> **[0:14](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=14)** And if you want to learn more about Docker, I have an [[Introduction to Docker for Java Developers]] course.
 >
 > **[0:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=21)** I hope you enjoyed shadowing me, and I hope this helps you in your spring [[Application Development]].
 

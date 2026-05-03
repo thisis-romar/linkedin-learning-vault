@@ -711,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=4)** The first is Fitts's Law. Fitts's Law is the psychological principle behind how long it takes your hand to travel to an object, and how the size of the target influences that time frame. Let's take a look at what that means. In this very simplified example, if you were trying to use your mouse to travel from the bottom right corner and click on one of these squares, you'll find that it's more difficult to click on the smaller object because of its small size and how far it is from where your mouse was.
 >
-> **[0:34](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=34)** The larger object would be easier to click, because it's bigger and it's closer to where your cursor was. We take this principle into consideration when we design interfaces, because we need to ensure our targets our big enough for users to interact with while reducing errors.
+> **[0:34](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=34)** The larger object would be easier to click, because it's bigger and it's closer to where your [[Cursor]] was. We take this principle into consideration when we design interfaces, because we need to ensure our targets our big enough for users to interact with while reducing errors.
 >
 > **[0:51](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980&t=51)** A small example of this is using a primary button for stronger calls to action while using a link for secondary actions. In this call-to-action Sign In, when we treat it as a link, it's a much more difficult target to click on in comparison to the button.
 >
@@ -756,7 +756,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=30)** They don't work as well for situations in which a user is better off selecting from a list of options rather than entering information directly.
 >
-> **[0:39](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=39)** Text inputs have four key states: the default state, in which no data has been entered, the active state, in which a cursor has entered the field, and an error state.
+> **[0:39](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=39)** Text inputs have four key states: the default state, in which no data has been entered, the active state, in which a [[Cursor]] has entered the field, and an error state.
 >
 > **[0:51](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/text-input?u=76281980&t=51)** There is also a disabled state, but that's often used on a case-by-case basis.
 >
@@ -1708,7 +1708,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=22)** Download the handouts as a guide to help you with your next project.
 >
-> **[0:26](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=26)** You can check out my other courses, [[Interaction Design- Structure]] and [[UX Foundations- [[Prototyping]]]] to learn more, relevant material.
+> **[0:26](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=26)** You can check out my other courses, [[Interaction Design- Structure]] and [[UX Foundations- Prototyping]] to learn more, relevant material.
 >
 > **[0:35](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980&t=35)** If you have any follow-up questions, feel free to post them on the Q&A on this course's page.
 >

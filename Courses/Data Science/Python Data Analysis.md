@@ -364,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-24296803/warmup-with-python-loops?u=76281980&t=0)** - [Instructor] We begin every video by importing the standard set of [[Python (Programming Language)|Python]] modules that we will need throughout this course.
 >
-> **[0:07](https://www.linkedin.com/learning/python-data-analysis-24296803/warmup-with-python-loops?u=76281980&t=7)** This cell does that, so we execute it by selecting it with a cursor and pressing Shift + Return.
+> **[0:07](https://www.linkedin.com/learning/python-data-analysis-24296803/warmup-with-python-loops?u=76281980&t=7)** This cell does that, so we execute it by selecting it with a [[Cursor]] and pressing Shift + Return.
 >
 > **[0:15](https://www.linkedin.com/learning/python-data-analysis-24296803/warmup-with-python-loops?u=76281980&t=15)** If you've written computer code before, you must be familiar with loops.
 >

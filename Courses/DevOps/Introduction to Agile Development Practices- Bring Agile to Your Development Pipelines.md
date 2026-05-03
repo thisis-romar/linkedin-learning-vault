@@ -296,7 +296,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=0)** - [Instructor] One of the greatest advantages of [[[[Agile Software Development]]]] is its focus on iteration.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=0)** - [Instructor] One of the greatest advantages of [[Agile Software Development]] is its focus on iteration.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=6)** That being said, because the code base is going to be updated so frequently, it does need to be able to handle heavy iteration without architecture overhauls every sprint.
 >
@@ -484,7 +484,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=147)** If you want to run your Agile project using some other methodology or technique, go right ahead.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=152)** You'll still be running an Agile project if you stick to the tenets and philosophy of [[[[Agile Software Development]]]].
+> **[2:32](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=152)** You'll still be running an Agile project if you stick to the tenets and philosophy of [[Agile Software Development]].
 
 > [!info]- Semantic Content
 >
@@ -756,7 +756,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=9)** Since there's always more to learn and more to create, let's wrap things up with an overview of all the text resources I mentioned during the course.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=19)** First up, we've got "[[[[Agile Software Development]]]]: "Principles, Patterns, and Practices" by Robert C. Martin and "Clean Code: A Handbook "of Agile Software Craftsmanship", also by Robert C. Martin.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=19)** First up, we've got "[[Agile Software Development]]: "Principles, Patterns, and Practices" by Robert C. Martin and "Clean Code: A Handbook "of Agile Software Craftsmanship", also by Robert C. Martin.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=31)** We have "Refactoring: Improving the Design of Existing Code" by Kent Beck and Martin Fowler.
 >

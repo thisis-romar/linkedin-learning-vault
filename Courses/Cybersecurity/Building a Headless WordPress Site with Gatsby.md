@@ -280,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=31)** If you want to go down this path, you can pick up a Gatsby Starter for WordPress, and it's available directly from Gatsby.
 >
-> **[0:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=38)** Go to [[[GatsbyJS]].com/starters](https://gatsbyjs.com/starters), and then I just type in WordPress, and you'll find whatever Gatsby Starters for WordPress are available.
+> **[0:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=38)** Go to [gatsbyjs.com/starters](https://gatsbyjs.com/starters), and then I just type in WordPress, and you'll find whatever Gatsby Starters for WordPress are available.
 >
 > **[0:46](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=46)** Just install it, run it, link it up to your WordPress site, and you're good to go.
 >
@@ -4088,7 +4088,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=5)** Before you go, here are a few important websites and resources to keep in mind as you get started.
 >
-> **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=9)** First, for information on Gatsby, including starters, plug-ins, documentation, webinars, conferences, community, anything Gatsby related, check out [[[GatsbyJS]].com](https://gatsbyjs.com).
+> **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=9)** First, for information on Gatsby, including starters, plug-ins, documentation, webinars, conferences, community, anything Gatsby related, check out [gatsbyjs.com](https://gatsbyjs.com).
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=20)** For information of about WP [[GraphQL]], including in-depth tutorials, documentation, and explanations on how to use and extend this interface, check out [wpgraphql.com](https://wpgraphql.com).
 >

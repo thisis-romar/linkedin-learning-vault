@@ -1134,7 +1134,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=85)** This helps in [[Forecasting]] in the case of sales and budgets.
 >
-> **[1:29](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=89)** Gen AI is capable of creating new content based on existing data and can help analysts create summaries and reports.
+> **[1:29](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=89)** [[Generative AI|Gen AI]] is capable of creating new content based on existing data and can help analysts create summaries and reports.
 
 > [!info]- Semantic Content
 >

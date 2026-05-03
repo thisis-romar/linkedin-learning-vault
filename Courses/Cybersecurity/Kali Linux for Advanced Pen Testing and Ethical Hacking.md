@@ -444,7 +444,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=265)** Okay, we'll go to /usr/share and we'll sudo [[Git]] clone
 >
-> **[4:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=275)** https:// [[[GitHub]].com/[[OWASP]]/joomscan.git](https://github.com/OWASP/joomscan.git).
+> **[4:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=275)** https:// [github.com/OWASP/joomscan.git](https://github.com/OWASP/joomscan.git).
 >
 > **[4:49](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=289)** Okay, that's done.
 >
@@ -2674,7 +2674,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=51)** Ls, ls.
 >
-> **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=54)** Oh, we can see an [[[ASP.NET]]](https://ASP.NET) client folder and an IIS start file.
+> **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=54)** Oh, we can see an [ASP.NET](https://ASP.NET) client folder and an IIS start file.
 >
 > **[1:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=61)** Let's have a look in the [ASP.NET](https://ASP.NET) client and see what's there.
 >
@@ -3109,7 +3109,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=31)** Its IP address is 10.10.10.149.
 >
-> **[0:36](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=36)** The first thing we need to do is download the PrintNightmare proof of concept, which we'll rename to just nightmare, sudo [[Git]] clone [https://[[GitHub]].com/calebstewart/CVE-2021](https://github.com/calebstewart/CVE-2021)-
+> **[0:36](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=36)** The first thing we need to do is download the PrintNightmare proof of concept, which we'll rename to just nightmare, sudo [[Git]] clone [https://github.com/calebstewart/CVE-2021](https://github.com/calebstewart/CVE-2021)-
 >
 > **[1:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=60)** 1675.git, and we'll call it just nightmare.
 >

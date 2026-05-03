@@ -1063,7 +1063,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=109)** Additionally, design choices impact user perception.
 >
-> **[1:53](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=113)** Some language model interfaces have a blinking cursor and seem to type generated text letter-by-letter, giving the impression the tool is thinking and communicating the way a human would.
+> **[1:53](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=113)** Some language model interfaces have a blinking [[Cursor]] and seem to type generated text letter-by-letter, giving the impression the tool is thinking and communicating the way a human would.
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=124)** However, this is a design choice rather than an example of AI intelligence.
 >
@@ -1581,7 +1581,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=202)** One risk generative AI poses is around content integrity.
 >
-> **[3:27](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=207)** Gen AI can be used to create realistic content that can deceive, manipulate, or harm users, such as social engineering or deepfake images.
+> **[3:27](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=207)** [[Generative AI|Gen AI]] can be used to create realistic content that can deceive, manipulate, or harm users, such as social engineering or deepfake images.
 >
 > **[3:37](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=217)** This poses a unique challenges to auditors who should evaluate how generative AI systems are secured against internal and external threats.
 >

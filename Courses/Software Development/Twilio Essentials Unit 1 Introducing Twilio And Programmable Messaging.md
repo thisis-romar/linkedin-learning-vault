@@ -386,7 +386,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=151)** Let's take a quick look at what it feels like in practice.
 >
-> **[2:35](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=155)** So these are the docs here, [[[Twilio]].com/docs](https://Twilio.com/docs).
+> **[2:35](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=155)** So these are the docs here, [Twilio.com/docs](https://Twilio.com/docs).
 >
 > **[2:39](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=159)** Now, reminder to check the notes for updates as these of most likely changed.
 >
@@ -400,7 +400,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=184)** So I'm going to click into that.
 >
-> **[3:08](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=188)** Twilio provides helper libraries in many languages and you can see that I can change between them here.
+> **[3:08](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=188)** [[Twilio]] provides helper libraries in many languages and you can see that I can change between them here.
 >
 > **[3:14](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=194)** You can see the different languages that happen here and you'll notice that in all of them, they feel pretty similar.
 >

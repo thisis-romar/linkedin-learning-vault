@@ -885,7 +885,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learn-online-learning-in-person?u=76281980&t=224)** And of course, you can use AI here too.
 >
-> **[3:47](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learn-online-learning-in-person?u=76281980&t=227)** If you're thinking about taking an online or in-person course, paste the course description or syllabus into your favorite Gen AI tool and ask, what skills am I likely to learn?
+> **[3:47](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learn-online-learning-in-person?u=76281980&t=227)** If you're thinking about taking an online or in-person course, paste the course description or syllabus into your favorite [[Generative AI|Gen AI]] tool and ask, what skills am I likely to learn?
 >
 > **[3:59](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learn-online-learning-in-person?u=76281980&t=239)** What are some alternative contexts that would help me learn this topic?
 >

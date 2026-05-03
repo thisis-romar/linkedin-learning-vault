@@ -378,7 +378,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/explore-generative-ai-learning-experiences?u=76281980&t=15)** In today's world, creating learning experiences takes time, resources and planning.
 >
-> **[0:22](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/explore-generative-ai-learning-experiences?u=76281980&t=22)** But by embracing the potential of generative AI or gen AI, organizations can simplify this process with speed.
+> **[0:22](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/explore-generative-ai-learning-experiences?u=76281980&t=22)** But by embracing the potential of generative AI or [[Generative AI|gen AI]], organizations can simplify this process with speed.
 >
 > **[0:31](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/explore-generative-ai-learning-experiences?u=76281980&t=31)** In this lesson, I'll show you how generative AI is reshaping the creation of personalized learning content.
 >

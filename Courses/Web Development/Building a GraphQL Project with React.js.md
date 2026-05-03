@@ -1161,7 +1161,7 @@ created: 2026-05-02
 >
 > **[11:01](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=661)** So cursors are like IDs but they're IDs that are relevant to the edges.
 >
-> **[11:07](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=667)** So in here, right next to edges, I put in a cursor qualifier here then it's going to give me a separate ID.
+> **[11:07](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=667)** So in here, right next to edges, I put in a [[Cursor]] qualifier here then it's going to give me a separate ID.
 >
 > **[11:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=678)** And this ID is going to relate to how I am paginating my document.
 >
@@ -2554,7 +2554,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=25)** And to do that, I'll kind of show you what you need to do in this GraphQL Explorer.
 >
-> **[0:30](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=30)** We're going to need to track a set of edges, and inside those edges, we are going to track a cursor.
+> **[0:30](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=30)** We're going to need to track a set of edges, and inside those edges, we are going to track a [[Cursor]].
 >
 > **[0:40](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=40)** A cursor is like an ID that identifies each one of the nodes and gives it an ID that you can use for pagination.
 >

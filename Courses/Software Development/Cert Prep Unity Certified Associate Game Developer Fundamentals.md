@@ -660,7 +660,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=188)** I can also move to my viewport, and left click on individual items to select them individually.
 >
-> **[3:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=195)** For example, I can move my mouse cursor over the yellow unity hat here on the workbench, left click to select that, and you can see that it selects that object.
+> **[3:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=195)** For example, I can move my mouse [[Cursor]] over the yellow unity hat here on the workbench, left click to select that, and you can see that it selects that object.
 >
 > **[3:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/working-with-the-interface?u=76281980&t=206)** You can also double click on objects to more closely select them.
 >
@@ -843,7 +843,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=209)** All you need to do is to press the Escape key at the top left-hand side of your keyboard.
 >
-> **[3:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=215)** That will give you control back of your mouse cursor and you can press the play button again, to stop playback and restore the unity editor back to its normal state.
+> **[3:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=215)** That will give you control back of your mouse [[Cursor]] and you can press the play button again, to stop playback and restore the unity editor back to its normal state.
 >
 > **[3:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/scene-vs-game-mode?u=76281980&t=226)** You can also enter and stop play mode by using the keyboard shortcut Control + P on a [[Windows]] PC or Command + P on a Mac.
 >
@@ -1037,7 +1037,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=45)** And I'm going to start by panning around inside the viewport.
 >
-> **[0:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=49)** The way you can do that, first of all, using the mouse, is by moving your mouse cursor up here, left click on the hand tool.
+> **[0:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=49)** The way you can do that, first of all, using the mouse, is by moving your mouse [[Cursor]] up here, left click on the hand tool.
 >
 > **[0:58](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/viewing-in-the-scene-tab?u=76281980&t=58)** Now, when you click on the hand tool, you can move into the viewport.
 >
@@ -1272,7 +1272,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=187)** It lets me move stuff around.
 >
-> **[3:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=189)** Now to move this cube around, all I need to do is move my mouse cursor in the direction that I want to move the cube.
+> **[3:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=189)** Now to move this cube around, all I need to do is move my mouse [[Cursor]] in the direction that I want to move the cube.
 >
 > **[3:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/transforming-game-objects?u=76281980&t=196)** So, in this case, it needs to move more to the right and certainly up.
 >
@@ -1962,7 +1962,7 @@ created: 2026-05-02
 >
 > **[9:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=561)** For example, a value of two to make it twice as bright.
 >
-> **[9:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=565)** Or I can move my mouse cursor over the intensity field.
+> **[9:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=565)** Or I can move my mouse [[Cursor]] over the intensity field.
 >
 > **[9:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/hierarchies?u=76281980&t=570)** And you'll see that in the cursor, I get a left and a right arrow appear beside the cursor.
 >
@@ -2083,7 +2083,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=237)** And with this object selected I'm going to hold down the V key, the V key on the keyboard for [[Vertex]] Snap, and in holding down the V key on the keyboard and still holding down the V key.
 >
-> **[4:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=251)** As I move my mouse cursor around you will see that the cursor is actually snapping to different corner points on this object.
+> **[4:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=251)** As I move my mouse [[Cursor]] around you will see that the cursor is actually snapping to different corner points on this object.
 >
 > **[4:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/snapping?u=76281980&t=262)** The idea here is I want to move down to the bottom corner here, this corner.
 >
@@ -3756,7 +3756,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=256)** And when I choose save Unity will process through our project and build the final game that we can run as an independent project.
 >
-> **[4:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=264)** Now, when the build process is completed Unity will open a [[Windows]] Explorer or Mac finder window and present you with the final build which where I'm hovering my cursor which you can double click to launch as a standalone application here.
+> **[4:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=264)** Now, when the build process is completed Unity will open a [[Windows]] Explorer or Mac finder window and present you with the final build which where I'm hovering my [[Cursor]] which you can double click to launch as a standalone application here.
 >
 > **[4:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/building-and-deployment?u=76281980&t=280)** So now this is my game running just as before but this time it's running as a standalone application.
 >

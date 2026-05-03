@@ -356,7 +356,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=151)** To do so, you can use the command module.
 >
-> **[2:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=153)** Type in clear, and then type in ansible, space, rhhost2.[localnet.com](https://localnet.com), space, dash, m, space, command, for the command module, space, dash, a, space, single quote, and for arguments, type in ping, space, dash, c1, space, [[[Google]].com](https://google.com), single quote, or you could use another URL, and hit enter.
+> **[2:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=153)** Type in clear, and then type in ansible, space, rhhost2.[localnet.com](https://localnet.com), space, dash, m, space, command, for the command module, space, dash, a, space, single quote, and for arguments, type in ping, space, dash, c1, space, [google.com](https://google.com), single quote, or you could use another URL, and hit enter.
 >
 > **[2:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=176)** This will use the command module to run the ping command, to send one ping packet to [google.com](https://google.com).
 >
@@ -545,7 +545,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=74)** The second monitoring server is also a remote logging server.
 >
-> **[1:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=78)** We may also have [[Windows]] based [[[ASP.NET]]](https://ASP.net) application servers or perhaps [[Active Directory]] servers as well.
+> **[1:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=78)** We may also have [[Windows]] based [ASP.net](https://ASP.net) application servers or perhaps [[Active Directory]] servers as well.
 >
 > **[1:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=84)** The network devices might also be managed by Ansible but we won't get in to either of these scenarios in this course.
 >
