@@ -175,7 +175,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Nmap]] (3), [[Cybersecurity]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (3), [[Cybersecurity]] (2), [[GPT-4|Gpt-4o]] (1), [[ChatGPT]] (1)
 > **Versions:** 182.168.1 (1), 1.5 (1), 98.5 (1), 4.6 (1)
 > **CLI Commands:** make (1), find (1), ssh (1)
 > **Env Vars:** ssh (1), gpt (1)
@@ -865,7 +865,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (1)
+> **Frameworks & Libraries:** [[Red Teaming]] (1), [[GPT-4|Gpt-4o]] (1)
 > **File Paths:** bethany.py (2)
 > **Env Vars:** api (1), gpt (1)
 > **CLI Commands:** python3 (1)
@@ -1050,7 +1050,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (9), [[Python (Programming Language)|Python]] (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (9), [[Python (Programming Language)|Python]] (1), [[OpenAI API]] (1), [[GPT-4|Gpt-4o]] (1)
 > **Env Vars:** rag (5), api (1), gpt (1), llm (1)
 > **CLI Commands:** python3 (2), python (1), make (1), pip (1)
 > **File Paths:** main.py (4)

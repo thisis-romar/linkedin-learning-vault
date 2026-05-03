@@ -145,7 +145,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Cloud Computing]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Cloud Computing]] (2), [[LinkedIn]] (1), [[Generative AI|Genai]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - generative (1)
 
@@ -411,7 +411,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (2), [[AWS SageMaker]] (2), [[Microsoft Azure]] (2), [[Cloud Computing]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (2), [[AWS SageMaker]] (2), [[Microsoft Azure]] (2), [[GPT-4|Gpt4]] (2)
 > **Env Vars:** aws (2), gpt4 (2), ide (1), gpt3 (1), api (1)
 > **Cross-References:** previous video (1), we mentioned (1), we covered (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -458,7 +458,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI|Genai]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -473,7 +473,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[System Architecture]] (1), [[Data Pipelines]] (1), [[Fine Tuning]] (1), [[Cloud Services]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[System Architecture]] (1), [[Data Pipelines]] (1), [[Fine Tuning]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** rrnn (1)
 > **Analogies:** such as (1)
@@ -489,7 +489,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (2), [[Generative AI]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[MLOps]] (2), [[Generative AI]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** aws (1), gpt (1), bert (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
@@ -593,7 +593,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[Microsoft Products|Products]] (2), [[E-Commerce]] (1), [[Algorithms]] (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Microsoft Products|Products]] (2), [[Generative AI|Gen ai]] (1), [[E-Commerce]] (1), [[Algorithms]] (1)
 > **Definitions:** known as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -752,7 +752,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Continuous Monitoring]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Continuous Monitoring]] (1), [[Tokens]] (1)
 > **Env Vars:** gdpr (1), hipaa (1)
 > **Speakers:** - [instructor] (1)
 
@@ -766,7 +766,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (3), [[MLOps]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Version Control]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[DevOps]] (3), [[MLOps]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Version Control]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cicd (1)
 > **Speakers:** - [narrator] (1)
@@ -781,7 +781,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (1), [[Data Processing]] (1), [[Continuous Monitoring]] (1), [[Serverless Computing]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[MLOps]] (1), [[Data Processing]] (1), [[Continuous Monitoring]] (1), [[Serverless Computing]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** cd (1)
 > **Env Vars:** tpu (1)
@@ -991,7 +991,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Data Privacy]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (4), [[Decision-Making]] (1), [[Data Privacy]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 

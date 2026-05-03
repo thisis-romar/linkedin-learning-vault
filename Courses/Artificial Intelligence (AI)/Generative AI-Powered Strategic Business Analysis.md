@@ -221,7 +221,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Generative AI|Genai]] (1), [[Customer Support]] (1)
 > **Analogies:** for instance (2), picture (1), for example (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)

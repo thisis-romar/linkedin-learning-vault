@@ -101,7 +101,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Generative AI|Genai]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - congratulations (1)
@@ -123,7 +123,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[Generative AI|Gen ai]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - while (1)
@@ -138,7 +138,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - as (1)
@@ -217,7 +217,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1), [[Generative AI]] (1), [[Content Creation]] (1)
 > **Speakers:** - to (1)
 
 
@@ -237,7 +237,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** nlp (1)
 > **Cross-References:** we discussed (1)

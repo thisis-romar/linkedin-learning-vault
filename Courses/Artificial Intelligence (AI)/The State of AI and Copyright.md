@@ -126,7 +126,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI|Gen ai]] (1)
 > **Speakers:** - we (1), - it (1), - yeah (1), - no (1), - matt (1)
 > **CLI Commands:** make (1)
 
@@ -162,7 +162,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Mining]] (2), [[Microsoft Office|Office]] (2), [[Generative AI]] (1), [[Copyright Law]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[Microsoft Office|Office]] (2), [[Generative AI|Gen ai]] (1), [[Generative AI]] (1), [[Copyright Law]] (1)
 > **Speakers:** - and (3), - so (3), - yeah (2), - the (1), - it (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (3)
@@ -357,7 +357,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Generative AI|Gen ai]] (2)
 > **Speakers:** - i (4), - mm (2), - yeah (2), - and (1), - absolutely (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)

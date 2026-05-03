@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 13
+louvain_cluster: 5
 tags:
   - professional-certificate
   - topic/devops

@@ -36,3 +36,5 @@ Windows privilege escalation awesome script — enumerates Windows privesc vecto
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

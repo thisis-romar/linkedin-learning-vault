@@ -137,6 +137,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** in the next (1), later in (1)
 > **CLI Commands:** make (1)

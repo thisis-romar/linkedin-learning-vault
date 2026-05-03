@@ -216,10 +216,11 @@ created: 2026-05-03
 >
 > **[6:16](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/insert-symbols-bullet-points-stars-and-francois?u=76281980&t=376)** We've got plus, minus. A capital A with a circumflex, and there are codes underneath. And there's even a code function. And if I need to, I can use the CHAR function. Now, watch, equals CHAR, open parentheses, 177, close parentheses. Enter. Now I've got the plus or minus character. Don't need that. So as we go down, we can see all of the codes for all of these different symbols. Now, where this is really helpful is when you have to deal with line breaks, spaces, tabs, carriage returns. Watch this. In cell C13, I am going to add a line break. I'm going to go up here to the formula bar. Alt + Enter. And then Enter. The row is bigger because now there are two lines in that cell instead of one. But what happens here. Equals code, open parentheses. Go over to the cell, Enter. That's a code 10. Now, what if I go here and put a space? That is a code 32. And now if a cell has nothing in it, it's going to give us value. Let's look over in column H for one last thing
 >
-> **[7:51](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/insert-symbols-bullet-points-stars-and-francois?u=76281980&t=471)** and then we can get out of here. One way that you can spice things up are add symbols that you might like. You can use the Wingdings font. I've got a capital E here, lowercase e, under space. All right, so I'm going to highlight these and then go to Home, change the font, go down. There's Wingdings. So now there's the hand pointing, a bell, a Taurus symbol, Virgo symbol and what is that? That's the Capricorn, right, yes. Now, the thing to notice, we click here, with my [[Cursor]] on the Virgo symbol, you look in the formula bar and see that there is still a lowercase e there, whereas if you go to this capital A with a circumflex, that's an a with a circumflex in the formula bar. If we go to the cent sign, it is a cent sign and not something else that's relying on the format of the font. And that's how you use symbols, CHAR and code to help with the accuracy of your data, help with readability, and to make things look nice.
+> **[7:51](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/insert-symbols-bullet-points-stars-and-francois?u=76281980&t=471)** and then we can get out of here. One way that you can spice things up are add symbols that you might like. You can use the Wingdings font. I've got a capital E here, lowercase e, under space. All right, so I'm going to highlight these and then go to Home, change the font, go down. There's Wingdings. So now there's the hand pointing, a bell, a Taurus symbol, Virgo symbol and what is that? That's the Capricorn, right, yes. Now, the thing to notice, we click here, with my cursor on the Virgo symbol, you look in the formula bar and see that there is still a lowercase e there, whereas if you go to this capital A with a circumflex, that's an a with a circumflex in the formula bar. If we go to the cent sign, it is a cent sign and not something else that's relying on the format of the font. And that's how you use symbols, CHAR and code to help with the accuracy of your data, help with readability, and to make things look nice.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (1)
 > **Env Vars:** vlookup (4), xlookup (3), char (3), cjy (1), c13 (1)
 > **UI Navigation:** go to (8)
 > **CLI Commands:** make (2), find (1)
@@ -339,7 +340,7 @@ created: 2026-05-03
 >
 > **[1:37](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980&t=97)** Now, a comma, that comma is saying do not show three characters to the left of the decimal, you're going to see this soon. Next, in quotations, a capital K, close the quotations. Now, do you see what's happening in that sample is showing 279.4 capital K for thousands?
 >
-> **[2:10](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980&t=130)** Beautiful! Click OK. And for New Mitchell, 0.9 thousand. Now I can change the header to make sure that when anybody looks at this data, they know that this is in thousands. And notice, we still have the full value, with my [[Cursor]] in C2, we have the abbreviated thousands version of this value but in the formula bar, we still have the 442. So if we do any math, check it out, we want tourists divided by employees equals number divided by employees, Enter.
+> **[2:10](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980&t=130)** Beautiful! Click OK. And for New Mitchell, 0.9 thousand. Now I can change the header to make sure that when anybody looks at this data, they know that this is in thousands. And notice, we still have the full value, with my cursor in C2, we have the abbreviated thousands version of this value but in the formula bar, we still have the 442. So if we do any math, check it out, we want tourists divided by employees equals number divided by employees, Enter.
 >
 > **[3:01](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980&t=181)** Double-click and send it down and then we can reduce the decimal places.
 >
@@ -351,6 +352,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (2)
 > **Versions:** 0.0 (1), 279.4 (1), 0.9 (1), 0.00 (1), 8.01 (1)
 > **UI Navigation:** double-click (1), go to (1)
 > **CLI Commands:** make (1)
@@ -363,7 +365,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=0)** - [Instructor] It's time to show you [[Microsoft Power Query|Power Query]] and how Power Query can help you clean up formats and get 'em consistent. Now, I'm sorry that Mac users don't have Power Query yet. The [[Microsoft Excel|Excel]] engineers are working on that. At one time, Mac users couldn't even open a file that had Power Query in it. Now you can at least open it but that's all. So what I'm going to show you, you have to be on a full version of [[Windows]] Excel. We've got this data with IDs and the formatting is all over the place. The proper format is shown by Norma Danielson. The four digits, a hyphen and then two digits. It's shown again at Jodie Goldman. But let's see, Nalani Ward up top, there's a space in there. Vereena Heath has decimal places. There's slashes at Mami Dallman's name. And now one huge reason to do this with Power Query is because there's more data. Now, we got to pretend we didn't see this data at row 26 going down. This is going to be part of the automation thrills and excitement part of this event.
 >
-> **[1:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=94)** All right? Here we go. [[Cursor]] in the dataset and the data is in a table. Right click, Get Data From Selection. I'm going to make this a little bit smaller and boost it up so everybody can see, even the folks in the back. First of all, now the data's in Power Query and I'm going to format this as text. We aren't going to ever do math on an ID. So it's best to keep it as text. Now, I'm going to go through and replace values. With this column highlighted, replace values, the first thing to get rid of, let's get rid of all spaces, OK. What else? Get rid of say forward slashes. OK. Replace decimal places. OK. Let's get rid of the hyphens. OK. Anything else anybody might put in? Let's say an asterisk. OK. Now, to get this in the proper format. With this column still highlighted, I'm going to add column, column from examples, from selection. And I'm going to go over here. I have to feed it some examples of what I want.
+> **[1:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=94)** All right? Here we go. Cursor in the dataset and the data is in a table. Right click, Get Data From Selection. I'm going to make this a little bit smaller and boost it up so everybody can see, even the folks in the back. First of all, now the data's in Power Query and I'm going to format this as text. We aren't going to ever do math on an ID. So it's best to keep it as text. Now, I'm going to go through and replace values. With this column highlighted, replace values, the first thing to get rid of, let's get rid of all spaces, OK. What else? Get rid of say forward slashes. OK. Replace decimal places. OK. Let's get rid of the hyphens. OK. Anything else anybody might put in? Let's say an asterisk. OK. Now, to get this in the proper format. With this column still highlighted, I'm going to add column, column from examples, from selection. And I'm going to go over here. I have to feed it some examples of what I want.
 >
 > **[3:07](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=187)** I'm going to put 1631-65.
 >
@@ -375,7 +377,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (9), [[Microsoft Excel|Excel]] (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (9), [[Microsoft Excel|Excel]] (3), [[Windows]] (1), cursor (1)
 > **UI Navigation:** go to (2), scroll up (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
@@ -463,7 +465,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980&t=0)** - [Instructor] One thing that conditional formatting can help us with is to identify duplicate values. We've got these first names, last names, and emails, and we would like to first find out the duplicate email addresses, if there are any, and then look at duplicate people. The first thing we're going to do is put this data into a table to ensure that any new data has the conditional formatting follow along with it. With the [[Cursor]] in the data set, I'm in home tab, format as table. And let's grab this one. You can grab whatever flavor table you like. Click okay, and I'm going to get rid of the filter button. Now the duplicate email addresses. I am going to go up into the header, and you see where that turned into a black arrow? That will let me highlight the whole column. Go back home. Conditional formatting, highlight cell rules. And here are a few canned, conditional formatting options. Duplicate values. And look, it's giving us a preview of the two emails that are duplicates. Let's change the formatting that we want. Let's make it a bold font, and then fill, let's grab this light blue. Okay.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980&t=0)** - [Instructor] One thing that conditional formatting can help us with is to identify duplicate values. We've got these first names, last names, and emails, and we would like to first find out the duplicate email addresses, if there are any, and then look at duplicate people. The first thing we're going to do is put this data into a table to ensure that any new data has the conditional formatting follow along with it. With the cursor in the data set, I'm in home tab, format as table. And let's grab this one. You can grab whatever flavor table you like. Click okay, and I'm going to get rid of the filter button. Now the duplicate email addresses. I am going to go up into the header, and you see where that turned into a black arrow? That will let me highlight the whole column. Go back home. Conditional formatting, highlight cell rules. And here are a few canned, conditional formatting options. Duplicate values. And look, it's giving us a preview of the two emails that are duplicates. Let's change the formatting that we want. Let's make it a bold font, and then fill, let's grab this light blue. Okay.
 >
 > **[1:32](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980&t=92)** Okay. There are the duplicates. Next, we have these names, and we have to be careful. There's a Carmine Jackson and a Taylor Jackson. We don't want to just know about multiple Jacksons, we need to know Carmine Jackson specifically, and then there's a Victoria Dees and a Victoria Roland. Now we have to be crafty with this. If I were to do just a straight conditional formatting for duplicates, conditional formatting and cell rules, duplicate values, it is not looking across both columns as far as matches. It sees multiple Victorias, multiple Jacksons, multiple Prudhommes, et cetera. That's not what we want. So cancel that. The craftiness comes in when we have to do it this way. Say a full name, and then I'm going to do equals Victoria, ampersand, double quote, space, double quote, ampersand, the last name. Enter. Now the full names are in a column. Double click that to auto widen the column.
 >
@@ -475,6 +477,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **URLs:** [fakeemail.com](https://fakeemail.com) (1)
@@ -648,7 +651,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=0)** - [Instructor] Here we have a lot of data and [[Microsoft Excel|Excel]] has a feature called tables and too few people use tables. They're so powerful. Also, we're going to look at the formatting of tables. Now, in order to do this, I need to have a contiguous set of data. No blank rows, no blank columns. So I'm going to scroll down, down to row 58, no blank rows or columns. In the home tab, go over to the style section, format as table. We've got a lot of choices here. Some of them are nice and clean. Some of them can be a bit garish. Do we want this one? The table does have headers. Okay. Oh, that's too much. But first of all, I don't like to filter buttons unless I need them. Okay, so let's try another format. Let's go with this green. It's cleaner. Okay, now notice with the [[Cursor]] inside this data set or inside this table, up top we have a table design tab. I'm going to click away from the table data over here. All right, that tab went away and now it's back. Right, you saw the filter button.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=0)** - [Instructor] Here we have a lot of data and [[Microsoft Excel|Excel]] has a feature called tables and too few people use tables. They're so powerful. Also, we're going to look at the formatting of tables. Now, in order to do this, I need to have a contiguous set of data. No blank rows, no blank columns. So I'm going to scroll down, down to row 58, no blank rows or columns. In the home tab, go over to the style section, format as table. We've got a lot of choices here. Some of them are nice and clean. Some of them can be a bit garish. Do we want this one? The table does have headers. Okay. Oh, that's too much. But first of all, I don't like to filter buttons unless I need them. Okay, so let's try another format. Let's go with this green. It's cleaner. Okay, now notice with the cursor inside this data set or inside this table, up top we have a table design tab. I'm going to click away from the table data over here. All right, that tab went away and now it's back. Right, you saw the filter button.
 >
 > **[1:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=94)** Okay, now let's look, if I click first column, that gives us a nice, bold, like row headers, actually. Beautiful. Last column, we don't need that highlighted. We might if we had some totals or something over there. Okay, get rid of that, but we do have a total row, which can be helpful. Let's scroll down there, okay, and row 59, it already says total and it is doing a count showing us that we have 57 records. But now let's go over to the donations column, open that dropdown list and click sum to get a sum of the donations. Great. Next, if we want to insert a row, now, if we go to the bottom and want to insert a row, we've got to get rid of the total row, so let's do that. And then I'm going to go to James Reed is a Libra and donated $55, lives in West Crimson, uses a PC and Sea2Sea, and is in the education field, 555 9000. Okay, and then we can bring the totals back. Go back inside the table data, table design, bring back the total row.
 >
@@ -656,7 +659,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** cursor (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** scroll down (3), go to (3), dropdown (1)
 > **Versions:** 0.5 (1)
 > **Definitions:** is a  (1)
@@ -666,7 +669,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-slicers?u=76281980&t=0)** - [Instructor] Let's look at formatting slicers, and hopefully you know what slicers are. You should be using them, all right? My [[Cursor]] is in the data set. I have to first put this data into a table. Format as table, and let's grab this blue table does have headers, Ok. And I don't want to filter buttons. Now we can add slicers with the cursor inside the table. Insert, over here, slicer. Now, what fields do I want slicers for? I'm going to select Item, Category, Color, and Status.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-slicers?u=76281980&t=0)** - [Instructor] Let's look at formatting slicers, and hopefully you know what slicers are. You should be using them, all right? My cursor is in the data set. I have to first put this data into a table. Format as table, and let's grab this blue table does have headers, Ok. And I don't want to filter buttons. Now we can add slicers with the cursor inside the table. Insert, over here, slicer. Now, what fields do I want slicers for? I'm going to select Item, Category, Color, and Status.
 >
 > **[0:52](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-slicers?u=76281980&t=52)** Ok. There are the slicers. Now one bit of formatting we can do right away. Check this out, because they're all on top of each other. Want to spread them out a bit, spread this out a little more. Okay, and then I'm going to make this thinner, good. And then I can make this a little bit thinner but actually, since this is four right here I'm going to make this two columns. Look at that. Okay. Next, to get these aligned in a pleasing way with the category slicer selected. Hold on the Control key, select the Item, Color, Status. And up top, notice up top we do have this Slicer tab open. That tab is only available when we have our slicer selected. Now let's align, okay? Go to Align, Align Top, good. And then distribute horizontally, great. Okay. Unselect, and then I'm going to adjust the heights of these. I could also adjust the height this way. So so I want it a little smaller.
 >
@@ -676,6 +679,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (2)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (1), go to (1)
 > **Speakers:** - [instructor] (1)

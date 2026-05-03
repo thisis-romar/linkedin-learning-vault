@@ -75,7 +75,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI|Gen ai]] (1)
 > **Speakers:** - by (1)
 
 #### [Putting generative AI to the critical thinking test](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980)
@@ -88,7 +88,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (10), [[React.js|React]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1)
@@ -111,7 +111,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (1), [[Social Media Marketing]] (1), [[Live Streaming]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (8), [[Strategic Thinking]] (1), [[Social Media Marketing]] (1), [[Live Streaming]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - at (1)
@@ -128,7 +128,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (8), [[Statistics]] (1), [[Algorithms]] (1)
 > **Env Vars:** mba (10)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -149,6 +149,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (9)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (2), for example (1)
 > **Cross-References:** in the last (1), we talked about (1)
@@ -171,7 +172,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (9), [[LinkedIn]] (1)
 > **Env Vars:** piqpacc (5)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), stands for (1)
@@ -192,7 +193,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Higher Education]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (6), [[ChatGPT]] (5), [[Higher Education]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - my (1)
 
@@ -210,7 +211,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (10), [[ChatGPT]] (3), [[Generative AI|Gen ai]] (1), [[Google]] (1)
 > **Env Vars:** rrv (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -230,7 +231,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[ChatGPT]] (2), [[Storytelling]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** gis (2)
 > **Speakers:** - think (1)
@@ -247,7 +248,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), [[ChatGPT]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (8), [[Simulation]] (2), [[ChatGPT]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** nasa (1)
@@ -265,7 +266,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Financial Analysis]] (3), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (6), [[ChatGPT]] (3), [[Financial Analysis]] (3), [[Simulation]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** caution (1)
@@ -283,7 +284,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Sustainability]] (1), [[LinkedIn]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[Microsoft Word|Word]] (1), [[Sustainability]] (1), [[LinkedIn]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
@@ -304,7 +305,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Statistics]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Generative AI|Gen ai]] (3), [[Statistics]] (3)
 > **Definitions:** is a  (7), is an  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -326,7 +327,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (5), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 

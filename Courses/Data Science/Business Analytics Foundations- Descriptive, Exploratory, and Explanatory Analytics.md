@@ -408,7 +408,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Business Analytics]] (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Business Analytics]] (2), [[Forecasting]] (1), [[Generative AI|Gen ai]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 

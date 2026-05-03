@@ -418,13 +418,13 @@ created: 2026-05-03
 >
 > **[4:45](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=285)** So with width of 200 pixels for that. Now, the weather-submit, the same thing. I could actually done this in one line if I wanted to. And the weather-response-card, we're going to do a padding of 20 pixels. We're going to do a border-radius of 20 pixels again. We're going to do a background-color of rgba, 255, 255, 255, 0.8 for the alpha.
 >
-> **[5:29](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=329)** Width, fit-content. And then box-shadow, 0, 4px, 6px, rgba, 0, 0, 0, 0.1. And so 0, 0, 0, 0.1. Okay, so let's do a quick check, actually here, that's what I meant. Background-color. We're going to do a specific color for this one. This is my favorite one for this one, FYI. Actually, I added a zero. Okay, color, white. [[Cursor]], pointer. Okay. Just verifying that everything is in there, just making sure, margin-bottom. And then everything here, so if we go back and we take a look at our application now, it looks much better. As you can see, we have a nice background here. We have the Get Temperature. So if you enter an actual date, 2027-05-1, and then a number here, 52, Get Temperature, nothing's working right now because we haven't finalized everything, but the card will eventually appear here. So now we've completed the front end,
+> **[5:29](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=329)** Width, fit-content. And then box-shadow, 0, 4px, 6px, rgba, 0, 0, 0, 0.1. And so 0, 0, 0, 0.1. Okay, so let's do a quick check, actually here, that's what I meant. Background-color. We're going to do a specific color for this one. This is my favorite one for this one, FYI. Actually, I added a zero. Okay, color, white. Cursor, pointer. Okay. Just verifying that everything is in there, just making sure, margin-bottom. And then everything here, so if we go back and we take a look at our application now, it looks much better. As you can see, we have a nice background here. We have the Get Temperature. So if you enter an actual date, 2027-05-1, and then a number here, 52, Get Temperature, nothing's working right now because we haven't finalized everything, but the card will eventually appear here. So now we've completed the front end,
 >
 > **[7:02](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=422)** in terms of the looks. We have most of the functions in here. We're going to finalize everything in the last video where we connect the endpoint and we actually render the response.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[HTML]] (1), cursor (1)
 > **CLI Commands:** make (3), npm (1)
 > **Analogies:** picture (4)
 > **Env Vars:** css (2), fyi (1)

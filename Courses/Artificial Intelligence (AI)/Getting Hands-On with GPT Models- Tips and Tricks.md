@@ -138,7 +138,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[GPT-4]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[GPT-4]] (2), [[GPT-4|Gpt-4o]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (3), bogo (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -228,7 +228,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Reinforcement Learning]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Gemini]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Reinforcement Learning]] (1), [[GPT-4|Gpt-4o]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Gemini]] (1)
 > **Env Vars:** gpt (5)
 > **UI Navigation:** dropdown (1), switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -355,7 +355,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[JavaScript]] (4), [[HTML]] (2), [[Code Review]] (2), [[Vibe Coding]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[JavaScript]] (4), [[HTML]] (2), [[Code Review]] (2), [[GPT-4|Gpt-4o]] (1)
 > **UI Navigation:** go to (6), click on (1)
 > **Env Vars:** gpt (3), html (2)
 > **CLI Commands:** make (3), python (1)

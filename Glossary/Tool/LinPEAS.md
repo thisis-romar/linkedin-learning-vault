@@ -36,3 +36,5 @@ Linux privilege escalation awesome script — enumerates local privesc vectors.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

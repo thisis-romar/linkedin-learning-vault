@@ -66,3 +66,5 @@ Fast network login cracker supporting many protocols (SSH, FTP, HTTP, etc.).
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

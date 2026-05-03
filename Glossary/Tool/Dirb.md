@@ -49,3 +49,5 @@ Web content scanner that brute-forces directory and file names using a wordlist.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

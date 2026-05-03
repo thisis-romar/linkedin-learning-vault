@@ -450,7 +450,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=0)** - [Tutor] We're going to test the per field encryption by storing the secret code ABC123. So our secret code goes here, and a payment is made by the user,
 >
-> **[0:26](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=26)** and the password confirmation code is our secret code right here. We are going to make sure that the payment passport confirmation is equal to the secret code, and this field is in memory, so it's unencrypted, and then we're going to be using the database connection [[Cursor]], so that we can make a direct [[SQL]] query
+> **[0:26](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=26)** and the password confirmation code is our secret code right here. We are going to make sure that the payment passport confirmation is equal to the secret code, and this field is in memory, so it's unencrypted, and then we're going to be using the database connection cursor, so that we can make a direct [[SQL]] query
 >
 > **[1:14](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=74)** from the model and select that field and make sure it is encrypted.
 >
@@ -460,7 +460,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** cursor (1), [[SQL]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** abc123 (1), sql (1), orm (1)
 > **Tools:** terminal (1)

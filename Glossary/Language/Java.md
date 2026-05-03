@@ -333,3 +333,5 @@ created: 2026-05-03
 ---
 
 *Source: LinkedIn catalog (language)*
+
+Part of [[000 Glossary Index]]

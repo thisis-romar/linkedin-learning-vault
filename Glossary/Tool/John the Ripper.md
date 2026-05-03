@@ -236,3 +236,5 @@ Password cracker supporting hash types from Unix crypt to modern algorithms.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

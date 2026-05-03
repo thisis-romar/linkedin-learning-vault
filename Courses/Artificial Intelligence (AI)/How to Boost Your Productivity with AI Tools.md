@@ -393,7 +393,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[ChatGPT]] (1), [[GPT-4|Gpt-4o]] (1)
 > **CLI Commands:** make (9), find (1)
 > **Env Vars:** rfp (3), gpt (1)
 > **Definitions:** is a  (4)
@@ -536,11 +536,11 @@ created: 2026-05-03
 >
 > **[8:57](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=537)** Wow (chuckles). Just keep scrolling, keep scrolling. Right, and here's an actionable plan. Prioritized improvements to the document, right? "Solidify the business case and risk strategy." "Pilot and refine implementation," okay. "Strength competitive positioning." And what's great here, is it's actually gone and done some research as well. So here's an article to look at. Here's another article here to look at. It's just got so much information, IM here that's also very practical, saying the actions that need to be taken to improve this document. Now this is exactly the kind of thing you want. And as much as this took a bit of time, as you saw there, to come up with this response, it's well worth it, because it is really robust. This is worth doing. Just so that you can get these extra perspectives and make sure that you've got everything bang on, give it a go. I personally think that that's really impressive. It's so easy to miss these different perspectives, particularly when you're working to a deadline. Of course, you can ignore everything it says, and just send out your document as it is. But I think it's definitely worth running your documents through this prompt before you send them out. It will help you beef them up and give them a better chance
 >
-> **[10:29](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=629)** of success in the big, bad world. Run free little document. Run free. You know, it feels like just yesterday that there were just an empty [[Microsoft Word|Word]] document. I feel so proud. They grew up so fast, don't they? It's like one minuteness just a blinking [[Cursor]]. And the next fully formed proposal with multiple perspectives. You know, it brings a tear to my eye (sniffs)(sighs).
+> **[10:29](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=629)** of success in the big, bad world. Run free little document. Run free. You know, it feels like just yesterday that there were just an empty [[Microsoft Word|Word]] document. I feel so proud. They grew up so fast, don't they? It's like one minuteness just a blinking cursor. And the next fully formed proposal with multiple perspectives. You know, it brings a tear to my eye (sniffs)(sighs).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), cursor (1)
 > **Definitions:** is a  (5), means that (1)
 > **Analogies:** it's like (2), picture (1), kind of like (1), imagine (1)
 > **UI Navigation:** go to (1), click on (1)

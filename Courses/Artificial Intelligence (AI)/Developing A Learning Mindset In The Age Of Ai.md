@@ -251,6 +251,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (1)
 > **Analogies:** for example (1), it's like (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** before you begin (1)

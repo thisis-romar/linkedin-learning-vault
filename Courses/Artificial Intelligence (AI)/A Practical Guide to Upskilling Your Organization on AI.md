@@ -166,7 +166,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[AI for Business]] (1), [[Generative AI]] (1), [[Microsoft 365]] (1), [[Microsoft Copilot]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[AI for Business]] (1), [[Generative AI]] (1), [[Generative AI|Genai]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

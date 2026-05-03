@@ -147,11 +147,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=1)** - [Instructor] You can have multiple [[Pivot Tables]] on the same sheet. Just like before, we'll place our [[Cursor]] inside the dataset, change to the Insert tab and click PivotTable. This time, instead of selecting New Worksheet, I'm going to choose Existing Worksheet. I'll change to my sheet that contains the first pivot table and place the cursor where I want the second table to be inserted. I'll click OK. And here's my second pivot table. It contains the same fields and I can adjust these as I see fit. This time, I want to see the amount sold of every order type. At any time, I can delete this second pivot table by right clicking and choosing Delete PivotTable.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=1)** - [Instructor] You can have multiple [[Pivot Tables]] on the same sheet. Just like before, we'll place our cursor inside the dataset, change to the Insert tab and click PivotTable. This time, instead of selecting New Worksheet, I'm going to choose Existing Worksheet. I'll change to my sheet that contains the first pivot table and place the cursor where I want the second table to be inserted. I'll click OK. And here's my second pivot table. It contains the same fields and I can adjust these as I see fit. This time, I want to see the amount sold of every order type. At any time, I can delete this second pivot table by right clicking and choosing Delete PivotTable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** cursor (2), [[Pivot Tables]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 

@@ -94,3 +94,5 @@ Network scanner for host discovery, port scanning, and service/OS fingerprinting
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

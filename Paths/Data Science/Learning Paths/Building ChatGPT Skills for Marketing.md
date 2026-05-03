@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/building-chatgpt-skills-for-marketi
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/data-science

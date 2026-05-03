@@ -85,7 +85,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Teams]] (1), [[Microsoft Outlook|Outlook]] (1), [[Generative AI Tools]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Teams]] (1), [[Microsoft Outlook|Outlook]] (1), [[Generative AI Tools]] (1), [[Generative AI|Gen ai]] (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 

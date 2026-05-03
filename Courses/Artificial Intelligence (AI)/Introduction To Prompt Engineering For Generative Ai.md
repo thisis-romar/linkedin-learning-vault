@@ -101,7 +101,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Generative AI]] (3), [[ChatGPT]] (2), [[GPT-4]] (1), [[Microsoft Copilot]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Generative AI]] (3), [[ChatGPT]] (2), [[GPT-4|Gpt-4o]] (2), [[GPT-4]] (1)
 > **Env Vars:** gpt (3), dall (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** such as (2)
@@ -134,7 +134,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Microsoft Word|Word]] (2), [[GPT-4|Gpt-4o]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** coming up (1)
@@ -515,7 +515,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[JavaScript]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[GPT-4|Gpt-4o]] (3), [[JavaScript]] (1), [[Node.js]] (1)
 > **CLI Commands:** python (3), make (2), python3 (2), node (1), curl (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** node.js (1), example.py (1)

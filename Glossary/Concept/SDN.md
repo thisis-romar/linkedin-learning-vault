@@ -64,3 +64,5 @@ Software-Defined Networking — network architecture separating the control plan
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

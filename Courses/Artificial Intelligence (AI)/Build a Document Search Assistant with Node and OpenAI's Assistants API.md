@@ -174,7 +174,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Search]] (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2), [[Semantic Search]] (1), [[Vector Databases]] (1)
 > **Env Vars:** api (6), sdk (1), gpt (1)
 > **File Paths:** assistant.js (4)
 > **CLI Commands:** node (3), make (1)

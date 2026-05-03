@@ -490,7 +490,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (10), [[Codespaces]] (5), [[Large Language Models (LLM)|Large language models]] (3), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (10), [[Codespaces]] (5), [[GPT-4|Gpt-4o]] (4), [[Large Language Models (LLM)|Large language models]] (3)
 > **CLI Commands:** python (10), pip (2), make (1)
 > **Tools:** github (13)
 > **Env Vars:** gpt (4), api (2)

@@ -35,3 +35,5 @@ Pseudonymous security researcher known for HackTheBox machine walkthrough videos
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

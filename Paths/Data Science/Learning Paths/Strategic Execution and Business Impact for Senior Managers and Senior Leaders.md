@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/strategic-execution-and-business-im
 course_count: 12
 linkedin_topics:
   - Data Science
-louvain_cluster: 4
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/data-science

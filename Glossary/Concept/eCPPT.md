@@ -34,3 +34,5 @@ eLearnSecurity Certified Professional Penetration Tester — practical pentestin
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

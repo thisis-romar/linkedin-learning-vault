@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/generative-ai-for-marketing-profess
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence

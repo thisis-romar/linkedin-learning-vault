@@ -258,7 +258,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Python (Programming Language)|Python]] (4), [[Django]] (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Python (Programming Language)|Python]] (4), [[Django]] (4), [[GPT-4|Gpt-4o]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), python (4), python3 (3), pip (2), cd (1)
 > **Tools:** terminal (6)
 > **File Paths:** manage.py (3), settings.py (1)

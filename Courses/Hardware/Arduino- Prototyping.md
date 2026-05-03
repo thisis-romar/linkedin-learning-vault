@@ -343,11 +343,11 @@ created: 2026-05-03
 >
 > **[1:35](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=95)** You can see that we have hello world on the top line, and a number counting up on the second line. So let's look more closely at the sketch. Luckily, the sketch begins with a long comment block that documents how the display should be connected. Also mentioned is that this example is in the public domain so you can use it any way you want. Next we see that the liquid crystal library is included using this include statement. To initialize the display the sketch uses what's called a constructor. The constructor creates a variable or object used to access library functions. The variable is called LCD in this case, but can be any name. The constructor also specifies which pins are used to control it. The constants on the previous line define those connections and fortunately, they match the connections we've made so far. Now let's look at the setup and loop functions. In the setup function, LCD begin is a method that specifies how many columns and rows your display has. The last statement in setup, the print statement, prints the message Hello World. Now let's look at the loop function. Each time through the loop function, the sketch prints the value of Millie's the milliseconds since this sketch began.
 >
-> **[3:08](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=188)** Normally when something is printed, the next thing printed will come right after it. But that wouldn't be very good here. So the sketch uses set [[Cursor]] to set the position back to the beginning of the line each time. That's it for our hello world sketch. It verified that the display works properly. We can continue by modifying the sketch to experiment with the display and library. We can also use this hello world as the starting point as we build our prototype.
+> **[3:08](https://www.linkedin.com/learning/arduino-prototyping/display-hello-world-sketch?u=76281980&t=188)** Normally when something is printed, the next thing printed will come right after it. But that wouldn't be very good here. So the sketch uses set cursor to set the position back to the beginning of the line each time. That's it for our hello world sketch. It verified that the display works properly. We can continue by modifying the sketch to experiment with the display and library. We can also use this hello world as the starting point as we build our prototype.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4)
+> **Frameworks & Libraries:** [[Arduino]] (4), cursor (1)
 > **Env Vars:** lcd (4), ide (1), usb (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Prerequisites:** setup (3)
@@ -376,13 +376,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=0)** - [Instructor] Here's a solution to the challenge. The challenge was to first, change the message on the display. For example, change from Hello World to Hey Universe. The second goal was to reverse the two lines on the display, putting the counter on the top line and the message on the second line. The necessary changes are straightforward. First, you need to change the text in the LCD print statement. Then you need to explicitly place the [[Cursor]] before each line is written to the LCD using the set cursor method. Let's go to the [[Arduino]] IDE to see how this works. Here we are in the IDE. The first thing I'm going to do is save this and you can see I've loaded Hello World. I'm going to save this under a new name. So I'll just call it Hello World Challenge And if we scroll up here, you can see the bulk of the program. And there are two places where we need to make changes. First of all, we need to change the message here where it says Hello World. We can just change this to Hey Universe and add another exclamation just for emphasis. And we need to change which line it's been printed on, because by default, it's being printed on the top line.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=0)** - [Instructor] Here's a solution to the challenge. The challenge was to first, change the message on the display. For example, change from Hello World to Hey Universe. The second goal was to reverse the two lines on the display, putting the counter on the top line and the message on the second line. The necessary changes are straightforward. First, you need to change the text in the LCD print statement. Then you need to explicitly place the cursor before each line is written to the LCD using the set cursor method. Let's go to the [[Arduino]] IDE to see how this works. Here we are in the IDE. The first thing I'm going to do is save this and you can see I've loaded Hello World. I'm going to save this under a new name. So I'll just call it Hello World Challenge And if we scroll up here, you can see the bulk of the program. And there are two places where we need to make changes. First of all, we need to change the message here where it says Hello World. We can just change this to Hey Universe and add another exclamation just for emphasis. And we need to change which line it's been printed on, because by default, it's being printed on the top line.
 >
 > **[1:35](https://www.linkedin.com/learning/arduino-prototyping/solution-controlling-the-display?u=76281980&t=95)** So we have to explicitly put it on the second line by using LCD set cursor, and then we want column zero, and then we use one because the line numbers start with zero. And then down here where we display the counter, instead of putting it on the second line, we just need to change that to zero, the line number, to put it on the top line. And now when we run this and upload it, you can see by looking at the prototype that the message is on the bottom and it's changed to Hey Universe and the counter is on the top. And that's it for my solution to the first challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1)
+> **Frameworks & Libraries:** cursor (3), [[Arduino]] (1)
 > **Env Vars:** lcd (3), ide (2)
 > **UI Navigation:** go to (1), scroll up (1)
 > **CLI Commands:** make (1)
@@ -399,11 +399,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=0)** - [Instructor] The design concept we're working from has two rows, one row with invaders and one row with a laser that moves back and forth. We already know how to show characters on the display using set [[Cursor]] and print, so let's focus on animating the laser. Traditionally, animation consists of frames being presented one-by-one. Changes from frame to frame appear as motion. For animation controlled by a sketch, each frame's changes have to be calculated, then displayed. Our laser animation works the same way. For each frame, the laser moves to a new column. The question now is how would you sketch that? One way to start is to write what's called pseudocode. Pseudocode is an informal description of an algorithm or process. Pseudocode won't ever be used directly, but it can help you when it's time to write your sketch. For example, the pseudocode description of blinking an LED might be turn the LED on, delay half a second, turn the LED off, delay half a second, and repeat. Since pseudocode is informal, the precise language isn't important. It simply has to be meaningful to you and provide enough information to translate to actual code when you begin [[Sketching]]. In pseudocode, our laser animation algorithm might look something like this. Calculate the laser position for the frame, display the laser, then repeat. This is enough to start with. The next step is to turn the pseudocode into a sketch.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980&t=0)** - [Instructor] The design concept we're working from has two rows, one row with invaders and one row with a laser that moves back and forth. We already know how to show characters on the display using set cursor and print, so let's focus on animating the laser. Traditionally, animation consists of frames being presented one-by-one. Changes from frame to frame appear as motion. For animation controlled by a sketch, each frame's changes have to be calculated, then displayed. Our laser animation works the same way. For each frame, the laser moves to a new column. The question now is how would you sketch that? One way to start is to write what's called pseudocode. Pseudocode is an informal description of an algorithm or process. Pseudocode won't ever be used directly, but it can help you when it's time to write your sketch. For example, the pseudocode description of blinking an LED might be turn the LED on, delay half a second, turn the LED off, delay half a second, and repeat. Since pseudocode is informal, the precise language isn't important. It simply has to be meaningful to you and provide enough information to translate to actual code when you begin [[Sketching]]. In pseudocode, our laser animation algorithm might look something like this. Calculate the laser position for the frame, display the laser, then repeat. This is enough to start with. The next step is to turn the pseudocode into a sketch.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (1)
+> **Frameworks & Libraries:** cursor (1), [[Sketching]] (1)
 > **Env Vars:** led (3)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -516,7 +516,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=0)** - [Instructor] Our updated pseudocode has added setting up the invaders on the display, checking the button, and if the button is pressed when the laser is below an invader, the invader is destroyed. The first new feature there is to set up the invaders. Following our keep it simple mantra, one approach is to simply use LCD set [[Cursor]] and LCD print to display a string of invaders at the top of our display. One thing that will be useful to know when we get to our sketch is that individual characters in a string can be accessed directly. For example let's say you set up your invaders string as a variable, and set its value equal to 16 characters to fit our display. You can then reference the first character in this string as invaders with a zero between square brackets. And it is an invader. The fourth character in this string is invaders with three between square brackets, and it is not an invader, it's a space. Counting characters starts with zero rather than one. With that in mind, let's go back to the IDE and our sketch to add some interaction. Here we are in the retro one sketch that we ended with last time. So we should save it with a new name before we get started with these changes, so we can change it to retro two. So the first thing we're going to do is add a variable for the invaders. We'll do that up here at the top, below the include statement.
+> **[0:00](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=0)** - [Instructor] Our updated pseudocode has added setting up the invaders on the display, checking the button, and if the button is pressed when the laser is below an invader, the invader is destroyed. The first new feature there is to set up the invaders. Following our keep it simple mantra, one approach is to simply use LCD set cursor and LCD print to display a string of invaders at the top of our display. One thing that will be useful to know when we get to our sketch is that individual characters in a string can be accessed directly. For example let's say you set up your invaders string as a variable, and set its value equal to 16 characters to fit our display. You can then reference the first character in this string as invaders with a zero between square brackets. And it is an invader. The fourth character in this string is invaders with three between square brackets, and it is not an invader, it's a space. Counting characters starts with zero rather than one. With that in mind, let's go back to the IDE and our sketch to add some interaction. Here we are in the retro one sketch that we ended with last time. So we should save it with a new name before we get started with these changes, so we can change it to retro two. So the first thing we're going to do is add a variable for the invaders. We'll do that up here at the top, below the include statement.
 >
 > **[1:33](https://www.linkedin.com/learning/arduino-prototyping/implement-buttons?u=76281980&t=93)** So, add a comment, and then set the string type, invaders, and then we'll want to initialize that in setup. And so we can say, so we just say invaders equals, then we put double quotes, then let's just put in some two, three, four, five, six, seven, eight, nine, 10, 11, 12, 13, 14, 15, 16, some random invaders.
 >
@@ -528,7 +528,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (1)
+> **Frameworks & Libraries:** cursor (7), [[Prototyping]] (1)
 > **Env Vars:** lcd (5), ide (1)
 > **Prerequisites:** set up (3), setup (3)
 > **CLI Commands:** make (1)
@@ -559,7 +559,7 @@ created: 2026-05-03
 >
 > **[1:05](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980&t=65)** And now, the first thing I need to do is to the code is, add a variable for the number of invaders. So I'll set that to be an integer and then down here in set up, or I initialize the invaders, I can say number of invaders equals, I think there are 10 asterisks there. So I'll set the number of invaders to 10. Then here in the loop, this is where we check the button and zap and invader, if the button's pressed. So what we need to do is check to make sure there's an invader actually there. And so if we say, if invaders indexed to laser column
 >
-> **[2:04](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980&t=124)** equals an asterisk and notice I used a single quote there because it's a character. I need to use a double equals rather than a string. And then I'll set a block here and I want to set the [[Cursor]] erase the invader, but now I also want to remove it from the invader string. So I'll say invaders also with index laser column
+> **[2:04](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980&t=124)** equals an asterisk and notice I used a single quote there because it's a character. I need to use a double equals rather than a string. And then I'll set a block here and I want to set the cursor erase the invader, but now I also want to remove it from the invader string. So I'll say invaders also with index laser column
 >
 > **[2:42](https://www.linkedin.com/learning/arduino-prototyping/solution-name?u=76281980&t=162)** equals, I'll put in a space and then I have to set number of invaders equals number of invaders minus one. So I have one less invader and then close off that if statement. So that takes care of making sure I know how many invaders are left. Now I need to say if there are nothing, if there are no invaders left, then print a message. So if I say, if number of invaders equals zero and the first thing I want to do is clear the LCD then LCD print all invaders for the first line and then set cursor to the second line and say LCD print zapped, and a few exclamations for effect. And then I want to stop the sketch with that while loop. So I can say while true, do nothing.
 >
@@ -569,6 +569,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (2)
 > **Env Vars:** lcd (4), ide (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -738,7 +739,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980&t=0)** - [Instructor] Here's my solution to the challenge. Remember, the goal for this challenge is to display a welcome message and wait for a button press before continuing. The pseudocode for this is straightforward. To wait, you can use a while loop to check to see if the button is pressed. To make the while condition, we can use the currentReading variable, which is either high or low depending on whether the button is pressed or not. The while loop updates currentReading using the debounce function. Now let's go to the Desktop to see how this works in practice. Here we are in the IDE. And I've loaded Retro 6, which is our starting point. And the first thing I'm going to do is save a new copy. Call it RETRO_6_Challenge.
 >
-> **[1:03](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980&t=63)** Now we want to add our startup screen in the setup function. So we can do that here. So we can say display introduction. And I'll start out by clearing the screen. Then I'll print the first line. Zap Invaders. And then I'll set the [[Cursor]] to the second line. And print the second line of the message.
+> **[1:03](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980&t=63)** Now we want to add our startup screen in the setup function. So we can do that here. So we can say display introduction. And I'll start out by clearing the screen. Then I'll print the first line. Zap Invaders. And then I'll set the cursor to the second line. And print the second line of the message.
 >
 > **[1:55](https://www.linkedin.com/learning/arduino-prototyping/solution-game-intro?u=76281980&t=115)** And then I need to wait for the button press.
 >
@@ -748,6 +749,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (2)
 > **Code Identifiers:** currentreading (6)
 > **Env Vars:** ide (1), low (1)
 > **CLI Commands:** make (1)
@@ -822,7 +824,7 @@ created: 2026-05-03
 >
 > **[1:44](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980&t=104)** from the previous challenge. So the new thing we need to add though, is the gameplay. And that occurs right here, we've checked the button and decided that it's been pressed because it's gone from high to low. So I'm just going to change the comment. If an invader was hit, deactivate it.
 >
-> **[2:13](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980&t=133)** And we check if the invader at the laser column is an asterisk, then we set the [[Cursor]] to the laser column. And instead of printing a space there, we want to print a plus sign and reduce the number of invaders. And then instead of setting the invader string to a blank, I want to set that to a plus sign to indicate that that's an inactive or deactivated invader. Now, when we shoot a deactivated invader, we want to reactivate it. So we have to put encode for that. And we do that by just adding another condition here and we can say else, and then I can just copy this code
+> **[2:13](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980&t=133)** And we check if the invader at the laser column is an asterisk, then we set the cursor to the laser column. And instead of printing a space there, we want to print a plus sign and reduce the number of invaders. And then instead of setting the invader string to a blank, I want to set that to a plus sign to indicate that that's an inactive or deactivated invader. Now, when we shoot a deactivated invader, we want to reactivate it. So we have to put encode for that. And we do that by just adding another condition here and we can say else, and then I can just copy this code
 >
 > **[3:05](https://www.linkedin.com/learning/arduino-prototyping/solution-complete-the-experience?u=76281980&t=185)** from there and then I'll paste it in here cause it's almost identical. And so else if the invaders at the laser column are deactivated or a plus sign, then you want to turn it back into an asterisk. And instead of reducing the invader count, you increase the invader count cause they're back in action. And then here you want to make sure that you record the current state of the invader by putting the asterisks there. So, put a space in here just to make it a little more readable. So let's say, let's upload this and see how it works.
 >
@@ -832,6 +834,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** ide (1)

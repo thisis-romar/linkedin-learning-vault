@@ -537,7 +537,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (2), [[Snowflake]] (1)
 > **Env Vars:** llm (3)
 > **Cross-References:** coming up (1)
 > **Speakers:** - congratulations (1)
@@ -555,7 +555,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (4), [[Tokens]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[Snowflake]] (4), [[Tokens]] (1), [[Prompt Engineering]] (1), [[Generative AI|Gen ai]] (1)
 > **Env Vars:** llm (3), llms (1), lms (1)
 > **Cross-References:** we covered (2)
 > **Definitions:** is a  (1)

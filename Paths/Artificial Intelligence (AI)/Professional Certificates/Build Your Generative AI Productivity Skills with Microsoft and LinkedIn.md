@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-generative-ai-productivi
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 15
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence

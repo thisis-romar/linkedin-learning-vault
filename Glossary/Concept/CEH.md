@@ -52,3 +52,5 @@ EC-Council Certified Ethical Hacker — foundational penetration testing certifi
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

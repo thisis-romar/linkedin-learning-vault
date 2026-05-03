@@ -112,7 +112,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[Figma (Software)|Figma]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (3)
 > **Tools:** figma (1)
 > **Exercise Files:** template (1)
@@ -165,7 +165,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=0)** - [Instructor] Once you create or open a project, you'll find yourself in the designer interface. Let's have a look at everything we have at our fingertips when we're designing in Uizard. Don't worry too much about the details of what all these things do. For now, let's just get oriented with this screen. So in the middle area are all of our screens and you can [[Zoom]] in and out as you wish. I'm using pinch and zoom, and notice there's also a button up here to zoom in and out if you prefer that methodology. At the top left, the U is going to bring us back to our dashboard. We have our name, whatever the name of our product is here, and if you click on it, you can change that. So Fly Now Booking app, and you can have a description and you can toggle whether or not everyone on your team can see it or whether you want it private just to you 'cause it's your own project. You can also set a project as a template, which means anyone else can create a new app using this template. And you save your changes when you're done. This middle toggle allows you to go to wire frames and back, which is pretty cool, and we'll talk more about that. We have undo and a redo that you can use. We looked at the zoom in and out. You can change the type of [[Cursor]]. I'm currently using the selector cursor, or you can do this one, which is just a drag. If you want to just move it around and make sure you're not going to accidentally click on something and drag it around. You can use comments. This allows us to leave comments, so anyone who has access to your prototype can say, Hey, I need you to change this, et cetera.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=0)** - [Instructor] Once you create or open a project, you'll find yourself in the designer interface. Let's have a look at everything we have at our fingertips when we're designing in Uizard. Don't worry too much about the details of what all these things do. For now, let's just get oriented with this screen. So in the middle area are all of our screens and you can [[Zoom]] in and out as you wish. I'm using pinch and zoom, and notice there's also a button up here to zoom in and out if you prefer that methodology. At the top left, the U is going to bring us back to our dashboard. We have our name, whatever the name of our product is here, and if you click on it, you can change that. So Fly Now Booking app, and you can have a description and you can toggle whether or not everyone on your team can see it or whether you want it private just to you 'cause it's your own project. You can also set a project as a template, which means anyone else can create a new app using this template. And you save your changes when you're done. This middle toggle allows you to go to wire frames and back, which is pretty cool, and we'll talk more about that. We have undo and a redo that you can use. We looked at the zoom in and out. You can change the type of cursor. I'm currently using the selector cursor, or you can do this one, which is just a drag. If you want to just move it around and make sure you're not going to accidentally click on something and drag it around. You can use comments. This allows us to leave comments, so anyone who has access to your prototype can say, Hey, I need you to change this, et cetera.
 >
 > **[1:32](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=92)** You can share this, we can export if you want. This is also called handoff. So this allows you to sort of highlight some screens and things that you might want to export and it can generate code and things like that. And again, we'll talk about this stuff all later. So don't worry. The preview will launch the prototype so you can see exactly how it's going to look, how the user will experience it. Now if we go down this side, we have design, which allows us to change some key design elements. Interact is what we use when we want to create the interactive mode. In other words, when you click on something, what's going to happen? Is it going to bring up one of these other screens? Is it going to bring you to a different URL, et cetera. So this is all for the [[Prototyping]] aspect of Uizard. Then we can view the screens that shows you all of the screens just in overview and the ability to create a new screen. Handoff, this is for the code, so it's another way to get into basically where the export takes you. And then settings you can use if you want to change certain settings about whatever it is that's selected in terms of how you want to snap things, project details and things like that. Down at the bottom is the help menu. So you can use this to get the Uizard's built in help. At the bottom middle is the auto-designer. This is where all the magic AI tools are stored and this is what you're going to use to interact with it whenever you're using the AI tools. Now the left nav is basically where the key design tools and elements reside.
 >
@@ -175,7 +175,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), cursor (2), [[Prototyping]] (1)
 > **UI Navigation:** click on (3), toggle (2), go to (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** find (1), make (1), snap (1)
@@ -317,7 +317,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), [[DALL-E]] (1), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Generative AI|Gen ai]] (1), [[DALL-E]] (1), [[Generative AI Tools]] (1)
 > **UI Navigation:** go to (4), open the (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)

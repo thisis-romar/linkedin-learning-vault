@@ -136,7 +136,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - everyone (1)
 
 
@@ -154,7 +154,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Privacy]] (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (1), [[E-Commerce]] (1), [[Privacy]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -183,7 +183,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Forecasting]] (1), [[E-Commerce]] (1), [[SaaS]] (1), [[PaaS]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4), [[Deep Learning]] (2), [[Forecasting]] (1), [[E-Commerce]] (1), [[SaaS]] (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -226,7 +226,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Stark (Accessibility Software)|Stark]] (1), [[AI Strategy]] (1), [[Hardware]] (1), [[Conversational AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (4), [[ChatGPT]] (4), [[Stark (Accessibility Software)|Stark]] (1), [[AI Strategy]] (1), [[Hardware]] (1)
 > **Env Vars:** api (15), gpt (1), b2b (1)
 > **CLI Commands:** make (1)
 > **URLs:** [openai.com](https://openai.com) (1)
@@ -316,7 +316,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Customer Support]] (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Generative AI|Genai]] (1), [[Customer Support]] (1), [[Vector Databases]] (1)
 > **Env Vars:** rag (4), llm (1)
 > **Analogies:** similar to (2), for example (1)
 > **CLI Commands:** make (1)
@@ -598,7 +598,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1), [[Forecasting]] (1), [[Microsoft Word|Word]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Generative AI|Gen ai]] (2), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1), [[Forecasting]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), find (1), aws (1)
 > **Env Vars:** cdp (1), etl (1), elt (1), aws (1)
 > **Definitions:** is a  (2), stands for (1), is called (1)
@@ -618,7 +618,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GPT-4]] (2)
+> **Frameworks & Libraries:** [[GPT-4]] (2), [[Generative AI|Genai]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** gpt (2), mmlu (1)
 > **Analogies:** similar to (1), such as (1)
@@ -673,7 +673,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Processing]] (2), [[Google]] (2), [[Cloud Infrastructure]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Google]] (2), [[Cloud Infrastructure]] (2), [[Generative AI|Gen ai]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (5), node (1), find (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Definitions:** is a  (2)
@@ -946,7 +946,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Google]] (2), [[ChatGPT]] (1), [[Microsoft Copilot]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[Microsoft]] (3), [[Google]] (2), [[ChatGPT]] (1), [[Microsoft Copilot]] (1)
 > **Code Identifiers:** itutorgroup (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1263,7 +1263,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (11), [[ChatGPT]] (1), [[GPT-4]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (11), [[ChatGPT]] (1), [[Generative AI|Gen ai]] (1), [[GPT-4]] (1), [[SaaS]] (1)
 > **Env Vars:** roi (6), gpt (1), rag (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** find (1), make (1)
@@ -1325,7 +1325,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), [[Customer Support]] (1), [[Generative AI]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (10), [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), [[Customer Support]] (1), [[Generative AI]] (1)
 > **Env Vars:** roi (10), gpt (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)

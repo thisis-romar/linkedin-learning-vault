@@ -50,3 +50,5 @@ Browser-based cybersecurity learning platform with guided rooms and CTF-style ch
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

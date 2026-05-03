@@ -472,7 +472,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Generative AI]] (1), [[LangChain]] (1), [[Customer Support]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2), [[User Experience (UX)|User experience]] (1), [[Generative AI]] (1), [[LangChain]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (2), exercise files (1)
 > **Env Vars:** gpt (2)

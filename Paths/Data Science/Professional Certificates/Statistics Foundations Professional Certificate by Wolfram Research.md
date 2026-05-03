@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/statistics-foundations-professional
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - professional-certificate
   - topic/data-science

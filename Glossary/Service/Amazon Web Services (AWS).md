@@ -166,3 +166,5 @@ created: 2026-05-03
 ---
 
 *Source: LinkedIn catalog (service)*
+
+Part of [[000 Glossary Index]]

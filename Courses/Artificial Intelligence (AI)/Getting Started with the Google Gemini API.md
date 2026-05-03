@@ -443,7 +443,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (17), [[Gemini]] (13), [[npm]] (5), [[Google]] (5), [[Generative AI]] (3)
+> **Frameworks & Libraries:** [[Node.js]] (17), [[Gemini]] (13), [[npm]] (5), [[Google]] (5), [[Generative AI|Generative-ai]] (3)
 > **CLI Commands:** node (20), npm (5), make (3), python (1)
 > **Env Vars:** api (18), sdk (6), http (1), npm (1)
 > **File Paths:** node.js (17), package.json (2), index.js (2)

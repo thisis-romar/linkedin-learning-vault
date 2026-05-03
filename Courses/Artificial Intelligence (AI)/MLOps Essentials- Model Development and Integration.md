@@ -517,7 +517,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (6), [[Generative AI]] (2), [[Fine Tuning]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -678,7 +678,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[Integration Testing]] (4), [[Vector Databases]] (1), [[Databases]] (1), [[AI Agents]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Generative AI|Genai]] (5), [[Integration Testing]] (4), [[Vector Databases]] (1), [[Databases]] (1)
 > **Env Vars:** aws (1), gcp (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [narrator] (1)

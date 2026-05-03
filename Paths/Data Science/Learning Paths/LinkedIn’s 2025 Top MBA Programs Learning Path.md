@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/linkedin-s-2025-top-mba-programs-le
 course_count: 10
 linkedin_topics:
   - Data Science
-louvain_cluster: 4
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/data-science

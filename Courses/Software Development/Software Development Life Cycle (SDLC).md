@@ -625,7 +625,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[Django]] (3), [[Software Development]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Generative AI|Genai]] (4), [[Django]] (3), [[Software Development]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Warnings:** troubleshoot (1), be aware (1)
 > **Analogies:** imagine (1)

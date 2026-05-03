@@ -244,7 +244,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=0)** - [Instructor] Sometimes we may have a lot of results to return from the query set in our API response. [[Django]] [[Representational State Transfer (REST)|REST]] framework provides three ways to paginate results: by PageNumber, by Limit OffSet, and by [[Cursor]]. The PageNumber pagination defaults to using Django's built-in paginator class and let's API consumers pass in a page number to get a page of results. The LimitOffset pagination is more nuanced and let's API consumers pass in two query parameters. The Limit which controls how many items appear on a page and the OffSet which controls which page appears. The Cursor pagination uses the database cursor for paginating results. The key reason to use this is when you have very large datasets and using the other paginator types would be to inefficient. Now let's add pagination to our product list API view. From REST framework, we import the pagination type we're going to use which is Limit OffSet pagination. And we create our own new pagination subclass ProductsPagination.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=0)** - [Instructor] Sometimes we may have a lot of results to return from the query set in our API response. [[Django]] [[Representational State Transfer (REST)|REST]] framework provides three ways to paginate results: by PageNumber, by Limit OffSet, and by Cursor. The PageNumber pagination defaults to using Django's built-in paginator class and let's API consumers pass in a page number to get a page of results. The LimitOffset pagination is more nuanced and let's API consumers pass in two query parameters. The Limit which controls how many items appear on a page and the OffSet which controls which page appears. The Cursor pagination uses the database cursor for paginating results. The key reason to use this is when you have very large datasets and using the other paginator types would be to inefficient. Now let's add pagination to our product list API view. From REST framework, we import the pagination type we're going to use which is Limit OffSet pagination. And we create our own new pagination subclass ProductsPagination.
 >
 > **[1:23](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=83)** We set a default limit of 10 search results and a max limit of 100. The max limit is the maximum size of a page that can be set by the API client. Now we can use this custom pagination class for the product list API view.
 >
@@ -252,7 +252,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (3), cursor (3), [[Microsoft Products|Products]] (3)
 > **Env Vars:** api (7), rest (3), url (2)
 > **Speakers:** - [instructor] (1)
 

@@ -590,7 +590,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Hugging Face]] (1)
 > **Env Vars:** clip (7), gpt (2), llm (1)
 > **Definitions:** is a  (1), stands for (1), is an  (1)
 > **Cross-References:** we talked about (1)
@@ -619,6 +619,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (1)
 > **Env Vars:** llm (2), rag (1), gpt (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

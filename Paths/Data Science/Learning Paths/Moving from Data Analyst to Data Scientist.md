@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/moving-from-data-analyst-to-data-sc
 course_count: 11
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science

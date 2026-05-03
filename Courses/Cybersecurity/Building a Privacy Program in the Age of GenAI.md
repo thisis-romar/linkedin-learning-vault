@@ -90,7 +90,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[Cloud Computing]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[Privacy]] (2), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[Cloud Computing]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - it (1)
 
@@ -156,7 +156,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (10), [[Privacy Protection]] (1), [[Flux]] (1), [[Data Processing]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Generative AI|Gen ai]] (2), [[Privacy Protection]] (1), [[Flux]] (1), [[Data Processing]] (1)
 > **Env Vars:** vppa (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -188,7 +188,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Governance]] (8), [[Data Classification]] (2), [[Microsoft Word|Word]] (1), [[Privacy]] (1), [[Data Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (8), [[Data Classification]] (2), [[Microsoft Word|Word]] (1), [[Generative AI|Gen ai]] (1), [[Privacy]] (1)
 > **Definitions:** refers to (1), is called (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -242,7 +242,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), [[Data Classification]] (2), [[Data Governance]] (1), [[Data Quality]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Data Classification]] (2), [[Data Governance]] (1), [[Data Quality]] (1), [[Generative AI|Gen ai]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** we covered (1), previous video (1)
@@ -388,7 +388,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Privacy]] (1), [[LinkedIn]] (1), [[Data Management]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Generative AI|Gen ai]] (1), [[LinkedIn]] (1), [[Data Management]] (1), [[Privacy]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - thank (1)
 

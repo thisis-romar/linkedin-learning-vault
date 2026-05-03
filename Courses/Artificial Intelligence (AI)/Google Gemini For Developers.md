@@ -97,7 +97,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Gemini]] (2), [[Generative AI]] (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[Google Gemini]] (2), [[Generative AI|Gen ai]] (2), [[Generative AI]] (1), [[Gemini]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [lynn] (1)
 
@@ -440,7 +440,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (10), [[Gemini]] (2), [[Generative AI]] (1), [[Elasticsearch]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (10), [[Gemini]] (2), [[Generative AI|Gen ai]] (1), [[Generative AI]] (1), [[Elasticsearch]] (1)
 > **Versions:** 1.5 (3), 2.5 (2)
 > **Env Vars:** api (3), llm (1)
 > **CLI Commands:** make (2)

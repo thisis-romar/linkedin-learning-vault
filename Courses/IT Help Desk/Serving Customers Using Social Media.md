@@ -390,7 +390,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Instagram]] (7), [[Generative AI]] (2), [[LinkedIn]] (1), [[Facebook]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Instagram]] (7), [[Generative AI]] (2), [[Generative AI|Gen ai]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
@@ -410,7 +410,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (19), [[Facebook]] (2), [[Generative AI Tools]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (19), [[Generative AI|Genai]] (11), [[Facebook]] (2), [[Generative AI Tools]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** tsa (3)
 > **CLI Commands:** find (1)

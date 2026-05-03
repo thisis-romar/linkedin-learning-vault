@@ -99,3 +99,5 @@ Payment Card Industry Data Security Standard — security requirements for organ
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

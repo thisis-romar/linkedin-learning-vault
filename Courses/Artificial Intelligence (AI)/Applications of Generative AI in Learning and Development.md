@@ -82,6 +82,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (4)
 > **Speakers:** - gen (1)
 
 
@@ -101,7 +102,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Leadership Development]] (3), [[Generative AI]] (1), [[Decision-Making]] (1), [[Data Quality]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[Leadership Development]] (3), [[Generative AI]] (1), [[Decision-Making]] (1), [[Data Quality]] (1)
 > **Analogies:** such as (1), picture (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -119,6 +120,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (5)
 > **CLI Commands:** make (2)
 > **URLs:** [trainingindustry.com](https://trainingindustry.com) (1)
 > **Definitions:** is an  (1)
@@ -142,7 +144,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (4), [[Leadership Development]] (3), [[Thinking Skills]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[Decision-Making]] (4), [[Leadership Development]] (3), [[Thinking Skills]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -159,7 +161,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Leadership Development]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (6), [[Leadership Development]] (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -180,7 +182,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Leadership Development]] (2), [[Generative AI]] (1), [[Content Creation]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (8), [[Leadership Development]] (2), [[Generative AI]] (1), [[Content Creation]] (1), [[ChatGPT]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -199,7 +201,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (5), [[Decision-Making]] (2), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (5), [[Generative AI|Gen ai]] (3), [[Decision-Making]] (2), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
@@ -220,7 +222,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Leadership Development]] (1), [[Forms]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (8), [[Leadership Development]] (1), [[Forms]] (1), [[Content Creation]] (1)
 > **Analogies:** such as (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -239,7 +241,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

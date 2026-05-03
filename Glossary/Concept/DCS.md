@@ -50,3 +50,5 @@ Distributed Control System — process control system used in manufacturing and 
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

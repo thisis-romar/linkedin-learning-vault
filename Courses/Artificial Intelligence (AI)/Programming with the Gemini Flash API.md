@@ -96,7 +96,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (14), [[Google]] (5), [[Gemini]] (4), [[Google Gemini]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (14), [[Google]] (5), [[Gemini]] (4), [[Google Gemini]] (1), [[GPT-4|Gpt-4o]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2), gpt (1)
 > **Versions:** 1.05 (1), 2.10 (1)

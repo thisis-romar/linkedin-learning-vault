@@ -680,7 +680,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[GPT-4|Gpt4]] (1)
 > **Env Vars:** jsx (2), api (1), gbt4 (1), gpt4 (1)
 > **CLI Commands:** make (2)
 > **File Paths:** descript.jsx (1)

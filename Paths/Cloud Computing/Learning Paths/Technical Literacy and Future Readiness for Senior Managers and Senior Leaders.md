@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - Cloud Computing
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/cloud-computing

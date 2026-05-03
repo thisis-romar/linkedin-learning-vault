@@ -284,3 +284,5 @@ Social media platform widely used for customer service and brand engagement.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

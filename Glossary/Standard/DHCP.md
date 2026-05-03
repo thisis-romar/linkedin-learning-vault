@@ -95,3 +95,5 @@ Dynamic Host Configuration Protocol — automatically assigns IP addresses and n
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

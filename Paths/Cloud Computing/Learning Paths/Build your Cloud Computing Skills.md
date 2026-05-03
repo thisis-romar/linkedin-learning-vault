@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-cloud-computing-skills
 course_count: 3
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 9
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/cloud-computing

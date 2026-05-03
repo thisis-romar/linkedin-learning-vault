@@ -34,3 +34,5 @@ Author of the Linux privilege escalation guide and basic-pentest-dojo resource.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

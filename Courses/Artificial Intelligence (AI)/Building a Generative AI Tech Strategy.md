@@ -87,7 +87,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Generative AI]] (1), [[Cloud Computing]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Generative AI]] (1), [[Cloud Computing]] (1), [[Content Creation]] (1), [[Generative AI|Gen ai]] (1)
 > **Analogies:** just like (1), such as (1)
 > **Code Identifiers:** ewow (1)
 > **Env Vars:** ceo (1)
@@ -109,7 +109,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[Content Creation]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[User Experience (UX)|User experience]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Generative AI|Gen ai]] (6), [[Content Creation]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** nlp (1)
 > **Definitions:** is a  (1)
@@ -126,7 +126,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), [[AI Strategy]] (1), [[Customer Support]] (1), [[Microsoft Products|Products]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Generative AI|Gen ai]] (1), [[Customer Support]] (1), [[Microsoft Products|Products]] (1), [[Product Development]] (1)
 > **Definitions:** is a  (4)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -140,6 +140,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4)
 > **Env Vars:** nps (1), roi (1)
 > **Analogies:** for example (2)
 > **Speakers:** - implementing (1)
@@ -174,7 +175,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Supply Chain Operations]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Generative AI|Gen ai]] (2), [[Supply Chain Operations]] (1)
 > **Speakers:** - when (1)
 
 #### [Identifying implementation requirements](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/identifying-implementation-requirements?u=76281980)
@@ -189,7 +190,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[Privacy]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Hardware]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Generative AI|Gen ai]] (2), [[Privacy]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Hardware]] (1)
 > **Speakers:** - you (1)
 
 #### [Creating a roadmap](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-roadmap?u=76281980)
@@ -202,7 +203,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Strategy]] (2), [[AI Solutions]] (2), [[Generative AI]] (1), [[Data Collection]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (6), [[Generative AI]] (1), [[Data Collection]] (1)
 > **Speakers:** - to (1)
 
 
@@ -220,7 +221,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[Prototyping]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Prototyping]] (2), [[Generative AI|Genai]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - to (1)
 
@@ -234,7 +235,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[AI Solutions]] (1), [[Data Collection]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[AI Solutions]] (1), [[Data Collection]] (1), [[Generative AI|Genai]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - as (1)
@@ -266,7 +267,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[Fine Tuning]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[Generative AI]] (1), [[Fine Tuning]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (3)
 > **Speakers:** - an (1)
 
@@ -280,7 +281,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Generative AI|Gen ai]] (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - as (1)
 
 #### [Continuous learning and adaptation](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/continuous-learning-and-adaptation?u=76281980)
@@ -293,7 +294,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[User Experience (UX)|User experience]] (2), [[AI Solutions]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (4), [[Generative AI]] (3), [[User Experience (UX)|User experience]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - generative (1)
 
@@ -310,7 +311,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[LinkedIn]] (2), [[AI Strategy]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI|Gen ai]] (2), [[LinkedIn]] (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - generative (1)
 

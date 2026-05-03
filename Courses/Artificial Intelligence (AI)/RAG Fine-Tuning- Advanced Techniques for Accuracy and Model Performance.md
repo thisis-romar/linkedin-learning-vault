@@ -246,7 +246,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Preparation]] (1), [[LangChain]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2), [[Data Preparation]] (1), [[LangChain]] (1), [[Banking]] (1)
 > **Env Vars:** gpt (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
@@ -267,7 +267,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (1), [[LangChain]] (1)
 > **Code Identifiers:** generate_answer (1), generate_triplets_in_parallel (1)
 > **Env Vars:** gpt (1), api (1)
 > **Cross-References:** in the next (1)

@@ -169,3 +169,5 @@ IEEE 802.11 wireless local area networking standard.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

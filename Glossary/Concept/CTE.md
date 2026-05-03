@@ -74,3 +74,5 @@ Common Table Expression — named temporary result set defined within a SQL quer
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

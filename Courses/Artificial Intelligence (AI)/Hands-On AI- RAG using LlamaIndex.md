@@ -944,7 +944,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Search]] (1), [[Metadata]] (1), [[GPT-4]] (1), [[LLaMA]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1), [[Metadata]] (1), [[GPT-4]] (1), [[GPT-4|Gpt-4o]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (17), api (3), gpt (2), lms (1), rag (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2), make (1)

@@ -81,7 +81,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI|Gen ai]] (1), [[ChatGPT]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 > **Non-Speech:** (gentle bright music) (1)

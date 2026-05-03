@@ -196,7 +196,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Data Preparation]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4), [[Predictive Analytics]] (1), [[Data Preparation]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -401,6 +401,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - we (1)
@@ -507,7 +508,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Algorithms]] (2), [[Predictive Analytics]] (1), [[Ethics]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Algorithms]] (2), [[Predictive Analytics]] (1), [[Generative AI|Gen ai]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - responsible (1)
 

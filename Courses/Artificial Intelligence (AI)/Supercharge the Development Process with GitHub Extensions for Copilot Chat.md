@@ -152,7 +152,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[GitHub]] (5), [[GitHub Copilot]] (1), [[JavaScript]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[GitHub]] (5), [[GitHub Copilot]] (1), [[JavaScript]] (1), [[GPT-4|Gpt-4o]] (1)
 > **UI Navigation:** click on (3), go to (3), switch to (2)
 > **Tools:** github (6)
 > **Env Vars:** readme (2), gpt (1)

@@ -108,6 +108,10 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980&t=0)** Gen air models have taken the world by storm. But getting them to actually work for your organization requires careful thought on how to adopt them into your processes and use cases. That's what we will cover in this course. We will take a conceptual overview on how to create a [[Generative AI|GenAI]] journey for your enterprise. We will cover prioritizing use cases, choosing a model, evaluating it, ensuring it's safe, and measure its success. I am Kumaran Ponnambalm. If you are ready to see just how GenAI can work for your organization, let's get started.
 
+> [!info]- Semantic Content
+>
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2)
+
 #### [Course content and prerequisites](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-content-and-pre-requisites?u=76281980)
 
 > [!transcript]- Transcript
@@ -137,7 +141,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (11), [[Generative AI]] (2)
 > **Cross-References:** in the next (1)
 
 #### [How GenAI is impacting enterprises](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/how-gen-ai-is-impacting-enterprises?u=76281980)
@@ -150,7 +154,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[Customer Support]] (1), [[Human Resources (HR)|Human resources]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[Generative AI]] (1), [[Customer Support]] (1), [[Human Resources (HR)|Human resources]] (1), [[Microsoft Products|Products]] (1)
 
 #### [GenAI challenges for enterprises](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-challenges-for-enterprises?u=76281980)
 
@@ -162,7 +166,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (13), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 
 #### [GenAI adoption process](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-adoption-process?u=76281980)
@@ -175,7 +179,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[Generative AI]] (1)
 > **Best Practices:** recommended (1)
 
 
@@ -193,7 +197,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Content Creation]] (1), [[Human Resources (HR)|Human resources]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), [[Decision-Making]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (9), [[Content Creation]] (1), [[Human Resources (HR)|Human resources]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (1)
 
 #### [Identifying and evaluating GenAI use cases](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/identifying-and-evaluating-gen-ai-use-cases?u=76281980)
@@ -208,7 +212,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (9), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 
@@ -224,7 +228,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Content Creation]] (1), [[Microsoft Copilot|Copilot]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4), [[Content Creation]] (1), [[Microsoft Copilot|Copilot]] (1), [[Generative AI]] (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Env Vars:** poc (1)
 > **Analogies:** for example (1)
@@ -239,6 +243,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1)
 > **Env Vars:** poc (14)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -253,7 +258,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Electronics]] (1), [[Technical Support]] (1), [[Semantic Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Generative AI|Genai]] (2), [[Electronics]] (1), [[Technical Support]] (1), [[Semantic Search]] (1)
 > **Env Vars:** rag (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
@@ -275,7 +280,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), [[Microsoft Azure|Azure]] (2), [[Fine Tuning]] (1), [[Hugging Face|Huggingface]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (6), [[Algorithms]] (2), [[Microsoft Azure|Azure]] (2), [[Fine Tuning]] (1), [[Hugging Face|Huggingface]] (1)
 > **Env Vars:** aws (2), gcp (2), bert (1), api (1), gpt (1)
 > **CLI Commands:** aws (2), make (1)
 > **Tools:** github (1)
@@ -291,7 +296,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1), [[Real-Time]] (1)
 > **Env Vars:** rag (1)
 > **Analogies:** for example (1)
 
@@ -305,6 +310,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 
@@ -320,7 +326,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Private Clouds]] (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1), [[LLaMA]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (6), [[Fine Tuning]] (2), [[Private Clouds]] (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** api (3), aws (1), vpc (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** aws (1), make (1)
@@ -336,7 +342,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Data Lineage]] (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1), [[Forms]] (1), [[Data Lineage]] (1), [[Fine Tuning]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
@@ -357,6 +363,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the last (1)
@@ -372,7 +379,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Reinforcement Learning]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (3), [[Generative AI|Genai]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Reinforcement Learning]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -387,7 +394,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[Algorithms]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[Algorithms]] (1), [[Generative AI|Genai]] (1), [[Version Control]] (1)
 > **Analogies:** similar to (3)
 > **Env Vars:** dvc (1)
 
@@ -401,7 +408,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Generative AI]] (1), [[Algorithms]] (1)
 > **Env Vars:** bleu (1), rouge (1)
 > **Cross-References:** we talked about (1), previous video (1)
 
@@ -438,6 +445,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (8)
 > **Env Vars:** api (1)
 
 #### [Batch generation with GenAI models](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/batch-generation-with-gen-ai-models?u=76281980)
@@ -450,7 +458,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Batch Processing]] (2), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (6), [[Generative AI]] (2), [[Batch Processing]] (2), [[Apache Spark]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** apache (1)
 > **Env Vars:** rdbms (1)
@@ -467,7 +475,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Unstructured Data]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[User Experience (UX)|User experience]] (2), [[Unstructured Data]] (1), [[Tokens]] (1)
 > **Env Vars:** api (3), rag (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
@@ -482,7 +490,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[JSON]] (1), [[Fine Tuning]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[Generative AI|Genai]] (4), [[JSON]] (1), [[Fine Tuning]] (1), [[Tokens]] (1)
 > **Env Vars:** json (1), rag (1)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
@@ -497,7 +505,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Collection]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[Data Collection]] (1)
 
 #### [Course use case: Architecture](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/course-use-case-architecture?u=76281980)
 
@@ -511,7 +519,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Data Privacy]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1), [[Microsoft Products|Products]] (1), [[Data Privacy]] (1)
 > **Env Vars:** rag (2), llm (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -533,7 +541,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Personal Data Protection]] (1), [[Ethics]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (14), [[Personal Data Protection]] (1), [[Ethics]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gdpr (1), hipaa (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -550,7 +558,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (2), [[Generative AI]] (1), [[Web Application Security]] (1), [[Data Classification]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[OWASP]] (2), [[Generative AI]] (1), [[Web Application Security]] (1), [[Data Classification]] (1)
 > **Env Vars:** owasp (2), api (1), pii (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Best Practices:** recommended (2)
@@ -568,7 +576,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4), [[Decision-Making]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -583,7 +591,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Fine Tuning]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Fine Tuning]] (1), [[Prompt Engineering]] (1), [[Generative AI|Genai]] (1)
 > **Env Vars:** rag (1)
 > **Analogies:** for example (1)
 
@@ -597,7 +605,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1), [[Zoom]] (1)
 > **Env Vars:** llm (6)
 > **Cross-References:** previous chapter (1)
 
@@ -616,7 +624,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[Generative AI]] (1)
 > **Analogies:** for example (2)
 
 #### [Improving GenAI accuracy](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/improving-gen-ai-accuracy?u=76281980)
@@ -627,7 +635,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Prompt Engineering]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** we discussed (1)
 
@@ -639,7 +647,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Hardware]] (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 
@@ -651,7 +659,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (1), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4), [[Tokens]] (1), [[Batch Processing]] (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
@@ -681,6 +689,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5)
 > **CLI Commands:** find (1)
 
 

@@ -89,7 +89,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (5), [[Generative AI]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - generative (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -123,7 +123,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[Diversity and Inclusion]] (1), [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (5), [[Generative AI]] (3), [[Diversity and Inclusion]] (1), [[Organizational Culture]] (1)
 > **Env Vars:** shrm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - according (1)
@@ -147,7 +147,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Organizational Culture]] (1), [[Leadership Development]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (7), [[Generative AI]] (4), [[Organizational Culture]] (1), [[Leadership Development]] (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - recruiting (1)
 
@@ -163,7 +163,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Leadership Development]] (4), [[Generative AI]] (3), [[Strategic Thinking]] (2), [[Inclusive Leadership]] (2), [[Program Design]] (1)
+> **Frameworks & Libraries:** [[Leadership Development]] (4), [[Generative AI]] (3), [[Generative AI|Genai]] (2), [[Strategic Thinking]] (2), [[Inclusive Leadership]] (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - a (1)
@@ -180,7 +180,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[Organizational Culture]] (1)
 > **Env Vars:** dei (14), erg (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -198,6 +198,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3)
 > **Speakers:** - the (1)
 
 #### [Developing HR policies](https://www.linkedin.com/learning/generative-ai-in-hr/developing-hr-policies?u=76281980)
@@ -210,7 +211,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (9), [[Privacy]] (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - with (1)
@@ -230,7 +231,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Decision-Making]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (4), [[Generative AI]] (2), [[Decision-Making]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Privacy]] (1)
 > **Prerequisites:** you'll need (2), required to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -247,7 +248,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), [[LinkedIn]] (2), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (12), [[ChatGPT]] (2), [[LinkedIn]] (2), [[Prompt Engineering]] (1)
 > **Env Vars:** shrm (3), pwc (1)
 > **Cross-References:** in the next (2)
 > **Best Practices:** remember to (1)
@@ -263,7 +264,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (5), [[Organizational Culture]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -280,7 +281,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (6), [[Soft Skills]] (3), [[LinkedIn]] (2), [[AI Literacy]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[Prompt Engineering]] (6), [[Soft Skills]] (3), [[LinkedIn]] (2), [[AI Literacy]] (1)
 > **Env Vars:** mit (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -298,7 +299,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1), [[Customer Support]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (13), [[Forms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** seo (1)
 > **Cross-References:** in the next (1)
@@ -324,7 +325,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Privacy]] (1), [[Cybersecurity]] (1), [[Stable Diffusion]] (1), [[Data Privacy]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (13), [[Data Security]] (1), [[Privacy]] (1), [[Cybersecurity]] (1), [[Stable Diffusion]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - while (1)
@@ -341,7 +342,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Generative AI]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (5), [[Forms]] (1), [[Generative AI]] (1), [[Statistics]] (1)
 > **Speakers:** - so (1)
 
 
@@ -357,7 +358,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[LinkedIn]] (2)
 > **Speakers:** - congratulations (1)
 
 

@@ -92,11 +92,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-foundations-of-iot-22850846?u=76281980&t=0)** - Controlling your home temperature, appliances, and security systems with your smartphone is becoming the norm. Even cities are using technology to improve transportation, waste management, health, and public safety. Well, these are just few examples of the power of the [[IoT|Internet of Things]] or [[IoT]] and this concept is becoming part of our daily lives and rapidly changing the way we interact with the world around us. In this [[LinkedIn]] Learning course, I'll give you an overview of the Internet of Things. Covering definitions, architecture, components, and ecosystems. I'm Zara Khalil, join me as weak explore IOT together.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-foundations-of-iot-22850846?u=76281980&t=0)** - Controlling your home temperature, appliances, and security systems with your smartphone is becoming the norm. Even cities are using technology to improve transportation, waste management, health, and public safety. Well, these are just few examples of the power of the [[Internet of Things (IoT)|Internet of Things]] or [[IoT]] and this concept is becoming part of our daily lives and rapidly changing the way we interact with the world around us. In this [[LinkedIn]] Learning course, I'll give you an overview of the Internet of Things. Covering definitions, architecture, components, and ecosystems. I'm Zara Khalil, join me as weak explore IOT together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[IoT]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), [[IoT]] (2), [[LinkedIn]] (1)
 > **Env Vars:** iot (2)
 > **Speakers:** - controlling (1)
 
@@ -104,11 +104,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is to introduce you to the foundation of [[IoT|Internet of Things]], standards and ecosystems. No previous knowledge is required as I will take you through an overview covering [[IoT]] definitions, IoT components, standardization process, and I will go through examples. One is covering IoT in industrial automation, a specific area, and one covering IoT example in wider perspective in community as a smart city.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is to introduce you to the foundation of [[Internet of Things (IoT)|Internet of Things]], standards and ecosystems. No previous knowledge is required as I will take you through an overview covering [[IoT]] definitions, IoT components, standardization process, and I will go through examples. One is covering IoT in industrial automation, a specific area, and one covering IoT example in wider perspective in community as a smart city.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (4), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -120,13 +120,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980&t=0)** - [Instructor] The term [[IoT|Internet of Things]], or [[IoT]] was first mentioned in 1999, during a presentation on [[Supply Chain Management]] at MIT, by British technology pioneer, Kevin Ashton. Earlier [[Forms]] of communication within IoT, often involved machines of the same type called machine-to-machine or M2M communication. For example, the devices used in supply chain management systems to track inventory where all communication is done locally. Today, the Internet of Things has expanded beyond machine-to-machine communication, devices of all types can communicate with each other from anywhere in the world. This can include larger scale industrial applications like [[SCADA]] systems, commercial [[Microsoft Products|products]], like smartphones or local networks of sensors, like traffic monitoring systems. There are two common term definitions used to represent the concepts regarding IoT environments, Internet of Everything and Industrial IoT. Internet of Everything is used by Cisco to refer to the intelligent connection of people, processes, data and things. That includes, machine-to-machine communication, machine-to-people, and technology assistant, people-to-people interaction.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980&t=0)** - [Instructor] The term [[Internet of Things (IoT)|Internet of Things]], or [[IoT]] was first mentioned in 1999, during a presentation on [[Supply Chain Management]] at MIT, by British technology pioneer, Kevin Ashton. Earlier [[Forms]] of communication within IoT, often involved machines of the same type called machine-to-machine or M2M communication. For example, the devices used in supply chain management systems to track inventory where all communication is done locally. Today, the Internet of Things has expanded beyond machine-to-machine communication, devices of all types can communicate with each other from anywhere in the world. This can include larger scale industrial applications like [[SCADA]] systems, commercial [[Microsoft Products|products]], like smartphones or local networks of sensors, like traffic monitoring systems. There are two common term definitions used to represent the concepts regarding IoT environments, Internet of Everything and Industrial IoT. Internet of Everything is used by Cisco to refer to the intelligent connection of people, processes, data and things. That includes, machine-to-machine communication, machine-to-people, and technology assistant, people-to-people interaction.
 >
 > **[1:33](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980&t=93)** Industrial IoT is another commonly definition used in industrial processes by high tech companies where machine to machine communication, and [[Big Data]] analysis is performed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), [[IoT|Internet of things]] (2), [[Forms]] (1), [[Supply Chain Management]] (1), [[SCADA]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Internet of Things (IoT)|Internet of things]] (2), [[Forms]] (1), [[Supply Chain Management]] (1), [[SCADA]] (1)
 > **Env Vars:** mit (1), m2m (1), scada (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -135,11 +135,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/definition-of-iot?u=76281980&t=0)** - [Instructor] The Institute of Electrical and [[Electronics]] Engineering, or I triple E, defines the [[IoT|Internet of Things]] as a network that connects uniquely identifiable things to the internet. The internet refers to the large category of applications and protocols within the network. The things are basically any device that is capable of connecting to the internet, including smart devices, sensors, daily personal devices, factory machines, and any other entity that's able to communicate with other connected objects. Information about the things can be collected, and their states can be changed from anywhere, anytime by anything. This also includes people who operate the devices, and use the applications. So the relationship is, people to people, people to things and things to things. [[IoT]] as a concept is simply connecting devices or things to the internet and or to each other. IoT en campuses the following fundamentals, smart sensing and actuating, computing and connectivity and communication.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/definition-of-iot?u=76281980&t=0)** - [Instructor] The Institute of Electrical and [[Electronics]] Engineering, or I triple E, defines the [[Internet of Things (IoT)|Internet of Things]] as a network that connects uniquely identifiable things to the internet. The internet refers to the large category of applications and protocols within the network. The things are basically any device that is capable of connecting to the internet, including smart devices, sensors, daily personal devices, factory machines, and any other entity that's able to communicate with other connected objects. Information about the things can be collected, and their states can be changed from anywhere, anytime by anything. This also includes people who operate the devices, and use the applications. So the relationship is, people to people, people to things and things to things. [[IoT]] as a concept is simply connecting devices or things to the internet and or to each other. IoT en campuses the following fundamentals, smart sensing and actuating, computing and connectivity and communication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), [[Electronics]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Electronics]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -147,11 +147,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/web-of-things-wot?u=76281980&t=0)** - [Narrator] The [[IoT|internet of things]] has been growing rapidly and has billions of smart things connected to the internet, so compatibility is important. Incompatible protocols can become an issue, meaning the integration of data and services from various devices can be complex and challenging. This introduces the web of things, or WOT. The web of things describes the integration of different objects of the internet of things to the web to enable communication between heterogeneous devices and objects. The web of things emerged as an application platform of the internet of things. It was created to overcome the lack of interoperability of the internet of things across some platforms and develop a standard to have a common platform for [[IoT]]. The things within the web of things have smart embedded systems that enable communication with each other or with the web using the existing [[Web Standards]]. And by having a universal application layer protocol, this creates an open IOT ecosystem where all objects, devices, and applications can easily connect and talk to each other regardless of how they are physically connected.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/web-of-things-wot?u=76281980&t=0)** - [Narrator] The [[Internet of Things (IoT)|internet of things]] has been growing rapidly and has billions of smart things connected to the internet, so compatibility is important. Incompatible protocols can become an issue, meaning the integration of data and services from various devices can be complex and challenging. This introduces the web of things, or WOT. The web of things describes the integration of different objects of the internet of things to the web to enable communication between heterogeneous devices and objects. The web of things emerged as an application platform of the internet of things. It was created to overcome the lack of interoperability of the internet of things across some platforms and develop a standard to have a common platform for [[IoT]]. The things within the web of things have smart embedded systems that enable communication with each other or with the web using the existing [[Web Standards]]. And by having a universal application layer protocol, this creates an open IOT ecosystem where all objects, devices, and applications can easily connect and talk to each other regardless of how they are physically connected.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT|Internet of things]] (4), [[IoT]] (2), [[Web Standards]] (1)
+> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (4), [[IoT]] (2), [[Web Standards]] (1)
 > **Env Vars:** iot (2), wot (1)
 > **Speakers:** - [narrator] (1)
 
@@ -246,11 +246,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-iot-ecosystem?u=76281980&t=0)** - [Instructor] The [[IoT|Internet of Things]] is a system consisting of networks, of sensors and smart objects whose purpose is to interconnect all things. The [[IoT]] ecosystem is a little bit harder to define because each example is different and each system contains a wide range of objects, including different devices, apps, services and networks. So to have a general overview of the IoT ecosystem, we can divide it into three main areas: IoT technology, IoT market and IoT standards.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-iot-ecosystem?u=76281980&t=0)** - [Instructor] The [[Internet of Things (IoT)|Internet of Things]] is a system consisting of networks, of sensors and smart objects whose purpose is to interconnect all things. The [[IoT]] ecosystem is a little bit harder to define because each example is different and each system contains a wide range of objects, including different devices, apps, services and networks. So to have a general overview of the IoT ecosystem, we can divide it into three main areas: IoT technology, IoT market and IoT standards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -299,11 +299,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/iot-standards?u=76281980&t=0)** - [Instructor] The third part of the [[IoT]] ecosystem is IoT standards. Standards are published documents that include specifications and procedures. IOT standardization is the corporation among industry, customers, public authorities, and other interested parties for the development of a technical specification of IoT applications. There are different regional and international standards organizations that work on producing the IoT standards. Examples: Institution of Electrical and [[Electronics]] Engineering, International Electrotechnical Commission, International Organization of Standardization, International Society of Automation, and the Internet Engineering Task Force. There's a specific and separate IoT standard for each area. For example, energy management, information technology, communication and networks, health, and education. Here are a couple of examples of different IEEE standards. IEEE 11073 is a standard used for health and medical device communication. IEEE 802.11 is one of the standards for [[Wi-Fi]]. IEEE 2413 is a standard, defines an IOT architecture. Another example is International Organization
 >
-> **[1:37](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/iot-standards?u=76281980&t=97)** of Standardization. ISO standards that are related to IoT are developed as a collaboration between ISO and IEC. An example is ISO/IEC 30141. This standard is an [[IoT|Internet of Things]] Reference Architecture. It defines the IoT domain, characteristic of an IoT system, and IoT reference model, and IoT identification of the entity and interoperability.
+> **[1:37](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/iot-standards?u=76281980&t=97)** of Standardization. ISO standards that are related to IoT are developed as a collaboration between ISO and IEC. An example is ISO/IEC 30141. This standard is an [[Internet of Things (IoT)|Internet of Things]] Reference Architecture. It defines the IoT domain, characteristic of an IoT system, and IoT reference model, and IoT identification of the entity and interoperability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (12), [[Electronics]] (1), [[Wi-Fi]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (12), [[Electronics]] (1), [[Wi-Fi]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** ieee (4), iso (3), iot (2), iec (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Versions:** 802.11 (1)
@@ -334,13 +334,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/standards-name-format?u=76281980&t=0)** - [Instructor] Each standards organization has a unique name format. The name of IEEE standard starts with IEEE and a number that presents the family of standards that is grouped together of the topics selected and the year the standard was established or approved is added at the end. The family of standards is 2413, and this standard was established in 2019. The standards of the International Organization of Standardization, or ISO, that are related to [[IoT]] are usually developed as a collaboration between ISO and IEC organizations. An example is ISO/IEC JTC 1.
 >
-> **[0:58](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/standards-name-format?u=76281980&t=58)** This standard was developed for information and communication technology. The name represents the two organizations that work on the standard. ISO and IEC have established a joint technical committee. It is called JTC-1, which stands for the Joint Technical Committee. The committee members are the people who develop standards to codify certain guidelines. Each standard is defined by a distinguished name. This represents the organization committee and sub committee. The standard name that deals with [[IoT|internet of things]] within ISO organization is ISO/IEC JTC 1/WG 10. The name explains the standardization hierarchy. ISO/IEC, the Joint Organizations. JTC 1, Joint Technical Committee. WG 10, Working Group 10, which basically the team working on IoT standardization. Another example is the standardization that deals with radio frequency identification is called JTC 1 SC 31/WG 4.
+> **[0:58](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/standards-name-format?u=76281980&t=58)** This standard was developed for information and communication technology. The name represents the two organizations that work on the standard. ISO and IEC have established a joint technical committee. It is called JTC-1, which stands for the Joint Technical Committee. The committee members are the people who develop standards to codify certain guidelines. Each standard is defined by a distinguished name. This represents the organization committee and sub committee. The standard name that deals with [[Internet of Things (IoT)|internet of things]] within ISO organization is ISO/IEC JTC 1/WG 10. The name explains the standardization hierarchy. ISO/IEC, the Joint Organizations. JTC 1, Joint Technical Committee. WG 10, Working Group 10, which basically the team working on IoT standardization. Another example is the standardization that deals with radio frequency identification is called JTC 1 SC 31/WG 4.
 >
 > **[2:32](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/standards-name-format?u=76281980&t=152)** Meaning, JTC 1, the Joint Technical Group, Subcommittee 31, and the Work Group is 4.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Env Vars:** iso (7), jtc (6), iec (5), ieee (2)
 > **Definitions:** is called (2), stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -386,7 +386,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-ieee-iot-standards?u=76281980&t=0)** - [Instructor] An IEEE initiative was launched in 2014 that focuses on topics in [[IoT]], creating a variety offer related standards. The IEEE IT initiative serves as a platform for professionals to collaborate on research and development standards. It also serves as a reference to the global community of professionals working on technologies related to IT. Many of the IoT standards within IEEE are set by the IEEE Standards Association, IEEE-SA. Another IEEE group that develops standards for IoT is the IEEE Communication Society. The IEEE 2413 standard is directly related to IoT. The standard defines the architecture framework for the [[IoT|Internet of Things]], including description of the various IoT domains and provides a reference model that defines relationships among various IoT systems and includes details about protection, security, [[Privacy]], and safety. This standard status is active, which means it's still being developed and updated as of the recording of this course. The last version that was published was in 2020.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-ieee-iot-standards?u=76281980&t=0)** - [Instructor] An IEEE initiative was launched in 2014 that focuses on topics in [[IoT]], creating a variety offer related standards. The IEEE IT initiative serves as a platform for professionals to collaborate on research and development standards. It also serves as a reference to the global community of professionals working on technologies related to IT. Many of the IoT standards within IEEE are set by the IEEE Standards Association, IEEE-SA. Another IEEE group that develops standards for IoT is the IEEE Communication Society. The IEEE 2413 standard is directly related to IoT. The standard defines the architecture framework for the [[Internet of Things (IoT)|Internet of Things]], including description of the various IoT domains and provides a reference model that defines relationships among various IoT systems and includes details about protection, security, [[Privacy]], and safety. This standard status is active, which means it's still being developed and updated as of the recording of this course. The last version that was published was in 2020.
 >
 > **[1:37](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-ieee-iot-standards?u=76281980&t=97)** The standard development team consists of the following. Working Group is IoT Architecture. Standards Committee, BOG, which stands for Board of Governors/CAG stands for Corporate Advisory Group. And the society is IEEE Board of Governors. Here are a couple of examples of IEEE IoT related standards. P 1451 is focused on developing a standard for harmonization of Internet of Things, devices and systems. IEEE 25110 covers the quality of data sensor parameters within IoT. This standard provides a reference architecture for Smart City. A very common IEEE IT standard is the IEEE 802 Family of IEEE Standards dealing with local area networks. It consists of 71 published standards with 54 under development. The most widely used IEEE 802 standards are for ethernet. The number you see besides 802.3 is the number of the members within this family. Here are more IEEE standards within the same family.
 >
@@ -394,7 +394,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (9), [[IoT|Internet of things]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[IoT]] (9), [[Internet of Things (IoT)|Internet of things]] (2), [[Privacy]] (1)
 > **Env Vars:** ieee (17), bog (1), cag (1)
 > **Definitions:** stands for (2)
 > **Versions:** 802.3 (1)
@@ -422,13 +422,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/security?u=76281980&t=0)** - [Instructor] Some of the challenges that face the implementation of the [[IoT|Internet of Things]] are security, [[Privacy]], complexity and standards, and legal issues. For security, due to the fact that the scale of [[IoT]] applications, devices and services is large, the quantity of connections between these devices is large as well. Therefore, the users of the systems need to trust that the information and services are being exchanged in a secure environment. This is very important as IoT technologies become more integrated into our daily lives, and poorly secured IoT devices and applications make them a potential target for [[Cybersecurity]] threats. Rarely a day goes by that we don't hear about another cybersecurity attack. Not only businesses and governments are the target, but also regular people through any of their personal devices. Things like hack. data breach, or a damaging malware. So on a personal level, here are some suggestions: Choose a strong, unique password that you don't share with others. Also enable two-factor authentication, means that you need to enter not only a password, but also a one-time code that's sent usually to your mobile phone. In general, here are some of the methods used to make IoT systems more secure:
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/security?u=76281980&t=0)** - [Instructor] Some of the challenges that face the implementation of the [[Internet of Things (IoT)|Internet of Things]] are security, [[Privacy]], complexity and standards, and legal issues. For security, due to the fact that the scale of [[IoT]] applications, devices and services is large, the quantity of connections between these devices is large as well. Therefore, the users of the systems need to trust that the information and services are being exchanged in a secure environment. This is very important as IoT technologies become more integrated into our daily lives, and poorly secured IoT devices and applications make them a potential target for [[Cybersecurity]] threats. Rarely a day goes by that we don't hear about another cybersecurity attack. Not only businesses and governments are the target, but also regular people through any of their personal devices. Things like hack. data breach, or a damaging malware. So on a personal level, here are some suggestions: Choose a strong, unique password that you don't share with others. Also enable two-factor authentication, means that you need to enter not only a password, but also a one-time code that's sent usually to your mobile phone. In general, here are some of the methods used to make IoT systems more secure:
 >
 > **[1:36](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/security?u=76281980&t=96)** Have a general attack detection and recovery system that's capable of coping with IoT-specific threats. Also, schedule regular updates and maintenance. And third, have authentication and identification within IoT systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (6), [[Cybersecurity]] (2), [[IoT|Internet of things]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[IoT]] (6), [[Cybersecurity]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -466,7 +466,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/legal-issues?u=76281980&t=0)** - [Instructor] A majority of [[IoT]] devices are used to collect user data and transfer the data to another place for [[Data Storage]], assessment or analysis. Using sensitive personal data in this way can quickly become a legal issue. The main concern is that this data might be used by other parties for both beneficial and discrimination purposes, like health insurance, commuting, travel information, and so on. Consider using IoT devices for public safety, like surveillance cameras. An example is UK. The UK has a reputation around the world for being one of the highest users of surveillance cameras. An estimation is between four to 5.9 million cameras. Concerns were raised as this puts the [[Privacy]] of the public at risk of being invaded on a mass scale without its consent due to the collection of [[Big Data]] with the integration of video surveillance. A couple of key questions are: Who become responsible for the footage, how long to keep it, and how to ensure the proper secure data storage and protection? These scenarios and others raise a question about the legal consideration for the IoT devices in [[Data Collection]].
 >
-> **[1:33](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/legal-issues?u=76281980&t=93)** Now, this takes us to the question of whether standards need to specify the design requirements and customer protection regulations pertaining to the data generated by the IoT device? However, sometimes having such strict regulations can limit interoperability between devices used within an IoT ecosystem. So while we can enjoy the applications of [[IoT|Internet of Things]] involving in our daily lives, by using the different IoT [[Microsoft Products|products]] and systems, at the same time, keeping in mind that IoT raises significant challenges that could stand in the way of realizing its potential benefits.
+> **[1:33](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/legal-issues?u=76281980&t=93)** Now, this takes us to the question of whether standards need to specify the design requirements and customer protection regulations pertaining to the data generated by the IoT device? However, sometimes having such strict regulations can limit interoperability between devices used within an IoT ecosystem. So while we can enjoy the applications of [[Internet of Things (IoT)|Internet of Things]] involving in our daily lives, by using the different IoT [[Microsoft Products|products]] and systems, at the same time, keeping in mind that IoT raises significant challenges that could stand in the way of realizing its potential benefits.
 
 > [!info]- Semantic Content
 >
@@ -498,11 +498,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/industrial-iot?u=76281980&t=0)** - [Instructor] You may come across this terminology, industrial [[IoT]], or IIoT. Industrial IoT focuses on industrial processes, and workflows. This encompasses our IoT ecosystems in applications used within industry. In literature, it is defined as the use of [[IoT|Internet of Things]] in smart manufacturing that refers to the interconnected sensors, controllers, and other devices network together in an industrial setting. It also incorporates machine learning. and [[Big Data]] technology. The industrial Internet of Things enables the gathering of excessive amount of data from production lines, factories, electrical and energy systems, as well as building management, and automation systems. Industrial IoT allows for remote access and monitoring, [[Data Acquisition]], collection, exchange and analysis. The Industrial IoT has numerous potential benefits, improved productivity, safety, maintenance, reduce costs in production, increase operational efficiency, and increase uptime.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/industrial-iot?u=76281980&t=0)** - [Instructor] You may come across this terminology, industrial [[IoT]], or IIoT. Industrial IoT focuses on industrial processes, and workflows. This encompasses our IoT ecosystems in applications used within industry. In literature, it is defined as the use of [[Internet of Things (IoT)|Internet of Things]] in smart manufacturing that refers to the interconnected sensors, controllers, and other devices network together in an industrial setting. It also incorporates machine learning. and [[Big Data]] technology. The industrial Internet of Things enables the gathering of excessive amount of data from production lines, factories, electrical and energy systems, as well as building management, and automation systems. Industrial IoT allows for remote access and monitoring, [[Data Acquisition]], collection, exchange and analysis. The Industrial IoT has numerous potential benefits, improved productivity, safety, maintenance, reduce costs in production, increase operational efficiency, and increase uptime.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), [[IoT|Internet of things]] (2), [[Big Data]] (1), [[Data Acquisition]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Internet of Things (IoT)|Internet of things]] (2), [[Big Data]] (1), [[Data Acquisition]] (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -595,11 +595,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/next-steps?u=76281980&t=0)** - [Zahraa] Thanks for taking the time to join me in this course. This course gives an overview of the foundation of [[IoT|Internet of Things]]. To continue learning about [[IoT]], check out these courses: IoT Foundations: Operating Systems Fundamentals, [[IoT Foundations- Fundamentals]] and if you want to learn more about industrial automation systems, I recommend checking out this course: Learn Industrial Automation, that goes through each level of the automation field. I hope you enjoyed learning about IoT. I look forward to seeing you in another course. Until next time, enjoy learning!
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/next-steps?u=76281980&t=0)** - [Zahraa] Thanks for taking the time to join me in this course. This course gives an overview of the foundation of [[Internet of Things (IoT)|Internet of Things]]. To continue learning about [[IoT]], check out these courses: IoT Foundations: Operating Systems Fundamentals, [[IoT Foundations- Fundamentals]] and if you want to learn more about industrial automation systems, I recommend checking out this course: Learn Industrial Automation, that goes through each level of the automation field. I hope you enjoyed learning about IoT. I look forward to seeing you in another course. Until next time, enjoy learning!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (4), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Speakers:** - [zahraa] (1)
 
 

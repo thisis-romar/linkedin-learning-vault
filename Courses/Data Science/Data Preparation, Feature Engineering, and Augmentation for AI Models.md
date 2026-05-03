@@ -477,7 +477,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Conversational AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Generative AI|Genai]] (1), [[Conversational AI]] (1)
 > **Analogies:** for example (8), such as (1)
 > **Definitions:** known as (4)
 > **Warnings:** keep in mind (1), watch out (1)

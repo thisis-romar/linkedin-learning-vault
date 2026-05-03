@@ -209,3 +209,5 @@ Google's mobile operating system and app development platform.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

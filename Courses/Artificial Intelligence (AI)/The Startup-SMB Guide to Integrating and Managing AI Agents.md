@@ -197,7 +197,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Midjourney]] (1)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (1), [[Generative AI|Genai]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Midjourney]] (1)
 > **Env Vars:** llm (2), api (1), rpa (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -280,7 +280,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Agents]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Generative AI|Gen ai]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - two (1)
 

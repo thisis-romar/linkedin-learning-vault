@@ -422,7 +422,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (2), [[GPT-4|Gpt-4o]] (2), [[Microsoft]] (2)
 > **UI Navigation:** go to (6), click on (3)
 > **Env Vars:** xyz (3), gpt (2), llm (1), api (1)
 > **CLI Commands:** make (6)

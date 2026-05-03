@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Cybersecurity
   - Data Science
-louvain_cluster: 6
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/artificial-intelligence

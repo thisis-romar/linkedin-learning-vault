@@ -724,3 +724,5 @@ Microsoft's operating system platform (Windows 10, Windows 11, Windows Server).
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

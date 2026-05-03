@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/security
   - topic/cloud-computing
-course_count: 24
+course_count: 23
 created: 2026-05-03
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-03
 
 # AI Security
 
-> **Type:** Concept | **Courses:** 24 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cybersecurity]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 23 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cybersecurity]], [[Cloud Computing]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-03
 9. [[A Practical Guide to Upskilling Your Organization on AI]] — 2 mentions
 10. [[Cybersecurity Awareness- AI]] — 2 mentions
 
-> [!note]- See all 24 courses
+> [!note]- See all 23 courses
 > 11. [[RAG for Cybersecurity- Use Cases and Implementation]] — 2 mentions
 > 12. [[Agentic AI Fundamentals- Architectures, Frameworks, and Applications]] — 1 mentions
 > 13. [[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]] — 1 mentions
@@ -49,12 +49,11 @@ created: 2026-05-03
 > 16. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
 > 17. [[AI Data Governance, Compliance, and Auditing for Developers]] — 1 mentions
 > 18. [[The AI-Driven Cybersecurity Analyst]] — 1 mentions
-> 19. [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]] — 1 mentions
-> 20. [[XAI and Interpretability in Cybersecurity]] — 1 mentions
-> 21. [[Azure AI- The Big Picture]] — 1 mentions
-> 22. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
-> 23. [[AI Accountability- Build Responsible and Transparent Systems]] — 1 mentions
-> 24. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 1 mentions
+> 19. [[XAI and Interpretability in Cybersecurity]] — 1 mentions
+> 20. [[Azure AI- The Big Picture]] — 1 mentions
+> 21. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
+> 22. [[AI Accountability- Build Responsible and Transparent Systems]] — 1 mentions
+> 23. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 1 mentions
 
 ## Learning Paths
 
@@ -63,12 +62,14 @@ created: 2026-05-03
 3. [[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]] — 9 total mentions
 4. [[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]] — 6 total mentions
 5. [[Develop Your AI Skills as a Cybersecurity Professional]] — 6 total mentions
-6. [[Leverage AI as a Cybersecurity Analyst]] — 6 total mentions
-7. [[Become a Cybersecurity Professional]] — 5 total mentions
-8. [[Career Essentials in Cybersecurity by Microsoft and LinkedIn]] — 5 total mentions
-9. [[Become an IT Security Specialist]] — 5 total mentions
-10. [[The Top 10 Most Popular Courses among IT Professionals]] — 5 total mentions
+6. [[Become a Cybersecurity Professional]] — 5 total mentions
+7. [[Career Essentials in Cybersecurity by Microsoft and LinkedIn]] — 5 total mentions
+8. [[Become an IT Security Specialist]] — 5 total mentions
+9. [[The Top 10 Most Popular Courses among IT Professionals]] — 5 total mentions
+10. [[Cybersecurity Fundamentals]] — 5 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
+
+Part of [[000 Glossary Index]]

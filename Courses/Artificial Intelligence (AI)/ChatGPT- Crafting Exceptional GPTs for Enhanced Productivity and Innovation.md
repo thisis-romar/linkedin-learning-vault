@@ -120,7 +120,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[ChatGPT]] (5), [[Wellness]] (1), [[Prompt Engineering]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[ChatGPT]] (5), [[Wellness]] (1), [[Prompt Engineering]] (1), [[Generative AI|Genai]] (1)
 > **Env Vars:** gpt (2), csv (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)

@@ -84,3 +84,5 @@ Network Interface Card — hardware component connecting a computer to a network
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

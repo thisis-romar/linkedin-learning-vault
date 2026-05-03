@@ -94,7 +94,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Forms]] (1), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Generative AI|Genai]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Forms]] (1)
 > **Env Vars:** nlp (5), ann (2), rag (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **CLI Commands:** make (2)
@@ -112,7 +112,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Traditional AI]] (2), [[Neural Networks]] (2), [[Deep Learning]] (2), [[Conversational AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[Generative AI]] (2), [[Traditional AI]] (2), [[Neural Networks]] (2), [[Deep Learning]] (2)
 > **Env Vars:** nlp (4), gpt (1)
 > **Definitions:** refers to (4), is a  (1)
 > **Analogies:** such as (3)
@@ -325,7 +325,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Microsoft]] (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1), [[ChatGPT]] (1), [[Microsoft]] (1), [[Microsoft Copilot|Copilot]] (1)
 
 #### [AI use in communications and outreach](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980)
 

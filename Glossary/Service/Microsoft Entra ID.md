@@ -120,3 +120,5 @@ Microsoft's cloud identity and access management service.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

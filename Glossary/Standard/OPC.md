@@ -43,3 +43,5 @@ Open Platform Communications — interoperability standard for industrial automa
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

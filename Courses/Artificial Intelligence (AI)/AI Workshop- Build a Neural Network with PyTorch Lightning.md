@@ -291,7 +291,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (6), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Statistics]] (1), [[Generative AI|Gen ai]] (1)
 > **Code Identifiers:** y_true (2), train_val_loss (1), no_grad (1), y_pred (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
@@ -363,7 +363,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (11), [[Gemini]] (2), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (11), [[Gemini]] (2), [[Deep Learning]] (1), [[Generative AI|Gen ai]] (1)
 > **Code Identifiers:** save_hyperparameters (7), learning_rate (5), configure_optimizers (2), num_features (2), training_step (2)
 > **CLI Commands:** make (6)
 > **Prerequisites:** set up (4), setup (1)

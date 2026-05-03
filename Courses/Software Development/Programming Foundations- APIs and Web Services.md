@@ -377,7 +377,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (6), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Fetch]] (1), [[Generative AI|Gen ai]] (1)
 > **Env Vars:** api (10), pip (1)
 > **Code Identifiers:** resolve_task (2), deleted_task (1), add_task (1), update_task (1), delete_task (1)
 > **CLI Commands:** find (3), pip (2), python (1)
@@ -405,7 +405,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Customer Support]] (1), [[DALL-E]] (1), [[Semantic Search]] (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2), [[ChatGPT]] (1), [[Customer Support]] (1), [[DALL-E]] (1), [[Semantic Search]] (1)
 > **Env Vars:** api (14), gpt (2), dall (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** such as (2)
@@ -429,7 +429,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Python (Programming Language)|Python]] (2), [[DALL-E]] (2), [[Security Risk]] (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Python (Programming Language)|Python]] (2), [[DALL-E]] (2), [[Security Risk]] (1), [[GPT-4|Gpt-4o]] (1)
 > **Env Vars:** api (18), openai_api_key (2), llm (2), url (2), sdk (1)
 > **CLI Commands:** make (3), python (2), find (1)
 > **UI Navigation:** navigate to (2), scroll down (1), click on (1), go to (1)
@@ -469,7 +469,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[OpenAI API]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[OpenAI API]] (1), [[GPT-4|Gpt-4o]] (1), [[DALL-E]] (1)
 > **Env Vars:** api (7), url (3), gpt (1), llm (1), dall (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)

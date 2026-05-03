@@ -295,7 +295,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=0)** In this video, we're going to work with two libraries, NumPy and [[Pandas (Software)|Pandas]]. The notebook is coming pre-loaded with pip installs that install Pandas into this environment. To run these pip installs, all you need to do is to put your [[Cursor]] in the code cell here and hit shift enter to run the code. I'll do that now. And this works this way with any code cell inside of a Jupyter Notebook.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=0)** In this video, we're going to work with two libraries, NumPy and [[Pandas (Software)|Pandas]]. The notebook is coming pre-loaded with pip installs that install Pandas into this environment. To run these pip installs, all you need to do is to put your cursor in the code cell here and hit shift enter to run the code. I'll do that now. And this works this way with any code cell inside of a Jupyter Notebook.
 >
 > **[0:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=35)** Okay, now we've installed Pandas, we want to import both NumPy and Pandas. So to do that, we're just going to write import numpy as np,
 >
@@ -329,7 +329,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Microsoft Word|Word]] (3), cursor (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (2), find (2), python (1)
 > **UI Navigation:** toggle (2), switch to (1)
 > **Env Vars:** nan (1)

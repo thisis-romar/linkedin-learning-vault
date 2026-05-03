@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-as-a-supply-cha
 course_count: 15
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 11
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/security

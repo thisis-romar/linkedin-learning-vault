@@ -41,3 +41,5 @@ Industrial network protocol enabling communication between PLCs and field device
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

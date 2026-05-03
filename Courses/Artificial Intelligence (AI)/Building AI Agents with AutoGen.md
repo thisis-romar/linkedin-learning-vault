@@ -139,7 +139,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Agents]] (3), [[LLaMA]] (2), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[GPT-4|Gpt-4o]] (2), [[LLaMA]] (2), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** api (5), gpt (2), openai_api_key (1), url (1), llm (1)
 > **Code Identifiers:** config_list (3), llm_config (2), load_dotenv (1)
 > **Prerequisites:** configure (3)
@@ -159,7 +159,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[AI Agents]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[AI Agents]] (1)
 > **Code Identifiers:** llm_config (4), generate_reply (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** setup (1), configure (1), set up (1)
@@ -262,6 +262,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (1)
 > **Code Identifiers:** llm_config (2), generate_reply (1), is_termination_msg (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Env Vars:** gpt (1)

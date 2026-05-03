@@ -7,7 +7,7 @@ course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
-louvain_cluster: 15
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence

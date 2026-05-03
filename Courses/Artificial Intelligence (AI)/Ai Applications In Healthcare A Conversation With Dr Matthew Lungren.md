@@ -181,6 +181,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (1)
 > **Speakers:** - you (1), - absolutely (1)
 > **CLI Commands:** make (1)
 

@@ -316,7 +316,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (3), [[Generative AI]] (2), [[Algorithms]] (2), [[Midjourney]] (1), [[Stable Diffusion]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (3), [[GPT-4|Gpt-4o]] (3), [[Generative AI]] (2), [[Algorithms]] (2), [[Midjourney]] (1)
 > **Env Vars:** gpt (3), llm (2), ucs (1)
 > **Versions:** 38.6 (1), 82.86 (1), 3.5 (1)
 > **Analogies:** similar to (1), for example (1), such as (1)

@@ -53,3 +53,5 @@ Online cybersecurity training platform with intentionally vulnerable VMs and cha
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

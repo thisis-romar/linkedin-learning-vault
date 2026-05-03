@@ -215,7 +215,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Word|Word]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (4), [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Word|Word]] (1), [[Tokens]] (1)
 > **Analogies:** for example (10)
 > **Env Vars:** gpt (5)
 > **UI Navigation:** in the menu (2), switch to (1), select the (1)
@@ -242,7 +242,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Generative AI]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Generative AI]] (1), [[GPT-4|Gpt-4o]] (1), [[Tokens]] (1)
 > **Analogies:** such as (1), similar to (1), just like (1), imagine (1), for example (1)
 > **UI Navigation:** in the menu (1), select the (1)
 > **Definitions:** means that (1), is called (1)
@@ -287,7 +287,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[Responsible AI]] (1), [[Azure AI Foundry]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2), [[Generative AI]] (1), [[Responsible AI]] (1), [[Azure AI Foundry]] (1)
 > **UI Navigation:** in the menu (2), select the (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)

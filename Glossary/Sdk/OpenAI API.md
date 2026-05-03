@@ -93,3 +93,5 @@ created: 2026-05-03
 ---
 
 *Source: LinkedIn catalog (sdk)*
+
+Part of [[000 Glossary Index]]

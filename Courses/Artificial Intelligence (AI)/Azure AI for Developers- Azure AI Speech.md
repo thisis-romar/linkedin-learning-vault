@@ -523,7 +523,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (8), [[Microsoft Azure|Azure]] (5), [[Azure AI Foundry]] (2), [[Microsoft]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (8), [[Microsoft Azure|Azure]] (5), [[GPT-4|Gpt-4o]] (2), [[Azure AI Foundry]] (2), [[Microsoft]] (2)
 > **Speakers:** - [instructor] (3), - [ai] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)

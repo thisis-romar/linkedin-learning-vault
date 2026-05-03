@@ -52,3 +52,5 @@ Advanced GPU-accelerated password recovery tool.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

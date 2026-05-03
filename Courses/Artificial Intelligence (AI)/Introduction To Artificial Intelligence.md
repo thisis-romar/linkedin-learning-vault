@@ -215,7 +215,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[Predictive AI]] (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Predictive AI]] (2), [[Banking]] (1), [[Generative AI|Gen ai]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1), imagine (1)
 > **Env Vars:** jrr (1)
@@ -324,7 +324,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=1)** - Today, there are thermostats, doorbells, and televisions that connect with each other and the world, and there are smart watches that check your location and some even upload medical data. This new way of connecting is commonly called the [[IoT|Internet of Things]]. Sometimes you'll see it as [[IoT]] for short. IoT devices are objects with sensors that communicate with the outside world. They typically upload data through the internet. IoT devices are a massive new source of data. They can upload their locations, so that means that if you're wearing an IoT device, then these machine learning systems can see patterns in where you travel. They can accurately predict where you work, shop, eat, watch, and who you visit. Maybe your smartwatch will tell your thermostat when you're on the way home. IoT also allows these devices to communicate with each other. They could unlock your doors or have your computer turn on when you sit at your desk. In some ways, these new devices make it easier to create data than it is for humans to analyze. That's why many IoT companies invest heavily in AI. AI not only allows organizations to see new patterns, it also allows them to quickly [[React.js|react]]. IoT devices and [[Artificial Intelligence (AI)|artificial intelligence]] are a powerful combination that allow companies to create systems that predict people's behavior. My family purchased one of the earliest versions of Amazon's Alexa home assistant. It was a terrific and simple clock,
+> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=1)** - Today, there are thermostats, doorbells, and televisions that connect with each other and the world, and there are smart watches that check your location and some even upload medical data. This new way of connecting is commonly called the [[Internet of Things (IoT)|Internet of Things]]. Sometimes you'll see it as [[IoT]] for short. IoT devices are objects with sensors that communicate with the outside world. They typically upload data through the internet. IoT devices are a massive new source of data. They can upload their locations, so that means that if you're wearing an IoT device, then these machine learning systems can see patterns in where you travel. They can accurately predict where you work, shop, eat, watch, and who you visit. Maybe your smartwatch will tell your thermostat when you're on the way home. IoT also allows these devices to communicate with each other. They could unlock your doors or have your computer turn on when you sit at your desk. In some ways, these new devices make it easier to create data than it is for humans to analyze. That's why many IoT companies invest heavily in AI. AI not only allows organizations to see new patterns, it also allows them to quickly [[React.js|react]]. IoT devices and [[Artificial Intelligence (AI)|artificial intelligence]] are a powerful combination that allow companies to create systems that predict people's behavior. My family purchased one of the earliest versions of Amazon's Alexa home assistant. It was a terrific and simple clock,
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=93)** but early on, my wife noticed that the Amazon recommendation list was becoming populated with things that were part of our conversations. We once talked about visiting a relative in Rome and a few days later, a travel guide to Rome popped up in our Amazon recommended list. Ring doorbells also collect data on people who walk in front of your house. The company can use machine learning for facial recognition. It can then use your doorbell to create a vast surveillance network that's sold to police departments. These departments can use this data to place people at the scene of a crime or locate people they're interested in finding. One area that has a lot of growth is IoT medical devices. You can now purchase a smartwatch that's as accurate as your doctor's electrocardiogram, or EKG. They can use the sensors to detect any health issues. Then they can upload that data to their servers. Companies like Apple look for patterns in EKG data using machine learning on a neural network. Their network can go through millions of participants. They can use this data to find patterns to accurately predict any health issues. It's certainly helpful to have machines find predictable patterns. Maybe they'll find that people are more likely to have health issues on Wednesdays. They can also see patterns that affect large groups of people. You could see something like air pollution and its effect on the city's health. In many ways, the IoT devices take the strength of machine learning in the digital world and put it in the realm of the physical world. Instead of just seeing what you're doing online,
 >
@@ -332,7 +332,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), [[IoT|Internet of things]] (1), [[React.js|React]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Internet of Things (IoT)|Internet of things]] (1), [[React.js|React]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** ekg (2)
 > **Definitions:** means that (1)
@@ -351,7 +351,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[Predictive AI]] (4), [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Predictive AI]] (4), [[Generative AI|Genai]] (2), [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** dall (1)
 > **Cross-References:** in the last (1)
@@ -409,7 +409,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (2), [[Generative AI]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (2), [[Generative AI]] (2), [[Algorithms]] (1), [[Generative AI|Gen ai]] (1)
 > **Versions:** 99.9 (1), 99.999 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -740,7 +740,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supervised Learning]] (5), [[Unstructured Data]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (5), [[Generative AI|Gen ai]] (2), [[Unstructured Data]] (2), [[Generative AI]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** means that (3)
 > **Analogies:** imagine (1)
@@ -759,7 +759,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[Supervised Learning]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Supervised Learning]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI|Genai]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (2), it's like (1)
 > **Definitions:** is a  (1)
@@ -778,7 +778,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[John the Ripper|John]] (2), [[Remix]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Generative AI|Gen ai]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[John the Ripper|John]] (2), [[Remix]] (1)
 > **Definitions:** means that (2), is a  (2)
 > **Analogies:** imagine (2), similar to (1)
 > **Warnings:** keep in mind (2)
@@ -797,7 +797,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Vanilla]] (3), [[Statistics]] (1), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Vanilla]] (3), [[Generative AI|Gen ai]] (1), [[Statistics]] (1), [[Supervised Learning]] (1)
 > **Analogies:** imagine (2), it's like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

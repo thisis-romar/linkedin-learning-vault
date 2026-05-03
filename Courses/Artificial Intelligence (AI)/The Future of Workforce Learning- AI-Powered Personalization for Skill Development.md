@@ -172,7 +172,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Content Creation]] (2)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (6), [[Generative AI]] (4), [[Content Creation]] (2)
 > **Env Vars:** pdf (1)
 
 #### [Create interactive experiences with AI](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/create-interactive-experiences-with-ai?u=76281980)

@@ -265,6 +265,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** next video (1)
@@ -319,7 +320,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Storytelling]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** such as (1), for example (1)
@@ -340,7 +341,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Generative AI|Gen ai]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [areamethod.com](https://areamethod.com) (1)
 > **Speakers:** - congratulations (1)

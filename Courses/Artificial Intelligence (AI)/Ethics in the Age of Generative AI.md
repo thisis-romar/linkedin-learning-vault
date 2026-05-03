@@ -121,7 +121,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4), [[Generative AI]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - since (1)
 

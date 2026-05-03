@@ -85,7 +85,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Generative AI|Genai]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** cto (1), cio (1)
 > **Speakers:** - over (1)
 
@@ -123,7 +123,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (5), [[Microsoft Products|Products]] (4), [[Cloud Computing]] (1), [[Microsoft Excel|Excel]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (5), [[Microsoft Products|Products]] (4), [[Generative AI|Gen ai]] (3), [[Cloud Computing]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -183,7 +183,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Agents]] (2), [[E-Commerce]] (1), [[Customer Support]] (1), [[Real-Time]] (1), [[Data Governance]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[AI Agents]] (2), [[E-Commerce]] (1), [[Customer Support]] (1), [[Real-Time]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the last (1)
@@ -311,7 +311,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (2), [[Microsoft Products|Products]] (2), [[Data Security]] (2), [[Data Science]] (1), [[AI Agents]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (2), [[Microsoft Products|Products]] (2), [[Data Security]] (2), [[Generative AI|Gen ai]] (1), [[Data Science]] (1)
 > **Env Vars:** cfo (2), cmo (2)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)

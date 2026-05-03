@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 8
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/devops

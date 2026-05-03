@@ -97,7 +97,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (5), [[Google]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Google]] (2), [[Generative AI|Gen ai]] (2)
 > **Speakers:** - gemini (1)
 
 
@@ -537,7 +537,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (1), [[Google]] (1), [[LinkedIn]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (2), [[Gemini]] (1), [[Google]] (1), [[LinkedIn]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - thanks (1)
 

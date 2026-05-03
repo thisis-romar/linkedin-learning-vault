@@ -393,7 +393,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Real-Time]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2), [[Microsoft Products|Products]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Real-Time]] (1)
 > **Env Vars:** gpt (10), api (7), llm (5)
 > **Analogies:** picture (1), imagine (1), for example (1), just like (1)
 > **Definitions:** known as (1), is an  (1), short for (1)

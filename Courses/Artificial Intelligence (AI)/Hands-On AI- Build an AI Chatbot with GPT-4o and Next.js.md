@@ -513,7 +513,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[Microsoft Azure|Azure]] (2), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Microsoft Azure|Azure]] (2), [[GPT-4|Gpt-4o]] (2), [[Next.js]] (1)
 > **Env Vars:** api (5), post (2), github_token (1), gpt (1), json (1)
 > **Code Identifiers:** generatetext (5), createopenai (2), baseurl (1), apikey (1)
 > **File Paths:** route.js (2), nextresponse.json (2), next.js (1), process.env (1), req.json (1)

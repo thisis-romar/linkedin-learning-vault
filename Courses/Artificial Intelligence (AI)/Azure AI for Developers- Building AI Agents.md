@@ -523,7 +523,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[GPT-4|Gpt-4o]] (1)
 > **Code Identifiers:** run_stream (2), on_messages (2), get_weather (1), chat_message (1), inner_messages (1)
 > **Env Vars:** api (4), gpt (1)
 > **Documentation:** the documentation (1)

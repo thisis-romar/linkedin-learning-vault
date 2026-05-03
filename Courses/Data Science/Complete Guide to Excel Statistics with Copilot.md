@@ -1262,7 +1262,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=0)** - [Instructor] This chapter, we looked at sampling, and we also looked at some T-scores. So let's see how helpful [[Microsoft Copilot|Copilot]] can be in these particular areas. So let's first look at sampling. Suppose we wanted to gather a random sample from our data set. So I'm going to put my [[Cursor]] here inside of the table and let's see how it recommends. So remember, there's many different ways to gather random samples in [[Microsoft Excel|Excel]]. We looked at quite a few of them in this chapter, so it'll be interesting to see how Copilot chooses to gather a random sample. So you'll notice it's actually using one of the methods that we used in this chapter, a very simplistic one. It simply says, why don't you create a new column?
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=0)** - [Instructor] This chapter, we looked at sampling, and we also looked at some T-scores. So let's see how helpful [[Microsoft Copilot|Copilot]] can be in these particular areas. So let's first look at sampling. Suppose we wanted to gather a random sample from our data set. So I'm going to put my cursor here inside of the table and let's see how it recommends. So remember, there's many different ways to gather random samples in [[Microsoft Excel|Excel]]. We looked at quite a few of them in this chapter, so it'll be interesting to see how Copilot chooses to gather a random sample. So you'll notice it's actually using one of the methods that we used in this chapter, a very simplistic one. It simply says, why don't you create a new column?
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/copilot-sampling-concepts?u=76281980&t=57)** And the new column will generate a random number, and then from there it says to, it tells you to just organize everything in either smallest or largest, however you like, and take the first five values, and those would be your sample. Now, how about if I wanted to take two random samples? Let's see how it recommends we do that. So I'm going to take out this one, so we can start from scratch here. All right, so how do I gather two random samples of exams, each with a sample size of five? So it says, once again, add a new column to generate numbers for each row. Sort table based on random numbers. Select the top five rows for the first sample. Select the next five rows for the... So really it's just telling us do exactly what I said earlier.
 >
@@ -1276,7 +1276,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), cursor (1), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 2.5 (4), 0.975 (1), 2.09 (1), 3.1 (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (3)

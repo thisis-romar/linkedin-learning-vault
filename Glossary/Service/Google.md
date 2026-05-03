@@ -782,3 +782,5 @@ Technology company; vendor of Google Cloud, Android, Chrome, and Workspace.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

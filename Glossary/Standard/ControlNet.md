@@ -39,3 +39,5 @@ Deterministic industrial network protocol from Rockwell Automation used in motio
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

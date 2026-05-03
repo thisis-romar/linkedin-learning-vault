@@ -522,7 +522,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1), [[Gemini]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Generative AI|Gen ai]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1), [[Gemini]] (1)
 > **Env Vars:** llm (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)

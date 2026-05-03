@@ -220,11 +220,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980&t=1)** - [Instructor] When we deal with computers that look like old fashioned computers, we usually accept the risk that someone can tamper with it. We either treat it as out of scope if we make operating systems, or we address it with cages and locks if we're in a data center. And when the computer is in someone's pocket, on their door or outside, we realize that we need different approaches. For example, an iPhone won't boot if you tamper with its security critical parts, including the home button with its fingerprint reader. Other computers, like security cameras, have various levels of tamper resistance balanced carefully with cost to manufacture or ship and so the tamper resistance is often limited to an oddly shaped screwhead. Other computers or things of the [[IoT|Internet of things]] are in our houses. There we assume that our walls somehow block the wireless signals to prevent tampering and other network attacks. And we ignore the risk that a guest, a housekeeper or an Airbnb customer will tamper with the device more aggressively.
+> **[0:01](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980&t=1)** - [Instructor] When we deal with computers that look like old fashioned computers, we usually accept the risk that someone can tamper with it. We either treat it as out of scope if we make operating systems, or we address it with cages and locks if we're in a data center. And when the computer is in someone's pocket, on their door or outside, we realize that we need different approaches. For example, an iPhone won't boot if you tamper with its security critical parts, including the home button with its fingerprint reader. Other computers, like security cameras, have various levels of tamper resistance balanced carefully with cost to manufacture or ship and so the tamper resistance is often limited to an oddly shaped screwhead. Other computers or things of the [[Internet of Things (IoT)|Internet of things]] are in our houses. There we assume that our walls somehow block the wireless signals to prevent tampering and other network attacks. And we ignore the risk that a guest, a housekeeper or an Airbnb customer will tamper with the device more aggressively.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** for example (1)

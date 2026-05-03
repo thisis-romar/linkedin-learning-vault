@@ -627,7 +627,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (8), [[Microsoft Copilot|Copilot]] (4), [[Generative AI]] (2), [[Fine Tuning]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (8), [[Microsoft Copilot|Copilot]] (4), [[Generative AI]] (2), [[Generative AI|Genai]] (2)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)

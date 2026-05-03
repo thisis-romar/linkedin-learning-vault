@@ -81,7 +81,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Cybersecurity]] (2), [[Software Development]] (1), [[Application Security]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Cybersecurity]] (2), [[Generative AI|Genai]] (1), [[Software Development]] (1), [[Application Security]] (1)
 > **Speakers:** - all (1)
 
 #### [What you should know](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/what-you-should-know?u=76281980)
@@ -152,7 +152,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (18), [[Probability]] (1), [[GPT-4]] (1), [[DALL-E]] (1), [[Midjourney]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (18), [[Generative AI|Gen ai]] (2), [[Probability]] (1), [[GPT-4]] (1), [[DALL-E]] (1)
 > **Analogies:** for example (3), such as (1), imagine (1), think of it as (1)
 > **CLI Commands:** find (1), cat (1), make (1)
 > **Env Vars:** gpt (1)

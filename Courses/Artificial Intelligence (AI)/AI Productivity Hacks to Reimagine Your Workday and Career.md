@@ -129,7 +129,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI|Gen ai]] (1)
 > **Analogies:** imagine (1), it's like (1)
 > **Speakers:** - ever (1)
 

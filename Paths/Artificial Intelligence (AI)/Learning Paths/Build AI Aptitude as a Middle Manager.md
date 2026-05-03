@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-ai-aptitude-as-a-middle-manag
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence

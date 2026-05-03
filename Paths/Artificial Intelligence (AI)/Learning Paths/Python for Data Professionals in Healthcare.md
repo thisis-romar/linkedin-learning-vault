@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
   - Software Development
-louvain_cluster: 20
+louvain_cluster: 18
 tags:
   - learning-path
   - topic/artificial-intelligence

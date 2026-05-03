@@ -154,7 +154,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (12), [[Generative AI]] (2), [[Ethics]] (1)
 > **Env Vars:** llm (1), rag (1)
 > **Speakers:** - [instructor] (1)
 
@@ -170,7 +170,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Collection]] (1), [[AI Agents]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (6), [[Data Collection]] (1), [[AI Agents]] (1), [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** llm (1)
@@ -187,7 +187,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[GitHub]] (1), [[Jenkins]] (1)
 > **Env Vars:** llm (3)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -202,7 +202,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[User Experience (UX)|User experience]] (1), [[AI Agents]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[User Experience (UX)|User experience]] (1), [[Generative AI|Genai]] (1), [[AI Agents]] (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
@@ -216,7 +216,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (2), [[LlamaIndex]] (2), [[AI Agents]] (1), [[Microsoft]] (1), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (2), [[LangChain]] (2), [[LlamaIndex]] (2), [[AI Agents]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** llm (1), rag (1)
 > **Speakers:** - [instructor] (1)
@@ -238,7 +238,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (1), [[Cloud Services]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (1), [[Microservices]] (1), [[Cloud Services]] (1)
 > **Env Vars:** llm (4), rag (2), llms (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -253,7 +253,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Generative AI|Genai]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** llm (3)
 > **Tools:** github (3)
@@ -310,7 +310,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1), [[Microservices]] (1), [[Microsoft]] (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1), [[Microservices]] (1), [[Generative AI|Genai]] (1), [[Microsoft]] (1)
 > **Env Vars:** rag (1), llm (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [narrator] (1)
@@ -325,7 +325,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Agents]] (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[AI Agents]] (2), [[Decision-Making]] (1)
 > **Env Vars:** llms (2), llm (2), rag (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -745,7 +745,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Agents]] (5), [[Responsible AI]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Generative AI|Genai]] (1), [[Responsible AI]] (1), [[Ethics]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1)
 > **Speakers:** - [instructor] (1)
 

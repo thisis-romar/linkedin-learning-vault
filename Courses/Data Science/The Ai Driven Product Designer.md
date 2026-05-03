@@ -390,7 +390,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Product Design]] (1), [[Gemini]] (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Product Design]] (1), [[Gemini]] (1), [[Figma (Software)|Figma]] (1), [[Generative AI|Gen ai]] (1)
 > **CLI Commands:** make (6)
 > **Best Practices:** it's best to (1), good practice (1), best practice (1)
 > **Warnings:** be careful (2), keep in mind (1)

@@ -444,7 +444,7 @@ created: 2026-05-03
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=64)** And we get them all. Let's see how we can make our routine safe. Our first option is to use a prepared statement. Let's see what that looks like in code by updating our Python script, nano safesql1.py.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=92)** We now use the parameter, prepared=True, when setting up the [[Cursor]]. And we execute the query as a pre-coded statement and variable value. Let's now run it, python3 safesql1.py.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=92)** We now use the parameter, prepared=True, when setting up the cursor. And we execute the query as a pre-coded statement and variable value. Let's now run it, python3 safesql1.py.
 >
 > **[1:59](https://www.linkedin.com/learning/ethical-hacking-sql-injection/using-prepared-sql-queries?u=76281980&t=119)** So let's enter 50. And again, we get Kamose. And now, let's run an SQL injection attack, or 1=1.
 >
@@ -452,7 +452,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Python (Programming Language)|Python]] (2), cursor (1)
 > **CLI Commands:** python (2), python3 (2), find (1), make (1)
 > **File Paths:** sql1.py (2), safesql1.py (2)
 > **Env Vars:** sql (4)
@@ -498,7 +498,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=0)** - [Instructor] Let's look at a more complex example where we have a general purpose execution function which handles both single and multiple [[SQL]] statements. I've got one prepared. There's sql2.py. Here, we're allowing for multiple statements in an SQL query. The function runsql, starting on line four, executes the query, and a [[Cursor]] is returned. It then iterates over the cursor, and for each iteration, fetches the result. Then at line nine, for each result which has entries, it adds them to the results list. Let's run this. Python3, sql2.py, and we'll enter 175. And we get our result of Cleopatra II, again. Now let's do a more extensive injection. We'll terminate the query, and we'll use the [[MySQL]] database.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=0)** - [Instructor] Let's look at a more complex example where we have a general purpose execution function which handles both single and multiple [[SQL]] statements. I've got one prepared. There's sql2.py. Here, we're allowing for multiple statements in an SQL query. The function runsql, starting on line four, executes the query, and a cursor is returned. It then iterates over the cursor, and for each iteration, fetches the result. Then at line nine, for each result which has entries, it adds them to the results list. Let's run this. Python3, sql2.py, and we'll enter 175. And we get our result of Cleopatra II, again. Now let's do a more extensive injection. We'll terminate the query, and we'll use the [[MySQL]] database.
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-sql-injection/sanitizing-input-to-sql?u=76281980&t=73)** We'll select user and password from the user table, and then we'll revert back to our cleo database. We've now suppressed the Pharaoh output, but we get the list of users in the MySQL database. Again, we've taken advantage of having our input directly inserted into the SQL statement, and we've been able to code multiple statements in our injection. Let's see how we can make this more complicated SQL routine safe. It's not so simple to apply a prepared statement to a general purpose function covering multiple SQL statements. Nano safesql2.py. We can, however, simply validate our input. In this case, at line 20, we just need to check for quotation characters. We'll check for both single and double quotes with the code shown after the Pharaoh ID input. Okay, let's run that. Python3 safesql2.py. And we'll enter 50, and we get Kamose again. Now let's run our SQL injection attack. ' or 1=1# to get all entries.
 >
@@ -506,7 +506,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (6), cursor (2), [[MySQL]] (2)
 > **Env Vars:** sql (6)
 > **CLI Commands:** python3 (2), mysql (2), make (1)
 > **File Paths:** sql2.py (2), safesql2.py (2)
@@ -706,11 +706,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this course. I hope you enjoyed learning about how to run [[SQL]] injections. This course is an important step along your learning path, which leads to becoming a professional pen tester. Web is a major attack surface, and SQL injections are one of the key web attacks used by cyber criminals and nation state attackers. There's always something new in [[Cybersecurity]]. And if you're interested in learning more, then check out the full security segment of the library where new courses are added regularly. You'll find courses on all aspects of security. I'd also invite you to go to my author page, where you can find some additional pen testing courses, as well as a wider coverage of cybersecurity. If you want to get hands-on with [[Android]], then do take a look at "Mobile Devices and Platforms," and "Securing Android Apps." If you're wanting to learn about security for the cloud, then "Cybersecurity for [[Cloud Computing]]" is for you. You'll also find courses on the security aspects of wireless, websites, and the [[IoT|Internet of Things]]. Thanks again for joining me on this course. And I hope to see you again soon for more courses on pen testing and cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this course. I hope you enjoyed learning about how to run [[SQL]] injections. This course is an important step along your learning path, which leads to becoming a professional pen tester. Web is a major attack surface, and SQL injections are one of the key web attacks used by cyber criminals and nation state attackers. There's always something new in [[Cybersecurity]]. And if you're interested in learning more, then check out the full security segment of the library where new courses are added regularly. You'll find courses on all aspects of security. I'd also invite you to go to my author page, where you can find some additional pen testing courses, as well as a wider coverage of cybersecurity. If you want to get hands-on with [[Android]], then do take a look at "Mobile Devices and Platforms," and "Securing Android Apps." If you're wanting to learn about security for the cloud, then "Cybersecurity for [[Cloud Computing]]" is for you. You'll also find courses on the security aspects of wireless, websites, and the [[Internet of Things (IoT)|Internet of Things]]. Thanks again for joining me on this course. And I hope to see you again soon for more courses on pen testing and cybersecurity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[SQL]] (2), [[Android]] (2), [[Cloud Computing]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[SQL]] (2), [[Android]] (2), [[Cloud Computing]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (1), is a  (1)

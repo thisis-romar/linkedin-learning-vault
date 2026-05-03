@@ -233,7 +233,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Terraform]] (1), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Terraform]] (1), [[Generative AI|Gen ai]] (1), [[GitHub Copilot]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** aws (1), python (1), terraform (1)
 > **Env Vars:** ide (2), aws (1)
@@ -273,7 +273,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scalability]] (1), [[NoSQL]] (1), [[Cloud Services]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[NoSQL]] (1), [[Cloud Services]] (1), [[Generative AI|Genai]] (1)
 > **Env Vars:** sme (1), tco (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - on (1)
@@ -291,7 +291,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Terraform]] (1), [[Google Gemini]] (1), [[ChatGPT]] (1), [[Custom GPTs]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (6), [[Python (Programming Language)|Python]] (1), [[Terraform]] (1), [[Google Gemini]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** python (1), terraform (1), docker (1)
 > **Env Vars:** awsq (1)
 > **Best Practices:** the key is (1)
@@ -378,7 +378,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Hardware]] (1), [[Generative AI|Genai]] (1)
 > **Analogies:** for example (2), think of it like (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nvidia (2)
@@ -400,7 +400,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Security]] (3), [[DevOps]] (2)
+> **Frameworks & Libraries:** [[Cloud Security]] (3), [[DevOps]] (2), [[Generative AI|Gen ai]] (1)
 > **Env Vars:** sre (1), aws (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** aws (1)
@@ -417,7 +417,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (2), [[Cloud Infrastructure]] (1), [[Cloud Services]] (1), [[Hybrid Cloud]] (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[DevOps]] (2), [[Cloud Infrastructure]] (1), [[Cloud Services]] (1), [[Hybrid Cloud]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
 > **Analogies:** such as (1)
@@ -474,7 +474,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[ChatGPT]] (1), [[Gemini]] (1), [[Quantum Computing]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Generative AI|Genai]] (3), [[ChatGPT]] (1), [[Gemini]] (1), [[Quantum Computing]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** similar to (1), think of it like (1), for example (1)
 > **Env Vars:** iei (1), poc (1)
@@ -493,7 +493,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (7), [[ChatGPT]] (4), [[Amazon EC2|Ec2]] (2), [[Google]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[ChatGPT]] (4), [[Amazon EC2|Ec2]] (2), [[Generative AI|Genai]] (2), [[Google]] (2)
 > **CLI Commands:** aws (3), make (2), find (1)
 > **Env Vars:** aws (3), ec2 (2), gpu (1)
 > **UI Navigation:** scroll down (1)
@@ -559,7 +559,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[Gemini]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Virtual Machines]] (2), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Generative AI|Genai]] (7), [[Gemini]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Virtual Machines]] (2)
 > **Env Vars:** sql (8), poc (3), gke (3), rag (2), gcp (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** best practice (2), recommended (1)

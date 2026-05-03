@@ -122,7 +122,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), [[AI Agents]] (2), [[Generative AI]] (1), [[Fetch]] (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (8), [[Databases]] (2), [[AI Agents]] (2), [[Generative AI]] (1), [[Fetch]] (1)
 > **Env Vars:** mcp (7), sql (1), rest (1)
 > **Code Identifiers:** grpc (1)
 > **Cross-References:** in the next (1)
@@ -141,7 +141,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[SQL]] (2), [[PostgreSQL|Postgres]] (1), [[Semantic Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Generative AI|Gen ai]] (2), [[SQL]] (2), [[PostgreSQL|Postgres]] (1), [[Semantic Search]] (1)
 > **Env Vars:** mcp (37), rag (2), sql (2), rest (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -158,7 +158,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Agents]] (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (2), [[AI Agents]] (2), [[Metadata]] (2)
 > **Env Vars:** mcp (15), uri (2)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
@@ -206,7 +206,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft Products|Products]] (1), [[SaaS]] (1), [[Cloud Services]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft Products|Products]] (1), [[SaaS]] (1), [[Generative AI|Gen ai]] (1), [[Cloud Services]] (1)
 > **Env Vars:** mcp (7)
 > **Best Practices:** recommended (2)
 > **Tools:** github (1)

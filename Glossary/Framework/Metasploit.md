@@ -69,3 +69,5 @@ Open-source penetration testing framework with exploit modules, payloads, and po
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

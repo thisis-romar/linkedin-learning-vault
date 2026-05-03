@@ -358,7 +358,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (1), [[GPT-4|Gpt4]] (1)
 > **Env Vars:** gpu (2), llm (1), gpt4 (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for example (2)
@@ -747,7 +747,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Generative AI|Genai]] (1), [[Tokens]] (1)
 > **Env Vars:** gpu (4), sst2 (2), nlp (1), ram (1)
 > **Code Identifiers:** max_length (2), return_tensors (2), sparse_categorical_accuracy (1), save_pretrained (1)
 > **Definitions:** is a  (3), means that (2)

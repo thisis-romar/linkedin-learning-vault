@@ -387,7 +387,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Application Security]] (2), [[Google]] (1), [[Terraform]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Application Security]] (2), [[Generative AI|Gen ai]] (1), [[Google]] (1), [[Terraform]] (1)
 > **Env Vars:** aws (3), rds (3)
 > **CLI Commands:** aws (3), terraform (1)
 > **Tools:** vs code (3)

@@ -113,7 +113,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[DevOps]] (1), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[Generative AI]] (1), [[DevOps]] (1), [[MLOps]] (1)
 > **Speakers:** - [kumaran] (1)
 
 
@@ -145,7 +145,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Microsoft Products|Products]] (1), [[Team Collaboration]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (6), [[Generative AI]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -160,7 +160,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (12), [[MLOps]] (6), [[Software Development]] (2), [[Generative AI]] (1), [[Software Integration]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (12), [[MLOps]] (6), [[Generative AI|Genai]] (3), [[Software Development]] (2), [[Generative AI]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
@@ -175,7 +175,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (3), [[Databases]] (2), [[MLOps]] (1), [[Requirements Analysis]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (6), [[Fine Tuning]] (3), [[Generative AI|Genai]] (2), [[Databases]] (2), [[MLOps]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** llm (1)
 > **Cross-References:** previous video (1)
@@ -193,7 +193,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Projects]] (2), [[Data Science]] (1), [[DevOps]] (1), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (15), [[Software Projects]] (2), [[Data Science]] (1), [[DevOps]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
@@ -215,7 +215,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Governance]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (9), [[Data Governance]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [presenter] (1)
 
@@ -231,7 +231,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (1), [[Vector Databases]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Data Collection]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (8), [[JSON]] (1), [[Vector Databases]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Data Collection]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** json (1)
 > **Definitions:** is an  (1)
@@ -247,7 +247,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (1), [[MLOps]] (1), [[Kubernetes]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[DevOps]] (1), [[MLOps]] (1), [[Kubernetes]] (1), [[Version Control]] (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -262,7 +262,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[AWS SageMaker]] (1), [[Google]] (1), [[Vertex]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4), [[Fine Tuning]] (1), [[AWS SageMaker]] (1), [[Google]] (1), [[Vertex]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Best Practices:** recommended (1)
@@ -278,7 +278,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (9), [[Hardware]] (1), [[MLflow]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (9), [[Generative AI|Gen ai]] (2), [[Hardware]] (1), [[MLflow]] (1)
 > **Env Vars:** aws (1), gcp (1)
 > **Best Practices:** recommended (1), good practice (1)
 > **CLI Commands:** aws (1)
@@ -299,7 +299,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[AI Agents]] (1), [[Data Pipelines]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[Hardware]] (1), [[AI Agents]] (1), [[Data Pipelines]] (1)
 > **CLI Commands:** cd (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
@@ -314,6 +314,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1)
 > **Best Practices:** recommended (2)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [presenter] (1)
@@ -330,7 +331,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Search]] (2), [[Databases]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[Semantic Search]] (2), [[Databases]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Best Practices:** recommended (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** rag (2)
@@ -347,7 +348,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Agents]] (6), [[Integration Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[AI Agents]] (6), [[Integration Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), cd (1)
 > **Definitions:** is an  (3)
 > **Analogies:** similar to (3)
@@ -380,7 +381,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Integration Testing]] (2), [[Usability Testing]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[Integration Testing]] (2), [[Usability Testing]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -402,7 +403,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (3), [[Microsoft Azure|Azure]] (2), [[Private Clouds]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (6), [[Privacy]] (3), [[Microsoft Azure|Azure]] (2), [[Private Clouds]] (1), [[SaaS]] (1)
 > **Env Vars:** aws (2), gcp (2), apa (1)
 > **CLI Commands:** aws (2)
 > **Speakers:** - [instructor] (1)
@@ -417,7 +418,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[Hardware]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -429,6 +430,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
@@ -441,7 +443,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[MLOps]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Batch Processing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -455,7 +457,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[Responsible AI]] (2), [[Ethics]] (1)
 > **Env Vars:** pii (1)
 > **Speakers:** - [instructor] (1)
 
@@ -474,7 +476,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Search]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (8), [[Semantic Search]] (1)
 > **Env Vars:** llm (4), cpu (1), rag (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
@@ -490,6 +492,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (5)
 > **Env Vars:** cpu (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -505,7 +508,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (9), [[JSON]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** json (1), pii (1)
 > **Cross-References:** we discussed (2)
@@ -519,7 +522,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Agents]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[AI Agents]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** llm (1)
 > **Analogies:** similar to (1)
@@ -535,6 +538,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (8)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Warnings:** troubleshoot (1)
@@ -555,7 +559,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (4), [[Responsible AI]] (1), [[Generative AI]] (1), [[Personal Data Protection]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[Ethics]] (4), [[Responsible AI]] (1), [[Generative AI]] (1), [[Personal Data Protection]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [presenter] (1)
 
@@ -571,7 +575,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (2), [[Web Application Security]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[OWASP]] (2), [[Web Application Security]] (1), [[Dashboards]] (1)
 > **Env Vars:** owasp (2), api (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** similar to (1)
@@ -589,7 +593,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Data Lineage]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (4), [[Responsible AI]] (1), [[Data Lineage]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -605,7 +609,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Generative AI|Genai]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** rag (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -620,7 +624,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Privacy]] (4), [[Data Classification]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (5), [[Data Privacy]] (4), [[Data Classification]] (2), [[Privacy]] (1)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -638,7 +642,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (1), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[DevOps]] (1), [[MLOps]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

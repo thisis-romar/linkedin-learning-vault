@@ -377,7 +377,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Literacy]] (3), [[AI Solutions]] (2), [[LinkedIn]] (2), [[Generative AI]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[AI Literacy]] (3), [[AI Solutions]] (2), [[LinkedIn]] (2), [[Generative AI]] (2), [[Generative AI|Genai]] (2)
 > **Analogies:** for example (3), it's like (2), imagine (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), is a  (1), means that (1), is called (1)

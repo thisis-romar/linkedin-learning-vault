@@ -138,7 +138,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (2), [[LangChain]] (1), [[LlamaIndex]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (2), [[GPT-4|Gpt-4o]] (1), [[LangChain]] (1), [[LlamaIndex]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** gpt (1)
@@ -210,7 +210,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Windows]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[GPT-4|Gpt-4o]] (2), [[Windows]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (2), o2_03 (1), api (1)
 > **Exercise Files:** exercise files (3)
 > **Analogies:** for example (2), similar to (1)
@@ -267,7 +267,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Word|Word]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (10), [[Gemini]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Word|Word]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** gpt (10), llm (1), vip (1)
 > **Analogies:** for example (5), such as (1)
 > **Versions:** 3.5 (1)
@@ -304,7 +304,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (1), [[JavaScript]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** gpt (1), cms (1), api (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -425,7 +425,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Orchestration]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[AI Orchestration]] (1), [[LinkedIn]] (1), [[Generative AI|Genai]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - congratulations (1)
 

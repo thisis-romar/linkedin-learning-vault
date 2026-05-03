@@ -675,3 +675,5 @@ Technology company; vendor of Azure, Windows, Office, GitHub, and VS Code.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

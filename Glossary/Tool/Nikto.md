@@ -61,3 +61,5 @@ Web server scanner for dangerous files, outdated software, and common misconfigu
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

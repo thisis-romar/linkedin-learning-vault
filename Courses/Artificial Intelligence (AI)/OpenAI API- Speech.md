@@ -417,7 +417,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OpenAI API]] (2), [[Prompt Engineering]] (2), [[Computer Vision]] (1), [[Generative AI]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (2), [[Prompt Engineering]] (2), [[Computer Vision]] (1), [[Generative AI]] (1), [[Generative AI|Gen ai]] (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)

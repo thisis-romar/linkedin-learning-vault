@@ -359,7 +359,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (16), [[Google]] (6), [[Generative AI]] (4), [[Node.js]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (16), [[Google]] (6), [[Generative AI]] (4), [[Node.js]] (2), [[Generative AI|Generative-ai]] (1)
 > **Env Vars:** api (24), api_key (1)
 > **CLI Commands:** make (4), node (2)
 > **Prerequisites:** configure (3), install (1), set up (1), getting started (1)

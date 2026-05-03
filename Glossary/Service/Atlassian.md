@@ -83,3 +83,5 @@ Vendor behind Jira, Confluence, Bitbucket, and Trello.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

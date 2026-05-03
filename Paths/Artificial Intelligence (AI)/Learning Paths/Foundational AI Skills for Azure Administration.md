@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
-louvain_cluster: 9
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/artificial-intelligence

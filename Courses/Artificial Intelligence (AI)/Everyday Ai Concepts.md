@@ -387,7 +387,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (1), [[Generative AI]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (1), [[Generative AI]] (1), [[Generative AI|Genai]] (1), [[LinkedIn]] (1)
 > **Speakers:** - this (1)
 
 

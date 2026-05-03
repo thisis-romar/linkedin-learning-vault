@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-in-deep-learnin
 course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 6
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence

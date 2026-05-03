@@ -141,7 +141,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (6), [[AI Agents]] (5), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LLaMA]] (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (6), [[AI Agents]] (5), [[Generative AI|Genai]] (4), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (1), rag (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Exercise Files:** template (1)
@@ -361,7 +361,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (7), [[AI Agents]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (7), [[AI Agents]] (2), [[Generative AI|Genai]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** llm (1), rag (1)
 > **Cross-References:** later in (1), in the next (1)

@@ -389,7 +389,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[Microsoft Azure|Azure]] (3), [[JSON]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[Microsoft Azure|Azure]] (3), [[GPT-4|Gpt-4o]] (2), [[JSON]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** gpt (2), json (2), openai_endpoint (2), openai_key (2), uri (1)
 > **UI Navigation:** click on (5), scroll down (1), select the (1)
 > **Prerequisites:** set up (5), you'll need (2)

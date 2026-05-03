@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/explore-a-career-as-a-power-bi-spec
 course_count: 5
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science

@@ -612,7 +612,7 @@ created: 2026-05-03
 >
 > **[5:45](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=345)** Now I'm gonna add some using statements. There's gonna be seven bson using statements and one Mongo using statement. So using bsoncxx::builder::stream.
 >
-> **[6:04](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=364)** Now there are gonna be six more of these. So I'm gonna just make copies of them. That's one, two, three, four, five, six, seven all together. First one's gonna be ::close_array, ::close_document, ::document, ::finalize, ::open_array, ::open_document, and finally the last one actually is not a stream, it is basic::kvp, for key value pair. And then we're gonna have a using mongocxx::[[Cursor]]. Now we're gonna scroll all the way down to our main function. Inside of our main function, right after it says crow::SimpleApp app we're gonna go ahead and establish our connection with the database so we're gonna say mongocxx::instance. The variable name is inst with {}; then we're gonna say string mongoConnect= std::string
+> **[6:04](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=364)** Now there are gonna be six more of these. So I'm gonna just make copies of them. That's one, two, three, four, five, six, seven all together. First one's gonna be ::close_array, ::close_document, ::document, ::finalize, ::open_array, ::open_document, and finally the last one actually is not a stream, it is basic::kvp, for key value pair. And then we're gonna have a using mongocxx::cursor. Now we're gonna scroll all the way down to our main function. Inside of our main function, right after it says crow::SimpleApp app we're gonna go ahead and establish our connection with the database so we're gonna say mongocxx::instance. The variable name is inst with {}; then we're gonna say string mongoConnect= std::string
 >
 > **[7:36](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/querying-mongo-data?u=76281980&t=456)** and we're gonna call getenv, so we're gonna get an environmental variable, and this variable's name comes from Heroku. This is the thing that it told us on the settings page, it's MONGODB_URI. So we're gonna get that environmental variable because it's going to hold our connection string. And then we're gonna do a mongocxx::client and we're creating our connection and the variable's gonna be called conn. We're gonna have {}, here is what we're gonna instantiate this with, mongocxx::uri{} mongoConnect and then a ;
 >
@@ -636,7 +636,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (2), [[JSON]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[JSON]] (1), cursor (1), [[JavaScript]] (1)
 > **Code Identifiers:** hello_crow (9), find_package (3), mongoconnect (2), add_executable (1), target_include_directories (1)
 > **CLI Commands:** docker (6), find (4), make (3), mongo (3), cd (1)
 > **Env Vars:** mongodb_uri (3), workdir (2), run (2), libmongocxx_include_dirs (2), port (2)

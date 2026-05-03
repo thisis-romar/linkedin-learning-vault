@@ -57,3 +57,5 @@ Automated SQL injection detection and exploitation tool.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
   - Web Development
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence

@@ -110,7 +110,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (10), [[Deep Learning]] (1), [[DALL-E]] (1), [[ChatGPT]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Generative AI|Genai]] (3), [[Deep Learning]] (1), [[DALL-E]] (1), [[ChatGPT]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** you need to have (1)

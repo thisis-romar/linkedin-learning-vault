@@ -639,7 +639,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GPT-4]] (2), [[DALL-E]] (1), [[ChatGPT]] (1), [[Hugging Face]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (2), [[DALL-E]] (1), [[ChatGPT]] (1), [[Hugging Face]] (1), [[GPT-4|Gpt-4o]] (1)
 > **Env Vars:** gpt (7), api (7), dall (1), net (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -715,7 +715,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (6), [[Generative AI]] (5), [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Generative AI]] (5), [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Generative AI|Genai]] (2)
 > **Code Identifiers:** user_input (2), start_chat (1), send_message (1)
 > **CLI Commands:** python (1), pip (1)
 > **Env Vars:** api (2)

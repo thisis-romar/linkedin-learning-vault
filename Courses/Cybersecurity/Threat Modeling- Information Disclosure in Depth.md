@@ -144,11 +144,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980&t=0)** - [Instructor] Thumb drives, backup tapes, and other storage devices are often designed to be removed and stored separately. Even though removing hard drives can be a pain, it's not that much of a pain, and once done the data on the disc is likely accessible to anyone who could hold it in their hands. Many things in the [[IoT|internet of things]] store their operating system and some data on flash drives. Even cloud-oriented devices may have locally stored data like a cash, or security information like passwords all on local storage. The drive encryption is built in. Then the encryption moves with the drive. The operating system manages the key, then it doesn't. So drives that include encryption may or may not delete the key when you move them to a new machine. Good tests are do I need to enter a password when connecting this to a new machine? What if I enter the wrong password? Protecting data at [[Representational State Transfer (REST)|rest]] helps me rest better at night.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980&t=0)** - [Instructor] Thumb drives, backup tapes, and other storage devices are often designed to be removed and stored separately. Even though removing hard drives can be a pain, it's not that much of a pain, and once done the data on the disc is likely accessible to anyone who could hold it in their hands. Many things in the [[Internet of Things (IoT)|internet of things]] store their operating system and some data on flash drives. Even cloud-oriented devices may have locally stored data like a cash, or security information like passwords all on local storage. The drive encryption is built in. Then the encryption moves with the drive. The operating system manages the key, then it doesn't. So drives that include encryption may or may not delete the key when you move them to a new machine. Good tests are do I need to enter a password when connecting this to a new machine? What if I enter the wrong password? Protecting data at [[Representational State Transfer (REST)|rest]] helps me rest better at night.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Speakers:** - [instructor] (1)
 
 #### [Metadata](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata?u=76281980)

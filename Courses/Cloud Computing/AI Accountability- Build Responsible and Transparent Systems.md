@@ -222,7 +222,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Word|Word]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Word|Word]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Generative AI|Gen ai]] (1)
 > **Definitions:** is an  (1), is called (1), is a  (1), known as (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1), similar to (1)
@@ -377,7 +377,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Artificial Neural Networks]] (1), [[Simulation]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Artificial Neural Networks]] (1), [[Generative AI|Gen ai]] (1), [[Simulation]] (1)
 > **CLI Commands:** cat (3), make (3)
 > **Analogies:** for instance (2), for example (1), it's like (1), picture (1), such as (1)
 > **Cross-References:** go back to (1)

@@ -187,3 +187,5 @@ Software delivery model where applications are hosted in the cloud.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

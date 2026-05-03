@@ -144,7 +144,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Predictive Analytics]] (1), [[Data Mining]] (1), [[Unstructured Data]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Generative AI|Genai]] (1), [[Predictive Analytics]] (1), [[Data Mining]] (1), [[Unstructured Data]] (1)
 > **Speakers:** - i (1)
 
 
@@ -706,13 +706,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=0)** - [Instructor] At the start of the course, I issued a challenge to us all. If you don't reach deployment, you haven't completed your [[Data Mining]] project. So this is an exciting moment. It's time to deploy the model. So what form is that going to take? We've already talked about the kinds of things that we try to accomplish by deploying the model. And we've already talked about how the model produces propensity scores. Well, during deployment, a different skillset comes into play. Those predictive scores will more than likely get sent to a database table. Every step of the process has to be reconsidered with a production environment in mind. Now you need to work with the enterprise data team. It's increasingly popular to describe this skillset as [[Data Engineering]]. The trick is to follow the data from the moment it enters the system and is processed, and eventually gets sent to the model. And then follow the model scores and where they flow in the system. From there, the scores get pulled into software or technology. And from there, a bunch of possibilities. It could be a smartphone or a tablet. It could be proprietary software, or even a blinking light on a dashboard. Fairly recently, folks have even put the process, including the model, directly on an app or the kind of smart device that makes predictions. Or perhaps even placed on an [[IoT|internet of things]] device on a wind turbine or a heavy piece of equipment. Naturally, developers and engineers have to get involved, but that's the natural culmination of all this effort.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=0)** - [Instructor] At the start of the course, I issued a challenge to us all. If you don't reach deployment, you haven't completed your [[Data Mining]] project. So this is an exciting moment. It's time to deploy the model. So what form is that going to take? We've already talked about the kinds of things that we try to accomplish by deploying the model. And we've already talked about how the model produces propensity scores. Well, during deployment, a different skillset comes into play. Those predictive scores will more than likely get sent to a database table. Every step of the process has to be reconsidered with a production environment in mind. Now you need to work with the enterprise data team. It's increasingly popular to describe this skillset as [[Data Engineering]]. The trick is to follow the data from the moment it enters the system and is processed, and eventually gets sent to the model. And then follow the model scores and where they flow in the system. From there, the scores get pulled into software or technology. And from there, a bunch of possibilities. It could be a smartphone or a tablet. It could be proprietary software, or even a blinking light on a dashboard. Fairly recently, folks have even put the process, including the model, directly on an app or the kind of smart device that makes predictions. Or perhaps even placed on an [[Internet of Things (IoT)|internet of things]] device on a wind turbine or a heavy piece of equipment. Naturally, developers and engineers have to get involved, but that's the natural culmination of all this effort.
 >
 > **[1:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=96)** It's time to put the model to work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Mining]] (1), [[Data Engineering]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Data Engineering]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 

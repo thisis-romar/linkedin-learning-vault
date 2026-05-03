@@ -365,7 +365,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI|Gen ai]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)

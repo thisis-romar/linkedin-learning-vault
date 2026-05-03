@@ -90,7 +90,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Vertex]] (2), [[Gemini]] (2), [[Google Gemini]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Vertex]] (2), [[Gemini]] (2), [[Google Gemini]] (1)
 > **Speakers:** - [lynn] (1)
 
 
@@ -199,7 +199,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (4), [[Google]] (3), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[Google]] (3), [[Generative AI|Genai]] (2), [[Gemini]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sdk (1)
 > **Documentation:** the documentation (1)
@@ -259,7 +259,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (7), [[Python (Programming Language)|Python]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (1), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Generative AI|Gen ai]] (3), [[Python (Programming Language)|Python]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (1)
 > **Env Vars:** llm (3), sdk (2), gpt (2), flan (1)
 > **Versions:** 2.0 (3), 3.5 (2), 3.2 (1), 2.5 (1)
 > **CLI Commands:** python (2), find (1), pip (1)

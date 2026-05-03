@@ -246,7 +246,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Tokens]] (2), [[Generative AI]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Tokens]] (2), [[Generative AI]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Generative AI|Genai]] (1)
 > **Env Vars:** gpt (3), pdf (2), pptx (1)
 > **Exercise Files:** template (4), download the (1)
 > **CLI Commands:** python (1)

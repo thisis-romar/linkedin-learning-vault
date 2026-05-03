@@ -249,7 +249,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[Snowflake]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Snowflake]] (1), [[Generative AI|Gen ai]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - welcome (1)
@@ -300,7 +300,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (6), [[Semantic Search]] (3), [[Unstructured Data]] (2), [[Generative AI]] (1), [[Information Retrieval]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[Semantic Search]] (3), [[Unstructured Data]] (2), [[Generative AI]] (1), [[Generative AI|Genai]] (1)
 > **Env Vars:** rag (8), llm (3), ocr (2), target_lag (1), pdf (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (3), means that (2), refers to (1)

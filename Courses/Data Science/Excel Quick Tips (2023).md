@@ -120,11 +120,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980&t=1)** - [Narrator] You can use your mouse to create patterns of data to quickly fill [[Microsoft Excel|Excel]] rows or columns. Enter a value in a cell, (keyboard clicks) and hover your mouse over the bottom right-hand side of the cell. When the [[Cursor]] turns into a black crosshair icon, drag through all the rows you want to fill with that value. To work with a series, start the series, select both cells, and drag down on the last cell. Excel recognizes patterns like odd numbers, even numbers, you can even count by fives, and so on. This also works for columns, and you're not just limited to numbers. For example, you could quickly drag out the days of the week or the months of the year.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980&t=1)** - [Narrator] You can use your mouse to create patterns of data to quickly fill [[Microsoft Excel|Excel]] rows or columns. Enter a value in a cell, (keyboard clicks) and hover your mouse over the bottom right-hand side of the cell. When the cursor turns into a black crosshair icon, drag through all the rows you want to fill with that value. To work with a series, start the series, select both cells, and drag down on the last cell. Excel recognizes patterns like odd numbers, even numbers, you can even count by fives, and so on. This also works for columns, and you're not just limited to numbers. For example, you could quickly drag out the days of the week or the months of the year.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), cursor (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -173,10 +173,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/summing-rows?u=76281980&t=1)** - [Instructor] The quickest way to find the sum of cells is to select the cells and look at the bottom of the window. As you select or deselect cells the sum will instantly update. Another method is to place your [[Cursor]] at the end of the column you wish to sum the data from. From the home ribbon click the sum button and the formula will be inserted and you can press the enter key on your keyboard to see the sum. A third method is to type the sum formula yourself by placing the cursor underneath the column, pressing the equal sign on your keyboard, typing S-U-M, using the open parentheses to begin the formula, and clicking and dragging with your mouse to select the data that you wish to sum. And finally, close the parenthesis. Press the enter key on your keyboard and you have successfully added the data.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/summing-rows?u=76281980&t=1)** - [Instructor] The quickest way to find the sum of cells is to select the cells and look at the bottom of the window. As you select or deselect cells the sum will instantly update. Another method is to place your cursor at the end of the column you wish to sum the data from. From the home ribbon click the sum button and the formula will be inserted and you can press the enter key on your keyboard to see the sum. A third method is to type the sum formula yourself by placing the cursor underneath the column, pressing the equal sign on your keyboard, typing S-U-M, using the open parentheses to begin the formula, and clicking and dragging with your mouse to select the data that you wish to sum. And finally, close the parenthesis. Press the enter key on your keyboard and you have successfully added the data.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (2)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -232,10 +233,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980&t=1)** - [Narrator] To make an adjustment to your sheet, you can click on a single cell to select it, but you can also click on the column header or row header to select an entire column or row. You can select a range of columns or rows by placing your [[Cursor]] on one header, clicking and holding, and then dragging to select the range. Or select several non-contiguous columns or rows by selecting one, then holding the Control key or the Command key on a Mac, and clicking the other headers you want. Once you have the rows or columns selected, you can right-click on one of the headers to get more options, or make a formatting change, and it will be applied to all of your selected cells.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980&t=1)** - [Narrator] To make an adjustment to your sheet, you can click on a single cell to select it, but you can also click on the column header or row header to select an entire column or row. You can select a range of columns or rows by placing your cursor on one header, clicking and holding, and then dragging to select the range. Or select several non-contiguous columns or rows by selecting one, then holding the Control key or the Command key on a Mac, and clicking the other headers you want. Once you have the rows or columns selected, you can right-click on one of the headers to get more options, or make a formatting change, and it will be applied to all of your selected cells.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (1)
 > **UI Navigation:** click on (2), select the (1), right-click (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
@@ -329,11 +331,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=1)** - [Instructor] A common problem you'll run into in [[Microsoft Excel|Excel]] is when data doesn't fit into the width of a cell. You'll either have this problem where the text is cut off when there's content in the adjacent column or the text runs all the way to the right across your spreadsheet. To make sure all the content is visible in a single cell, select the cell and click the Wrap Text button in the Home ribbon, or select the entire column to apply the text wrap to all of its cells. Ultimately, you can also make the cell width adjust to the width of its contents by placing the mouse [[Cursor]] on the right border of the cell header and double-clicking. Also, if you have so much text in the cell that is difficult to read, try adding line breaks by placing your cursor in the cell where you want the brake to occur and pressing Option + Enter on a Mac or Alt + Enter on [[Windows]].
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=1)** - [Instructor] A common problem you'll run into in [[Microsoft Excel|Excel]] is when data doesn't fit into the width of a cell. You'll either have this problem where the text is cut off when there's content in the adjacent column or the text runs all the way to the right across your spreadsheet. To make sure all the content is visible in a single cell, select the cell and click the Wrap Text button in the Home ribbon, or select the entire column to apply the text wrap to all of its cells. Ultimately, you can also make the cell width adjust to the width of its contents by placing the mouse cursor on the right border of the cell header and double-clicking. Also, if you have so much text in the cell that is difficult to read, try adding line breaks by placing your cursor in the cell where you want the brake to occur and pressing Option + Enter on a Mac or Alt + Enter on [[Windows]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** cursor (2), [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [instructor] (1)
@@ -387,10 +389,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/adjust-row-height-and-column-width?u=76281980&t=1)** - [Instructor] Adjusting the height of a row or the width of a column is easy. Place your mouse [[Cursor]] on the right edge of the column header and drag or drag the bottom edge of a row header. If you need to set a specific height or width value, right click on the header and choose Row Height or Column Width. Type in a specific numeric value and click OK or to make several columns or rows the same size, select them all. Then make a size adjustment to one of the rows or columns in the selected range and all of the selected rows or columns will change to the same size.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/adjust-row-height-and-column-width?u=76281980&t=1)** - [Instructor] Adjusting the height of a row or the width of a column is easy. Place your mouse cursor on the right edge of the column header and drag or drag the bottom edge of a row header. If you need to set a specific height or width value, right click on the header and choose Row Height or Column Width. Type in a specific numeric value and click OK or to make several columns or rows the same size, select them all. Then make a size adjustment to one of the rows or columns in the selected range and all of the selected rows or columns will change to the same size.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -454,13 +457,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=1)** - [Instructor] [[Microsoft Excel|Excel]]'s format Painter Tool lets you quickly copy the formatting of cells and apply it to other cells. With a few clicks you can copy and paste formatting like font color, font size, border style, and so on. First, I like the cell that's formatted the way you want other cells to be formatted. Notice this cell has a different font face and size than the items below it. It also has a border style and a color applied. With that cell selected in the home tab, click the format painter button. Notice your mouse [[Cursor]] turns into a paintbrush icon. Use the paintbrush to select or paint over the cell or cells you want to apply. And the format is instantly applied to the cells you painted over. Note, this only works once per click. If I select these other cells below, notice the formatting isn't applied. So if I wanted to apply the same formatting to these phone numbers that's used in the first number here, I would again select it, then click the Format Painter, and again, we can drag down through those rows.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=1)** - [Instructor] [[Microsoft Excel|Excel]]'s format Painter Tool lets you quickly copy the formatting of cells and apply it to other cells. With a few clicks you can copy and paste formatting like font color, font size, border style, and so on. First, I like the cell that's formatted the way you want other cells to be formatted. Notice this cell has a different font face and size than the items below it. It also has a border style and a color applied. With that cell selected in the home tab, click the format painter button. Notice your mouse cursor turns into a paintbrush icon. Use the paintbrush to select or paint over the cell or cells you want to apply. And the format is instantly applied to the cells you painted over. Note, this only works once per click. If I select these other cells below, notice the formatting isn't applied. So if I wanted to apply the same formatting to these phone numbers that's used in the first number here, I would again select it, then click the Format Painter, and again, we can drag down through those rows.
 >
 > **[1:10](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=70)** If you do want to apply the format to multiple selections without having to repeatedly click the Format Painter button first select the cell, then double click the Format Painter button. Then you can use the Format Painter by clicking and releasing over different cells in your spreadsheet and you can click or drag. Press the escape key when you're done to stop formatting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), cursor (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 

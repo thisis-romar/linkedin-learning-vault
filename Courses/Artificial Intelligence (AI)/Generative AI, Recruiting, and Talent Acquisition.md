@@ -86,7 +86,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[Forms]] (1), [[AI Solutions]] (1), [[Internal Mobility]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Forms]] (1), [[AI Solutions]] (1), [[Generative AI|Gen ai]] (1), [[Internal Mobility]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
@@ -121,7 +121,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Midjourney]] (2), [[Forms]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI|Gen ai]] (6), [[Midjourney]] (2), [[Forms]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llms (1), llm (1)
 > **Definitions:** known as (2)
 > **Analogies:** such as (1), imagine (1)
@@ -142,7 +142,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), [[Midjourney]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (9), [[Forms]] (2), [[Midjourney]] (1), [[Generative AI]] (1)
 > **Env Vars:** mit (1), ceo (1)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
@@ -158,7 +158,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (13), [[Generative AI]] (1), [[Generative AI|Gen ai]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dei (1)
 > **Analogies:** for example (1)
@@ -174,7 +174,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[AI Solutions]] (2), [[Resume Writing]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (7), [[ChatGPT]] (5), [[Resume Writing]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Env Vars:** cpa (1)
@@ -191,7 +191,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internal Mobility]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (8), [[Internal Mobility]] (2), [[Generative AI]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (3)
 > **Cross-References:** earlier in (1)
@@ -207,7 +207,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internal Mobility]] (4)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (12), [[Internal Mobility]] (4)
 > **CLI Commands:** make (3), find (2)
 > **Speakers:** - does (1)
 
@@ -221,7 +221,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[Privacy]] (1), [[Generative AI]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (9), [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[Privacy]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** gpt (1), llm (1)
 > **Best Practices:** you should never (2)
@@ -240,7 +240,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Internal Mobility]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Generative AI|Gen ai]] (3), [[Internal Mobility]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -256,7 +256,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Google]] (1), [[ChatGPT]] (1), [[LinkedIn]] (1), [[AI Solutions]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (11), [[Generative AI]] (2), [[Google]] (1), [[ChatGPT]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)

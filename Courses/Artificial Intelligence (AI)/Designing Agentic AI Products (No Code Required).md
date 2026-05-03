@@ -253,6 +253,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - agent (1)
 
@@ -461,7 +462,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Fine Tuning]] (1), [[AI for Business]] (1), [[LinkedIn]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Fine Tuning]] (1), [[Generative AI|Gen ai]] (1), [[LinkedIn]] (1), [[Tokens]] (1)
 > **Env Vars:** llm (3), roi (2), api (2)
 > **URLs:** [agent.ai](https://agent.ai) (4)
 > **Speakers:** - [instructor] (1)
@@ -474,6 +475,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2)
 > **Env Vars:** llm (5)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -556,7 +558,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Generative AI]] (2), [[LinkedIn]] (2), [[Business Acumen]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[Microsoft Products|Products]] (2), [[Generative AI]] (2), [[LinkedIn]] (2), [[Business Acumen]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 

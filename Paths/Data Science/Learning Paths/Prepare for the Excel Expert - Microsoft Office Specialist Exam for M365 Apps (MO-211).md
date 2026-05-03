@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/prepare-for-the-excel-expert-micros
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 11
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/data-science

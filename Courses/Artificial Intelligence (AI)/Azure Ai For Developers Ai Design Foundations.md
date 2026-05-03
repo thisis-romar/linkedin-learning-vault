@@ -139,7 +139,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[GitHub]] (2), [[LLaMA]] (2)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (3), [[Azure AI Foundry]] (2), [[GitHub]] (2), [[LLaMA]] (2)
 > **Env Vars:** gpt (5)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** github (2)
@@ -372,7 +372,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[GPT-4|Gpt-4o]] (4), [[Azure AI Foundry]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - [instructor] (5), - [speaker] (4)
 > **Env Vars:** gpt (4)
 > **Analogies:** it's like (2), for example (1)
@@ -385,7 +385,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (3), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gpt (3)
 > **Analogies:** picture (2)

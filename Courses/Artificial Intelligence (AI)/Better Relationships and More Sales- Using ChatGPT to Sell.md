@@ -87,7 +87,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Generative AI|Genai]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - in (1)
 
@@ -138,7 +138,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (2), [[Building Trust]] (1), [[Sales Strategy]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (2), [[Building Trust]] (1), [[Generative AI|Gen ai]] (1), [[Sales Strategy]] (1)
 > **Analogies:** similar to (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
@@ -284,7 +284,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Building Trust]] (2), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Building Trust]] (2), [[Product Development]] (1), [[Generative AI|Genai]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)

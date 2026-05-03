@@ -288,7 +288,7 @@ created: 2026-05-03
 >
 > **[3:38](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980&t=218)** - This really is your safety net available in browser, on your smart watch, on your phone, as long as you can get online nowadays, you can get great auto captioning.
 >
-> **[3:49](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980&t=229)** - [Narrator] On a Microsoft [[Windows]] setting screen, the [[Cursor]] selects Ease of Access.
+> **[3:49](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980&t=229)** - [Narrator] On a Microsoft [[Windows]] setting screen, the cursor selects Ease of Access.
 >
 > **[3:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980&t=235)** - [Hector] Another great feature is notification delay.
 >
@@ -306,7 +306,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft]] (4), [[Windows]] (3), [[Statistics]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft]] (4), [[Windows]] (3), cursor (3), [[Statistics]] (1)
 > **Speakers:** - [narrator] (14), - [hector] (7), - it (1), - many (1), - if (1)
 > **Env Vars:** vtt (2), efoh (1)
 > **CLI Commands:** make (2)
@@ -339,7 +339,7 @@ created: 2026-05-03
 >
 > **[1:14](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mobility-and-dexterity-accessibility?u=76281980&t=74)** - I use my laptop with keyboard, track pad, mouse, touchscreen, voice, and by extension, I could use joysticks or use my number pad as a mouse. And even iControl, which is supported in mainstream PCs nowadays. But even though we have choice, there are still features and settings that can support people with physical disabilities. Presenting as limb disabilities, arthritis, carpal tunnel syndrome, hemiplegia, muscular dystrophies, and spinal cord injury.
 >
-> **[1:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mobility-and-dexterity-accessibility?u=76281980&t=104)** - [Announcer] On a computer screen, the [[Cursor]] selects devices on the [[Windows]] settings screen.
+> **[1:44](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mobility-and-dexterity-accessibility?u=76281980&t=104)** - [Announcer] On a computer screen, the cursor selects devices on the [[Windows]] settings screen.
 >
 > **[1:50](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mobility-and-dexterity-accessibility?u=76281980&t=110)** - [Hector] I want to start with typing and text input. There are a number of methods to personalize the typing experience. First, is [[Microsoft Word|word]] prediction. This is not just for onscreen keyboards.
 >
@@ -397,7 +397,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (3), [[Microsoft Office|Office]] (3), [[Microsoft PowerPoint|Powerpoint]] (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** cursor (6), [[Microsoft Word|Word]] (4), [[Microsoft Word]] (3), [[Microsoft Office|Office]] (3), [[Microsoft PowerPoint|Powerpoint]] (3)
 > **Speakers:** - [announcer] (19), - [hector] (12), - so (1), - i (1), - turn (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** icontrol (1)
@@ -418,7 +418,7 @@ created: 2026-05-03
 >
 > **[1:28](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mental-health-accessibility?u=76281980&t=88)** - We should have this conversation in the workplace. We should offer best practices to combat some of these trends. Let's look at some positive options that you might not realize you have, and hopefully find useful. First, consider setting quiet hours in chat applications like [[Microsoft Teams]]. Allow yourself to watch meeting recordings. Is every meeting that important to attend in person? Use Focus mode in [[Windows]] or in [[Microsoft Office|Office]].
 >
-> **[1:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mental-health-accessibility?u=76281980&t=115)** - [Narrator] In [[Microsoft Word]] the [[Cursor]] selects the Focus button at the bottom of the screen. The document isolates against a black background.
+> **[1:55](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mental-health-accessibility?u=76281980&t=115)** - [Narrator] In [[Microsoft Word]] the cursor selects the Focus button at the bottom of the screen. The document isolates against a black background.
 >
 > **[2:04](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/mental-health-accessibility?u=76281980&t=124)** - [Man] It takes 20 minutes to get back to something when you are distracted. Take a look at Insights in [[Microsoft Outlook]].
 >
@@ -436,7 +436,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft Outlook]] (2), [[Statistics]] (1), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** cursor (3), [[Windows]] (2), [[Microsoft Outlook]] (2), [[Statistics]] (1), [[Microsoft Teams]] (1)
 > **Speakers:** - [narrator] (7), - we (2), - [man] (2), - the (1), - monitor (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** ptsd (1)
@@ -460,7 +460,7 @@ created: 2026-05-03
 >
 > **[0:48](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/cognition-accessibility?u=76281980&t=48)** - As the modern workplace becomes increasingly digital, and roles in retail, manufacturing, construction, and service roles are increasingly raising expectations for employees to use tech, we need to consider this topic carefully. So how can assistive technology help here? Let's take a look at these features. First is read aloud.
 >
-> **[1:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/cognition-accessibility?u=76281980&t=68)** - [Female Voiceover] In [[Microsoft Word]], the [[Cursor]] opens the review tab and selects, read aloud. The words in the document are highlighted one at a time as they are read.
+> **[1:08](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/cognition-accessibility?u=76281980&t=68)** - [Female Voiceover] In [[Microsoft Word]], the cursor opens the review tab and selects, read aloud. The words in the document are highlighted one at a time as they are read.
 >
 > **[1:17](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/cognition-accessibility?u=76281980&t=77)** - Put simply, if you rather that something was read for you, there are numerous ways to press play. Find them in [[Microsoft Office|Office]] and even in the Edge browser, which you can install both on your PC and your phone. Next, check out reading supports.
 >
@@ -510,7 +510,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Microsoft Word]] (3), [[Microsoft Office|Office]] (3), [[LinkedIn]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), cursor (4), [[Microsoft Word]] (3), [[Microsoft Office|Office]] (3), [[LinkedIn]] (2)
 > **Speakers:** - [female (15), - [hector] (7), - even (1), - as (1), - put (1)
 > **Analogies:** picture (1), for example (1), imagine (1), such as (1)
 > **CLI Commands:** find (2)
@@ -564,7 +564,7 @@ created: 2026-05-03
 >
 > **[1:00](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/tips-for-more-accessible-social-media?u=76281980&t=60)** - [Hector] Wherever possible, describe images. Most platforms have an option to add image description or provide alt, alternative, text.
 >
-> **[1:09](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/tips-for-more-accessible-social-media?u=76281980&t=69)** - [Narrator] The [[Cursor]] clicks the Add Description button and types a description of the image.
+> **[1:09](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/tips-for-more-accessible-social-media?u=76281980&t=69)** - [Narrator] The cursor clicks the Add Description button and types a description of the image.
 >
 > **[1:14](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/tips-for-more-accessible-social-media?u=76281980&t=74)** - [Hector] Simple rule here, describe the meaning being conveyed by the photo. Take a minute to think of the last meme you posted. Now describe it. If there is no alt text option, just write the description right there in the post. Second, add captions to video.
 >
@@ -578,7 +578,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (3), [[Android]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (3), cursor (1), [[Android]] (1), [[Microsoft]] (1)
 > **Speakers:** - [narrator] (6), - [hector] (6)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** ios (1)

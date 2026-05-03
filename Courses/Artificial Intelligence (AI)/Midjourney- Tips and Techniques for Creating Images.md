@@ -425,7 +425,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (15), [[Creative Ideation]] (1), [[Microsoft Word|Word]] (1), [[Tokens]] (1), [[Remix]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (15), [[Creative Ideation]] (1), [[Microsoft Word|Word]] (1), [[Tokens]] (1), [[Generative AI|Gen ai]] (1)
 > **Analogies:** imagine (4), kind of like (2)
 > **Cross-References:** earlier in (2), coming up (1), go back to (1)
 > **UI Navigation:** click on (3), scroll down (1)

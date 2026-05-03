@@ -591,7 +591,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (14), [[JavaScript]] (5), [[JSON]] (3), [[Microsoft Azure|Azure]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (14), [[JavaScript]] (5), [[GPT-4|Gpt-4o]] (4), [[JSON]] (3), [[Microsoft Azure|Azure]] (2)
 > **Tools:** github (14), terminal (3)
 > **Env Vars:** sdk (8), gpt (4), api (1), rest (1), npm (1)
 > **UI Navigation:** go to (5), navigate to (3), dropdown (2), select the (1)
@@ -614,7 +614,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[GitHub]] (7), [[Codespaces]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[GitHub]] (7), [[Codespaces]] (3), [[GPT-4|Gpt-4o]] (1)
 > **Env Vars:** api (3), url (3), azure_token (3), gpt (1)
 > **Tools:** github (7)
 > **Prerequisites:** set up (2), getting started (1)

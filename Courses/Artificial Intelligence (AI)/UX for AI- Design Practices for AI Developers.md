@@ -266,7 +266,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Tokens]] (2), [[Python (Programming Language)|Python]] (2), [[Semantic Kernel]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Tokens]] (2), [[Python (Programming Language)|Python]] (2), [[Generative AI|Genai]] (1), [[Semantic Kernel]] (1)
 > **Tools:** github (3), vs code (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** gpt (3)

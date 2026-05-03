@@ -1099,3 +1099,5 @@ created: 2026-05-03
 ---
 
 *Source: LinkedIn catalog (concept)*
+
+Part of [[000 Glossary Index]]

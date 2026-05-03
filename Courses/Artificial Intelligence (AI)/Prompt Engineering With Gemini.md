@@ -96,7 +96,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[Generative AI|Genai]] (2), [[Google]] (1)
 > **Speakers:** - gemini (1)
 
 
@@ -114,7 +114,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (9), [[Google]] (5), [[Privacy]] (4), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (9), [[Google]] (5), [[Privacy]] (4), [[Generative AI|Gen ai]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **URLs:** [google.com](https://google.com) (1), [google.ai](https://google.ai) (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -494,7 +494,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[Generative AI|Gen ai]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -583,7 +583,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (1), [[Google]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Gemini]] (1), [[Google]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gpt (2)
 > **Speakers:** - thanks (1)
 

@@ -57,3 +57,5 @@ Supervisory Control and Data Acquisition — industrial control system architect
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

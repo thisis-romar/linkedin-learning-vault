@@ -41,3 +41,5 @@ Printed Circuit Board — substrate that mechanically supports and electrically 
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

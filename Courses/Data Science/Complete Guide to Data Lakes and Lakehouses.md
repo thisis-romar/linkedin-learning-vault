@@ -1066,7 +1066,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (3), [[Jetpack Compose|Compose]] (2), [[Data Ingestion]] (2), [[PySpark]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (3), [[Jetpack Compose|Compose]] (2), [[Data Ingestion]] (2), [[Generative AI|Genai]] (1)
 > **UI Navigation:** click on (5), go to (2), open the (2), in the sidebar (1)
 > **Tools:** github (3), visual studio (1), terminal (1), jupyter (1)
 > **CLI Commands:** docker (3), find (2)

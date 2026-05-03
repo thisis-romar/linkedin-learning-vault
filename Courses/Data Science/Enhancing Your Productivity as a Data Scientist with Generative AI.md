@@ -158,7 +158,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (10), [[Microsoft Word|Word]] (10), [[ChatGPT]] (4), [[Deep Learning]] (3), [[Gemini]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Microsoft Word|Word]] (10), [[Generative AI|Gen ai]] (5), [[ChatGPT]] (4), [[Deep Learning]] (3)
 > **Analogies:** such as (2), for example (2), imagine (1), picture (1)
 > **Env Vars:** gpt (2), llm (1)
 > **CLI Commands:** make (2)
@@ -180,7 +180,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (9), [[CRISP-DM]] (6), [[Data Preparation]] (4), [[Data Quality]] (2), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (9), [[CRISP-DM]] (6), [[Data Preparation]] (4), [[Generative AI|Genai]] (3), [[Data Quality]] (2)
 > **Env Vars:** crisp (6)
 > **Definitions:** is an  (2), stands for (1)
 > **CLI Commands:** make (1), find (1)
@@ -309,7 +309,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (2), [[Generative AI]] (2), [[Marketing Strategy]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Generative AI]] (2), [[Marketing Strategy]] (2), [[Generative AI|Gen ai]] (1)
 > **Env Vars:** smart (4), mece (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
@@ -471,7 +471,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Preparation]] (4), [[Generative AI]] (1), [[Data Science]] (1), [[Data Cleaning]] (1), [[Data Quality]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (4), [[Generative AI|Genai]] (4), [[Generative AI]] (1), [[Data Science]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -744,7 +744,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Generative AI]] (1), [[Generative AI|Genai]] (1)
 > **Env Vars:** api (2)
 > **Documentation:** the documentation (1)
 > **Definitions:** is called (1)
@@ -808,7 +808,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (1), [[Generative AI]] (1), [[Data Storytelling]] (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Generative AI]] (1), [[Generative AI|Genai]] (1), [[Data Storytelling]] (1), [[Storytelling]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -901,7 +901,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (5), [[Generative AI]] (3), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[Data Science]] (5), [[Generative AI]] (3), [[Prompt Engineering]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** always make sure (1)

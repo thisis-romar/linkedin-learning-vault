@@ -176,7 +176,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistical Analysis]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Decision-Making]] (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Decision-Making]] (1), [[Generative AI|Genai]] (1), [[Statistics]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - ai (1)

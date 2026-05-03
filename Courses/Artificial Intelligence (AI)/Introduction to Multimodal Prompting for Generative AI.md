@@ -165,6 +165,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4|Gpt4]] (4)
 > **Env Vars:** gpt4 (4), gpt (1), gpt3 (1)
 > **Definitions:** stands for (2), is a  (1)
 > **Cross-References:** later in (1)
@@ -201,7 +202,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OpenAI API]] (2), [[JSON]] (2), [[ChatGPT]] (1), [[Python (Programming Language)|Python]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (2), [[GPT-4|Gpt-4o]] (2), [[JSON]] (2), [[ChatGPT]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (4), gpt (3), url (2), json (2), open_ai_api_key (1)
 > **CLI Commands:** python3 (2), python (1), pip (1), find (1), make (1)
 > **Prerequisites:** install (3)
@@ -234,7 +235,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[ChatGPT]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (4), [[HTML]] (2), [[ChatGPT]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (5), html (1), css (1)
 > **CLI Commands:** make (4), python3 (2)
 > **Non-Speech:** (upbeat music) (1), (keyboard clicking) (1)

@@ -70,3 +70,5 @@ Networking utility for reading/writing data across TCP/UDP connections; staple i
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

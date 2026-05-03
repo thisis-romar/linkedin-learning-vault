@@ -180,13 +180,13 @@ created: 2026-05-03
 >
 > **[1:30](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=90)** Let's start by running the most basic query. Here, we'll hit the SQL endpoint, setting the format to text, and we'll make a body feeding one parameter, a query, which is running Select Star. This returns two results, one by Nathaniel Bowlmorn, and another by Whiph Onpin. Let's use a filter to query the results down. Here, we used a where clause in the same way in the Query DSL we would use a filter query. While it is not possible to do every type of SQL query in Elastic SQL, the language is powerful. Let's construct a group and count query.
 >
-> **[2:17](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=137)** This query has a few sections. In the first, we're selecting the author field and an aggregate field, which is the count. Then we're using a from section to reference our index. We're using a where section to filter the data, and we're grouping by author. Also, notice we use the three quotes for our query. This allows us to do multi-line queries fairly easily. If we remove the format equals text, we could see that the result is returned as JSON, and also, importantly, it has a [[Cursor]], which would allow us to retrieve larger result sets and page through them.
+> **[2:17](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=137)** This query has a few sections. In the first, we're selecting the author field and an aggregate field, which is the count. Then we're using a from section to reference our index. We're using a where section to filter the data, and we're grouping by author. Also, notice we use the three quotes for our query. This allows us to do multi-line queries fairly easily. If we remove the format equals text, we could see that the result is returned as JSON, and also, importantly, it has a cursor, which would allow us to retrieve larger result sets and page through them.
 >
 > **[3:00](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=180)** The endpoint has a translate feature. This takes the SQL query and converts it to a Query DSL query. This is a really great way to learn the Query DSL language. As you could see on the right, the query's been broken down into two parts. The filter is done as a wild card query on the author field, and the grouping is done in an aggregation query.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (10), [[JSON]] (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (10), [[JSON]] (3), [[Databases]] (1), cursor (1)
 > **Env Vars:** sql (10), dsl (6), json (3)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)

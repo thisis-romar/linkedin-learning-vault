@@ -248,7 +248,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Generative AI]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Generative AI|Gen ai]] (1), [[Generative AI]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), api (1)
 > **UI Navigation:** scroll down (1)
@@ -267,7 +267,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LLaMA]] (5), [[Tokens]] (3), [[Generative AI]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[LLaMA]] (5), [[Tokens]] (3), [[Generative AI]] (2), [[Generative AI|Genai]] (2), [[Databases]] (1)
 > **Env Vars:** dbrx (6)
 > **UI Navigation:** select the (1), dropdown (1), open the (1), scroll up (1), scroll down (1)
 > **Definitions:** is a  (2)

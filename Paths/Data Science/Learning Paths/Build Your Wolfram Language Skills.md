@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-wolfram-language-skills
 course_count: 8
 linkedin_topics:
   - Data Science
-louvain_cluster: 6
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/data-science

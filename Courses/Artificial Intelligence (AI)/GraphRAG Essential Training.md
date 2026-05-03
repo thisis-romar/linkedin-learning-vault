@@ -113,7 +113,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), [[Python (Programming Language)|Python]] (1), [[Data Science]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Generative AI|Gen ai]] (1), [[Python (Programming Language)|Python]] (1), [[Data Science]] (1)
 > **Env Vars:** rag (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - have (1)
@@ -128,7 +128,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knowledge Graphs]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (4), [[Knowledge Graphs]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** llm (2), rag (2)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - have (1)
@@ -164,7 +164,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[GraphRAG]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** llm (1)
@@ -199,7 +199,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), [[SQL]] (1), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Databases]] (1), [[SQL]] (1), [[GraphRAG]] (1)
 > **Env Vars:** sql (1), llm (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -214,7 +214,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knowledge Graphs]] (2), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Knowledge Graphs]] (2), [[GraphRAG]] (1)
 > **CLI Commands:** node (5), make (4)
 > **Env Vars:** ceo (1), xyz (1), llm (1)
 > **Analogies:** for example (3)
@@ -248,7 +248,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knowledge Graphs]] (4), [[Microsoft Word|Word]] (1), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (4), [[Generative AI|Genai]] (2), [[Microsoft Word|Word]] (1), [[GraphRAG]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
@@ -264,7 +264,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knowledge Graphs]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[Knowledge Graphs]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1)
 > **Env Vars:** rag (4), gps (2), llm (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** we call this (1), is a  (1)
@@ -303,7 +303,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (11), [[GraphRAG]] (3), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (11), [[GraphRAG]] (3), [[Generative AI|Gen ai]] (2), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
@@ -390,7 +390,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Neo4j]] (5), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Neo4j]] (5), [[Generative AI|Genai]] (1), [[GraphRAG]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Env Vars:** url (2), o207 (1), env (1)
 > **UI Navigation:** navigate to (1), select the (1), switch to (1)
@@ -442,7 +442,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[Microsoft Word|Word]] (2), [[Databases]] (1)
 > **Env Vars:** rag (5), llm (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -458,7 +458,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphRAG]] (4), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GraphRAG]] (4), [[Generative AI|Gen ai]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Env Vars:** rag (2)
 > **Cross-References:** as we saw (1), in the last (1)
@@ -477,7 +477,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (10), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Databases]] (1), [[Neo4j]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (10), [[Generative AI|Genai]] (4), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Databases]] (1)
 > **Env Vars:** llm (6), aws (1), gcp (1)
 > **CLI Commands:** make (2), python (1), aws (1)
 > **Definitions:** is a  (2)
@@ -494,7 +494,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (6), [[Neo4j]] (4), [[GraphRAG]] (1), [[Knowledge Graphs]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (6), [[Neo4j]] (4), [[Generative AI|Gen ai]] (1), [[GraphRAG]] (1), [[Knowledge Graphs]] (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** allow_dangerous_requests (1)
@@ -513,7 +513,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (5), [[Knowledge Graphs]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (5), [[Knowledge Graphs]] (2), [[Generative AI|Gen ai]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (3), node (2)
 > **Env Vars:** llm (2), env (1)
 > **Cross-References:** earlier in (1), go back to (1)
@@ -612,7 +612,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphRAG]] (3), [[SQL]] (1), [[Neo4j]] (1), [[LangChain]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GraphRAG]] (3), [[Generative AI|Genai]] (1), [[SQL]] (1), [[Neo4j]] (1), [[LangChain]] (1)
 > **Env Vars:** llm (6), sql (1), call (1)
 > **CLI Commands:** python (1), node (1)
 > **Definitions:** refers to (1), is called (1)
@@ -646,7 +646,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (2), [[GraphRAG]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[LangChain]] (2), [[GraphRAG]] (1)
 > **Env Vars:** llm (2), rag (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -760,7 +760,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphRAG]] (3), [[LinkedIn]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[GraphRAG]] (3), [[Generative AI|Gen ai]] (2), [[LinkedIn]] (1), [[Databases]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** discord (1)
 > **Speakers:** - congratulations (1)

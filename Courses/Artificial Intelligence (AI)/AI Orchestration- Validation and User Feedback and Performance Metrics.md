@@ -604,7 +604,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Hugging Face]] (1), [[Data Processing]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (6), [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Hugging Face]] (1)
 > **Env Vars:** api (6), llm (5), gpt (5), fdny (1)
 > **Prerequisites:** install (7), set up (4), configure (1)
 > **CLI Commands:** make (4), python (2), pip (2)

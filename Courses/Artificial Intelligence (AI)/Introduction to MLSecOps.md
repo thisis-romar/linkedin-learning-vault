@@ -213,7 +213,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (3), [[Microsoft Word|Word]] (2), [[LinkedIn]] (1), [[Predictive AI]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Generative AI|Gen ai]] (2), [[Microsoft Word|Word]] (2), [[LinkedIn]] (1), [[Predictive AI]] (1)
 > **Env Vars:** nist (3), llm (1)
 > **Analogies:** for example (3), picture (1)
 > **CLI Commands:** find (1), make (1)

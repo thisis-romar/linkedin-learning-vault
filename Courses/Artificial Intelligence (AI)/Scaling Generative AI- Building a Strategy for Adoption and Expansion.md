@@ -83,7 +83,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI|Gen ai]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - generative (1)
 
@@ -102,7 +102,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Traditional AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (12), [[Traditional AI]] (1)
 > **Analogies:** imagine (1), such as (1), it's like (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -118,7 +118,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Generative AI|Genai]] (3)
 > **Env Vars:** ceo (2)
 > **Versions:** 4.0 (1), version 4 (1)
 > **Cross-References:** coming up (1)
@@ -137,7 +137,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Generative AI]] (2), [[Ethics]] (1), [[Generative AI Tools]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[ChatGPT]] (5), [[Generative AI]] (2), [[Ethics]] (1), [[Generative AI Tools]] (1)
 > **Prerequisites:** install (1), set up (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
@@ -159,7 +159,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (5), [[Data Security]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** rpa (1), poc (1), pov (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (2)
@@ -178,7 +178,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (3), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sme (1)
@@ -198,7 +198,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Solutions]] (3), [[Microsoft Azure|Azure]] (1), [[Dashboards]] (1), [[Real-Time]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (18), [[Microsoft Azure|Azure]] (1), [[Dashboards]] (1), [[Real-Time]] (1), [[Software Development]] (1)
 > **Prerequisites:** you'll need (3), setup (2), set up (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** crm (1)
@@ -219,7 +219,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (2), [[Microsoft]] (1), [[Dashboards]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (14), [[Accountability]] (2), [[Microsoft]] (1), [[Dashboards]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** kpi (2)
 > **Definitions:** is a  (2)
@@ -243,7 +243,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (20), [[Accountability]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6)
 > **Cross-References:** we talked about (1), next video (1), we discussed (1)
 > **Definitions:** is an  (1)
@@ -260,7 +260,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Lifelong Learning]] (2), [[Microsoft Excel|Excel]] (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[Lifelong Learning]] (2), [[Microsoft Excel|Excel]] (1), [[Soft Skills]] (1)
 > **Speakers:** - we (1)
 
 
@@ -276,7 +276,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[ChatGPT]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[ChatGPT]] (1), [[LinkedIn]] (1), [[Generative AI|Gen ai]] (1)
 > **URLs:** [aimcgarry.com](https://aimcgarry.com) (1)
 > **Speakers:** - congratulations (1)
 

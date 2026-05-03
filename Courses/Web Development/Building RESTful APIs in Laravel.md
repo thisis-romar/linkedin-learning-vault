@@ -400,7 +400,7 @@ created: 2026-05-03
 >
 > **[2:15](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=135)** Even better way would be to use the illuminate HTTP response class to return appropriate HTTP response. I'm going to replace the status code with a response::HTTP_OK
 >
-> **[2:36](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=156)** I will put my [[Cursor]] back on the response and import the class. Make sure to import a correct response class the Illuminate HTTP one, because as you can see there are quite a few of them. Now that we have imported it at the top of the file. If I delete the HTTP_OK and start typing PhpStorm, offer all of the other codes and not just the numbers, but the names too
+> **[2:36](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=156)** I will put my cursor back on the response and import the class. Make sure to import a correct response class the Illuminate HTTP one, because as you can see there are quite a few of them. Now that we have imported it at the top of the file. If I delete the HTTP_OK and start typing PhpStorm, offer all of the other codes and not just the numbers, but the names too
 >
 > **[3:12](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=192)** Using the response class instead of the actual status code is better for readability and for testing, knowing that the response will be OK, or in the case of the destroy method, HTTP no content is more descriptive than having a number 200 or 204 there, especially since not everyone is familiar with all status codes but you can do it either way. Let me use the response cast on the destroyer method too. I'm going to delete the 204 code and type response:: And now we can see the 204 status code stands for no content.
 >
@@ -408,7 +408,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[Laravel]] (2), [[Data Validation]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Laravel]] (2), cursor (1), [[Data Validation]] (1)
 > **Env Vars:** http (5), api (4), json (4), http_ok (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)

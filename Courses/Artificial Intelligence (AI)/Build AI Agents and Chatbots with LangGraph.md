@@ -255,7 +255,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[React.js|React]] (2), [[LangChain]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[React.js|React]] (2), [[LangChain]] (2), [[GPT-4|Gpt-4o]] (1)
 > **Code Identifiers:** create_react_agent (2), system_prompt (2), agent_tools (1), find_sum (1), find_product (1)
 > **Env Vars:** apa (3), llm (3), gpt (1)
 > **Prerequisites:** set up (4)
@@ -430,7 +430,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[GPT-4|Gpt-4o]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** llm (2), gpt (1)
 > **Prerequisites:** set up (2), setup (1)
 > **File Paths:** orders.csv (1)
@@ -503,6 +503,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (1)
 > **Prerequisites:** set up (4)
 > **Env Vars:** llm (2), gpt (1)
 > **Cross-References:** in the next (1)

@@ -49,3 +49,5 @@ Human Machine Interface — dashboard or touchscreen allowing operators to monit
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

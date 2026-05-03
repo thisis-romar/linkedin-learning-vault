@@ -47,3 +47,5 @@ Process Field Bus — industrial fieldbus standard for communication between con
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

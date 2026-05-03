@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/career-essentials-in-administrative
 course_count: 7
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 15
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/cloud-computing

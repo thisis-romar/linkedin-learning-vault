@@ -42,3 +42,5 @@ Directory/file and DNS brute-forcing tool written in Go.
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

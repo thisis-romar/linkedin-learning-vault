@@ -128,3 +128,5 @@ Photo and video sharing platform; increasingly used for customer service interac
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]

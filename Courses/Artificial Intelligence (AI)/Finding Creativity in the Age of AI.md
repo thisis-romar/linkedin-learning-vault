@@ -146,7 +146,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (1), [[Forms]] (1)
 > **Definitions:** stands for (5), is an  (1), is a  (1)
 > **Analogies:** such as (2), for instance (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -204,7 +204,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Adobe Photoshop]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (2), [[ChatGPT]] (1), [[Adobe Photoshop]] (1)
 > **Cross-References:** coming up (1), go back to (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Analogies:** for instance (1)
@@ -243,7 +243,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Midjourney]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Product Design]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Midjourney]] (2), [[Generative AI|Genai]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Product Design]] (1)
 > **Env Vars:** gpt (3)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1), make (1)
@@ -262,7 +262,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (1), [[Generative AI|Gen ai]] (1)
 > **Versions:** 86.7 (1), 13.4 (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** cvl (1)

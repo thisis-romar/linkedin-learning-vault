@@ -194,7 +194,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Google]] (2), [[Generative AI]] (2), [[Remix]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Google]] (2), [[Generative AI|Gen ai]] (2), [[Generative AI]] (2), [[Remix]] (1)
 > **CLI Commands:** cat (2)
 > **Definitions:** is called (1)
 > **Analogies:** imagine (1)
@@ -309,7 +309,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Generative AI|Gen ai]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** gan (1)
 > **Definitions:** means that (1)
@@ -467,7 +467,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[Traditional AI]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Generative AI|Gen ai]] (3), [[Traditional AI]] (1), [[Decision-Making]] (1)
 > **Env Vars:** ibm (1), lgbtq (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -537,7 +537,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Algorithms]] (2), [[Generative AI|Gen ai]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), similar to (1)
 > **Warnings:** be careful (1)
@@ -556,7 +556,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[Traditional AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Traditional AI]] (2), [[Generative AI|Gen ai]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - i (1)

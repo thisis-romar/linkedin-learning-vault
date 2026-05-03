@@ -395,7 +395,7 @@ created: 2026-05-03
 >
 > **[0:43](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980&t=43)** Now we'll create the access list. Now I want to copy the command so I get it correct and we'll paste it. And again, the second command.
 >
-> **[1:07](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980&t=67)** And then it says allow all other IPv6 traffic to pass. So that will be permit IPv6 any any. And then we'll exit. So apply the access control list on the interface closest to the source of the traffic to be blocked. So if you place your [[Cursor]] over the router, you can see the interfaces and it will be Gigabit 0/1. So we need to go into that interface interface gigabitEthernet 0/1 and IPv6 traffic-filter BLOCK_HTTP in.
+> **[1:07](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980&t=67)** And then it says allow all other IPv6 traffic to pass. So that will be permit IPv6 any any. And then we'll exit. So apply the access control list on the interface closest to the source of the traffic to be blocked. So if you place your cursor over the router, you can see the interfaces and it will be Gigabit 0/1. So we need to go into that interface interface gigabitEthernet 0/1 and IPv6 traffic-filter BLOCK_HTTP in.
 >
 > **[1:58](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/solution-configuring-ipv6-acls?u=76281980&t=118)** And we'll exit. Now we're going to verify the implementation by going to PC1 and PC2. Now I'm going to copy this right here so I get it correct and we'll go to PC1 and the desktop into the web browser. And we see the website. Now we'll go to PC2 into the desktop and the browser and the website is blocked. Now I'm going to copy this again because we're going to ping this IP address. So we'll close the browser and go into the command prompt. Type ping. And the ping is successful, so I'll close that. Now I'll scroll down and we're going to configure, apply and verify a second IPv6 access control list. So now we'll go to Router3,
 >
@@ -407,6 +407,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** cursor (2)
 > **Env Vars:** pc1 (5), pc2 (4), block_icmp (3), icmp (2), http (1)
 > **UI Navigation:** go to (8), scroll up (1), scroll down (1)
 > **Tools:** command prompt (3), command line (1)
@@ -414,7 +415,6 @@ created: 2026-05-03
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
-> **Non-Speech:** (upbeat music) (1)
 
 
 ### 4. Implement NAT on Cisco ASA

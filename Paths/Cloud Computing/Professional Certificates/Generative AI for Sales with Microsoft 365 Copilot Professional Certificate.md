@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/generative-ai-for-sales-with-micros
 course_count: 6
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 15
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/cloud-computing

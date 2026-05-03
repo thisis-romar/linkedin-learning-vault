@@ -265,11 +265,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980&t=0)** - [Instructor] [[Django]] [[Representational State Transfer (REST)|REST]] framework provides multiple ways of paginating lists of items. There are three ways to do this with LimitOffset, [[Cursor]], and PageNumber. We're going to keep things simple and use PageNumber pagination. We create a subclass called PackagePagination and we set the page size to nine, so we have a nice grid pattern on the front end. Then, in the PublicPackageViewSet, we set the pagination class to PackagePagination, and we're all done.
+> **[0:00](https://www.linkedin.com/learning/building-react-and-django-apps/pagination-with-django?u=76281980&t=0)** - [Instructor] [[Django]] [[Representational State Transfer (REST)|REST]] framework provides multiple ways of paginating lists of items. There are three ways to do this with LimitOffset, Cursor, and PageNumber. We're going to keep things simple and use PageNumber pagination. We create a subclass called PackagePagination and we set the page size to nine, so we have a nice grid pattern on the front end. Then, in the PublicPackageViewSet, we set the pagination class to PackagePagination, and we're all done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1), cursor (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [instructor] (1)
 

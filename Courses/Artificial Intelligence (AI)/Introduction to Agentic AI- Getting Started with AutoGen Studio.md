@@ -171,7 +171,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (1), [[GPT-4|Gpt-4o]] (1)
 > **Env Vars:** gpt (3), ags (1)
 > **Cross-References:** in the next (2), as we saw (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -197,7 +197,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Fetch]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Fetch]] (1), [[GPT-4]] (1), [[GPT-4|Gpt-4o]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** gpt (2)
@@ -220,6 +220,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2)
 > **UI Navigation:** go to (4), click on (4)
 > **Env Vars:** gpt (2), llm (1)
 > **CLI Commands:** make (2)
@@ -263,7 +264,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[GPT-4|Gpt-4o]] (1)
 > **UI Navigation:** click on (7), go to (4), select the (3)
 > **Env Vars:** llm (3), gpt (1)
 > **CLI Commands:** make (3)
@@ -373,7 +374,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (3), [[DALL-E]] (1), [[Tokens]] (1)
 > **UI Navigation:** go to (6), click on (3)
 > **Env Vars:** pdf (3), gpt (3), dall (1), llm (1)
 > **Cross-References:** go back to (1), in the next (1), next video (1)
@@ -393,6 +394,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[GPT-4|Gpt-4o]] (2)
 > **Env Vars:** pdf (5), gpt (2)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)

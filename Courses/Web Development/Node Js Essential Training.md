@@ -300,13 +300,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=0)** - [Narrator] So let's for the fun of it add one more thing. We're going to add this to our increment time function. So right underneath where we're saying current time and wait interval, we're going to create a value called p, and we're going to set that equal to Math.floor. Inside of this we're going to take our currentTime divided by our waitTime. We're going to multiply that by 100. And then we're going to say process.standard output.clearLine.
 >
-> **[0:39](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=39)** We're going to say process, standard, output.cursorTo and we'll set the [[Cursor]] to zero. So that first position will get rid of our other console message. And here we'll say process, standard output.right, waiting.
+> **[0:39](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=39)** We're going to say process, standard, output.cursorTo and we'll set the cursor to zero. So that first position will get rid of our other console message. And here we'll say process, standard output.right, waiting.
 >
 > **[1:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=60)** And then we'll use that p value that we've set here. Let's go ahead and run it one more time. So now we see the waiting communicated as a percentage in place, and that's because standard output gives us the tools to manage how we write all of this data to the console. So we're using these tools to overwrite the last line and rewrite the percentage, which is pretty cool. So I wonder what else we could use this logic for. While we could communicate how far along with any asynchronous process using logic like this. So lots of cool powerful tools built directly into [[Node.js]] inside of these standard input and standard output objects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (1)
+> **Frameworks & Libraries:** cursor (1), [[Node.js]] (1)
 > **Code Identifiers:** currenttime (1), waittime (1), clearline (1), cursorto (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)

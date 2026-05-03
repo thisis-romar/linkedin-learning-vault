@@ -420,7 +420,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Large Language Models (LLM)|Large language models]] (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Large Language Models (LLM)|Large language models]] (4), [[GPT-4|Gpt-4o]] (3), [[Microsoft Word|Word]] (1)
 > **Tools:** github (5)
 > **Analogies:** compare this to (2), imagine (1), it's like (1)
 > **Env Vars:** gpt (3)

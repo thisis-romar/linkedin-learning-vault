@@ -77,7 +77,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[Red Teaming]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Red Teaming]] (2), [[LinkedIn]] (2), [[Generative AI|Gen ai]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ewow (1)
 > **Env Vars:** ceo (1)
@@ -98,7 +98,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (5), [[Generative AI]] (3), [[AI Solutions]] (2), [[Traditional AI]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Red Teaming]] (5), [[Generative AI]] (3), [[Generative AI|Gen ai]] (3), [[Traditional AI]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -114,7 +114,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Solutions]] (3), [[Generative AI]] (3)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (7), [[Generative AI]] (3)
 > **Analogies:** such as (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - to (1)
@@ -129,7 +129,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Privacy]] (2), [[Data Integrity]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Privacy]] (2), [[Data Integrity]] (1), [[Generative AI|Gen ai]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - recognizing (1)
 
@@ -146,7 +146,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (6)
+> **Frameworks & Libraries:** [[Red Teaming]] (6), [[Generative AI|Genai]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -161,7 +161,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (3), [[Responsible AI]] (3), [[Generative AI]] (1), [[Kali Linux]] (1), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Red Teaming]] (3), [[Generative AI|Gen ai]] (3), [[Responsible AI]] (3), [[Generative AI]] (1), [[Kali Linux]] (1)
 > **Env Vars:** ibm (2), art (1), zap (1), afl (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
@@ -182,7 +182,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Red Teaming]] (1), [[Security Testing]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Red Teaming]] (1), [[Security Testing]] (1), [[Generative AI|Gen ai]] (1), [[Generative AI]] (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -198,7 +198,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (4), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Red Teaming]] (4), [[Generative AI|Gen ai]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** template (2)
 > **Best Practices:** make sure to (1), best practice (1)
@@ -215,7 +215,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (4), [[Red Teaming]] (2), [[Cybersecurity]] (1)
 > **Speakers:** - conducting (1)
 
 #### [Reporting on the test](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/reporting-on-the-test?u=76281980)
@@ -249,7 +249,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (3), [[Data Cleaning]] (2)
+> **Frameworks & Libraries:** [[Red Teaming]] (3), [[Generative AI|Gen ai]] (3), [[Data Cleaning]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
@@ -264,7 +264,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (6), [[AI Solutions]] (1), [[Data Validation]] (1)
+> **Frameworks & Libraries:** [[Red Teaming]] (6), [[Generative AI|Gen ai]] (5), [[Data Validation]] (1)
 > **Speakers:** - as (1)
 
 #### [Leveraging continuous learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-continuous-learning?u=76281980)
@@ -275,7 +275,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (4)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (6), [[Red Teaming]] (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -310,7 +310,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (2), [[LinkedIn]] (2), [[AI Solutions]] (1), [[Cybersecurity]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[Red Teaming]] (2), [[LinkedIn]] (2), [[Cybersecurity]] (1), [[Ethical Hacking]] (1)
 > **Speakers:** - secure (1)
 
 

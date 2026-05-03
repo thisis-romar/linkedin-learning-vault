@@ -204,7 +204,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[Deep Learning]] (1), [[Microsoft Office|Office]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (7), [[Generative AI]] (6), [[Deep Learning]] (1), [[Microsoft Office|Office]] (1), [[Content Creation]] (1)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (3)
 > **Env Vars:** ide (1)
@@ -219,7 +219,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Env Vars:** api (1), ai21 (1), rag (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -236,7 +236,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[LinkedIn]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (2), [[Prompt Engineering]] (1), [[LinkedIn]] (1), [[Generative AI]] (1)
 > **Env Vars:** aws (2), api (2)
 > **CLI Commands:** aws (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -625,7 +625,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Tokens]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI|Gen ai]] (1), [[Tokens]] (1), [[JSON]] (1)
 > **Env Vars:** uri (6), api (1), yaml (1), aws (1)
 > **UI Navigation:** go to (6), select the (1)
 > **Definitions:** is a  (6)
@@ -686,13 +686,13 @@ created: 2026-05-03
 >
 > **[3:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=189)** or any other components behavior like error handling or retrial logic. So, as long as the event remains the same, changes in a single component won't impact the others. This allows making changes to an application less risky. When asynchronous events abstracts components from one another, complex applications become more resilient and maintainable. For example, in this case, we have event producers and event consumers all connected using an event broker. We are going to see more about event brokers a little bit when we play with event bridge. The benefits of event-driven architectures are a shift in mindset is required when building an event-driven architecture due to the unique characteristics and considerations of asynchronous systems. Build and deploy applications independently in loosely coupled applications. Development teams working on individual services have fewer dependencies. Changing one service will have less risk on impacting others. Build new features using events without changing existing applications. Extend your applications since components emit events, event-driven architectures can easily be extensible. Events can also be analyzed for business reports and audits if needed. Scale and fail components independently in loosely coupled components. Applications with loosely coupled components have fewer single points of failure
 >
-> **[4:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=283)** as well as increased [[Resiliency]]. Event-driven architectures possess three key components. Event producers that publish events, for example, it can be websites, [[Microservices]], [[IoT|internet of things]] devices, AWS service, or [[SaaS|software as a service]] applications. Event consumers are the downstream components that get activated when events arrive. Multiple consumers may be found in the same event. Consuming events include starting workflows, running analysis, updating [[Databases]], doing some kind of compute. Event brokers mediate between producers and consumers of events. They grab the events and know where to route them into the event consumers. Usually these include event routers that push events to target and event stores from which consumers can pull events. And finally, we have the event concept, that is something we have been mentioning a lot in this video. An event is the signal that something changed in our system, something changed in the state of our system. For example, a shopping cart, or some order, or a credit card application, whatever. Events occur in the past, like the order is created, the application submitted, and they're immutable, they cannot be changed. This helps in distributed systems because there are no change in components to keep in sync.
+> **[4:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=283)** as well as increased [[Resiliency]]. Event-driven architectures possess three key components. Event producers that publish events, for example, it can be websites, [[Microservices]], [[Internet of Things (IoT)|internet of things]] devices, AWS service, or [[SaaS|software as a service]] applications. Event consumers are the downstream components that get activated when events arrive. Multiple consumers may be found in the same event. Consuming events include starting workflows, running analysis, updating [[Databases]], doing some kind of compute. Event brokers mediate between producers and consumers of events. They grab the events and know where to route them into the event consumers. Usually these include event routers that push events to target and event stores from which consumers can pull events. And finally, we have the event concept, that is something we have been mentioning a lot in this video. An event is the signal that something changed in our system, something changed in the state of our system. For example, a shopping cart, or some order, or a credit card application, whatever. Events occur in the past, like the order is created, the application submitted, and they're immutable, they cannot be changed. This helps in distributed systems because there are no change in components to keep in sync.
 >
 > **[6:20](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=380)** Events are observed and not direct. A component emits an event with no particular destination in mind, nor aware of the downstream components that might consume the event.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scalability]] (1), [[E-Commerce]] (1), [[Resiliency]] (1), [[Microservices]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[E-Commerce]] (1), [[Resiliency]] (1), [[Microservices]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (2), aws (1)
 > **Env Vars:** aws (1)

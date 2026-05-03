@@ -173,11 +173,11 @@ created: 2026-05-03
 >
 > **[1:33](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=93)** It's basically worksheet heaven. I'm going to upload a worksheet called Worksheets and a Simple Example. I do this by clicking on the three dots on the right-hand side of the screen and selecting Create Worksheet from SQL File. Then I select my SQL file, and now, the fun starts. And again, don't worry about doing this yourself. You'll get access to any instructions or files you need later. What we're looking at is a SQL worksheet. SQL worksheets lets you write and run SQL statements, explore and filter query results, and visualize the results. You can see at the top of this worksheet that there is grayed-out text. These are comments, and when you run the worksheet, these comments don't do anything. As is standard in SQL, there are two different ways of adding comments. One comments out a whole block by starting with a forward slash and an asterisk and ending with an asterisk and a forward slash, and everything between those two bookends is a comment. The other comments out a single line by adding two dashes in a row. You could play around with deleting the asterisks or the dashes and seeing that the comments change color from being grayed out to being interpreted as regular code. Cool, so now we're going to do a few things in quick succession to get the data set up so we can query it. And don't worry, we'll cover everything we've done in more detail later. Right now, we're just doing a few things to get to the point where we have data we can query, and in our video on stages and basic ingestion, we'll learn more about what we did to ingest data. So first we set the role.
 >
-> **[3:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=187)** You do this by putting your [[Cursor]] inside the block of code you want to run. Each block of code is separated by a semicolon, so just put your cursor somewhere before the semicolon, but after the previous semicolon. Then if you're on a Mac, hold Command + Return to run that block. And if you're on a PC, hold Control + Enter. You should see a status update on the bottom of the screen that the statement executed successfully. To see a list of the hotkeys you could use in a worksheet, you can hold Command + Shift + ?. Make sure to scroll down to see them all. Now, I'll set the warehouse by putting my cursor anywhere in the USE WAREHOUSE line. Then I'll type Command + Enter to run that line because I'm on a Mac. If you're on a PC, type Control + Enter. In the video on virtual warehouses, we'll talk about why we did this and what effect it had, but for now, we're trying to get to the point where we can query some data as quickly as possible and we can't learn everything all at once. Okay, now I'm going to move a little faster. I'll use my cursor to highlight all of the code from steps two-to-four inclusive and I'll type Command + Enter to run all of that. We just created a database, schema and table. We created a stage with data from S3, and we copied data from that stage into our new table. Again, don't worry about what any of this means. We'll go over this later. Now comes the triumphant moment, the moment we've been building up to, querying one of our Tasty Bytes' food truck tables.
+> **[3:07](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980&t=187)** You do this by putting your cursor inside the block of code you want to run. Each block of code is separated by a semicolon, so just put your cursor somewhere before the semicolon, but after the previous semicolon. Then if you're on a Mac, hold Command + Return to run that block. And if you're on a PC, hold Control + Enter. You should see a status update on the bottom of the screen that the statement executed successfully. To see a list of the hotkeys you could use in a worksheet, you can hold Command + Shift + ?. Make sure to scroll down to see them all. Now, I'll set the warehouse by putting my cursor anywhere in the USE WAREHOUSE line. Then I'll type Command + Enter to run that line because I'm on a Mac. If you're on a PC, type Control + Enter. In the video on virtual warehouses, we'll talk about why we did this and what effect it had, but for now, we're trying to get to the point where we can query some data as quickly as possible and we can't learn everything all at once. Okay, now I'm going to move a little faster. I'll use my cursor to highlight all of the code from steps two-to-four inclusive and I'll type Command + Enter to run all of that. We just created a database, schema and table. We created a stage with data from S3, and we copied data from that stage into our new table. Again, don't worry about what any of this means. We'll go over this later. Now comes the triumphant moment, the moment we've been building up to, querying one of our Tasty Bytes' food truck tables.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (12), [[SQL]] (9), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (12), [[SQL]] (9), cursor (4), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** sql (9), warehouse (1), select (1), count (1)
 > **CLI Commands:** python (2), make (1)
 > **Code Identifiers:** row_count (1), tasty_bytes_sample_data (1), raw_pos (1)
@@ -990,7 +990,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (16), [[Data Engineering]] (4), [[Cybersecurity]] (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (16), [[Data Engineering]] (4), [[Cybersecurity]] (2), [[CLI]] (1), [[Generative AI|Gen ai]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** llm (2), cli (1)
 > **Definitions:** is a  (2)
@@ -1119,7 +1119,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (30), [[Microsoft Copilot|Copilot]] (6), [[SQL]] (2), [[Generative AI]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (30), [[Generative AI|Genai]] (9), [[Microsoft Copilot|Copilot]] (6), [[SQL]] (2), [[Generative AI]] (1)
 > **Env Vars:** llm (5), sql (2), pdf (1), spcs (1)
 > **CLI Commands:** make (3), python (1)
 > **Cross-References:** later in (2)
@@ -1141,7 +1141,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (17), [[SQL]] (4), [[Microsoft Copilot|Copilot]] (2), [[Unstructured Data]] (2), [[AI Solutions]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (17), [[Generative AI|Gen ai]] (6), [[SQL]] (4), [[Microsoft Copilot|Copilot]] (2), [[Unstructured Data]] (2)
 > **Env Vars:** llm (12), sql (4), summarize (2), sentiment (2), extract_answer (2)
 > **Cross-References:** in the next (2), we discussed (1)
 > **CLI Commands:** make (2)
@@ -1188,7 +1188,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (10), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (10), [[Generative AI|Gen ai]] (2), [[SQL]] (1)
 > **Env Vars:** complete (12), llm (4), sql (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we covered (1)
@@ -1212,7 +1212,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (20), [[SQL]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (20), [[Generative AI|Gen ai]] (2), [[SQL]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (5), forecast (5), anomaly_detection (5), top_insights (4), classification (4)
 > **SQL:** select (3)
 > **Definitions:** is a  (3)
@@ -1333,7 +1333,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (18), [[Python (Programming Language)|Python]] (6), [[Django]] (4), [[SQL]] (3), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (18), [[Python (Programming Language)|Python]] (6), [[Django]] (4), [[SQL]] (3), [[Generative AI|Genai]] (1)
 > **CLI Commands:** python (6), node (1), php (1), make (1)
 > **Env Vars:** api (3), sql (3), php (1), pdo (1)
 > **Analogies:** for example (6)
@@ -1450,7 +1450,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (18), [[Data Engineering]] (2), [[Databases]] (1), [[Data Processing]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (18), [[Data Engineering]] (2), [[Databases]] (1), [[Generative AI|Gen ai]] (1), [[Data Processing]] (1)
 > **Cross-References:** we talked about (5), we covered (2), in the next (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** llm (1)
@@ -1469,7 +1469,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (17), [[Data Engineering]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (17), [[Data Engineering]] (2), [[Generative AI|Gen ai]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat music) (1)

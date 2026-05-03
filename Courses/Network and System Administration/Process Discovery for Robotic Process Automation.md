@@ -92,7 +92,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Agents]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (1), [[AI Agents]] (1)
 > **Env Vars:** rpa (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - since (1)

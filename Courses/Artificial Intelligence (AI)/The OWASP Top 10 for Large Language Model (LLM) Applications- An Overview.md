@@ -117,7 +117,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (7), [[Large Language Models (LLM)|Large language models]] (2), [[Web Application Security]] (1), [[AI Security]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (7), [[Large Language Models (LLM)|Large language models]] (2), [[Web Application Security]] (1), [[Generative AI|Gen ai]] (1), [[Generative AI]] (1)
 > **Env Vars:** owasp (7), llm (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Speakers:** - welcome (1)

@@ -561,7 +561,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Microsoft Azure|Azure]] (1), [[Tokens]] (1), [[Python (Programming Language)|Python]] (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[GPT-4|Gpt-4o]] (2), [[Microsoft Azure|Azure]] (1), [[Tokens]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (3), cd (2), python3 (1), python (1)
 > **Tools:** github (4), terminal (2)
 > **Env Vars:** api (2), github_token (1), url (1)

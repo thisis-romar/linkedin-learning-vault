@@ -86,7 +86,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[ChatGPT]] (1), [[LinkedIn]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[ChatGPT]] (1), [[GPT-4|Gpt4]] (1), [[LinkedIn]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt4 (1)
 > **Speakers:** - if (1)

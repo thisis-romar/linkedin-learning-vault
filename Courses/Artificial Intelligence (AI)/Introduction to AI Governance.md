@@ -333,7 +333,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (2), [[AI Governance]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[NIST]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Genai]] (2), [[Responsible AI]] (2), [[AI Governance]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[NIST]] (1)
 > **Env Vars:** rmf (1), nist (1), unesco (1), oecd (1), iso (1)
 > **Cross-References:** we talked about (1), we discussed (1)
 > **Analogies:** such as (1), similar to (1)
@@ -372,7 +372,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AI Governance]] (1)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (1), [[AI Governance]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 

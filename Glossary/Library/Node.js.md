@@ -157,3 +157,5 @@ created: 2026-05-03
 ---
 
 *Source: LinkedIn catalog (library)*
+
+Part of [[000 Glossary Index]]

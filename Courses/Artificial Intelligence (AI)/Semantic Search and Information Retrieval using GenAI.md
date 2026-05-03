@@ -209,7 +209,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Information Retrieval]] (8), [[Metadata]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Information Retrieval]] (8), [[Metadata]] (2), [[Generative AI|Genai]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1)
 > **Env Vars:** rag (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -244,7 +244,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Search]] (6), [[GraphRAG]] (4), [[Knowledge Graphs]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (6), [[GraphRAG]] (4), [[Knowledge Graphs]] (2), [[Metadata]] (1), [[Generative AI|Gen ai]] (1)
 > **Env Vars:** uid (5), rdf (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is called (1)

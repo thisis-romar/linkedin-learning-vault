@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - DevOps
   - Network and System Administration
-louvain_cluster: 2
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence

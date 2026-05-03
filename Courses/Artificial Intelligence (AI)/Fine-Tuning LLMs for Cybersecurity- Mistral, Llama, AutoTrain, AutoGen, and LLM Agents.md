@@ -228,7 +228,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Google]] (3), [[Generative AI]] (2), [[Cybersecurity]] (2), [[Gemini]] (2)
+> **Frameworks & Libraries:** [[Generative AI|Gen ai]] (8), [[Large Language Models (LLM)|Large language models]] (3), [[Google]] (3), [[Generative AI]] (2), [[Cybersecurity]] (2)
 > **Env Vars:** llm (2), llms (2), gbd (2), osint (1), gbt (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is called (1), refers to (1)

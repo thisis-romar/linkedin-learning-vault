@@ -566,7 +566,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (4), [[LangChain]] (3), [[Gemini]] (2), [[Python (Programming Language)|Python]] (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (4), [[LangChain]] (3), [[Gemini]] (2), [[GPT-4|Gpt-4o]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** llm (6), pdf (4), rag (3), gpt (2), api (1)
 > **CLI Commands:** python (1), make (1), node (1)
 > **Analogies:** for example (2), such as (1)

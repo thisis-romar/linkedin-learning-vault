@@ -58,3 +58,5 @@ created: 2026-05-03
 ---
 
 *Source: manually added*
+
+Part of [[000 Glossary Index]]
