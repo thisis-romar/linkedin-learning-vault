@@ -10,38 +10,42 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/devops
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T18:54:49.315Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[Learning Kubernetes]]'
-    last_opened: null
+  - course: "[[Learning Kubernetes]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Kubernetes- Your First Project (2021)]]'
-    last_opened: null
+  - course: "[[Kubernetes- Your First Project (2021)]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Kubernetes- Essential Tools]]'
-    last_opened: null
+  - course: "[[Kubernetes- Essential Tools]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Kubernetes- Microservices]]'
-    last_opened: null
+  - course: "[[Kubernetes- Microservices]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Kubernetes- Cloud Native Ecosystem]]'
-    last_opened: null
+  - course: "[[Kubernetes- Cloud Native Ecosystem]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Securing Containers and Kubernetes Ecosystem]]'
-    last_opened: null
+  - course: "[[Securing Containers and Kubernetes Ecosystem]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-05-03'
+  - course: kubernetes-cloud-native-ecosystem-14444671
+    last_opened: 2026-05-03T18:54:49.315Z
+    open_count: 1
+    videos: []
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20Kubernetes.md)

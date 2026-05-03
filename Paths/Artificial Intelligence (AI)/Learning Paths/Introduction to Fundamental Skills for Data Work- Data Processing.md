@@ -12,42 +12,46 @@ tags:
   - learning-path
   - topic/artificial-intelligence
   - topic/data-science
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T18:55:36.430Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[Data Engineering Foundations]]'
-    last_opened: null
+  - course: "[[Data Engineering Foundations]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Python For Data Science And Machine Learning Essential Training Part]]'
-    last_opened: null
+  - course: "[[Python For Data Science And Machine Learning Essential Training Part]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Python for Data Science and Machine Learning Essential Training Part 2]]'
-    last_opened: null
+  - course: "[[Python for Data Science and Machine Learning Essential Training Part 2]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Data Cleaning in Python Essential Training]]'
-    last_opened: null
+  - course: "[[Data Cleaning in Python Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Apache Spark Essential Training- Big Data Engineering]]'
-    last_opened: null
+  - course: "[[Apache Spark Essential Training- Big Data Engineering]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[ETL in Python and SQL]]'
-    last_opened: null
+  - course: "[[ETL in Python and SQL]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Data Quality- Core Concepts]]'
-    last_opened: null
+  - course: "[[Data Quality- Core Concepts]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-05-03'
+  - course: data-engineering-foundations
+    last_opened: 2026-05-03T18:55:36.430Z
+    open_count: 1
+    videos: []
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Introduction%20to%20Fundamental%20Skills%20for%20Data%20Work-%20Data%20Processing.md)

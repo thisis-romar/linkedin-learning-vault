@@ -12,38 +12,42 @@ tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T18:55:36.430Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[Data Engineering Foundations]]'
-    last_opened: null
+  - course: "[[Data Engineering Foundations]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Hands-On Introduction- Data Engineering]]'
-    last_opened: null
+  - course: "[[Hands-On Introduction- Data Engineering]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Rust Essential Training]]'
-    last_opened: null
+  - course: "[[Rust Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Rust for Data Engineering]]'
-    last_opened: null
+  - course: "[[Rust for Data Engineering]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Level Up- Rust]]'
-    last_opened: null
+  - course: "[[Level Up- Rust]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[End-to-End Data Engineering Project]]'
-    last_opened: null
+  - course: "[[End-to-End Data Engineering Project]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-05-03'
+  - course: data-engineering-foundations
+    last_opened: 2026-05-03T18:55:36.430Z
+    open_count: 1
+    videos: []
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Develop%20Your%20Rust%20Skills%20for%20Data%20Engineering.md)
