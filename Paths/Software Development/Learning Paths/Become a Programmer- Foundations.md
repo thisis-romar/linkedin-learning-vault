@@ -65,7 +65,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Become%20a%20Programmer-%20Foundations.md)

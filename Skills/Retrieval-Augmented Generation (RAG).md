@@ -9,7 +9,7 @@ level_advanced: 5
 tags:
   - skill
   - skill/retrieval-augmented-generation-rag
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Retrieval-Augmented%20Generation%20(RAG).md)

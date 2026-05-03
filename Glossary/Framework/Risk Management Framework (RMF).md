@@ -20,7 +20,7 @@ tags:
   - topic/software-development
   - topic/cloud-computing
 course_count: 25
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Framework/Risk%20Management%20Framework%20(RMF).md)

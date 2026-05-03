@@ -16,7 +16,7 @@ tags:
   - topic/software-development
   - topic/database-management
 course_count: 6
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Geographic%20Information%20Systems%20(GIS).md)

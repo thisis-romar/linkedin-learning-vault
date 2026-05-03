@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/plc-programming
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/PLC%20Programming.md)

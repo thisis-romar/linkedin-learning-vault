@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-storage
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Data%20Strategy-%20Data%20Procurement%20and%20Storage.md)
@@ -91,17 +91,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=0)** - [Lillian] Ever wonder how top tech companies build AI [[Microsoft Products|products]] that scale effortlessly, and deliver real business results?
->
-> **[0:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=8)** It all starts with one thing, data strategy.
->
-> **[0:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=12)** In this course, I'm going to show you how to design a smart data procurement and storage plan that sets your AI products up for long-term success.
->
-> **[0:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=22)** You'll learn how to source the right data, avoid common pitfalls, and build scalable systems that grow with your business.
->
-> **[0:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=30)** I'm Lillian Pierson, a data and AI growth strategist with two decades in engineering and strategy development.
->
-> **[0:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=38)** Let's dive into AI data strategy.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=0)** - [Lillian] Ever wonder how top tech companies build AI [[Microsoft Products|products]] that scale effortlessly, and deliver real business results? It all starts with one thing, data strategy. In this course, I'm going to show you how to design a smart data procurement and storage plan that sets your AI products up for long-term success. You'll learn how to source the right data, avoid common pitfalls, and build scalable systems that grow with your business. I'm Lillian Pierson, a data and AI growth strategist with two decades in engineering and strategy development. Let's dive into AI data strategy.
 
 > [!info]- Semantic Content
 >
@@ -112,17 +102,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=0)** - Let's talk about what you should know before jumping into this course.
->
-> **[0:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=4)** You don't need to be a [[Data Engineering]] expert, but a basic understanding of AI and [[Data Science]] concepts will definitely help.
->
-> **[0:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=14)** If you're brand new to data strategy, you might want to check out my book, "Data & AI Imperative: Designing Strategies for Exponential Growth".
->
-> **[0:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=23)** It'll give you the foundation you need.
->
-> **[0:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=25)** And while we'll be covering my proprietary star framework step by step, having some background in business strategy or [[Product Development]] will make it easier to connect the dots.
->
-> **[0:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=38)** That said, you are in the right place, so let's get started.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=0)** - Let's talk about what you should know before jumping into this course. You don't need to be a [[Data Engineering]] expert, but a basic understanding of AI and [[Data Science]] concepts will definitely help. If you're brand new to data strategy, you might want to check out my book, "Data & AI Imperative: Designing Strategies for Exponential Growth". It'll give you the foundation you need. And while we'll be covering my proprietary star framework step by step, having some background in business strategy or [[Product Development]] will make it easier to connect the dots. That said, you are in the right place, so let's get started.
 
 > [!info]- Semantic Content
 >
@@ -139,89 +119,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=0)** - [Instructor] Hey, everyone and welcome.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=0)** - [Instructor] Hey, everyone and welcome. In this video, we're exploring how early choices in AI [[Product Development]] can dramatically impact the future of our [[Microsoft Products|products]]. In my nearly two decades working with data and technology, I've seen it over and over again how the right choices early on can make or break a project. But how do we actually make these decisions in a systematic way? Let me introduce you to my STAR framework, A methodical approach I've developed to help organizations de-risk the development of new data projects and products. This framework will be our North Star throughout this course. It'll help guide us to select the optimal use case for development. In other words, the use case that offers substantial and reliable ROI. The framework also details the steps to take to make the product success overall. The STAR Framework consists of four phases, serving the industry to understand what's working, taking stock of your organization's resources, assessing your current state conditions, and recommending strategies to reach future state goals. Let's look at what's involved in each of these four phases. Serving the industry involves looking outward to learn from others experiences. We study successful implementations, examine failures, and identify patterns that lead to success. It's sort of like drawing a map of what's currently working to drive business growth across [[Data Science]] and AI. You'll use your learnings to guide your strategy development journey. Taking stock involves looking inward
 >
-> **[0:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=2)** In this video, we're exploring how early choices in AI [[Product Development]] can dramatically impact the future of our [[Microsoft Products|products]].
+> **[1:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=94)** at your organization's internal resources. We evaluate existing data resources, technical infrastructure, team expertise, and available budget, things like that. This gives us a clear picture of the starting point and the resources available to build from. Assessment is a closer look into your current state. We identify gaps between where you are, and where you want to be. Evaluate your [[Data Governance]] and analyze pain points that need addressing. At the end of this phase, you'll be empowered to select an optimal use case that offers your organization the highest reward for the lowest risk. In the recommendations phase, you develop a strategy for building out the use case you selected in the phase prior. When we make recommendations, we transform our findings into an actionable technical strategy. We develop clear roadmaps to find success metrics and establish timelines. This helps you ensure that the AI product you build inevitably drives meaningful growth for the company. Now, back to the framework. STAR helps us answer the big questions every AI team faces. What data to use, structured, unstructured, labeled, or unlabeled? How to handle more users and data as we grow? Should that be done via more scalable infrastructure, distributed computing, more efficient [[Algorithms]], or all three? Also, what's the best way to set up our technology? In the cloud or on-prem?
 >
-> **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=9)** In my nearly two decades working with data and technology, I've seen it over and over again how the right choices early on can make or break a project.
->
-> **[0:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=18)** But how do we actually make these decisions in a systematic way?
->
-> **[0:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=23)** Let me introduce you to my STAR framework, A methodical approach I've developed to help organizations de-risk the development of new data projects and products.
->
-> **[0:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=33)** This framework will be our North Star throughout this course.
->
-> **[0:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=37)** It'll help guide us to select the optimal use case for development.
->
-> **[0:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=41)** In other words, the use case that offers substantial and reliable ROI.
->
-> **[0:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=46)** The framework also details the steps to take to make the product success overall.
->
-> **[0:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=52)** The STAR Framework consists of four phases, serving the industry to understand what's working, taking stock of your organization's resources, assessing your current state conditions, and recommending strategies to reach future state goals.
->
-> **[1:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=66)** Let's look at what's involved in each of these four phases.
->
-> **[1:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=70)** Serving the industry involves looking outward to learn from others experiences.
->
-> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=75)** We study successful implementations, examine failures, and identify patterns that lead to success.
->
-> **[1:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=81)** It's sort of like drawing a map of what's currently working to drive business growth across [[Data Science]] and AI.
->
-> **[1:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=87)** You'll use your learnings to guide your strategy development journey.
->
-> **[1:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=92)** Taking stock involves looking inward at your organization's internal resources.
->
-> **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=97)** We evaluate existing data resources, technical infrastructure, team expertise, and available budget, things like that.
->
-> **[1:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=105)** This gives us a clear picture of the starting point and the resources available to build from.
->
-> **[1:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=111)** Assessment is a closer look into your current state.
->
-> **[1:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=115)** We identify gaps between where you are, and where you want to be.
->
-> **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=119)** Evaluate your [[Data Governance]] and analyze pain points that need addressing.
->
-> **[2:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=124)** At the end of this phase, you'll be empowered to select an optimal use case that offers your organization the highest reward for the lowest risk.
->
-> **[2:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=133)** In the recommendations phase, you develop a strategy for building out the use case you selected in the phase prior.
->
-> **[2:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=139)** When we make recommendations, we transform our findings into an actionable technical strategy.
->
-> **[2:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=145)** We develop clear roadmaps to find success metrics and establish timelines.
->
-> **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=150)** This helps you ensure that the AI product you build inevitably drives meaningful growth for the company.
->
-> **[2:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=157)** Now, back to the framework.
->
-> **[2:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=159)** STAR helps us answer the big questions every AI team faces.
->
-> **[2:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=163)** What data to use, structured, unstructured, labeled, or unlabeled?
->
-> **[2:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=170)** How to handle more users and data as we grow?
->
-> **[2:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=174)** Should that be done via more scalable infrastructure, distributed computing, more efficient [[Algorithms]], or all three?
->
-> **[3:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=183)** Also, what's the best way to set up our technology?
->
-> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=187)** In the cloud or on-prem?
->
-> **[3:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=189)** What database choices need to be made?
->
-> **[3:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=192)** What are our model deployment strategies?
->
-> **[3:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=195)** The answers to these questions affect the usability of the AI product, its growth and engagement, and ultimately whether it's successful as a driver of business growth.
->
-> **[3:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=206)** I want you to consider Netflix's recommendation engine.
->
-> **[3:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=210)** They started by researching and learning from others across industry, checking out what they had available to them internally to support the product development, and then turning a critical eye to how their simple movie suggestions, based on your viewing history, could be made better.
->
-> **[3:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=229)** To improve the growth outcomes of the product, they eventually decided to incorporate collaborative filtering, content-based filtering, and even [[Reinforcement Learning]] techniques.
->
-> **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=241)** This helped personalize recommendations, optimize for user engagement and continuously improve their models, all of which led Netflix to building one of the most powerful recommendation systems on the planet.
->
-> **[4:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=255)** Netflix's successes saying something, isn't it?
->
-> **[4:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=259)** Make strategic decisions before building.
+> **[3:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=189)** What database choices need to be made? What are our model deployment strategies? The answers to these questions affect the usability of the AI product, its growth and engagement, and ultimately whether it's successful as a driver of business growth. I want you to consider Netflix's recommendation engine. They started by researching and learning from others across industry, checking out what they had available to them internally to support the product development, and then turning a critical eye to how their simple movie suggestions, based on your viewing history, could be made better. To improve the growth outcomes of the product, they eventually decided to incorporate collaborative filtering, content-based filtering, and even [[Reinforcement Learning]] techniques. This helped personalize recommendations, optimize for user engagement and continuously improve their models, all of which led Netflix to building one of the most powerful recommendation systems on the planet. Netflix's successes saying something, isn't it? Make strategic decisions before building.
 
 > [!info]- Semantic Content
 >
@@ -237,97 +139,15 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=0)** - [Lecturer] In this video, we'll examine the core vocabulary and how it's used in the context of data procurement and storage for AI [[Product Development]].
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=0)** - [Lecturer] In this video, we'll examine the core vocabulary and how it's used in the context of data procurement and storage for AI [[Product Development]]. When it comes to data procurement and storage, an [[AI Strategy]] should include a set of recommendations and plans for how to collect, store, and use the data that powers your AI solution. I'm talking about your current data needs and how they evolve over time. Your AI strategy should, of course, include your recommendations for data sources, data formats, data, pre-processing techniques like cleaning, transforming, [[Feature Engineering]], as well as your recommendations for [[Data Storage]] solutions, whether those be [[Data Lakes]], data warehouses, [[Vector Databases]], or what have you. You'll also want to detail projected data usage patterns, how those might evolve over time, and what the estimated cost will be as it relates to the procurement in storage of your data for use by your AI solution. The next thing you need to be really clear on is [[Scalability]]. Scalability is the ability of your AI solution to adjust up or down seamlessly with changes in the number of users of the product and their engagement with it. Your solution must be built to seamlessly handle more users, more data, and more complexity without negatively impacting the usability of the product or [[User Experience (UX)|user experience]] overall. A recommendation engine that works well with 10,000 users will many times break
 >
-> **[0:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=10)** When it comes to data procurement and storage, an [[AI Strategy]] should include a set of recommendations and plans for how to collect, store, and use the data that powers your AI solution.
+> **[1:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=93)** if it were to experience the demand of, say, 10 million users. Your technology choices must account for growth needs right from the beginning, so you want to make sure you're considering things like distributed computing frameworks, efficient [[Algorithms]], and scalable infrastructure. Now let's talk about business alignment. For AI to truly drive business success, it must align with key business objectives. Without clear alignment, even the most advanced [[AI Solutions]] can fail to deliver meaningful impact. With respect to business alignment, key focus areas are user value, cost efficiency, and problem solving. When you're looking at user value, you would want to ask yourself, does this AI feature enhance the customer experience in a meaningful way? AI should solve real user problems, improve engagement, and increase user satisfaction. With respect to cost efficiency, you may ask yourself, is this investment justified by its potential return? Every AI initiative must demonstrate a strong ROI or return on investment. Lastly, you want to think about problem solving. Does this AI solution address a critical business need? AI should directly contribute to solving challenges that hinder business growth. There are three rules of thumb you'll want to follow when applying business alignment and AI development. Define clear objectives for each AI project, establish measurable success metrics
 >
-> **[0:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=21)** I'm talking about your current data needs and how they evolve over time.
+> **[3:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=188)** that align with business goals, and regularly assess AI impact on revenue, efficiency, and customer engagement. By integrating these principles, companies can ensure that AI is more than just an innovative tool, that it's a strategic asset that drives real business growth. The STAR framework provides a structured approach to aligning AI initiatives with business objectives. Let's walk through how a retail company might apply this framework to enhance its inventory [[Forecasting]] system. Step one, when surveying the industry, they could analyze how customers manage inventory predictions, identify common challenges such as seasonal demand fluctuations and unexpected supply chain distributions. They could also learn from successful AI implementations to determine best practices. And step two, when taking stock of internal capabilities, they may assess available historical sales data, current technical infrastructure, and team expertise. While they're at it, they could identify any gaps in [[Data Quality]], [[AI Readiness]], or technical resources. For step three, in assessing critical business needs, they may determine where AI can provide the most impact in optimizing inventory forecasting or recognize the AI solutions must be interpreted and trusted by store managers to be useful. Step four, when they develop AI recommendations, they could implement a hybrid approach
 >
-> **[0:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=25)** Your AI strategy should, of course, include your recommendations for data sources, data formats, data, pre-processing techniques like cleaning, transforming, [[Feature Engineering]], as well as your recommendations for [[Data Storage]] solutions, whether those be [[Data Lakes]], data warehouses, [[Vector Databases]], or what have you.
+> **[4:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=281)** that combines machine learning with traditional forecasting methods, focus on user-friendly interfaces and explainable AI to improve adoption, and build a scalable system that can handle large-scale multi-location forecasting. Overall, the STAR framework ensures AI strategies are practical, scalable, and aligned with business needs. This maximizes both technical success and real world impact. Once the STAR framework has helped you identify the optimal AI use case, the next step is implementation. Let's see how that same retail company can put its AI-driven inventory forecasting system into action. One, for starters, the data strategy could involve optimizing inputs for accuracy. They could combine internal sales data with external factors such as seasonal trends, local events, and market conditions. They could also ensure [[Data Pipelines]] are clean, consistent, and updated in real time. Scalability would involve preparing for growth where the system must generate accurate forecast for multiple store locations simultaneously, and where they could implement cloud-based or distributed computing solutions to handle large-scale [[Data Processing]]. With respect to business alignment for ensuring usability and trust, they could put measures in place where store managers must understand and trust AI-generated forecast to act upon them. Use explainable AI techniques
 >
-> **[0:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=46)** You'll also want to detail projected data usage patterns, how those might evolve over time, and what the estimated cost will be as it relates to the procurement in storage of your data for use by your AI solution.
->
-> **[1:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=60)** The next thing you need to be really clear on is [[Scalability]].
->
-> **[1:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=64)** Scalability is the ability of your AI solution to adjust up or down seamlessly with changes in the number of users of the product and their engagement with it.
->
-> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=75)** Your solution must be built to seamlessly handle more users, more data, and more complexity without negatively impacting the usability of the product or [[User Experience (UX)|user experience]] overall.
->
-> **[1:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=88)** A recommendation engine that works well with 10,000 users will many times break if it were to experience the demand of, say, 10 million users.
->
-> **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=97)** Your technology choices must account for growth needs right from the beginning, so you want to make sure you're considering things like distributed computing frameworks, efficient [[Algorithms]], and scalable infrastructure.
->
-> **[1:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=110)** Now let's talk about business alignment.
->
-> **[1:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=113)** For AI to truly drive business success, it must align with key business objectives.
->
-> **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=119)** Without clear alignment, even the most advanced [[AI Solutions]] can fail to deliver meaningful impact.
->
-> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=126)** With respect to business alignment, key focus areas are user value, cost efficiency, and problem solving.
->
-> **[2:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=134)** When you're looking at user value, you would want to ask yourself, does this AI feature enhance the customer experience in a meaningful way?
->
-> **[2:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=143)** AI should solve real user problems, improve engagement, and increase user satisfaction.
->
-> **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=150)** With respect to cost efficiency, you may ask yourself, is this investment justified by its potential return?
->
-> **[2:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=157)** Every AI initiative must demonstrate a strong ROI or return on investment.
->
-> **[2:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=164)** Lastly, you want to think about problem solving.
->
-> **[2:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=167)** Does this AI solution address a critical business need?
->
-> **[2:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=170)** AI should directly contribute to solving challenges that hinder business growth.
->
-> **[2:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=176)** There are three rules of thumb you'll want to follow when applying business alignment and AI development.
->
-> **[3:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=182)** Define clear objectives for each AI project, establish measurable success metrics that align with business goals, and regularly assess AI impact on revenue, efficiency, and customer engagement.
->
-> **[3:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=197)** By integrating these principles, companies can ensure that AI is more than just an innovative tool, that it's a strategic asset that drives real business growth.
->
-> **[3:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=210)** The STAR framework provides a structured approach to aligning AI initiatives with business objectives.
->
-> **[3:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=215)** Let's walk through how a retail company might apply this framework to enhance its inventory [[Forecasting]] system.
->
-> **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=222)** Step one, when surveying the industry, they could analyze how customers manage inventory predictions, identify common challenges such as seasonal demand fluctuations and unexpected supply chain distributions.
->
-> **[3:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=236)** They could also learn from successful AI implementations to determine best practices.
->
-> **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=241)** And step two, when taking stock of internal capabilities, they may assess available historical sales data, current technical infrastructure, and team expertise.
->
-> **[4:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=252)** While they're at it, they could identify any gaps in [[Data Quality]], [[AI Readiness]], or technical resources.
->
-> **[4:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=259)** For step three, in assessing critical business needs, they may determine where AI can provide the most impact in optimizing inventory forecasting or recognize the AI solutions must be interpreted and trusted by store managers to be useful.
->
-> **[4:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=276)** Step four, when they develop AI recommendations, they could implement a hybrid approach that combines machine learning with traditional forecasting methods, focus on user-friendly interfaces and explainable AI to improve adoption, and build a scalable system that can handle large-scale multi-location forecasting.
->
-> **[4:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=299)** Overall, the STAR framework ensures AI strategies are practical, scalable, and aligned with business needs.
->
-> **[5:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=307)** This maximizes both technical success and real world impact.
->
-> **[5:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=311)** Once the STAR framework has helped you identify the optimal AI use case, the next step is implementation.
->
-> **[5:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=319)** Let's see how that same retail company can put its AI-driven inventory forecasting system into action.
->
-> **[5:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=326)** One, for starters, the data strategy could involve optimizing inputs for accuracy.
->
-> **[5:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=333)** They could combine internal sales data with external factors such as seasonal trends, local events, and market conditions.
->
-> **[5:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=341)** They could also ensure [[Data Pipelines]] are clean, consistent, and updated in real time.
->
-> **[5:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=346)** Scalability would involve preparing for growth where the system must generate accurate forecast for multiple store locations simultaneously, and where they could implement cloud-based or distributed computing solutions to handle large-scale [[Data Processing]].
->
-> **[6:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=362)** With respect to business alignment for ensuring usability and trust, they could put measures in place where store managers must understand and trust AI-generated forecast to act upon them.
->
-> **[6:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=373)** Use explainable AI techniques to provide transparency on predictions.
->
-> **[6:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=378)** And they could even design a user-friendly dashboard for easy interpretation of forecasts.
->
-> **[6:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=383)** AI implementation succeeds when it's strategically aligned, technically scalable, and practically usable.
->
-> **[6:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=392)** By following a structured approach, businesses can reduce risk, maximize impact, and ensure adoption of AI driven solutions.
->
-> **[6:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=400)** As you can see, success with AI product development comes from strategic decisions that balance technical capabilities with business needs, scalability requirements, and future flexibility and adaptability.
+> **[6:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=375)** to provide transparency on predictions. And they could even design a user-friendly dashboard for easy interpretation of forecasts. AI implementation succeeds when it's strategically aligned, technically scalable, and practically usable. By following a structured approach, businesses can reduce risk, maximize impact, and ensure adoption of AI driven solutions. As you can see, success with AI product development comes from strategic decisions that balance technical capabilities with business needs, scalability requirements, and future flexibility and adaptability.
 
 > [!info]- Semantic Content
 >
@@ -341,101 +161,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=0)** - [Instructor] Now that we've covered the STAR method for strategic decision making, let's explore key choices in AI development.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=0)** - [Instructor] Now that we've covered the STAR method for strategic decision making, let's explore key choices in AI development. We'll be looking at the differences between ML-driven AI versus [[Generative AI]]. Understanding their differences will help you to collect data, train models, and achieve your product goals effectively. The key difference comes down to control versus convenience. With ML-driven AI, you build and train your own models. That means choosing the right [[Algorithms]], optimizing performance, and working with frameworks like [[TensorFlow]] or [[PyTorch]]. You have full control, but it takes more time and expertise. With generative AI you use a pre-trained model like [[GPT-4|GPT-4o]] or Sonnet-3.5 to generate text, images, or code. Instead of training a model from scratch, you send input through an API and get results instantaneously. It's fast and easy, but you have less customization. The bottom line, if you need full control, go with AI-driven AI. If you want a quick, powerful solution, generative AI might be the better fit. Let's look at how these two approaches might play out in healthcare. With ML-driven AI, you might build a model to predict patient readmission risks. You'd work with structured data like patient history, treatment outcomes, and vitals, aiming for high accuracy within a specific prediction window, say 48 hours.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=9)** We'll be looking at the differences between ML-driven AI versus [[Generative AI]].
+> **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=97)** But with generative AI, you could analyze unstructured medical notes to generate detailed patient risk assessments. Instead of just making the predictions, the model could summarize doctors' notes, extract key insights and improve documentation quality. Both are valuable, but they serve different needs. ML-driven AI focuses on structured predictions, while generative AI helps interpret and generate insights from complex data. IBM for Oncology is a somewhat notorious example of ML-driven AI in healthcare. It was designed to help doctors by analyzing medical literature, patient records, and clinical trial data to recommend cancer treatments. Unfortunately, this product did not work as expected and it ended up costing IBM a lot of money. But just in terms of how it worked, instead of generating new content like a generative AI model would, Watson used [[Natural Language Processing (NLP)|natural language processing]] and structured reasoning to retrieve relevant medical insights. Despite problems that this product ultimately had in the market, this example shows how ML-driven AI has been used in healthcare practice to analyze large data sets and make evidence-based recommendations rather than creating entirely new outputs. Now, let's compare these AI approaches in financial trading. With ML-driven AI, you might build a model to predict stock movements using structured data
 >
-> **[0:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=15)** Understanding their differences will help you to collect data, train models, and achieve your product goals effectively.
+> **[3:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=191)** like historical prices, trading volumes, and market trends. Techniques like [[Time Series Analysis]] help forecast specific stock performance. With generative AI, you could analyze market reports, news articles, and social media sentiment to generate insights or suggest trading strategies. Instead of making direct predictions, the model processes the [[Unstructured Data]] to identify emerging trends. Both have value. ML-driven AI is great for precise data-driven predictions, while generative AI excels at analyzing broader market context and generating insights. No matter which AI approach you choose, the STAR framework helps you make better decisions. First, survey the industry. Look at how other companies use AI for financial trading. Are they relying on ML-driven models for structured market data or generative AI for trend analysis and sentiment tracking? What's working and what challenges have they faced? Next, you'd take stock of your own resources. Do you have high quality structured data in a team capable of building and maintaining an ML-driven model? Or does generative AI make more sense because you need insights from unstructured data like news articles and social media trends? Then, assess your current infrastructure and capabilities. Can your system handle [[Real-Time]] stock predictions with ML-driven AI, or do you need a model that processes large volumes
 >
-> **[0:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=22)** The key difference comes down to control versus convenience.
->
-> **[0:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=27)** With ML-driven AI, you build and train your own models.
->
-> **[0:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=30)** That means choosing the right [[Algorithms]], optimizing performance, and working with frameworks like [[TensorFlow]] or [[PyTorch]].
->
-> **[0:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=38)** You have full control, but it takes more time and expertise.
->
-> **[0:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=42)** With generative AI you use a pre-trained model like [[GPT-4|GPT-4o]] or Sonnet-3.5 to generate text, images, or code.
->
-> **[0:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=52)** Instead of training a model from scratch, you send input through an API and get results instantaneously.
->
-> **[1:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=60)** It's fast and easy, but you have less customization.
->
-> **[1:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=64)** The bottom line, if you need full control, go with AI-driven AI.
->
-> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=69)** If you want a quick, powerful solution, generative AI might be the better fit.
->
-> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=75)** Let's look at how these two approaches might play out in healthcare.
->
-> **[1:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=79)** With ML-driven AI, you might build a model to predict patient readmission risks.
->
-> **[1:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=84)** You'd work with structured data like patient history, treatment outcomes, and vitals, aiming for high accuracy within a specific prediction window, say 48 hours.
->
-> **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=97)** But with generative AI, you could analyze unstructured medical notes to generate detailed patient risk assessments.
->
-> **[1:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=105)** Instead of just making the predictions, the model could summarize doctors' notes, extract key insights and improve documentation quality.
->
-> **[1:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=115)** Both are valuable, but they serve different needs.
->
-> **[1:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=118)** ML-driven AI focuses on structured predictions, while generative AI helps interpret and generate insights from complex data.
->
-> **[2:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=128)** IBM for Oncology is a somewhat notorious example of ML-driven AI in healthcare.
->
-> **[2:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=134)** It was designed to help doctors by analyzing medical literature, patient records, and clinical trial data to recommend cancer treatments.
->
-> **[2:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=143)** Unfortunately, this product did not work as expected and it ended up costing IBM a lot of money.
->
-> **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=150)** But just in terms of how it worked, instead of generating new content like a generative AI model would, Watson used [[Natural Language Processing (NLP)|natural language processing]] and structured reasoning to retrieve relevant medical insights.
->
-> **[2:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=164)** Despite problems that this product ultimately had in the market, this example shows how ML-driven AI has been used in healthcare practice to analyze large data sets and make evidence-based recommendations rather than creating entirely new outputs.
->
-> **[3:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=182)** Now, let's compare these AI approaches in financial trading.
->
-> **[3:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=186)** With ML-driven AI, you might build a model to predict stock movements using structured data like historical prices, trading volumes, and market trends.
->
-> **[3:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=196)** Techniques like [[Time Series Analysis]] help forecast specific stock performance.
->
-> **[3:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=202)** With generative AI, you could analyze market reports, news articles, and social media sentiment to generate insights or suggest trading strategies.
->
-> **[3:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=212)** Instead of making direct predictions, the model processes the [[Unstructured Data]] to identify emerging trends.
->
-> **[3:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=220)** Both have value.
->
-> **[3:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=221)** ML-driven AI is great for precise data-driven predictions, while generative AI excels at analyzing broader market context and generating insights.
->
-> **[3:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=232)** No matter which AI approach you choose, the STAR framework helps you make better decisions.
->
-> **[3:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=238)** First, survey the industry.
->
-> **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=241)** Look at how other companies use AI for financial trading.
->
-> **[4:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=244)** Are they relying on ML-driven models for structured market data or generative AI for trend analysis and sentiment tracking?
->
-> **[4:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=253)** What's working and what challenges have they faced?
->
-> **[4:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=256)** Next, you'd take stock of your own resources.
->
-> **[4:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=259)** Do you have high quality structured data in a team capable of building and maintaining an ML-driven model?
->
-> **[4:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=266)** Or does generative AI make more sense because you need insights from unstructured data like news articles and social media trends?
->
-> **[4:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=274)** Then, assess your current infrastructure and capabilities.
->
-> **[4:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=278)** Can your system handle [[Real-Time]] stock predictions with ML-driven AI, or do you need a model that processes large volumes of unstructured text?
->
-> **[4:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=288)** Identify gaps that could limit your ability to execute.
->
-> **[4:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=292)** Finally, recommend a clear implementation plan.
->
-> **[4:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=296)** If you choose ML-driven AI, focus on high-accuracy [[Predictive Modeling]].
->
-> **[5:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=302)** If you choose generative AI, ensure proper filtering and validation to avoid misleading insights.
->
-> **[5:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=308)** Consider [[Scalability]] risks in how the AI system fits into your existing workflow.
->
-> **[5:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=314)** By following the STAR framework, you'll make a well-informed choice between ML-driven AI for structured predictions and generative AI for broader market analysis.
->
-> **[5:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=325)** This helps you to ensure that your strategy is practical, scalable, and aligned with your business goals.
+> **[4:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=286)** of unstructured text? Identify gaps that could limit your ability to execute. Finally, recommend a clear implementation plan. If you choose ML-driven AI, focus on high-accuracy [[Predictive Modeling]]. If you choose generative AI, ensure proper filtering and validation to avoid misleading insights. Consider [[Scalability]] risks in how the AI system fits into your existing workflow. By following the STAR framework, you'll make a well-informed choice between ML-driven AI for structured predictions and generative AI for broader market analysis. This helps you to ensure that your strategy is practical, scalable, and aligned with your business goals.
 
 > [!info]- Semantic Content
 >
@@ -450,181 +182,17 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=0)** - [Instructor] Now we compare different AI approaches in the last video, but here's a fundamental truth that applies to every AI product.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=0)** - [Instructor] Now we compare different AI approaches in the last video, but here's a fundamental truth that applies to every AI product. Your data strategy will make or break your success. I've seen brilliant AI [[Microsoft Products|products]] fail not because of poor [[Algorithms]], but because their data strategy couldn't support them beyond the pilot phase. Without a well-structured plan for [[Data Collection]], storage, and evolution, even the most promising [[AI Solutions]] can still struggle to scale or deliver long-term value. In this video, we'll explore how to build a robust data strategy that ensures your AI product is sustainable, scalable, and aligned with business goals. We'll cover the key elements of a strong data foundation and how to avoid common pitfalls that derail AI projects. Let's get started. A data strategy is about proactively planning for success from the very beginning. Think of it like constructing a building. You need a blueprint, a strong foundation, and the right materials to ensure stability and longevity. When designing your data [[AI Strategy]], there are three critical elements you need to focus on. One, what data you actually need. Not all data is useful. You need to define the specific data points that will drive insights and decision making for your AI models. Two, how to ensure [[Data Quality]]. Clean, well structured and unbiased data is essential for accurate and reliable AI predictions. Low quality data leads to poor model performance.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=7)** Your data strategy will make or break your success.
+> **[1:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=95)** And three, how to handle governance and [[Privacy]] requirements. AI development comes with legal, ethical, and compliance responsibilities. You need to define clear policies for data access, storage, and regulatory adherence. These foundational decisions will shape your AI products development, performance, and long-term viability. By addressing these elements upfront, you'll avoid common pitfalls and ensure that your AI initiatives are scalable, compliant, and effective. Let's take a real world example to understand why data strategy is so critical. A Fintech company sets out to build an AI powered fraud detection system for cross-border transactions. Their initial data strategy seemed solid. They collected transaction amounts, timestamps, merchant details, and customer profiles. They even incorporated device IDs and IP addresses to track digital footprints. But eight months into the project, they hit a major issue. While their system was great at flagging obvious fraud, it also triggered a high number of false alarms for legitimate travelers. The problem? They lacked context. Fraud detection isn't just about identifying suspicious transactions. It requires understanding behavioral patterns over time. Without a sequence based analysis of transactions, the model struggle to differentiate between real fraud and normal variations in customer behavior. To address this,
 >
-> **[0:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=12)** I've seen brilliant AI [[Microsoft Products|products]] fail not because of poor [[Algorithms]], but because their data strategy couldn't support them beyond the pilot phase.
+> **[3:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=188)** the company had to rebuild its [[Data Architecture]] to incorporate pattern recognition and sequence-based analysis to track user behavior over time, as well as a more advanced validation framework to score and verify potential fraud risks. And additionally, they had to incorporate temporal data handling to better understand the timing of transactions. The takeaway. An AI model is only as good as its data. If your data lacks key dimensions like context and sequence, your model won't perform as expected. This case study highlights why data strategy isn't just about collecting more data. It's about collecting the right data. Data strategy gets even more complex as you grow. Your [[Data Pipelines]], in other words, the systems that process your data, they need to scale with your product. Your storage solution needs to be cost effective, and your quality checks need to happen automatically. Simply put, as companies grow, their data infrastructure must evolve to keep up. Let's look at how X, formerly known as Twitter, tackled this challenge. In its early days, X relied on third-party hosting solutions, but as its user base expanded, this approach became unsustainable. The company needed a data infrastructure that could handle hundreds of cache clusters, [[Real-Time]] [[Data Streaming]], and rapid query responses. So how did the platform overcome these challenges?
 >
-> **[0:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=20)** Without a well-structured plan for [[Data Collection]], storage, and evolution, even the most promising [[AI Solutions]] can still struggle to scale or deliver long-term value.
+> **[4:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=286)** Well, to support [[Scalability]] and performance, X transition from third-party hosting to private data clusters. They implemented deep buffer switches and cost networks to manage high traffic volumes sufficiently. X leveraged Apache Mesos to manage its massive server deployments, and this insured dynamic allocation of compute resources. Truth be told, initially, the company adopted short-term infrastructure solutions, but these quickly turned into technical debt that slowed down growth. This reinforces a valuable lesson. Think long-term when designing your data architecture. A key takeaway from X's experience is that scalability isn't just about adding more servers. It requires a well-planned data strategy. This includes efficient data collection, optimized processing pipelines, cost-effective storage solutions, and clear policies for data updates in retirement. By planning for scalability from day one, companies can avoid expensive infrastructure overhauls down the line. If you're just beginning to develop your AI strategy, here are three key steps to set yourself up for success. Step one, run a pilot project. Start small by testing your data collection and processing workflows. This will help you uncover potential challenges before scaling up. Step two, document expected data volumes. Estimate how much data you'll need over the next 18 months.
 >
-> **[0:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=31)** In this video, we'll explore how to build a robust data strategy that ensures your AI product is sustainable, scalable, and aligned with business goals.
+> **[6:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=381)** This will guide infrastructure planning and prevent bottlenecks. In step three, map out future data needs. Think about how your data requirements will evolve as your AI solutions scales. This includes anticipating new data sources and storage solutions. By taking these steps, you'll lay a strong foundation for a scalable, efficient, and well structured AI data strategy. Let's dive deeper into the next phase, assessing and optimizing your data strategy for long-term success. If you already have a data strategy in place to support your AI product, I challenge you to assess how well it aligns with your business goals. A strong data strategy isn't about having more data. It's about making sure that your data and AI solution is optimized, scalable, and driving real business value. Key areas of assessment include, one, critical elements review. Consider, have you accounted for the three foundational elements, data needs, data quality, and governance. Also, can you identify any missing components that could impact performance? Two, areas for improvement. Where are the current limitations in your data pipeline? Do you need additional assurance measures to maintain consistency? And three, make some considerations about scaling. You want to think, can your infrastructure
 >
-> **[0:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=41)** We'll cover the key elements of a strong data foundation and how to avoid common pitfalls that derail AI projects.
->
-> **[0:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=49)** Let's get started.
->
-> **[0:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=51)** A data strategy is about proactively planning for success from the very beginning.
->
-> **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=56)** Think of it like constructing a building.
->
-> **[0:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=58)** You need a blueprint, a strong foundation, and the right materials to ensure stability and longevity.
->
-> **[1:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=65)** When designing your data [[AI Strategy]], there are three critical elements you need to focus on.
->
-> **[1:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=71)** One, what data you actually need.
->
-> **[1:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=74)** Not all data is useful.
->
-> **[1:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=76)** You need to define the specific data points that will drive insights and decision making for your AI models.
->
-> **[1:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=83)** Two, how to ensure [[Data Quality]].
->
-> **[1:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=86)** Clean, well structured and unbiased data is essential for accurate and reliable AI predictions.
->
-> **[1:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=92)** Low quality data leads to poor model performance.
->
-> **[1:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=95)** And three, how to handle governance and [[Privacy]] requirements.
->
-> **[1:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=100)** AI development comes with legal, ethical, and compliance responsibilities.
->
-> **[1:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=104)** You need to define clear policies for data access, storage, and regulatory adherence.
->
-> **[1:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=111)** These foundational decisions will shape your AI products development, performance, and long-term viability.
->
-> **[1:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=117)** By addressing these elements upfront, you'll avoid common pitfalls and ensure that your AI initiatives are scalable, compliant, and effective.
->
-> **[2:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=128)** Let's take a real world example to understand why data strategy is so critical.
->
-> **[2:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=133)** A Fintech company sets out to build an AI powered fraud detection system for cross-border transactions.
->
-> **[2:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=140)** Their initial data strategy seemed solid.
->
-> **[2:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=143)** They collected transaction amounts, timestamps, merchant details, and customer profiles.
->
-> **[2:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=149)** They even incorporated device IDs and IP addresses to track digital footprints.
->
-> **[2:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=155)** But eight months into the project, they hit a major issue.
->
-> **[2:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=158)** While their system was great at flagging obvious fraud, it also triggered a high number of false alarms for legitimate travelers.
->
-> **[2:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=165)** The problem? They lacked context.
->
-> **[2:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=169)** Fraud detection isn't just about identifying suspicious transactions.
->
-> **[2:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=173)** It requires understanding behavioral patterns over time.
->
-> **[2:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=177)** Without a sequence based analysis of transactions, the model struggle to differentiate between real fraud and normal variations in customer behavior.
->
-> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=187)** To address this, the company had to rebuild its [[Data Architecture]] to incorporate pattern recognition and sequence-based analysis to track user behavior over time, as well as a more advanced validation framework to score and verify potential fraud risks.
->
-> **[3:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=203)** And additionally, they had to incorporate temporal data handling to better understand the timing of transactions.
->
-> **[3:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=211)** The takeaway.
->
-> **[3:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=213)** An AI model is only as good as its data.
->
-> **[3:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=216)** If your data lacks key dimensions like context and sequence, your model won't perform as expected.
->
-> **[3:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=223)** This case study highlights why data strategy isn't just about collecting more data.
->
-> **[3:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=229)** It's about collecting the right data.
->
-> **[3:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=232)** Data strategy gets even more complex as you grow.
->
-> **[3:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=236)** Your [[Data Pipelines]], in other words, the systems that process your data, they need to scale with your product.
->
-> **[4:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=243)** Your storage solution needs to be cost effective, and your quality checks need to happen automatically.
->
-> **[4:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=249)** Simply put, as companies grow, their data infrastructure must evolve to keep up.
->
-> **[4:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=255)** Let's look at how X, formerly known as Twitter, tackled this challenge.
->
-> **[4:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=261)** In its early days, X relied on third-party hosting solutions, but as its user base expanded, this approach became unsustainable.
->
-> **[4:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=270)** The company needed a data infrastructure that could handle hundreds of cache clusters, [[Real-Time]] [[Data Streaming]], and rapid query responses.
->
-> **[4:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=281)** So how did the platform overcome these challenges?
->
-> **[4:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=286)** Well, to support [[Scalability]] and performance, X transition from third-party hosting to private data clusters.
->
-> **[4:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=294)** They implemented deep buffer switches and cost networks to manage high traffic volumes sufficiently.
->
-> **[5:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=302)** X leveraged Apache Mesos to manage its massive server deployments, and this insured dynamic allocation of compute resources.
->
-> **[5:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=312)** Truth be told, initially, the company adopted short-term infrastructure solutions, but these quickly turned into technical debt that slowed down growth.
->
-> **[5:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=321)** This reinforces a valuable lesson.
->
-> **[5:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=324)** Think long-term when designing your data architecture.
->
-> **[5:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=328)** A key takeaway from X's experience is that scalability isn't just about adding more servers.
->
-> **[5:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=333)** It requires a well-planned data strategy.
->
-> **[5:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=336)** This includes efficient data collection, optimized processing pipelines, cost-effective storage solutions, and clear policies for data updates in retirement.
->
-> **[5:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=347)** By planning for scalability from day one, companies can avoid expensive infrastructure overhauls down the line.
->
-> **[5:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=354)** If you're just beginning to develop your AI strategy, here are three key steps to set yourself up for success.
->
-> **[6:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=361)** Step one, run a pilot project.
->
-> **[6:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=364)** Start small by testing your data collection and processing workflows.
->
-> **[6:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=368)** This will help you uncover potential challenges before scaling up.
->
-> **[6:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=373)** Step two, document expected data volumes.
->
-> **[6:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=377)** Estimate how much data you'll need over the next 18 months.
->
-> **[6:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=381)** This will guide infrastructure planning and prevent bottlenecks.
->
-> **[6:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=384)** In step three, map out future data needs.
->
-> **[6:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=388)** Think about how your data requirements will evolve as your AI solutions scales.
->
-> **[6:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=393)** This includes anticipating new data sources and storage solutions.
->
-> **[6:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=398)** By taking these steps, you'll lay a strong foundation for a scalable, efficient, and well structured AI data strategy.
->
-> **[6:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=405)** Let's dive deeper into the next phase, assessing and optimizing your data strategy for long-term success.
->
-> **[6:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=414)** If you already have a data strategy in place to support your AI product, I challenge you to assess how well it aligns with your business goals.
->
-> **[7:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=422)** A strong data strategy isn't about having more data.
->
-> **[7:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=426)** It's about making sure that your data and AI solution is optimized, scalable, and driving real business value.
->
-> **[7:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=435)** Key areas of assessment include, one, critical elements review.
->
-> **[7:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=440)** Consider, have you accounted for the three foundational elements, data needs, data quality, and governance.
->
-> **[7:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=450)** Also, can you identify any missing components that could impact performance?
->
-> **[7:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=456)** Two, areas for improvement.
->
-> **[7:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=459)** Where are the current limitations in your data pipeline?
->
-> **[7:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=462)** Do you need additional assurance measures to maintain consistency?
->
-> **[7:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=467)** And three, make some considerations about scaling.
->
-> **[7:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=471)** You want to think, can your infrastructure support long-term growth?
->
-> **[7:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=475)** Are there potential bottlenecks that could slow down AI performance as data volume increase?
->
-> **[8:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=481)** Things like that.
->
-> **[8:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=483)** So go ahead and ask yourself, have we accounted for all three critical elements?
->
-> **[8:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=489)** Where might our current approach need strengthening?
->
-> **[8:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=492)** And what scaling challenges do we anticipate as data demand grows?
->
-> **[8:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=498)** By answering these questions, you'll gain clarity on where your data strategy stands today and what adjustments are needed for future success.
->
-> **[8:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=506)** Next, we'll explore how to align your data strategy with business objectives so that you can make triple sure that your AI investments drive real value.
+> **[7:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=473)** support long-term growth? Are there potential bottlenecks that could slow down AI performance as data volume increase? Things like that. So go ahead and ask yourself, have we accounted for all three critical elements? Where might our current approach need strengthening? And what scaling challenges do we anticipate as data demand grows? By answering these questions, you'll gain clarity on where your data strategy stands today and what adjustments are needed for future success. Next, we'll explore how to align your data strategy with business objectives so that you can make triple sure that your AI investments drive real value.
 
 > [!info]- Semantic Content
 >
@@ -640,129 +208,17 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=0)** - [Lecturer] Let's look an example of a company that built an AI powered resume screening tool to streamline hiring.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=0)** - [Lecturer] Let's look an example of a company that built an AI powered resume screening tool to streamline hiring. They trained their model on historical hiring data and achieved an impressive 95% accuracy in predicting which candidates would be successful hires. On the surface, the model seemed like a success. You could analyze past hiring patterns and select candidates who matched previous hires, but there was a major issue. The company had a new strategic goal: workforce diversification. They wanted to attract candidates from non-traditional backgrounds to foster innovation. However, because the AI was trained on past hiring decisions, it learned to favor candidates with similar backgrounds to those previously hired. Instead of helping to diversify the workforce, the model reinforced existing biases, replicating past decisions rather than supporting the company's new direction. This case study goes to show an important lesson: technical success doesn't always mean business success. To ensure [[AI Solutions]] truly drive impact, AI models must align with business objectives, not just past data. Biases and historical data must be identified and mitigated, and training data should be diverse and representative of the company's future hiring goals, not just past trends. In short, AI should help organizations move forward,
 >
-> **[0:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=8)** They trained their model on historical hiring data and achieved an impressive 95% accuracy in predicting which candidates would be successful hires.
+> **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=97)** not just repeat the past. Let's look at how Netflix uses data to drive user engagement and retention. Netflix's primary business goal is simple: keep users watching. To achieve this, they built one of the world's most powerful recommendation engines designed to predict what users want to watch next. Netflix collects massive amounts of user data, including viewing history, which tells them what users watch and how often; watch patterns, which tells them when users pause, rewind, or binge watch; user preferences, including ratings, genre preferences, and engagement. This data feeds into a sophisticated mix of machine learning models and [[Algorithms]] that analyze billions of records to personalize recommendations at scale. To optimize engagement, Netflix implemented collaborative filtering, content-based filtering, and [[Reinforcement Learning]]. Where the collaborative filtering recommends shows based on what similar users watch, and a content-based filtering suggests shows similar to past viewing habits, and reinforcement learning continually adjust recommendations based on [[Real-Time]] feedback. Netflix's success isn't really about having a large data set, of course. It's about using data strategically to optimize [[User Experience (UX)|user experience]] and retention. Their AI-driven approach keeps users engaged,
 >
-> **[0:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=19)** On the surface, the model seemed like a success.
+> **[3:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=193)** which reduces churn and drives long term business growth. This case study goes to show an important lesson: a well-planned data strategy can turn AI into a powerful business advantage. Then there's Spotify. Spotify has built in incredibly data-driven approach to customer retention. Unlike traditional music platforms which rely on static playlists or user-driven searches, Spotify uses machine learning and data analytics to personalize every user's experience. Spotify collects a variety of user data, including listening habits, playlist creation, song [[Metadata]], and user interactions. By analyzing these data points, Spotify predicts user preferences and recommends new content that's tailored to each listener. One of Spotify's most successful AI-driven features is Discover Weekly. This recommendation engine uses collaborative filtering to analyze users listening habits across over 50 million tracks. Key techniques here include matching users with similar tastes to recommend songs they haven't heard before, tracking passive signals like how long a user listens to a track before skipping, and analyzing song metadata to find tracks that match a user's style beyond just genre. Again, Spotify success isn't about having a large music data set.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=22)** You could analyze past hiring patterns and select candidates who matched previous hires, but there was a major issue.
+> **[4:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=285)** It's about leveraging AI to make personalized recommendations that keep users engaged. By using data to anticipate user preferences and continuously refined recommendations, Spotify has turned customer retention into a competitive advantage. Now let's look at one more success case, Amazon. On its face, Amazon looks like it's successful because it's good at selling [[Microsoft Products|products]], but it goes a lot further than that. Amazon's success really comes down to its logistics efficiency and cost optimization. Amazon collects and analyzes vast amounts of data across supply chain. This data covers important indicators related to warehouse operations, delivery times, cost metrics, and efficiency indicators. Amazon's fulfillment network is powered by AI and machine learning, which continually analyze operational data to automate warehouse processes, optimize delivery routes to reduce transport time and fuel costs, as well as predict future demand, which allows warehouses to stock high demand products before customers even order them. Amazon's data strategy goes into painstaking detail, which ensures that every decision directly supports business efficiency and cost reduction. The key point here is that if your data isn't clearly linked to a business outcome, it might not be the right data to collect.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=30)** The company had a new strategic goal: workforce diversification.
+> **[6:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=380)** Now, let's look at a simple framework for aligning [[Data Collection]] with business goals. I call this the goal-data-impact exercise. One, you start with a big picture. What's your main business goal? It could be anything from improved customer satisfaction to reduce operational costs. Now, break it into smaller questions you need to answer. Like, what's working well currently? What are we falling short on, and what would success look like in six months? For each question, identify what information would help you answer it. What data do you already have? What data are you missing, and what data would be nice to have but isn't essential? For example, if your goal is improving customer satisfaction, you might realize you need basic feedback data from customer surveys, support ticket information to spot common issues, and usage patterns to see where customers might be struggling. The key here is to keep it simple. Don't try to collect everything at once. Start with the data that directly connects to your immediate business goals and build from there. Always keep in mind that you can expand your data collection on an as needed basis as your needs grow. Take 10 minutes to try out this exercise. I think you'll be surprised at how much clarity it brings to your data strategy. And keep in mind, no matter how sophisticated your data strategy is, it won't help you if it's not solving real business problems. Your AI product needs to deliver tangible value,
 >
-> **[0:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=35)** They wanted to attract candidates from non-traditional backgrounds to foster innovation.
->
-> **[0:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=41)** However, because the AI was trained on past hiring decisions, it learned to favor candidates with similar backgrounds to those previously hired.
->
-> **[0:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=50)** Instead of helping to diversify the workforce, the model reinforced existing biases, replicating past decisions rather than supporting the company's new direction.
->
-> **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=61)** This case study goes to show an important lesson: technical success doesn't always mean business success.
->
-> **[1:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=70)** To ensure [[AI Solutions]] truly drive impact, AI models must align with business objectives, not just past data.
->
-> **[1:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=79)** Biases and historical data must be identified and mitigated, and training data should be diverse and representative of the company's future hiring goals, not just past trends.
->
-> **[1:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=92)** In short, AI should help organizations move forward, not just repeat the past.
->
-> **[1:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=99)** Let's look at how Netflix uses data to drive user engagement and retention.
->
-> **[1:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=106)** Netflix's primary business goal is simple: keep users watching.
->
-> **[1:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=110)** To achieve this, they built one of the world's most powerful recommendation engines designed to predict what users want to watch next.
->
-> **[2:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=121)** Netflix collects massive amounts of user data, including viewing history, which tells them what users watch and how often; watch patterns, which tells them when users pause, rewind, or binge watch; user preferences, including ratings, genre preferences, and engagement.
->
-> **[2:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=142)** This data feeds into a sophisticated mix of machine learning models and [[Algorithms]] that analyze billions of records to personalize recommendations at scale.
->
-> **[2:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=154)** To optimize engagement, Netflix implemented collaborative filtering, content-based filtering, and [[Reinforcement Learning]].
->
-> **[2:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=161)** Where the collaborative filtering recommends shows based on what similar users watch, and a content-based filtering suggests shows similar to past viewing habits, and reinforcement learning continually adjust recommendations based on [[Real-Time]] feedback.
->
-> **[2:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=179)** Netflix's success isn't really about having a large data set, of course.
->
-> **[3:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=185)** It's about using data strategically to optimize [[User Experience (UX)|user experience]] and retention.
->
-> **[3:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=190)** Their AI-driven approach keeps users engaged, which reduces churn and drives long term business growth.
->
-> **[3:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=198)** This case study goes to show an important lesson: a well-planned data strategy can turn AI into a powerful business advantage.
->
-> **[3:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=210)** Then there's Spotify.
->
-> **[3:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=211)** Spotify has built in incredibly data-driven approach to customer retention.
->
-> **[3:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=217)** Unlike traditional music platforms which rely on static playlists or user-driven searches, Spotify uses machine learning and data analytics to personalize every user's experience.
->
-> **[3:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=229)** Spotify collects a variety of user data, including listening habits, playlist creation, song [[Metadata]], and user interactions.
->
-> **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=241)** By analyzing these data points, Spotify predicts user preferences and recommends new content that's tailored to each listener.
->
-> **[4:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=248)** One of Spotify's most successful AI-driven features is Discover Weekly.
->
-> **[4:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=253)** This recommendation engine uses collaborative filtering to analyze users listening habits across over 50 million tracks.
->
-> **[4:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=262)** Key techniques here include matching users with similar tastes to recommend songs they haven't heard before, tracking passive signals like how long a user listens to a track before skipping, and analyzing song metadata to find tracks that match a user's style beyond just genre.
->
-> **[4:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=280)** Again, Spotify success isn't about having a large music data set.
->
-> **[4:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=285)** It's about leveraging AI to make personalized recommendations that keep users engaged.
->
-> **[4:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=292)** By using data to anticipate user preferences and continuously refined recommendations, Spotify has turned customer retention into a competitive advantage.
->
-> **[5:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=303)** Now let's look at one more success case, Amazon.
->
-> **[5:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=308)** On its face, Amazon looks like it's successful because it's good at selling [[Microsoft Products|products]], but it goes a lot further than that.
->
-> **[5:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=316)** Amazon's success really comes down to its logistics efficiency and cost optimization.
->
-> **[5:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=322)** Amazon collects and analyzes vast amounts of data across supply chain.
->
-> **[5:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=329)** This data covers important indicators related to warehouse operations, delivery times, cost metrics, and efficiency indicators.
->
-> **[5:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=338)** Amazon's fulfillment network is powered by AI and machine learning, which continually analyze operational data to automate warehouse processes, optimize delivery routes to reduce transport time and fuel costs, as well as predict future demand, which allows warehouses to stock high demand products before customers even order them.
->
-> **[6:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=361)** Amazon's data strategy goes into painstaking detail, which ensures that every decision directly supports business efficiency and cost reduction.
->
-> **[6:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=371)** The key point here is that if your data isn't clearly linked to a business outcome, it might not be the right data to collect.
->
-> **[6:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=380)** Now, let's look at a simple framework for aligning [[Data Collection]] with business goals.
->
-> **[6:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=386)** I call this the goal-data-impact exercise.
->
-> **[6:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=389)** One, you start with a big picture.
->
-> **[6:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=392)** What's your main business goal?
->
-> **[6:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=394)** It could be anything from improved customer satisfaction to reduce operational costs.
->
-> **[6:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=399)** Now, break it into smaller questions you need to answer.
->
-> **[6:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=403)** Like, what's working well currently?
->
-> **[6:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=405)** What are we falling short on, and what would success look like in six months?
->
-> **[6:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=412)** For each question, identify what information would help you answer it.
->
-> **[6:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=416)** What data do you already have?
->
-> **[6:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=418)** What data are you missing, and what data would be nice to have but isn't essential?
->
-> **[7:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=424)** For example, if your goal is improving customer satisfaction, you might realize you need basic feedback data from customer surveys, support ticket information to spot common issues, and usage patterns to see where customers might be struggling.
->
-> **[7:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=441)** The key here is to keep it simple.
->
-> **[7:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=443)** Don't try to collect everything at once.
->
-> **[7:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=445)** Start with the data that directly connects to your immediate business goals and build from there.
->
-> **[7:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=450)** Always keep in mind that you can expand your data collection on an as needed basis as your needs grow.
->
-> **[7:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=456)** Take 10 minutes to try out this exercise.
->
-> **[7:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=459)** I think you'll be surprised at how much clarity it brings to your data strategy.
->
-> **[7:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=463)** And keep in mind, no matter how sophisticated your data strategy is, it won't help you if it's not solving real business problems.
->
-> **[7:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=471)** Your AI product needs to deliver tangible value, whether that's increasing revenue, decreasing costs, improving customer satisfaction, or creating operational efficiency.
+> **[7:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=475)** whether that's increasing revenue, decreasing costs, improving customer satisfaction, or creating operational efficiency.
 
 > [!info]- Semantic Content
 >
@@ -781,123 +237,15 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=0)** - [Instructor] In our previous videos, we looked at real-world use cases and scenarios that reinforced the idea of how data strategy shaped AI product success.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=0)** - [Instructor] In our previous videos, we looked at real-world use cases and scenarios that reinforced the idea of how data strategy shaped AI product success. Now, we move into the next interesting question. Where do you actually get the right data for your AI [[Microsoft Products|products]]? Throughout this section, we'll explore the ins and outs of data procurement, from sourcing structured data for traditional ML models to gathering diverse data sets for [[Generative AI]]. We'll examine data diversity and bias, weigh strategic trade-offs between cost and quality, and explore various data sources, from open platforms to strategic partnerships. Let's talk about sourcing structured, labeled data for machine learning models. This might sound basic, but large-scale AI projects can fail because teams didn't get this fundamental piece right, and it's not just about having data in neat rows and columns. When building ML models, you need three fundamental elements in your structured data. They are data relationships, consistency in format, and data freshness. First, data relationships. These are the connections between different data points that reveal patterns. You need complete mapping of how variables interact with and influence each other, plus consistent tracking of these relationships over time. For example, Netflix tracks what you watch, the sequence, time between views, completion rates, and device types. All these data points connect
 >
-> **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=9)** Now, we move into the next interesting question.
+> **[1:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=92)** to tell a story about viewing behavior. Your data needs to capture similar relationships in your own domain. Second, consistency in format. This means having standardized data formats across all your sources, uniform recording methods for all variables, and systematic handling of missing values. I've seen teams spend months cleaning data before different systems recorded the same information in different ways. Customer IDs are in different formats, inconsistent date formats, and varying category names, plus missing data, which adds to the complexity. These seem like small issues at first, but they can make your data unusable for ML, or you'll end up training models that simply will not work as expected. Third, data freshness and recency. This involves regular updates to reflect current patterns, timed removal of outdated information, and continuous validation of data relevance. This is especially important in [[E-Commerce]], where the customer preferences change rapidly. Take Amazon's product recommendation system, for example. A customer who browsed winter jackets in December might not be interested in those recommendations by March. Or, think about fast fashion retailers. Products trending on social media today might be old news next week. Always, always account for rapid shifts in your variables. That being said, here's a practical framework you can use when sourcing data for your use case.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=11)** Where do you actually get the right data for your AI [[Microsoft Products|products]]?
+> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=187)** Start by answering these questions. What specific patterns does your model need to learn? What relationships between data points matter for these patterns? How will you ensure consistent [[Data Collection]] across sources? And how often does the data need to be updated? Here are tips I always recommend to teams starting out in their data sourcing and organizing activities. For customer behavior models, aim for at least six months of historical data. Ensure that your core features are present in at least 80% of your records. Validate data relationships across different sources on a periodic basis and document your data collection and processing rules clearly. Now, before moving on to the next video, we also need to touch upon another area which is gaining traction and will soon form the bedrock of AI projects. What if you can't find enough high quality data? It's a common challenge and it can feel like a roadblock, especially when you're trying to build or train robust models. Maybe your data set is too small, lacks diversity, or is rife with missing values, or perhaps [[Privacy]] concerns and regulatory restrictions limit your access to real world data altogether. This is where you'll need to turn to synthetic data. Synthetic data is artificially generated information that mimics the properties of real-world data by analyzing patterns in your existing data and generating new data points that follow those patterns, all while also validating that the generated data preserves real-world relationships.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=16)** Throughout this section, we'll explore the ins and outs of data procurement, from sourcing structured data for traditional ML models to gathering diverse data sets for [[Generative AI]].
+> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=283)** You're going to find synthetic data very valuable when your real world data is limited, when you need specific edge cases for testing, when there are privacy regulations that restrict your data usage, or when you want to accelerate development before collecting real data. Remember, the synthetic data generated must be statistically accurate, infinitely scalable, privacy protected, and safe to share. Synthetic data is artificially generated, but it mimics real-world data patterns. If you're training an AI model to detect fraudulent transactions, for example, and you don't have enough fraud cases, synthetic data generation tools can help you analyze real transaction data to identify key patterns, generate new synthetic transactions to follow the same statistical properties, preserve important relationships between transaction amounts, timing, and user behavior, and ensure privacy while preventing exposure of real customer data. There are four main benefits of synthetic data. First, it's statistically accurate, it's infinitely scalable, it's privacy-protected, and it's safe for sharing. You don't have to worry about violating privacy regulations anymore if you're using synthetic data. Yippee! Synthetic data helps train AI models more effectively, especially when rare events or edge cases need to be included.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=26)** We'll examine data diversity and bias, weigh strategic trade-offs between cost and quality, and explore various data sources, from open platforms to strategic partnerships.
->
-> **[0:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=39)** Let's talk about sourcing structured, labeled data for machine learning models.
->
-> **[0:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=44)** This might sound basic, but large-scale AI projects can fail because teams didn't get this fundamental piece right, and it's not just about having data in neat rows and columns.
->
-> **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=56)** When building ML models, you need three fundamental elements in your structured data.
->
-> **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=61)** They are data relationships, consistency in format, and data freshness.
->
-> **[1:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=67)** First, data relationships.
->
-> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=69)** These are the connections between different data points that reveal patterns.
->
-> **[1:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=73)** You need complete mapping of how variables interact with and influence each other, plus consistent tracking of these relationships over time.
->
-> **[1:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=82)** For example, Netflix tracks what you watch, the sequence, time between views, completion rates, and device types.
->
-> **[1:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=91)** All these data points connect to tell a story about viewing behavior.
->
-> **[1:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=95)** Your data needs to capture similar relationships in your own domain.
->
-> **[1:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=100)** Second, consistency in format.
->
-> **[1:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=103)** This means having standardized data formats across all your sources, uniform recording methods for all variables, and systematic handling of missing values.
->
-> **[1:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=113)** I've seen teams spend months cleaning data before different systems recorded the same information in different ways.
->
-> **[2:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=120)** Customer IDs are in different formats, inconsistent date formats, and varying category names, plus missing data, which adds to the complexity.
->
-> **[2:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=130)** These seem like small issues at first, but they can make your data unusable for ML, or you'll end up training models that simply will not work as expected.
->
-> **[2:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=141)** Third, data freshness and recency.
->
-> **[2:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=144)** This involves regular updates to reflect current patterns, timed removal of outdated information, and continuous validation of data relevance.
->
-> **[2:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=153)** This is especially important in [[E-Commerce]], where the customer preferences change rapidly.
->
-> **[2:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=159)** Take Amazon's product recommendation system, for example.
->
-> **[2:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=163)** A customer who browsed winter jackets in December might not be interested in those recommendations by March.
->
-> **[2:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=170)** Or, think about fast fashion retailers.
->
-> **[2:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=173)** Products trending on social media today might be old news next week.
->
-> **[2:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=178)** Always, always account for rapid shifts in your variables.
->
-> **[3:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=181)** That being said, here's a practical framework you can use when sourcing data for your use case.
->
-> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=187)** Start by answering these questions.
->
-> **[3:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=189)** What specific patterns does your model need to learn?
->
-> **[3:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=192)** What relationships between data points matter for these patterns?
->
-> **[3:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=196)** How will you ensure consistent [[Data Collection]] across sources?
->
-> **[3:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=201)** And how often does the data need to be updated?
->
-> **[3:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=204)** Here are tips I always recommend to teams starting out in their data sourcing and organizing activities.
->
-> **[3:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=210)** For customer behavior models, aim for at least six months of historical data.
->
-> **[3:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=215)** Ensure that your core features are present in at least 80% of your records.
->
-> **[3:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=220)** Validate data relationships across different sources on a periodic basis and document your data collection and processing rules clearly.
->
-> **[3:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=230)** Now, before moving on to the next video, we also need to touch upon another area which is gaining traction and will soon form the bedrock of AI projects.
->
-> **[3:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=238)** What if you can't find enough high quality data?
->
-> **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=241)** It's a common challenge and it can feel like a roadblock, especially when you're trying to build or train robust models.
->
-> **[4:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=249)** Maybe your data set is too small, lacks diversity, or is rife with missing values, or perhaps [[Privacy]] concerns and regulatory restrictions limit your access to real world data altogether.
->
-> **[4:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=262)** This is where you'll need to turn to synthetic data.
->
-> **[4:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=265)** Synthetic data is artificially generated information that mimics the properties of real-world data by analyzing patterns in your existing data and generating new data points that follow those patterns, all while also validating that the generated data preserves real-world relationships.
->
-> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=283)** You're going to find synthetic data very valuable when your real world data is limited, when you need specific edge cases for testing, when there are privacy regulations that restrict your data usage, or when you want to accelerate development before collecting real data.
->
-> **[5:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=300)** Remember, the synthetic data generated must be statistically accurate, infinitely scalable, privacy protected, and safe to share.
->
-> **[5:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=311)** Synthetic data is artificially generated, but it mimics real-world data patterns.
->
-> **[5:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=317)** If you're training an AI model to detect fraudulent transactions, for example, and you don't have enough fraud cases, synthetic data generation tools can help you analyze real transaction data to identify key patterns, generate new synthetic transactions to follow the same statistical properties, preserve important relationships between transaction amounts, timing, and user behavior, and ensure privacy while preventing exposure of real customer data.
->
-> **[5:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=348)** There are four main benefits of synthetic data.
->
-> **[5:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=351)** First, it's statistically accurate, it's infinitely scalable, it's privacy-protected, and it's safe for sharing.
->
-> **[6:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=360)** You don't have to worry about violating privacy regulations anymore if you're using synthetic data.
->
-> **[6:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=366)** Yippee!
->
-> **[6:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=367)** Synthetic data helps train AI models more effectively, especially when rare events or edge cases need to be included.
->
-> **[6:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=375)** It ensures models learn from a diverse and representative dataset, which improves performance and fairness.
->
-> **[6:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=383)** Now, I want you to pause the video and take some time to consider your data needs.
->
-> **[6:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=389)** Where might synthetic data be valuable in your current use case?
->
-> **[6:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=393)** What risks would you need to mitigate?
->
-> **[6:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=395)** How would you validate its effectiveness?
->
-> **[6:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=399)** Take a moment to think over your answers to these questions, and next, we'll tackle an even bigger challenge, sourcing [[Unstructured Data]] for generative AI.
+> **[6:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=375)** It ensures models learn from a diverse and representative dataset, which improves performance and fairness. Now, I want you to pause the video and take some time to consider your data needs. Where might synthetic data be valuable in your current use case? What risks would you need to mitigate? How would you validate its effectiveness? Take a moment to think over your answers to these questions, and next, we'll tackle an even bigger challenge, sourcing [[Unstructured Data]] for generative AI.
 
 > [!info]- Semantic Content
 >
@@ -912,93 +260,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=0)** - [Instructor] In the last video, you saw how to source structured data for ML models, but [[Generative AI]] brings us into a whole new world, one where we need vast amounts of [[Unstructured Data]], like text, images, and code.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=0)** - [Instructor] In the last video, you saw how to source structured data for ML models, but [[Generative AI]] brings us into a whole new world, one where we need vast amounts of [[Unstructured Data]], like text, images, and code. Apart from the sheer volume, the challenge with generative AI is about finding diverse high quality data that you need to help your models learn and consequently generate meaningful content. Teams often think they need to collect every bit of data they can find, but having the biggest data set doesn't guarantee success. It's about having the right kind of data diversity. Think about a large language model like GPT. It's not just trained on perfectly written books and articles. It must also understand how people actually communicate, everything from formal documents to casual conversations, technical manuals to creative writing. This diversity is what allows the model to generate appropriate responses in different contexts. Remember the star framework we discussed earlier. Let's use that technique to develop an unstructured data sourcing strategy for generative AI. Let's start with survey. What have successful companies discovered about sourcing unstructured data in the recent past? There are three key principles that are common to successful companies. First, they focus on variety over volume. Take the example of a team that's building a generative AI solution for medical documentation.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=14)** Apart from the sheer volume, the challenge with generative AI is about finding diverse high quality data that you need to help your models learn and consequently generate meaningful content.
+> **[1:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=94)** If initially, they only collected formal medical papers, then their model couldn't generate the kind of natural language doctors actually use with patients. Once they include transcripts of doctor patient conversations, their results are likely to improve dramatically. Next, consider data freshness. Unstructured data goes stale faster than you might think. Language evolves, visual styles change, and [[Technical Documentation]] updates. You need a strategy for continuously refreshing your training data. Third, prioritize quality verification. With unstructured data, this is trickier than with structured data. A simple validation check will not do. Do you need processes in place to verify data relevance, content authenticity, source reliability, and cultural appropriateness? Now since you've already decided your sourcing data for a generative AI product, you still need to take stock of what you have available to support the implementation. Start with clear use case requirements and backtrack to make sure that you actually have on hand what you'd need to implement. What type of content will your model need to generate? The answer to this question helps you identify the data sources you'll need. For instance, if you're building a co-generation model, you'll need open source code repositories, documentation, programming tutorials, and developer discussions. Then establish your collection infrastructure.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=27)** Teams often think they need to collect every bit of data they can find, but having the biggest data set doesn't guarantee success.
->
-> **[0:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=34)** It's about having the right kind of data diversity.
->
-> **[0:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=38)** Think about a large language model like GPT.
->
-> **[0:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=41)** It's not just trained on perfectly written books and articles.
->
-> **[0:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=45)** It must also understand how people actually communicate, everything from formal documents to casual conversations, technical manuals to creative writing.
->
-> **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=56)** This diversity is what allows the model to generate appropriate responses in different contexts.
->
-> **[1:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=62)** Remember the star framework we discussed earlier.
->
-> **[1:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=65)** Let's use that technique to develop an unstructured data sourcing strategy for generative AI.
->
-> **[1:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=71)** Let's start with survey.
->
-> **[1:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=73)** What have successful companies discovered about sourcing unstructured data in the recent past?
->
-> **[1:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=80)** There are three key principles that are common to successful companies.
->
-> **[1:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=84)** First, they focus on variety over volume.
->
-> **[1:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=87)** Take the example of a team that's building a generative AI solution for medical documentation.
->
-> **[1:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=94)** If initially, they only collected formal medical papers, then their model couldn't generate the kind of natural language doctors actually use with patients.
->
-> **[1:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=104)** Once they include transcripts of doctor patient conversations, their results are likely to improve dramatically.
->
-> **[1:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=111)** Next, consider data freshness.
->
-> **[1:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=114)** Unstructured data goes stale faster than you might think.
->
-> **[1:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=118)** Language evolves, visual styles change, and [[Technical Documentation]] updates.
->
-> **[2:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=124)** You need a strategy for continuously refreshing your training data.
->
-> **[2:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=128)** Third, prioritize quality verification.
->
-> **[2:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=131)** With unstructured data, this is trickier than with structured data.
->
-> **[2:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=135)** A simple validation check will not do.
->
-> **[2:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=138)** Do you need processes in place to verify data relevance, content authenticity, source reliability, and cultural appropriateness?
->
-> **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=150)** Now since you've already decided your sourcing data for a generative AI product, you still need to take stock of what you have available to support the implementation.
->
-> **[2:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=161)** Start with clear use case requirements and backtrack to make sure that you actually have on hand what you'd need to implement.
->
-> **[2:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=168)** What type of content will your model need to generate?
->
-> **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=171)** The answer to this question helps you identify the data sources you'll need.
->
-> **[2:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=175)** For instance, if you're building a co-generation model, you'll need open source code repositories, documentation, programming tutorials, and developer discussions.
->
-> **[3:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=186)** Then establish your collection infrastructure.
->
-> **[3:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=190)** Unlike structured data, unstructured data often can require web crawlers, API integrations, content partnerships, and user-generated content platforms.
->
-> **[3:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=204)** Finally, implement robust filtering mechanisms.
->
-> **[3:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=207)** Not all unstructured data is useful.
->
-> **[3:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=210)** You need systems to filter out low-quality content, duplicate information, potentially harmful content, and irrelevant data.
->
-> **[3:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=220)** Moving to the assess phase, examine your current state and the gap between it and the future state you're building for.
->
-> **[3:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=228)** What data sources do you already have to access it?
->
-> **[3:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=232)** What's missing?
->
-> **[3:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=234)** What are your current collection capabilities?
->
-> **[3:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=237)** How robust are your quality verification processes?
->
-> **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=241)** What's the state of your storage infrastructure?
->
-> **[4:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=244)** Then we get onto the last phase, which is the recommendation phase.
->
-> **[4:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=248)** Ideally, you should start with clear requirements and define what content types you need, identify your potential data sources, plan your quality verification methods, and recommend the filtering mechanisms that'll be required.
->
-> **[4:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=263)** With that, now let's tackle another crucial aspect of data sourcing, the mitigation of risks due to bias.
+> **[3:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=190)** Unlike structured data, unstructured data often can require web crawlers, API integrations, content partnerships, and user-generated content platforms. Finally, implement robust filtering mechanisms. Not all unstructured data is useful. You need systems to filter out low-quality content, duplicate information, potentially harmful content, and irrelevant data. Moving to the assess phase, examine your current state and the gap between it and the future state you're building for. What data sources do you already have to access it? What's missing? What are your current collection capabilities? How robust are your quality verification processes? What's the state of your storage infrastructure? Then we get onto the last phase, which is the recommendation phase. Ideally, you should start with clear requirements and define what content types you need, identify your potential data sources, plan your quality verification methods, and recommend the filtering mechanisms that'll be required. With that, now let's tackle another crucial aspect of data sourcing, the mitigation of risks due to bias.
 
 > [!info]- Semantic Content
 >
@@ -1015,125 +281,15 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=0)** - [Instructor] As we continue exploring [[Data Quality]] we've reached a very important topic, bias in AI systems.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=0)** - [Instructor] As we continue exploring [[Data Quality]] we've reached a very important topic, bias in AI systems. Bias can occur when AI models produce unfair or prejudiced results, often disadvantaging specific groups. This issue can significantly impact business decisions, fairness, and even company reputation. Bias in AI refers to systematic unfairness in model outputs. This often originates from biased training data, skewed [[Algorithms]], or lack of diversity in the dataset. To mitigate bias start with documenting data sources thoroughly. Ask where's the data coming from? Are certain demographics overrepresented or underrepresented? Could the dataset reinforce existing inequalities? Bias isn't always obvious at first. That's why [[Continuous Monitoring]] is essential. Bias can emerge over time as new data is added, making regular audits an absolutely necessary process. Teams should examine model predictions across different demographic groups and look for patterns of false positives and false negatives. Let's look at this in practice. The severity of bias in AI systems became starkly clear when Amazon discovered their recruitment AI was systematically putting women at disadvantage, especially in the tech industry. Despite having sophisticated algorithms the system had learned bias from historical hiring data, which was predominantly males.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=9)** Bias can occur when AI models produce unfair or prejudiced results, often disadvantaging specific groups.
+> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=96)** The company eventually had to discontinue the project when they realized these biases couldn't be fully eliminated. Similarly, look at what happened with Optum's health care AI. The system clearly showed significant racial bias in determining patient care needs, and in many cases required certain groups to be much sicker than others before being flagged for additional care. Clearly, these are issues that directly impact people's lives. The impact of models perpetuating bias extends also to hurting a brand's reputation, revenue, and image. In 2020 Upstart's loan eligibility prediction model showed racial bias in mortgage lending decisions. This affected both individuals seeking loans and the company's reputation. As of today, they've worked on building alternative models that are less discriminatory. This brings us to an important distinction in how we need to think about bias in different AI applications. Let me share a recent experience that illustrates this perfectly. I worked with a team developing an AI system for medical image analysis. Initially, they thought they had a diverse dataset because it included samples from multiple hospitals. However, when we dug deeper we discovered that all the images came from the similar demographic groups and similar types of medical equipment. This revelation led to a really big realization. True diversity in AI training data is about having meaningful variation
 >
-> **[0:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=16)** This issue can significantly impact business decisions, fairness, and even company reputation.
+> **[3:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=191)** in the underlying patterns and contexts. I've seen teams report that their training data includes hundreds of thousands of samples without being able to articulate how those samples represent different use cases or user groups. The focus on quantity metrics rather than quality indicators needs to change. Let me share a systematic approach to mitigating bias in AI systems. Think of it as building guardrails that keep your AI system on track from day one. Step one is to document data sources. Bias often begins at the [[Data Collection]] phase. To reduce risk create detailed documentation of your data sources, including where the data comes from, any known limitations or biases, and whether certain demographics are overrepresented or underrepresented. For example, if you're collecting customer feedback, check whether their responses primarily came from one geographic region or demographic group. Step two, implement continuous monitoring. Bias is not a one-time fix. It can emerge over time as data evolves. Set up regular audits to check for patterns and model predictions, including do certain groups consistently receive different results, are there patterns in false positives or false negatives? By tracking these trends you can catch bias before it becomes a larger issue. Step three, build detection checkpoints. Some biases are obvious,
 >
-> **[0:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=24)** Bias in AI refers to systematic unfairness in model outputs.
+> **[4:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=284)** but others are hidden within proxy variables. In this case, these would be factors that unintentionally correlate with sensitive attributes. For example, in a lending model zip codes might act as proxies for social-economic status, leading to unintentional discrimination. To prevent this you could consider setting up alerts for significant variances in model outcomes across groups, regularly testing and documenting these discrepancies, and adjusting the model where needed to ensure fairness. The key here is making this process systematic and repeatable. Create clear protocols for regular data audits, performance monitoring across different subgroups, feedback collection from diverse user groups, and documentation of mitigation efforts and the results. It's not possible to achieve perfection from the day you begin. This is about continuous improvement and awareness. By implementing these approaches early and consistently you're safeguarding it against bias and ultimately contributing to building a more robust and reliable AI system overall, one that's safe, reliable, and ethical. On this screen here you can see that I've listed some tools that are available for you to use to detect bias in your workflows. All of this being said, I want to challenge you to consider the use cases you're currently supporting and give some thought to the questions
 >
-> **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=28)** This often originates from biased training data, skewed [[Algorithms]], or lack of diversity in the dataset.
->
-> **[0:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=35)** To mitigate bias start with documenting data sources thoroughly.
->
-> **[0:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=39)** Ask where's the data coming from?
->
-> **[0:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=42)** Are certain demographics overrepresented or underrepresented?
->
-> **[0:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=47)** Could the dataset reinforce existing inequalities?
->
-> **[0:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=50)** Bias isn't always obvious at first.
->
-> **[0:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=53)** That's why [[Continuous Monitoring]] is essential.
->
-> **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=56)** Bias can emerge over time as new data is added, making regular audits an absolutely necessary process.
->
-> **[1:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=64)** Teams should examine model predictions across different demographic groups and look for patterns of false positives and false negatives.
->
-> **[1:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=73)** Let's look at this in practice.
->
-> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=75)** The severity of bias in AI systems became starkly clear when Amazon discovered their recruitment AI was systematically putting women at disadvantage, especially in the tech industry.
->
-> **[1:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=87)** Despite having sophisticated algorithms the system had learned bias from historical hiring data, which was predominantly males.
->
-> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=96)** The company eventually had to discontinue the project when they realized these biases couldn't be fully eliminated.
->
-> **[1:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=103)** Similarly, look at what happened with Optum's health care AI.
->
-> **[1:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=107)** The system clearly showed significant racial bias in determining patient care needs, and in many cases required certain groups to be much sicker than others before being flagged for additional care.
->
-> **[2:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=121)** Clearly, these are issues that directly impact people's lives.
->
-> **[2:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=125)** The impact of models perpetuating bias extends also to hurting a brand's reputation, revenue, and image.
->
-> **[2:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=132)** In 2020 Upstart's loan eligibility prediction model showed racial bias in mortgage lending decisions.
->
-> **[2:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=140)** This affected both individuals seeking loans and the company's reputation.
->
-> **[2:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=145)** As of today, they've worked on building alternative models that are less discriminatory.
->
-> **[2:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=151)** This brings us to an important distinction in how we need to think about bias in different AI applications.
->
-> **[2:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=157)** Let me share a recent experience that illustrates this perfectly.
->
-> **[2:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=161)** I worked with a team developing an AI system for medical image analysis.
->
-> **[2:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=166)** Initially, they thought they had a diverse dataset because it included samples from multiple hospitals.
->
-> **[2:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=172)** However, when we dug deeper we discovered that all the images came from the similar demographic groups and similar types of medical equipment.
->
-> **[3:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=180)** This revelation led to a really big realization.
->
-> **[3:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=185)** True diversity in AI training data is about having meaningful variation in the underlying patterns and contexts.
->
-> **[3:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=194)** I've seen teams report that their training data includes hundreds of thousands of samples without being able to articulate how those samples represent different use cases or user groups.
->
-> **[3:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=206)** The focus on quantity metrics rather than quality indicators needs to change.
->
-> **[3:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=212)** Let me share a systematic approach to mitigating bias in AI systems.
->
-> **[3:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=216)** Think of it as building guardrails that keep your AI system on track from day one.
->
-> **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=222)** Step one is to document data sources.
->
-> **[3:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=225)** Bias often begins at the [[Data Collection]] phase.
->
-> **[3:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=228)** To reduce risk create detailed documentation of your data sources, including where the data comes from, any known limitations or biases, and whether certain demographics are overrepresented or underrepresented.
->
-> **[4:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=243)** For example, if you're collecting customer feedback, check whether their responses primarily came from one geographic region or demographic group.
->
-> **[4:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=252)** Step two, implement continuous monitoring.
->
-> **[4:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=255)** Bias is not a one-time fix.
->
-> **[4:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=257)** It can emerge over time as data evolves.
->
-> **[4:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=260)** Set up regular audits to check for patterns and model predictions, including do certain groups consistently receive different results, are there patterns in false positives or false negatives?
->
-> **[4:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=273)** By tracking these trends you can catch bias before it becomes a larger issue.
->
-> **[4:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=278)** Step three, build detection checkpoints.
->
-> **[4:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=282)** Some biases are obvious, but others are hidden within proxy variables.
->
-> **[4:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=288)** In this case, these would be factors that unintentionally correlate with sensitive attributes.
->
-> **[4:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=294)** For example, in a lending model zip codes might act as proxies for social-economic status, leading to unintentional discrimination.
->
-> **[5:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=304)** To prevent this you could consider setting up alerts for significant variances in model outcomes across groups, regularly testing and documenting these discrepancies, and adjusting the model where needed to ensure fairness.
->
-> **[5:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=319)** The key here is making this process systematic and repeatable.
->
-> **[5:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=324)** Create clear protocols for regular data audits, performance monitoring across different subgroups, feedback collection from diverse user groups, and documentation of mitigation efforts and the results.
->
-> **[5:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=338)** It's not possible to achieve perfection from the day you begin.
->
-> **[5:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=342)** This is about continuous improvement and awareness.
->
-> **[5:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=345)** By implementing these approaches early and consistently you're safeguarding it against bias and ultimately contributing to building a more robust and reliable AI system overall, one that's safe, reliable, and ethical.
->
-> **[6:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=360)** On this screen here you can see that I've listed some tools that are available for you to use to detect bias in your workflows.
->
-> **[6:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=369)** All of this being said, I want to challenge you to consider the use cases you're currently supporting and give some thought to the questions you're seeing on the screen here.
->
-> **[6:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=378)** Are there areas in your current AI project where unintended bias exists?
->
-> **[6:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=383)** If so, how would you detect it, and what mitigation strategies would work best for you?
->
-> **[6:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=390)** While these approaches work well for traditional ML systems, [[Generative AI]] introduces new dimensions of bias that require additional consideration.
->
-> **[6:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=399)** We'll discuss that in the next video.
+> **[6:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=375)** you're seeing on the screen here. Are there areas in your current AI project where unintended bias exists? If so, how would you detect it, and what mitigation strategies would work best for you? While these approaches work well for traditional ML systems, [[Generative AI]] introduces new dimensions of bias that require additional consideration. We'll discuss that in the next video.
 
 > [!info]- Semantic Content
 >
@@ -1148,89 +304,15 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=0)** - [Instructor] So in this video we'll discuss algorithmic bias and [[Generative AI]], a complex but not insurmountable challenge.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=0)** - [Instructor] So in this video we'll discuss algorithmic bias and [[Generative AI]], a complex but not insurmountable challenge. According to News Guard, factually incorrect, AI generated articles have increased by more than 1,000% just last year. UCS researchers have discovered bias in up to 38.6% of so-called facts that were used by generative AI models when generating new content. What's fascinating is how differently bias manifests in traditional ML versus generative models. Traditional ML models might show bias through measurable disparities in accuracy or performance across different groups, but generative models can perpetuate subtle cultural biases that are hard to quantify, but equally harmful, if not more so. A study by Edith Cohen University analyzed AI generated images from [[Midjourney]] and focused on how it depicts Olympic teams from various countries. In his study, he found that men were depicted five times more often than women with 82.86% of images showing male athletes. And in analysis of more than 5,000 AI images that were created by [[Stable Diffusion]]'s text-to-image model, Bloomberg found that images associated with higher paying job titles featured people with lighter skin tones, and that results for most professional roles
 >
-> **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=9)** According to News Guard, factually incorrect, AI generated articles have increased by more than 1,000% just last year.
+> **[1:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=94)** were male dominated. Here's what makes addressing this particularly challenging. Bias often originates in the training data itself, and it's not always obvious. Teams preparing data sets might not even realize they're introducing bias. This is why prudent companies are proactively implementing robust frameworks for assessing and mitigating bias before they release their AI models. Ensuring ethical AI development requires a structured approach that integrates [[Ethics]] into the development process rather than treating it as an afterthought. Let's explore key strategies organizations are using to build [[Responsible AI]] systems. One, there's the team integration and testing. The most effective AI companies embed ethics specialists directly within their development teams. Instead of addressing ethical concerns at the end of development processes, these specialists proactively identify and mitigate bias early on. Some best practices include daily bias detection, which is where they incorporate ethical checks in daily standups to identify potential biases in real time. And then they're also doing proactive issue identification. This is where they do a regular review of data sets and [[Algorithms]] to catch potential ethical concerns before they become systematic problems. I've seen this work particularly well at a FinTech company
 >
-> **[0:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=17)** UCS researchers have discovered bias in up to 38.6% of so-called facts that were used by generative AI models when generating new content.
+> **[3:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=189)** that made bias detection part of their daily standups. Along with technical progress, they also highlighted potential bias concerns they've encountered. This proactive approach helped them identify and address issues before they became embedded in the system. Then there is the community engagement layer. A diverse range of perspectives is critical for ensuring AI models are fair and inclusive. Engaging with communities affected by AI systems helps organizations better understand ethical risk. This includes diverse user training where you ensure that models are evaluated across different demographics and use cases. It also includes active dialogue where you're having regular discussions with stakeholders to identify concerns and gather feedback. And lastly, you can consider impact assessments, which is a continuous evaluation of how AI decisions affect different groups. [[Real-Time]] bias detection is essential in AI ethics. Companies are now using secondary AI models to monitor outputs for fairness and inclusivity before they're deployed. This approach, often referred to as LLM-as-a-judge, allows one AI model to evaluate the outputs of another, helping to minimize bias. This is similar to having an LLM, let's say [[GPT-4|GPT-4o]], judging the output of a smaller model,
 >
-> **[0:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=30)** What's fascinating is how differently bias manifests in traditional ML versus generative models.
+> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=283)** for example, GPT-4o mini, or any other model, perhaps Claude Sonnet 3.5. You can prompt the model to specifically check for fairness, inclusivity, and bias in the output before being presented to users. Other examples include AI models monitoring each other, where some organizations use LLMs like GPT-4o to assess the fairness of smaller models before outputs are presented to their users. Or also automated bias flags where algorithms are used to detect potential stereotypes or demographic imbalances in AI generated content. To build ethical AI, bias mitigation must happen at multiple levels. First, there's training data curation, and this is where you're ensuring data sets are diverse, representative, and free from historical biases. Second, there's model architecture design where you're implementing fairness constraints within the model itself. And then third, there's output filtering and controls, which involves applying post-processing techniques to catch biased outputs before deployment. For large enterprises, scaling bias mitigation efforts requires additional measures such as dedicated bias monitoring systems, regular community consultations, and transparent impact assessments and clear incident reporting protocols. By embedding these ethical practices into the AI lifecycle, organizations can build more responsible,
 >
-> **[0:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=36)** Traditional ML models might show bias through measurable disparities in accuracy or performance across different groups, but generative models can perpetuate subtle cultural biases that are hard to quantify, but equally harmful, if not more so.
->
-> **[0:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=53)** A study by Edith Cohen University analyzed AI generated images from [[Midjourney]] and focused on how it depicts Olympic teams from various countries.
->
-> **[1:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=64)** In his study, he found that men were depicted five times more often than women with 82.86% of images showing male athletes.
->
-> **[1:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=74)** And in analysis of more than 5,000 AI images that were created by [[Stable Diffusion]]'s text-to-image model, Bloomberg found that images associated with higher paying job titles featured people with lighter skin tones, and that results for most professional roles were male dominated.
->
-> **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=97)** Here's what makes addressing this particularly challenging.
->
-> **[1:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=102)** Bias often originates in the training data itself, and it's not always obvious.
->
-> **[1:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=109)** Teams preparing data sets might not even realize they're introducing bias.
->
-> **[1:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=114)** This is why prudent companies are proactively implementing robust frameworks for assessing and mitigating bias before they release their AI models.
->
-> **[2:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=125)** Ensuring ethical AI development requires a structured approach that integrates [[Ethics]] into the development process rather than treating it as an afterthought.
->
-> **[2:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=134)** Let's explore key strategies organizations are using to build [[Responsible AI]] systems.
->
-> **[2:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=141)** One, there's the team integration and testing.
->
-> **[2:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=145)** The most effective AI companies embed ethics specialists directly within their development teams.
->
-> **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=150)** Instead of addressing ethical concerns at the end of development processes, these specialists proactively identify and mitigate bias early on.
->
-> **[2:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=159)** Some best practices include daily bias detection, which is where they incorporate ethical checks in daily standups to identify potential biases in real time.
->
-> **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=171)** And then they're also doing proactive issue identification.
->
-> **[2:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=177)** This is where they do a regular review of data sets and [[Algorithms]] to catch potential ethical concerns before they become systematic problems.
->
-> **[3:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=186)** I've seen this work particularly well at a FinTech company that made bias detection part of their daily standups.
->
-> **[3:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=193)** Along with technical progress, they also highlighted potential bias concerns they've encountered.
->
-> **[3:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=199)** This proactive approach helped them identify and address issues before they became embedded in the system.
->
-> **[3:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=207)** Then there is the community engagement layer.
->
-> **[3:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=211)** A diverse range of perspectives is critical for ensuring AI models are fair and inclusive.
->
-> **[3:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=218)** Engaging with communities affected by AI systems helps organizations better understand ethical risk.
->
-> **[3:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=225)** This includes diverse user training where you ensure that models are evaluated across different demographics and use cases.
->
-> **[3:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=233)** It also includes active dialogue where you're having regular discussions with stakeholders to identify concerns and gather feedback.
->
-> **[4:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=242)** And lastly, you can consider impact assessments, which is a continuous evaluation of how AI decisions affect different groups.
->
-> **[4:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=252)** [[Real-Time]] bias detection is essential in AI ethics.
->
-> **[4:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=255)** Companies are now using secondary AI models to monitor outputs for fairness and inclusivity before they're deployed.
->
-> **[4:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=263)** This approach, often referred to as LLM-as-a-judge, allows one AI model to evaluate the outputs of another, helping to minimize bias.
->
-> **[4:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=274)** This is similar to having an LLM, let's say [[GPT-4|GPT-4o]], judging the output of a smaller model, for example, GPT-4o mini, or any other model, perhaps Claude Sonnet 3.5.
->
-> **[4:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=290)** You can prompt the model to specifically check for fairness, inclusivity, and bias in the output before being presented to users.
->
-> **[4:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=298)** Other examples include AI models monitoring each other, where some organizations use LLMs like GPT-4o to assess the fairness of smaller models before outputs are presented to their users.
->
-> **[5:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=311)** Or also automated bias flags where algorithms are used to detect potential stereotypes or demographic imbalances in AI generated content.
->
-> **[5:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=322)** To build ethical AI, bias mitigation must happen at multiple levels.
->
-> **[5:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=327)** First, there's training data curation, and this is where you're ensuring data sets are diverse, representative, and free from historical biases.
->
-> **[5:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=336)** Second, there's model architecture design where you're implementing fairness constraints within the model itself.
->
-> **[5:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=342)** And then third, there's output filtering and controls, which involves applying post-processing techniques to catch biased outputs before deployment.
->
-> **[5:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=352)** For large enterprises, scaling bias mitigation efforts requires additional measures such as dedicated bias monitoring systems, regular community consultations, and transparent impact assessments and clear incident reporting protocols.
->
-> **[6:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=369)** By embedding these ethical practices into the AI lifecycle, organizations can build more responsible, fair, and trustworthy AI systems.
+> **[6:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=375)** fair, and trustworthy AI systems.
 
 > [!info]- Semantic Content
 >
@@ -1245,67 +327,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=0)** - [Instructor] Bias manifests differently in traditional ML models compared to [[Generative AI]] models.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=0)** - [Instructor] Bias manifests differently in traditional ML models compared to [[Generative AI]] models. While traditional ML models often exhibit disparities in prediction accuracy across different demographic groups, generative AI models can amplify biases in the content they create. Addressing these biases requires a structured framework that accounts for the unique risks of each approach. The framework summarized on the screen here provides a clear way to quantify your bias mitigation efforts and see how you stack up against industry best practices. It directly compares traditional ML and generative AI that's making it easier to understand the unique challenges and solutions for each. Don't worry if it's a lot to process here because I'm going to be breaking these differences down piecemeal. First, there is statistical parity, which measures whether different demographic groups receive similar treatment. These are guidelines rather than fixed rules, but for traditional ML, statistical parity difference is a standard fairness threshold. These can vary by use case, but generally you want a SPD less than 0.1. But for generative AI, demographic representation error is a metric used to measure how well a generative AI model fairly represents different demographic groups in its outputs. A high DRE indicates that certain groups are underrepresented or overrepresented,
 >
-> **[0:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=5)** While traditional ML models often exhibit disparities in prediction accuracy across different demographic groups, generative AI models can amplify biases in the content they create.
+> **[1:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=95)** which of course leads to biased AI-generated content. DRE should be less than 0.15, but then again, these factors and benchmarks vary widely depending upon your specific instance. Then there's predictive equality. This metric ensures false positive rates are consistent across demographic groups. For traditional ML models, this metric ensures false positive rates are consistent across demographic groups. For generative AI models, this metric is an indicator of unintended stereotypes. Again, these guidelines are not set in stone, but for traditional ML, false positive rate is a standard fairness threshold, and these can vary by use case, but FPR should generally be less than 5% to be within the acceptability range. Then for generative AI systems, stereotypical content rate is a metric used to measure how often a generative AI model produces content that reinforces stereotypes about specific groups. This could involve gender, race, age, occupation, or crucial depictions that are biased or misrepresentative. SCR should be less than 3% in most cases. Next, there's the impact scope. Bias in traditional ML affects [[Decision-Making]], whereas bias and generative AI
 >
-> **[0:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=19)** Addressing these biases requires a structured framework that accounts for the unique risks of each approach.
->
-> **[0:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=25)** The framework summarized on the screen here provides a clear way to quantify your bias mitigation efforts and see how you stack up against industry best practices.
->
-> **[0:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=36)** It directly compares traditional ML and generative AI that's making it easier to understand the unique challenges and solutions for each.
->
-> **[0:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=45)** Don't worry if it's a lot to process here because I'm going to be breaking these differences down piecemeal.
->
-> **[0:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=52)** First, there is statistical parity, which measures whether different demographic groups receive similar treatment.
->
-> **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=61)** These are guidelines rather than fixed rules, but for traditional ML, statistical parity difference is a standard fairness threshold.
->
-> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=69)** These can vary by use case, but generally you want a SPD less than 0.1.
->
-> **[1:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=77)** But for generative AI, demographic representation error is a metric used to measure how well a generative AI model fairly represents different demographic groups in its outputs.
->
-> **[1:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=89)** A high DRE indicates that certain groups are underrepresented or overrepresented, which of course leads to biased AI-generated content.
->
-> **[1:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=99)** DRE should be less than 0.15, but then again, these factors and benchmarks vary widely depending upon your specific instance.
->
-> **[1:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=110)** Then there's predictive equality.
->
-> **[1:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=113)** This metric ensures false positive rates are consistent across demographic groups.
->
-> **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=119)** For traditional ML models, this metric ensures false positive rates are consistent across demographic groups.
->
-> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=126)** For generative AI models, this metric is an indicator of unintended stereotypes.
->
-> **[2:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=134)** Again, these guidelines are not set in stone, but for traditional ML, false positive rate is a standard fairness threshold, and these can vary by use case, but FPR should generally be less than 5% to be within the acceptability range.
->
-> **[2:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=154)** Then for generative AI systems, stereotypical content rate is a metric used to measure how often a generative AI model produces content that reinforces stereotypes about specific groups.
->
-> **[2:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=167)** This could involve gender, race, age, occupation, or crucial depictions that are biased or misrepresentative.
->
-> **[2:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=174)** SCR should be less than 3% in most cases.
->
-> **[3:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=180)** Next, there's the impact scope.
->
-> **[3:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=182)** Bias in traditional ML affects [[Decision-Making]], whereas bias and generative AI influences user perception and engagement.
->
-> **[3:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=191)** Lastly, quantification methods.
->
-> **[3:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=194)** Traditional ML uses decision-based metrics while generative AI relies on survey and behavioral feedback to assess bias.
->
-> **[3:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=203)** Now for your challenge, I want you to think about how you can apply this framework to your current projects.
->
-> **[3:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=209)** Which bias metrics are most relevant?
->
-> **[3:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=212)** How will you monitor for emerging biases?
->
-> **[3:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=216)** And what safeguards will you implement?
->
-> **[3:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=219)** Again, these are just guidelines, of course, and the specific thresholds might vary depending upon your application, but they give you a starting point for evaluating your AI system's fairness.
->
-> **[3:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=229)** By using this framework, you can systematically assess and mitigate bias in your AI systems to ensure they're fair, reliable, and ethical.
->
-> **[3:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=237)** In the next video, we'll talk about protecting user [[Privacy]].
+> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=187)** influences user perception and engagement. Lastly, quantification methods. Traditional ML uses decision-based metrics while generative AI relies on survey and behavioral feedback to assess bias. Now for your challenge, I want you to think about how you can apply this framework to your current projects. Which bias metrics are most relevant? How will you monitor for emerging biases? And what safeguards will you implement? Again, these are just guidelines, of course, and the specific thresholds might vary depending upon your application, but they give you a starting point for evaluating your AI system's fairness. By using this framework, you can systematically assess and mitigate bias in your AI systems to ensure they're fair, reliable, and ethical. In the next video, we'll talk about protecting user [[Privacy]].
 
 > [!info]- Semantic Content
 >
@@ -1320,97 +346,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=0)** - [Instructor] We've talked about bias in AI systems, but there's another fundamental challenge that's reshaping how we build AI [[Microsoft Products|products]], [[Privacy]].
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=0)** - [Instructor] We've talked about bias in AI systems, but there's another fundamental challenge that's reshaping how we build AI [[Microsoft Products|products]], [[Privacy]]. Not just basic data protection, but actually building AI systems that can learn and improve while keeping sensitive information truly private. Let's look at this by way of an example. Imagine a major healthcare AI project. The team had built this incredibly sophisticated disease prediction model, trained on millions of patient records. The accuracy was impressive, over 90% in early tests. But here's the twist. They discovered that their model was accidentally memorizing specific patient details. In such a case, someone with the right technical knowledge could potentially extract sensitive medical information about individuals from the model itself. This example goes to show just why privacy-preserving AI is an essential non-negotiable. So, how are the leading AI teams doing this? Federated learning is a decentralized way to train AI. Instead of putting all of your data in one place, the data stays spread out across different devices or servers. Each one trains a local model on its own data, and only the model updates and not the data itself are shared and combined to create a better global model. Consider the problem of predicting patient readmission risk across different hospitals. You wouldn't want to centralize all of those patient records. With federated learning, each hospital trains its own model locally
 >
-> **[0:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=8)** Not just basic data protection, but actually building AI systems that can learn and improve while keeping sensitive information truly private.
+> **[1:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=93)** and shares only encrypted updates with the central model. Each hospital contributes to the AI's intelligence without exposing individual patient data. Secondly, we're witnessing a fundamental shift in secure computation through homomorphic encryption, a special type of encryption that lets you analyze data while it remains encrypted. This approach preserves privacy throughout the process. Consider the example of a company doing fraud detection on internal transactions. With fully homomorphic encryption, they can run their machine learning models directly on the encrypted transaction data. The transaction details remain encrypted end to end, only the final fraud score is decrypted. Now, beyond these architectural approaches, safeguarding personally identifiable information is another crucial aspect of privacy-preserving AI. This involves identifying and protecting sensitive information within the data itself, such as names, addresses, phone numbers, and even medical information. There are various tools and techniques available to achieve this. One example is Presidio Analyzer, an open source library that helps identify and redact sensitive information in text data. By incorporating Presidio into your AI pipeline, you can automatically scan text data, detect PPI, and anonymize it before it's used to train your models
 >
-> **[0:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=17)** Let's look at this by way of an example.
+> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=187)** or generate outputs. Other techniques include differential privacy, which adds noise to the data to make it difficult to identify individuals, while also preserving overall statistical properties. Another approach is de-identification, which involves removing or transforming identifying information from the data before it's used for AI training or analysis. In my opinion, the key is to select the right combinations of tools and techniques that best suit your specific needs and data characteristics. The screen grab here shows a list of tools that you can consider using when adding [[Privacy Protection]], but the thing that really matters here is this. It's not enough to just bolt on privacy features after you've built your system. Privacy has to be part of your core architecture from day one. There are many benefits of privacy-preserving AI, such as enhanced access to sensitive data sources, increased collaboration opportunities, improved trust and compliance, as well as broader application possibilities. Successful teams follow a clear pattern. They start by asking, "What's the minimum amount of data we actually need to solve this problem?" Often it's far less than you might think. Then they build in privacy protections at every layer from how they collect data to how they train models to how they make predictions. Before we wrap up, I want to address something I hear a lot.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=19)** Imagine a major healthcare AI project.
->
-> **[0:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=22)** The team had built this incredibly sophisticated disease prediction model, trained on millions of patient records.
->
-> **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=28)** The accuracy was impressive, over 90% in early tests.
->
-> **[0:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=34)** But here's the twist.
->
-> **[0:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=35)** They discovered that their model was accidentally memorizing specific patient details.
->
-> **[0:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=41)** In such a case, someone with the right technical knowledge could potentially extract sensitive medical information about individuals from the model itself.
->
-> **[0:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=49)** This example goes to show just why privacy-preserving AI is an essential non-negotiable.
->
-> **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=56)** So, how are the leading AI teams doing this?
->
-> **[0:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=59)** Federated learning is a decentralized way to train AI.
->
-> **[1:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=63)** Instead of putting all of your data in one place, the data stays spread out across different devices or servers.
->
-> **[1:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=70)** Each one trains a local model on its own data, and only the model updates and not the data itself are shared and combined to create a better global model.
->
-> **[1:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=81)** Consider the problem of predicting patient readmission risk across different hospitals.
->
-> **[1:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=86)** You wouldn't want to centralize all of those patient records.
->
-> **[1:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=90)** With federated learning, each hospital trains its own model locally and shares only encrypted updates with the central model.
->
-> **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=97)** Each hospital contributes to the AI's intelligence without exposing individual patient data.
->
-> **[1:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=105)** Secondly, we're witnessing a fundamental shift in secure computation through homomorphic encryption, a special type of encryption that lets you analyze data while it remains encrypted.
->
-> **[1:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=118)** This approach preserves privacy throughout the process.
->
-> **[2:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=122)** Consider the example of a company doing fraud detection on internal transactions.
->
-> **[2:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=128)** With fully homomorphic encryption, they can run their machine learning models directly on the encrypted transaction data.
->
-> **[2:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=136)** The transaction details remain encrypted end to end, only the final fraud score is decrypted.
->
-> **[2:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=143)** Now, beyond these architectural approaches, safeguarding personally identifiable information is another crucial aspect of privacy-preserving AI.
->
-> **[2:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=153)** This involves identifying and protecting sensitive information within the data itself, such as names, addresses, phone numbers, and even medical information.
->
-> **[2:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=164)** There are various tools and techniques available to achieve this.
->
-> **[2:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=168)** One example is Presidio Analyzer, an open source library that helps identify and redact sensitive information in text data.
->
-> **[2:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=177)** By incorporating Presidio into your AI pipeline, you can automatically scan text data, detect PPI, and anonymize it before it's used to train your models or generate outputs.
->
-> **[3:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=190)** Other techniques include differential privacy, which adds noise to the data to make it difficult to identify individuals, while also preserving overall statistical properties.
->
-> **[3:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=202)** Another approach is de-identification, which involves removing or transforming identifying information from the data before it's used for AI training or analysis.
->
-> **[3:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=213)** In my opinion, the key is to select the right combinations of tools and techniques that best suit your specific needs and data characteristics.
->
-> **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=222)** The screen grab here shows a list of tools that you can consider using when adding [[Privacy Protection]], but the thing that really matters here is this.
->
-> **[3:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=231)** It's not enough to just bolt on privacy features after you've built your system.
->
-> **[3:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=238)** Privacy has to be part of your core architecture from day one.
->
-> **[4:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=242)** There are many benefits of privacy-preserving AI, such as enhanced access to sensitive data sources, increased collaboration opportunities, improved trust and compliance, as well as broader application possibilities.
->
-> **[4:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=258)** Successful teams follow a clear pattern.
->
-> **[4:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=261)** They start by asking, "What's the minimum amount of data we actually need to solve this problem?"
->
-> **[4:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=267)** Often it's far less than you might think.
->
-> **[4:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=270)** Then they build in privacy protections at every layer from how they collect data to how they train models to how they make predictions.
->
-> **[4:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=279)** Before we wrap up, I want to address something I hear a lot.
->
-> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=283)** Won't all this privacy protection make our AI less effective?
->
-> **[4:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=288)** The evidence shows otherwise.
->
-> **[4:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=290)** Companies that have embraced privacy-preserving AI are often finding that they can do more, not less.
->
-> **[4:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=297)** That's because they're able to access data sources that were previously off limits due to privacy concerns.
->
-> **[5:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=304)** Think about your own AI projects.
->
-> **[5:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=307)** Are you building privacy in from the ground up or are you treating it as an afterthought?
+> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=283)** Won't all this privacy protection make our AI less effective? The evidence shows otherwise. Companies that have embraced privacy-preserving AI are often finding that they can do more, not less. That's because they're able to access data sources that were previously off limits due to privacy concerns. Think about your own AI projects. Are you building privacy in from the ground up or are you treating it as an afterthought?
 
 > [!info]- Semantic Content
 >
@@ -1427,105 +369,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=0)** - [Instructor] So far we covered how to build a data procurement strategy, now let's explore a specific procurement option that's become increasingly important, open data platforms.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=0)** - [Instructor] So far we covered how to build a data procurement strategy, now let's explore a specific procurement option that's become increasingly important, open data platforms. These platforms can dramatically reduce your data costs, but only if you use them wisely. Let's take a look at how to go about doing that. When you're working on an AI project, sourcing data doesn't always mean starting from scratch. Open data platforms provide an incredible opportunity to access high quality data sets that are ready to use. These platforms can save you time, reduce costs, and help you focus on building your model instead of spending weeks or months collecting and cleaning data. One of the biggest advantages of open data platforms is that they provide more than just raw data. Platforms like [[Google]] Dataset Search include [[Metadata]], information about the data, such as what it contains, how it was collected, and the licensing terms. This helps you quickly decide if a dataset fits your project's needs without wasting time digging through irrelevant options. Let's consider an example. Say you're developing a [[Financial Forecasting]] tool. Instead of manually compiling stock prices from multiple sources, you can turn to platforms like Kaggle or [Data.gov](https://Data.gov), which can provide you pre-validated datasets that are ready to go. To get the most out of open data platforms, though, you need to have a plan.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=12)** These platforms can dramatically reduce your data costs, but only if you use them wisely.
+> **[1:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=93)** Here's three steps to guide your approach. Step one, set up a validation process. Before using any dataset, you need to check if it's suitable for your project. Let's say you found a public dataset that includes daily temperature readings from weather stations over the past five years. Your validation process could include, checking for missing values. Are there any days with no temperature readings? If there are gaps, you'll need to decide whether to fill them using averages or remove incomplete rows. You could check for consistent formatting. Is the temperature record in Celsius throughout the dataset or does it mix Celsius with Fahrenheit? If there's inconsistencies, you'll need to standardize the format. Also, you could check for alignment with goals. Does the dataset cover your target areas, or are the weather stations located in regions that are irrelevant to your project? But automating this process with scripts, you could quickly identify issues like missing data or inconsistent units, in the process, saving yourself a lot of time. Step two is understand licensing terms. Now that you've confirmed the dataset is valid, you need to double check that you can use it legally. Suppose this weather data comes from a government platform. Licensing terms might specify one of the following. It's free for research, meaning you can use it for educational purposes, but not for commercial apps,
 >
-> **[0:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=19)** Let's take a look at how to go about doing that.
+> **[3:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=185)** like a paid weather [[Forecasting]] tool. Attribution is required, meaning you need to mention the data source in any published work or application, or geographic restrictions. Here, the data might be limited to use within certain countries depending on where it was collected. By reviewing these terms, you avoid potential legal issues later on. Step three, track dataset versions. Data often changes over time. Let's say the weather dataset is updated monthly with new readings. Using a [[Version Control]] system, you can track changes by saving the original dataset as version one, adding new data each month as separate versions, like version two, version three, and so on, and also keeping notes on what was added or changed in each version. This way, if your model produces unexpected results, you can go back to an earlier version to identify whether the issue was caused by a data update. Before you commit to any open data source, run through three essential questions. Does this data meet your quality standard? Can we maintain it within our planned budget? Will it integrate smoothly with our existing systems? Now, for something practical. Before our next video, try this exercise. Pick an open data set in your industry, run it through the evaluation process I've discussed, look at quality, costs, and licensing.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=21)** When you're working on an AI project, sourcing data doesn't always mean starting from scratch.
->
-> **[0:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=27)** Open data platforms provide an incredible opportunity to access high quality data sets that are ready to use.
->
-> **[0:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=34)** These platforms can save you time, reduce costs, and help you focus on building your model instead of spending weeks or months collecting and cleaning data.
->
-> **[0:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=44)** One of the biggest advantages of open data platforms is that they provide more than just raw data.
->
-> **[0:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=50)** Platforms like [[Google]] Dataset Search include [[Metadata]], information about the data, such as what it contains, how it was collected, and the licensing terms.
->
-> **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=61)** This helps you quickly decide if a dataset fits your project's needs without wasting time digging through irrelevant options.
->
-> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=69)** Let's consider an example.
->
-> **[1:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=72)** Say you're developing a [[Financial Forecasting]] tool.
->
-> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=75)** Instead of manually compiling stock prices from multiple sources, you can turn to platforms like Kaggle or [Data.gov](https://Data.gov), which can provide you pre-validated datasets that are ready to go.
->
-> **[1:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=88)** To get the most out of open data platforms, though, you need to have a plan.
->
-> **[1:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=93)** Here's three steps to guide your approach.
->
-> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=96)** Step one, set up a validation process.
->
-> **[1:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=99)** Before using any dataset, you need to check if it's suitable for your project.
->
-> **[1:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=104)** Let's say you found a public dataset that includes daily temperature readings from weather stations over the past five years.
->
-> **[1:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=111)** Your validation process could include, checking for missing values.
->
-> **[1:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=116)** Are there any days with no temperature readings?
->
-> **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=119)** If there are gaps, you'll need to decide whether to fill them using averages or remove incomplete rows.
->
-> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=126)** You could check for consistent formatting.
->
-> **[2:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=129)** Is the temperature record in Celsius throughout the dataset or does it mix Celsius with Fahrenheit?
->
-> **[2:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=135)** If there's inconsistencies, you'll need to standardize the format.
->
-> **[2:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=139)** Also, you could check for alignment with goals.
->
-> **[2:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=142)** Does the dataset cover your target areas, or are the weather stations located in regions that are irrelevant to your project?
->
-> **[2:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=151)** But automating this process with scripts, you could quickly identify issues like missing data or inconsistent units, in the process, saving yourself a lot of time.
->
-> **[2:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=162)** Step two is understand licensing terms.
->
-> **[2:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=165)** Now that you've confirmed the dataset is valid, you need to double check that you can use it legally.
->
-> **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=171)** Suppose this weather data comes from a government platform.
->
-> **[2:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=175)** Licensing terms might specify one of the following.
->
-> **[2:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=179)** It's free for research, meaning you can use it for educational purposes, but not for commercial apps, like a paid weather [[Forecasting]] tool.
->
-> **[3:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=188)** Attribution is required, meaning you need to mention the data source in any published work or application, or geographic restrictions.
->
-> **[3:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=197)** Here, the data might be limited to use within certain countries depending on where it was collected.
->
-> **[3:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=204)** By reviewing these terms, you avoid potential legal issues later on.
->
-> **[3:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=209)** Step three, track dataset versions.
->
-> **[3:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=212)** Data often changes over time.
->
-> **[3:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=214)** Let's say the weather dataset is updated monthly with new readings.
->
-> **[3:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=219)** Using a [[Version Control]] system, you can track changes by saving the original dataset as version one, adding new data each month as separate versions, like version two, version three, and so on, and also keeping notes on what was added or changed in each version.
->
-> **[3:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=237)** This way, if your model produces unexpected results, you can go back to an earlier version to identify whether the issue was caused by a data update.
->
-> **[4:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=246)** Before you commit to any open data source, run through three essential questions.
->
-> **[4:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=253)** Does this data meet your quality standard?
->
-> **[4:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=257)** Can we maintain it within our planned budget?
->
-> **[4:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=260)** Will it integrate smoothly with our existing systems?
->
-> **[4:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=264)** Now, for something practical.
->
-> **[4:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=267)** Before our next video, try this exercise.
->
-> **[4:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=270)** Pick an open data set in your industry, run it through the evaluation process I've discussed, look at quality, costs, and licensing.
->
-> **[4:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=279)** What challenges do you spot? What opportunities?
->
-> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=283)** This exercise will often reveal insights about both the data and your team's readiness to use it.
->
-> **[4:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=289)** Remember, open data can transform your projects, but only if you approach it strategically.
->
-> **[4:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=296)** The key is matching the right data source to your specific needs and capabilities.
+> **[4:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=279)** What challenges do you spot? What opportunities? This exercise will often reveal insights about both the data and your team's readiness to use it. Remember, open data can transform your projects, but only if you approach it strategically. The key is matching the right data source to your specific needs and capabilities.
 
 > [!info]- Semantic Content
 >
@@ -1541,159 +391,15 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=0)** - [Instructor] In this video, I'll be talking about leveraging APIs for sourcing data for AI [[Product Development]].
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=0)** - [Instructor] In this video, I'll be talking about leveraging APIs for sourcing data for AI [[Product Development]]. While open data platforms offer valuable resources, many companies need more dynamic [[Real-Time]] data access. Think of APIs as direct pipelines to data. Instead of downloading static datasets, you get fresh information exactly when you need it. But like any business decision, choosing the right API requires careful evaluation. The market offers three main ways to access data through APIs. First, standard APIs. These are for simple, regular data requests. Think of a retail store getting daily sales figures or a news app fetching hourly headlines. Next, flexible query APIs. These let you request the exact data you need. They're useful when different users need different information, like in a financial dashboard with varying detail levels. Lastly, there are real-time APIs. These provide constant data updates and are essential when every second counts, like, for example, when you're tracking [[Cryptocurrency]] price or airline ticket prices. Let's see how these are being used across different sectors. In finance, for instance, platforms like Alpha Vantage offer real-time stock data and fundamental market analysis, while Bloomberg's API provides in-depth financial coverage
 >
-> **[0:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=7)** While open data platforms offer valuable resources, many companies need more dynamic [[Real-Time]] data access.
+> **[1:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=94)** from global indices to economic reports. In social sentiment and trends, X and Reddit APIs allow you to analyze trends and sentiments with filtering options to target specific hashtags, subreddits, or topics of interest. And in environmental data, tools like OpenWeatherMap and WeatherAPI provide everything from current conditions to multi-day forecasts. This is helpful in industries like agriculture, logistics, and renewable energy where data-driven decisions are a non-negotiable. Before moving any API into production, you need to understand what good performance means for your business. You need to assess reliability. Look at how often is the API actually working. AIM for at least 99.9% uptime, which means less than a hour of downtime per month. You need to look at speed and how fast does the API respond. For time sensitive tasks, like trading, you'll need millisecond responses. Less urgent needs can tolerate slower speeds, though. And also data freshness, look at how up-to-date the data is. Real-time data is crucial for things like market prices, while other use cases might only need daily or weekly updates. When choosing between APIs,
 >
-> **[0:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=17)** Think of APIs as direct pipelines to data.
+> **[3:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=186)** you want to look at [[Performance Metrics]], risk factors, and cost structure. For performance metrics, look into uptime guarantees where you look for APIs with strong service-level agreements that guarantee high uptime. Historical performance data can tell you if the API is reliable, does the provider have a status page? Response times, how quickly does the API app respond under different loads? Does the response time spike when there's high demand? You might need to do some [[Load Testing]] here. And also data freshness, make sure the API delivers data as up-to-date as your application needs it to be. With respect to risk factors, look at provider stability. Is the provider a trusted name with a solid track record or a new player that might be of more risk? Do your research, check their credentials. Also, look at API versioning. How does the provider handle updates? Do they offer backward compatibility or will you need to rewrite your integration code with every new version? You don't want surprises here. Also, data accuracy, how does the provider ensure the data is correct? Do they cross-reference sources? Do they provide error margins? As far as cost structure, look at pricing models. Many APIs charge per request, but you should also watch for volume thresholds,
 >
-> **[0:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=21)** Instead of downloading static datasets, you get fresh information exactly when you need it.
+> **[4:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=281)** these can significantly impact cost of your usage scales. There's burst pricing, some providers charge extras for requests beyond a certain rate, so it's essential to plan for unexpected spikes in usage. And lastly, long-term costs. If you plan to use the API in production over months or years, consider the cumulative cost and whether they fit your budget. All right, I hope you still remember the STAR framework we've covered earlier. Let's apply it to your next API [[Decision-Making]] process. Take 15 minutes to evaluate a data need in your organization. Survey, look at how similar companies handled this data in the past. Are they using specific APIs? Have they built internal sources? What problems have occurred? Take stock, assess your current capabilities. What's your monthly data volume? What response times do you need? What's your budget for data services? How does your team handle API integrations. Assess, identify gaps between your needs and available API solutions. Do performance levels match your requirements? Can you handle the technical integration? Does the pricing align with your budget? Where might you need backup solutions? And then, lastly, recommend, draft an initial plan. That plan should include answers to questions like which APIs could meet your needs?
 >
-> **[0:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=26)** But like any business decision, choosing the right API requires careful evaluation.
->
-> **[0:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=33)** The market offers three main ways to access data through APIs.
->
-> **[0:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=37)** First, standard APIs.
->
-> **[0:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=40)** These are for simple, regular data requests.
->
-> **[0:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=43)** Think of a retail store getting daily sales figures or a news app fetching hourly headlines.
->
-> **[0:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=50)** Next, flexible query APIs.
->
-> **[0:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=52)** These let you request the exact data you need.
->
-> **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=56)** They're useful when different users need different information, like in a financial dashboard with varying detail levels.
->
-> **[1:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=64)** Lastly, there are real-time APIs.
->
-> **[1:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=66)** These provide constant data updates and are essential when every second counts, like, for example, when you're tracking [[Cryptocurrency]] price or airline ticket prices.
->
-> **[1:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=79)** Let's see how these are being used across different sectors.
->
-> **[1:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=82)** In finance, for instance, platforms like Alpha Vantage offer real-time stock data and fundamental market analysis, while Bloomberg's API provides in-depth financial coverage from global indices to economic reports.
->
-> **[1:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=98)** In social sentiment and trends, X and Reddit APIs allow you to analyze trends and sentiments with filtering options to target specific hashtags, subreddits, or topics of interest.
->
-> **[1:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=113)** And in environmental data, tools like OpenWeatherMap and WeatherAPI provide everything from current conditions to multi-day forecasts.
->
-> **[2:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=124)** This is helpful in industries like agriculture, logistics, and renewable energy where data-driven decisions are a non-negotiable.
->
-> **[2:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=133)** Before moving any API into production, you need to understand what good performance means for your business.
->
-> **[2:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=140)** You need to assess reliability.
->
-> **[2:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=143)** Look at how often is the API actually working.
->
-> **[2:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=147)** AIM for at least 99.9% uptime, which means less than a hour of downtime per month.
->
-> **[2:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=157)** You need to look at speed and how fast does the API respond.
->
-> **[2:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=162)** For time sensitive tasks, like trading, you'll need millisecond responses.
->
-> **[2:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=167)** Less urgent needs can tolerate slower speeds, though.
->
-> **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=171)** And also data freshness, look at how up-to-date the data is.
->
-> **[2:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=176)** Real-time data is crucial for things like market prices, while other use cases might only need daily or weekly updates.
->
-> **[3:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=184)** When choosing between APIs, you want to look at [[Performance Metrics]], risk factors, and cost structure.
->
-> **[3:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=192)** For performance metrics, look into uptime guarantees where you look for APIs with strong service-level agreements that guarantee high uptime.
->
-> **[3:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=203)** Historical performance data can tell you if the API is reliable, does the provider have a status page?
->
-> **[3:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=211)** Response times, how quickly does the API app respond under different loads?
->
-> **[3:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=216)** Does the response time spike when there's high demand?
->
-> **[3:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=220)** You might need to do some [[Load Testing]] here.
->
-> **[3:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=223)** And also data freshness, make sure the API delivers data as up-to-date as your application needs it to be.
->
-> **[3:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=232)** With respect to risk factors, look at provider stability.
->
-> **[3:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=235)** Is the provider a trusted name with a solid track record or a new player that might be of more risk?
->
-> **[4:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=243)** Do your research, check their credentials.
->
-> **[4:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=246)** Also, look at API versioning.
->
-> **[4:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=249)** How does the provider handle updates?
->
-> **[4:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=251)** Do they offer backward compatibility or will you need to rewrite your integration code with every new version?
->
-> **[4:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=258)** You don't want surprises here.
->
-> **[4:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=261)** Also, data accuracy, how does the provider ensure the data is correct?
->
-> **[4:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=266)** Do they cross-reference sources?
->
-> **[4:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=268)** Do they provide error margins?
->
-> **[4:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=271)** As far as cost structure, look at pricing models.
->
-> **[4:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=275)** Many APIs charge per request, but you should also watch for volume thresholds, these can significantly impact cost of your usage scales.
->
-> **[4:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=285)** There's burst pricing, some providers charge extras for requests beyond a certain rate, so it's essential to plan for unexpected spikes in usage.
->
-> **[4:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=294)** And lastly, long-term costs.
->
-> **[4:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=296)** If you plan to use the API in production over months or years, consider the cumulative cost and whether they fit your budget.
->
-> **[5:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=304)** All right, I hope you still remember the STAR framework we've covered earlier.
->
-> **[5:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=309)** Let's apply it to your next API [[Decision-Making]] process.
->
-> **[5:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=315)** Take 15 minutes to evaluate a data need in your organization.
->
-> **[5:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=320)** Survey, look at how similar companies handled this data in the past.
->
-> **[5:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=325)** Are they using specific APIs?
->
-> **[5:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=327)** Have they built internal sources?
->
-> **[5:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=330)** What problems have occurred?
->
-> **[5:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=331)** Take stock, assess your current capabilities.
->
-> **[5:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=335)** What's your monthly data volume?
->
-> **[5:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=338)** What response times do you need?
->
-> **[5:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=340)** What's your budget for data services?
->
-> **[5:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=342)** How does your team handle API integrations.
->
-> **[5:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=346)** Assess, identify gaps between your needs and available API solutions.
->
-> **[5:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=351)** Do performance levels match your requirements?
->
-> **[5:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=354)** Can you handle the technical integration?
->
-> **[5:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=358)** Does the pricing align with your budget?
->
-> **[6:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=361)** Where might you need backup solutions?
->
-> **[6:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=364)** And then, lastly, recommend, draft an initial plan.
->
-> **[6:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=369)** That plan should include answers to questions like which APIs could meet your needs?
->
-> **[6:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=376)** What risks need mitigation?
->
-> **[6:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=378)** How would you test performance?
->
-> **[6:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=381)** And what's your backup strategy?
->
-> **[6:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=385)** This will give you a good starting point for making informed API decisions.
->
-> **[6:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=389)** But what happens when you need more than just what an API can offer?
->
-> **[6:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=394)** That's where the idea of strategic data partnerships comes in.
->
-> **[6:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=398)** Think of it as taking collaboration to the next level.
->
-> **[6:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=402)** We'll see that in the next video.
+> **[6:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=376)** What risks need mitigation? How would you test performance? And what's your backup strategy? This will give you a good starting point for making informed API decisions. But what happens when you need more than just what an API can offer? That's where the idea of strategic data partnerships comes in. Think of it as taking collaboration to the next level. We'll see that in the next video.
 
 > [!info]- Semantic Content
 >
@@ -1710,113 +416,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=0)** - [Instructor] In our previous video, we talked about APIs and how they're like these direct pipelines to the data you need.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=0)** - [Instructor] In our previous video, we talked about APIs and how they're like these direct pipelines to the data you need. While they are powerful tools, there are scenarios where a more collaborative approach is needed. This brings us to the topic of strategic data partnerships. These relationships are about creating mutual value through the exchange of data, expertise or resources. What sets these partnerships apart is their potential to offer unique insights and access to data that you simply can't get from other channels. Let's look at three real partnerships that transformed entire sectors. The Weather Company and IBM joined forces in 2015. IBM gained access to the world's largest weather dataset while the Weather Company received computing power to analyze it. This partnership now provides weather insights to industries from aviation to agriculture. Then there's the United Health Group and their collaboration with Optum Mayo Clinic and [[Google Cloud Platform (GCP)|Google Cloud]]. In 2019, they formed a partnership which demonstrated healthcare collaboration done right. Mayo Clinic keeps control of its patient data while using [[Google]] technology to analyze it. This has led to faster diagnosises while maintaining strict [[Privacy]] standards. Lastly, there's IBM and Salesforce, where in May of 2024, they announced an expanded partnership. The combination of IBM Watson X AI platform with Salesforce Einstein 1 platform.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=7)** While they are powerful tools, there are scenarios where a more collaborative approach is needed.
+> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=96)** IBM gains access to Salesforce's extensive CRM ecosystem to deploy its [[Generative AI]] models while Salesforce receives enterprise grade LLMs and zero copy [[Data Integration]] capabilities. So how do you build a successful data partnership? Strong partnerships begin with a clear understanding of the value they'll create for both sides. Here are the few key components to consider when structuring your collaboration. [[Data Sharing]] agreements. These agreements outline the exchange, usage and protection of data and partnerships. For this, you need clearly defined value creation metrics where both parties should agree on measurable outcomes, such as increased model accuracy or operational efficiency. You also want quantifiable benefits for each party. What will each partner gain? For example, one party might gain access to anonymized user behavior data while the other receives insights derived from advanced analytics. Then there's growth potential indicators. These ensure the partnership has room to expand as your project scales. And lastly, cost sharing efficiencies. You want to think about how you'll share the cost of [[Data Collection]], storage and processing so that the partnership is more sustainable. A solid legal foundation is also essential. This protects both parties and clarifies obligations. Here's what you need to prioritize. Explicit data usage rights.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=12)** This brings us to the topic of strategic data partnerships.
+> **[3:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=189)** Define how the shared data can be used. For example, is it limited to a specific AI project or can it be repurposed? [[Privacy Compliance]] requirements. See that the partnership adheres to regulations like GDPR and CCPA. This is particularly important if user data is involved. Security standards outline how data will be protected, including encryption protocols and access restrictions. And lastly, clear exit strategies, include terms for terminating the partnership, specifying how data will be handled after the agreement ends. Once the legal partnership is in place, focus on the operational side of the partnership. This is where the day-to-day success of the collaboration is determined. Consider things like [[Data Quality]] standards where you agree on specific metrics for data quality, such as completeness, accuracy, and consistency. Look at integration methods. Define how data will flow between systems, including any APIs or technical specifications required for seamless integration. Consider update frequencies. Establish how often the shared data will be updated, daily, weekly, or in real time depending on your use case. Look at maintenance protocols. Ensure both parties agree on responsibilities for maintaining [[Data Pipelines]] and fixing any technical issues. Also, consider [[Performance Metrics]]. Set up systems to monitor the partnership's effectiveness, such as tracking improvement in model performance or operational efficiency.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=17)** These relationships are about creating mutual value through the exchange of data, expertise or resources.
->
-> **[0:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=24)** What sets these partnerships apart is their potential to offer unique insights and access to data that you simply can't get from other channels.
->
-> **[0:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=32)** Let's look at three real partnerships that transformed entire sectors.
->
-> **[0:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=37)** The Weather Company and IBM joined forces in 2015.
->
-> **[0:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=41)** IBM gained access to the world's largest weather dataset while the Weather Company received computing power to analyze it.
->
-> **[0:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=49)** This partnership now provides weather insights to industries from aviation to agriculture.
->
-> **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=56)** Then there's the United Health Group and their collaboration with Optum Mayo Clinic and [[Google Cloud Platform (GCP)|Google Cloud]].
->
-> **[1:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=63)** In 2019, they formed a partnership which demonstrated healthcare collaboration done right.
->
-> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=69)** Mayo Clinic keeps control of its patient data while using [[Google]] technology to analyze it.
->
-> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=75)** This has led to faster diagnosises while maintaining strict [[Privacy]] standards.
->
-> **[1:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=81)** Lastly, there's IBM and Salesforce, where in May of 2024, they announced an expanded partnership.
->
-> **[1:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=89)** The combination of IBM Watson X AI platform with Salesforce Einstein 1 platform.
->
-> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=96)** IBM gains access to Salesforce's extensive CRM ecosystem to deploy its [[Generative AI]] models while Salesforce receives enterprise grade LLMs and zero copy [[Data Integration]] capabilities.
->
-> **[1:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=110)** So how do you build a successful data partnership?
->
-> **[1:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=114)** Strong partnerships begin with a clear understanding of the value they'll create for both sides.
->
-> **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=119)** Here are the few key components to consider when structuring your collaboration.
->
-> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=126)** [[Data Sharing]] agreements.
->
-> **[2:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=128)** These agreements outline the exchange, usage and protection of data and partnerships.
->
-> **[2:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=132)** For this, you need clearly defined value creation metrics where both parties should agree on measurable outcomes, such as increased model accuracy or operational efficiency.
->
-> **[2:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=143)** You also want quantifiable benefits for each party.
->
-> **[2:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=147)** What will each partner gain?
->
-> **[2:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=148)** For example, one party might gain access to anonymized user behavior data while the other receives insights derived from advanced analytics.
->
-> **[2:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=158)** Then there's growth potential indicators.
->
-> **[2:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=160)** These ensure the partnership has room to expand as your project scales.
->
-> **[2:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=165)** And lastly, cost sharing efficiencies.
->
-> **[2:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=168)** You want to think about how you'll share the cost of [[Data Collection]], storage and processing so that the partnership is more sustainable.
->
-> **[2:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=178)** A solid legal foundation is also essential.
->
-> **[3:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=181)** This protects both parties and clarifies obligations.
->
-> **[3:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=184)** Here's what you need to prioritize.
->
-> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=187)** Explicit data usage rights.
->
-> **[3:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=189)** Define how the shared data can be used.
->
-> **[3:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=191)** For example, is it limited to a specific AI project or can it be repurposed?
->
-> **[3:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=197)** [[Privacy Compliance]] requirements.
->
-> **[3:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=200)** See that the partnership adheres to regulations like GDPR and CCPA.
->
-> **[3:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=205)** This is particularly important if user data is involved.
->
-> **[3:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=208)** Security standards outline how data will be protected, including encryption protocols and access restrictions.
->
-> **[3:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=215)** And lastly, clear exit strategies, include terms for terminating the partnership, specifying how data will be handled after the agreement ends.
->
-> **[3:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=224)** Once the legal partnership is in place, focus on the operational side of the partnership.
->
-> **[3:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=230)** This is where the day-to-day success of the collaboration is determined.
->
-> **[3:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=234)** Consider things like [[Data Quality]] standards where you agree on specific metrics for data quality, such as completeness, accuracy, and consistency.
->
-> **[4:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=244)** Look at integration methods.
->
-> **[4:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=246)** Define how data will flow between systems, including any APIs or technical specifications required for seamless integration.
->
-> **[4:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=254)** Consider update frequencies.
->
-> **[4:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=256)** Establish how often the shared data will be updated, daily, weekly, or in real time depending on your use case.
->
-> **[4:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=263)** Look at maintenance protocols.
->
-> **[4:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=265)** Ensure both parties agree on responsibilities for maintaining [[Data Pipelines]] and fixing any technical issues.
->
-> **[4:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=272)** Also, consider [[Performance Metrics]].
->
-> **[4:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=275)** Set up systems to monitor the partnership's effectiveness, such as tracking improvement in model performance or operational efficiency.
->
-> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=283)** So we just covered the essentials of building strong durable partnerships.
->
-> **[4:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=288)** Remember that partnerships like these can be game changers, but they often require quite a bit of planning and execution.
->
-> **[4:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=296)** In the next video, we'll look at how you can choose scalable storage solutions for your ML projects.
+> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=283)** So we just covered the essentials of building strong durable partnerships. Remember that partnerships like these can be game changers, but they often require quite a bit of planning and execution. In the next video, we'll look at how you can choose scalable storage solutions for your ML projects.
 
 > [!info]- Semantic Content
 >
@@ -1836,69 +442,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=0)** - [Instructor] In our last video, we talked about finding the right data and handling it responsibly, but there's a crucial aspect of AI development that often gets over overlooked, [[Data Storage]].
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=0)** - [Instructor] In our last video, we talked about finding the right data and handling it responsibly, but there's a crucial aspect of AI development that often gets over overlooked, [[Data Storage]]. Many teams get so focused on building a sophisticated AI model that they don't give enough thought to how that data will be stored and accessed. Let me illustrate with an example. Imagine a hospital that starts using AI to analyze medical images. Initially, they're processing 100 scans per day with their current storage system coping quite well, but as the AI proves its value, the number of scans increases dramatically. They're now processing thousands of scans every day. Suddenly their system can't keep up. Why? Well, because they didn't plan for this kind of data growth. This theoretical scenario brings to light an important point about data storage for AI. Capacity is just one factor among many. We must think about access speed, processing efficiency, and how to manage growth. Consider PayPal's fraud detection system. They need to analyze an immense volume of data in [[Real-Time]], over 1 million transactions every second. To achieve this, they rely on specialized Aerospike servers and data-centric Intel processors that are optimized for high-speed [[Data Processing]]. Here's how to translate these principles into a practical storage strategy. Start by understanding your data usage patterns.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=11)** Many teams get so focused on building a sophisticated AI model that they don't give enough thought to how that data will be stored and accessed.
->
-> **[0:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=21)** Let me illustrate with an example.
->
-> **[0:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=23)** Imagine a hospital that starts using AI to analyze medical images.
->
-> **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=28)** Initially, they're processing 100 scans per day with their current storage system coping quite well, but as the AI proves its value, the number of scans increases dramatically.
->
-> **[0:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=40)** They're now processing thousands of scans every day.
->
-> **[0:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=43)** Suddenly their system can't keep up. Why?
->
-> **[0:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=47)** Well, because they didn't plan for this kind of data growth.
->
-> **[0:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=51)** This theoretical scenario brings to light an important point about data storage for AI.
->
-> **[0:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=58)** Capacity is just one factor among many.
->
-> **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=61)** We must think about access speed, processing efficiency, and how to manage growth.
->
-> **[1:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=66)** Consider PayPal's fraud detection system.
->
-> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=69)** They need to analyze an immense volume of data in [[Real-Time]], over 1 million transactions every second.
->
-> **[1:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=77)** To achieve this, they rely on specialized Aerospike servers and data-centric Intel processors that are optimized for high-speed [[Data Processing]].
->
-> **[1:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=87)** Here's how to translate these principles into a practical storage strategy.
->
-> **[1:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=92)** Start by understanding your data usage patterns.
->
-> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=96)** The way you store your training data might be completely different from how you store the data needed for real-time predictions.
->
-> **[1:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=103)** You might even need a combination of different storage solutions.
->
-> **[1:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=107)** Then think about the physical setup.
->
-> **[1:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=110)** Where is your storage located in relation to your processing units?
->
-> **[1:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=114)** Keeping them close together minimizes delays.
->
-> **[1:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=117)** And don't forget about [[Version Control]].
->
-> **[2:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=120)** This helps you track changes in your data and makes it much easier to find and fix problems.
->
-> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=126)** Before you choose any storage solution, ask yourself, can it handle a tenfold increase in our data volume?
->
-> **[2:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=132)** How can we access the data we need?
->
-> **[2:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=136)** Can we easily scale our storage up or down as our needs change?
->
-> **[2:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=141)** And what will it cost us in the long run?
->
-> **[2:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=144)** Including things like maintenance and potential upgrades.
->
-> **[2:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=147)** Remember, choosing the cheapest storage option might seem like a good idea at first, but if it slows down the entire system, it will end up costing you more in the long run.
->
-> **[2:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=157)** These storage challenges become even more complex when we're dealing with [[Generative AI]].
->
-> **[2:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=162)** Next, I'll share a resource with you that goes into detail about how [[Cloud Computing]] is changing the game for storing and managing these massive systems.
->
-> **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=171)** See you there.
+> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=96)** The way you store your training data might be completely different from how you store the data needed for real-time predictions. You might even need a combination of different storage solutions. Then think about the physical setup. Where is your storage located in relation to your processing units? Keeping them close together minimizes delays. And don't forget about [[Version Control]]. This helps you track changes in your data and makes it much easier to find and fix problems. Before you choose any storage solution, ask yourself, can it handle a tenfold increase in our data volume? How can we access the data we need? Can we easily scale our storage up or down as our needs change? And what will it cost us in the long run? Including things like maintenance and potential upgrades. Remember, choosing the cheapest storage option might seem like a good idea at first, but if it slows down the entire system, it will end up costing you more in the long run. These storage challenges become even more complex when we're dealing with [[Generative AI]]. Next, I'll share a resource with you that goes into detail about how [[Cloud Computing]] is changing the game for storing and managing these massive systems. See you there.
 
 > [!info]- Semantic Content
 >
@@ -1914,93 +460,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=0)** - [Instructor] It's interesting that when we talk about improving machine learning performance, everyone seems to jump to model architecture and hyper parameters, but here's something that often gets overlooked.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=0)** - [Instructor] It's interesting that when we talk about improving machine learning performance, everyone seems to jump to model architecture and hyper parameters, but here's something that often gets overlooked. Storage optimization. I've seen firsthand how optimizing your storage can lead to significant performance gains. In fact, we've worked on projects where we achieve 30% faster training times just by making changes to the storage system. That's because these improvements have a ripple effect throughout your entire ML pipeline. Think about companies like Uber whose Michelangelo platform powers [[Real-Time]] predictions for things like ride pacing and estimated arrival times. To handle the massive amount of data involved in making these predictions accurately and quickly, they rely on a highly optimized storage architecture. They've centralized their machine learning features in a feature store, which allows for efficient data retrieval and parallel processing. This enables them to handle massive amounts of data with the minimal delays. So how can you apply these principles to your own ML projects? Granted, it's not always obvious where to start. That's why I'm recommending using the STAR framework to guide your storage optimization strategy. Remember those four phases, survey, take stock, assess, and recommend. Let's see how they apply here. Looking for a stat survey. Begin by researching how other companies in your industry are optimizing
 >
-> **[0:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=12)** Storage optimization.
+> **[1:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=94)** their storage for machine learning. What challenges have they faced? What solutions have they implemented? Look for case studies, blog posts, and technical talks that provide insights into their approaches. Pay close attention to their handling of different data access patterns. Your ML system needs different types of data at different speeds. Hot data, like recent transactions or the latest social media posts, need lightning fast access. Historical data, which you might use for initial model training, but not for realtime predictions can live in slower, more cost-effective storage. Pinterest recommendation system uses this tiered approach, achieving 40% faster training times by strategically placing their data. Next, take stock. Take a close look at your current storage architecture. What type of storage are you using? Where is it located relative to your compute resources? What are its strengths and weaknesses? What are your data access patterns and performance requirements? Answering these questions will give you a clear picture of your current situation. Consider whether your system is designed for parallel processing. Modern ML models often need to access multiple data points simultaneously. Your storage architecture needs to support this kind of concurrent access. Think of it like having multiple doors to a library instead of just one. Think about data locality during this assessment. The closer, frequently accessed data is to compute resources
 >
-> **[0:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=14)** I've seen firsthand how optimizing your storage can lead to significant performance gains.
->
-> **[0:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=19)** In fact, we've worked on projects where we achieve 30% faster training times just by making changes to the storage system.
->
-> **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=28)** That's because these improvements have a ripple effect throughout your entire ML pipeline.
->
-> **[0:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=34)** Think about companies like Uber whose Michelangelo platform powers [[Real-Time]] predictions for things like ride pacing and estimated arrival times.
->
-> **[0:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=45)** To handle the massive amount of data involved in making these predictions accurately and quickly, they rely on a highly optimized storage architecture.
->
-> **[0:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=55)** They've centralized their machine learning features in a feature store, which allows for efficient data retrieval and parallel processing.
->
-> **[1:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=63)** This enables them to handle massive amounts of data with the minimal delays.
->
-> **[1:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=68)** So how can you apply these principles to your own ML projects?
->
-> **[1:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=72)** Granted, it's not always obvious where to start.
->
-> **[1:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=76)** That's why I'm recommending using the STAR framework to guide your storage optimization strategy.
->
-> **[1:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=81)** Remember those four phases, survey, take stock, assess, and recommend.
->
-> **[1:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=86)** Let's see how they apply here.
->
-> **[1:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=89)** Looking for a stat survey.
->
-> **[1:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=90)** Begin by researching how other companies in your industry are optimizing their storage for machine learning.
->
-> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=96)** What challenges have they faced?
->
-> **[1:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=98)** What solutions have they implemented?
->
-> **[1:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=100)** Look for case studies, blog posts, and technical talks that provide insights into their approaches.
->
-> **[1:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=106)** Pay close attention to their handling of different data access patterns.
->
-> **[1:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=111)** Your ML system needs different types of data at different speeds.
->
-> **[1:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=115)** Hot data, like recent transactions or the latest social media posts, need lightning fast access.
->
-> **[2:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=122)** Historical data, which you might use for initial model training, but not for realtime predictions can live in slower, more cost-effective storage.
->
-> **[2:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=130)** Pinterest recommendation system uses this tiered approach, achieving 40% faster training times by strategically placing their data.
->
-> **[2:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=140)** Next, take stock.
->
-> **[2:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=142)** Take a close look at your current storage architecture.
->
-> **[2:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=145)** What type of storage are you using?
->
-> **[2:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=147)** Where is it located relative to your compute resources?
->
-> **[2:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=152)** What are its strengths and weaknesses?
->
-> **[2:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=154)** What are your data access patterns and performance requirements?
->
-> **[2:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=158)** Answering these questions will give you a clear picture of your current situation.
->
-> **[2:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=163)** Consider whether your system is designed for parallel processing.
->
-> **[2:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=167)** Modern ML models often need to access multiple data points simultaneously.
->
-> **[2:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=172)** Your storage architecture needs to support this kind of concurrent access.
->
-> **[2:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=177)** Think of it like having multiple doors to a library instead of just one.
->
-> **[3:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=182)** Think about data locality during this assessment.
->
-> **[3:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=185)** The closer, frequently accessed data is to compute resources where that data is being processed, the faster your system will run.
->
-> **[3:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=194)** Now, develop a plan for optimizing your storage based on your assessment.
->
-> **[3:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=199)** This might involve implementing a tiered storage approach where you store frequently access data on faster, higher performing, more storage, and less frequently used data on slower, more cost-effective storage.
->
-> **[3:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=211)** You might also consider improving data locality by moving your storage closer to your compute resources or by enhancing parallel processing capabilities to allow for faster data access.
->
-> **[3:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=224)** By following the STAR framework, you can take a structured and strategic approach to storage optimization.
->
-> **[3:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=230)** This sets a strong foundation for your ML system to perform at its best.
->
-> **[3:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=235)** Before we move on to discussing real-time processing and [[Data Storage]] for [[Generative AI]] in our next video, take some time to think about your own ML system.
->
-> **[4:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=244)** Where could you apply the STAR framework to optimize your storage and boost your model's performance?
+> **[3:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=189)** where that data is being processed, the faster your system will run. Now, develop a plan for optimizing your storage based on your assessment. This might involve implementing a tiered storage approach where you store frequently access data on faster, higher performing, more storage, and less frequently used data on slower, more cost-effective storage. You might also consider improving data locality by moving your storage closer to your compute resources or by enhancing parallel processing capabilities to allow for faster data access. By following the STAR framework, you can take a structured and strategic approach to storage optimization. This sets a strong foundation for your ML system to perform at its best. Before we move on to discussing real-time processing and [[Data Storage]] for [[Generative AI]] in our next video, take some time to think about your own ML system. Where could you apply the STAR framework to optimize your storage and boost your model's performance?
 
 > [!info]- Semantic Content
 >
@@ -2014,97 +478,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=0)** - [Instructor] We've spent some time discussing how to build high-performance storage for your AI [[Microsoft Products|products]].
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=0)** - [Instructor] We've spent some time discussing how to build high-performance storage for your AI [[Microsoft Products|products]]. Now, let's shift our focus to an equally important aspect, keeping that data safe. After all, a fast AI system is useless if it puts user data at risk. [[Data Security]] is more than just protecting those valuable assets. It's about maintaining the trust of your users and meeting your legal obligations. In my years of working with AI products, I've seen how a seemingly small security oversight can have major consequences. Let's look at what truly matters to secure AI systems and ensure compliance. Effective data protection involves several layers. Encryption is a critical foundation. It protects data both when it's stored and when it's being transmitted. Strong encryption protocols make your data unreadable to anyone who shouldn't have access, thus protecting it from prying eyes. Access controls and authentication add another layer of defense. Carefully manage who can see and interact with your data and what they're allowed to do with it. This means establishing clear roles and permissions, using strong passwords, implementing multifactor authentication, and potentially even using biometrics for an added layer of security. Regular security audits and robust data backup and recovery plans are essential.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=6)** Now, let's shift our focus to an equally important aspect, keeping that data safe.
+> **[1:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=93)** Think of audits as your regular health checkups. They help you identify vulnerabilities and ensure you are meeting compliance requirements. And backups, they're your safety net, ensuring business continuity in the case of data loss or corruption. Now, let's turn our attention to compliance. Depending on where you operate and the type of data you handle, you'll need to navigate a landscape of different regulations. The GDPR, or General Data Protection Regulation, is a major one. This European Union law applies to any organization that processes the data of EU residents. It requires you to obtain clear consent from users, provide them with access to their data, and allow them to delete it if they wish. It also mandates that you report any breaches within 72 hours. It includes significant penalties for non-compliance. The CCPA, or California Consumer [[Privacy]] Act, focuses on the data rights of California residents. It requires transparency about [[Data Collection]] practices and gives consumers the right to opt out of having their data sold. For those in healthcare, HIPAA governs protected health information. It requires strict confidentiality measures and has serious penalties for violations. With the compliance landscape in mind,
 >
-> **[0:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=12)** After all, a fast AI system is useless if it puts user data at risk.
+> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=187)** let's consider how you deploy your AI systems. There are two main approaches I recommend, on-premises deployment and local [[AI Solutions]]. On-prem deployment is the traditional approach. You own the infrastructure, control the [[Hardware]], and manage everything within your own physical space. This gives you complete control and direct oversight of any security measures. Local AI takes a different approach and focuses on processing data closer to where it's generated, often at the edge. This can be a great option for [[Real-Time]] applications as it reduces latency and allows for faster response times. As an example of this, imagine the network of sensors that are collecting data from a factory floor. Instead of sending all that data to a central data center for processing, you could use local AI to analyze it right there on-site. This allows for real-time [[Decision-Making]] and can improve efficiency. To help you evaluate these approaches, let's take a look at this table, which compares on-prem deployment and local AI solutions across several key performance indicators. On-premises deployment requires a dedicated data center and a significant upfront investment, while local AI uses distributed systems for more flexible scaling. Each approach also has different security
 >
-> **[0:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=18)** [[Data Security]] is more than just protecting those valuable assets.
->
-> **[0:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=22)** It's about maintaining the trust of your users and meeting your legal obligations.
->
-> **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=28)** In my years of working with AI products, I've seen how a seemingly small security oversight can have major consequences.
->
-> **[0:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=36)** Let's look at what truly matters to secure AI systems and ensure compliance.
->
-> **[0:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=42)** Effective data protection involves several layers.
->
-> **[0:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=45)** Encryption is a critical foundation.
->
-> **[0:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=48)** It protects data both when it's stored and when it's being transmitted.
->
-> **[0:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=53)** Strong encryption protocols make your data unreadable to anyone who shouldn't have access, thus protecting it from prying eyes.
->
-> **[1:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=62)** Access controls and authentication add another layer of defense.
->
-> **[1:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=66)** Carefully manage who can see and interact with your data and what they're allowed to do with it.
->
-> **[1:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=72)** This means establishing clear roles and permissions, using strong passwords, implementing multifactor authentication, and potentially even using biometrics for an added layer of security.
->
-> **[1:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=87)** Regular security audits and robust data backup and recovery plans are essential.
->
-> **[1:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=93)** Think of audits as your regular health checkups.
->
-> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=96)** They help you identify vulnerabilities and ensure you are meeting compliance requirements.
->
-> **[1:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=102)** And backups, they're your safety net, ensuring business continuity in the case of data loss or corruption.
->
-> **[1:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=110)** Now, let's turn our attention to compliance.
->
-> **[1:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=113)** Depending on where you operate and the type of data you handle, you'll need to navigate a landscape of different regulations.
->
-> **[2:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=121)** The GDPR, or General Data Protection Regulation, is a major one.
->
-> **[2:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=127)** This European Union law applies to any organization that processes the data of EU residents.
->
-> **[2:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=134)** It requires you to obtain clear consent from users, provide them with access to their data, and allow them to delete it if they wish.
->
-> **[2:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=145)** It also mandates that you report any breaches within 72 hours.
->
-> **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=150)** It includes significant penalties for non-compliance.
->
-> **[2:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=154)** The CCPA, or California Consumer [[Privacy]] Act, focuses on the data rights of California residents.
->
-> **[2:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=164)** It requires transparency about [[Data Collection]] practices and gives consumers the right to opt out of having their data sold.
->
-> **[2:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=173)** For those in healthcare, HIPAA governs protected health information.
->
-> **[2:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=178)** It requires strict confidentiality measures and has serious penalties for violations.
->
-> **[3:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=184)** With the compliance landscape in mind, let's consider how you deploy your AI systems.
->
-> **[3:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=191)** There are two main approaches I recommend, on-premises deployment and local [[AI Solutions]].
->
-> **[3:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=198)** On-prem deployment is the traditional approach.
->
-> **[3:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=201)** You own the infrastructure, control the [[Hardware]], and manage everything within your own physical space.
->
-> **[3:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=208)** This gives you complete control and direct oversight of any security measures.
->
-> **[3:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=213)** Local AI takes a different approach and focuses on processing data closer to where it's generated, often at the edge.
->
-> **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=222)** This can be a great option for [[Real-Time]] applications as it reduces latency and allows for faster response times.
->
-> **[3:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=231)** As an example of this, imagine the network of sensors that are collecting data from a factory floor.
->
-> **[3:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=237)** Instead of sending all that data to a central data center for processing, you could use local AI to analyze it right there on-site.
->
-> **[4:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=246)** This allows for real-time [[Decision-Making]] and can improve efficiency.
->
-> **[4:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=253)** To help you evaluate these approaches, let's take a look at this table, which compares on-prem deployment and local AI solutions across several key performance indicators.
->
-> **[4:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=265)** On-premises deployment requires a dedicated data center and a significant upfront investment, while local AI uses distributed systems for more flexible scaling.
->
-> **[4:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=278)** Each approach also has different security and maintenance considerations.
->
-> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=283)** You'll see how on-prem deployment offers greater control and potentially higher consistency, while local AI solutions provide better [[Scalability]] and low latency for edge applications.
->
-> **[4:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=297)** I recommend you considering your budget, security requirements, performance goals, and compliance obligations when making your decision.
->
-> **[5:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=305)** Now that we've explored data security and deployment approaches, let's move on to an interesting exercise that will help you put all of these concepts together.
->
-> **[5:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=314)** In the next video, we'll design a future-proof [[Data Storage]] strategy for a rapidly growing AI application.
+> **[4:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=280)** and maintenance considerations. You'll see how on-prem deployment offers greater control and potentially higher consistency, while local AI solutions provide better [[Scalability]] and low latency for edge applications. I recommend you considering your budget, security requirements, performance goals, and compliance obligations when making your decision. Now that we've explored data security and deployment approaches, let's move on to an interesting exercise that will help you put all of these concepts together. In the next video, we'll design a future-proof [[Data Storage]] strategy for a rapidly growing AI application.
 
 > [!info]- Semantic Content
 >
@@ -2121,147 +501,15 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=0)** - [Instructor] We've covered a lot of ground so far.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=0)** - [Instructor] We've covered a lot of ground so far. We've talked about sourcing data, managing it effectively, and keeping it secure. Now, let's look ahead. How can you make sure your [[Data Storage]] strategy stays strong, even as technology changes, and your company's AI ambitions grow? That's what we'll be focusing on in this video, future-proofing your AI data storage. It's about anticipating those challenges and being ready to adapt. A key principle here is [[Scalability]]. Your storage needs to be elastic, not fixed. It needs to grow with you, handling those sudden spikes with data volume without requiring a complete system overhaul. Flexibility is also essential. Think of your storage like a smartphone. You want to be able to run new apps as they come out, right? Well, your storage should be the same way. It needs to adapt to new data types, integrate with emerging technologies, and support your changing business needs. And of course, we can't forget about cost efficiency. You need a sustainable plan, one that optimizes storage costs as you scale. That means balancing performance with cost effectiveness and implementing intelligent data lifecycle management. Here are a few practical approaches you'll want to consider. First, a layered storage architecture. This is about creating different tiers of storage based on how frequently you access the data.
 >
-> **[0:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=2)** We've talked about sourcing data, managing it effectively, and keeping it secure.
+> **[1:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=93)** Think of it like this, hot data is the data you need to access immediately, all the time. It's the most critical data for your AI applications, and it needs to be stored on the fastest, highest performing storage you can get your hands on. Warm data is data you access less frequently, maybe a few times a week, or month. It's still important, but it doesn't need to be on the absolute fastest storage. Then there's cold data, which is data that you rarely use, perhaps for archival purposes, or for a long-term analysis. It can be stored on the most cost effective storage, even if it takes a bit longer to retrieve. Now, with that in mind, let's talk about how a layered storage architecture works. You essentially create different tiers of storage, each with its own performance and cost characteristics. Your hot data goes on the fastest tier, your warm data on the next tier down, and your cold data on the slowest and most affordable tier. As you can see, there are different storage tiers. With different pricing models. Your choice in tier for your data can significantly impact your cost. Let's talk about smart data organization. This is about understanding your data and how it's used. You want to categorize your data based on how often you need to access it, how sensitive it is, and how relevant it is for your different AI applications.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=7)** Now, let's look ahead.
+> **[3:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=188)** This helps you make informed decisions about where to store each type of data. And don't forget to regularly clean up and archive old data to keep your storage lean and efficient. This can improve your AI system's performance by reducing the amount of data it needs to sift through. Talking about monitoring and optimization, you need to keep a close eye on your storage system's health and performance. Set up monitoring systems that track key metrics, like latency, throughput, and storage utilization. These systems can help you identify potential bottlenecks and address issues before they impact your AI applications. To really future-proof your storage, you need to be able to forecast your needs, analyze historical usage patterns and project future growth to understand how your storage requirements will change over time. This allows you to make informed decisions about your [[Capacity Planning]], and avoid costly surprises. That said, let's put these concepts into practice. Say you're building an AI-powered image recognition service that currently processes 10,000 images daily, but expects a 100X growth within two years. So how would you approach this challenge? Task one may be to design your storage tiers where you start by listing out what data goes in hot storage, identifying warm storage candidates, and planning for cold storage requirements.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=10)** How can you make sure your [[Data Storage]] strategy stays strong, even as technology changes, and your company's AI ambitions grow?
+> **[4:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=284)** Task two would be create a growth timeline where you start by mapping out storage needs at three, six, 12, and 24 months, and then you identify potential scaling triggers. Lastly, you would plan expansion checkpoints. And then task three could be cost optimization strategy, where you start by listing potential cost-saving measures. Then you identify automation opportunities, and third, you create a monitoring checklist. Common pitfalls to avoid here would be over provisioning. Don't buy massive storage upfront. You also want to avoid rigid architecture, or any type of inflexible storage designs. You definitely don't want to ignore monitoring. Don't wait for problems to appear. Avoid cost tunnel vision where you're making sure to avoid focusing solely on storage costs. And lastly, avoid technology lock-in. Avoid dependencies on single offenders where at all possible. To help you assess your storage strategy, here's a checklist. Ask yourself, is your storage easily scalable? Can you add new data types? Do you have clear monitoring systems? Is cost optimization built in? Do you have disaster recovery plans? If you can answer yes to all of these questions,
 >
-> **[0:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=18)** That's what we'll be focusing on in this video, future-proofing your AI data storage.
->
-> **[0:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=24)** It's about anticipating those challenges and being ready to adapt.
->
-> **[0:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=30)** A key principle here is [[Scalability]].
->
-> **[0:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=32)** Your storage needs to be elastic, not fixed.
->
-> **[0:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=36)** It needs to grow with you, handling those sudden spikes with data volume without requiring a complete system overhaul.
->
-> **[0:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=44)** Flexibility is also essential.
->
-> **[0:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=47)** Think of your storage like a smartphone.
->
-> **[0:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=49)** You want to be able to run new apps as they come out, right?
->
-> **[0:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=53)** Well, your storage should be the same way.
->
-> **[0:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=55)** It needs to adapt to new data types, integrate with emerging technologies, and support your changing business needs.
->
-> **[1:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=64)** And of course, we can't forget about cost efficiency.
->
-> **[1:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=67)** You need a sustainable plan, one that optimizes storage costs as you scale.
->
-> **[1:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=73)** That means balancing performance with cost effectiveness and implementing intelligent data lifecycle management.
->
-> **[1:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=80)** Here are a few practical approaches you'll want to consider.
->
-> **[1:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=84)** First, a layered storage architecture.
->
-> **[1:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=88)** This is about creating different tiers of storage based on how frequently you access the data.
->
-> **[1:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=93)** Think of it like this, hot data is the data you need to access immediately, all the time.
->
-> **[1:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=100)** It's the most critical data for your AI applications, and it needs to be stored on the fastest, highest performing storage you can get your hands on.
->
-> **[1:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=109)** Warm data is data you access less frequently, maybe a few times a week, or month.
->
-> **[1:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=114)** It's still important, but it doesn't need to be on the absolute fastest storage.
->
-> **[2:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=120)** Then there's cold data, which is data that you rarely use, perhaps for archival purposes, or for a long-term analysis.
->
-> **[2:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=130)** It can be stored on the most cost effective storage, even if it takes a bit longer to retrieve.
->
-> **[2:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=137)** Now, with that in mind, let's talk about how a layered storage architecture works.
->
-> **[2:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=143)** You essentially create different tiers of storage, each with its own performance and cost characteristics.
->
-> **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=150)** Your hot data goes on the fastest tier, your warm data on the next tier down, and your cold data on the slowest and most affordable tier.
->
-> **[2:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=160)** As you can see, there are different storage tiers.
->
-> **[2:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=163)** With different pricing models.
->
-> **[2:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=165)** Your choice in tier for your data can significantly impact your cost.
->
-> **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=171)** Let's talk about smart data organization.
->
-> **[2:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=174)** This is about understanding your data and how it's used.
->
-> **[2:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=178)** You want to categorize your data based on how often you need to access it, how sensitive it is, and how relevant it is for your different AI applications.
->
-> **[3:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=188)** This helps you make informed decisions about where to store each type of data.
->
-> **[3:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=193)** And don't forget to regularly clean up and archive old data to keep your storage lean and efficient.
->
-> **[3:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=200)** This can improve your AI system's performance by reducing the amount of data it needs to sift through.
->
-> **[3:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=207)** Talking about monitoring and optimization, you need to keep a close eye on your storage system's health and performance.
->
-> **[3:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=215)** Set up monitoring systems that track key metrics, like latency, throughput, and storage utilization.
->
-> **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=222)** These systems can help you identify potential bottlenecks and address issues before they impact your AI applications.
->
-> **[3:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=231)** To really future-proof your storage, you need to be able to forecast your needs, analyze historical usage patterns and project future growth to understand how your storage requirements will change over time.
->
-> **[4:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=245)** This allows you to make informed decisions about your [[Capacity Planning]], and avoid costly surprises.
->
-> **[4:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=253)** That said, let's put these concepts into practice.
->
-> **[4:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=256)** Say you're building an AI-powered image recognition service that currently processes 10,000 images daily, but expects a 100X growth within two years.
->
-> **[4:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=266)** So how would you approach this challenge?
->
-> **[4:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=270)** Task one may be to design your storage tiers where you start by listing out what data goes in hot storage, identifying warm storage candidates, and planning for cold storage requirements.
->
-> **[4:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=284)** Task two would be create a growth timeline where you start by mapping out storage needs at three, six, 12, and 24 months, and then you identify potential scaling triggers.
->
-> **[4:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=298)** Lastly, you would plan expansion checkpoints.
->
-> **[5:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=301)** And then task three could be cost optimization strategy, where you start by listing potential cost-saving measures.
->
-> **[5:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=309)** Then you identify automation opportunities, and third, you create a monitoring checklist.
->
-> **[5:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=317)** Common pitfalls to avoid here would be over provisioning.
->
-> **[5:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=321)** Don't buy massive storage upfront.
->
-> **[5:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=324)** You also want to avoid rigid architecture, or any type of inflexible storage designs.
->
-> **[5:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=330)** You definitely don't want to ignore monitoring.
->
-> **[5:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=334)** Don't wait for problems to appear.
->
-> **[5:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=337)** Avoid cost tunnel vision where you're making sure to avoid focusing solely on storage costs.
->
-> **[5:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=345)** And lastly, avoid technology lock-in.
->
-> **[5:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=349)** Avoid dependencies on single offenders where at all possible.
->
-> **[5:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=355)** To help you assess your storage strategy, here's a checklist.
->
-> **[6:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=360)** Ask yourself, is your storage easily scalable?
->
-> **[6:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=364)** Can you add new data types?
->
-> **[6:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=366)** Do you have clear monitoring systems?
->
-> **[6:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=369)** Is cost optimization built in?
->
-> **[6:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=372)** Do you have disaster recovery plans?
->
-> **[6:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=375)** If you can answer yes to all of these questions, you're on the right track.
->
-> **[6:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=381)** So here are some action items for your implementation.
->
-> **[6:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=385)** One, document your current storage needs.
->
-> **[6:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=388)** Two, create a three-year growth projection.
->
-> **[6:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=392)** Three, design layered storage architecture.
->
-> **[6:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=395)** Four, implement monitoring systems, and then five, establish regular review processes.
+> **[6:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=378)** you're on the right track. So here are some action items for your implementation. One, document your current storage needs. Two, create a three-year growth projection. Three, design layered storage architecture. Four, implement monitoring systems, and then five, establish regular review processes.
 
 > [!info]- Semantic Content
 >
@@ -2281,131 +529,15 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=0)** - [Instructor] You've learned about everything from data procurement to storage architecture and ethical AI deployment.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=0)** - [Instructor] You've learned about everything from data procurement to storage architecture and ethical AI deployment. Now, let's put it all together in one cohesive challenge that will test your ability to design a real-world data strategy for an AI-powered product. Imagine you're the lead data strategist at Fashion First, a fast-growing [[E-Commerce]] company that's doing 50 million in annual sales. They want to revolutionize their customer experience by using AI to personalize product recommendations and create a more engaging shopping journey. Fashion First has an established data infrastructure, including two years of purchase history, comprehensive interaction logs, customer service transcripts, and a product catalog with basic [[Metadata]]. The platform currently serves 2 million monthly active users and operates on a basic cold storage setup, but they have a crucial decision to make. Should they buy a traditional and model-driven recommendation engine, or should they leverage the power of [[Generative AI]] to create a truly personalized experience? Let's apply the STAR framework we discussed earlier to guide our decision making process. Here are some key questions to consider. Data procurement and sources. What unique data needs and challenges would each present? With respect to structured data, what specific types of structured data would you need for an ML-driven recommendation engine?
 >
-> **[0:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=6)** Now, let's put it all together in one cohesive challenge that will test your ability to design a real-world data strategy for an AI-powered product.
+> **[1:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=95)** Think about user demographics, purchase history, product attributes, and browsing behavior. With respect to [[Unstructured Data]], how could you leverage unstructured data, like customer reviews, social media posts, and fashion blogs, to enhance a generative AI approach? Regarding data diversity and bias, how will you ensure your data is representative and unbiased? How can you mitigate the risk of perpetuating existing biases in the fashion industry? And lastly, what about evolving [[Data Collection]]? Think back to our Netflix case study. How did they evolve their data collection strategy over time? What lessons can you apply to Fashion First? Next, think about storage architecture and the differences between hot, warm, and cold data. How would you classify your data into hot, warm, and cold tiers? What storage solution would be appropriate for each tier? Regarding [[Real-Time]] processing, what are the real-time processing needs for each approach? How would this influence your storage choices? About cost optimization, how can you optimize storage costs while meeting performance requirements? And lastly, their [[Scalability]]. How will your storage architecture scale to accommodate future growth in data volume and user activity? Lastly, consider [[Data Security]] and compliance. Regarding [[Data Privacy]], what data privacy measures will you implement
 >
-> **[0:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=17)** Imagine you're the lead data strategist at Fashion First, a fast-growing [[E-Commerce]] company that's doing 50 million in annual sales.
+> **[3:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=189)** to protect customer information? How will you ensure compliance with regulations, like GDPR and CCPA Regarding security architecture, designing robust security architecture to protect your data from unauthorized access and cyber attacks, how will you do that? Lastly, there's access controls. Implement granular access controls to ensure that only authorized personnel can have access to sensitive data. Now, if you choose the traditional ML approach, you got to think about [[Algorithms]]. Which ML algorithms would you consider for building a recommendation engine? Think about collaborative filtering, content-based filtering, and hybrid approaches. Then there's [[Feature Engineering]]. How would you engineer relevant features from your data to improve the accuracy of your models? And cold starts, what strategies would you use to handle the cold start problem for new users or [[Microsoft Products|products]]? And lastly, the accuracy measurement. How will you measure the accuracy and effectiveness of your recommendation engine? What metrics will you track? Now, if you choose the generative AI approach, you need to think about [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]]. Would you use RAG to enhance your generative AI system? If so, how would you implement it? Then fine-tuning, what's your strategy for [[Fine Tuning]] a pre-trained generative model for the fashion domain? Lastly, there's the output quality.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=28)** They want to revolutionize their customer experience by using AI to personalize product recommendations and create a more engaging shopping journey.
+> **[4:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=285)** How will you ensure the quality and relevance of the outputs generated by your system? And then also, [[Prompt Engineering]]. How will you design effective prompts to guide the AI's responses and ensure that they meet user needs? Create a strategic roadmap that outlines the key phases of your implementation, where Phase 1 is the data foundation. It could last up to three months. Focus on [[Data Acquisition]], cleaning, and preparation. This is where you'd be building your [[Data Pipelines]] and storage infrastructure. Then in Phase 2, another three months spent on initial deployment, where you develop and deploy your chosen AI solution, whether that be ML or generative AI. Start with a pilot program to test and refine your system. And then Phase 3 is scale and optimize, which could last six months or more. This is where you scale to handle increasing traffic and data volume, continuously monitor performance, optimize your models, and adapt your strategy based on user feedback and evolving business needs. With respect to your deliverables, present your comprehensive data strategy in a clear and concise document that includes an executive summary that briefly summarizes your strategy and key decisions, business goal, which clearly defines the business goals you aim to achieve with your AI-powered personalization system, your chosen approach. This is the area where you justify your choice
 >
-> **[0:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=37)** Fashion First has an established data infrastructure, including two years of purchase history, comprehensive interaction logs, customer service transcripts, and a product catalog with basic [[Metadata]].
->
-> **[0:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=51)** The platform currently serves 2 million monthly active users and operates on a basic cold storage setup, but they have a crucial decision to make.
->
-> **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=61)** Should they buy a traditional and model-driven recommendation engine, or should they leverage the power of [[Generative AI]] to create a truly personalized experience?
->
-> **[1:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=72)** Let's apply the STAR framework we discussed earlier to guide our decision making process.
->
-> **[1:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=77)** Here are some key questions to consider.
->
-> **[1:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=81)** Data procurement and sources.
->
-> **[1:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=83)** What unique data needs and challenges would each present?
->
-> **[1:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=87)** With respect to structured data, what specific types of structured data would you need for an ML-driven recommendation engine?
->
-> **[1:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=95)** Think about user demographics, purchase history, product attributes, and browsing behavior.
->
-> **[1:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=101)** With respect to [[Unstructured Data]], how could you leverage unstructured data, like customer reviews, social media posts, and fashion blogs, to enhance a generative AI approach?
->
-> **[1:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=113)** Regarding data diversity and bias, how will you ensure your data is representative and unbiased?
->
-> **[2:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=120)** How can you mitigate the risk of perpetuating existing biases in the fashion industry?
->
-> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=126)** And lastly, what about evolving [[Data Collection]]?
->
-> **[2:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=130)** Think back to our Netflix case study.
->
-> **[2:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=133)** How did they evolve their data collection strategy over time?
->
-> **[2:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=136)** What lessons can you apply to Fashion First?
->
-> **[2:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=140)** Next, think about storage architecture and the differences between hot, warm, and cold data.
->
-> **[2:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=147)** How would you classify your data into hot, warm, and cold tiers?
->
-> **[2:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=151)** What storage solution would be appropriate for each tier?
->
-> **[2:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=155)** Regarding [[Real-Time]] processing, what are the real-time processing needs for each approach?
->
-> **[2:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=161)** How would this influence your storage choices?
->
-> **[2:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=165)** About cost optimization, how can you optimize storage costs while meeting performance requirements?
->
-> **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=171)** And lastly, their [[Scalability]].
->
-> **[2:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=173)** How will your storage architecture scale to accommodate future growth in data volume and user activity?
->
-> **[3:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=181)** Lastly, consider [[Data Security]] and compliance.
->
-> **[3:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=185)** Regarding [[Data Privacy]], what data privacy measures will you implement to protect customer information?
->
-> **[3:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=192)** How will you ensure compliance with regulations, like GDPR and CCPA Regarding security architecture, designing robust security architecture to protect your data from unauthorized access and cyber attacks, how will you do that?
->
-> **[3:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=209)** Lastly, there's access controls.
->
-> **[3:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=211)** Implement granular access controls to ensure that only authorized personnel can have access to sensitive data.
->
-> **[3:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=219)** Now, if you choose the traditional ML approach, you got to think about [[Algorithms]].
->
-> **[3:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=225)** Which ML algorithms would you consider for building a recommendation engine?
->
-> **[3:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=230)** Think about collaborative filtering, content-based filtering, and hybrid approaches.
->
-> **[3:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=236)** Then there's [[Feature Engineering]].
->
-> **[3:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=238)** How would you engineer relevant features from your data to improve the accuracy of your models?
->
-> **[4:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=244)** And cold starts, what strategies would you use to handle the cold start problem for new users or [[Microsoft Products|products]]?
->
-> **[4:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=251)** And lastly, the accuracy measurement.
->
-> **[4:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=254)** How will you measure the accuracy and effectiveness of your recommendation engine?
->
-> **[4:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=258)** What metrics will you track?
->
-> **[4:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=261)** Now, if you choose the generative AI approach, you need to think about [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
->
-> **[4:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=267)** Would you use RAG to enhance your generative AI system?
->
-> **[4:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=271)** If so, how would you implement it?
->
-> **[4:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=274)** Then fine-tuning, what's your strategy for [[Fine Tuning]] a pre-trained generative model for the fashion domain?
->
-> **[4:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=282)** Lastly, there's the output quality.
->
-> **[4:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=285)** How will you ensure the quality and relevance of the outputs generated by your system?
->
-> **[4:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=290)** And then also, [[Prompt Engineering]].
->
-> **[4:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=293)** How will you design effective prompts to guide the AI's responses and ensure that they meet user needs?
->
-> **[5:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=300)** Create a strategic roadmap that outlines the key phases of your implementation, where Phase 1 is the data foundation.
->
-> **[5:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=307)** It could last up to three months.
->
-> **[5:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=310)** Focus on [[Data Acquisition]], cleaning, and preparation.
->
-> **[5:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=314)** This is where you'd be building your [[Data Pipelines]] and storage infrastructure.
->
-> **[5:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=318)** Then in Phase 2, another three months spent on initial deployment, where you develop and deploy your chosen AI solution, whether that be ML or generative AI.
->
-> **[5:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=330)** Start with a pilot program to test and refine your system.
->
-> **[5:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=334)** And then Phase 3 is scale and optimize, which could last six months or more.
->
-> **[5:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=339)** This is where you scale to handle increasing traffic and data volume, continuously monitor performance, optimize your models, and adapt your strategy based on user feedback and evolving business needs.
->
-> **[5:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=354)** With respect to your deliverables, present your comprehensive data strategy in a clear and concise document that includes an executive summary that briefly summarizes your strategy and key decisions, business goal, which clearly defines the business goals you aim to achieve with your AI-powered personalization system, your chosen approach.
->
-> **[6:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=376)** This is the area where you justify your choice of ML versus generative AI and explain the rationale behind your decision/ Expected impact, this is a section where you would outline the expected impact of your AI solution on key metrics, like customer engagement, conversion rates, and revenue.
->
-> **[6:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=396)** You would also want to include a section on key risks, where you identify potential risks and challenges associated with your chosen approach.
->
-> **[6:47](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=407)** And of course, technical architecture should be included, and this would provide a detailed overview of your technical architecture, including a data flow diagram, storage solutions, security measures, and scaling approaches.
->
-> **[7:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=421)** And then lastly, of course, an implementation plan, this is where you would outline your implementation timeline, resource needs, success metrics, and risk mitigation strategies.
+> **[6:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=378)** of ML versus generative AI and explain the rationale behind your decision/ Expected impact, this is a section where you would outline the expected impact of your AI solution on key metrics, like customer engagement, conversion rates, and revenue. You would also want to include a section on key risks, where you identify potential risks and challenges associated with your chosen approach. And of course, technical architecture should be included, and this would provide a detailed overview of your technical architecture, including a data flow diagram, storage solutions, security measures, and scaling approaches. And then lastly, of course, an implementation plan, this is where you would outline your implementation timeline, resource needs, success metrics, and risk mitigation strategies.
 
 > [!info]- Semantic Content
 >
@@ -2427,15 +559,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980&t=0)** - [Instructor] In terms of next steps, don't wait to start applying what you've learned.
->
-> **[0:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980&t=4)** Take a look at your current AI projects and see where better data strategy could unlock more value.
->
-> **[0:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980&t=10)** And if you haven't already, I invite you to join The Convergence.
->
-> **[0:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980&t=15)** That's our community and newsletter for data savvy tech leaders.
->
-> **[0:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980&t=19)** Just head over to the site and drop your details and I'll send you a welcome email that is packed with free resources to help you grow faster and smarter.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980&t=0)** - [Instructor] In terms of next steps, don't wait to start applying what you've learned. Take a look at your current AI projects and see where better data strategy could unlock more value. And if you haven't already, I invite you to join The Convergence. That's our community and newsletter for data savvy tech leaders. Just head over to the site and drop your details and I'll send you a welcome email that is packed with free resources to help you grow faster and smarter.
 
 > [!info]- Semantic Content
 >

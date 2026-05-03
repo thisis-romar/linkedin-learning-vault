@@ -20,7 +20,7 @@ tags:
   - topic/software-development
   - topic/database-management
 course_count: 17
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Content%20Management%20Systems%20(CMS).md)

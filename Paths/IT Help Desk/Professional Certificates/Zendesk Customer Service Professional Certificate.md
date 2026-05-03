@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/zendesk-customer-service-profession
 course_count: 6
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 14
+louvain_cluster: 17
 tags:
   - professional-certificate
   - topic/it-help-desk
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)

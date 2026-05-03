@@ -11,7 +11,7 @@ tags:
   - instructor
   - topic/artificial-intelligence
   - topic/software-development
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Artificial%20Intelligence%20(AI)/Andreas%20Welsch.md)

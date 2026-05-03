@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/foundations-of-cloud-computing-mode
 course_count: 9
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 3
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/cloud-computing
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Foundations%20of%20Cloud%20Computing-%20Models%2C%20Platforms%2C%20Services%2C%20and%20Careers.md)

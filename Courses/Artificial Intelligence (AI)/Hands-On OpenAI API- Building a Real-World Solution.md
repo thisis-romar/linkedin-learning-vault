@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/technical-solution-development
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20OpenAI%20API-%20Building%20a%20Real-World%20Solution.md)
@@ -102,17 +102,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=0)** - [Rodrigo] Want to I implement a real world solution by using OpenAI's APIs?
->
-> **[0:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=5)** We'll create and deploy the Kinder Logger Project and its different components.
->
-> **[0:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=9)** In this course, I'll show you the most common APIs from OpenAI required to get your application up and running in no time.
->
-> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=19)** My name is Rodrigo Diaz Concha, and I'm a member of the [[Microsoft]] Regional Directors.
->
-> **[0:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=24)** I've been building professional software solutions for more than 25 years.
->
-> **[0:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=29)** Your learning journey is about to start, so let's jump right in.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=0)** - [Rodrigo] Want to I implement a real world solution by using OpenAI's APIs? We'll create and deploy the Kinder Logger Project and its different components. In this course, I'll show you the most common APIs from OpenAI required to get your application up and running in no time. My name is Rodrigo Diaz Concha, and I'm a member of the [[Microsoft]] Regional Directors. I've been building professional software solutions for more than 25 years. Your learning journey is about to start, so let's jump right in.
 
 > [!info]- Semantic Content
 >
@@ -123,35 +113,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=0)** - [Instructor] To get the most out of this training course, there are some knowledge prerequisites that you should have.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=0)** - [Instructor] To get the most out of this training course, there are some knowledge prerequisites that you should have. I'm going to use the [[Python (Programming Language)|Python]] programming language, so you should be comfortable reading and understanding basic Python code. Luckily, Python is quite easy to grasp and an excellent choice as a first programming language for non-technical people. We're going to build a web API that will be containerized. So you should know the basics of Docker containers. Don't worry, you don't need to be an expert in Docker, but you should understand its basic commands, such as Docker Image, Docker Build, and Docker Push. In this course, I'm going to create an [[Microsoft Azure|Azure]] container app for running the container with the web API. You should have at least basic knowledge of the Azure portal if you want to follow the same steps. Of course, you need an active Azure account and subscription. However, if you prefer, you can use any other cloud platform to run the container. Now, talking about the tools, there are many ways to install Python, but for this course, I'll be using the one from the [[Microsoft]] store. You can use any other installation method that you prefer. I'm going to use Visual Studio Code as my primary development environment, but again, you can use any other tool. Finally, I'm going to use Docker Desktop on my [[Windows]] machine
 >
-> **[0:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=7)** I'm going to use the [[Python (Programming Language)|Python]] programming language, so you should be comfortable reading and understanding basic Python code.
->
-> **[0:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=15)** Luckily, Python is quite easy to grasp and an excellent choice as a first programming language for non-technical people.
->
-> **[0:23](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=23)** We're going to build a web API that will be containerized.
->
-> **[0:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=27)** So you should know the basics of Docker containers.
->
-> **[0:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=32)** Don't worry, you don't need to be an expert in Docker, but you should understand its basic commands, such as Docker Image, Docker Build, and Docker Push.
->
-> **[0:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=45)** In this course, I'm going to create an [[Microsoft Azure|Azure]] container app for running the container with the web API.
->
-> **[0:52](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=52)** You should have at least basic knowledge of the Azure portal if you want to follow the same steps.
->
-> **[0:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=59)** Of course, you need an active Azure account and subscription.
->
-> **[1:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=64)** However, if you prefer, you can use any other cloud platform to run the container.
->
-> **[1:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=71)** Now, talking about the tools, there are many ways to install Python, but for this course, I'll be using the one from the [[Microsoft]] store.
->
-> **[1:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=81)** You can use any other installation method that you prefer.
->
-> **[1:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=85)** I'm going to use Visual Studio Code as my primary development environment, but again, you can use any other tool.
->
-> **[1:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=94)** Finally, I'm going to use Docker Desktop on my [[Windows]] machine to build and push a container image.
->
-> **[1:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=101)** Okay, now join me in the next video to understand the Kinder Logger project.
+> **[1:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=98)** to build and push a container image. Okay, now join me in the next video to understand the Kinder Logger project.
 
 > [!info]- Semantic Content
 >
@@ -168,41 +132,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=0)** - [Instructor] Every day, either my wife or I drop off our son Leo at kindergarten, where his teachers warmly welcome him.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=0)** - [Instructor] Every day, either my wife or I drop off our son Leo at kindergarten, where his teachers warmly welcome him. At the end of every day, the teacher sends a personalized audio message to the families of each child, providing a summary of the day's events. There's a wealth of information stored in those audio files, but unfortunately, they can't be easily indexed or utilized. As loving parents, we're eager to learn about our kid's growth and development at school. We want to understand every aspect of his behavior and the activities he likes. Thankfully, AI technologies, such as the ones from OpenAI, allows to craft meaningful solutions that bring parents even closer to their children. That's why I created the KinderLogger project. KinderLogger is an innovative AI-driven platform that transforms daily audio messages from teachers into essential insights, keeping you constantly connective and informed about your child's progress in kindergarten. Now let's talk about the technical components that we're going to build. In Chapter 1, I'll manually provide the audio files from my WhatsApp account. Here, we're going to use the Audio API for transcribing the audio files and the Chat Completions API for creating the [[JSON]] document
 >
-> **[0:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=9)** At the end of every day, the teacher sends a personalized audio message to the families of each child, providing a summary of the day's events.
->
-> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=19)** There's a wealth of information stored in those audio files, but unfortunately, they can't be easily indexed or utilized.
->
-> **[0:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=28)** As loving parents, we're eager to learn about our kid's growth and development at school.
->
-> **[0:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=34)** We want to understand every aspect of his behavior and the activities he likes.
->
-> **[0:40](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=40)** Thankfully, AI technologies, such as the ones from OpenAI, allows to craft meaningful solutions that bring parents even closer to their children.
->
-> **[0:52](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=52)** That's why I created the KinderLogger project.
->
-> **[0:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=57)** KinderLogger is an innovative AI-driven platform that transforms daily audio messages from teachers into essential insights, keeping you constantly connective and informed about your child's progress in kindergarten.
->
-> **[1:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=73)** Now let's talk about the technical components that we're going to build.
->
-> **[1:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=78)** In Chapter 1, I'll manually provide the audio files from my WhatsApp account.
->
-> **[1:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=84)** Here, we're going to use the Audio API for transcribing the audio files and the Chat Completions API for creating the [[JSON]] document that will be saved as a JSON file.
->
-> **[1:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=98)** In Chapter 2, we're going to create a new assistant by using the Assistants API.
->
-> **[1:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=104)** In Chapter 3, we're going to upload all the JSON files to the assistant.
->
-> **[1:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=110)** In Chapter 4, we'll create a new web API by using FastAPI, and then we're going to containerize that web API and run it inside an [[Microsoft Azure|Azure]] container app.
->
-> **[2:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=123)** In Chapter 5, we're going to use the Moderations API for filtering out dangerous content.
->
-> **[2:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=131)** And finally, in Chapter 6, we're going to create a new GPT that will be the user interface for the KinderLogger Project in this course.
->
-> **[2:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=141)** Okay, now let's prepare the development environment.
->
-> **[2:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=146)** We're going to do that next.
+> **[1:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=95)** that will be saved as a JSON file. In Chapter 2, we're going to create a new assistant by using the Assistants API. In Chapter 3, we're going to upload all the JSON files to the assistant. In Chapter 4, we'll create a new web API by using FastAPI, and then we're going to containerize that web API and run it inside an [[Microsoft Azure|Azure]] container app. In Chapter 5, we're going to use the Moderations API for filtering out dangerous content. And finally, in Chapter 6, we're going to create a new GPT that will be the user interface for the KinderLogger Project in this course. Okay, now let's prepare the development environment. We're going to do that next.
 
 > [!info]- Semantic Content
 >
@@ -216,45 +148,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=0)** - [Instructor] Okay, one more quick thing before we go ahead and roll up our sleeves.
->
-> **[0:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=5)** Let me show you where you can download the required software for this course.
->
-> **[0:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=10)** First, we need [[Python (Programming Language)|Python]].
->
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=12)** Since I'm using [[Windows]], I can open the [[Microsoft]] Store app.
->
-> **[0:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=17)** Here, I can search for Python and install it.
->
-> **[0:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=20)** So let's search for Python, and you can find different versions.
->
-> **[0:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=28)** And this is actually the version that I installed.
->
-> **[0:31](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=31)** Then we need Visual Studio Code.
->
-> **[0:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=34)** On the [visualstudio.com](https://visualstudio.com) website, you can find the installer for your operating system, and of course, Docker Desktop.
->
-> **[0:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=43)** In a similar fashion to Visual Studio Code, you can download the installer right from its website.
->
-> **[0:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=50)** Now you need an OpenAI account.
->
-> **[0:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=53)** You can create one on the [openai.com](https://openai.com) website.
->
-> **[0:58](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=58)** Be sure to have enough credit to use the models and of course, the Assistants API.
->
-> **[1:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=64)** Then you need to create an API key.
->
-> **[1:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=68)** You can do that by clicking on the Create new secret key button and assigning a name.
->
-> **[1:14](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=74)** Say Test, and then Create secret key.
->
-> **[1:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=79)** Be sure to save the key somewhere safe.
->
-> **[1:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=82)** In this course, I'll save the keys as environment variables in Windows.
->
-> **[1:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=87)** Okay, that's actually it.
->
-> **[1:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=90)** We're ready to start building solutions with the OpenAI APIs.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=0)** - [Instructor] Okay, one more quick thing before we go ahead and roll up our sleeves. Let me show you where you can download the required software for this course. First, we need [[Python (Programming Language)|Python]]. Since I'm using [[Windows]], I can open the [[Microsoft]] Store app. Here, I can search for Python and install it. So let's search for Python, and you can find different versions. And this is actually the version that I installed. Then we need Visual Studio Code. On the [visualstudio.com](https://visualstudio.com) website, you can find the installer for your operating system, and of course, Docker Desktop. In a similar fashion to Visual Studio Code, you can download the installer right from its website. Now you need an OpenAI account. You can create one on the [openai.com](https://openai.com) website. Be sure to have enough credit to use the models and of course, the Assistants API. Then you need to create an API key. You can do that by clicking on the Create new secret key button and assigning a name. Say Test, and then Create secret key. Be sure to save the key somewhere safe. In this course, I'll save the keys as environment variables in Windows. Okay, that's actually it. We're ready to start building solutions with the OpenAI APIs.
 
 > [!info]- Semantic Content
 >
@@ -276,17 +170,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=0)** - [Instructor] Those WhatsApp audio messages are just packed with info from the best data source, the teachers.
->
-> **[0:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=7)** They really capture what our kids are up to and how they're growing.
->
-> **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=13)** One of the key things we're doing in the Kinder Logger project is turning that audio into text.
->
-> **[0:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=20)** In this part of the course, we're going to pull the words out of those audio files using the audio API.
->
-> **[0:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=26)** After that, we'll use the Chat Completions API to make some [[JSON]] documents, which we'll upload later on.
->
-> **[0:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=35)** Okay, let's get started.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=0)** - [Instructor] Those WhatsApp audio messages are just packed with info from the best data source, the teachers. They really capture what our kids are up to and how they're growing. One of the key things we're doing in the Kinder Logger project is turning that audio into text. In this part of the course, we're going to pull the words out of those audio files using the audio API. After that, we'll use the Chat Completions API to make some [[JSON]] documents, which we'll upload later on. Okay, let's get started.
 
 > [!info]- Semantic Content
 >
@@ -299,41 +183,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=0)** - [Instructor] In this chapter, we're going to focus on the transcription side of things.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=0)** - [Instructor] In this chapter, we're going to focus on the transcription side of things. So let's jump right in. I created this kinderlogger folder with the transcription.py file. This is a place that we are going to use for implementing the transcription logic. So the first thing that you want to do is you need to install the OpenAI [[Python (Programming Language)|Python]] library. You can do that by executing pip install and then openai. I've already done that, so there's no need for me to do this again. Okay, so let's close down this terminal. And now I'm ready to import the OpenAI library. I'm using the from statement then the OpenAI class, that's the one that we're going to use for connecting to the API. And we need a way to extract the OPENAI_API_KEY.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=4)** So let's jump right in.
->
-> **[0:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=7)** I created this kinderlogger folder with the transcription.py file.
->
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=12)** This is a place that we are going to use for implementing the transcription logic.
->
-> **[0:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=17)** So the first thing that you want to do is you need to install the OpenAI [[Python (Programming Language)|Python]] library.
->
-> **[0:23](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=23)** You can do that by executing pip install and then openai.
->
-> **[0:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=29)** I've already done that, so there's no need for me to do this again.
->
-> **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=33)** Okay, so let's close down this terminal.
->
-> **[0:36](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=36)** And now I'm ready to import the OpenAI library.
->
-> **[0:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=41)** I'm using the from statement then the OpenAI class, that's the one that we're going to use for connecting to the API.
->
-> **[0:51](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=51)** And we need a way to extract the OPENAI_API_KEY.
->
-> **[0:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=59)** So let's open up the terminal again and let me paste this command so you can see that I have my OPENAI_API_KEY as an environment variable.
->
-> **[1:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=75)** So that's why I am importing the os module.
->
-> **[1:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=82)** So let's extract that OPENAI_API_KEY environment variable, and then we need to create the OpenAI instance.
->
-> **[1:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=93)** So client is going to be the object that we're going to use for communicating to the API.
->
-> **[1:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=101)** As you can see here, I'm passing the key value.
->
-> **[1:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=105)** All right.
->
-> **[1:47](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=107)** Join me in the next video where we're going to read the audio files.
+> **[0:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=59)** So let's open up the terminal again and let me paste this command so you can see that I have my OPENAI_API_KEY as an environment variable. So that's why I am importing the os module. So let's extract that OPENAI_API_KEY environment variable, and then we need to create the OpenAI instance. So client is going to be the object that we're going to use for communicating to the API. As you can see here, I'm passing the key value. All right. Join me in the next video where we're going to read the audio files.
 
 > [!info]- Semantic Content
 >
@@ -350,73 +202,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=0)** - [Instructor] In this video, we're going to transcribe the audio files.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=0)** - [Instructor] In this video, we're going to transcribe the audio files. WhatsApp audio messages have the OGG format. When you download one of those files into your computer, it'll have the following name pattern, WhatsApp and then audio and then the date at time, and finally, the file extension. We only need the date and time part. That's why I created the whatsapp_utils.py file. Here, I implemented the extract datetime from file name which is a function that takes the file name and returns a datetime. Okay so let's go back here because we need to implement glob for reading the files and then whatsapp_utils. So, let's specify the pattern. I want to read all the OGG files that are inside the audios folder and then let's create this list by using the pattern. So we need to iterate over that list. So, let's type for file name in OGG files and let's do the following, file daytime. That's why I want to execute extract datetime from file name. And let's pass file name just like this. And let's print out processing. And then let's use the format, processing file name.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=4)** WhatsApp audio messages have the OGG format.
+> **[1:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=97)** And then let's open the audio file. So open, and then the file name. And we're going to use read and binary. So now we need to invoke the audio, API from open ai. So let's do the following. Let's create this transcription variable and let's use the client object and then audio and then transcriptions. And here I want to execute, create, and let's specify some of the parameters such as model. At the time of this recording, the model is whisper one, and the response format. I want this to be text and file. Of course, we need to pass the audio file that we created. And then temperature, you don't want your model to be creative while transcribing the audio files. So let's use 0.2 or something that is below one. And finally the prompt. This is for helping the model with the correct spelling of some words. So for instance, my kids' teachers are Ms. Jime and Ms. Naty. Those are the correct names. Awesome. Let's test this by opening the terminal and let's execute [[Python (Programming Language)|Python]]
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=8)** When you download one of those files into your computer, it'll have the following name pattern, WhatsApp and then audio and then the date at time, and finally, the file extension.
->
-> **[0:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=21)** We only need the date and time part.
->
-> **[0:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=24)** That's why I created the whatsapp_utils.py file.
->
-> **[0:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=30)** Here, I implemented the extract datetime from file name which is a function that takes the file name and returns a datetime.
->
-> **[0:40](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=40)** Okay so let's go back here because we need to implement glob for reading the files and then whatsapp_utils.
->
-> **[0:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=50)** So, let's specify the pattern.
->
-> **[0:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=53)** I want to read all the OGG files that are inside the audios folder and then let's create this list by using the pattern.
->
-> **[1:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=64)** So we need to iterate over that list.
->
-> **[1:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=67)** So, let's type for file name in OGG files and let's do the following, file daytime.
->
-> **[1:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=77)** That's why I want to execute extract datetime from file name.
->
-> **[1:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=81)** And let's pass file name just like this.
->
-> **[1:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=85)** And let's print out processing.
->
-> **[1:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=90)** And then let's use the format, processing file name.
->
-> **[1:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=97)** And then let's open the audio file.
->
-> **[1:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=102)** So open, and then the file name.
->
-> **[1:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=105)** And we're going to use read and binary.
->
-> **[1:49](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=109)** So now we need to invoke the audio, API from open ai.
->
-> **[1:54](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=114)** So let's do the following.
->
-> **[1:56](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=116)** Let's create this transcription variable and let's use the client object and then audio and then transcriptions.
->
-> **[2:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=126)** And here I want to execute, create, and let's specify some of the parameters such as model.
->
-> **[2:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=137)** At the time of this recording, the model is whisper one, and the response format.
->
-> **[2:23](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=143)** I want this to be text and file.
->
-> **[2:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=148)** Of course, we need to pass the audio file that we created.
->
-> **[2:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=152)** And then temperature, you don't want your model to be creative while transcribing the audio files.
->
-> **[2:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=159)** So let's use 0.2 or something that is below one.
->
-> **[2:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=165)** And finally the prompt.
->
-> **[2:47](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=167)** This is for helping the model with the correct spelling of some words.
->
-> **[2:52](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=172)** So for instance, my kids' teachers are Ms. Jime and Ms. Naty.
->
-> **[2:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=179)** Those are the correct names.
->
-> **[3:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=183)** Awesome.
->
-> **[3:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=184)** Let's test this by opening the terminal and let's execute [[Python (Programming Language)|Python]] and then transcription.py just to know if everything is working as expected.
->
-> **[3:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=200)** Join me in the next video where we're going to use the transcription text to create a [[JSON]] file by using the chat completions API.
+> **[3:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=190)** and then transcription.py just to know if everything is working as expected. Join me in the next video where we're going to use the transcription text to create a [[JSON]] file by using the chat completions API.
 
 > [!info]- Semantic Content
 >
@@ -433,77 +223,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=0)** - [Instructor] Our goal is to create one [[JSON]] file for each audio file transcription.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=0)** - [Instructor] Our goal is to create one [[JSON]] file for each audio file transcription. We could create the JSON document with the current transcription text of course, however, the text is in Spanish. So first we need to translate it into English. I could have used the translations API, but I wanted to show you how we can do it by using a single prompt and the chat completions API. So let's do the following. Let's execute create that comes from the completions object. And here I'm specifying gpt-3.5-turbo-1106 as the name of the model that I want to use. And then let's pass the messages to the model. With the chat completion API, we can ask the large language model to perform any task or return any kind of information. To get the most out of [[Large Language Models (LLM)|large language models]], such as the open AI ones, we should specify clear instructions. That is one of the most important [[Prompt Engineering]] strategies for getting better results. So here I'm specifying the system role and I'm telling it that it should behave as a helpful assistant. And then the user role, most of the open AI models support the system role, the assistant and user roles. So here I'm specifying the user message,
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=5)** We could create the JSON document with the current transcription text of course, however, the text is in Spanish.
+> **[1:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=95)** which is this prompt. As you can see, I'm telling the model to translate the text that is surrounded by three stars, which is right here. And then I'm asking the model to create a JSON document with the following elements. We have two elements. The first one is the translated text, and it's inside this key, which is the date part of the date time. And we have another one, which is audiofile_datetime. And the value is the file, date and time. And now let's specify the JSON mode, which is a way of telling the large language model to return valid JSON objects. So that's why I am using response format and I'm passing JSON object for the type. Okay, so now we need to write that JSON document into a file. So let's do the following with open. Let's do this file_datetime.date, because I just want the date part. And this is going to be the JSON file name. And we're going to open this file as write and then file.write. And I'm going to read the result, which is inside choices. The first one, message, and finally content.
 >
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=12)** So first we need to translate it into English.
->
-> **[0:16](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=16)** I could have used the translations API, but I wanted to show you how we can do it by using a single prompt and the chat completions API.
->
-> **[0:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=25)** So let's do the following.
->
-> **[0:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=27)** Let's execute create that comes from the completions object.
->
-> **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=33)** And here I'm specifying gpt-3.5-turbo-1106 as the name of the model that I want to use.
->
-> **[0:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=43)** And then let's pass the messages to the model.
->
-> **[0:49](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=49)** With the chat completion API, we can ask the large language model to perform any task or return any kind of information.
->
-> **[0:58](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=58)** To get the most out of [[Large Language Models (LLM)|large language models]], such as the open AI ones, we should specify clear instructions.
->
-> **[1:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=66)** That is one of the most important [[Prompt Engineering]] strategies for getting better results.
->
-> **[1:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=72)** So here I'm specifying the system role and I'm telling it that it should behave as a helpful assistant.
->
-> **[1:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=82)** And then the user role, most of the open AI models support the system role, the assistant and user roles.
->
-> **[1:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=92)** So here I'm specifying the user message, which is this prompt.
->
-> **[1:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=98)** As you can see, I'm telling the model to translate the text that is surrounded by three stars, which is right here.
->
-> **[1:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=108)** And then I'm asking the model to create a JSON document with the following elements.
->
-> **[1:54](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=114)** We have two elements.
->
-> **[1:56](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=116)** The first one is the translated text, and it's inside this key, which is the date part of the date time.
->
-> **[2:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=127)** And we have another one, which is audiofile_datetime.
->
-> **[2:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=131)** And the value is the file, date and time.
->
-> **[2:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=135)** And now let's specify the JSON mode, which is a way of telling the large language model to return valid JSON objects.
->
-> **[2:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=146)** So that's why I am using response format and I'm passing JSON object for the type.
->
-> **[2:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=154)** Okay, so now we need to write that JSON document into a file.
->
-> **[2:40](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=160)** So let's do the following with open.
->
-> **[2:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=163)** Let's do this file_datetime.date, because I just want the date part.
->
-> **[2:52](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=172)** And this is going to be the JSON file name.
->
-> **[2:55](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=175)** And we're going to open this file as write and then file.write.
->
-> **[3:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=185)** And I'm going to read the result, which is inside choices.
->
-> **[3:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=190)** The first one, message, and finally content.
->
-> **[3:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=195)** So finally, let's print something like, "Done!"
->
-> **[3:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=202)** Okay, so now we're ready to test this.
->
-> **[3:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=206)** Let's open up the terminal and let's execute [[Python (Programming Language)|Python]] transcription.py.
->
-> **[3:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=214)** I'm going to post the video to let the process run.
->
-> **[3:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=218)** After a while, this process is finished.
->
-> **[3:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=221)** So let's expand this so we can see that those JSON files have been created successfully, and now we're ready to upload them to the assistance API.
->
-> **[3:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=233)** So join me in the next video.
+> **[3:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=195)** So finally, let's print something like, "Done!" Okay, so now we're ready to test this. Let's open up the terminal and let's execute [[Python (Programming Language)|Python]] transcription.py. I'm going to post the video to let the process run. After a while, this process is finished. So let's expand this so we can see that those JSON files have been created successfully, and now we're ready to upload them to the assistance API. So join me in the next video.
 
 > [!info]- Semantic Content
 >
@@ -525,15 +249,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980&t=0)** - [Instructor] I want the KinderLogger Project to be like a helpful assistant.
->
-> **[0:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980&t=4)** It should tell me about my son's school activities, what he's been eating for lunch lately, and even the last time he was really happy or sad.
->
-> **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980&t=13)** Plus, I wanted to help me figure out what I should focus on most as a parent for my kid's development.
->
-> **[0:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980&t=21)** In this part of the course, we're going to put together an assistant using the Assistants API.
->
-> **[0:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980&t=28)** Okay, let's begin.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980&t=0)** - [Instructor] I want the KinderLogger Project to be like a helpful assistant. It should tell me about my son's school activities, what he's been eating for lunch lately, and even the last time he was really happy or sad. Plus, I wanted to help me figure out what I should focus on most as a parent for my kid's development. In this part of the course, we're going to put together an assistant using the Assistants API. Okay, let's begin.
 
 > [!info]- Semantic Content
 >
@@ -544,79 +260,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=0)** - [Instructor] In this video, we're going to create the assistant that will be used by the KinderLogger solution.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=0)** - [Instructor] In this video, we're going to create the assistant that will be used by the KinderLogger solution. The thing about [[Large Language Models (LLM)|large language models]] is that they're stateless by nature. With the assistant API, we can create threaded conversations that automatically remember the previous messages. So let's import both OS and OpenAI, and then let's specify this model constant with the name of the model that we want to use in this case, GPT-3.5 turbo 1106. And then let's obtain the [[OpenAI API]] key environment variable value, and let's create the OpenAI client object. So now let's create a new viable named assistant. And here I want to invoke client beta assistance. Speaking of which, at the time of this recording, the assistance API is in a beta state. So client beta assistance, and then create. And we need to specify some of the parameters here, such as name. In this case, I want it to be KinderLogger. And then instructions, let's keep it simple. Something like you are an intelligent assistant. And then the tools that we want to use, this is a list.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=6)** The thing about [[Large Language Models (LLM)|large language models]] is that they're stateless by nature.
+> **[1:36](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=96)** So we're going to use two tools. The first one is the retrieval tool. This tool allows me to obtain information from the files that we're going to upload later in this course. And the other one is the code interpreter that allows us to create code and actually extract information from the files. And finally, model. And of course, we're going to use the constant. Okay, so this is creating the assistant object in the backend. And now I need to specify something for the UI in this small application, something like display main menu. And here I want this to print KinderLogger assistant.
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=11)** With the assistant API, we can create threaded conversations that automatically remember the previous messages.
->
-> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=19)** So let's import both OS and OpenAI, and then let's specify this model constant with the name of the model that we want to use in this case, GPT-3.5 turbo 1106.
->
-> **[0:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=37)** And then let's obtain the [[OpenAI API]] key environment variable value, and let's create the OpenAI client object.
->
-> **[0:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=50)** So now let's create a new viable named assistant.
->
-> **[0:55](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=55)** And here I want to invoke client beta assistance.
->
-> **[1:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=61)** Speaking of which, at the time of this recording, the assistance API is in a beta state.
->
-> **[1:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=68)** So client beta assistance, and then create.
->
-> **[1:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=71)** And we need to specify some of the parameters here, such as name.
->
-> **[1:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=78)** In this case, I want it to be KinderLogger.
->
-> **[1:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=81)** And then instructions, let's keep it simple.
->
-> **[1:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=85)** Something like you are an intelligent assistant.
->
-> **[1:31](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=91)** And then the tools that we want to use, this is a list.
->
-> **[1:36](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=96)** So we're going to use two tools.
->
-> **[1:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=99)** The first one is the retrieval tool.
->
-> **[1:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=105)** This tool allows me to obtain information from the files that we're going to upload later in this course.
->
-> **[1:52](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=112)** And the other one is the code interpreter that allows us to create code and actually extract information from the files.
->
-> **[2:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=128)** And finally, model.
->
-> **[2:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=131)** And of course, we're going to use the constant.
->
-> **[2:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=135)** Okay, so this is creating the assistant object in the backend.
->
-> **[2:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=142)** And now I need to specify something for the UI in this small application, something like display main menu.
->
-> **[2:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=153)** And here I want this to print KinderLogger assistant.
->
-> **[2:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=162)** And of course, this is a function.
->
-> **[2:46](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=166)** So let's prettify this.
->
-> **[2:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=170)** And then prompt equals input because I want the user to type a prompt.
->
-> **[2:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=177)** So enter your prompt.
->
-> **[3:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=180)** And then let's specify another function handle main menu option.
->
-> **[3:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=192)** So we're going to receive the prompt in here.
->
-> **[3:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=197)** We're just going to print the prompt in the screen, and that's it.
->
-> **[3:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=202)** So I want this to execute, handle main menu option, and let's pass the prompt.
->
-> **[3:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=209)** And finally, let's create this never ending loop for displaying the main menu.
->
-> **[3:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=217)** All right, so let's test this by opening up the terminal and let's execute [[Python (Programming Language)|Python]] and then assistance.py.
->
-> **[3:47](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=227)** So as you can see, this is displaying the menu.
->
-> **[3:51](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=231)** Say, "Hello world."
->
-> **[3:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=233)** And this is returning that same text because we're not using the assistance object right now.
->
-> **[4:02](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=242)** For that, we need to create a thread and we're going to do that next.
+> **[2:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=162)** And of course, this is a function. So let's prettify this. And then prompt equals input because I want the user to type a prompt. So enter your prompt. And then let's specify another function handle main menu option. So we're going to receive the prompt in here. We're just going to print the prompt in the screen, and that's it. So I want this to execute, handle main menu option, and let's pass the prompt. And finally, let's create this never ending loop for displaying the main menu. All right, so let's test this by opening up the terminal and let's execute [[Python (Programming Language)|Python]] and then assistance.py. So as you can see, this is displaying the menu. Say, "Hello world." And this is returning that same text because we're not using the assistance object right now. For that, we need to create a thread and we're going to do that next.
 
 > [!info]- Semantic Content
 >
@@ -633,49 +281,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=0)** - [Instructor] Now, we're ready to create a new thread.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=0)** - [Instructor] Now, we're ready to create a new thread. A thread represents a conversation that includes messages created by both the user and the model. In other words, when you as a user send a message, the model will respond with a message in the same thread as your original message. This process is similar to creating a new chat in [[ChatGPT]]. Let's see how this is done. Let's create a new variable and let's name it thread. And then, let's invoke client_beta. And then threads. And here we have a couple of functions. The first one is create. And the other one allows me to create the thread and execute it right away. In this case, I'm going to use create, since I want to add messages in this handle main menu option function. So here, let's do the following, client.beta.threads, and then I'm going to add a new message. We do that by executing create. And here, I need to pass the ID of the thread in this case is thread.id. And then, the role, in this case is user. That is actually the only option available right now. And, let's scroll up a little bit. And finally, I'm going to use content.
 >
-> **[0:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=3)** A thread represents a conversation that includes messages created by both the user and the model.
->
-> **[0:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=9)** In other words, when you as a user send a message, the model will respond with a message in the same thread as your original message.
->
-> **[0:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=20)** This process is similar to creating a new chat in [[ChatGPT]].
->
-> **[0:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=25)** Let's see how this is done.
->
-> **[0:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=27)** Let's create a new variable and let's name it thread.
->
-> **[0:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=32)** And then, let's invoke client_beta.
->
-> **[0:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=35)** And then threads.
->
-> **[0:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=37)** And here we have a couple of functions.
->
-> **[0:40](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=40)** The first one is create.
->
-> **[0:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=42)** And the other one allows me to create the thread and execute it right away.
->
-> **[0:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=48)** In this case, I'm going to use create, since I want to add messages in this handle main menu option function.
->
-> **[0:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=57)** So here, let's do the following, client.beta.threads, and then I'm going to add a new message.
->
-> **[1:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=66)** We do that by executing create.
->
-> **[1:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=70)** And here, I need to pass the ID of the thread in this case is thread.id.
->
-> **[1:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=80)** And then, the role, in this case is user.
->
-> **[1:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=86)** That is actually the only option available right now.
->
-> **[1:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=90)** And, let's scroll up a little bit.
->
-> **[1:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=95)** And finally, I'm going to use content.
->
-> **[1:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=99)** And I'm going to use prompt, that I'm receiving here in the parameter.
->
-> **[1:46](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=106)** And now we're ready to execute the thread.
->
-> **[1:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=108)** Join me in the next video where we're going to do that.
+> **[1:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=99)** And I'm going to use prompt, that I'm receiving here in the parameter. And now we're ready to execute the thread. Join me in the next video where we're going to do that.
 
 > [!info]- Semantic Content
 >
@@ -691,53 +299,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=0)** - [Instructor] We've just created a new thread and added a message to it.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=0)** - [Instructor] We've just created a new thread and added a message to it. In fact, I can continue adding messages to the thread, but nothing will happen until I run it. So, let's do that next. Here, I want to specify a new variable named run, and I want to execute client.beta.threads.runs. And I want to use the create function. Here, I need to specify the thread ID and the assistant ID. Remember that we have both objects, here and in this other place. Okay, so to expedite this process, I'm going to paste this code, because I need to verify and inspect the latest status of that drawn object. The thing about the run object is that it'll be executed asynchronously. Therefore, we need to periodically check and retrieve its latest status in a polling manner. Okay, so I need to import time. And this is because I have that time.sleep(2). This will allow the program to wait for a couple of seconds, before asking for the newer status. And finally, I'm retrieving all the messages that are inside that particular thread.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=4)** In fact, I can continue adding messages to the thread, but nothing will happen until I run it.
->
-> **[0:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=10)** So, let's do that next.
->
-> **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=13)** Here, I want to specify a new variable named run, and I want to execute client.beta.threads.runs.
->
-> **[0:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=24)** And I want to use the create function.
->
-> **[0:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=29)** Here, I need to specify the thread ID and the assistant ID.
->
-> **[0:36](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=36)** Remember that we have both objects, here and in this other place.
->
-> **[0:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=43)** Okay, so to expedite this process, I'm going to paste this code, because I need to verify and inspect the latest status of that drawn object.
->
-> **[0:55](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=55)** The thing about the run object is that it'll be executed asynchronously.
->
-> **[1:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=60)** Therefore, we need to periodically check and retrieve its latest status in a polling manner.
->
-> **[1:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=67)** Okay, so I need to import time.
->
-> **[1:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=73)** And this is because I have that time.sleep(2).
->
-> **[1:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=79)** This will allow the program to wait for a couple of seconds, before asking for the newer status.
->
-> **[1:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=86)** And finally, I'm retrieving all the messages that are inside that particular thread.
->
-> **[1:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=95)** And I want to read the first message in the list.
->
-> **[1:40](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=100)** That item is the last message that was added by the model.
->
-> **[1:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=105)** Okay, so now we're ready to test this out.
->
-> **[1:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=113)** Here, I want to type what is the capital city of Italy?
->
-> **[2:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=120)** And, of course, the answer is Rome.
->
-> **[2:02](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=122)** And now, tell me more about that city.
->
-> **[2:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=129)** And here we have more information about Rome.
->
-> **[2:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=133)** As you can see, I didn't need to add additional information or context about the city because the assistant already has all the required information, in the message history for this thread.
->
-> **[2:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=147)** Okay, so now, we're going to upload the [[JSON]] files to the assistant, so we can use that data for reasoning and responding.
->
-> **[2:36](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=156)** We're going to do that next.
+> **[1:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=95)** And I want to read the first message in the list. That item is the last message that was added by the model. Okay, so now we're ready to test this out. Here, I want to type what is the capital city of Italy? And, of course, the answer is Rome. And now, tell me more about that city. And here we have more information about Rome. As you can see, I didn't need to add additional information or context about the city because the assistant already has all the required information, in the message history for this thread. Okay, so now, we're going to upload the [[JSON]] files to the assistant, so we can use that data for reasoning and responding. We're going to do that next.
 
 > [!info]- Semantic Content
 >
@@ -754,17 +318,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980&t=0)** - [Instructor] The plan is for the KinderLogger assistant to gain access to the info we get from the audio files.
->
-> **[0:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980&t=7)** I'm looking for KinderLogger to answer my questions, which I'll ask just like I'm talking to a person.
->
-> **[0:14](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980&t=14)** Basically, I want to have a chat with it about my son's school life and important stuff happening with him.
->
-> **[0:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980&t=22)** In this chapter, we're going to upload the files to the assistant.
->
-> **[0:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980&t=26)** Sounds good?
->
-> **[0:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980&t=27)** Okay, let's get started.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980&t=0)** - [Instructor] The plan is for the KinderLogger assistant to gain access to the info we get from the audio files. I'm looking for KinderLogger to answer my questions, which I'll ask just like I'm talking to a person. Basically, I want to have a chat with it about my son's school life and important stuff happening with him. In this chapter, we're going to upload the files to the assistant. Sounds good? Okay, let's get started.
 
 > [!info]- Semantic Content
 >
@@ -775,49 +329,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=0)** - [Instructor] Let's start by uploading the [[JSON]] files to the assistant.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=0)** - [Instructor] Let's start by uploading the [[JSON]] files to the assistant. It's pretty simple and just takes two steps. First, we need to get the file up into Open AI storage. After that, we'll just link that file to the specific assistant instance we're creating. Okay, let's begin by importing glob for file path pattern matching, and then let's specify the pattern and list the files in the current folder. Of course, we're interested in those JSON files. Now we'll iterate over the list of files and let's show the processing file message on the screen. Next, let's upload the current file. To do that, we're going to use client.files.create. Take into account that the purpose should be assistance. And then let's reference the recently uploaded file to the assistant we've just created. Let's save this, and finally, let's test the code in the terminal. We can see that the files were uploaded successfully. Since we've just added the files, let's ask something related to the school. For example, the other day, the firefighters visited the kindergarten to talk about fire prevention to the children. So let's enter the following prompt. When did the firefighters visit the kindergarten? So you can see we're getting a response from the model.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=4)** It's pretty simple and just takes two steps.
->
-> **[0:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=8)** First, we need to get the file up into Open AI storage.
->
-> **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=13)** After that, we'll just link that file to the specific assistant instance we're creating.
->
-> **[0:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=18)** Okay, let's begin by importing glob for file path pattern matching, and then let's specify the pattern and list the files in the current folder.
->
-> **[0:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=28)** Of course, we're interested in those JSON files.
->
-> **[0:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=32)** Now we'll iterate over the list of files and let's show the processing file message on the screen.
->
-> **[0:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=41)** Next, let's upload the current file.
->
-> **[0:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=44)** To do that, we're going to use client.files.create.
->
-> **[0:49](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=49)** Take into account that the purpose should be assistance.
->
-> **[0:52](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=52)** And then let's reference the recently uploaded file to the assistant we've just created.
->
-> **[0:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=59)** Let's save this, and finally, let's test the code in the terminal.
->
-> **[1:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=68)** We can see that the files were uploaded successfully.
->
-> **[1:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=71)** Since we've just added the files, let's ask something related to the school.
->
-> **[1:16](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=76)** For example, the other day, the firefighters visited the kindergarten to talk about fire prevention to the children.
->
-> **[1:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=84)** So let's enter the following prompt.
->
-> **[1:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=87)** When did the firefighters visit the kindergarten?
->
-> **[1:31](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=91)** So you can see we're getting a response from the model.
->
-> **[1:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=95)** But to be honest, it's not exactly accurate.
->
-> **[1:40](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=100)** That's actually pretty normal with LLMs.
->
-> **[1:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=103)** The key is to fit in a bit more information to guide the model, helping it to nail down the most accurate answer for us.
->
-> **[1:51](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=111)** We're going to do that next.
+> **[1:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=95)** But to be honest, it's not exactly accurate. That's actually pretty normal with LLMs. The key is to fit in a bit more information to guide the model, helping it to nail down the most accurate answer for us. We're going to do that next.
 
 > [!info]- Semantic Content
 >
@@ -832,57 +346,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=0)** - [Instructor] In this video, we're going to improve the assistant's instructions, and also we're going to include an additional user message that has more information to help the model respond more accurately.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=0)** - [Instructor] In this video, we're going to improve the assistant's instructions, and also we're going to include an additional user message that has more information to help the model respond more accurately. Okay, let's get started. The first thing that I want to do is I want to get rid of those instructions, and I'm going to paste the new instructions now. And as you can see, I'm asking for different things now. I'm asking the assistant to use the knowledge from the uploaded files. Also, I'm asking to do it in a seamless way. And finally, if it didn't know the answer, it should respond, "I don't know." So those are the new instructions now, and let's create another user message. I'm going to paste the code here, and the value for the content will be this text. So you can see that I am telling the assistant, Hey, today is today and the current school week goes from this date to this other date. And finally, search in all the documents. Of course, I need those values. So let's copy that code that I already have here, and let's import the daytime util module. By the way, I already included that, so you can see I have that function that returns a tuple with the begin
 >
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=12)** Okay, let's get started.
+> **[1:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=95)** and end days for the school week related to the input day parameter. Okay, so this is looking good. And now I think we're ready to test this out. Let's open up the terminal and let's execute assistants. By the way, with this changes, I'm expecting the model to respond more accurately. Now, [[Prompt Engineering]] is a form of art, and maybe you could try additional techniques in order to reduce hallucinations. Okay, so we have the prompt now, and I'm going to paste, "When did the firefighters visit the kindergarten?" And as you can see, the response is January 16, which is correct. And let me ask something about my son. "What did Leo have for lunch two days ago?"
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=15)** The first thing that I want to do is I want to get rid of those instructions, and I'm going to paste the new instructions now.
->
-> **[0:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=25)** And as you can see, I'm asking for different things now.
->
-> **[0:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=29)** I'm asking the assistant to use the knowledge from the uploaded files.
->
-> **[0:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=34)** Also, I'm asking to do it in a seamless way.
->
-> **[0:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=38)** And finally, if it didn't know the answer, it should respond, "I don't know."
->
-> **[0:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=43)** So those are the new instructions now, and let's create another user message.
->
-> **[0:51](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=51)** I'm going to paste the code here, and the value for the content will be this text.
->
-> **[0:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=59)** So you can see that I am telling the assistant, Hey, today is today and the current school week goes from this date to this other date.
->
-> **[1:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=69)** And finally, search in all the documents.
->
-> **[1:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=73)** Of course, I need those values.
->
-> **[1:16](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=76)** So let's copy that code that I already have here, and let's import the daytime util module.
->
-> **[1:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=88)** By the way, I already included that, so you can see I have that function that returns a tuple with the begin and end days for the school week related to the input day parameter.
->
-> **[1:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=101)** Okay, so this is looking good.
->
-> **[1:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=104)** And now I think we're ready to test this out.
->
-> **[1:49](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=109)** Let's open up the terminal and let's execute assistants.
->
-> **[1:55](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=115)** By the way, with this changes, I'm expecting the model to respond more accurately.
->
-> **[2:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=121)** Now, [[Prompt Engineering]] is a form of art, and maybe you could try additional techniques in order to reduce hallucinations.
->
-> **[2:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=129)** Okay, so we have the prompt now, and I'm going to paste, "When did the firefighters visit the kindergarten?"
->
-> **[2:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=139)** And as you can see, the response is January 16, which is correct.
->
-> **[2:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=145)** And let me ask something about my son.
->
-> **[2:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=149)** "What did Leo have for lunch two days ago?"
->
-> **[2:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=157)** Again, this is accurate since he had one sandwich out of three.
->
-> **[2:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=162)** And yes, those are small sandwiches.
->
-> **[2:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=164)** Okay, so it looks like the assistant is more accurate right now.
+> **[2:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=157)** Again, this is accurate since he had one sandwich out of three. And yes, those are small sandwiches. Okay, so it looks like the assistant is more accurate right now.
 
 > [!info]- Semantic Content
 >
@@ -895,29 +363,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=0)** - [Instructor] In the Assistants Playground in your OpenAI portal, you can easily create, test, and manage all your assistants, whether you built them using code or created them directly on the Playground.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=0)** - [Instructor] In the Assistants Playground in your OpenAI portal, you can easily create, test, and manage all your assistants, whether you built them using code or created them directly on the Playground. In this video, I've removed all the assistants we made in the previous lessons. This assistant, you see, is the last one I put together using [[Python (Programming Language)|Python]]. You can view its name, its ID, and the creation date. If you click here and then Edit, you can change various aspects of the assistant, such as the name, the instructions. By the way, you can expand the instructions here. Let's go back. You can change the model it's using, the activated tools, and of course any files you've added. You can also test the assistant if you click on Test, and here, you can enter any prompt you'd like the assistant to process. For example: "How do the children earn toy coins?"
 >
-> **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=13)** In this video, I've removed all the assistants we made in the previous lessons.
->
-> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=19)** This assistant, you see, is the last one I put together using [[Python (Programming Language)|Python]].
->
-> **[0:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=25)** You can view its name, its ID, and the creation date.
->
-> **[0:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=29)** If you click here and then Edit, you can change various aspects of the assistant, such as the name, the instructions.
->
-> **[0:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=39)** By the way, you can expand the instructions here.
->
-> **[0:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=43)** Let's go back.
->
-> **[0:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=44)** You can change the model it's using, the activated tools, and of course any files you've added.
->
-> **[0:52](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=52)** You can also test the assistant if you click on Test, and here, you can enter any prompt you'd like the assistant to process.
->
-> **[1:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=61)** For example: "How do the children earn toy coins?"
->
-> **[1:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=71)** So this is creating a new thread, passing the instructions, and finally, I'm receiving the response from the model.
->
-> **[1:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=80)** As you can see, this is a tool that can come in handy when creating assistants.
+> **[1:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=71)** So this is creating a new thread, passing the instructions, and finally, I'm receiving the response from the model. As you can see, this is a tool that can come in handy when creating assistants.
 
 > [!info]- Semantic Content
 >
@@ -937,17 +385,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=0)** - [Narrator] I'm hoping that, in the near future, lots of parents will use the KidLogger assistant.
->
-> **[0:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=7)** Some might prefer it as an app on their smartphones, while others might like it as a web app or even linked to a home device.
->
-> **[0:16](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=16)** To make this happen, in this part of the course, we're going to focus on creating a web API.
->
-> **[0:23](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=23)** This will expose the assistance functionality, making it accessible in different [[Forms]].
->
-> **[0:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=29)** All right, are you ready?
->
-> **[0:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=32)** Join me in the next video.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=0)** - [Narrator] I'm hoping that, in the near future, lots of parents will use the KidLogger assistant. Some might prefer it as an app on their smartphones, while others might like it as a web app or even linked to a home device. To make this happen, in this part of the course, we're going to focus on creating a web API. This will expose the assistance functionality, making it accessible in different [[Forms]]. All right, are you ready? Join me in the next video.
 
 > [!info]- Semantic Content
 >
@@ -961,61 +399,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=0)** - [Instructor] In this video, we're going to create the web API that is going to expose the OpenAI assistant that we've created.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=0)** - [Instructor] In this video, we're going to create the web API that is going to expose the OpenAI assistant that we've created. First, we need to install the FastAPI [[Python (Programming Language)|Python]] library. FastAPI is a web framework for building, well, fast web APIs. One of its great features is the automatic generation of an OpenAPI schema. We're going to use the schema when creating the action for the GPT application. So let's open the terminal, and we can do this by executing: pip install fastapi. We're also going to install the Uvicorn web server for running the web API and handle HTTP requests and send responses. So, "uvicorn". I already did this, so there's no need for me to execute this again. Let's close the terminal, and let's begin with the implementation. First, we need to import the FastAPI library. Specifically, we're going to use the FastAPI class for creating a new application. And then, we're going to execute POST for creating this "/message" endpoint. So we need a function. This function receives the string, and we're just returning "No message received" if there's no message at all. Otherwise, we're returning message equals message. Very simple right now,
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=8)** First, we need to install the FastAPI [[Python (Programming Language)|Python]] library.
->
-> **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=13)** FastAPI is a web framework for building, well, fast web APIs.
->
-> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=19)** One of its great features is the automatic generation of an OpenAPI schema.
->
-> **[0:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=26)** We're going to use the schema when creating the action for the GPT application.
->
-> **[0:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=30)** So let's open the terminal, and we can do this by executing: pip install fastapi.
->
-> **[0:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=39)** We're also going to install the Uvicorn web server for running the web API and handle HTTP requests and send responses.
->
-> **[0:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=48)** So, "uvicorn".
->
-> **[0:51](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=51)** I already did this, so there's no need for me to execute this again.
->
-> **[0:56](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=56)** Let's close the terminal, and let's begin with the implementation.
->
-> **[1:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=60)** First, we need to import the FastAPI library.
->
-> **[1:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=64)** Specifically, we're going to use the FastAPI class for creating a new application.
->
-> **[1:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=71)** And then, we're going to execute POST for creating this "/message" endpoint.
->
-> **[1:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=78)** So we need a function.
->
-> **[1:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=80)** This function receives the string, and we're just returning "No message received" if there's no message at all.
->
-> **[1:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=89)** Otherwise, we're returning message equals message.
->
-> **[1:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=93)** Very simple right now, because we're going to continue with implementation in the next video.
->
-> **[1:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=99)** Okay, so let's test this by executing: python, and then, -m uvicorn, the name of the file, which is service, and then, colon, the name of the application, which is app.
->
-> **[1:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=119)** Let's run this. So it's running.
->
-> **[2:02](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=122)** Let's navigate to my localhost and the 8000 port.
->
-> **[2:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=130)** And here, you can see that I am receiving "Not Found".
->
-> **[2:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=133)** It doesn't matter.
->
-> **[2:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=135)** We can navigate to /docs, so we can see the OpenAPI documentation.
->
-> **[2:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=141)** And here is the [[JSON]] schema that we're going to use in one of the following videos.
->
-> **[2:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=148)** Okay, let's test this, try it out.
->
-> **[2:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=152)** "Hello", and then Execute, and we're receiving "Hello" back.
->
-> **[2:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=159)** Okay, this is working.
->
-> **[2:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=161)** So join me in the next video, where we're going to continue with the implementation.
+> **[1:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=95)** because we're going to continue with implementation in the next video. Okay, so let's test this by executing: python, and then, -m uvicorn, the name of the file, which is service, and then, colon, the name of the application, which is app. Let's run this. So it's running. Let's navigate to my localhost and the 8000 port. And here, you can see that I am receiving "Not Found". It doesn't matter. We can navigate to /docs, so we can see the OpenAPI documentation. And here is the [[JSON]] schema that we're going to use in one of the following videos. Okay, let's test this, try it out. "Hello", and then Execute, and we're receiving "Hello" back. Okay, this is working. So join me in the next video, where we're going to continue with the implementation.
 
 > [!info]- Semantic Content
 >
@@ -1033,65 +419,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=0)** - [Instructor] We have this basic implementation of a web API using FastAPI.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=0)** - [Instructor] We have this basic implementation of a web API using FastAPI. Now we need to invoke the assistant that we've created. First, let's import the required modules. Then let's create the constant that we're going to use for the second user message. And now let's read the environment variables and create the OpenAI client object. So here's what's happening now. As you can see, we are reading the environment variables for both the API key and the assistant ID. This strategy will help us configure the target assistant without requiring the service to be updated. To expedite this process, I already set the environment variable in my machine for development purposes. So let's open up the terminal and let's execute ls env and then forward slash and the name of this environment variable. So we can see that we have that environment variable in place. Okay, let's close the terminal. And now let's implement the [[Representational State Transfer (REST)|rest]] of the code. So I'm going to paste it right here and you can see that we're creating a new threat. This is a deliberate decision I've made for this service, but it's actually not absolutely required. Feel free to reuse an existing thread if you want. And in this code, we're retrieving the assistant with the specified ID.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=5)** Now we need to invoke the assistant that we've created.
+> **[1:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=94)** Then we can send and receive messages just like we did in the assistance.py file. Okay, let's test this. Let's execute [[Python (Programming Language)|Python]], uvicorn, and the name of the FastAPI application. But first, let's save this. Okay, so let's execute again, and it's running. Let's navigate to the browser. Here in the browser, let's navigate to docs. And here, let's click on post. Try it out and let's type a real prompt, such as, "When did the fire fighters visit the school?"
 >
-> **[0:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=9)** First, let's import the required modules.
->
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=12)** Then let's create the constant that we're going to use for the second user message.
->
-> **[0:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=17)** And now let's read the environment variables and create the OpenAI client object.
->
-> **[0:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=22)** So here's what's happening now.
->
-> **[0:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=25)** As you can see, we are reading the environment variables for both the API key and the assistant ID.
->
-> **[0:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=32)** This strategy will help us configure the target assistant without requiring the service to be updated.
->
-> **[0:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=39)** To expedite this process, I already set the environment variable in my machine for development purposes.
->
-> **[0:46](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=46)** So let's open up the terminal and let's execute ls env and then forward slash and the name of this environment variable.
->
-> **[1:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=61)** So we can see that we have that environment variable in place.
->
-> **[1:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=66)** Okay, let's close the terminal.
->
-> **[1:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=68)** And now let's implement the [[Representational State Transfer (REST)|rest]] of the code.
->
-> **[1:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=72)** So I'm going to paste it right here and you can see that we're creating a new threat.
->
-> **[1:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=79)** This is a deliberate decision I've made for this service, but it's actually not absolutely required.
->
-> **[1:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=85)** Feel free to reuse an existing thread if you want.
->
-> **[1:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=90)** And in this code, we're retrieving the assistant with the specified ID.
->
-> **[1:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=94)** Then we can send and receive messages just like we did in the assistance.py file.
->
-> **[1:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=101)** Okay, let's test this.
->
-> **[1:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=102)** Let's execute [[Python (Programming Language)|Python]], uvicorn, and the name of the FastAPI application.
->
-> **[1:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=110)** But first, let's save this.
->
-> **[1:52](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=112)** Okay, so let's execute again, and it's running.
->
-> **[1:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=117)** Let's navigate to the browser.
->
-> **[2:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=120)** Here in the browser, let's navigate to docs.
->
-> **[2:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=124)** And here, let's click on post.
->
-> **[2:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=127)** Try it out and let's type a real prompt, such as, "When did the fire fighters visit the school?"
->
-> **[2:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=141)** Okay, let's click on execute.
->
-> **[2:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=144)** Let's wait for the response.
->
-> **[2:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=148)** And here's the response.
->
-> **[2:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=150)** The firefighters visited the school on January 16, which is correct, so we can see that this is working just as expected.
+> **[2:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=141)** Okay, let's click on execute. Let's wait for the response. And here's the response. The firefighters visited the school on January 16, which is correct, so we can see that this is working just as expected.
 
 > [!info]- Semantic Content
 >
@@ -1108,57 +440,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=0)** - [Instructor] In this video, we're going to implement logging logic in the service.
->
-> **[0:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=4)** This can come in handy when inspecting the request data sent by the service clients such as the GPT application.
->
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=12)** To do this, let's import the logging module.
->
-> **[0:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=18)** So we have the module and then let's configure the logging level.
->
-> **[0:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=25)** So logging.basicConfig, and we're going to use say INFO just like this.
->
-> **[0:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=34)** And now I need a way to read the request data since I'm interested in a particular header.
->
-> **[0:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=41)** So let's import both FastAPI and the request class from the FastAPI module.
->
-> **[0:49](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=49)** So here, let's modify the function and let's specify request is going to be request.
->
-> **[0:58](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=58)** And now I'm ready to read the headers.
->
-> **[1:02](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=62)** I'm interested in a particular header, which is Openai-Conversation-Id that the GPT application will send.
->
-> **[1:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=72)** So I can do something like headers and then get and the name of the header Openai-Conversation-Id.
->
-> **[1:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=87)** Okay, and let's put this in conversation_id.
->
-> **[1:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=92)** Okay, so now I can validate if this has a value.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=0)** - [Instructor] In this video, we're going to implement logging logic in the service. This can come in handy when inspecting the request data sent by the service clients such as the GPT application. To do this, let's import the logging module. So we have the module and then let's configure the logging level. So logging.basicConfig, and we're going to use say INFO just like this. And now I need a way to read the request data since I'm interested in a particular header. So let's import both FastAPI and the request class from the FastAPI module. So here, let's modify the function and let's specify request is going to be request. And now I'm ready to read the headers. I'm interested in a particular header, which is Openai-Conversation-Id that the GPT application will send. So I can do something like headers and then get and the name of the header Openai-Conversation-Id. Okay, and let's put this in conversation_id. Okay, so now I can validate if this has a value.
 >
 > **[1:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=97)** Then let's use logging.info and then Openai-Conversation-Id is the following.
 >
-> **[1:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=113)** Let's use this conversation_id otherwise, let's use logging.info and header not found or Openai-Conversation-Id header not found.
->
-> **[2:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=132)** Something like this. Okay, let's test this.
->
-> **[2:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=138)** Let's execute [[Python (Programming Language)|Python]] Unicorn, and let's navigate to the browser.
->
-> **[2:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=145)** And here, let's navigate to docs and then post.
->
-> **[2:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=150)** Try it out. Hello, it doesn't matter.
->
-> **[2:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=154)** I just want the logging functionality to execute.
->
-> **[2:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=159)** So let's wait for this.
->
-> **[2:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=163)** I received the response.
->
-> **[2:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=165)** So let's navigate back to Visual Studio Code and let's scroll up so we can see that we are receiving, "Openai-Conversation-Id header not found."
->
-> **[2:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=179)** Okay, so this is working.
->
-> **[3:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=181)** So now we're ready to build and publish the docker image for the service.
->
-> **[3:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=186)** We're going to do that next.
+> **[1:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=113)** Let's use this conversation_id otherwise, let's use logging.info and header not found or Openai-Conversation-Id header not found. Something like this. Okay, let's test this. Let's execute [[Python (Programming Language)|Python]] Unicorn, and let's navigate to the browser. And here, let's navigate to docs and then post. Try it out. Hello, it doesn't matter. I just want the logging functionality to execute. So let's wait for this. I received the response. So let's navigate back to Visual Studio Code and let's scroll up so we can see that we are receiving, "Openai-Conversation-Id header not found." Okay, so this is working. So now we're ready to build and publish the docker image for the service. We're going to do that next.
 
 > [!info]- Semantic Content
 >
@@ -1175,47 +461,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=0)** - [Instructor] In this video, we're going to build and publish the Docker image for the service.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=0)** - [Instructor] In this video, we're going to build and publish the Docker image for the service. First, we need to create the requirements .txt file. This file contains a list of dependencies required for the project. So the dependencies are openAI and fastAPI, and finally, uvicorn. Then we need to create a docker file, which is a document that contains all the commands required to assemble an image using docker. Essentially, it's a recipe for creating docker images. So you can see that I'm using this base image and I'm configuring this folder as the working directory, and I am copying those three files. And then I am installing all the dependencies by using the requirements .TXT file, and then I'm exposing the port 8000. And finally I'm executing the service. Okay, so now let's create the image. I'm going to type, "docker" and then, "build." And then the tag is my username in docker hub and then kinderlogger, and finally v1. And I need to pass the context, which is the same folder that I'm into right now. Okay, so let's pass this and let's create the image. So this process starts,
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=5)** First, we need to create the requirements .txt file.
->
-> **[0:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=9)** This file contains a list of dependencies required for the project.
->
-> **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=13)** So the dependencies are openAI and fastAPI, and finally, uvicorn.
->
-> **[0:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=21)** Then we need to create a docker file, which is a document that contains all the commands required to assemble an image using docker.
->
-> **[0:31](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=31)** Essentially, it's a recipe for creating docker images.
->
-> **[0:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=35)** So you can see that I'm using this base image and I'm configuring this folder as the working directory, and I am copying those three files.
->
-> **[0:47](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=47)** And then I am installing all the dependencies by using the requirements .TXT file, and then I'm exposing the port 8000.
->
-> **[1:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=60)** And finally I'm executing the service.
->
-> **[1:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=63)** Okay, so now let's create the image.
->
-> **[1:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=67)** I'm going to type, "docker" and then, "build."
->
-> **[1:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=71)** And then the tag is my username in docker hub and then kinderlogger, and finally v1.
->
-> **[1:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=81)** And I need to pass the context, which is the same folder that I'm into right now.
->
-> **[1:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=86)** Okay, so let's pass this and let's create the image.
->
-> **[1:31](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=91)** So this process starts, and let's wait for this to finish.
->
-> **[1:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=97)** So the image is created.
->
-> **[1:40](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=100)** So now we're ready to push it to docker hub.
->
-> **[1:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=103)** So let's execute docker push, and then the name of the image, which is my username and kinderlogger:v1.
->
-> **[1:55](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=115)** So this is uploading the image, and now it's available for us to use it.
->
-> **[2:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=123)** Let's navigate to Docker hub.
->
-> **[2:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=127)** So as you can see, we pushed the image successfully and it's ready to be used.
+> **[1:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980&t=94)** and let's wait for this to finish. So the image is created. So now we're ready to push it to docker hub. So let's execute docker push, and then the name of the image, which is my username and kinderlogger:v1. So this is uploading the image, and now it's available for us to use it. Let's navigate to Docker hub. So as you can see, we pushed the image successfully and it's ready to be used.
 
 > [!info]- Semantic Content
 >
@@ -1231,65 +479,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=0)** - [Instructor] We need a place to execute the Docker container.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=0)** - [Instructor] We need a place to execute the Docker container. And in this video we're going to use an [[Microsoft Azure|Azure]] container app to do that. In the Azure portal, I already navigated to the Marketplace and searched for container app. Here, I can click on Create and I can specify the subscription and the resource group. And the container app name is kinderlogger Test, or something, and this is because I already created the kinderlogger container app. I'm just showing you the process. Okay, so here you can specify your region and the container apps environment. In this case, it's going to reuse the existing one that I created beforehand. Okay, let's click on Container, and here I want to uncheck Use quickstart image and this is because I want to reuse my existing image. So this is my username and kinderloggerv1. Then the Container research allocation, I'm going to use those values and here you can specify the environment variables for the container. So OPENAI_API_KEY, remember, that is quite important. And then you're going to paste the value here. And the other one, which is OPENAI_ ASSISTANT ID. Okay, I'm just setting the value because, as I mentioned
 >
-> **[0:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=3)** And in this video we're going to use an [[Microsoft Azure|Azure]] container app to do that.
+> **[1:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=98)** before, I already created this kinderlogger container app. Okay, let's navigate to Bindings. There are no bindings in this project, so Ingress, we want to enable ingress and we're going to use 8000 as a target port. And finally, we're going to use Client certificate mode Ignore. Okay, so if you want to add some tags to this particular resource, you can do that. And as I mentioned before, I have this kinderlogger container app, okay? So let me show you here in Containers, Environment variables. You can see that I already set those values for this particular container. Okay, so let's go back to the overview. And here I want to click on the application URL, and let's navigate to DOGS. And you can see that this is responding just as expected. And when did the firefighters visit the school? Let's execute this And we can see the response from the model. Okay, now we're ready to use this service from the GPT application. But before we do that,
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=8)** In the Azure portal, I already navigated to the Marketplace and searched for container app.
->
-> **[0:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=15)** Here, I can click on Create and I can specify the subscription and the resource group.
->
-> **[0:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=22)** And the container app name is kinderlogger Test, or something, and this is because I already created the kinderlogger container app.
->
-> **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=33)** I'm just showing you the process.
->
-> **[0:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=35)** Okay, so here you can specify your region and the container apps environment.
->
-> **[0:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=42)** In this case, it's going to reuse the existing one that I created beforehand.
->
-> **[0:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=48)** Okay, let's click on Container, and here I want to uncheck Use quickstart image and this is because I want to reuse my existing image.
->
-> **[1:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=60)** So this is my username and kinderloggerv1.
->
-> **[1:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=67)** Then the Container research allocation, I'm going to use those values and here you can specify the environment variables for the container.
->
-> **[1:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=78)** So OPENAI_API_KEY, remember, that is quite important.
->
-> **[1:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=85)** And then you're going to paste the value here.
->
-> **[1:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=88)** And the other one, which is OPENAI_ ASSISTANT ID.
->
-> **[1:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=94)** Okay, I'm just setting the value because, as I mentioned before, I already created this kinderlogger container app.
->
-> **[1:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=104)** Okay, let's navigate to Bindings.
->
-> **[1:47](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=107)** There are no bindings in this project, so Ingress, we want to enable ingress and we're going to use 8000 as a target port.
->
-> **[2:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=120)** And finally, we're going to use Client certificate mode Ignore.
->
-> **[2:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=126)** Okay, so if you want to add some tags to this particular resource, you can do that.
->
-> **[2:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=132)** And as I mentioned before, I have this kinderlogger container app, okay?
->
-> **[2:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=138)** So let me show you here in Containers, Environment variables.
->
-> **[2:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=144)** You can see that I already set those values for this particular container.
->
-> **[2:31](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=151)** Okay, so let's go back to the overview.
->
-> **[2:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=154)** And here I want to click on the application URL, and let's navigate to DOGS.
->
-> **[2:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=163)** And you can see that this is responding just as expected.
->
-> **[2:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=168)** And when did the firefighters visit the school?
->
-> **[2:56](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=176)** Let's execute this And we can see the response from the model.
->
-> **[3:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=185)** Okay, now we're ready to use this service from the GPT application.
->
-> **[3:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=191)** But before we do that, we're going to invoke the moderations API to implement a safe AI solution.
->
-> **[3:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=199)** We're going to do that next.
+> **[3:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=193)** we're going to invoke the moderations API to implement a safe AI solution. We're going to do that next.
 
 > [!info]- Semantic Content
 >
@@ -1310,15 +504,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] has totally changed how we do things every day.
->
-> **[0:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980&t=6)** So it's paramount that our Kinder Lagger project can identify any harmful content.
->
-> **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980&t=13)** This is especially crucial when we're creating apps for the public.
->
-> **[0:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980&t=18)** And this part of the course, we'll dive into using the Moderation's API to implement some safety checks.
->
-> **[0:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980&t=26)** All right, let's begin.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] has totally changed how we do things every day. So it's paramount that our Kinder Lagger project can identify any harmful content. This is especially crucial when we're creating apps for the public. And this part of the course, we'll dive into using the Moderation's API to implement some safety checks. All right, let's begin.
 
 > [!info]- Semantic Content
 >
@@ -1330,27 +516,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=0)** - [Instructor] Having safety measures is critical for AI applications.
->
-> **[0:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=5)** So in this video, we're going to put the moderations API to work while we transcribe the audio files.
->
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=12)** So here, let's execute client moderations create.
->
-> **[0:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=17)** And we need to pass the input which is the transcription that we're receiving from the transcriptions API.
->
-> **[0:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=24)** And let's put this in moderation response so we can evaluate if the content is safe.
->
-> **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=33)** So if moderation response results, the first result is flagged, then something happened.
->
-> **[0:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=42)** We can print the entire transcription and finally we can break the code.
->
-> **[0:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=48)** With this, we prevent the [[Representational State Transfer (REST)|rest]] of the code from executing.
->
-> **[0:56](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=56)** This is just one safety measure at the source of the data.
->
-> **[1:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=60)** In addition, we should implement something similar in the service.
->
-> **[1:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=64)** We're going to do that next.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=0)** - [Instructor] Having safety measures is critical for AI applications. So in this video, we're going to put the moderations API to work while we transcribe the audio files. So here, let's execute client moderations create. And we need to pass the input which is the transcription that we're receiving from the transcriptions API. And let's put this in moderation response so we can evaluate if the content is safe. So if moderation response results, the first result is flagged, then something happened. We can print the entire transcription and finally we can break the code. With this, we prevent the [[Representational State Transfer (REST)|rest]] of the code from executing. This is just one safety measure at the source of the data. In addition, we should implement something similar in the service. We're going to do that next.
 
 > [!info]- Semantic Content
 >
@@ -1362,53 +528,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=0)** - [Instructor] In this video, we'll check out whether the message the user sent is safe for us to process.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=0)** - [Instructor] In this video, we'll check out whether the message the user sent is safe for us to process. Okay, so let's get started. Here, I need to modify the read message function. So let's invoke client moderations and then create. And let's pass input with message. And let's put this in moderation response. And now we need to validate moderation response results, the first result. And if it's flagged, then I want to raise an exception. So let's import HTTP exception. And let's do something like raise HTTP exception. And the status code, I want it to be 400. And the detail say invalid prompt. Okay, so now we're ready to build a new Docker image and push it to the Docker hub. So let's save this. And here, let's execute Docker build. And then the tag, my username, KinderLogger. And this is going to be V two. And the context is this folder. So let's execute this, and after a while, this process is finished
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=6)** Okay, so let's get started.
+> **[1:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=97)** so we can verify with Docker image list. So we have two Docker images for the KinderLogger application. So now I'm ready to push my username, KinderLogger v2.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=8)** Here, I need to modify the read message function.
->
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=12)** So let's invoke client moderations and then create.
->
-> **[0:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=17)** And let's pass input with message.
->
-> **[0:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=22)** And let's put this in moderation response.
->
-> **[0:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=26)** And now we need to validate moderation response results, the first result.
->
-> **[0:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=34)** And if it's flagged, then I want to raise an exception.
->
-> **[0:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=39)** So let's import HTTP exception.
->
-> **[0:46](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=46)** And let's do something like raise HTTP exception.
->
-> **[0:51](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=51)** And the status code, I want it to be 400.
->
-> **[0:56](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=56)** And the detail say invalid prompt.
->
-> **[1:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=61)** Okay, so now we're ready to build a new Docker image and push it to the Docker hub.
->
-> **[1:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=68)** So let's save this.
->
-> **[1:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=70)** And here, let's execute Docker build.
->
-> **[1:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=75)** And then the tag, my username, KinderLogger.
->
-> **[1:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=81)** And this is going to be V two.
->
-> **[1:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=84)** And the context is this folder.
->
-> **[1:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=88)** So let's execute this, and after a while, this process is finished so we can verify with Docker image list.
->
-> **[1:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=101)** So we have two Docker images for the KinderLogger application.
->
-> **[1:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=108)** So now I'm ready to push my username, KinderLogger v2.
->
-> **[1:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=117)** Let's wait for this.
->
-> **[1:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=119)** And now we're ready to use this new version in the [[Microsoft Azure|Azure]] container app.
->
-> **[2:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=125)** We're going to do that next.
+> **[1:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=117)** Let's wait for this. And now we're ready to use this new version in the [[Microsoft Azure|Azure]] container app. We're going to do that next.
 
 > [!info]- Semantic Content
 >
@@ -1421,33 +545,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=0)** - [Instructor] In the [[Microsoft Azure|Azure]] portal, we're going to navigate to the kinderlogger container app because we need to create a new revision so we can use the latest Docker image.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=0)** - [Instructor] In the [[Microsoft Azure|Azure]] portal, we're going to navigate to the kinderlogger container app because we need to create a new revision so we can use the latest Docker image. So let's click on create new revision, and then let's delete this container image and create another one. Let's set the name to kinderlogger and then Docker Hub. And the image is my username, kinderloggerv2. And then I can specify the container resource allocation, for instance, half a CPU core and one gig. And then the environment variables such as [[OpenAI API]] key. I should select manual entry with the value and OpenAI assistant ID. Also manual entry and the value. I'm typing the value because I already created the revision. So let's cancel this and let's go back to revisions. And this is actually the one that is running. We can navigate to containers to verify that actually I'm using the kinderloggerv2 Docker image, so we can go back to overview, click on application URL to navigate to this address
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=11)** So let's click on create new revision, and then let's delete this container image and create another one.
->
-> **[0:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=20)** Let's set the name to kinderlogger and then Docker Hub.
->
-> **[0:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=27)** And the image is my username, kinderloggerv2.
->
-> **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=33)** And then I can specify the container resource allocation, for instance, half a CPU core and one gig.
->
-> **[0:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=44)** And then the environment variables such as [[OpenAI API]] key.
->
-> **[0:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=50)** I should select manual entry with the value and OpenAI assistant ID.
->
-> **[1:02](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=62)** Also manual entry and the value.
->
-> **[1:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=66)** I'm typing the value because I already created the revision.
->
-> **[1:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=69)** So let's cancel this and let's go back to revisions.
->
-> **[1:14](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=74)** And this is actually the one that is running.
->
-> **[1:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=77)** We can navigate to containers to verify that actually I'm using the kinderloggerv2 Docker image, so we can go back to overview, click on application URL to navigate to this address and then docs so we can verify that this is running just as expected.
->
-> **[1:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=101)** Great job.
->
-> **[1:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=102)** Now join me in the next chapter where we're going to create the GPT application.
+> **[1:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=93)** and then docs so we can verify that this is running just as expected. Great job. Now join me in the next chapter where we're going to create the GPT application.
 
 > [!info]- Semantic Content
 >
@@ -1469,15 +569,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980&t=0)** - [Instructor] The (indistinct) Project is quite flexible because we've set it up as a service.
->
-> **[0:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980&t=6)** In this part of the course, we're going to explore the GPTs feature from OpenAI.
->
-> **[0:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980&t=11)** Now, keep in mind that GPTs need a paid plan with OpenAI.
->
-> **[0:16](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980&t=16)** Still, I'm really excited to show you why it's a fantastic option for the (indistinct) user interface.
->
-> **[0:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980&t=24)** All right, let's go ahead and get started.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980&t=0)** - [Instructor] The (indistinct) Project is quite flexible because we've set it up as a service. In this part of the course, we're going to explore the GPTs feature from OpenAI. Now, keep in mind that GPTs need a paid plan with OpenAI. Still, I'm really excited to show you why it's a fantastic option for the (indistinct) user interface. All right, let's go ahead and get started.
 
 > [!info]- Semantic Content
 >
@@ -1488,81 +580,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=0)** - [Instructor] GPTs are custom versions of [[ChatGPT]] that you can create for a specific purpose.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=0)** - [Instructor] GPTs are custom versions of [[ChatGPT]] that you can create for a specific purpose. In our case, we're going to create the KinderLogger GPT that uses the service we've just published as a docker container. Let's go ahead and click on create. Here, I need to specify the name, which is, of course, KinderLogger, and the description that I happen to have here in the notepad and also, the instructions. So you can see in the instructions, all the messages you receive, you must send them to your related action. So speaking of which, we need to create that action. Let's click on create new action. And here in this course, I'm going to use none as the authentication type. And this is because we're not protecting the service. But of course, both API Keys and OAuth are supported. Okay, so let's click on cancel. So now, we need to specify the OpenAPI schema. Let's navigate to the service and then docs. And here, we can find the openapi.[[JSON]] link. And here, let's copy the entire json document and let's go back and paste it right here. So you can see that this is returning that could not find a valid URL in servers. And the thing is that you need to specify
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=6)** In our case, we're going to create the KinderLogger GPT that uses the service we've just published as a docker container.
+> **[1:36](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=96)** that servers element yourself. So right below info, let's write servers and this is an array and let's type URL and the address of that particular server. In this case, let's go back to the [[Microsoft Azure|Azure]] portal and let's copy this address. Let's go back to the GPT and let's paste it right here. Awesome! So it detects that we have this message endpoint and we actually can test it. Now, the GPT is trying to communicate to the service. So I can confirm this and wait for the response. So we're receiving the response. So we know that this is working as expected. Now, we need to set the [[Privacy]] policy, and I created a fictitious privacy policy in my blog. And let's go back here. And we need to set this conversation starter. For example, give me my kid's summary. As you can see, this starter appears at the bottom whenever I execute the GPT. Finally, let's create an icon. Let's click here and use [[DALL-E]]. This is taking the description and it's going to create a new image for this GPT. This picture is perfect.
 >
-> **[0:14](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=14)** Let's go ahead and click on create.
->
-> **[0:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=17)** Here, I need to specify the name, which is, of course, KinderLogger, and the description that I happen to have here in the notepad and also, the instructions.
->
-> **[0:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=30)** So you can see in the instructions, all the messages you receive, you must send them to your related action.
->
-> **[0:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=37)** So speaking of which, we need to create that action.
->
-> **[0:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=42)** Let's click on create new action.
->
-> **[0:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=45)** And here in this course, I'm going to use none as the authentication type.
->
-> **[0:51](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=51)** And this is because we're not protecting the service.
->
-> **[0:54](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=54)** But of course, both API Keys and OAuth are supported.
->
-> **[1:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=61)** Okay, so let's click on cancel.
->
-> **[1:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=64)** So now, we need to specify the OpenAPI schema.
->
-> **[1:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=68)** Let's navigate to the service and then docs.
->
-> **[1:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=73)** And here, we can find the openapi.[[JSON]] link.
->
-> **[1:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=78)** And here, let's copy the entire json document and let's go back and paste it right here.
->
-> **[1:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=86)** So you can see that this is returning that could not find a valid URL in servers.
->
-> **[1:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=94)** And the thing is that you need to specify that servers element yourself.
->
-> **[1:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=98)** So right below info, let's write servers and this is an array and let's type URL and the address of that particular server.
->
-> **[1:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=113)** In this case, let's go back to the [[Microsoft Azure|Azure]] portal and let's copy this address.
->
-> **[1:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=119)** Let's go back to the GPT and let's paste it right here.
->
-> **[2:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=123)** Awesome! So it detects that we have this message endpoint and we actually can test it.
->
-> **[2:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=133)** Now, the GPT is trying to communicate to the service.
->
-> **[2:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=137)** So I can confirm this and wait for the response.
->
-> **[2:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=144)** So we're receiving the response.
->
-> **[2:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=146)** So we know that this is working as expected.
->
-> **[2:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=150)** Now, we need to set the [[Privacy]] policy, and I created a fictitious privacy policy in my blog.
->
-> **[2:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=158)** And let's go back here.
->
-> **[2:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=161)** And we need to set this conversation starter.
->
-> **[2:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=165)** For example, give me my kid's summary.
->
-> **[2:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=168)** As you can see, this starter appears at the bottom whenever I execute the GPT.
->
-> **[2:56](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=176)** Finally, let's create an icon.
->
-> **[3:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=180)** Let's click here and use [[DALL-E]].
->
-> **[3:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=183)** This is taking the description and it's going to create a new image for this GPT.
->
-> **[3:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=190)** This picture is perfect.
->
-> **[3:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=192)** So now, we're ready to save this.
->
-> **[3:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=195)** And in this case, I'm going to use only me.
->
-> **[3:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=199)** Let's click on confirm.
->
-> **[3:23](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=203)** And now, we're ready to use the KinderLogger GPT.
+> **[3:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=192)** So now, we're ready to save this. And in this case, I'm going to use only me. Let's click on confirm. And now, we're ready to use the KinderLogger GPT.
 
 > [!info]- Semantic Content
 >
@@ -1579,57 +601,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=0)** - [Instructor] Okay, we've finished the KinderLogger project.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=0)** - [Instructor] Okay, we've finished the KinderLogger project. Of course, there's still a bunch of extra stuff we need to add to make it production ready. For example, we need to implement authentication, and make it easy for people to upload their audio files for automatic transcription. But you know what? I truly believe we've created something great and super helpful for parents. All right, let's go ahead and test the KinderLogger GPT. Let's start by clicking on the Give Me My Kid's Summary. And remember that you have to confirm. So let's do this. And after some seconds, we receive the response. You can even use the KinderLogger GPT right from the [[ChatGPT]] application on your smartphone. Give me my kid's summary.
 >
-> **[0:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=3)** Of course, there's still a bunch of extra stuff we need to add to make it production ready.
->
-> **[0:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=9)** For example, we need to implement authentication, and make it easy for people to upload their audio files for automatic transcription.
->
-> **[0:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=18)** But you know what?
->
-> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=19)** I truly believe we've created something great and super helpful for parents.
->
-> **[0:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=25)** All right, let's go ahead and test the KinderLogger GPT.
->
-> **[0:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=28)** Let's start by clicking on the Give Me My Kid's Summary.
->
-> **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=33)** And remember that you have to confirm.
->
-> **[0:36](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=36)** So let's do this.
->
-> **[0:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=38)** And after some seconds, we receive the response.
->
-> **[0:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=43)** You can even use the KinderLogger GPT right from the [[ChatGPT]] application on your smartphone.
->
-> **[0:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=53)** Give me my kid's summary.
->
-> **[0:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=57)** - [AI] Here's a summary of Leo's recent activities.
->
-> **[1:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=61)** Leo had a great start to the semester, engaging in discussions about professions like firefighters, police officers, doctors, and veterinarians, and learning about money and earning.
->
-> **[1:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=72)** In an English class project on professions, he reinforced vocabulary by matching words with images of professions.
->
-> **[1:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=79)** He participated actively and showed a great attitude.
->
-> **[1:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=82)** Activities included an experiment on reactions to fire and water and a game simulating a firefighter's role.
->
-> **[1:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=89)** In Spanish class, he worked on identifying and coloring figures, enhancing his motor skills.
->
-> **[1:36](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=96)** Leo was enthusiastic as a teacher for a day in English class, showing energy, but finding it challenging to control the group.
->
-> **[1:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=103)** This presented an opportunity for developing empathy.
->
-> **[1:47](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=107)** The Spanish class focused on literacy related to his name, emphasizing the sound of each letter.
->
-> **[1:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=113)** Overall, Leo is involved in various learning activities, with positive feedback from teachers on his participation and attitude.
->
-> **[2:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=121)** If you need more details, or have specific questions, just let me know.
+> **[0:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=57)** - [AI] Here's a summary of Leo's recent activities. Leo had a great start to the semester, engaging in discussions about professions like firefighters, police officers, doctors, and veterinarians, and learning about money and earning. In an English class project on professions, he reinforced vocabulary by matching words with images of professions. He participated actively and showed a great attitude. Activities included an experiment on reactions to fire and water and a game simulating a firefighter's role. In Spanish class, he worked on identifying and coloring figures, enhancing his motor skills. Leo was enthusiastic as a teacher for a day in English class, showing energy, but finding it challenging to control the group. This presented an opportunity for developing empathy. The Spanish class focused on literacy related to his name, emphasizing the sound of each letter. Overall, Leo is involved in various learning activities, with positive feedback from teachers on his participation and attitude. If you need more details, or have specific questions, just let me know.
 >
 > **[2:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=126)** - [Instructor] When did the firefighters visit the school?
 >
-> **[2:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=131)** - [AI] The firefighters visited the school in January.
->
-> **[2:14](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=134)** This visit was part of the month's activities focusing on various professions, including firefighters, police officers, doctors and veterinarians.
+> **[2:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=131)** - [AI] The firefighters visited the school in January. This visit was part of the month's activities focusing on various professions, including firefighters, police officers, doctors and veterinarians.
 
 > [!info]- Semantic Content
 >
@@ -1648,31 +626,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=0)** - [Rodrigo] Great job. You finish this course.
->
-> **[0:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=3)** At this point, you should have a solid understanding of the essential APIs you can use to build solutions with OpenAI.
->
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=12)** There are many paths you can take from here.
->
-> **[0:14](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=14)** First off, why not deepen your [[Python (Programming Language)|Python]] skills?
->
-> **[0:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=18)** Dive into its best practices and [[Design Patterns]].
->
-> **[0:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=22)** There's so much to learn.
->
-> **[0:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=24)** Next up, how about mastering the ins and outs of Web APIs and their different authentication types like OAuth?
->
-> **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=33)** And finally, why not expand your knowledge on [[Microsoft Azure|Azure]] and [[Microservices]]?
->
-> **[0:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=39)** I've got some courses right here in the [[LinkedIn]] Learning Library that I think you'll love.
->
-> **[0:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=45)** I really hope you had as much fun with this course as I did making it for you.
->
-> **[0:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=50)** If you did, please let me know.
->
-> **[0:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=53)** You can get in contact with me on LinkedIn or Twitter.
->
-> **[0:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=57)** As always, thanks for watching and I'll see you next time.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=0)** - [Rodrigo] Great job. You finish this course. At this point, you should have a solid understanding of the essential APIs you can use to build solutions with OpenAI. There are many paths you can take from here. First off, why not deepen your [[Python (Programming Language)|Python]] skills? Dive into its best practices and [[Design Patterns]]. There's so much to learn. Next up, how about mastering the ins and outs of Web APIs and their different authentication types like OAuth? And finally, why not expand your knowledge on [[Microsoft Azure|Azure]] and [[Microservices]]? I've got some courses right here in the [[LinkedIn]] Learning Library that I think you'll love. I really hope you had as much fun with this course as I did making it for you. If you did, please let me know. You can get in contact with me on LinkedIn or Twitter. As always, thanks for watching and I'll see you next time.
 
 > [!info]- Semantic Content
 >

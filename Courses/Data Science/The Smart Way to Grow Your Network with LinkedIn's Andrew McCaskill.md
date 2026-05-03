@@ -28,7 +28,7 @@ tags:
   - skill/job-searching
   - skill/networking
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Smart%20Way%20to%20Grow%20Your%20Network%20with%20LinkedIn's%20Andrew%20McCaskill.md)

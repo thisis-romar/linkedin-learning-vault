@@ -9,7 +9,7 @@ linkedin_topics:
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - professional-certificate
   - topic/artificial-intelligence
@@ -51,7 +51,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Building%20AI%20Products-%20Implementing%20Responsible%20AI%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)

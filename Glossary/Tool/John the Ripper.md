@@ -22,7 +22,7 @@ tags:
   - topic/web-development
   - topic/artificial-intelligence
 course_count: 182
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Tool/John%20the%20Ripper.md)

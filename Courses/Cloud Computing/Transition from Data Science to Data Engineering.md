@@ -31,7 +31,7 @@ tags:
   - skill/data-engineering
   - skill/career-transitioning
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Transition%20from%20Data%20Science%20to%20Data%20Engineering.md)
@@ -82,19 +82,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980&t=0)** - [Pooja] Data is the new goal in today's digital world.
->
-> **[0:02](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980&t=2)** It comes with a rising demand for data professionals who analyze massive amounts of data and make that data accessible.
->
-> **[0:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980&t=9)** And that is exactly what data engineers do.
->
-> **[0:12](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980&t=12)** I deal with various categories of data and how it's processed before it reaches data professionals such as data analysts, AI-ML engineers, or data scientists.
->
-> **[0:22](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980&t=22)** If you are someone who is interested in understanding dirty data and the behind the scenes approach to diversify it across various end users, then this course is for you.
->
-> **[0:31](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980&t=31)** We'll talk about day-to-day data engineers lifestyles, tools and technologies, problems we solve, and even a lot more.
->
-> **[0:39](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980&t=39)** So let's get started.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980&t=0)** - [Pooja] Data is the new goal in today's digital world. It comes with a rising demand for data professionals who analyze massive amounts of data and make that data accessible. And that is exactly what data engineers do. I deal with various categories of data and how it's processed before it reaches data professionals such as data analysts, AI-ML engineers, or data scientists. If you are someone who is interested in understanding dirty data and the behind the scenes approach to diversify it across various end users, then this course is for you. We'll talk about day-to-day data engineers lifestyles, tools and technologies, problems we solve, and even a lot more. So let's get started.
 
 > [!info]- Semantic Content
 >
@@ -111,29 +99,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=0)** - [Instructor] You can never know everything about data, but as a data scientist, you've got a good baseline.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=0)** - [Instructor] You can never know everything about data, but as a data scientist, you've got a good baseline. You can transform raw data into valuable insights. You likely have a deep understanding of statistical models, machine learning [[Algorithms]], and data visualization techniques. You can wield your analytical skills to unravel patterns and extract meaning from complex data sets, guiding organizations towards data-driven [[Decision-Making]]. These fundamentals will help you transition smoothly to a data engineer, where you'll focus on constructing robust pipelines and systems that enable efficient [[Data Processing]], storage, retrieval, and [[Scalability]]. The transition from data scientist to an engineer is not merely a change in title, it's a transformative journey. It requires embracing new tools, technologies, and methodologies. It involves mastering programming languages such as [[Python (Programming Language)|Python]] or [[Scala]], and becoming proficient in [[Data Storage]] and processing frameworks like Apache [[Hadoop]] or Spark. This transition also requires a shift in mindset. As an engineer, you need to embrace a holistic approach to data, focusing not only on the analysis and modeling, but also on the data's entire life cycle. You'll collaborate closely with data scientists leveraging their insight to design and build robust [[Data Pipelines]] that support advanced analytics and machine learning. Expect continuous learning and growth
 >
-> **[0:06](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=6)** You can transform raw data into valuable insights.
->
-> **[0:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=10)** You likely have a deep understanding of statistical models, machine learning [[Algorithms]], and data visualization techniques.
->
-> **[0:19](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=19)** You can wield your analytical skills to unravel patterns and extract meaning from complex data sets, guiding organizations towards data-driven [[Decision-Making]].
->
-> **[0:29](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=29)** These fundamentals will help you transition smoothly to a data engineer, where you'll focus on constructing robust pipelines and systems that enable efficient [[Data Processing]], storage, retrieval, and [[Scalability]].
->
-> **[0:43](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=43)** The transition from data scientist to an engineer is not merely a change in title, it's a transformative journey.
->
-> **[0:50](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=50)** It requires embracing new tools, technologies, and methodologies.
->
-> **[0:55](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=55)** It involves mastering programming languages such as [[Python (Programming Language)|Python]] or [[Scala]], and becoming proficient in [[Data Storage]] and processing frameworks like Apache [[Hadoop]] or Spark.
->
-> **[1:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=67)** This transition also requires a shift in mindset.
->
-> **[1:11](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=71)** As an engineer, you need to embrace a holistic approach to data, focusing not only on the analysis and modeling, but also on the data's entire life cycle.
->
-> **[1:21](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=81)** You'll collaborate closely with data scientists leveraging their insight to design and build robust [[Data Pipelines]] that support advanced analytics and machine learning.
->
-> **[1:32](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=92)** Expect continuous learning and growth as you marry your analytical acumen with technical excellence, elevating the field of [[Data Engineering]] to new heights.
+> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980&t=94)** as you marry your analytical acumen with technical excellence, elevating the field of [[Data Engineering]] to new heights.
 
 > [!info]- Semantic Content
 >
@@ -146,63 +114,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=0)** - [Presenter] Let's now get a bit more granular and explore the fundamental differences between these two disciplines and highlight their unique roles in the world of data.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=0)** - [Presenter] Let's now get a bit more granular and explore the fundamental differences between these two disciplines and highlight their unique roles in the world of data. Here's a summary of diverse distinctions covered by two most demanding data professionals. One, objective and focus. [[Data Science]] primarily focuses on extracting insights and knowledge from data to drive [[Decision-Making]] and solve complex problems. It involves applying statistical and machine learning techniques to analyze data and generate predictive models. On the other hand, [[Data Engineering]] is concerned with the development and maintenance of infrastructure and system necessary for efficient storage, processing, and integration. Data engineers build pipelines and frameworks to ensure the reliable flow of data from various sources to data scientists and other stakeholders. The next is skillsets and expertise. Data scientists pose strong analytical and statistical skills. They are proficient in programming languages such as [[Python (Programming Language)|Python]] or R, and are well-versed in machine learning [[Algorithms]] and statistical techniques. They have a deep understanding of data visualization and [[Storytelling]] to effectively communicate their findings. In contrast, data engineers have expertise in software engineering and [[System Architecture]]. We are skilled in programming languages like [[Java]] or [[Scala]] and have knowledge of distributed computing frameworks
 >
-> **[0:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=10)** Here's a summary of diverse distinctions covered by two most demanding data professionals.
+> **[1:33](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=93)** like [[Hadoop]] or Spark. We understand [[Database Systems]] and [[Data Modeling]], enabling them to design and implement scalable [[Data Pipelines]]. Data scientists primarily focus on manipulating, analyzing, and extracting insights from data. They work with structured and [[Unstructured Data]], perform [[Feature Engineering]], and develop models for prediction and inference. Data engineers, on the other hand, concentrate on building and maintaining the infrastructure required to support the data science pipeline. We handle [[Data Ingestion]], [[Data Integration]], [[Data Transformation]], and [[Data Storage]], ensuring data scientists have access to clean, reliable, and well-organized data. Iterative versus product-oriented. Data science projects are often iterative and exploratory in nature. Data scientists experiment with different models, algorithms, and techniques to find the best approach for solving a problem. They focus on model accuracy and performance. In contrast, data engineering is product-oriented, aiming to build scalable and robust data pipelines that can handle large volumes of data in real time. Data engineers try for efficiency, reliability, and maintaining their systems. Data scientists and data engineers work closely together in data-driven organizations. Data engineers provide infrastructure and tools that enables data scientists to access
 >
-> **[0:16](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=16)** One, objective and focus.
->
-> **[0:19](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=19)** [[Data Science]] primarily focuses on extracting insights and knowledge from data to drive [[Decision-Making]] and solve complex problems.
->
-> **[0:28](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=28)** It involves applying statistical and machine learning techniques to analyze data and generate predictive models.
->
-> **[0:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=35)** On the other hand, [[Data Engineering]] is concerned with the development and maintenance of infrastructure and system necessary for efficient storage, processing, and integration.
->
-> **[0:46](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=46)** Data engineers build pipelines and frameworks to ensure the reliable flow of data from various sources to data scientists and other stakeholders.
->
-> **[0:56](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=56)** The next is skillsets and expertise.
->
-> **[0:59](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=59)** Data scientists pose strong analytical and statistical skills.
->
-> **[1:03](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=63)** They are proficient in programming languages such as [[Python (Programming Language)|Python]] or R, and are well-versed in machine learning [[Algorithms]] and statistical techniques.
->
-> **[1:12](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=72)** They have a deep understanding of data visualization and [[Storytelling]] to effectively communicate their findings.
->
-> **[1:20](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=80)** In contrast, data engineers have expertise in software engineering and [[System Architecture]].
->
-> **[1:27](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=87)** We are skilled in programming languages like [[Java]] or [[Scala]] and have knowledge of distributed computing frameworks like [[Hadoop]] or Spark.
->
-> **[1:36](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=96)** We understand [[Database Systems]] and [[Data Modeling]], enabling them to design and implement scalable [[Data Pipelines]].
->
-> **[1:44](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=104)** Data scientists primarily focus on manipulating, analyzing, and extracting insights from data.
->
-> **[1:50](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=110)** They work with structured and [[Unstructured Data]], perform [[Feature Engineering]], and develop models for prediction and inference.
->
-> **[1:59](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=119)** Data engineers, on the other hand, concentrate on building and maintaining the infrastructure required to support the data science pipeline.
->
-> **[2:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=127)** We handle [[Data Ingestion]], [[Data Integration]], [[Data Transformation]], and [[Data Storage]], ensuring data scientists have access to clean, reliable, and well-organized data.
->
-> **[2:20](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=140)** Iterative versus product-oriented.
->
-> **[2:23](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=143)** Data science projects are often iterative and exploratory in nature.
->
-> **[2:27](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=147)** Data scientists experiment with different models, algorithms, and techniques to find the best approach for solving a problem.
->
-> **[2:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=154)** They focus on model accuracy and performance.
->
-> **[2:38](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=158)** In contrast, data engineering is product-oriented, aiming to build scalable and robust data pipelines that can handle large volumes of data in real time.
->
-> **[2:49](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=169)** Data engineers try for efficiency, reliability, and maintaining their systems.
->
-> **[2:56](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=176)** Data scientists and data engineers work closely together in data-driven organizations.
->
-> **[3:01](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=181)** Data engineers provide infrastructure and tools that enables data scientists to access and manipulate the data they need.
->
-> **[3:08](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=188)** Collaboration and effective communication between these two rules are crucial for successful data projects.
->
-> **[3:16](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=196)** Understanding the distinctions between data science and data engineering is essential for organizations to leverage the full potential of their data.
->
-> **[3:25](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=205)** By recognizing the unique roles and skills of data scientists and data engineers, organizations can build effective and collaborative teams that drive data driven innovation and decision-making.
+> **[3:06](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/how-data-science-differs-from-data-engineering?u=76281980&t=186)** and manipulate the data they need. Collaboration and effective communication between these two rules are crucial for successful data projects. Understanding the distinctions between data science and data engineering is essential for organizations to leverage the full potential of their data. By recognizing the unique roles and skills of data scientists and data engineers, organizations can build effective and collaborative teams that drive data driven innovation and decision-making.
 
 > [!info]- Semantic Content
 >
@@ -216,65 +132,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=0)** - [Instructor] Focus on problem solving, an essential skill for data engineers, because we are responsible for collecting, cleaning, storing, and processing large amounts of data.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=0)** - [Instructor] Focus on problem solving, an essential skill for data engineers, because we are responsible for collecting, cleaning, storing, and processing large amounts of data. Data could be available from a variety of sources in multiple formats and with a wide range of quality issues. Data engineers must emphasize identifying and solving problems with this data in order to make it useful for [[Business Intelligence (BI)|business intelligence]] and machine learning applications. There are a few important aspects of problem solving that data engineers heavily rely on once we collect the data. We first clean the data, so we have a clear picture of the business outcomes we would like to achieve. Data engineers need to identify errors and inconsistencies, then remove them. This can be a challenging task as data can be dirty for a variety of reasons, such as human error, machine error, or a lot of formatting issues. Next, we integrate data from a variety of sources. This can be complex as different sources may use different formats, schemas, and naming conventions. Converting them into an identical format is important before we process or transform ahead. Another aspect of data engineer is to design and implement data models that are efficient and scalable data models. Data models are used to store and organize data in a way that makes it easy to access and analyze. [[Data Processing]] is another vital aspect of problem solving
 >
-> **[0:12](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=12)** Data could be available from a variety of sources in multiple formats and with a wide range of quality issues.
+> **[1:37](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=97)** for data engineers. It emphasizes processing data in a timely and efficient manner. This can be a challenging task as data can be very large and complex. And finally, you want to think about security. Gathering data from unauthorized sources or accessing tampered data can be unethical and risky. This is a critical task as data is a valuable asset for businesses. We must ensure [[Data Integrity]] and use appropriate methods to keep it secure. In addition to these specific tasks, data engineers must think critically and creatively to solve problems. It's necessary to identify the root cause of problems and develop solutions that are effective and efficient. Overall, problem solving is an essential skill for us as it helps us to clean, collect, store, process, and secure data in a way that is useful for businesses. Here are some additional tips for data engineers who want to improve their problem solving skills. Practice regularly, the more you practice problem solving, the better you will become at it. Break down the problems into smaller steps. Brainstorm possible solutions, don't be afraid to think outside the box. Don't give up, sometimes it takes a lot of trial and error to find a solution. Be open to feedback, ask for help from colleagues or mentors when you get stuck.
 >
-> **[0:19](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=19)** Data engineers must emphasize identifying and solving problems with this data in order to make it useful for [[Business Intelligence (BI)|business intelligence]] and machine learning applications.
->
-> **[0:30](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=30)** There are a few important aspects of problem solving that data engineers heavily rely on once we collect the data.
->
-> **[0:38](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=38)** We first clean the data, so we have a clear picture of the business outcomes we would like to achieve.
->
-> **[0:45](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=45)** Data engineers need to identify errors and inconsistencies, then remove them.
->
-> **[0:50](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=50)** This can be a challenging task as data can be dirty for a variety of reasons, such as human error, machine error, or a lot of formatting issues.
->
-> **[1:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=60)** Next, we integrate data from a variety of sources.
->
-> **[1:04](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=64)** This can be complex as different sources may use different formats, schemas, and naming conventions.
->
-> **[1:11](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=71)** Converting them into an identical format is important before we process or transform ahead.
->
-> **[1:18](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=78)** Another aspect of data engineer is to design and implement data models that are efficient and scalable data models.
->
-> **[1:26](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=86)** Data models are used to store and organize data in a way that makes it easy to access and analyze.
->
-> **[1:33](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=93)** [[Data Processing]] is another vital aspect of problem solving for data engineers.
->
-> **[1:39](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=99)** It emphasizes processing data in a timely and efficient manner.
->
-> **[1:44](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=104)** This can be a challenging task as data can be very large and complex.
->
-> **[1:50](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=110)** And finally, you want to think about security.
->
-> **[1:54](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=114)** Gathering data from unauthorized sources or accessing tampered data can be unethical and risky.
->
-> **[2:01](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=121)** This is a critical task as data is a valuable asset for businesses.
->
-> **[2:06](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=126)** We must ensure [[Data Integrity]] and use appropriate methods to keep it secure.
->
-> **[2:12](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=132)** In addition to these specific tasks, data engineers must think critically and creatively to solve problems.
->
-> **[2:20](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=140)** It's necessary to identify the root cause of problems and develop solutions that are effective and efficient.
->
-> **[2:26](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=146)** Overall, problem solving is an essential skill for us as it helps us to clean, collect, store, process, and secure data in a way that is useful for businesses.
->
-> **[2:39](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=159)** Here are some additional tips for data engineers who want to improve their problem solving skills.
->
-> **[2:45](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=165)** Practice regularly, the more you practice problem solving, the better you will become at it.
->
-> **[2:51](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=171)** Break down the problems into smaller steps.
->
-> **[2:54](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=174)** Brainstorm possible solutions, don't be afraid to think outside the box.
->
-> **[2:59](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=179)** Don't give up, sometimes it takes a lot of trial and error to find a solution.
->
-> **[3:05](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=185)** Be open to feedback, ask for help from colleagues or mentors when you get stuck.
->
-> **[3:11](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=191)** As we come to the end of the problem solving practices, what's your favorite troubleshooting tip?
->
-> **[3:16](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=196)** Add a comment to the course Q&A, so we can learn from each other.
+> **[3:11](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/using-data-to-problem-solve?u=76281980&t=191)** As we come to the end of the problem solving practices, what's your favorite troubleshooting tip? Add a comment to the course Q&A, so we can learn from each other.
 
 > [!info]- Semantic Content
 >
@@ -288,63 +150,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=0)** - [Narrator] Each day as a data engineer is unique, but there are some common tasks you can anticipate.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=0)** - [Narrator] Each day as a data engineer is unique, but there are some common tasks you can anticipate. The first is [[Data Ingestion]]. This involves gathering data from various sources, such as [[Databases]], APIs, and streaming platforms. This synthesizes and discussing the challenges of data ingestion, such as [[Data Quality]], reliability, and [[Scalability]]. Also, it helps to explore different techniques and tools for efficiently capturing data. Another daily activity might be [[Data Integration]]. This is combining data from disparate sources into a unified format. We must examine different approaches to data integration, including [[Batch Processing]] and realtime streaming, and discuss tools and technologies such as [[Apache Spark]] or Kafka that can facilitate seamless data integration. [[Data Transformation]] plays a crucial role in [[Data Engineering]]. We explore techniques for cleaning, filtering, aggregating, and enriching data to make it usable for downstream analysis. We discuss popular data transformation frameworks, such as Apache Spark and delve into [[Data Wrangling]] techniques to ensure data quality and consistency of the transformed data. We also focus on [[Data Modeling]]. It's essential for organizing and structuring data in a way that supports efficient querying and analysis. We explore different data modeling techniques, including rational and dimensional modeling
 >
-> **[0:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=7)** The first is [[Data Ingestion]].
+> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=94)** and discuss the use of schema [[Design Patterns]] for optimizing [[Data Storage]] and retrieval. Data storage is another key aspect of our role. We delve into the various storage options available for data engineering. We discuss traditional [[Relational Databases]] as well as newer technologies like [[NoSQL]] databases and [[Data Lakes]]. We explored the trade-offs and considerations involved in choosing the appropriate storage solution, based on the specific requirements of the data engineering pipeline. Let's also talk about data orchestration. This involves managing and scheduling the execution of data workflows and pipelines. We explore tools like [[Apache Airflow]] that enable the automation and monitoring of data workflows, ensuring timely and reliable [[Data Processing]]. And finally, we consider data quality and governance. These data quality and governance are critical aspects of data engineering. We discuss techniques for assessing and improving data quality, including data profiling, cleansing, and validation. We also touch upon [[Data Governance]] practices to ensure compliance, security, and [[Privacy]] of data. Throughout the course of activities, we emphasize the importance of scalability, reliability, and performance in data engineering. We explore cloud-based solutions, containerization and distributed computing frameworks to handle large scale data processing requirements.
 >
-> **[0:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=10)** This involves gathering data from various sources, such as [[Databases]], APIs, and streaming platforms.
->
-> **[0:17](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=17)** This synthesizes and discussing the challenges of data ingestion, such as [[Data Quality]], reliability, and [[Scalability]].
->
-> **[0:25](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=25)** Also, it helps to explore different techniques and tools for efficiently capturing data.
->
-> **[0:32](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=32)** Another daily activity might be [[Data Integration]].
->
-> **[0:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=35)** This is combining data from disparate sources into a unified format.
->
-> **[0:40](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=40)** We must examine different approaches to data integration, including [[Batch Processing]] and realtime streaming, and discuss tools and technologies such as [[Apache Spark]] or Kafka that can facilitate seamless data integration.
->
-> **[0:55](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=55)** [[Data Transformation]] plays a crucial role in [[Data Engineering]].
->
-> **[0:59](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=59)** We explore techniques for cleaning, filtering, aggregating, and enriching data to make it usable for downstream analysis.
->
-> **[1:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=67)** We discuss popular data transformation frameworks, such as Apache Spark and delve into [[Data Wrangling]] techniques to ensure data quality and consistency of the transformed data.
->
-> **[1:20](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=80)** We also focus on [[Data Modeling]].
->
-> **[1:22](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=82)** It's essential for organizing and structuring data in a way that supports efficient querying and analysis.
->
-> **[1:28](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=88)** We explore different data modeling techniques, including rational and dimensional modeling and discuss the use of schema [[Design Patterns]] for optimizing [[Data Storage]] and retrieval.
->
-> **[1:40](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=100)** Data storage is another key aspect of our role.
->
-> **[1:44](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=104)** We delve into the various storage options available for data engineering.
->
-> **[1:48](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=108)** We discuss traditional [[Relational Databases]] as well as newer technologies like [[NoSQL]] databases and [[Data Lakes]].
->
-> **[1:55](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=115)** We explored the trade-offs and considerations involved in choosing the appropriate storage solution, based on the specific requirements of the data engineering pipeline.
->
-> **[2:06](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=126)** Let's also talk about data orchestration.
->
-> **[2:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=130)** This involves managing and scheduling the execution of data workflows and pipelines.
->
-> **[2:16](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=136)** We explore tools like [[Apache Airflow]] that enable the automation and monitoring of data workflows, ensuring timely and reliable [[Data Processing]].
->
-> **[2:27](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=147)** And finally, we consider data quality and governance.
->
-> **[2:31](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=151)** These data quality and governance are critical aspects of data engineering.
->
-> **[2:36](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=156)** We discuss techniques for assessing and improving data quality, including data profiling, cleansing, and validation.
->
-> **[2:45](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=165)** We also touch upon [[Data Governance]] practices to ensure compliance, security, and [[Privacy]] of data.
->
-> **[2:53](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=173)** Throughout the course of activities, we emphasize the importance of scalability, reliability, and performance in data engineering.
->
-> **[3:01](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=181)** We explore cloud-based solutions, containerization and distributed computing frameworks to handle large scale data processing requirements.
->
-> **[3:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=190)** By delving into these different aspects of data engineering, you'll be able to create and oversee strong [[Data Pipelines]] and systems, whether you are a beginner or an experienced data professional.
->
-> **[3:22](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=202)** These factors give a comprehensive understanding of key elements in data engineering.
+> **[3:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/role-of-a-data-engineer?u=76281980&t=190)** By delving into these different aspects of data engineering, you'll be able to create and oversee strong [[Data Pipelines]] and systems, whether you are a beginner or an experienced data professional. These factors give a comprehensive understanding of key elements in data engineering.
 
 > [!info]- Semantic Content
 >
@@ -362,43 +172,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=0)** - [Presenter] Collecting data is easy, but storing all at a single place isn't the first priority.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=0)** - [Presenter] Collecting data is easy, but storing all at a single place isn't the first priority. As discussed previously, storage plays a crucial factor in the [[Data Engineering]] domain. Data warehouse is one such important element to consider for data engineers. Before we delve into the intricacies of [[Data Warehousing]], let's start with the basics. So what exactly is a data warehouse? Understand this simply. A data warehouse is a central repository of integrated data from multiple sources, organized and optimized for reporting and analysis. It provides a unified view of an organization's data, allowing users to make informed decisions based on accurate and reliable information. Now, let's talk about the essential components of a data warehouse. First, we have the data sources where the data originates from various operational systems, such as traditional [[Databases]], CRM systems, or external sources. These sources provide the raw data that will be transformed and loaded into the data warehouse. Next, we have the ETL process, which stands for extract, transform, and load. This process involves extracting the data from sources, transforming it into a consistent format, and loading it into the data warehouse. This process ensures that the data is clean, integrated, and ready for data analysis.
 >
-> **[0:05](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=5)** As discussed previously, storage plays a crucial factor in the [[Data Engineering]] domain.
->
-> **[0:11](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=11)** Data warehouse is one such important element to consider for data engineers.
->
-> **[0:18](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=18)** Before we delve into the intricacies of [[Data Warehousing]], let's start with the basics.
->
-> **[0:23](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=23)** So what exactly is a data warehouse?
->
-> **[0:26](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=26)** Understand this simply.
->
-> **[0:28](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=28)** A data warehouse is a central repository of integrated data from multiple sources, organized and optimized for reporting and analysis.
->
-> **[0:37](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=37)** It provides a unified view of an organization's data, allowing users to make informed decisions based on accurate and reliable information.
->
-> **[0:48](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=48)** Now, let's talk about the essential components of a data warehouse.
->
-> **[0:52](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=52)** First, we have the data sources where the data originates from various operational systems, such as traditional [[Databases]], CRM systems, or external sources.
->
-> **[1:04](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=64)** These sources provide the raw data that will be transformed and loaded into the data warehouse.
->
-> **[1:11](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=71)** Next, we have the ETL process, which stands for extract, transform, and load.
->
-> **[1:18](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=78)** This process involves extracting the data from sources, transforming it into a consistent format, and loading it into the data warehouse.
->
-> **[1:28](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=88)** This process ensures that the data is clean, integrated, and ready for data analysis.
->
-> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=94)** [[Data Modeling]] is another essential aspect of data warehousing.
->
-> **[1:39](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=99)** It involves designing the structure of the data warehouse, including defining dimensions, hierarchies, and measures.
->
-> **[1:47](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=107)** A well-designed data model allows efficient data querying and analysis.
->
-> **[1:53](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=113)** Talking about benefits of data warehousing by centralizing data from various sources, a data warehouse provides a single, unified view of the organization's data.
->
-> **[2:04](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=124)** This enables better [[Decision-Making]], improved [[Data Quality]], and enhanced reporting and analytics capabilities.
+> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980&t=94)** [[Data Modeling]] is another essential aspect of data warehousing. It involves designing the structure of the data warehouse, including defining dimensions, hierarchies, and measures. A well-designed data model allows efficient data querying and analysis. Talking about benefits of data warehousing by centralizing data from various sources, a data warehouse provides a single, unified view of the organization's data. This enables better [[Decision-Making]], improved [[Data Quality]], and enhanced reporting and analytics capabilities.
 
 > [!info]- Semantic Content
 >
@@ -413,51 +189,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=0)** - [Instructor] Discussing the benefits of data warehouse in more detail.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=0)** - [Instructor] Discussing the benefits of data warehouse in more detail. One primary advantage is the ability to centralize data from various sources. By consolidating data into a single repository, organizations can gain a unified view of their data, enabling better [[Decision-Making]] and strategic insights. [[Data Warehousing]] also improves [[Data Quality]]. As data is extracted, transformed, and loaded into the warehouse, it undergoes a cleaning process. This ensures that inconsistencies, errors, and duplicates are eliminated or corrected, leading to more accurate and reliable data for analysis. Another significant benefit is the ability to generate insightful reports and perform in-depth analytics. Data warehouses are designed with optimized structures and schemas, enabling faster query performances and efficient data retrieval. This empowers organizations to derive valuable insights from the data and make informed decisions. Now let's talk about the different aspects of data warehousing. The first aspect that we will cover is [[Data Integration]]. Data warehousing involves gathering data from diverse sources, such as operational systems, external feeds, and a lot more. Through the EDL process this data is integrated and standardized, ensuring consistency and capability within the warehouse. [[Data Modeling]] plays a crucial role in data warehousing.
 >
-> **[0:04](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=4)** One primary advantage is the ability to centralize data from various sources.
->
-> **[0:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=9)** By consolidating data into a single repository, organizations can gain a unified view of their data, enabling better [[Decision-Making]] and strategic insights.
->
-> **[0:20](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=20)** [[Data Warehousing]] also improves [[Data Quality]].
->
-> **[0:24](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=24)** As data is extracted, transformed, and loaded into the warehouse, it undergoes a cleaning process.
->
-> **[0:31](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=31)** This ensures that inconsistencies, errors, and duplicates are eliminated or corrected, leading to more accurate and reliable data for analysis.
->
-> **[0:42](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=42)** Another significant benefit is the ability to generate insightful reports and perform in-depth analytics.
->
-> **[0:50](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=50)** Data warehouses are designed with optimized structures and schemas, enabling faster query performances and efficient data retrieval.
->
-> **[1:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=60)** This empowers organizations to derive valuable insights from the data and make informed decisions.
->
-> **[1:08](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=68)** Now let's talk about the different aspects of data warehousing.
->
-> **[1:12](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=72)** The first aspect that we will cover is [[Data Integration]].
->
-> **[1:16](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=76)** Data warehousing involves gathering data from diverse sources, such as operational systems, external feeds, and a lot more.
->
-> **[1:24](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=84)** Through the EDL process this data is integrated and standardized, ensuring consistency and capability within the warehouse.
->
-> **[1:33](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=93)** [[Data Modeling]] plays a crucial role in data warehousing.
->
-> **[1:37](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=97)** It involves designing the structure of the warehouse, including defining dimensions, hierarchies, and measures.
->
-> **[1:44](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=104)** A well-designed data model utilizes three techniques, entity relationship diagrams, unified modeling language class diagram, and data dictionary prominently referred as a data catalog.
->
-> **[1:57](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=117)** These techniques are used for efficient querying, analysis, and reporting, making it easier for data engineers to extract meaningful information from the warehouse.
->
-> **[2:08](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=128)** [[Data Governance]] is a critical aspect of data warehousing.
->
-> **[2:12](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=132)** It involves establishing policies, procedures, and controls to ensure data quality, [[Privacy]], and compliance.
->
-> **[2:21](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=141)** By implementing robust data governance practices, organizations can maintain the integrity and security of their data assets.
->
-> **[2:30](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=150)** As data engineers, understanding these concepts is vital to harness the full potential of data warehouse and drive strategic insights.
->
-> **[2:39](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=159)** I encourage you to reflect on how you can apply these concepts to your own work.
->
-> **[2:44](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=164)** What are some ways that you can improve the data governance practices in your organizations?
+> **[1:37](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-warehouse?u=76281980&t=97)** It involves designing the structure of the warehouse, including defining dimensions, hierarchies, and measures. A well-designed data model utilizes three techniques, entity relationship diagrams, unified modeling language class diagram, and data dictionary prominently referred as a data catalog. These techniques are used for efficient querying, analysis, and reporting, making it easier for data engineers to extract meaningful information from the warehouse. [[Data Governance]] is a critical aspect of data warehousing. It involves establishing policies, procedures, and controls to ensure data quality, [[Privacy]], and compliance. By implementing robust data governance practices, organizations can maintain the integrity and security of their data assets. As data engineers, understanding these concepts is vital to harness the full potential of data warehouse and drive strategic insights. I encourage you to reflect on how you can apply these concepts to your own work. What are some ways that you can improve the data governance practices in your organizations?
 
 > [!info]- Semantic Content
 >
@@ -472,35 +206,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=1)** - [Narrator] Data lake is another [[Data Storage]] option for data engineers.
+> **[0:01](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=1)** - [Narrator] Data lake is another [[Data Storage]] option for data engineers. So what exactly is a data lake? Think of it as a massive reservoir capable of storing vast amounts of raw and unprocessed data, structured, semi-structured and unstructured, all in its purest form. It's a central repository that allows organizations to collect, store, and analyze data from various sources without the need for upfront schema or [[Data Transformation]]. With [[Data Lakes]], we can capture data from diverse sources, like [[Databases]], social platforms, [[IoT]] devices, and more. This flexibility enables organizations to capture data in its raw state, preserving its original structure and fidelity. The beauty of data lakes lies in their ability to accommodate both structured and [[Unstructured Data]], providing a unified platform for analysis. This allows data scientists, analysts, and other stakeholders to explore and extract insights from various data types within a single environment. Now let's talk about the architecture of data lake. Typically, data lakes are built on scalable cloud platforms, such as Amazon S3, [[Microsoft Azure|Azure]] Data Lake Storage, or [[Google Cloud Platform (GCP)|Google Cloud]] storage. These provide the necessary infrastructure and [[Scalability]] to handle massive amounts of data. Within the data lake, data is organized into containers called data zones
 >
-> **[0:04](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=4)** So what exactly is a data lake?
->
-> **[0:08](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=8)** Think of it as a massive reservoir capable of storing vast amounts of raw and unprocessed data, structured, semi-structured and unstructured, all in its purest form.
->
-> **[0:20](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=20)** It's a central repository that allows organizations to collect, store, and analyze data from various sources without the need for upfront schema or [[Data Transformation]].
->
-> **[0:31](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=31)** With [[Data Lakes]], we can capture data from diverse sources, like [[Databases]], social platforms, [[IoT]] devices, and more.
->
-> **[0:40](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=40)** This flexibility enables organizations to capture data in its raw state, preserving its original structure and fidelity.
->
-> **[0:49](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=49)** The beauty of data lakes lies in their ability to accommodate both structured and [[Unstructured Data]], providing a unified platform for analysis.
->
-> **[0:59](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=59)** This allows data scientists, analysts, and other stakeholders to explore and extract insights from various data types within a single environment.
->
-> **[1:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=70)** Now let's talk about the architecture of data lake.
->
-> **[1:13](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=73)** Typically, data lakes are built on scalable cloud platforms, such as Amazon S3, [[Microsoft Azure|Azure]] Data Lake Storage, or [[Google Cloud Platform (GCP)|Google Cloud]] storage.
->
-> **[1:23](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=83)** These provide the necessary infrastructure and [[Scalability]] to handle massive amounts of data.
->
-> **[1:30](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=90)** Within the data lake, data is organized into containers called data zones or folders, which helps maintain [[Data Governance]] and accessibility.
->
-> **[1:40](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=100)** The segregation provides efficient [[Data Management]] and ensures [[Data Security]] and [[Privacy]].
->
-> **[1:47](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=107)** As we progress through this course, we will explore various data lake technologies and tools including Apache [[Hadoop]], [[Apache Spark]], and Cloud-based services like Amazon Simple Storage Service, Azure Data Lake Storage, and Google Cloud storage.
->
-> **[2:03](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=123)** These tools empower you to process, transform, and analyze data within the data lake environment.
+> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-lake?u=76281980&t=94)** or folders, which helps maintain [[Data Governance]] and accessibility. The segregation provides efficient [[Data Management]] and ensures [[Data Security]] and [[Privacy]]. As we progress through this course, we will explore various data lake technologies and tools including Apache [[Hadoop]], [[Apache Spark]], and Cloud-based services like Amazon Simple Storage Service, Azure Data Lake Storage, and Google Cloud storage. These tools empower you to process, transform, and analyze data within the data lake environment.
 
 > [!info]- Semantic Content
 >
@@ -515,31 +223,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=0)** - [Instructor] With cloud-based data lake platforms, organizations can easily scale their storage and processing capabilities as data volumes grow.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=0)** - [Instructor] With cloud-based data lake platforms, organizations can easily scale their storage and processing capabilities as data volumes grow. The [[Scalability]] ensures that [[Data Lakes]] can handle the ever increasing data demands of modern businesses. Data lakes also promote data democratization, enabling different teams and stakeholders within an organization to access and utilize the data lake for their specific needs. This empowers cross-functional collaboration and opens up opportunities for innovation and data-driven [[Decision-Making]] across the entire organization. Now let's delve into the key aspects of data lakes that contribute to efficient [[Data Management]]. One crucial aspect is [[Data Governance]]. Establishing proper data governance policies and frameworks ensures [[Data Quality]], [[Privacy]], and security within the data lake environment. Data lakes also employ [[Metadata]] management techniques to provide a comprehensive understanding of the data stored within. Metadata catalogs or repositories help users discover, understand, and utilize the available datasets effectively. Additionally, data lakes support data architectures that allow for data segregation within organizations into different zones or folders. The segregation helps with data management, access control, and enforcing data retention policies. Data lakes offer numerous benefits
 >
-> **[0:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=9)** The [[Scalability]] ensures that [[Data Lakes]] can handle the ever increasing data demands of modern businesses.
->
-> **[0:16](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=16)** Data lakes also promote data democratization, enabling different teams and stakeholders within an organization to access and utilize the data lake for their specific needs.
->
-> **[0:27](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=27)** This empowers cross-functional collaboration and opens up opportunities for innovation and data-driven [[Decision-Making]] across the entire organization.
->
-> **[0:38](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=38)** Now let's delve into the key aspects of data lakes that contribute to efficient [[Data Management]].
->
-> **[0:44](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=44)** One crucial aspect is [[Data Governance]].
->
-> **[0:48](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=48)** Establishing proper data governance policies and frameworks ensures [[Data Quality]], [[Privacy]], and security within the data lake environment.
->
-> **[0:57](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=57)** Data lakes also employ [[Metadata]] management techniques to provide a comprehensive understanding of the data stored within.
->
-> **[1:05](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=65)** Metadata catalogs or repositories help users discover, understand, and utilize the available datasets effectively.
->
-> **[1:15](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=75)** Additionally, data lakes support data architectures that allow for data segregation within organizations into different zones or folders.
->
-> **[1:25](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=85)** The segregation helps with data management, access control, and enforcing data retention policies.
->
-> **[1:32](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=92)** Data lakes offer numerous benefits and the aspects that contribute to the efficient data management.
->
-> **[1:38](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=98)** By leveraging the flexibility, scalability, and democratization opportunities they provide, organizations can unlock the true potential of their data.
+> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/benefits-and-different-aspects-of-data-lake?u=76281980&t=94)** and the aspects that contribute to the efficient data management. By leveraging the flexibility, scalability, and democratization opportunities they provide, organizations can unlock the true potential of their data.
 
 > [!info]- Semantic Content
 >
@@ -555,81 +241,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=0)** - [Narrator] Imagine you are a busy librarian and every day you receive a ton of new books, magazines, and journals.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=0)** - [Narrator] Imagine you are a busy librarian and every day you receive a ton of new books, magazines, and journals. These materials are all valuable, but they're unorganized and scattered throughout the library. It's like having a vast storehouse of knowledge, but no way to find what you need. That's where data engineers like us come in. We're the information architects who transform this raw data into a well organized and easily accessible library. That's how data pipeline and ETL process both plays an important role in the field of [[Data Engineering]]. While they are interrelated, they serve different purposes in the data workflow. Let's explore each of them in more detail. A data pipeline is a set of processes and tools that enable the automated flow of data from various sources to its destination. It involves extracting data from different systems, transforming it into a suitable format, and loading it into a target system or a data warehouse. [[Data Pipelines]] are designed to handle large volumes of data efficiently and reliably. Key characteristics of a data pipeline include data extraction. Data is extracted from variety of sources, such as [[Databases]], APIs, files, or streaming platforms. [[Data Transformation]], the extracted data is transformed and cleaned to ensure consistency, quality, and compatibility with the target system. Data loading, the transformed data
 >
-> **[0:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=7)** These materials are all valuable, but they're unorganized and scattered throughout the library.
+> **[1:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=95)** is loaded into a target system or a data warehouse for storage and analysis. Automated workflow, data pipelines are typically automated to ensure regular and timely data updates. [[Scalability]]. The data pipelines should be scalable to handle increasing data volumes and accommodate future growth. Data pipelines are crucial for organizations that deal with large volumes of data and require a streamlined process for [[Data Ingestion]], transformation, and loading. Now, ETL stands for extract, transform, and load, which is a specific type of data pipeline used for [[Data Integration]] and consolidation. The ETL process involves extracting data from multiple sources, transforming it to meet specific business requirements, and loading it into the target systems or data warehouse. Key steps involved in the ETL process are extract, data is extracted from a variety of sources, such as databases, files, or APIs. The extracted data is then transformed by applying various operations like filtering, aggregating, joining, or cleaning to ensure [[Data Quality]] and consistency. The transformed data is loaded into a target system or a data warehouse for storage and analysis. The ETL process is commonly used in [[Data Warehousing]] and [[Business Intelligence (BI)|business intelligence]] applications where data from different sources needs to be consolidated
 >
-> **[0:14](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=14)** It's like having a vast storehouse of knowledge, but no way to find what you need.
->
-> **[0:19](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=19)** That's where data engineers like us come in.
->
-> **[0:22](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=22)** We're the information architects who transform this raw data into a well organized and easily accessible library.
->
-> **[0:31](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=31)** That's how data pipeline and ETL process both plays an important role in the field of [[Data Engineering]].
->
-> **[0:38](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=38)** While they are interrelated, they serve different purposes in the data workflow.
->
-> **[0:43](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=43)** Let's explore each of them in more detail.
->
-> **[0:46](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=46)** A data pipeline is a set of processes and tools that enable the automated flow of data from various sources to its destination.
->
-> **[0:55](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=55)** It involves extracting data from different systems, transforming it into a suitable format, and loading it into a target system or a data warehouse.
->
-> **[1:04](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=64)** [[Data Pipelines]] are designed to handle large volumes of data efficiently and reliably.
->
-> **[1:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=70)** Key characteristics of a data pipeline include data extraction.
->
-> **[1:15](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=75)** Data is extracted from variety of sources, such as [[Databases]], APIs, files, or streaming platforms.
->
-> **[1:23](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=83)** [[Data Transformation]], the extracted data is transformed and cleaned to ensure consistency, quality, and compatibility with the target system.
->
-> **[1:33](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=93)** Data loading, the transformed data is loaded into a target system or a data warehouse for storage and analysis.
->
-> **[1:41](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=101)** Automated workflow, data pipelines are typically automated to ensure regular and timely data updates.
->
-> **[1:49](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=109)** [[Scalability]].
->
-> **[1:50](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=110)** The data pipelines should be scalable to handle increasing data volumes and accommodate future growth.
->
-> **[1:58](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=118)** Data pipelines are crucial for organizations that deal with large volumes of data and require a streamlined process for [[Data Ingestion]], transformation, and loading.
->
-> **[2:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=129)** Now, ETL stands for extract, transform, and load, which is a specific type of data pipeline used for [[Data Integration]] and consolidation.
->
-> **[2:21](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=141)** The ETL process involves extracting data from multiple sources, transforming it to meet specific business requirements, and loading it into the target systems or data warehouse.
->
-> **[2:32](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=152)** Key steps involved in the ETL process are extract, data is extracted from a variety of sources, such as databases, files, or APIs.
->
-> **[2:42](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=162)** The extracted data is then transformed by applying various operations like filtering, aggregating, joining, or cleaning to ensure [[Data Quality]] and consistency.
->
-> **[2:54](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=174)** The transformed data is loaded into a target system or a data warehouse for storage and analysis.
->
-> **[3:01](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=181)** The ETL process is commonly used in [[Data Warehousing]] and [[Business Intelligence (BI)|business intelligence]] applications where data from different sources needs to be consolidated and made available for reporting and analysis.
->
-> **[3:15](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=195)** While both data pipelines and ETL processes involve the movement and transformation of data, there are some key differences between them.
->
-> **[3:24](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=204)** Scope, data pipelines have a broader scope and can handle variety of data integration scenarios beyond just ETL.
->
-> **[3:33](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=213)** They can handle [[Real-Time]] streaming data, [[Batch Processing]], and more.
->
-> **[3:38](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=218)** ETL processes, on the other hand, are specifically focused on data integration and consolidation.
->
-> **[3:45](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=225)** Next is data transformation.
->
-> **[3:47](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=227)** Data pipelines can perform various transformations including data enrichment, validation, and normalization.
->
-> **[3:54](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=234)** ETL processes primarily focused on data transformation to meet specific business requirements.
->
-> **[4:01](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=241)** Data sources.
->
-> **[4:03](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=243)** Data pipelines can extract data from a wide range of sources, including databases, APIs, files, and streaming platforms.
->
-> **[4:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=250)** ETL processes typically deal with structured data from databases and files.
->
-> **[4:15](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=255)** Automation.
->
-> **[4:16](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=256)** Both data pipelines and ETL processes can be automated, but data pipelines often involve more complex workflows and scheduling due to their broader scope.
->
-> **[4:28](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=268)** Data pipelines provide a more comprehensive solution for data integration, while ETL processes are specifically designed for data consolidation and transformation.
+> **[3:11](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980&t=191)** and made available for reporting and analysis. While both data pipelines and ETL processes involve the movement and transformation of data, there are some key differences between them. Scope, data pipelines have a broader scope and can handle variety of data integration scenarios beyond just ETL. They can handle [[Real-Time]] streaming data, [[Batch Processing]], and more. ETL processes, on the other hand, are specifically focused on data integration and consolidation. Next is data transformation. Data pipelines can perform various transformations including data enrichment, validation, and normalization. ETL processes primarily focused on data transformation to meet specific business requirements. Data sources. Data pipelines can extract data from a wide range of sources, including databases, APIs, files, and streaming platforms. ETL processes typically deal with structured data from databases and files. Automation. Both data pipelines and ETL processes can be automated, but data pipelines often involve more complex workflows and scheduling due to their broader scope. Data pipelines provide a more comprehensive solution for data integration, while ETL processes are specifically designed for data consolidation and transformation.
 
 > [!info]- Semantic Content
 >
@@ -644,71 +260,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=0)** - [Instructor] [[Data Engineering]] involves the creation and management of pipelines to efficiently process and transform data.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=0)** - [Instructor] [[Data Engineering]] involves the creation and management of pipelines to efficiently process and transform data. Let's go through the different types of pipelines commonly used in data engineer. ETL or ELT pipelines. As discussed previously, we are aware of the ETL pipelines that are used to extract data from various sources, transform it into the desired format, and then load it into the target systems or data warehouse. Whereas, ELT primarily loads the data before transforming it. Meaning, extraction involves retrieving data from [[Databases]], files, APIs, or other sources. Transformation includes cleaning, filtering, aggregating, and enriching the data to make it suitable for analysis. Loading involves storing the transformed data into a target system or a data warehouse for further processing. Few of the industry-wide used tools includes Informatica, Talend, Fivetran, Stitch, and more. Streaming pipelines. It is another such process used to build realtime [[Data Pipelines]]. They're used for applications that require continuous [[Data Processing]], such as realtime analytics, fraud detection, and monitoring systems. Streaming pipelines often use technologies such as [[Apache Kafka]], Apache Flink, or [[Apache Spark]] Streaming to handle volumes of data, and ensure low latency processing. Similarly, we deal with batch pipelines.
 >
-> **[0:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=7)** Let's go through the different types of pipelines commonly used in data engineer.
+> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=94)** This processes data in large volumes at scheduled intervals. They are suitable for scenarios where near [[Real-Time]] processing is not required. They can often directly connect to data sources and data sinks, eliminating the need for an intermediate layer. Batch pipelines are commonly used for [[Data Warehousing]], integration, and periodic reporting. Technologies like Apache [[Hadoop]], Apache Spark, or [[Apache Airflow]] are used for building and managing data pipelines. Data replication pipeline is another widely used pipeline approach to copy data from one system to another, ensuring data consistency across multiple systems. They're commonly used for data synchronization, between databases, data backup, or disaster recovery in the modern [[Data Architecture]]. Technologies like Apache Kafka, Apache NiFi, or database specific replication tools are often used for data replication. Due to high volume, velocity, and variety of data application, the data will continue to increase. Pipelines aren't just to transfer the data, but also to model them. We as data engineers play a major role to ensure machine learning pipeline is involved in the process of training, evaluating, and deploying machine learning models. They include data pre-processing, [[Feature Engineering]], model training, model evaluation, and model deployment and monitoring stages. Machine learning frameworks like [[TensorFlow]],
 >
-> **[0:13](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=13)** ETL or ELT pipelines.
->
-> **[0:15](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=15)** As discussed previously, we are aware of the ETL pipelines that are used to extract data from various sources, transform it into the desired format, and then load it into the target systems or data warehouse.
->
-> **[0:27](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=27)** Whereas, ELT primarily loads the data before transforming it.
->
-> **[0:32](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=32)** Meaning, extraction involves retrieving data from [[Databases]], files, APIs, or other sources.
->
-> **[0:40](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=40)** Transformation includes cleaning, filtering, aggregating, and enriching the data to make it suitable for analysis.
->
-> **[0:47](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=47)** Loading involves storing the transformed data into a target system or a data warehouse for further processing.
->
-> **[0:54](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=54)** Few of the industry-wide used tools includes Informatica, Talend, Fivetran, Stitch, and more.
->
-> **[1:03](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=63)** Streaming pipelines.
->
-> **[1:05](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=65)** It is another such process used to build realtime [[Data Pipelines]].
->
-> **[1:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=69)** They're used for applications that require continuous [[Data Processing]], such as realtime analytics, fraud detection, and monitoring systems.
->
-> **[1:18](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=78)** Streaming pipelines often use technologies such as [[Apache Kafka]], Apache Flink, or [[Apache Spark]] Streaming to handle volumes of data, and ensure low latency processing.
->
-> **[1:30](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=90)** Similarly, we deal with batch pipelines.
->
-> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=94)** This processes data in large volumes at scheduled intervals.
->
-> **[1:39](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=99)** They are suitable for scenarios where near [[Real-Time]] processing is not required.
->
-> **[1:44](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=104)** They can often directly connect to data sources and data sinks, eliminating the need for an intermediate layer.
->
-> **[1:52](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=112)** Batch pipelines are commonly used for [[Data Warehousing]], integration, and periodic reporting.
->
-> **[1:58](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=118)** Technologies like Apache [[Hadoop]], Apache Spark, or [[Apache Airflow]] are used for building and managing data pipelines.
->
-> **[2:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=127)** Data replication pipeline is another widely used pipeline approach to copy data from one system to another, ensuring data consistency across multiple systems.
->
-> **[2:17](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=137)** They're commonly used for data synchronization, between databases, data backup, or disaster recovery in the modern [[Data Architecture]].
->
-> **[2:26](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=146)** Technologies like Apache Kafka, Apache NiFi, or database specific replication tools are often used for data replication.
->
-> **[2:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=155)** Due to high volume, velocity, and variety of data application, the data will continue to increase.
->
-> **[2:43](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=163)** Pipelines aren't just to transfer the data, but also to model them.
->
-> **[2:47](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=167)** We as data engineers play a major role to ensure machine learning pipeline is involved in the process of training, evaluating, and deploying machine learning models.
->
-> **[2:57](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=177)** They include data pre-processing, [[Feature Engineering]], model training, model evaluation, and model deployment and monitoring stages.
->
-> **[3:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=187)** Machine learning frameworks like [[TensorFlow]], Scikit-learn, or [[PyTorch]], are often used to build and deploy machine learning pipelines.
->
-> **[3:17](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=197)** The last but not the least, [[Data Governance]] pipeline precisely focuses on ensuring [[Data Quality]], compliance, and security.
->
-> **[3:26](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=206)** They involve data profiling, data cleansing, [[Data Validation]], and [[Metadata]] management processes.
->
-> **[3:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=214)** Data governance pipelines help maintain [[Data Integrity]], enforce data policies, and ensure [[Regulatory Compliance]].
->
-> **[3:42](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=222)** Ensuring the trustworthiness and value of data throughout its life cycle is crucial for data engineers to uphold the data governance practices, contributing to the overall success of data-driven organizations.
->
-> **[3:58](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=238)** Understanding different types of pipelines in data engineering is crucial for data engineers, to design and implement efficient and scalable data processing solutions.
->
-> **[4:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=249)** Each type of pipeline has its own characteristics, and requirements, and choosing the right pipeline for a specific use case is essential for successful data engineering projects.
+> **[3:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/different-types-of-pipelines?u=76281980&t=190)** Scikit-learn, or [[PyTorch]], are often used to build and deploy machine learning pipelines. The last but not the least, [[Data Governance]] pipeline precisely focuses on ensuring [[Data Quality]], compliance, and security. They involve data profiling, data cleansing, [[Data Validation]], and [[Metadata]] management processes. Data governance pipelines help maintain [[Data Integrity]], enforce data policies, and ensure [[Regulatory Compliance]]. Ensuring the trustworthiness and value of data throughout its life cycle is crucial for data engineers to uphold the data governance practices, contributing to the overall success of data-driven organizations. Understanding different types of pipelines in data engineering is crucial for data engineers, to design and implement efficient and scalable data processing solutions. Each type of pipeline has its own characteristics, and requirements, and choosing the right pipeline for a specific use case is essential for successful data engineering projects.
 
 > [!info]- Semantic Content
 >
@@ -722,63 +278,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=0)** - [Instructor] The era of [[Digital Transformation]] has become the lifeblood of businesses across the industries when data is flowing as a fuel to it.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=0)** - [Instructor] The era of [[Digital Transformation]] has become the lifeblood of businesses across the industries when data is flowing as a fuel to it. As we talk about [[Data Engineering]] core responsibilities, organizations leverage the power of data to drive [[Decision-Making]] and gain a competitive edge. The importance of [[Data Security]] cannot be overstated. And data engineers are responsible for building and maintaining the infrastructure that stores and transports data. Data security plays a wider role in ensuring that organizations can effectively manage and analyze massive volumes of data. However, with great power comes great responsibility. Specifically, when it comes to safeguarding valuable data assets. Cyber threats, such as hacking, data breaches, and ransomware attacks, pose significant risks to organizations and can result in severe financial and reputational damage. That's why data security should be a top priority for data engineers. Here are some essential measures that we as data engineers should take to ensure the robust data security. Implementing strong access controls. Utilize role-based access control mechanisms to restrict data access based on user roles and responsibilities. Enforce strong password policies and multifactor authentication
 >
-> **[0:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=9)** As we talk about [[Data Engineering]] core responsibilities, organizations leverage the power of data to drive [[Decision-Making]] and gain a competitive edge.
+> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=94)** to prevent unauthorized access. Encrypt data at [[Representational State Transfer (REST)|rest]] and in transit. Employ encryption techniques to protect data, both when it is stored and when it is transmitted over networks. Use industry-standard encryption [[Algorithms]] and protocols to ensure data confidentiality. Regularly back up data. Establish a backup strategy to create copies of data, ensuring it can be restored in case of data loss or system failure. Test the backup and recovery processes periodically to verify their effectiveness. Implementing data masking and anonymization techniques. Anonymize or mask sensitive data to minimize the risk of unauthorized access. Replace personally identifiable information with fictional or interpreted values, while retaining [[Data Integrity]] for analysis purposes. Conduct security audits and [[Penetration Testing]]. Regularly assist your systems and networks through security audits and penetrate testing to identify vulnerabilities. Address any weaknesses promptly and continuously improve your security posture. With cyber attacks on the rise, data security is a top priority. Data engineers have an outsized responsibility in designing, building, and monitoring
 >
-> **[0:20](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=20)** The importance of [[Data Security]] cannot be overstated.
->
-> **[0:23](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=23)** And data engineers are responsible for building and maintaining the infrastructure that stores and transports data.
->
-> **[0:33](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=33)** Data security plays a wider role in ensuring that organizations can effectively manage and analyze massive volumes of data.
->
-> **[0:41](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=41)** However, with great power comes great responsibility.
->
-> **[0:46](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=46)** Specifically, when it comes to safeguarding valuable data assets.
->
-> **[0:51](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=51)** Cyber threats, such as hacking, data breaches, and ransomware attacks, pose significant risks to organizations and can result in severe financial and reputational damage.
->
-> **[1:04](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=64)** That's why data security should be a top priority for data engineers.
->
-> **[1:11](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=71)** Here are some essential measures that we as data engineers should take to ensure the robust data security.
->
-> **[1:17](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=77)** Implementing strong access controls.
->
-> **[1:20](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=80)** Utilize role-based access control mechanisms to restrict data access based on user roles and responsibilities.
->
-> **[1:29](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=89)** Enforce strong password policies and multifactor authentication to prevent unauthorized access.
->
-> **[1:37](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=97)** Encrypt data at [[Representational State Transfer (REST)|rest]] and in transit.
->
-> **[1:42](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=102)** Employ encryption techniques to protect data, both when it is stored and when it is transmitted over networks.
->
-> **[1:50](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=110)** Use industry-standard encryption [[Algorithms]] and protocols to ensure data confidentiality.
->
-> **[1:57](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=117)** Regularly back up data.
->
-> **[1:59](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=119)** Establish a backup strategy to create copies of data, ensuring it can be restored in case of data loss or system failure.
->
-> **[2:08](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=128)** Test the backup and recovery processes periodically to verify their effectiveness.
->
-> **[2:14](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=134)** Implementing data masking and anonymization techniques.
->
-> **[2:18](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=138)** Anonymize or mask sensitive data to minimize the risk of unauthorized access.
->
-> **[2:25](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=145)** Replace personally identifiable information with fictional or interpreted values, while retaining [[Data Integrity]] for analysis purposes.
->
-> **[2:37](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=157)** Conduct security audits and [[Penetration Testing]].
->
-> **[2:41](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=161)** Regularly assist your systems and networks through security audits and penetrate testing to identify vulnerabilities.
->
-> **[2:50](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=170)** Address any weaknesses promptly and continuously improve your security posture.
->
-> **[2:55](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=175)** With cyber attacks on the rise, data security is a top priority.
->
-> **[3:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=180)** Data engineers have an outsized responsibility in designing, building, and monitoring the robust data infrastructure that both enables analytics and keeps sensitive data safe.
->
-> **[3:13](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=193)** Adopting these security measures is essential for any data engineer, especially those transitioning from [[Data Science]] roles.
->
-> **[3:21](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=201)** By implementing these measures and staying vigilant, data engineers can play a crucial role in protecting sensitive data, maintaining [[Regulatory Compliance]], and safeguarding the trust of customers and stakeholders.
+> **[3:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/importance-of-data-security-and-measures-to-be-taken?u=76281980&t=187)** the robust data infrastructure that both enables analytics and keeps sensitive data safe. Adopting these security measures is essential for any data engineer, especially those transitioning from [[Data Science]] roles. By implementing these measures and staying vigilant, data engineers can play a crucial role in protecting sensitive data, maintaining [[Regulatory Compliance]], and safeguarding the trust of customers and stakeholders.
 
 > [!info]- Semantic Content
 >
@@ -796,55 +300,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=0)** - [Instructor] As data scientists transition into [[Data Engineering]] roles, leveraging [[Cloud Computing]] becomes critical.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=0)** - [Instructor] As data scientists transition into [[Data Engineering]] roles, leveraging [[Cloud Computing]] becomes critical. Cloud computing provides on-demand accesses to computing resources via internet. Traditionally, data engineering involved with the management of on-premise infrastructure, which often posed limitations in terms of [[Scalability]] and adaptability to involve business needs. Cloud computing, on the other hand, offers a paradigm shift by providing on-demand access to a vast array of computing resources, storage, and services through the internet. Here are some key benefits of cloud computing for data engineering. First key benefit is scalability and elasticity. Cloud computing allows data engineers to quickly scale up or scale down their resources based on fluctuating [[Data Processing]] needs. With elastic computing capabilities, organizations can handle peak workloads efficiently, optimizing resource allocation and reducing costs. Cloud efficiency is another important factor to consider, as cloud computing eliminates the need for substantial upfront investments in [[Hardware]] and infrastructure. Pay-as-you-go pricing models enable organizations to pay only for the resources they consume, resulting in cost savings. It also provides flexibility and agility. Cloud platforms provide a wide range of services and tools to support various data engineering tasks, such as [[Data Ingestion]], storage processing, and analytics.
 >
-> **[0:06](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=6)** Cloud computing provides on-demand accesses to computing resources via internet.
+> **[1:36](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=96)** Data engineers can easily experiment with different technologies, frameworks, and data processing techniques without the constraint of on-premise infrastructure. [[Data Security]] and compliance are the premium perks offered by cloud. Various cloud service providers invest heavily in robust security measures, ensuring data protection and [[Regulatory Compliance]]. Data encryption, access controls, and regular security audits contribute to maintaining [[Data Integrity]] and confidentiality. Data engineers focus on [[IaaS|Infrastructure as a Service]] and [[PaaS|Platform as a Service]] to create [[Data Pipelines]], analytic systems, and ML infrastructure. The three main cloud service models are Infrastructure as a Service, [[IaaS]], basic building blocks, like compute, storage, and networking. Examples, AWS, [[Amazon EC2|EC2]], S3, VPC, et cetera. Another is Platform as a Service, [[PaaS]], managed services for deploying apps and [[Databases]]. Example, AWS Elastic Beanstalk, RDS, et cetera. Next is [[SaaS|Software as a Service]], [[SaaS]], ready-to-use cloud applications. For example, Dropbox, [[Slack]], [[Microsoft Office|Office]] 365. Cloud computing has revolutionized data engineering by providing scalable, cost-effective, and secure infrastructure. By harnessing the power of cloud,
 >
-> **[0:13](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=13)** Traditionally, data engineering involved with the management of on-premise infrastructure, which often posed limitations in terms of [[Scalability]] and adaptability to involve business needs.
->
-> **[0:25](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=25)** Cloud computing, on the other hand, offers a paradigm shift by providing on-demand access to a vast array of computing resources, storage, and services through the internet.
->
-> **[0:37](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=37)** Here are some key benefits of cloud computing for data engineering.
->
-> **[0:40](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=40)** First key benefit is scalability and elasticity.
->
-> **[0:44](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=44)** Cloud computing allows data engineers to quickly scale up or scale down their resources based on fluctuating [[Data Processing]] needs.
->
-> **[0:52](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=52)** With elastic computing capabilities, organizations can handle peak workloads efficiently, optimizing resource allocation and reducing costs.
->
-> **[1:02](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=62)** Cloud efficiency is another important factor to consider, as cloud computing eliminates the need for substantial upfront investments in [[Hardware]] and infrastructure.
->
-> **[1:13](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=73)** Pay-as-you-go pricing models enable organizations to pay only for the resources they consume, resulting in cost savings.
->
-> **[1:21](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=81)** It also provides flexibility and agility.
->
-> **[1:24](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=84)** Cloud platforms provide a wide range of services and tools to support various data engineering tasks, such as [[Data Ingestion]], storage processing, and analytics.
->
-> **[1:36](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=96)** Data engineers can easily experiment with different technologies, frameworks, and data processing techniques without the constraint of on-premise infrastructure.
->
-> **[1:47](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=107)** [[Data Security]] and compliance are the premium perks offered by cloud.
->
-> **[1:51](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=111)** Various cloud service providers invest heavily in robust security measures, ensuring data protection and [[Regulatory Compliance]].
->
-> **[2:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=120)** Data encryption, access controls, and regular security audits contribute to maintaining [[Data Integrity]] and confidentiality.
->
-> **[2:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=129)** Data engineers focus on [[IaaS|Infrastructure as a Service]] and [[PaaS|Platform as a Service]] to create [[Data Pipelines]], analytic systems, and ML infrastructure.
->
-> **[2:18](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=138)** The three main cloud service models are Infrastructure as a Service, [[IaaS]], basic building blocks, like compute, storage, and networking.
->
-> **[2:29](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=149)** Examples, AWS, [[Amazon EC2|EC2]], S3, VPC, et cetera.
->
-> **[2:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=155)** Another is Platform as a Service, [[PaaS]], managed services for deploying apps and [[Databases]].
->
-> **[2:43](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=163)** Example, AWS Elastic Beanstalk, RDS, et cetera.
->
-> **[2:48](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=168)** Next is [[SaaS|Software as a Service]], [[SaaS]], ready-to-use cloud applications.
->
-> **[2:53](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=173)** For example, Dropbox, [[Slack]], [[Microsoft Office|Office]] 365.
->
-> **[2:58](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=178)** Cloud computing has revolutionized data engineering by providing scalable, cost-effective, and secure infrastructure.
->
-> **[3:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=187)** By harnessing the power of cloud, data, engineers can focus on extracting actionable insights from vast amounts of data, driving innovation and accelerating business growth.
+> **[3:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980&t=189)** data, engineers can focus on extracting actionable insights from vast amounts of data, driving innovation and accelerating business growth.
 
 > [!info]- Semantic Content
 >
@@ -859,41 +319,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=0)** - [Instructor] Three major cloud providers dominate the market: [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], and [[Google Cloud Platform (GCP)|Google Cloud Platform]].
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=0)** - [Instructor] Three major cloud providers dominate the market: [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], and [[Google Cloud Platform (GCP)|Google Cloud Platform]]. Data engineers should have working knowledge of either one of them. Let's begin to explore first cloud provider, that is Amazon Web Services. It provides a comprehensive suite of [[Cloud Services]] including storage, compute, analytics, and machine learning. The largest and most mature public cloud provider. AWS offers over 200 cloud services including compute, storage, networking, [[Databases]], analytics, machine learning, and a lot more. Popular offerings include [[Amazon EC2|EC2]], S3, Lambda, Redshift, EMR, and SageMaker. Next is the Microsoft Azure cloud service provider. It offers a broad range of services including [[Data Storage]], machine learning, and analytics tools. [[Microsoft Azure|Azure]] is rapidly growing in popularity. It provides [[IaaS]], [[PaaS]], and [[SaaS]] [[Hybrid Cloud]] capabilities. Key Azure services includes [[Virtual Machines]], Cosmos DB, HDInsight, databricks, and Machine Learning Studio. Last cloud provider we will talk about is GCP. It provides services for scalable [[Data Warehousing]], storage, and [[Data Processing]] machine learning services such as AI Platform and AutoML, facilitate advanced data analysis and modeling. GCP includes computing [[Big Data]], storage, networking,
 >
-> **[0:08](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=8)** Data engineers should have working knowledge of either one of them.
->
-> **[0:13](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=13)** Let's begin to explore first cloud provider, that is Amazon Web Services.
->
-> **[0:18](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=18)** It provides a comprehensive suite of [[Cloud Services]] including storage, compute, analytics, and machine learning.
->
-> **[0:25](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=25)** The largest and most mature public cloud provider.
->
-> **[0:29](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=29)** AWS offers over 200 cloud services including compute, storage, networking, [[Databases]], analytics, machine learning, and a lot more.
->
-> **[0:38](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=38)** Popular offerings include [[Amazon EC2|EC2]], S3, Lambda, Redshift, EMR, and SageMaker.
->
-> **[0:45](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=45)** Next is the Microsoft Azure cloud service provider.
->
-> **[0:49](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=49)** It offers a broad range of services including [[Data Storage]], machine learning, and analytics tools.
->
-> **[0:56](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=56)** [[Microsoft Azure|Azure]] is rapidly growing in popularity.
->
-> **[0:59](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=59)** It provides [[IaaS]], [[PaaS]], and [[SaaS]] [[Hybrid Cloud]] capabilities.
->
-> **[1:06](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=66)** Key Azure services includes [[Virtual Machines]], Cosmos DB, HDInsight, databricks, and Machine Learning Studio.
->
-> **[1:14](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=74)** Last cloud provider we will talk about is GCP.
->
-> **[1:18](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=78)** It provides services for scalable [[Data Warehousing]], storage, and [[Data Processing]] machine learning services such as AI Platform and AutoML, facilitate advanced data analysis and modeling.
->
-> **[1:30](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=90)** GCP includes computing [[Big Data]], storage, networking, and ML services.
->
-> **[1:37](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=97)** It offers powerful tools like Compute Engine, BigQuery, [[Cloud Storage]], DataProc, [[TensorFlow]], and a lot more.
->
-> **[1:45](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=105)** Working knowledge of these cloud service providers allows data engineers to harness the power of scalable infrastructure, advanced analytics, and machine learning capabilities.
->
-> **[1:57](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=117)** These major players all offer excellent documentation, free tiers of training services, and certification programs.
+> **[1:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/various-cloud-platforms-to-explore?u=76281980&t=95)** and ML services. It offers powerful tools like Compute Engine, BigQuery, [[Cloud Storage]], DataProc, [[TensorFlow]], and a lot more. Working knowledge of these cloud service providers allows data engineers to harness the power of scalable infrastructure, advanced analytics, and machine learning capabilities. These major players all offer excellent documentation, free tiers of training services, and certification programs.
 
 > [!info]- Semantic Content
 >
@@ -912,53 +340,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=0)** - [Narrator] As data scientists transition to [[Data Engineering]] roles, understanding the importance of [[Data Quality]] becomes paramount.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=0)** - [Narrator] As data scientists transition to [[Data Engineering]] roles, understanding the importance of [[Data Quality]] becomes paramount. Let's delve into why data quality serves as a crucial element in the field of data engineering. Data quality plays a vital role in ensuring reliability, integrity, and usefulness of data for data engineers. Here are the main reasons. Accurate analysis and insights. High quality data provides a solid foundation for accurate analysis enabling data engineers to derive meaningful insights. Clean and reliable data ensures that the analysis and models built by data engineers produce accurate and reliable results. Reliable decision making. Data engineers rely on quality data to make informed decisions and drive business strategies. Decision makers at all levels of an organization rely on data engineers to provide reliable and trustworthy data for critical decision making processes. Efficient [[Data Processing]]. Data engineers spend a significant amount of time processing and transforming data before it can be used for analysis and modeling. High quality data reduces the time and effort required for [[Data Cleaning]], transformation, validation, enabling data engineers to focus more on strategic tasks. Enhanced [[Data Integration]]. Data engineers often work with multiple data sources and systems, requiring seamless integration
 >
-> **[0:07](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=7)** Let's delve into why data quality serves as a crucial element in the field of data engineering.
->
-> **[0:13](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=13)** Data quality plays a vital role in ensuring reliability, integrity, and usefulness of data for data engineers.
->
-> **[0:22](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=22)** Here are the main reasons.
->
-> **[0:24](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=24)** Accurate analysis and insights.
->
-> **[0:27](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=27)** High quality data provides a solid foundation for accurate analysis enabling data engineers to derive meaningful insights.
->
-> **[0:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=35)** Clean and reliable data ensures that the analysis and models built by data engineers produce accurate and reliable results.
->
-> **[0:44](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=44)** Reliable decision making.
->
-> **[0:46](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=46)** Data engineers rely on quality data to make informed decisions and drive business strategies.
->
-> **[0:52](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=52)** Decision makers at all levels of an organization rely on data engineers to provide reliable and trustworthy data for critical decision making processes.
->
-> **[1:03](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=63)** Efficient [[Data Processing]].
->
-> **[1:05](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=65)** Data engineers spend a significant amount of time processing and transforming data before it can be used for analysis and modeling.
->
-> **[1:14](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=74)** High quality data reduces the time and effort required for [[Data Cleaning]], transformation, validation, enabling data engineers to focus more on strategic tasks.
->
-> **[1:26](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=86)** Enhanced [[Data Integration]].
->
-> **[1:28](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=88)** Data engineers often work with multiple data sources and systems, requiring seamless integration of various data sets.
->
-> **[1:36](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=96)** Data quality ensures that the data from different sources can be integrated accurately, enabling a holistic view of organization's data landscape.
->
-> **[1:47](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=107)** Improve [[Data Governance]] and compliance.
->
-> **[1:51](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=111)** Quality data is essential for maintaining data governance practices and ensuring compliance with regulations and policies.
->
-> **[1:59](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=119)** Data engineers play a crucial role in implementing data quality controls and processes that align with regulatory compliances.
->
-> **[2:08](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=128)** Data quality is the backbone of data engineering, enabling accurate analysis, reliable decision making, and effective data governance.
->
-> **[2:19](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=139)** In data engineering roles, upholding data quality spans activities like error handling, testing, monitoring, documentation, and [[Metadata]].
->
-> **[2:30](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=150)** Robust [[Data Validation]], integration, testing, and auditing must be baked into [[Data Pipelines]] and architectures.
->
-> **[2:38](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=158)** High quality data serves as the foundation for reliable and accurate analysis, decision making, and insights.
->
-> **[2:46](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=166)** By prioritizing data quality, data engineers can unlock the full potential of data and drive meaningful business outcomes.
+> **[1:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980&t=95)** of various data sets. Data quality ensures that the data from different sources can be integrated accurately, enabling a holistic view of organization's data landscape. Improve [[Data Governance]] and compliance. Quality data is essential for maintaining data governance practices and ensuring compliance with regulations and policies. Data engineers play a crucial role in implementing data quality controls and processes that align with regulatory compliances. Data quality is the backbone of data engineering, enabling accurate analysis, reliable decision making, and effective data governance. In data engineering roles, upholding data quality spans activities like error handling, testing, monitoring, documentation, and [[Metadata]]. Robust [[Data Validation]], integration, testing, and auditing must be baked into [[Data Pipelines]] and architectures. High quality data serves as the foundation for reliable and accurate analysis, decision making, and insights. By prioritizing data quality, data engineers can unlock the full potential of data and drive meaningful business outcomes.
 
 > [!info]- Semantic Content
 >
@@ -970,51 +354,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=0)** - [Narrator] As data scientists take on the [[Data Engineering]] responsibilities, implementing strong [[Data Governance]] becomes a key priority.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=0)** - [Narrator] As data scientists take on the [[Data Engineering]] responsibilities, implementing strong [[Data Governance]] becomes a key priority. Data governance establishes the processes and policies for managing data as an enterprise asset, ensuring that data is protected and utilize effectively to drive business value. Data governance serves as a set of practices and processes that ensure the proper management, protection, and utilization of data assets. Here's why data governance is so important for data engineers. [[Data Integrity]] and quality is the core heart for data governance practices. Data governance establishes the standards and processes to maintain data integrity and ensure high quality data across the organizations. Data engineers play a key role in implementing [[Data Quality]] controls and validation procedures, ensuring that the data is accurate, complete, and reliable. Another important factor is compliance with regulations and policies. Data governance ensures that the data practices align with the regulatory requirements, industry standards, and internal policies. Data engineers are responsible for implementing data governance frameworks that protect sensitive data and ensure compliance with regulations like GDPR, HIPAA, and CCP. [[Data Security]] and [[Privacy]] to establish measures to protect data from unauthorized accesses,
 >
-> **[0:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=9)** Data governance establishes the processes and policies for managing data as an enterprise asset, ensuring that data is protected and utilize effectively to drive business value.
+> **[1:34](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=94)** breaches, and misuse. Data engineers implement security controls and encryption protocols to safeguard the data throughout its lifecycle, ensuring [[Data Privacy]] and mitigating potential risks. Effective [[Data Management]] and utilization provides guidelines for data management, including [[Data Collection]], storage access, and retention. Data engineers leverage data governance frameworks to ensure data is organized, well documented, and easily accessible for analysis and decision making. Collaboration and [[Data Sharing]] across teams and departments fosters a trustworthy data-driven culture making solutions more innovative and optimized. Data engineers facilitate data sharing initiatives by implementing secure [[Data Pipelines]], data cataloging, and [[Metadata]] management policies. Data governance [[Forms]] the foundation for effective data management, protection, and utilization. By prioritizing data governance, data engineers can ensure data excellence and drive meaningful business outcomes. As data engineers working closely with the data governance groups, it's imperative to build managed data platforms. Governance may impose controls on data accesses, infrastructure, security, and pipelines that engineers must integrate into systems. These governance best practices makes data trustworthy and usable across the businesses.
 >
-> **[0:21](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=21)** Data governance serves as a set of practices and processes that ensure the proper management, protection, and utilization of data assets.
->
-> **[0:31](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=31)** Here's why data governance is so important for data engineers.
->
-> **[0:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=35)** [[Data Integrity]] and quality is the core heart for data governance practices.
->
-> **[0:40](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=40)** Data governance establishes the standards and processes to maintain data integrity and ensure high quality data across the organizations.
->
-> **[0:49](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=49)** Data engineers play a key role in implementing [[Data Quality]] controls and validation procedures, ensuring that the data is accurate, complete, and reliable.
->
-> **[1:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=60)** Another important factor is compliance with regulations and policies.
->
-> **[1:05](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=65)** Data governance ensures that the data practices align with the regulatory requirements, industry standards, and internal policies.
->
-> **[1:13](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=73)** Data engineers are responsible for implementing data governance frameworks that protect sensitive data and ensure compliance with regulations like GDPR, HIPAA, and CCP.
->
-> **[1:27](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=87)** [[Data Security]] and [[Privacy]] to establish measures to protect data from unauthorized accesses, breaches, and misuse.
->
-> **[1:36](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=96)** Data engineers implement security controls and encryption protocols to safeguard the data throughout its lifecycle, ensuring [[Data Privacy]] and mitigating potential risks.
->
-> **[1:49](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=109)** Effective [[Data Management]] and utilization provides guidelines for data management, including [[Data Collection]], storage access, and retention.
->
-> **[1:59](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=119)** Data engineers leverage data governance frameworks to ensure data is organized, well documented, and easily accessible for analysis and decision making.
->
-> **[2:10](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=130)** Collaboration and [[Data Sharing]] across teams and departments fosters a trustworthy data-driven culture making solutions more innovative and optimized.
->
-> **[2:20](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=140)** Data engineers facilitate data sharing initiatives by implementing secure [[Data Pipelines]], data cataloging, and [[Metadata]] management policies.
->
-> **[2:32](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=152)** Data governance [[Forms]] the foundation for effective data management, protection, and utilization.
->
-> **[2:39](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=159)** By prioritizing data governance, data engineers can ensure data excellence and drive meaningful business outcomes.
->
-> **[2:47](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=167)** As data engineers working closely with the data governance groups, it's imperative to build managed data platforms.
->
-> **[2:54](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=174)** Governance may impose controls on data accesses, infrastructure, security, and pipelines that engineers must integrate into systems.
->
-> **[3:03](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=183)** These governance best practices makes data trustworthy and usable across the businesses.
->
-> **[3:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=189)** What's the data governance practice according to you?
->
-> **[3:12](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=192)** Share in comments.
+> **[3:09](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-governance-important?u=76281980&t=189)** What's the data governance practice according to you? Share in comments.
 
 > [!info]- Semantic Content
 >
@@ -1031,35 +375,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=0)** - [Pooja] Mission accomplished, data heroes.
->
-> **[0:03](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=3)** We have navigated the fascinating landscapes of [[Data Science]] and [[Data Engineering]], equipped you with powerful tools, and ignited your passion for building insights from the raw power of data.
->
-> **[0:16](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=16)** In summary, you have learned about the fundamentals of data engineering including [[Data Ingestion]], transformation, storage, and processing.
->
-> **[0:26](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=26)** You have explored various tools and technologies such as Apache [[Hadoop]], Spark, and Cloud platforms like AWS, [[Microsoft Azure|Azure]], [[Google Cloud Platform (GCP)|Google Cloud]].
->
-> **[0:35](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=35)** Additionally, you have discovered the best practices for designing scalable and efficient [[Data Pipelines]].
->
-> **[0:42](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=42)** Next steps.
->
-> **[0:43](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=43)** Practice, practice, practice,.
->
-> **[0:46](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=46)** Experiment with new tools, build personal projects, and keep learning.
->
-> **[0:51](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=51)** Join the data community.
->
-> **[0:54](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=54)** Network, share your knowledge, and learn from others.
->
-> **[0:57](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=57)** Remember, the first step is to apply what you have learned.
->
-> **[1:01](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=61)** Start by identifying a data engineering project or problem you want to solve, and deep dive into it.
->
-> **[1:08](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=68)** Practice and get hands-on experience that will solidify your skills and help you growth as a data engineer.
->
-> **[1:15](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=75)** I wish you best of luck for your future endeavor.
->
-> **[1:18](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=78)** Embrace the exciting world of data engineering and keep pushing the boundaries of what's possible.
+> **[0:00](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980&t=0)** - [Pooja] Mission accomplished, data heroes. We have navigated the fascinating landscapes of [[Data Science]] and [[Data Engineering]], equipped you with powerful tools, and ignited your passion for building insights from the raw power of data. In summary, you have learned about the fundamentals of data engineering including [[Data Ingestion]], transformation, storage, and processing. You have explored various tools and technologies such as Apache [[Hadoop]], Spark, and Cloud platforms like AWS, [[Microsoft Azure|Azure]], [[Google Cloud Platform (GCP)|Google Cloud]]. Additionally, you have discovered the best practices for designing scalable and efficient [[Data Pipelines]]. Next steps. Practice, practice, practice,. Experiment with new tools, build personal projects, and keep learning. Join the data community. Network, share your knowledge, and learn from others. Remember, the first step is to apply what you have learned. Start by identifying a data engineering project or problem you want to solve, and deep dive into it. Practice and get hands-on experience that will solidify your skills and help you growth as a data engineer. I wish you best of luck for your future endeavor. Embrace the exciting world of data engineering and keep pushing the boundaries of what's possible.
 
 > [!info]- Semantic Content
 >

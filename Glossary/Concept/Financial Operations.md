@@ -16,7 +16,7 @@ tags:
   - topic/security
   - topic/data-science
 course_count: 5
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Financial%20Operations.md)

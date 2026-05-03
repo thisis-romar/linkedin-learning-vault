@@ -21,7 +21,7 @@ tags:
   - topic/cloud-computing
   - topic/database-management
 course_count: 27
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Java%20Database%20Connectivity%20(JDBC).md)

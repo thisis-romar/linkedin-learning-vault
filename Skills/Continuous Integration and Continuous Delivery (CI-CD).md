@@ -9,7 +9,7 @@ level_advanced: 1
 tags:
   - skill
   - skill/continuous-integration-and-continuous-delivery-ci-cd
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Continuous%20Integration%20and%20Continuous%20Delivery%20(CI-CD).md)

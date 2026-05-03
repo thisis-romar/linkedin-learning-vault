@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/ai-policy-governance-and-regulation
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/AI%20Policy%2C%20Governance%2C%20and%20Regulation.md)

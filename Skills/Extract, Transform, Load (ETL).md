@@ -9,7 +9,7 @@ level_advanced: 1
 tags:
   - skill
   - skill/extract-transform-load-etl
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Extract%2C%20Transform%2C%20Load%20(ETL).md)

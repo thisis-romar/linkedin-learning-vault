@@ -7,7 +7,7 @@ course_count: 2
 linkedin_topics:
   - DevOps
   - Network and System Administration
-louvain_cluster: 6
+louvain_cluster: 0
 tags:
   - learning-path
   - topic/devops
@@ -27,7 +27,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Containerize%20Applications%20with%20Docker.md)

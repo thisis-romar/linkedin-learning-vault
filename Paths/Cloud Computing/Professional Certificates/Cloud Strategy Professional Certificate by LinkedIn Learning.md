@@ -8,7 +8,7 @@ linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 9
 tags:
   - professional-certificate
   - topic/cloud-computing
@@ -57,7 +57,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Professional%20Certificates/Cloud%20Strategy%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)

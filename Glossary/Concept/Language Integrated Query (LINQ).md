@@ -17,7 +17,7 @@ tags:
   - topic/devops
   - topic/mobile-development
 course_count: 10
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Language%20Integrated%20Query%20(LINQ).md)

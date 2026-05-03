@@ -20,7 +20,7 @@ tags:
   - topic/cloud-computing
   - topic/security
 course_count: 137
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Natural%20Language%20Processing%20(NLP).md)

@@ -9,7 +9,7 @@ level_advanced: 1
 tags:
   - skill
   - skill/sql-server-integration-services-ssis
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/SQL%20Server%20Integration%20Services%20(SSIS).md)

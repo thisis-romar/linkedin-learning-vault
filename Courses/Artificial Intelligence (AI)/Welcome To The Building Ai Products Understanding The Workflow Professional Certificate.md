@@ -25,7 +25,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Welcome%20To%20The%20Building%20Ai%20Products%20Understanding%20The%20Workflow%20Professional%20Certificate.md)
@@ -54,27 +54,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=0)** - AI is transforming the [[Software Development]] lifecycle, but even more so, it's dramatically changing the required skills to build and scale AI [[Microsoft Products|products]].
->
-> **[0:10](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=10)** And the impact it's having in the workplace means we need to stay ahead of the curve.
->
-> **[0:16](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=16)** It's an exciting time.
->
-> **[0:18](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=18)** Welcome to [[LinkedIn]]'s professional certificate program.
->
-> **[0:22](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=22)** This learning path is here to guide you through each aspect of the certificate process.
->
-> **[0:27](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=27)** To earn your professional certificate, you'll need to complete all courses in this learning path and pass the final exam.
->
-> **[0:38](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=38)** These courses will walk you through the process of building, deploying, and scaling AI products.
->
-> **[0:44](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=44)** You'll build the skills that leaders and teams need to be successful.
->
-> **[0:49](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=49)** Once you're done, you can immediately share your certificate on your LinkedIn profile.
->
-> **[0:54](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=54)** So what are you waiting for?
->
-> **[0:56](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=56)** Go get started.
+> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=0)** - AI is transforming the [[Software Development]] lifecycle, but even more so, it's dramatically changing the required skills to build and scale AI [[Microsoft Products|products]]. And the impact it's having in the workplace means we need to stay ahead of the curve. It's an exciting time. Welcome to [[LinkedIn]]'s professional certificate program. This learning path is here to guide you through each aspect of the certificate process. To earn your professional certificate, you'll need to complete all courses in this learning path and pass the final exam. These courses will walk you through the process of building, deploying, and scaling AI products. You'll build the skills that leaders and teams need to be successful. Once you're done, you can immediately share your certificate on your LinkedIn profile. So what are you waiting for? Go get started.
 
 > [!info]- Semantic Content
 >

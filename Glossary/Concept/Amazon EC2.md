@@ -20,7 +20,7 @@ tags:
   - topic/artificial-intelligence
   - topic/network-and-system-administration
 course_count: 60
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Amazon%20EC2.md)

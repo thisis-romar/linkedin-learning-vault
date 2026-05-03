@@ -9,7 +9,7 @@ linkedin_topics:
 tags:
   - instructor
   - topic/data-science
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Data%20Science/Tony%20Harmer.md)

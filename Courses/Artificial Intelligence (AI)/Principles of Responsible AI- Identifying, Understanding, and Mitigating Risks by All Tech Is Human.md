@@ -28,7 +28,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Principles%20of%20Responsible%20AI-%20Identifying%2C%20Understanding%2C%20and%20Mitigating%20Risks%20by%20All%20Tech%20Is%20Human.md)

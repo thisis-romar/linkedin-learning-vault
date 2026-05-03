@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/transact-sql-t-sql
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Transact-SQL%20(T-SQL).md)

@@ -21,7 +21,7 @@ tags:
   - topic/security
   - topic/cloud-computing
 course_count: 1048
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Representational%20State%20Transfer%20(REST).md)

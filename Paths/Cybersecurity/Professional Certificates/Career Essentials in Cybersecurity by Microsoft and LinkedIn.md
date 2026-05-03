@@ -33,7 +33,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Professional%20Certificates/Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.md)

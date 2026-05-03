@@ -18,7 +18,7 @@ tags:
   - topic/software-development
   - topic/data-science
 course_count: 59
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Multi-factor%20Authentication.md)

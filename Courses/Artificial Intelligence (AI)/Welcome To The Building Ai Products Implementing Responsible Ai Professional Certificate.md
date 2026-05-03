@@ -29,7 +29,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Welcome%20To%20The%20Building%20Ai%20Products%20Implementing%20Responsible%20Ai%20Professional%20Certificate.md)
@@ -58,19 +58,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=0)** - Welcome to the Building AI [[Microsoft Products|Products]] Implementing [[Responsible AI]] Professional Certificate.
->
-> **[0:06](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=6)** AI is transforming not only [[Product Development]], but the necessity for responsible and transparent systems.
->
-> **[0:13](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=13)** This shift demands a comprehensive understanding of using responsible AI to build, scale, and deploy AI products.
->
-> **[0:21](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=21)** In this professional certificate, you'll walk through how to implement and deploy a full scale AI product with responsible AI at its core.
->
-> **[0:31](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=31)** You'll gain deeper knowledge with implementing a data strategy, GenAIOps, and [[Data Governance]] and compliance.
->
-> **[0:39](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=39)** Complete all courses and pass the final exam to earn your professional certificate, which you can showcase on your [[LinkedIn]] profile.
->
-> **[0:48](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=48)** Let's begin building your expertise in implementing responsible AI.
+> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980&t=0)** - Welcome to the Building AI [[Microsoft Products|Products]] Implementing [[Responsible AI]] Professional Certificate. AI is transforming not only [[Product Development]], but the necessity for responsible and transparent systems. This shift demands a comprehensive understanding of using responsible AI to build, scale, and deploy AI products. In this professional certificate, you'll walk through how to implement and deploy a full scale AI product with responsible AI at its core. You'll gain deeper knowledge with implementing a data strategy, GenAIOps, and [[Data Governance]] and compliance. Complete all courses and pass the final exam to earn your professional certificate, which you can showcase on your [[LinkedIn]] profile. Let's begin building your expertise in implementing responsible AI.
 
 > [!info]- Semantic Content
 >

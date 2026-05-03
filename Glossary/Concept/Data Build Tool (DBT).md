@@ -20,7 +20,7 @@ tags:
   - topic/database-management
   - topic/web-development
 course_count: 4
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Data%20Build%20Tool%20(DBT).md)

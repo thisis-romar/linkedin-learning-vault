@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/prepare-for-the-excel-associate-mic
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/data-science
@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Prepare%20for%20the%20Excel%20Associate%20-%20Microsoft%20Office%20Specialist%20Exam%20for%20M365%20Apps%20(MO-210).md)

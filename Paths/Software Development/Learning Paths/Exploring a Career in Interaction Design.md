@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/exploring-a-career-in-interaction-d
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 9
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/software-development
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Exploring%20a%20Career%20in%20Interaction%20Design.md)

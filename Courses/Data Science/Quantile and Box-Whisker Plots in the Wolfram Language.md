@@ -29,7 +29,7 @@ tags:
   - skill/wolfram-language
   - skill/data-analysis
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Quantile%20and%20Box-Whisker%20Plots%20in%20the%20Wolfram%20Language.md)

@@ -10,7 +10,7 @@ tags:
   - type/concept
   - topic/hardware
 course_count: 7
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/PLC%20Ladder%20Logic.md)

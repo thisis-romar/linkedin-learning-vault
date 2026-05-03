@@ -13,7 +13,7 @@ tags:
   - topic/artificial-intelligence
   - topic/database-management
   - topic/software-development
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Artificial%20Intelligence%20(AI)/Joon-Pil%20Hwang.md)

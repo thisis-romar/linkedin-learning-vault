@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/develop-your-skills-in-agile-softwa
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 4
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/devops
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Develop%20Your%20Skills%20in%20Agile%20Software%20Development.md)

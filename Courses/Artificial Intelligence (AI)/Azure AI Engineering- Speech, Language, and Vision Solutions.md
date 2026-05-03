@@ -35,7 +35,7 @@ tags:
   - skill/application-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Engineering-%20Speech%2C%20Language%2C%20and%20Vision%20Solutions.md)
@@ -75,17 +75,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980&t=1)** - Welcome to this course about building [[AI Solutions]] with [[Microsoft Azure|Azure]] AI.
->
-> **[0:06](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980&t=6)** [[Artificial Intelligence (AI)|Artificial intelligence]] engineers are often responsible for creating solutions that use [[Natural Language Processing (NLP)|natural language processing]], or NLP.
->
-> **[0:16](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980&t=16)** NLP solutions Use language models to interpret the semantic meaning of written and spoken language.
->
-> **[0:23](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980&t=23)** In this course, you'll learn how to use the Language Understanding service in Azure AI to build language models for your applications.
->
-> **[0:32](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980&t=32)** Additionally, you'll use Azure AI Vision, which includes multiple services that support common [[Computer Vision]] scenarios.
->
-> **[0:40](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980&t=40)** You'll learn how to process and translate speech with Azure AI Speech services, and you'll build AI solutions that can answer questions and can classify images, video, speech, and text using Azure AI.
+> **[0:01](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980&t=1)** - Welcome to this course about building [[AI Solutions]] with [[Microsoft Azure|Azure]] AI. [[Artificial Intelligence (AI)|Artificial intelligence]] engineers are often responsible for creating solutions that use [[Natural Language Processing (NLP)|natural language processing]], or NLP. NLP solutions Use language models to interpret the semantic meaning of written and spoken language. In this course, you'll learn how to use the Language Understanding service in Azure AI to build language models for your applications. Additionally, you'll use Azure AI Vision, which includes multiple services that support common [[Computer Vision]] scenarios. You'll learn how to process and translate speech with Azure AI Speech services, and you'll build AI solutions that can answer questions and can classify images, video, speech, and text using Azure AI.
 
 > [!info]- Semantic Content
 >

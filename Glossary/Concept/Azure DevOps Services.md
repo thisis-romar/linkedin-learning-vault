@@ -14,7 +14,7 @@ tags:
   - topic/software-development
   - topic/network-and-system-administration
 course_count: 3
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Azure%20DevOps%20Services.md)

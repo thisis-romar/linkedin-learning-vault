@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -35,7 +35,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/AI%20Regulations%20for%20Business%20Leaders-%20The%20EU%20AI%20Act%20and%20More.md)

@@ -20,7 +20,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
 course_count: 20
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Robotic%20Process%20Automation%20(RPA).md)

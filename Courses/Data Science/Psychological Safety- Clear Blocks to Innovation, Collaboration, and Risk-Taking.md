@@ -32,7 +32,7 @@ tags:
   - skill/emotional-intelligence
   - skill/open-innovation
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Psychological%20Safety-%20Clear%20Blocks%20to%20Innovation%2C%20Collaboration%2C%20and%20Risk-Taking.md)

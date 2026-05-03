@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/building-chatgpt-skills-for-marketi
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Building%20ChatGPT%20Skills%20for%20Marketing.md)

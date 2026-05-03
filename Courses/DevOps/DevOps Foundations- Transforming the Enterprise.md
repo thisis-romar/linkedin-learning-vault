@@ -29,7 +29,7 @@ tags:
   - topic/data-science
   - topic/software-development
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/DevOps%20Foundations-%20Transforming%20the%20Enterprise.md)
@@ -175,13 +175,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/next-steps?u=76281980&t=0)** - Thank you so much for spending time with me and learning how dev ops can help your business adapt to evolving customer needs.
->
-> **[0:07](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/next-steps?u=76281980&t=7)** Feel free to ask any questions in the Q&A section of this course.
->
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/next-steps?u=76281980&t=11)** If you are interested in learning more there are several courses in the library that you can check out.
->
-> **[0:16](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/next-steps?u=76281980&t=16)** Good luck on your dev ops journey.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/next-steps?u=76281980&t=0)** - Thank you so much for spending time with me and learning how dev ops can help your business adapt to evolving customer needs. Feel free to ask any questions in the Q&A section of this course. If you are interested in learning more there are several courses in the library that you can check out. Good luck on your dev ops journey.
 
 > [!info]- Semantic Content
 >

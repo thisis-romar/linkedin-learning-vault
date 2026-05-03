@@ -20,7 +20,7 @@ tags:
   - topic/database-management
   - topic/it-help-desk
 course_count: 189
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Glossary/Concept/Large%20Language%20Models%20(LLM).md)

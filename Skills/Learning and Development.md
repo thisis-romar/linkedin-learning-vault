@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/learning-and-development
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Learning%20and%20Development.md)

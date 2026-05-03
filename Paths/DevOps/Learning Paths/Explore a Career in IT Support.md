@@ -8,7 +8,7 @@ linkedin_topics:
   - DevOps
   - IT Help Desk
   - Network and System Administration
-louvain_cluster: 7
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/devops
@@ -65,7 +65,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Explore%20a%20Career%20in%20IT%20Support.md)

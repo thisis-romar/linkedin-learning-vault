@@ -7,7 +7,7 @@ course_count: 22
 linkedin_topics:
   - Artificial Intelligence (AI)
   - IT Help Desk
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -107,7 +107,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Understanding%20Generative%20AI%20for%20Tech%20Leaders.md)

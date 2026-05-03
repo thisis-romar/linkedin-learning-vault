@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/devops-professional-certificate-by-
 course_count: 3
 linkedin_topics:
   - DevOps
-louvain_cluster: 4
+louvain_cluster: 7
 tags:
   - professional-certificate
   - topic/devops
@@ -29,7 +29,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Professional%20Certificates/DevOps%20Professional%20Certificate%20by%20PagerDuty%20and%20LinkedIn.md)

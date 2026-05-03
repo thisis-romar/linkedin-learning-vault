@@ -32,7 +32,7 @@ tags:
   - skill/codespaces
   - skill/github
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20GitHub%20Codespaces%20for%20Enterprise.md)
@@ -94,25 +94,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=0)** - In today's cloud first and cloud native world more and more teams are moving their software infrastructure to the cloud.
->
-> **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=6)** But this paradigm shift in [[Application Development]] it makes a lot of sense to also move the entire [[Software Development]] process to the cloud.
->
-> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=14)** In comes [[GitHub]] Code Spaces.
->
-> **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=17)** GitHub Code Spaces is a cloud-based development environment for writing, to bargain, testing and deploying code.
->
-> **[0:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=25)** You can also generate a public URL for stakeholders to follow up with the progress of your application at any point in the development process.
->
-> **[0:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=33)** If you prefer to work in your local visuals studio code environment but still want to take advantage of the machine power that is available on Code Spaces, GitHub Code Spaces allows you to connect your local VS code installation to your code spaces and have all the powerful features that comes with code spaces at your fingertips.
->
-> **[0:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=50)** Hi, I am Fikayo Adepoju, and I've been building applications for over 10 years now.
->
-> **[0:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=55)** One thing I have observed over the years is the gradual transition from the frustration of managing all your development tools locally to faster, more powerful, and easily disposable cloud tools that offer mortgage and reliability.
->
-> **[1:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=69)** This is what got me super excited with the release of GitHub Code Spaces.
->
-> **[1:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=74)** I am inviting you to join me in this course as I help you transition your development workflow to GitHub Code Spaces.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/bring-codespaces-to-your-organization?u=76281980&t=0)** - In today's cloud first and cloud native world more and more teams are moving their software infrastructure to the cloud. But this paradigm shift in [[Application Development]] it makes a lot of sense to also move the entire [[Software Development]] process to the cloud. In comes [[GitHub]] Code Spaces. GitHub Code Spaces is a cloud-based development environment for writing, to bargain, testing and deploying code. You can also generate a public URL for stakeholders to follow up with the progress of your application at any point in the development process. If you prefer to work in your local visuals studio code environment but still want to take advantage of the machine power that is available on Code Spaces, GitHub Code Spaces allows you to connect your local VS code installation to your code spaces and have all the powerful features that comes with code spaces at your fingertips. Hi, I am Fikayo Adepoju, and I've been building applications for over 10 years now. One thing I have observed over the years is the gradual transition from the frustration of managing all your development tools locally to faster, more powerful, and easily disposable cloud tools that offer mortgage and reliability. This is what got me super excited with the release of GitHub Code Spaces. I am inviting you to join me in this course as I help you transition your development workflow to GitHub Code Spaces.
 
 > [!info]- Semantic Content
 >
@@ -126,25 +108,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to take this course, there are a couple of skills you need to have under your belt.
->
-> **[0:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=4)** These skills are required for you to successfully follow along with the course.
->
-> **[0:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=8)** First, is coding experience.
->
-> **[0:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=11)** You are required to have at least a basic understanding of how to code within an editor, and you need to have spent some time developing software applications.
->
-> **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=20)** Your programming language of choice is not a factor here.
->
-> **[0:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=23)** Next, you need to be familiar with [[Version Control]] systems lik [[Git]], and the entire process of staging, committing and pushing code to [[GitHub]].
->
-> **[0:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=32)** We also make use of Docker in this course.
->
-> **[0:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=34)** However, you can follow along if you have no experience using Docker.
->
-> **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=38)** We will define the role Docker plays in GitHub [[Codespaces]], enough for you to grasp the concepts necessary for using Docker within your Codespaces.
->
-> **[0:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=45)** With this skill at your fingertips, you can start learning how to use GitHub Codespaces for [[Software Development]].
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to take this course, there are a couple of skills you need to have under your belt. These skills are required for you to successfully follow along with the course. First, is coding experience. You are required to have at least a basic understanding of how to code within an editor, and you need to have spent some time developing software applications. Your programming language of choice is not a factor here. Next, you need to be familiar with [[Version Control]] systems lik [[Git]], and the entire process of staging, committing and pushing code to [[GitHub]]. We also make use of Docker in this course. However, you can follow along if you have no experience using Docker. We will define the role Docker plays in GitHub [[Codespaces]], enough for you to grasp the concepts necessary for using Docker within your Codespaces. With this skill at your fingertips, you can start learning how to use GitHub Codespaces for [[Software Development]].
 
 > [!info]- Semantic Content
 >
@@ -158,33 +122,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=0)** - So, who should be taking this course?
->
-> **[0:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=3)** If you have found your way to this course, this is the time to answer a couple of questions that will determine if this is the right course for you.
->
-> **[0:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=9)** Ready?
->
-> **[0:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=10)** Let's go.
->
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=12)** Are you a developer trying to learn about or take advantage of a cloud-based development platform?
->
-> **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=17)** Are you a development team that wants to move some or all of its workflows to a remote development platform and take advantage of the collaborative features?
->
-> **[0:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=25)** Do you need to quickly spin up a publicly accessible address where clients and other stakeholders can check the progress of your work and you want the luxury of doing this directly from your ID?
->
-> **[0:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=36)** Are you tired of installing and configuring your ID on all computer systems you work on and you just want to configure once and be able to work from anywhere using the same configuration?
->
-> **[0:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=47)** Or are you a project manager or engineering team manager looking to optimize the workflows of your development team?
->
-> **[0:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=54)** If your answer to any of these questions is yes then you are in the right place.
->
-> **[1:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=60)** Get Up Code Spaces is a remote development and co-collaboration platform that comes with a suit of features to help you collaborate and share your work.
->
-> **[1:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=68)** You can also automate the deployment of your applications and customize the programming experience for your entire team.
->
-> **[1:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=75)** Sounds good?
->
-> **[1:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=76)** Let's get started.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/who-should-take-this-course?u=76281980&t=0)** - So, who should be taking this course? If you have found your way to this course, this is the time to answer a couple of questions that will determine if this is the right course for you. Ready? Let's go. Are you a developer trying to learn about or take advantage of a cloud-based development platform? Are you a development team that wants to move some or all of its workflows to a remote development platform and take advantage of the collaborative features? Do you need to quickly spin up a publicly accessible address where clients and other stakeholders can check the progress of your work and you want the luxury of doing this directly from your ID? Are you tired of installing and configuring your ID on all computer systems you work on and you just want to configure once and be able to work from anywhere using the same configuration? Or are you a project manager or engineering team manager looking to optimize the workflows of your development team? If your answer to any of these questions is yes then you are in the right place. Get Up Code Spaces is a remote development and co-collaboration platform that comes with a suit of features to help you collaborate and share your work. You can also automate the deployment of your applications and customize the programming experience for your entire team. Sounds good? Let's get started.
 
 > [!info]- Semantic Content
 >
@@ -201,39 +139,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=0)** - [Instructor] [[GitHub]] [[Codespaces]] can be described in a lot of ways, and you may have come across a couple of definitions while researching the product.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=0)** - [Instructor] [[GitHub]] [[Codespaces]] can be described in a lot of ways, and you may have come across a couple of definitions while researching the product. In this video, we'll describe GitHub Codespaces based on its purposes and explore what it does for developers and development teams. Simply put, GitHub Codespaces is a cloud-based development environment for writing, debugging, testing and deploying code. If you're already familiar with working with Visual Studio Code, the GitHub Codespaces editor should feel more natural to you. The Codespaces development environment runs in a virtual machine in the cloud. This makes Codespaces available everywhere, and developers can develop software within [[Virtual Machines]] that are faster, and more efficient than their personal computers. GitHub Codespaces also come bundled with a suite of code collaboration features that helps teams to work together efficiently. Codespaces seamlessly integrates with GitHub giving it all the powerful collaboration features available on GitHub. GitHub Codespaces also allows you to configure a standardized development environment for your development teams. Let's say you have a style guide that your developers should adhere to, or you want every developer to be set up with a couple of plugins that improve their development experience. You can configure these and many more for all developers on your team, and average replicated across all Codespaces instances. Want to review your application? GitHub Codespaces gives you the ability to spin up a staging environment by generating a preview URL where clients and stakeholders can view the progress of your work. Earlier in the video,
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=7)** In this video, we'll describe GitHub Codespaces based on its purposes and explore what it does for developers and development teams.
->
-> **[0:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=15)** Simply put, GitHub Codespaces is a cloud-based development environment for writing, debugging, testing and deploying code.
->
-> **[0:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=24)** If you're already familiar with working with Visual Studio Code, the GitHub Codespaces editor should feel more natural to you.
->
-> **[0:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=30)** The Codespaces development environment runs in a virtual machine in the cloud.
->
-> **[0:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=34)** This makes Codespaces available everywhere, and developers can develop software within [[Virtual Machines]] that are faster, and more efficient than their personal computers.
->
-> **[0:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=43)** GitHub Codespaces also come bundled with a suite of code collaboration features that helps teams to work together efficiently.
->
-> **[0:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=51)** Codespaces seamlessly integrates with GitHub giving it all the powerful collaboration features available on GitHub.
->
-> **[0:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=58)** GitHub Codespaces also allows you to configure a standardized development environment for your development teams.
->
-> **[1:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=65)** Let's say you have a style guide that your developers should adhere to, or you want every developer to be set up with a couple of plugins that improve their development experience.
->
-> **[1:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=74)** You can configure these and many more for all developers on your team, and average replicated across all Codespaces instances.
->
-> **[1:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=81)** Want to review your application?
->
-> **[1:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=83)** GitHub Codespaces gives you the ability to spin up a staging environment by generating a preview URL where clients and stakeholders can view the progress of your work.
->
-> **[1:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=92)** Earlier in the video, I stated that Codespaces run in virtual machine.
->
-> **[1:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=96)** As a user, Codespaces gives you the ability to select different machines specifications for memory and CPU calls based on your preferences for computing power.
->
-> **[1:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=105)** GitHub Codespaces gives you everything you are already used to when coding on your personal machine, and even more.
->
-> **[1:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=111)** And with its ubiquitous accessibility advantage, you can enjoy the freedom of developing software from anywhere with all your favorite tools at your fingertips.
+> **[1:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/what-is-github-codespaces?u=76281980&t=93)** I stated that Codespaces run in virtual machine. As a user, Codespaces gives you the ability to select different machines specifications for memory and CPU calls based on your preferences for computing power. GitHub Codespaces gives you everything you are already used to when coding on your personal machine, and even more. And with its ubiquitous accessibility advantage, you can enjoy the freedom of developing software from anywhere with all your favorite tools at your fingertips.
 
 > [!info]- Semantic Content
 >
@@ -249,29 +157,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=0)** - You may have come across another cloud-based editor by [[GitHub]] called [GitHub.dev](https://GitHub.dev).
->
-> **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=6)** This editor can be pulled up by going to a GitHub repository and hitting the 'dot' key on your keyboard.
->
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=12)** You are then automatically presented with a cloud-based visual studio coding environment with the files in your repository loaded.
->
-> **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=20)** This service, which is located at the domain [GitHub.dev](https://GitHub.dev) was made available by GitHub to enable developers to make quick edits to their projects.
->
-> **[0:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=29)** And that's all there is to it.
->
-> **[0:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=31)** [GitHub.dev](https://GitHub.dev) does not come bundled with all the collaborative deployment and machine configuration features available in GitHub [[Codespaces]].
->
-> **[0:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=39)** GitHub Codespaces are fully featured development environments for performing various tasks in your development workflows and not just code editing.
->
-> **[0:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=48)** You also do not have the ability to sync your [GitHub.dev](https://GitHub.dev) environment with your local Visual Studio Code Editor.
->
-> **[0:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=54)** Unlike GitHub Codespaces, [GitHub.dev](https://GitHub.dev) editors are not persistent.
->
-> **[0:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=59)** You make use of them, and they are immediately discarded once you close the browser tab.
->
-> **[1:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=64)** Here is a rule of thumb to determine when to use GitHub Codespaces or [GitHub.dev](https://GitHub.dev): If you need to make a quick change to a file in your repository and commit the changes, use [GitHub.dev](https://GitHub.dev).
->
-> **[1:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=76)** However, if you need a remote development environment running on a powerful machine with all the features required to write, debug, preview and deploy your application along with configurations that can be shared across developers within your team, then GitHub Codespaces is what you need.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/github-codespaces-vs-github-dev?u=76281980&t=0)** - You may have come across another cloud-based editor by [[GitHub]] called [GitHub.dev](https://GitHub.dev). This editor can be pulled up by going to a GitHub repository and hitting the 'dot' key on your keyboard. You are then automatically presented with a cloud-based visual studio coding environment with the files in your repository loaded. This service, which is located at the domain [GitHub.dev](https://GitHub.dev) was made available by GitHub to enable developers to make quick edits to their projects. And that's all there is to it. [GitHub.dev](https://GitHub.dev) does not come bundled with all the collaborative deployment and machine configuration features available in GitHub [[Codespaces]]. GitHub Codespaces are fully featured development environments for performing various tasks in your development workflows and not just code editing. You also do not have the ability to sync your [GitHub.dev](https://GitHub.dev) environment with your local Visual Studio Code Editor. Unlike GitHub Codespaces, [GitHub.dev](https://GitHub.dev) editors are not persistent. You make use of them, and they are immediately discarded once you close the browser tab. Here is a rule of thumb to determine when to use GitHub Codespaces or [GitHub.dev](https://GitHub.dev): If you need to make a quick change to a file in your repository and commit the changes, use [GitHub.dev](https://GitHub.dev). However, if you need a remote development environment running on a powerful machine with all the features required to write, debug, preview and deploy your application along with configurations that can be shared across developers within your team, then GitHub Codespaces is what you need.
 
 > [!info]- Semantic Content
 >
@@ -288,71 +174,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=0)** - Unlike many features of [[GitHub]] that are available by default GitHub [[Codespaces]] is an opt-in service.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=0)** - Unlike many features of [[GitHub]] that are available by default GitHub [[Codespaces]] is an opt-in service. This means that you have to explicitly configure your GitHub account to use Codespaces. There is also a set of criteria to be met for a GitHub account to make use of Codespaces. So before we sign up for Codespaces let's go over the requirements. First, as at the time of this recording Codespaces can only be used on a GitHub organization account. This means that you cannot make use of Codespaces on a personal GitHub account so you will need to create a GitHub organization. This can be done from the profile menu of your regular GitHub account. The next requirement for Codespaces is that you need to be on a team or enterprise plan on your GitHub organization. What this means is that GitHub Codespaces is not a free service and as at the time of this recording it does not have a free tier. Once you satisfy these requirements you can go ahead and start using GitHub codespaces. Let's go ahead and sign up for a GitHub Codespaces, starting with creating an organization. To create a new organization. Click on the profile menu on your GitHub account and go to your organizations. On the organization's page. Click on the new organization button. When clicked, you'll be taking to the pricing page where you can choose an appropriate plan for your organization. To use GitHub Codespaces you need to be on either the team or enterprise plan. You can also switch the toggle buttons at the top to go for a monthly or yearly subscription payment model. For this demo, let's go ahead with a monthly team plan.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=5)** This means that you have to explicitly configure your GitHub account to use Codespaces.
->
-> **[0:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=10)** There is also a set of criteria to be met for a GitHub account to make use of Codespaces.
->
-> **[0:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=16)** So before we sign up for Codespaces let's go over the requirements.
->
-> **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=20)** First, as at the time of this recording Codespaces can only be used on a GitHub organization account.
->
-> **[0:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=27)** This means that you cannot make use of Codespaces on a personal GitHub account so you will need to create a GitHub organization.
->
-> **[0:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=34)** This can be done from the profile menu of your regular GitHub account.
->
-> **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=38)** The next requirement for Codespaces is that you need to be on a team or enterprise plan on your GitHub organization.
->
-> **[0:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=45)** What this means is that GitHub Codespaces is not a free service and as at the time of this recording it does not have a free tier.
->
-> **[0:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=52)** Once you satisfy these requirements you can go ahead and start using GitHub codespaces.
->
-> **[0:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=58)** Let's go ahead and sign up for a GitHub Codespaces, starting with creating an organization.
->
-> **[1:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=63)** To create a new organization.
->
-> **[1:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=64)** Click on the profile menu on your GitHub account and go to your organizations.
->
-> **[1:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=70)** On the organization's page.
->
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=71)** Click on the new organization button.
->
-> **[1:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=74)** When clicked, you'll be taking to the pricing page where you can choose an appropriate plan for your organization.
->
-> **[1:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=79)** To use GitHub Codespaces you need to be on either the team or enterprise plan.
->
-> **[1:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=84)** You can also switch the toggle buttons at the top to go for a monthly or yearly subscription payment model.
->
-> **[1:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=92)** For this demo, let's go ahead with a monthly team plan.
->
-> **[1:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=96)** Click create a new organization.
->
-> **[1:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=99)** And now that we have selected our preferred plan and subscription present model we can enter the name of our organization.
->
-> **[1:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=108)** Next, we select where the organization belongs to.
->
-> **[1:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=110)** I'm going to be going with my personal GitHub account.
->
-> **[1:53](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=113)** You can also go for a business or institution account.
->
-> **[1:56](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=116)** Once I have that selected you can click and accept the terms and conditions.
->
-> **[2:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=121)** Then click next to go to the payment details.
->
-> **[2:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=125)** Everything checks out, and if you scroll down you can enter your card details to make payments or pay through PayPal.
->
-> **[2:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=132)** I've already done this, so I'm just going to go to my organization and start working with GitHub Codespaces.
->
-> **[2:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=142)** Here in my organization, smartly named GitHub Codespaces, you're welcome, I have one repository created.
->
-> **[2:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=148)** This is the repository on which we'll be demonstrating the use of Codespaces throughout this course.
->
-> **[2:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=154)** To verify that we have Codespaces, let's go to this repository and then click the code drop down.
->
-> **[2:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=161)** If you see two tabs, one labeled Codespaces, this confirms that we now have Codespaces within our organization and we can use it within our repositories.
->
-> **[2:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=171)** You also have the local tab, which you're already used to and now we can start creating Codespaces on our organization repositories.
+> **[1:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/signing-up-for-codespaces?u=76281980&t=96)** Click create a new organization. And now that we have selected our preferred plan and subscription present model we can enter the name of our organization. Next, we select where the organization belongs to. I'm going to be going with my personal GitHub account. You can also go for a business or institution account. Once I have that selected you can click and accept the terms and conditions. Then click next to go to the payment details. Everything checks out, and if you scroll down you can enter your card details to make payments or pay through PayPal. I've already done this, so I'm just going to go to my organization and start working with GitHub Codespaces. Here in my organization, smartly named GitHub Codespaces, you're welcome, I have one repository created. This is the repository on which we'll be demonstrating the use of Codespaces throughout this course. To verify that we have Codespaces, let's go to this repository and then click the code drop down. If you see two tabs, one labeled Codespaces, this confirms that we now have Codespaces within our organization and we can use it within our repositories. You also have the local tab, which you're already used to and now we can start creating Codespaces on our organization repositories.
 
 > [!info]- Semantic Content
 >
@@ -368,47 +192,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=0)** - As we have seen in the previous video, once you have code spaces activated, you can now create a new code space on a repository within your organization's account.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=0)** - As we have seen in the previous video, once you have code spaces activated, you can now create a new code space on a repository within your organization's account. To create a new code space for this repository, click the code drop down. If you're not automatically on the code spaces tab, you can click on the tab to switch to it. By default you can create a code space on the branch you're currently on, like here on the main branch. To create your code space on a different branch, click the dropdown arrow on the code spaces button to select the option. In this video, we'll be creating a code space on the main branch. So click the create code base on main button. [[GitHub]] then goes to work creating your code space. This process will take a couple of seconds, and once it's done, you'll then be taken to a cloud-based visual studio code environment. The first time you're in your code space environment, you'll be presented with a few options to configure your code space. This includes selecting a theme, syncing to other devices, and so on. For now we'll just be going with the defaults. All the files in your repository can also be seen in the file explorer window of your editor. You can also see the usual visual studio code tabs for search, source control, debugging, extensions, and a new Github tab that gives you an overview of the state of your repository. To see all your code spaces,
 >
-> **[0:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=9)** To create a new code space for this repository, click the code drop down.
->
-> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=14)** If you're not automatically on the code spaces tab, you can click on the tab to switch to it.
->
-> **[0:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=19)** By default you can create a code space on the branch you're currently on, like here on the main branch.
->
-> **[0:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=27)** To create your code space on a different branch, click the dropdown arrow on the code spaces button to select the option.
->
-> **[0:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=36)** In this video, we'll be creating a code space on the main branch.
->
-> **[0:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=39)** So click the create code base on main button.
->
-> **[0:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=44)** [[GitHub]] then goes to work creating your code space.
->
-> **[0:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=47)** This process will take a couple of seconds, and once it's done, you'll then be taken to a cloud-based visual studio code environment.
->
-> **[0:56](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=56)** The first time you're in your code space environment, you'll be presented with a few options to configure your code space.
->
-> **[1:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=61)** This includes selecting a theme, syncing to other devices, and so on.
->
-> **[1:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=69)** For now we'll just be going with the defaults.
->
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=71)** All the files in your repository can also be seen in the file explorer window of your editor.
->
-> **[1:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=77)** You can also see the usual visual studio code tabs for search, source control, debugging, extensions, and a new Github tab that gives you an overview of the state of your repository.
->
-> **[1:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=92)** To see all your code spaces, click the application menu and go to my code spaces.
->
-> **[1:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=98)** Here on the code spaces page, you can click on the ellipses menu beside a code space to perform operations like starting, stopping, and deleting the code space.
->
-> **[1:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=109)** If you're done working in your code space, and you don't want to keep consuming machine resources, click stop code space to send your code space into sleep mode.
->
-> **[1:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=118)** If you no longer need the code space, you can then use the delete button.
->
-> **[2:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=124)** Do note that deleting the code space is an irreversible operation.
->
-> **[2:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=128)** Meaning that you cannot recover deleted code spaces.
->
-> **[2:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=131)** So be sure you no longer need the code space before deleting it.
+> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-codespace?u=76281980&t=94)** click the application menu and go to my code spaces. Here on the code spaces page, you can click on the ellipses menu beside a code space to perform operations like starting, stopping, and deleting the code space. If you're done working in your code space, and you don't want to keep consuming machine resources, click stop code space to send your code space into sleep mode. If you no longer need the code space, you can then use the delete button. Do note that deleting the code space is an irreversible operation. Meaning that you cannot recover deleted code spaces. So be sure you no longer need the code space before deleting it.
 
 > [!info]- Semantic Content
 >
@@ -425,125 +211,17 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=0)** - [Lecturer] In this video, we'll be adding an item to our repository that will make it easier for people to run our code in a codespace.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=0)** - [Lecturer] In this video, we'll be adding an item to our repository that will make it easier for people to run our code in a codespace. We will be adding a button to our repositories README file that will allow users create a new codespace. This way, users can quickly jump into an editor to explore our code base. To get started navigate to the home of the repo you want to add this button to. This can be any repository on your [[GitHub]] account. Make sure that this repo has a README file as you can see on the screen. And this README file has to be at the root of the project. If your project doesn't have a README file, ensure that you add one. This repo has a README file, so I'll just get started by clicking on the edit icon at the right hand corner of the README file display section. Scroll down here and click this edit icon. This immediately takes me into the edit mode for this file. Here, we'll be adding some markdown script that will create a button that says open in GitHub [[Codespaces]]. When this button is clicked, the user will be able to create a new codespace to run our code. To begin, find the point in your README file to insert this button. This is where we're going to be writing our markdown script. For this project I just want it at the top of the file. Just after the Running the Application error to create the button, we start with a set of square brackets followed by regular ones. Let's say square brackets, open, close, and regular bracket open, close. The square brackets will hold our button while the regular brackets will contain the link that will prompt the creation
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=7)** We will be adding a button to our repositories README file that will allow users create a new codespace.
+> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=94)** of a new codespace for this repository. Let's start with the button. Inside the square brackets, first add an exclamation mark. Go in, say exclamation mark. Now follow this with another set of square and regular brackets. Don't get confused. This will all come together nicely very soon. So another square open and close and regular bracket, open and close. The internal square bracket will hold the name of our button, while the internal regular bracket will have a link to the SVG of a standard GitHub badge. This will give our button a nice professional look and blend it in with GitHub's standard team. Inside the internal square brackets, type the label Open in GitHub Codespaces. Now, inside the regular brackets, that's the internal regular brackets, enter the URL for the GitHub badge. There's going to be [https://github.com/codespaces/badge.svg](https://github.com/codespaces/badge.svg).
 >
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=12)** This way, users can quickly jump into an editor to explore our code base.
->
-> **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=17)** To get started navigate to the home of the repo you want to add this button to.
->
-> **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=22)** This can be any repository on your [[GitHub]] account.
->
-> **[0:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=24)** Make sure that this repo has a README file as you can see on the screen.
->
-> **[0:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=28)** And this README file has to be at the root of the project.
->
-> **[0:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=32)** If your project doesn't have a README file, ensure that you add one.
->
-> **[0:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=35)** This repo has a README file, so I'll just get started by clicking on the edit icon at the right hand corner of the README file display section.
->
-> **[0:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=43)** Scroll down here and click this edit icon.
->
-> **[0:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=48)** This immediately takes me into the edit mode for this file.
->
-> **[0:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=52)** Here, we'll be adding some markdown script that will create a button that says open in GitHub [[Codespaces]].
->
-> **[0:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=58)** When this button is clicked, the user will be able to create a new codespace to run our code.
->
-> **[1:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=64)** To begin, find the point in your README file to insert this button.
->
-> **[1:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=68)** This is where we're going to be writing our markdown script.
->
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=71)** For this project I just want it at the top of the file.
->
-> **[1:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=73)** Just after the Running the Application error to create the button, we start with a set of square brackets followed by regular ones.
->
-> **[1:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=81)** Let's say square brackets, open, close, and regular bracket open, close.
->
-> **[1:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=88)** The square brackets will hold our button while the regular brackets will contain the link that will prompt the creation of a new codespace for this repository.
->
-> **[1:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=96)** Let's start with the button.
->
-> **[1:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=97)** Inside the square brackets, first add an exclamation mark.
->
-> **[1:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=101)** Go in, say exclamation mark.
->
-> **[1:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=103)** Now follow this with another set of square and regular brackets.
->
-> **[1:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=107)** Don't get confused.
->
-> **[1:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=108)** This will all come together nicely very soon.
->
-> **[1:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=110)** So another square open and close and regular bracket, open and close.
->
-> **[1:56](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=116)** The internal square bracket will hold the name of our button, while the internal regular bracket will have a link to the SVG of a standard GitHub badge.
->
-> **[2:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=125)** This will give our button a nice professional look and blend it in with GitHub's standard team.
->
-> **[2:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=131)** Inside the internal square brackets, type the label Open in GitHub Codespaces.
->
-> **[2:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=140)** Now, inside the regular brackets, that's the internal regular brackets, enter the URL for the GitHub badge.
->
-> **[2:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=147)** There's going to be [https://github.com/codespaces/badge.svg](https://github.com/codespaces/badge.svg).
->
-> **[2:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=161)** With that in place, we now have the buttons look and fill and label all set up.
->
-> **[2:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=166)** Now let's add the link that will trigger the creation of a new codespace from our repo.
->
-> **[2:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=171)** Inside the external brackets, input the link [https://codespaces.new](https://codespaces.new)/
+> **[2:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=161)** With that in place, we now have the buttons look and fill and label all set up. Now let's add the link that will trigger the creation of a new codespace from our repo. Inside the external brackets, input the link [https://codespaces.new](https://codespaces.new)/
 >
 > **[3:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=186)** and here I'm just going to put placeholders so that I can explain, [Your_github]username
 >
-> **[3:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=197)** forward slash another placeholder, [Your_repo_name].
+> **[3:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=197)** forward slash another placeholder, [Your_repo_name]. Now this is the structure of the URL that is going to be triggering the creation of a new codespace. You have [https://codespaces.new](https://codespaces.new)/ then here you put your GitHub username forward slash your repo name. So this is basically the last two items in your GitHub repository URL. Now let's replace this. For this GitHub account my username is coderonfleek. You can do this on any account, you can do this on any GitHub account. You can jump to your personal GitHub account right now and do this. So I have my username here and here my repo name, which is simple-node-api. Simple-node-api. And bring this bracket closer. And now we have our button all set up. With all this in place, I'm going to commit my changes. A commit message will be Adding codespaces button.
 >
-> **[3:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=203)** Now this is the structure of the URL that is going to be triggering the creation of a new codespace.
->
-> **[3:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=209)** You have [https://codespaces.new](https://codespaces.new)/ then here you put your GitHub username forward slash your repo name.
->
-> **[3:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=220)** So this is basically the last two items in your GitHub repository URL.
->
-> **[3:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=225)** Now let's replace this.
->
-> **[3:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=226)** For this GitHub account my username is coderonfleek.
->
-> **[3:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=231)** You can do this on any account, you can do this on any GitHub account.
->
-> **[3:53](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=233)** You can jump to your personal GitHub account right now and do this.
->
-> **[3:56](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=236)** So I have my username here and here my repo name, which is simple-node-api.
->
-> **[4:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=246)** Simple-node-api. And bring this bracket closer.
->
-> **[4:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=251)** And now we have our button all set up.
->
-> **[4:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=253)** With all this in place, I'm going to commit my changes.
->
-> **[4:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=258)** A commit message will be Adding codespaces button.
->
-> **[4:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=267)** Yeah, that's an appropriate commit message.
->
-> **[4:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=269)** Yeah, definitely I'm committing directly to the master brand so I commit the changes.
->
-> **[4:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=273)** And now you can see a new Open in GitHub Codespaces badge at the location where we just added it.
->
-> **[4:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=279)** As you can see, it uses the GitHub SVG to make it feel native to the GitHub interface.
->
-> **[4:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=284)** Now let's test out our new badge.
->
-> **[4:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=286)** Click the button and you will be automatically taken to a new codespaces setup screen.
->
-> **[4:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=292)** This is where you can configure your codespace machine.
->
-> **[4:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=294)** But for now, for this demo, we'll going to be going with the default.
->
-> **[4:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=297)** So let's click Create codespace to proceed.
->
-> **[5:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=302)** This automatically begins the creation of our codespace, and we're just going to wait for that to complete.
->
-> **[5:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=307)** Once the process is done, we can now see our repo opened up in a brand new GitHub codespace environment.
->
-> **[5:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=314)** We can navigate our files as usual and also assess the menu to go back to all our codespaces.
+> **[4:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/adding-a-codespaces-button-to-the-readme?u=76281980&t=267)** Yeah, that's an appropriate commit message. Yeah, definitely I'm committing directly to the master brand so I commit the changes. And now you can see a new Open in GitHub Codespaces badge at the location where we just added it. As you can see, it uses the GitHub SVG to make it feel native to the GitHub interface. Now let's test out our new badge. Click the button and you will be automatically taken to a new codespaces setup screen. This is where you can configure your codespace machine. But for now, for this demo, we'll going to be going with the default. So let's click Create codespace to proceed. This automatically begins the creation of our codespace, and we're just going to wait for that to complete. Once the process is done, we can now see our repo opened up in a brand new GitHub codespace environment. We can navigate our files as usual and also assess the menu to go back to all our codespaces.
 
 > [!info]- Semantic Content
 >
@@ -565,65 +243,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=0)** - Ever wondered what environment your codespace is running in?
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=0)** - Ever wondered what environment your codespace is running in? Is it embedded within the browser or is it a virtual environment running off your local resources or just a web app running on some remote server? The answer to these questions will help you understand better how [[Codespaces]] work, and how to get the best out of them. [[GitHub]] Codespaces is run in a container. A container is an isolated environment containing the resources, software, and sometimes, the startup instructions that an application needs to run. If you've worked with a container program like Docker, you'll be very familiar with this concept. By the way, codespace devcontainers are actually docker containers. These containers are configured to provide a full featured environment for your codespaces. Later in this course, we'll be looking at how to configure some of the options available using a container configuration file. So, where do these codespace containers live? A codespace devcontainer resides on a virtual machine. You can specify the memory and CPU, for this machine, when creating a new codespace. Now, you might be asking, where is the devcontainer from a current codespace, and where is it configured? When you create a codespace, GitHub runs your codespace in a default devcontainer, using the default configuration. This is the configuration your codespace container will continue to use if you do not define one. The default container contains many of the common tools that your team might need, when developing your project.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=3)** Is it embedded within the browser or is it a virtual environment running off your local resources or just a web app running on some remote server?
+> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=94)** By default, the container for your codespace has many languages and runtimes, including note js, [[JavaScript]], TypeScript, nvm, [[npm]], and yarn. It also includes helpful tools, like [[Git]], Wget, rsync, OpenSSH and nano editor. Though the default container is great, configuring the container to suit your needs offers more benefits. Defining your environment allows you to configure the dev container to give you a tailored development environment, complete with all the tools, and runtimes, you need to work on a specific project. So, how do you configure your development environment? Devcontainers can be configured using configuration files contained in a special .devcontainer directory, at the root of your repository. You can use the visual studio instance to add these files for you, and choose from a selection of predefined configurations for various project types. We'll demonstrate how to do this in the next video. The most important file to look out for in the.devcontainer directory is the devcontainer.[[JSON]] file. This is the primary configuration file for your container. Within this file, You can define frameworks, tools and extensions required by your project, and also, expose certain parts to the public. Though the root of the .devcontainer folder is where you will most likely see this file. It can also recite at the root of your project,
 >
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=12)** The answer to these questions will help you understand better how [[Codespaces]] work, and how to get the best out of them.
->
-> **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=20)** [[GitHub]] Codespaces is run in a container.
->
-> **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=22)** A container is an isolated environment containing the resources, software, and sometimes, the startup instructions that an application needs to run.
->
-> **[0:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=31)** If you've worked with a container program like Docker, you'll be very familiar with this concept.
->
-> **[0:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=37)** By the way, codespace devcontainers are actually docker containers.
->
-> **[0:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=43)** These containers are configured to provide a full featured environment for your codespaces.
->
-> **[0:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=48)** Later in this course, we'll be looking at how to configure some of the options available using a container configuration file.
->
-> **[0:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=55)** So, where do these codespace containers live?
->
-> **[0:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=59)** A codespace devcontainer resides on a virtual machine.
->
-> **[1:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=63)** You can specify the memory and CPU, for this machine, when creating a new codespace.
->
-> **[1:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=68)** Now, you might be asking, where is the devcontainer from a current codespace, and where is it configured?
->
-> **[1:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=75)** When you create a codespace, GitHub runs your codespace in a default devcontainer, using the default configuration.
->
-> **[1:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=81)** This is the configuration your codespace container will continue to use if you do not define one.
->
-> **[1:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=87)** The default container contains many of the common tools that your team might need, when developing your project.
->
-> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=94)** By default, the container for your codespace has many languages and runtimes, including note js, [[JavaScript]], TypeScript, nvm, [[npm]], and yarn.
->
-> **[1:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=106)** It also includes helpful tools, like [[Git]], Wget, rsync, OpenSSH and nano editor.
->
-> **[1:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=115)** Though the default container is great, configuring the container to suit your needs offers more benefits.
->
-> **[2:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=121)** Defining your environment allows you to configure the dev container to give you a tailored development environment, complete with all the tools, and runtimes, you need to work on a specific project.
->
-> **[2:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=133)** So, how do you configure your development environment?
->
-> **[2:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=136)** Devcontainers can be configured using configuration files contained in a special .devcontainer directory, at the root of your repository.
->
-> **[2:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=145)** You can use the visual studio instance to add these files for you, and choose from a selection of predefined configurations for various project types.
->
-> **[2:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=156)** We'll demonstrate how to do this in the next video.
->
-> **[2:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=159)** The most important file to look out for in the.devcontainer directory is the devcontainer.[[JSON]] file.
->
-> **[2:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=166)** This is the primary configuration file for your container.
->
-> **[2:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=169)** Within this file, You can define frameworks, tools and extensions required by your project, and also, expose certain parts to the public.
->
-> **[2:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=178)** Though the root of the .devcontainer folder is where you will most likely see this file.
->
-> **[3:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=183)** It can also recite at the root of your project, or in the subdirectory within the .dev container.
->
-> **[3:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=190)** As you go along in this course, we are going to be improving our development environment by gradually adding new settings to this file.
+> **[3:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/introduction-to-dev-containers-and-devcontainer-json?u=76281980&t=186)** or in the subdirectory within the .dev container. As you go along in this course, we are going to be improving our development environment by gradually adding new settings to this file.
 
 > [!info]- Semantic Content
 >
@@ -640,115 +264,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=0)** - Now that you understand how [[GitHub]] code spaces are configured, let's start configuring our code space environment.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=0)** - Now that you understand how [[GitHub]] code spaces are configured, let's start configuring our code space environment. We'll start by creating the configuration file for customizing our code space. Even though we can do this manually, we'll be using the in-browser Visual Studio environment to automatically generate one for us. This process is quicker, cleaner, and gives us a good starting point. To begin, click the hamburger menu at the top left of the editor window to pull out the menu. Then go to View and click on Command Palette. Once the command palette pops up search the phrase "dev container" and click the Add Development Container Configuration Files option. The next popup is a list of definition options. These are configuration file templates for different types of projects. Because we're running a [[Node.js]] project select the Node.js option. After selecting Node.js, we're now prompted to select the Node.js version we would like to use for this project. Version 14 should be good, so go ahead and select version 14. This way our Docker environment will be using Node.js version 14 for the project. The next pop-up prompts us to select additional features for the container or environment. These features include extensions, packages, and frameworks that help improve the developer experience. For this demo, simply select the GitHub [[CLI]]. Not for any particular reason, but just so we can see the effect of selecting this option in our configuration file.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=6)** We'll start by creating the configuration file for customizing our code space.
+> **[1:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=95)** Do know that you can select more than one feature to be included. Once you're done with your selection, click the green button labeled OK at the right-hand side of the feature set field. GitHub automatically goes into operation mode and in a matter of seconds, you'll see a .devcontainer folder appear in your file explorer. Inside this folder, there are two files critical to the environment's configuration. The devcontainer.[[JSON]] file, discussed in a previous video, and a Dockerfile. The Dockerfile holds information about the Docker image that will be used to provide the specified Node environment. Within this file, we can see the image being used and the default value of Node.js variable. Some other commands are also commented out. If you have a good knowledge of Docker containers you can use this commands and also additional ones to improve your development experience. However, if you do not have strong Docker knowledge it is advised that you leave this file as is. You won't really need to touch these files for most of your environment customization tasks. The second file within the .devcontainer folder is the devcontainer.json file. This is the main configuration file for the code space environment. This is where all your development preferences are defined. Let's have a walkthrough of this file to get familiar with some of the available options. At the top, we have the name field.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=10)** Even though we can do this manually, we'll be using the in-browser Visual Studio environment to automatically generate one for us.
+> **[3:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=187)** This is the name of your dev container. This field can contain any value you want as the name of your container. The next is the build property which contains fields for setting the Docker container for your environment and the arguments that will be passed to your container upon startup. Next is customizations. This is where we can define all the VS Code settings that we like to have in each editor instance within our repository. For example, we can configure the type of terminal we would like to work in. Within the VS Code settings we also have the extensions property. Here we can list the VS Code extensions to be included by default within the array brackets. Our file currently has the [[ESLint]] [[JavaScript]] linting extension installed. You can add any other extension from the VS Code marketplace here. Next is the forwardPorts property. This is used to expose ports within the Docker container to the public. You can use this property to expose your [[Databases]] cache servers, application servers, and other services running within your code space container to be accessed by external applications. We'll be using this property in a later video to make our Node.js application accessible publicly. Next, we have the postCreateCommand property. This is used to run extra instructions after the code space has been created. You can use this property to run commands that aren't defined in the Docker file after your code space is created. Then we have the remoteUser property,
 >
-> **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=17)** This process is quicker, cleaner, and gives us a good starting point.
->
-> **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=22)** To begin, click the hamburger menu at the top left of the editor window to pull out the menu.
->
-> **[0:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=28)** Then go to View and click on Command Palette.
->
-> **[0:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=33)** Once the command palette pops up search the phrase "dev container" and click the Add Development Container Configuration Files option.
->
-> **[0:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=43)** The next popup is a list of definition options.
->
-> **[0:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=45)** These are configuration file templates for different types of projects.
->
-> **[0:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=50)** Because we're running a [[Node.js]] project select the Node.js option.
->
-> **[0:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=55)** After selecting Node.js, we're now prompted to select the Node.js version we would like to use for this project.
->
-> **[1:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=62)** Version 14 should be good, so go ahead and select version 14.
->
-> **[1:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=66)** This way our Docker environment will be using Node.js version 14 for the project.
->
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=71)** The next pop-up prompts us to select additional features for the container or environment.
->
-> **[1:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=77)** These features include extensions, packages, and frameworks that help improve the developer experience.
->
-> **[1:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=85)** For this demo, simply select the GitHub [[CLI]].
->
-> **[1:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=88)** Not for any particular reason, but just so we can see the effect of selecting this option in our configuration file.
->
-> **[1:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=95)** Do know that you can select more than one feature to be included.
->
-> **[1:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=98)** Once you're done with your selection, click the green button labeled OK at the right-hand side of the feature set field.
->
-> **[1:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=107)** GitHub automatically goes into operation mode and in a matter of seconds, you'll see a .devcontainer folder appear in your file explorer.
->
-> **[1:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=117)** Inside this folder, there are two files critical to the environment's configuration.
->
-> **[2:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=122)** The devcontainer.[[JSON]] file, discussed in a previous video, and a Dockerfile.
->
-> **[2:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=128)** The Dockerfile holds information about the Docker image that will be used to provide the specified Node environment.
->
-> **[2:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=135)** Within this file, we can see the image being used and the default value of Node.js variable.
->
-> **[2:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=141)** Some other commands are also commented out.
->
-> **[2:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=144)** If you have a good knowledge of Docker containers you can use this commands and also additional ones to improve your development experience.
->
-> **[2:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=151)** However, if you do not have strong Docker knowledge it is advised that you leave this file as is.
->
-> **[2:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=158)** You won't really need to touch these files for most of your environment customization tasks.
->
-> **[2:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=163)** The second file within the .devcontainer folder is the devcontainer.json file.
->
-> **[2:53](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=173)** This is the main configuration file for the code space environment.
->
-> **[2:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=177)** This is where all your development preferences are defined.
->
-> **[3:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=181)** Let's have a walkthrough of this file to get familiar with some of the available options.
->
-> **[3:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=185)** At the top, we have the name field.
->
-> **[3:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=187)** This is the name of your dev container.
->
-> **[3:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=189)** This field can contain any value you want as the name of your container.
->
-> **[3:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=193)** The next is the build property which contains fields for setting the Docker container for your environment and the arguments that will be passed to your container upon startup.
->
-> **[3:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=204)** Next is customizations.
->
-> **[3:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=206)** This is where we can define all the VS Code settings that we like to have in each editor instance within our repository.
->
-> **[3:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=213)** For example, we can configure the type of terminal we would like to work in.
->
-> **[3:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=217)** Within the VS Code settings we also have the extensions property.
->
-> **[3:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=221)** Here we can list the VS Code extensions to be included by default within the array brackets.
->
-> **[3:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=227)** Our file currently has the [[ESLint]] [[JavaScript]] linting extension installed.
->
-> **[3:53](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=233)** You can add any other extension from the VS Code marketplace here.
->
-> **[3:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=237)** Next is the forwardPorts property.
->
-> **[4:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=240)** This is used to expose ports within the Docker container to the public.
->
-> **[4:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=244)** You can use this property to expose your [[Databases]] cache servers, application servers, and other services running within your code space container to be accessed by external applications.
->
-> **[4:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=255)** We'll be using this property in a later video to make our Node.js application accessible publicly.
->
-> **[4:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=261)** Next, we have the postCreateCommand property.
->
-> **[4:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=265)** This is used to run extra instructions after the code space has been created.
->
-> **[4:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=271)** You can use this property to run commands that aren't defined in the Docker file after your code space is created.
->
-> **[4:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=277)** Then we have the remoteUser property, which is the name of the user you're currently running as within the container operating system.
->
-> **[4:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=286)** By default, this is the VS Code user, but you can optionally set this to root if you need to perform any operation requiring elevated privileges.
->
-> **[4:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=297)** The final property within our configuration file is added here due to the GitHub CLI feature we selected to be added as an extra feature.
->
-> **[5:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=305)** The features property contains a list of additional features to be added to the dev container.
->
-> **[5:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=311)** The devcontainer.json file is where you'll be defining most of the customizations for your workspace, and in the coming videos we'll be spending a lot of time in this file, defining properties to get the best out of our code space.
+> **[4:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/defining-your-development-environment?u=76281980&t=281)** which is the name of the user you're currently running as within the container operating system. By default, this is the VS Code user, but you can optionally set this to root if you need to perform any operation requiring elevated privileges. The final property within our configuration file is added here due to the GitHub CLI feature we selected to be added as an extra feature. The features property contains a list of additional features to be added to the dev container. The devcontainer.json file is where you'll be defining most of the customizations for your workspace, and in the coming videos we'll be spending a lot of time in this file, defining properties to get the best out of our code space.
 
 > [!info]- Semantic Content
 >
@@ -765,53 +287,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=0)** - In a previous video we learned about the forward ports property.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=0)** - In a previous video we learned about the forward ports property. This property is set to an array containing ports within the code space container that we wish to expose publicly. Going back to our project files, let's open server dot js. The server dot JS file is the entry point for our new JS application. Within the file, we can see that our application exposes a node JS server listing on port 1 3 3 7 by default. We can expose this port to give us access to the server outside the code space container. Let's return to the code space configuration file to do that. In your dev containing the [[JSON]] file, on command the forward ports property then add port 1 3 37 as an entry into the array. Save the file by using the control+S or command+S shortcut for [[Windows]] and Mac respectively or by going to file save on the code space menu. Now let's run the application and see if we can access the base endpoint. To run the application inside the terminal, if the terminal is not open, you can pull up the terminal by going to the menu terminal new terminal. This will pull up the [[Linux]] terminal at the root of your project. Here you can run commands related to your project or any Linux based commands. To put up our new JS server simply go to command MPM start. This will immediately boot up the server and you'll see a code space notification
 >
-> **[0:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=4)** This property is set to an array containing ports within the code space container that we wish to expose publicly.
->
-> **[0:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=11)** Going back to our project files, let's open server dot js.
->
-> **[0:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=15)** The server dot JS file is the entry point for our new JS application.
->
-> **[0:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=19)** Within the file, we can see that our application exposes a node JS server listing on port 1 3 3 7 by default.
->
-> **[0:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=28)** We can expose this port to give us access to the server outside the code space container.
->
-> **[0:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=33)** Let's return to the code space configuration file to do that.
->
-> **[0:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=37)** In your dev containing the [[JSON]] file, on command the forward ports property then add port 1 3 37 as an entry into the array.
->
-> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=46)** Save the file by using the control+S or command+S shortcut for [[Windows]] and Mac respectively or by going to file save on the code space menu.
->
-> **[0:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=57)** Now let's run the application and see if we can access the base endpoint.
->
-> **[1:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=61)** To run the application inside the terminal, if the terminal is not open, you can pull up the terminal by going to the menu terminal new terminal.
->
-> **[1:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=72)** This will pull up the [[Linux]] terminal at the root of your project.
->
-> **[1:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=76)** Here you can run commands related to your project or any Linux based commands.
->
-> **[1:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=81)** To put up our new JS server simply go to command MPM start.
->
-> **[1:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=89)** This will immediately boot up the server and you'll see a code space notification at the bottom left corner showing you the address and the port exposed to access the running server.
->
-> **[1:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=99)** A convenient open in browser button is also made available.
->
-> **[1:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=103)** You can click this button to go to the public address and the port on which your server is running.
->
-> **[1:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=111)** You can also click the see all forwarded ports link to view a list of all the ports within the container that have been exposed.
->
-> **[1:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=118)** To view and interact with the running server, click the opening browser button.
->
-> **[2:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=123)** [[Codespaces]] then opens and bootstrap the application in a new tab and we are immediately taken to the root endpoint.
->
-> **[2:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=130)** Here we can see the server message printed out.
->
-> **[2:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=133)** Let me bump that up a little bit.
->
-> **[2:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=138)** Good, here is the base endpoint message that says, Welcome to the to-dos API.
->
-> **[2:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=144)** In our server JS file we can see where this message is configured to be printed out when a client visits the base endpoint.
+> **[1:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/port-forwarding?u=76281980&t=93)** at the bottom left corner showing you the address and the port exposed to access the running server. A convenient open in browser button is also made available. You can click this button to go to the public address and the port on which your server is running. You can also click the see all forwarded ports link to view a list of all the ports within the container that have been exposed. To view and interact with the running server, click the opening browser button. [[Codespaces]] then opens and bootstrap the application in a new tab and we are immediately taken to the root endpoint. Here we can see the server message printed out. Let me bump that up a little bit. Good, here is the base endpoint message that says, Welcome to the to-dos API. In our server JS file we can see where this message is configured to be printed out when a client visits the base endpoint.
 
 > [!info]- Semantic Content
 >
@@ -828,39 +306,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=0)** - By default, [[Codespaces]] is run in a remote instance of Visual Studio Code for you to develop your project.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=0)** - By default, [[Codespaces]] is run in a remote instance of Visual Studio Code for you to develop your project. However, if you already prefer working in your local desktop version of Visual Studio Code but still want to take advantage of all the powerful features that come with [[GitHub]] Codespaces, Codespaces gives you the ability to do that. When you open a new codespace, the web version of VS Code is open by default. In this video, I'm going to teach you how to configure GitHub Codespaces to automatically open in your local instance of VS Code instead of the browser version. GitHub Codespaces makes this switch very straightforward. To begin, go to your account, and your account menu. Click on settings. On the setting page, locate the code planning and automation section on the side menu. Then click on Codespaces. On the Codespaces settings page, scroll down until you hit the editor preference section. Here you can select the version of VS Code that should be opened by default when you click on your codespace. Right now we have it set to the default which is the web version. You can easily switch this to open the local VS Code instance by default. Do note, as described under this option, that you will need to have a locally installed version of VS Code and also install the GitHub codespaces extension
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=7)** However, if you already prefer working in your local desktop version of Visual Studio Code but still want to take advantage of all the powerful features that come with [[GitHub]] Codespaces, Codespaces gives you the ability to do that.
->
-> **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=20)** When you open a new codespace, the web version of VS Code is open by default.
->
-> **[0:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=26)** In this video, I'm going to teach you how to configure GitHub Codespaces to automatically open in your local instance of VS Code instead of the browser version.
->
-> **[0:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=36)** GitHub Codespaces makes this switch very straightforward.
->
-> **[0:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=40)** To begin, go to your account, and your account menu.
->
-> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=46)** Click on settings.
->
-> **[0:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=50)** On the setting page, locate the code planning and automation section on the side menu.
->
-> **[0:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=58)** Then click on Codespaces.
->
-> **[1:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=60)** On the Codespaces settings page, scroll down until you hit the editor preference section.
->
-> **[1:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=69)** Here you can select the version of VS Code that should be opened by default when you click on your codespace.
->
-> **[1:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=76)** Right now we have it set to the default which is the web version.
->
-> **[1:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=80)** You can easily switch this to open the local VS Code instance by default.
->
-> **[1:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=85)** Do note, as described under this option, that you will need to have a locally installed version of VS Code and also install the GitHub codespaces extension for VS Code.
->
-> **[1:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=97)** We'll be demonstrating how to set this up in a later video.
->
-> **[1:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=101)** For now, we'll just revert back to the web version.
->
-> **[1:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=104)** Once we have our local Visual Studio Code set up to use codespaces, we'll then test out this option.
+> **[1:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/setting-a-default-editor?u=76281980&t=95)** for VS Code. We'll be demonstrating how to set this up in a later video. For now, we'll just revert back to the web version. Once we have our local Visual Studio Code set up to use codespaces, we'll then test out this option.
 
 > [!info]- Semantic Content
 >
@@ -874,59 +322,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=0)** - [Speaker] Extensions are one of the biggest reasons why VS code is one of the most preferred code editors today.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=0)** - [Speaker] Extensions are one of the biggest reasons why VS code is one of the most preferred code editors today. An extension, as the name implies, extends the functionality of Visual Studio Code by adding extra features that make the developer experience more pleasing. In a previous video, we already walked through our configuration file, and we came across the extensions property. This property allows you to add Visual Studio Code extensions from the marketplace to your codespace. Currently, we have the [[ESLint]] extension installed. Any extension added here will be available to every codespace instance created within this repository. Let's add a new extension and see how it takes effect within our codespace. For this demonstration, we'll be adding the Docker extension. In the extensions array, extensions are installed by adding the ID for the extension to be installed. One easy way to get the extension is to search for the extension in the VS Code Marketplace. There, we can then click the extension to get the ID from the extension page. Though we can click the button to directly add the extension to our codespace, we're trying to implement all our configurations through the dev content editor file. To get the ID, click the cog icon next to the install button and click "copy extension ID." Now, install your configuration file, go into the extensions array, and add the new Docker ID to add the new extension. Because we have changed this file,
 >
-> **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=6)** An extension, as the name implies, extends the functionality of Visual Studio Code by adding extra features that make the developer experience more pleasing.
->
-> **[0:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=16)** In a previous video, we already walked through our configuration file, and we came across the extensions property.
->
-> **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=22)** This property allows you to add Visual Studio Code extensions from the marketplace to your codespace.
->
-> **[0:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=28)** Currently, we have the [[ESLint]] extension installed.
->
-> **[0:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=33)** Any extension added here will be available to every codespace instance created within this repository.
->
-> **[0:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=39)** Let's add a new extension and see how it takes effect within our codespace.
->
-> **[0:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=44)** For this demonstration, we'll be adding the Docker extension.
->
-> **[0:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=47)** In the extensions array, extensions are installed by adding the ID for the extension to be installed.
->
-> **[0:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=54)** One easy way to get the extension is to search for the extension in the VS Code Marketplace.
->
-> **[1:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=61)** There, we can then click the extension to get the ID from the extension page.
->
-> **[1:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=66)** Though we can click the button to directly add the extension to our codespace, we're trying to implement all our configurations through the dev content editor file.
->
-> **[1:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=74)** To get the ID, click the cog icon next to the install button and click "copy extension ID."
->
-> **[1:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=83)** Now, install your configuration file, go into the extensions array, and add the new Docker ID to add the new extension.
->
-> **[1:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=92)** Because we have changed this file, our codespace prompts us to review the content so that these new change can take effect.
->
-> **[1:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=99)** Click on the "rebuild now" button to rebuild your codespace content with the new configuration.
->
-> **[1:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=105)** The confirmation prompt appears for you to confirm this action.
->
-> **[1:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=109)** This prompt carries a messages informing you about the effect of the action you are about to perform.
->
-> **[1:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=114)** Now that our rebuild is complete, notice we now have a new Docker icon on the side menu.
->
-> **[2:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=121)** With this new extension, we now have a bunch of Docker helper functions that have been added to our codespace.
->
-> **[2:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=127)** To confirm this, let's go to the command palette, and then type in the phrase "docker."
->
-> **[2:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=137)** As you can see, we now have new Docker commands added right into our command palette.
->
-> **[2:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=142)** Let's also go into our Docker file and try to add something new.
->
-> **[2:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=147)** Just below line three, I'm going to type the letters "WO," suggesting that I'm trying to define the working directory for my Docker file.
->
-> **[2:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=156)** As I begin to type, notice that I now get IntelliSense for the Docker command I am trying to type.
->
-> **[2:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=161)** This makes it easier for you to work within your Docker file, reducing the number of typing errors.
->
-> **[2:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=167)** These and many more are some of the helpful Docker features that have been added to our codespace by including the Docker extension.
+> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/personalizing-your-setup-with-extensions?u=76281980&t=94)** our codespace prompts us to review the content so that these new change can take effect. Click on the "rebuild now" button to rebuild your codespace content with the new configuration. The confirmation prompt appears for you to confirm this action. This prompt carries a messages informing you about the effect of the action you are about to perform. Now that our rebuild is complete, notice we now have a new Docker icon on the side menu. With this new extension, we now have a bunch of Docker helper functions that have been added to our codespace. To confirm this, let's go to the command palette, and then type in the phrase "docker." As you can see, we now have new Docker commands added right into our command palette. Let's also go into our Docker file and try to add something new. Just below line three, I'm going to type the letters "WO," suggesting that I'm trying to define the working directory for my Docker file. As I begin to type, notice that I now get IntelliSense for the Docker command I am trying to type. This makes it easier for you to work within your Docker file, reducing the number of typing errors. These and many more are some of the helpful Docker features that have been added to our codespace by including the Docker extension.
 
 > [!info]- Semantic Content
 >
@@ -942,49 +340,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=0)** - [Instructor] When things go wrong within the code space you need a way to diagnose the situation.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=0)** - [Instructor] When things go wrong within the code space you need a way to diagnose the situation. This is where code space logs come in. [[GitHub]] [[Codespaces]] generate different types of logs for you to troubleshoot issues in your code space container, the editor, and also in your current session. In this video, we'll be looking at two types of logs CodeSpaces generate to provide feedback on all that's happening within your code space environment. The first is creation logs. These logs contain detailed information about code space, the container, the session, and the Visual Studio code environment. To generate these logs at any point within your code space session, simply go to your command palette, then type "logs" to bring up the commands for accessing your code space logs. Here you can choose to view your logs or export them. To export your log click on the "Codespaces: Export Logs" command. You will then be prompted to save this somewhere within your repository. For now, I'll just save it in the root directory as "logs.zip." As you can see, Github CodeSpaces is currently creating the zip file for our logs. Once the zip file has been created, you can see the "logs.zip" file in your project root directory. You can then save this to your local machine by clicking the zip file, right clicking, and clicking the download option. As you can see, we now have the "logs.zip" file saved to our local machine inside the download folder. This allows you to save the file to a convenient location on your local machine for further inspection.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=5)** This is where code space logs come in.
+> **[1:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=95)** Another set of logs you can access within your code space are browser logs. These logs are generated as you work within your code space and can be useful in debugging errors within your session. For example - when your code space freezes or you're randomly disconnected from the code space. To access these logs, simply pull up the browser console of your web browser.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=8)** [[GitHub]] [[Codespaces]] generate different types of logs for you to troubleshoot issues in your code space container, the editor, and also in your current session.
->
-> **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=17)** In this video, we'll be looking at two types of logs CodeSpaces generate to provide feedback on all that's happening within your code space environment.
->
-> **[0:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=25)** The first is creation logs.
->
-> **[0:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=27)** These logs contain detailed information about code space, the container, the session, and the Visual Studio code environment.
->
-> **[0:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=34)** To generate these logs at any point within your code space session, simply go to your command palette, then type "logs" to bring up the commands for accessing your code space logs.
->
-> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=46)** Here you can choose to view your logs or export them.
->
-> **[0:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=50)** To export your log click on the "Codespaces: Export Logs" command.
->
-> **[0:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=54)** You will then be prompted to save this somewhere within your repository.
->
-> **[0:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=57)** For now, I'll just save it in the root directory as "logs.zip."
->
-> **[1:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=64)** As you can see, Github CodeSpaces is currently creating the zip file for our logs.
->
-> **[1:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=69)** Once the zip file has been created, you can see the "logs.zip" file in your project root directory.
->
-> **[1:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=75)** You can then save this to your local machine by clicking the zip file, right clicking, and clicking the download option.
->
-> **[1:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=82)** As you can see, we now have the "logs.zip" file saved to our local machine inside the download folder.
->
-> **[1:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=89)** This allows you to save the file to a convenient location on your local machine for further inspection.
->
-> **[1:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=95)** Another set of logs you can access within your code space are browser logs.
->
-> **[1:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=99)** These logs are generated as you work within your code space and can be useful in debugging errors within your session.
->
-> **[1:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=105)** For example - when your code space freezes or you're randomly disconnected from the code space.
->
-> **[1:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=111)** To access these logs, simply pull up the browser console of your web browser.
->
-> **[2:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=121)** This is where Github CodeSpaces prints the browser session logs.
->
-> **[2:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=130)** Here, you can scroll through to see the error relevant to the situation that you're experiencing.
+> **[2:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/codespace-logs?u=76281980&t=121)** This is where Github CodeSpaces prints the browser session logs. Here, you can scroll through to see the error relevant to the situation that you're experiencing.
 
 > [!info]- Semantic Content
 >
@@ -1005,67 +365,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=0)** - In this video, I'll be taking you around the codespace editor to get familiar with the common [[Windows]] and controls in the interface.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=0)** - In this video, I'll be taking you around the codespace editor to get familiar with the common [[Windows]] and controls in the interface. Let's begin here on the left with the sidebar. The sidebar is the main view for the view items selected here on the side menu. By default, the file explorer is selected. Thus the sidebar displays your project files. If I proceed to click on the extensions view the sidebar switches to the extension screen. Here I can search extensions and also see the extensions that have already been installed. Next we have the activity bar. This is the bar I have previously referred to as the side menu. The bar consists of icons that can be clicked to switch between the different views. Currently we have the file explorer, search, [[Version Control]], debug, extensions, and [[GitHub]] views. We also have the docker view which we added by installing the docker extension. If you wish to change the order of items in the activity bar, you can drag an item to a different position until it snaps to that position. The main codespace window is the editor. This is where all your code editing takes place. Just below the editor window is the panels window. The panels window is home to your output and debug information. This is also where you can access your integrated terminal. Other tabs, like the ports
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=7)** Let's begin here on the left with the sidebar.
->
-> **[0:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=10)** The sidebar is the main view for the view items selected here on the side menu.
->
-> **[0:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=15)** By default, the file explorer is selected.
->
-> **[0:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=18)** Thus the sidebar displays your project files.
->
-> **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=22)** If I proceed to click on the extensions view the sidebar switches to the extension screen.
->
-> **[0:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=27)** Here I can search extensions and also see the extensions that have already been installed.
->
-> **[0:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=33)** Next we have the activity bar.
->
-> **[0:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=36)** This is the bar I have previously referred to as the side menu.
->
-> **[0:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=40)** The bar consists of icons that can be clicked to switch between the different views.
->
-> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=46)** Currently we have the file explorer, search, [[Version Control]], debug, extensions, and [[GitHub]] views.
->
-> **[0:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=58)** We also have the docker view which we added by installing the docker extension.
->
-> **[1:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=63)** If you wish to change the order of items in the activity bar, you can drag an item to a different position until it snaps to that position.
->
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=71)** The main codespace window is the editor.
->
-> **[1:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=74)** This is where all your code editing takes place.
->
-> **[1:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=78)** Just below the editor window is the panels window.
->
-> **[1:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=81)** The panels window is home to your output and debug information.
->
-> **[1:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=86)** This is also where you can access your integrated terminal.
->
-> **[1:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=90)** Other tabs, like the ports and problems tab can also be accessed here.
->
-> **[1:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=97)** The panels tab mainly houses windows or tools for debugging or providing debugging information.
->
-> **[1:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=102)** Next is a thin bar just below the panels window displaying short pieces of information.
->
-> **[1:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=108)** This is the status bar.
->
-> **[1:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=110)** This section of the codespace is used to provide you with useful information regarding the state of your project.
->
-> **[1:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=117)** This includes the branch you're currently on, a upper button to synchronize your codespace edits with your repository, an indicator for problems and warnings from log messages within your codespace.
->
-> **[2:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=131)** We also have the current line number and column you're on and many more.
->
-> **[2:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=136)** Lastly, just beside the editor window, we have the minimap.
->
-> **[2:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=140)** The minimap provides you with a high level overview of the code in the file you're currently editing.
->
-> **[2:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=145)** It also gives you a way to quickly navigate your code by clicking different sections of the minimap.
->
-> **[2:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=152)** This causes VS code to jump to the click section.
->
-> **[2:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=155)** As we go along with this course, we'll be making use of most of the windows and features we just looked at.
->
-> **[2:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=161)** See you in the next video.
+> **[1:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/a-tour-of-the-codespace-editor?u=76281980&t=93)** and problems tab can also be accessed here. The panels tab mainly houses windows or tools for debugging or providing debugging information. Next is a thin bar just below the panels window displaying short pieces of information. This is the status bar. This section of the codespace is used to provide you with useful information regarding the state of your project. This includes the branch you're currently on, a upper button to synchronize your codespace edits with your repository, an indicator for problems and warnings from log messages within your codespace. We also have the current line number and column you're on and many more. Lastly, just beside the editor window, we have the minimap. The minimap provides you with a high level overview of the code in the file you're currently editing. It also gives you a way to quickly navigate your code by clicking different sections of the minimap. This causes VS code to jump to the click section. As we go along with this course, we'll be making use of most of the windows and features we just looked at. See you in the next video.
 
 > [!info]- Semantic Content
 >
@@ -1081,79 +383,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=0)** - [Narrator] One of the most exciting features of [[GitHub]] [[Codespaces]] is the ability to run your project and immediately get a publicly live URL to test it.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=0)** - [Narrator] One of the most exciting features of [[GitHub]] [[Codespaces]] is the ability to run your project and immediately get a publicly live URL to test it. We have seen a preview of this in one of the previous videos. However, this time we'll be looking into more details about it. Our application is an API for to-do items which allows us to create tasks and list them. In this video, we are going to run the application to make it publicly available and test the end points. In our server.js file, notice that the application is exposed on Port 1337 if no other port is automatically assigned to it by the environment in which it runs. When we run this application in a previous video, we exposed Port 1337 in order for the application server to run on the coded port value. Now let's see what happens if we run the application without exposing Port 1337. First, let's go into our container configuration file and comment out the forward port property which, at the moment, only exposes Port 1337. After making this change, our Codespace prompts us to rebuild the container. So let's go ahead and do that by clicking the Rebuild Now button. Now that our Codespace has reloaded with the updated configuration, let's go ahead and run the application with MPM start. But before that, let's go to the Ports tab in the panel's window
 >
-> **[0:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=8)** We have seen a preview of this in one of the previous videos.
+> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=94)** to clear any port that has already been forwarded. GitHub Codespaces often remembers previously forwarded ports so we want to make sure that this is not interfering with our experiment here. For now, I have no forwarded ports so we can go ahead. Now that we have confirmed that the Ports History is clear, let's run the application. MPM start. As you may have observed, even though we did not explicitly forward Port 1337, our Codespace has automatically detected and forwarded it. If you click on the Ports tab, you can see that this port has been auto forwarded. Next, we need to make this URL publicly accessible. Right now the URL is marked private, meaning that it is only accessible to logged in users within your GitHub organization. To make the URL public, right click on the port and go to Port Visibility on the context menu. Then switch from private to public. This automatically makes the application accessible to anyone who has the URL and knows the port. To get a public URL, click on the address icon. This is the public URL for the application. Now let's test our application by listing and creating to-do items. For this test, I'll be using the Postman HTTP client. This is because Postman makes working with remote APIs a breeze. First, let's copy over our application URL to Postman. To list our to-dos,
 >
-> **[0:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=11)** However, this time we'll be looking into more details about it.
->
-> **[0:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=16)** Our application is an API for to-do items which allows us to create tasks and list them.
->
-> **[0:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=23)** In this video, we are going to run the application to make it publicly available and test the end points.
->
-> **[0:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=30)** In our server.js file, notice that the application is exposed on Port 1337 if no other port is automatically assigned to it by the environment in which it runs.
->
-> **[0:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=41)** When we run this application in a previous video, we exposed Port 1337 in order for the application server to run on the coded port value.
->
-> **[0:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=50)** Now let's see what happens if we run the application without exposing Port 1337.
->
-> **[0:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=57)** First, let's go into our container configuration file and comment out the forward port property which, at the moment, only exposes Port 1337.
->
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=71)** After making this change, our Codespace prompts us to rebuild the container.
->
-> **[1:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=74)** So let's go ahead and do that by clicking the Rebuild Now button.
->
-> **[1:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=83)** Now that our Codespace has reloaded with the updated configuration, let's go ahead and run the application with MPM start.
->
-> **[1:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=90)** But before that, let's go to the Ports tab in the panel's window to clear any port that has already been forwarded.
->
-> **[1:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=97)** GitHub Codespaces often remembers previously forwarded ports so we want to make sure that this is not interfering with our experiment here.
->
-> **[1:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=105)** For now, I have no forwarded ports so we can go ahead.
->
-> **[1:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=109)** Now that we have confirmed that the Ports History is clear, let's run the application.
->
-> **[1:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=114)** MPM start.
->
-> **[1:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=118)** As you may have observed, even though we did not explicitly forward Port 1337, our Codespace has automatically detected and forwarded it.
->
-> **[2:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=127)** If you click on the Ports tab, you can see that this port has been auto forwarded.
->
-> **[2:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=132)** Next, we need to make this URL publicly accessible.
->
-> **[2:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=136)** Right now the URL is marked private, meaning that it is only accessible to logged in users within your GitHub organization.
->
-> **[2:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=145)** To make the URL public, right click on the port and go to Port Visibility on the context menu.
->
-> **[2:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=152)** Then switch from private to public.
->
-> **[2:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=155)** This automatically makes the application accessible to anyone who has the URL and knows the port.
->
-> **[2:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=160)** To get a public URL, click on the address icon.
->
-> **[2:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=164)** This is the public URL for the application.
->
-> **[2:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=167)** Now let's test our application by listing and creating to-do items.
->
-> **[2:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=170)** For this test, I'll be using the Postman HTTP client.
->
-> **[2:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=175)** This is because Postman makes working with remote APIs a breeze.
->
-> **[2:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=179)** First, let's copy over our application URL to Postman.
->
-> **[3:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=185)** To list our to-dos, let's go to this /list endpoint and hit the send button.
->
-> **[3:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=196)** As you can see, we get a list of to-do items back from our application currently running in our Codespace environment.
->
-> **[3:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=202)** To add a new to-do item, we need to send a post request to the add-item endpoint.
->
-> **[3:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=209)** Now switch the request method to post.
->
-> **[3:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=213)** The next step is to add a request body to the request.
->
-> **[3:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=216)** I already have a snippet here in the body section, so all we need to do now is to click send to send the request.
->
-> **[3:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=224)** The request comes back successful and now if we go to the list endpoint,
+> **[3:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=186)** let's go to this /list endpoint and hit the send button. As you can see, we get a list of to-do items back from our application currently running in our Codespace environment. To add a new to-do item, we need to send a post request to the add-item endpoint. Now switch the request method to post. The next step is to add a request body to the request. I already have a snippet here in the body section, so all we need to do now is to click send to send the request. The request comes back successful and now if we go to the list endpoint,
 >
 > **[3:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/running-your-application?u=76281980&t=235)** switch this back to get and click send to send a request and we scroll down, we see our new Add Dev container task has been added to our list of to-do items.
 
@@ -1172,47 +406,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=0)** - [Narrator] A very important thing to note as we are working within our code space is that any change we make is preserved within the code space but not committed or pushed to our repository automatically.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=0)** - [Narrator] A very important thing to note as we are working within our code space is that any change we make is preserved within the code space but not committed or pushed to our repository automatically. This means that as you edit code within your code space your repository is not automatically updated. If we would like to persist the changes in our code space to our repository, we need to synchronize the files by staging and pushing our changes to the repository. In this video, we'll make a few changes to our project files and then commit them to our repository. Let's start by deleting the logs.zip file as we don't want this file to be pushed to our repository, so right click on the file and then select delete permanently. Good. Next, let's go into our routes.js file and change the message printed by the root endpoint. Currently this message reads "Welcome to the Todos API." Let's go ahead and change that to something else like "Remote interface for to do items", that sounds more techy.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=11)** This means that as you edit code within your code space your repository is not automatically updated.
+> **[1:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=78)** Now save the file. Before we push changes to the repo, let's go to the repository to confirm that these changes are indeed not synced automatically.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=18)** If we would like to persist the changes in our code space to our repository, we need to synchronize the files by staging and pushing our changes to the repository.
->
-> **[0:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=27)** In this video, we'll make a few changes to our project files and then commit them to our repository.
->
-> **[0:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=34)** Let's start by deleting the logs.zip file as we don't want this file to be pushed to our repository, so right click on the file and then select delete permanently.
->
-> **[0:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=48)** Good. Next, let's go into our routes.js file and change the message printed by the root endpoint.
->
-> **[0:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=57)** Currently this message reads "Welcome to the Todos API."
->
-> **[1:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=62)** Let's go ahead and change that to something else like "Remote interface for to do items", that sounds more techy.
->
-> **[1:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=78)** Now save the file.
->
-> **[1:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=81)** Before we push changes to the repo, let's go to the repository to confirm that these changes are indeed not synced automatically.
->
-> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=94)** As you can see, the routes.js file in our repository still has the previous message.
->
-> **[1:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=99)** Now let's get on to our code space to commit the changes.
->
-> **[1:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=103)** To begin, let's switch to the source control tab.
->
-> **[1:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=107)** Then click the plus icon beside the routes file to stage the file.
->
-> **[1:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=111)** In the text field above the commit button you can enter a commit message.
->
-> **[2:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=120)** Now let's click the commit button to commit this change.
->
-> **[2:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=124)** To push the changes click the ellipsis icon beside the icon list.
->
-> **[2:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=130)** Here you will see the push action in the context menu.
->
-> **[2:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=133)** Click push to save your changes to the branch on which your course space was created.
->
-> **[2:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=139)** While the progress bar disappears you can now go to your repo to confirm that your changes have been persisted.
->
-> **[2:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=151)** As you can see our route.js file now contains the updated message for our base endpoint.
+> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/committing-and-pushing-code-changes?u=76281980&t=94)** As you can see, the routes.js file in our repository still has the previous message. Now let's get on to our code space to commit the changes. To begin, let's switch to the source control tab. Then click the plus icon beside the routes file to stage the file. In the text field above the commit button you can enter a commit message. Now let's click the commit button to commit this change. To push the changes click the ellipsis icon beside the icon list. Here you will see the push action in the context menu. Click push to save your changes to the branch on which your course space was created. While the progress bar disappears you can now go to your repo to confirm that your changes have been persisted. As you can see our route.js file now contains the updated message for our base endpoint.
 
 > [!info]- Semantic Content
 >
@@ -1228,97 +426,15 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=0)** - [Instructor] If you're on a development team, working on a project, you'll be constantly creating pull requests.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=0)** - [Instructor] If you're on a development team, working on a project, you'll be constantly creating pull requests. pull requests allow you to suggest changes on a branch you're working on to a central branch where all other team members submit their changes. This request can then be merged or rejected by a code reviewer or an automated [[Continuous Integration (CI)|continuous integration]] pipeline. In this video, we're going to create a pull request from a codespace I have created on a different branch and merge it to the main branch we've been working on throughout this course. Currently, I'm in a codespace created on a branch with the name new-feature. I will be making a change to the project here and then go ahead to submit a pull request to the main branch on which the codespace we have been using up until now was created. Let's go into the server.js file and change the console message printed when the app starts up. I will change this message from "Server running on localhost" to "Application running on" the port value.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=6)** pull requests allow you to suggest changes on a branch you're working on to a central branch where all other team members submit their changes.
+> **[1:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=65)** Now that we've made the change, we can go to the source control icon to see our changed files. Let's go ahead and push the change on the server.js file to this branch. Click on the plus icon beside the file to stage it. Then enter a commit message. "Changed startup message." Then click the check mark icon at the top or the commit button below to commit the changes. And finally, let's push our changes to this branch. Now that we have pushed our changes to the new feature branch, let's send a pull request to the main branch from inside our codespace. To send the pull request, click on the [[GitHub]] icon on the activity bar. Just beside the pull request label, click the create pull request icon with a plus sign at the bottom right corner. The pull request screen shows up and you can select the branch you want to pull from and pull into. Here we are pulling from the new feature branch into the main branch and these have been selected by default. You can click the dropdown to select any other branch you may want to switch to. You can also enter a title and description for your pull requests. For this pull request or PR for short, we'll give it the title that says "Changed startup message."
 >
-> **[0:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=13)** This request can then be merged or rejected by a code reviewer or an automated [[Continuous Integration (CI)|continuous integration]] pipeline.
->
-> **[0:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=20)** In this video, we're going to create a pull request from a codespace I have created on a different branch and merge it to the main branch we've been working on throughout this course.
->
-> **[0:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=30)** Currently, I'm in a codespace created on a branch with the name new-feature.
->
-> **[0:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=35)** I will be making a change to the project here and then go ahead to submit a pull request to the main branch on which the codespace we have been using up until now was created.
->
-> **[0:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=44)** Let's go into the server.js file and change the console message printed when the app starts up.
->
-> **[0:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=51)** I will change this message from "Server running on localhost" to "Application running on" the port value.
->
-> **[1:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=65)** Now that we've made the change, we can go to the source control icon to see our changed files.
->
-> **[1:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=70)** Let's go ahead and push the change on the server.js file to this branch.
->
-> **[1:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=75)** Click on the plus icon beside the file to stage it.
->
-> **[1:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=79)** Then enter a commit message.
->
-> **[1:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=83)** "Changed startup message."
->
-> **[1:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=86)** Then click the check mark icon at the top or the commit button below to commit the changes.
->
-> **[1:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=91)** And finally, let's push our changes to this branch.
->
-> **[1:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=96)** Now that we have pushed our changes to the new feature branch, let's send a pull request to the main branch from inside our codespace.
->
-> **[1:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=103)** To send the pull request, click on the [[GitHub]] icon on the activity bar.
->
-> **[1:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=108)** Just beside the pull request label, click the create pull request icon with a plus sign at the bottom right corner.
->
-> **[1:56](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=116)** The pull request screen shows up and you can select the branch you want to pull from and pull into.
->
-> **[2:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=122)** Here we are pulling from the new feature branch into the main branch and these have been selected by default.
->
-> **[2:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=131)** You can click the dropdown to select any other branch you may want to switch to.
->
-> **[2:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=136)** You can also enter a title and description for your pull requests.
->
-> **[2:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=141)** For this pull request or PR for short, we'll give it the title that says "Changed startup message."
->
-> **[2:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=153)** We'll then leave the description field blank and click Create to create our pull request.
->
-> **[2:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=159)** A tab automatically opens in the editor window showing us details of the pull request we just created.
->
-> **[2:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=164)** Now let's head over to the codespace on the main branch to merge this request.
->
-> **[2:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=169)** To do that, click on the flyout menu and go to my [[Codespaces]].
->
-> **[2:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=174)** On the codespaces list, select the codespace for the main branch.
->
-> **[3:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=182)** Once the codespace loads up on the main branch, click on the GitHub icon in the activity bar.
->
-> **[3:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=187)** Here you can see all your pull requests broken down into different categories.
->
-> **[3:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=192)** Under the All Open section, you will see the request made from the new feature branch.
->
-> **[3:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=197)** Click on the request to expand it, then click on the description to open it in a new tab within the editor window.
->
-> **[3:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=206)** To inspect the changes, you can click on the commit ID to open the commit in a new window.
->
-> **[3:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=213)** To see what has changed, click on the files changed tab, and as you can see, we can see the old state of the file and the new state of the file.
->
-> **[3:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=222)** We are satisfied with the changes, so we'll go ahead and merge.
->
-> **[3:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=225)** To merge, switch back to the codespace.
->
-> **[3:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=228)** Then click the Merge Pull Request button in the Pull Request tab.
->
-> **[3:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=234)** Confirm the commit message and click Create Merge Commit, to commit the suggested changes to the main branch.
->
-> **[4:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=242)** Once this process is done, your pull request disappears from the GitHub menu in the sidebar.
+> **[2:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=153)** We'll then leave the description field blank and click Create to create our pull request. A tab automatically opens in the editor window showing us details of the pull request we just created. Now let's head over to the codespace on the main branch to merge this request. To do that, click on the flyout menu and go to my [[Codespaces]]. On the codespaces list, select the codespace for the main branch. Once the codespace loads up on the main branch, click on the GitHub icon in the activity bar. Here you can see all your pull requests broken down into different categories. Under the All Open section, you will see the request made from the new feature branch. Click on the request to expand it, then click on the description to open it in a new tab within the editor window. To inspect the changes, you can click on the commit ID to open the commit in a new window. To see what has changed, click on the files changed tab, and as you can see, we can see the old state of the file and the new state of the file. We are satisfied with the changes, so we'll go ahead and merge. To merge, switch back to the codespace. Then click the Merge Pull Request button in the Pull Request tab. Confirm the commit message and click Create Merge Commit, to commit the suggested changes to the main branch. Once this process is done, your pull request disappears from the GitHub menu in the sidebar.
 >
 > **[4:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=247)** Now if we switch back to the other tab, which already has our repository opened in GitHub and then navigate to the server.js file in the main branch,
 >
-> **[4:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=262)** we can see that our startup message has been updated.
->
-> **[4:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=266)** One thing to notice that these changes may not immediately reflect in the file in the codespace.
->
-> **[4:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=273)** As you can see, our server.js file still has the old message.
->
-> **[4:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=279)** To ensure that every file is up to date with the merge request, you can come down to the status bar and click on the sync icon to synchronize all your changes.
->
-> **[4:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=291)** This operation ensures that all staged changes are pushed and all pending remote changes are pulled into the codespace.
->
-> **[4:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=298)** As you will now observe, the server.js file now contains the new startup message for our application.
+> **[4:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/creating-a-pull-request?u=76281980&t=262)** we can see that our startup message has been updated. One thing to notice that these changes may not immediately reflect in the file in the codespace. As you can see, our server.js file still has the old message. To ensure that every file is up to date with the merge request, you can come down to the status bar and click on the sync icon to synchronize all your changes. This operation ensures that all staged changes are pushed and all pending remote changes are pulled into the codespace. As you will now observe, the server.js file now contains the new startup message for our application.
 
 > [!info]- Semantic Content
 >
@@ -1332,29 +448,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=0)** - One of the main highlights of [[Codespaces]] is how you can easily spin up a development environment until it's down, when you no longer need it.
->
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=7)** When you are no longer in need of a certain codespace, it's best practice to clean things up by deleting it.
->
-> **[0:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=13)** In this video, we are going to be deleting a codespace we will no longer be making use of.
->
-> **[0:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=19)** Here on the codespace list page, I have the code page created on the main branch and the one for the new feature branch.
->
-> **[0:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=28)** We have already merged changes from the new feature branch in a previous video, so we can go ahead and delete it.
->
-> **[0:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=35)** Deleting [[GitHub]] codespaces is pretty straightforward.
->
-> **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=38)** On the codespaces item, click the ellipses icon on the right.
->
-> **[0:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=43)** Here you will see the option to delete the code space labeled in red.
->
-> **[0:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=49)** Click this action item to delete the codespace.
->
-> **[0:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=51)** GitHub immediately prompts you to confirm if you really want to delete the codespace, as this operation is irreversible.
->
-> **[0:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=59)** Click okay to confirm.
->
-> **[1:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=62)** The page reloads and now the codespace has been successfully deleted.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/deleting-a-codespace?u=76281980&t=0)** - One of the main highlights of [[Codespaces]] is how you can easily spin up a development environment until it's down, when you no longer need it. When you are no longer in need of a certain codespace, it's best practice to clean things up by deleting it. In this video, we are going to be deleting a codespace we will no longer be making use of. Here on the codespace list page, I have the code page created on the main branch and the one for the new feature branch. We have already merged changes from the new feature branch in a previous video, so we can go ahead and delete it. Deleting [[GitHub]] codespaces is pretty straightforward. On the codespaces item, click the ellipses icon on the right. Here you will see the option to delete the code space labeled in red. Click this action item to delete the codespace. GitHub immediately prompts you to confirm if you really want to delete the codespace, as this operation is irreversible. Click okay to confirm. The page reloads and now the codespace has been successfully deleted.
 
 > [!info]- Semantic Content
 >
@@ -1373,65 +467,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=0)** - [Presenter] In a previous video, I demonstrated how you could configure your code spaces to open in your local Visual Studio code installation instead of your browser.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=0)** - [Presenter] In a previous video, I demonstrated how you could configure your code spaces to open in your local Visual Studio code installation instead of your browser. To make this configuration take effect, you need to set up your local visual studio code instance to connect to [[GitHub]] [[Codespaces]]. And this is what we are going to learn in this video. We will configure our installation of Visual Studio Code to load our workspaces so that we can work on them locally. The first thing we need to do is to install the GitHub Codespaces extension for VS code. To begin, both of your local VS code installation and click on the extensions tab. In the extension search field type codespaces. the GitHub Codespaces extension should come up as the top option. Click this option to view the extension page. Next, click the install button to install the extension. After successful installation, you should now see a new code spaces icon on your activity bar. This confirms that you now have the extension ready for use. Click on the Codespaces icon to see the code space view on your sidebar. Because I have previously logged into GitHub Codespaces on my local VS code installation, I can see my Codespaces listed here. If you're doing this for the first time, you'll be prompted to log in to GitHub. upon successful login, you would also see your Codespaces listed in the sidebar. Now that we have our Codespaces listed, we can connect to a Codespace. to connect to a Codespace, hover over the code space you want to connect to and you'll see a plug icon.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=9)** To make this configuration take effect, you need to set up your local visual studio code instance to connect to [[GitHub]] [[Codespaces]].
->
-> **[0:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=15)** And this is what we are going to learn in this video.
->
-> **[0:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=19)** We will configure our installation of Visual Studio Code to load our workspaces so that we can work on them locally.
->
-> **[0:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=26)** The first thing we need to do is to install the GitHub Codespaces extension for VS code.
->
-> **[0:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=31)** To begin, both of your local VS code installation and click on the extensions tab.
->
-> **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=38)** In the extension search field type codespaces.
->
-> **[0:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=42)** the GitHub Codespaces extension should come up as the top option.
->
-> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=46)** Click this option to view the extension page.
->
-> **[0:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=49)** Next, click the install button to install the extension.
->
-> **[0:53](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=53)** After successful installation, you should now see a new code spaces icon on your activity bar.
->
-> **[0:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=59)** This confirms that you now have the extension ready for use.
->
-> **[1:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=62)** Click on the Codespaces icon to see the code space view on your sidebar.
->
-> **[1:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=66)** Because I have previously logged into GitHub Codespaces on my local VS code installation, I can see my Codespaces listed here.
->
-> **[1:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=73)** If you're doing this for the first time, you'll be prompted to log in to GitHub.
->
-> **[1:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=78)** upon successful login, you would also see your Codespaces listed in the sidebar.
->
-> **[1:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=84)** Now that we have our Codespaces listed, we can connect to a Codespace.
->
-> **[1:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=88)** to connect to a Codespace, hover over the code space you want to connect to and you'll see a plug icon.
->
-> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=94)** Click this icon to start the connection process.
->
-> **[1:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=96)** I'll be connecting to the Codespace on my to-dos API repo.
->
-> **[1:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=103)** Once clicked, VS code will start the connection process, and in a few seconds you'll be presented with your Codespace session.
->
-> **[1:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=111)** We can now interact with our project files and make changes the same way we have been doing so far in the browser.
->
-> **[1:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=118)** Because you have the Codespaces extension installed, you also have access to a bunch of helpful Codespaces commands.
->
-> **[2:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=124)** To view the commands, open your command palette with control shift P or command shift P, on the Mac, and type code space into the search field.
->
-> **[2:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=135)** You will now be presented with a bunch of Codespace helpful commands as you have in the browser instance.
->
-> **[2:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=140)** When you're done working in your Codespace, within Visual Studio Code, you can end the session easily.
->
-> **[2:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=146)** To end the current session, click the Green Code Spaces label on the status bar.
->
-> **[2:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=151)** This presents you with some useful functions to use in your current Codespace session.
->
-> **[2:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=156)** These include options to stop the current Codespace instance and also to close the Codespace connection completely.
->
-> **[2:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=163)** Click the stop current Codespace option to end the Codespace session, and now you are no longer connected to the Codespace.
+> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/connecting-to-codespaces-from-vscode?u=76281980&t=94)** Click this icon to start the connection process. I'll be connecting to the Codespace on my to-dos API repo. Once clicked, VS code will start the connection process, and in a few seconds you'll be presented with your Codespace session. We can now interact with our project files and make changes the same way we have been doing so far in the browser. Because you have the Codespaces extension installed, you also have access to a bunch of helpful Codespaces commands. To view the commands, open your command palette with control shift P or command shift P, on the Mac, and type code space into the search field. You will now be presented with a bunch of Codespace helpful commands as you have in the browser instance. When you're done working in your Codespace, within Visual Studio Code, you can end the session easily. To end the current session, click the Green Code Spaces label on the status bar. This presents you with some useful functions to use in your current Codespace session. These include options to stop the current Codespace instance and also to close the Codespace connection completely. Click the stop current Codespace option to end the Codespace session, and now you are no longer connected to the Codespace.
 
 > [!info]- Semantic Content
 >
@@ -1448,45 +486,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=0)** - [Instructor] To ensure uniformity and control usage of code space resources it is often essential to restrict the types of machines that can be used to spin up a code space by members of your team.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=0)** - [Instructor] To ensure uniformity and control usage of code space resources it is often essential to restrict the types of machines that can be used to spin up a code space by members of your team. [[GitHub]] code spaces cost money, so you want to ensure that team members are only making use of what is needed and not spinning up expensive code spaces for tasks that do not require them. In this video, we'll demonstrate how to set up a policy that restricts the type of machines, and by machine type, I mean machines grouped according to resource capacity that can be used to spin up code spaces. Before we begin, it is important to note that you can only set up this type of policy on an organization that you own. To set up a code space policy on your GitHub account go to organizations from your account menu. On your organization's list click on settings, on your organization's rule. On the Settings sidebar under the code planning and automation section, click on code spaces, then click on policies. On the [[Codespaces]] policies page, click Create Policy. Now enter your name for your policy. Let's call this Machine Restriction Policy. Now click on the add constraint dropdown and select machine types. On the machine types tab, click the edit button to change the machine constraint. Here, I'm just going to disable the 16-core and the 18-core machines so that no team member can create a code space using this amount of ram and storage. To determine whether this policy should apply
 >
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=12)** [[GitHub]] code spaces cost money, so you want to ensure that team members are only making use of what is needed and not spinning up expensive code spaces for tasks that do not require them.
->
-> **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=22)** In this video, we'll demonstrate how to set up a policy that restricts the type of machines, and by machine type, I mean machines grouped according to resource capacity that can be used to spin up code spaces.
->
-> **[0:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=34)** Before we begin, it is important to note that you can only set up this type of policy on an organization that you own.
->
-> **[0:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=41)** To set up a code space policy on your GitHub account go to organizations from your account menu.
->
-> **[0:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=48)** On your organization's list click on settings, on your organization's rule.
->
-> **[0:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=52)** On the Settings sidebar under the code planning and automation section, click on code spaces, then click on policies.
->
-> **[1:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=61)** On the [[Codespaces]] policies page, click Create Policy.
->
-> **[1:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=66)** Now enter your name for your policy.
->
-> **[1:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=70)** Let's call this Machine Restriction Policy.
->
-> **[1:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=73)** Now click on the add constraint dropdown and select machine types.
->
-> **[1:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=78)** On the machine types tab, click the edit button to change the machine constraint.
->
-> **[1:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=84)** Here, I'm just going to disable the 16-core and the 18-core machines so that no team member can create a code space using this amount of ram and storage.
->
-> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=94)** To determine whether this policy should apply to all or just a set of repositories click the dropdown on the change policy target section.
->
-> **[1:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=102)** Now click on selected repositories.
->
-> **[1:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=105)** A cog icon appears and when I click on that icon I can select the repo that it should apply to.
->
-> **[1:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=111)** Currently I only have one repot in these organizations so I'm just going select that so that we can see the effect of this setting.
->
-> **[1:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=117)** With the repository selected I'm going to click select repositories and finally we'll click save to effect this constraint.
->
-> **[2:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=127)** Now, when anyone on your team tries to create a code space on any of the selected repositories the policy you just created will apply.
->
-> **[2:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=133)** In our case they won't be able to select any machines higher than four calls and eight gig ram as configured in the constraint.
+> **[1:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/restricting-machine-types?u=76281980&t=95)** to all or just a set of repositories click the dropdown on the change policy target section. Now click on selected repositories. A cog icon appears and when I click on that icon I can select the repo that it should apply to. Currently I only have one repot in these organizations so I'm just going select that so that we can see the effect of this setting. With the repository selected I'm going to click select repositories and finally we'll click save to effect this constraint. Now, when anyone on your team tries to create a code space on any of the selected repositories the policy you just created will apply. In our case they won't be able to select any machines higher than four calls and eight gig ram as configured in the constraint.
 
 > [!info]- Semantic Content
 >
@@ -1500,69 +502,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=0)** - As we have seen in the previous video, [[GitHub]] Code spaces provides you with a set of predefined container configurations.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=0)** - As we have seen in the previous video, [[GitHub]] Code spaces provides you with a set of predefined container configurations. You can use any of the configurations to start your development work rather than having to create one from scratch. Dev container configuration templates exist for [[Node.js]], [[Java]], CSharp, C++, and other common project types. To see a list of predefined containers available to you open the command palette and type in dev container. Then select the ad development container configuration files option. Here you can see a list of predefined containers and select the one that best suits your project. If you're seeing the small list of container options or you cannot find the one you're looking for, the one that suits your project, scroll up and click the show all definitions option at the top. This will switch to an extended list that shows you all the container configuration templates available to you. You can scroll to see all available options or type in the search field for a language. Well [[Python (Programming Language)|Python]] and see the configuration you are interested in.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=7)** You can use any of the configurations to start your development work rather than having to create one from scratch.
+> **[1:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=75)** Aside single language based options like Node.js and [[PHP]], there are also bare bones configurations like Alpine or full-fledge configurations like PHP and MariaDB that comes with database support. Once you select a predefined container configuration, GitHub code spaces might ask you a couple of questions to confirm or provide answers for. For example, here I am being prompted to select a no GS version. Once that is complete, GitHub code spaces then ask if I would like to define some extra features to be added to my configuration. These are tools that you may require for your development workflow. Among them is the GitHub [[CLI]], the AWS CLI, if you have some resources on that you're using for the project and tools like [[Powershell]], if you prefer it to your regular terminal. We also have the Kubecti CLI, that's kubectl, and many more. For now, let's just go with the default options and click okay with non-selected. Your code space then generates the files for your selected configuration. Of all the files generated the dev container the Jason file is the one you are most interested in and the one you're advised to edit if need be. In the dev container, the Jason file you can add more features or extensions to your code space container. One confident way to add extra features instead of using this configuration file is to go to the features we get once again. To do this, go to the command palette and then type configure dev.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=13)** Dev container configuration templates exist for [[Node.js]], [[Java]], CSharp, C++, and other common project types.
->
-> **[0:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=22)** To see a list of predefined containers available to you open the command palette and type in dev container.
->
-> **[0:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=32)** Then select the ad development container configuration files option.
->
-> **[0:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=36)** Here you can see a list of predefined containers and select the one that best suits your project.
->
-> **[0:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=42)** If you're seeing the small list of container options or you cannot find the one you're looking for, the one that suits your project, scroll up and click the show all definitions option at the top.
->
-> **[0:53](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=53)** This will switch to an extended list that shows you all the container configuration templates available to you.
->
-> **[1:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=60)** You can scroll to see all available options or type in the search field for a language.
->
-> **[1:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=67)** Well [[Python (Programming Language)|Python]] and see the configuration you are interested in.
->
-> **[1:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=75)** Aside single language based options like Node.js and [[PHP]], there are also bare bones configurations like Alpine or full-fledge configurations like PHP and MariaDB that comes with database support.
->
-> **[1:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=89)** Once you select a predefined container configuration, GitHub code spaces might ask you a couple of questions to confirm or provide answers for.
->
-> **[1:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=98)** For example, here I am being prompted to select a no GS version.
->
-> **[1:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=103)** Once that is complete, GitHub code spaces then ask if I would like to define some extra features to be added to my configuration.
->
-> **[1:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=110)** These are tools that you may require for your development workflow.
->
-> **[1:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=114)** Among them is the GitHub [[CLI]], the AWS CLI, if you have some resources on that you're using for the project and tools like [[Powershell]], if you prefer it to your regular terminal.
->
-> **[2:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=125)** We also have the Kubecti CLI, that's kubectl, and many more.
->
-> **[2:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=130)** For now, let's just go with the default options and click okay with non-selected.
->
-> **[2:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=137)** Your code space then generates the files for your selected configuration.
->
-> **[2:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=140)** Of all the files generated the dev container the Jason file is the one you are most interested in and the one you're advised to edit if need be.
->
-> **[2:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=149)** In the dev container, the Jason file you can add more features or extensions to your code space container.
->
-> **[2:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=155)** One confident way to add extra features instead of using this configuration file is to go to the features we get once again.
->
-> **[2:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=162)** To do this, go to the command palette and then type configure dev.
->
-> **[2:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=171)** Now select the configured development container features option.
->
-> **[2:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=175)** This brings up the features once again.
->
-> **[2:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=177)** This time we'll be adding the AWS CLI to our code space environment.
->
-> **[3:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=183)** Normally when the change is made, we get the rebuild now bottom popup, right here on the bottom right corner.
->
-> **[3:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=190)** However, if you don't get the prompt just as we don't have it here, you can simply access it through your command pallets.
->
-> **[3:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=199)** Let's go to the command pallet and type rebuild.
->
-> **[3:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=206)** Now click GitHub prompt and click Rebuild.
->
-> **[3:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=212)** Once the container rebuild is done, we can now go down to our terminal and run the AWS command.
->
-> **[3:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=219)** We get the output for the AWS command usage, which indicates that we now successfully have the AWS CLI running in our container.
+> **[2:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-predefined-containers?u=76281980&t=171)** Now select the configured development container features option. This brings up the features once again. This time we'll be adding the AWS CLI to our code space environment. Normally when the change is made, we get the rebuild now bottom popup, right here on the bottom right corner. However, if you don't get the prompt just as we don't have it here, you can simply access it through your command pallets. Let's go to the command pallet and type rebuild. Now click GitHub prompt and click Rebuild. Once the container rebuild is done, we can now go down to our terminal and run the AWS command. We get the output for the AWS command usage, which indicates that we now successfully have the AWS CLI running in our container.
 
 > [!info]- Semantic Content
 >
@@ -1579,51 +523,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=0)** - For every code space created [[GitHub]] automatically sets some default environment variables.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=0)** - For every code space created [[GitHub]] automatically sets some default environment variables. Some of these variables can be useful in your workflow within your GitHub code space. In this video, we'll be taking a look at some of these environment variables. For now, we'll only be displaying them within the terminal of our code space. However, these variables can be used within your container configurations or in commands you run in the terminal as you develop within the code space. The first environment variable we'll be looking at is the code space under score... Let me go to all caps. Code space under score name, environment variable. This variable contains the auto generated name assigned to our code space. I think I'm missing a dollar sign there. Go back. Dollar sign, echo code space. As I said earlier, this variable contains the auto generated name assigned to the code space instance. Let's take a look at another environment variable. This time we'll echo the GitHub underscore repository, environment variable. As you may have guessed, this variable contains the name of the repository on which the current code space instance was created. You can also access the current user within the GitHub code space by printing out or using the
 >
-> **[0:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=6)** Some of these variables can be useful in your workflow within your GitHub code space.
->
-> **[0:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=10)** In this video, we'll be taking a look at some of these environment variables.
->
-> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=14)** For now, we'll only be displaying them within the terminal of our code space.
->
-> **[0:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=19)** However, these variables can be used within your container configurations or in commands you run in the terminal as you develop within the code space.
->
-> **[0:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=27)** The first environment variable we'll be looking at is the code space under score... Let me go to all caps.
->
-> **[0:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=36)** Code space under score name, environment variable.
->
-> **[0:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=43)** This variable contains the auto generated name assigned to our code space.
->
-> **[0:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=47)** I think I'm missing a dollar sign there.
->
-> **[0:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=51)** Go back.
->
-> **[0:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=52)** Dollar sign, echo code space.
->
-> **[0:56](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=56)** As I said earlier, this variable contains the auto generated name assigned to the code space instance.
->
-> **[1:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=62)** Let's take a look at another environment variable.
->
-> **[1:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=65)** This time we'll echo the GitHub underscore repository, environment variable.
->
-> **[1:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=78)** As you may have guessed, this variable contains the name of the repository on which the current code space instance was created.
->
-> **[1:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=86)** You can also access the current user within the GitHub code space by printing out or using the GitHub underscore user environment variable.
->
-> **[1:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=99)** As you can see, this is my username.
->
-> **[1:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=103)** That's my GitHub username.
->
-> **[1:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=106)** One very interesting GitHub variable you also have access to within your code space is the GitHub underscore token variable.
->
-> **[1:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=115)** This variable contains the signed authentication token representing the user within the code space.
->
-> **[2:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=120)** What makes this variable interesting is that it can be used from within your code space to make authenticated calls to the GitHub API.
->
-> **[2:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=128)** Environment variables within your code space give you access to a bunch of useful GitHub information that can be used within your development workflows.
->
-> **[2:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=136)** You can find a list of environment variables available to you in the GitHub code space documentation.
+> **[1:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/environment-variables?u=76281980&t=93)** GitHub underscore user environment variable. As you can see, this is my username. That's my GitHub username. One very interesting GitHub variable you also have access to within your code space is the GitHub underscore token variable. This variable contains the signed authentication token representing the user within the code space. What makes this variable interesting is that it can be used from within your code space to make authenticated calls to the GitHub API. Environment variables within your code space give you access to a bunch of useful GitHub information that can be used within your development workflows. You can find a list of environment variables available to you in the GitHub code space documentation.
 
 > [!info]- Semantic Content
 >
@@ -1638,139 +540,17 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=0)** - [Speaker] In a previous video, we looked at default environment variables set by [[GitHub]] for use in our codespace environment.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=0)** - [Speaker] In a previous video, we looked at default environment variables set by [[GitHub]] for use in our codespace environment. In this video, we'll learn and demonstrate how you can create your own environment variables for use within your GitHub top [[Codespaces]]. These environment variables can be used to store sensitive data like API credentials of top party services, authentication [[Tokens]] and database passwords. Basically, any value you would like to store in a secure manner. To achieve that, will be making use of GitHub Secrets. GitHub secrets allows you to store sensitive data for use in any of GitHub's services like GitHub actions, Dependabot and of course GitHub codespaces. These secrets will then be accessible via environment variables within these GitHub services. This means that just as we are able to access the default environment variables set within our codespaces by GitHub, we can also access these secrets with the environment variables that match the names we give them. Before diving into creating and using secrets, let's take a look at a few rules you need to be familiar with when working with them. First, GitHub secrets can be created at both the organization and repository level. Now comes the rules. A secret created at the organization level can be used within any of the codespaces it is assigned to. This is most useful in cases where you have multiple projects accessing a particular service and you want to share the access credentials between them. As expected, a secret created at a repository level
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=7)** In this video, we'll learn and demonstrate how you can create your own environment variables for use within your GitHub top [[Codespaces]].
+> **[1:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=94)** applies to that repository alone. Also, when a secret with the same name is created at both the organization and repository level, the value of that secret at the repository level takes precedence. There are also a set of rules that detect how secrets should be named. Breaking any of these rules can render your secret invalid. Some of these rules include ensuring that you only use alphanumeric characters and underscores in your secret names. Also, no name should start with the special GITHUB prefix. These are reserved for environment variables defined by GitHub. Also, names should be unique at the level they are created. This means that you cannot create two secrets with the same name at the organization level or at the repository level. Now that we're familiar with our secrets to walk within GitHub, it's time to create some secrets for use in our codespaces. To create a secret at the organization level, go to your profile menu and click on Settings. On the side menu on the Settings page, click the codespaces link. On the Codespaces secret section, click the New secret button to create a new codespace secret. This loads up the page where you can enter a name for your secret and its corresponding value. I'll be creating a secret with the name GENERAL_API_KEY. And for the value,
 >
-> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=14)** These environment variables can be used to store sensitive data like API credentials of top party services, authentication [[Tokens]] and database passwords.
+> **[3:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=185)** I'm just going to enter random string. Just beneath the value text area, we have a dropdown to select the repositories where this secret will be available. I will be selecting the repository we have been using so far. As you can see, you can type to search the list for the repository you're looking for. Finally, let's click Add secret to complete the process. Now that we have a secret set, we can access it within our chosen repository. Next, let's also create a repository level GitHub secret. To do that, let's first go to our repo. Going to go to My Organization, and click on the Repository. That's it, todos-api repository. And go to the setting section. On the side menu, under the Security section, click the Secrets dropdown. When this dropdown expanded, click on Codespaces. We click on Codespaces because we are applying this secret to a codespace. Could as well do it for GitHub actions or Dependabots. To create a secret on the repository level, click on the New repository secret button. This brings up a familiar screen where you can enter the name and value of your secret. Here I'll create another secret with the name, MY_DATABASE_CONNECTION_STRING.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=24)** Basically, any value you would like to store in a secure manner.
+> **[4:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=276)** At the value field, I'm going to enter a random value that mimics using a [[MongoDB]] protocol for a connection string. It is just random and I'm definitely sure this is not how the mongodb string looks like. But for now, we just need the value. So this is going to be our value for the connection string. Finally, click Add Secret to complete the process. Now that we have the secret set, let's go ahead and access them within our codespace. One thing to note about secrets is that, while they are immediately available to codespaces started after creating the secret, for a currently active codespace, you will need to stop and restart the codespace. Let's go ahead to our codespaces and we start the codespace will be working in.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=29)** To achieve that, will be making use of GitHub Secrets.
+> **[5:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=326)** Stop it. Then we'll reopen it. Now that our codespace has been restarted, let's see if we can access the secrets that we just defined. Down in the terminal, let's try to echo our variables. First, let's access the GENERAL_API_KEY environment variable created at the organizational level. Let's type echo $GENERAL_API_KEY.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=33)** GitHub secrets allows you to store sensitive data for use in any of GitHub's services like GitHub actions, Dependabot and of course GitHub codespaces.
->
-> **[0:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=45)** These secrets will then be accessible via environment variables within these GitHub services.
->
-> **[0:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=51)** This means that just as we are able to access the default environment variables set within our codespaces by GitHub, we can also access these secrets with the environment variables that match the names we give them.
->
-> **[1:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=62)** Before diving into creating and using secrets, let's take a look at a few rules you need to be familiar with when working with them.
->
-> **[1:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=69)** First, GitHub secrets can be created at both the organization and repository level.
->
-> **[1:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=75)** Now comes the rules.
->
-> **[1:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=76)** A secret created at the organization level can be used within any of the codespaces it is assigned to.
->
-> **[1:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=82)** This is most useful in cases where you have multiple projects accessing a particular service and you want to share the access credentials between them.
->
-> **[1:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=91)** As expected, a secret created at a repository level applies to that repository alone.
->
-> **[1:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=97)** Also, when a secret with the same name is created at both the organization and repository level, the value of that secret at the repository level takes precedence.
->
-> **[1:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=107)** There are also a set of rules that detect how secrets should be named.
->
-> **[1:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=112)** Breaking any of these rules can render your secret invalid.
->
-> **[1:56](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=116)** Some of these rules include ensuring that you only use alphanumeric characters and underscores in your secret names.
->
-> **[2:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=124)** Also, no name should start with the special GITHUB prefix.
->
-> **[2:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=129)** These are reserved for environment variables defined by GitHub.
->
-> **[2:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=134)** Also, names should be unique at the level they are created.
->
-> **[2:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=138)** This means that you cannot create two secrets with the same name at the organization level or at the repository level.
->
-> **[2:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=144)** Now that we're familiar with our secrets to walk within GitHub, it's time to create some secrets for use in our codespaces.
->
-> **[2:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=151)** To create a secret at the organization level, go to your profile menu and click on Settings.
->
-> **[2:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=159)** On the side menu on the Settings page, click the codespaces link.
->
-> **[2:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=164)** On the Codespaces secret section, click the New secret button to create a new codespace secret.
->
-> **[2:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=171)** This loads up the page where you can enter a name for your secret and its corresponding value.
->
-> **[2:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=177)** I'll be creating a secret with the name GENERAL_API_KEY.
->
-> **[3:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=184)** And for the value, I'm just going to enter random string.
->
-> **[3:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=189)** Just beneath the value text area, we have a dropdown to select the repositories where this secret will be available.
->
-> **[3:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=197)** I will be selecting the repository we have been using so far.
->
-> **[3:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=204)** As you can see, you can type to search the list for the repository you're looking for.
->
-> **[3:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=210)** Finally, let's click Add secret to complete the process.
->
-> **[3:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=215)** Now that we have a secret set, we can access it within our chosen repository.
->
-> **[3:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=220)** Next, let's also create a repository level GitHub secret.
->
-> **[3:44](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=224)** To do that, let's first go to our repo.
->
-> **[3:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=226)** Going to go to My Organization, and click on the Repository.
->
-> **[3:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=234)** That's it, todos-api repository.
->
-> **[3:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=237)** And go to the setting section.
->
-> **[3:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=239)** On the side menu, under the Security section, click the Secrets dropdown.
->
-> **[4:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=245)** When this dropdown expanded, click on Codespaces.
->
-> **[4:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=249)** We click on Codespaces because we are applying this secret to a codespace.
->
-> **[4:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=252)** Could as well do it for GitHub actions or Dependabots.
->
-> **[4:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=256)** To create a secret on the repository level, click on the New repository secret button.
->
-> **[4:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=260)** This brings up a familiar screen where you can enter the name and value of your secret.
->
-> **[4:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=265)** Here I'll create another secret with the name, MY_DATABASE_CONNECTION_STRING.
->
-> **[4:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=276)** At the value field, I'm going to enter a random value that mimics using a [[MongoDB]] protocol for a connection string.
->
-> **[4:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=286)** It is just random and I'm definitely sure this is not how the mongodb string looks like.
->
-> **[4:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=290)** But for now, we just need the value.
->
-> **[4:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=292)** So this is going to be our value for the connection string.
->
-> **[4:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=295)** Finally, click Add Secret to complete the process.
->
-> **[5:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=300)** Now that we have the secret set, let's go ahead and access them within our codespace.
->
-> **[5:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=304)** One thing to note about secrets is that, while they are immediately available to codespaces started after creating the secret, for a currently active codespace, you will need to stop and restart the codespace.
->
-> **[5:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=316)** Let's go ahead to our codespaces and we start the codespace will be working in.
->
-> **[5:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=326)** Stop it.
->
-> **[5:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=328)** Then we'll reopen it.
->
-> **[5:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=332)** Now that our codespace has been restarted, let's see if we can access the secrets that we just defined.
->
-> **[5:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=338)** Down in the terminal, let's try to echo our variables.
->
-> **[5:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=341)** First, let's access the GENERAL_API_KEY environment variable created at the organizational level.
->
-> **[5:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=347)** Let's type echo $GENERAL_API_KEY.
->
-> **[5:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=358)** Surround it.
->
-> **[5:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=359)** And as expected, our [[CLI]] outputs, the value we entered for this secret.
->
-> **[6:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=364)** Now, let's try to access the MY_DATABASE_CONNECTIONS_STRING environment variable.
->
-> **[6:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=371)** This is the variable we created at the repository level.
->
-> **[6:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=376)** Hit enter, and as we can see, this also prints out the value for the repository level secret.
->
-> **[6:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=382)** And now, we have access to both our secrets at the organization and repository levels.
->
-> **[6:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=388)** And we can use these secrets in our development workflows within our codespace.
+> **[5:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/storing-sensitive-data?u=76281980&t=358)** Surround it. And as expected, our [[CLI]] outputs, the value we entered for this secret. Now, let's try to access the MY_DATABASE_CONNECTIONS_STRING environment variable. This is the variable we created at the repository level. Hit enter, and as we can see, this also prints out the value for the repository level secret. And now, we have access to both our secrets at the organization and repository levels. And we can use these secrets in our development workflows within our codespace.
 
 > [!info]- Semantic Content
 >
@@ -1791,161 +571,23 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] is one of the fastest growing technologies at the moment, specifically in the area of [[Generative AI]].
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] is one of the fastest growing technologies at the moment, specifically in the area of [[Generative AI]]. This has led to developers building tools, features, and entire applications powered by [[Large Language Models (LLM)|large language models]]. These LLMs are provided by different vendors such as OpenAI, [[Google]], and Anthropic with varying features and performance. When developing with LLMs, developers often need to try different models from different vendors to see which model best suits their use case. This process requires installing and configuring several SDKs, which can become cumbersome real quick. You will also need to manage authentication credentials for each model you're trying out. As you may have guessed, this is not a very pleasing developer experience, and it's exactly where [[GitHub]] models come in. GitHub models allow you to quickly prototype with different models. This way, you can play around with LLMs from different vendors, and finally pick the one that will be best for your use case. And this can all be done from a GitHub codespace. So let us see one in action. First, you will need a repo for your project or just a repo where you want to test out models. Once you have your repo set up, you can then open it in a codespace.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=7)** This has led to developers building tools, features, and entire applications powered by [[Large Language Models (LLM)|large language models]].
->
-> **[0:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=14)** These LLMs are provided by different vendors such as OpenAI, [[Google]], and Anthropic with varying features and performance.
->
-> **[0:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=23)** When developing with LLMs, developers often need to try different models from different vendors to see which model best suits their use case.
->
-> **[0:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=31)** This process requires installing and configuring several SDKs, which can become cumbersome real quick.
->
-> **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=38)** You will also need to manage authentication credentials for each model you're trying out.
->
-> **[0:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=42)** As you may have guessed, this is not a very pleasing developer experience, and it's exactly where [[GitHub]] models come in.
->
-> **[0:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=49)** GitHub models allow you to quickly prototype with different models.
->
-> **[0:53](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=53)** This way, you can play around with LLMs from different vendors, and finally pick the one that will be best for your use case.
->
-> **[1:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=60)** And this can all be done from a GitHub codespace.
->
-> **[1:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=63)** So let us see one in action.
->
-> **[1:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=66)** First, you will need a repo for your project or just a repo where you want to test out models.
->
-> **[1:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=72)** Once you have your repo set up, you can then open it in a codespace.
->
-> **[1:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=82)** Our codespace has been set up and just in a few seconds, it should be up and running.
->
-> **[1:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=90)** Now that our codespace is running, let me bump this up a little bit so that we can see things clearer.
->
-> **[1:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=96)** That's good.
->
-> **[1:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=97)** Now to begin with GitHub models, I'm going to leave my codespace on this tab and then I'm going to open another tab and navigate to [github.com/marketplace/models](https://github.com/marketplace/models).
+> **[1:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=82)** Our codespace has been set up and just in a few seconds, it should be up and running. Now that our codespace is running, let me bump this up a little bit so that we can see things clearer. That's good. Now to begin with GitHub models, I'm going to leave my codespace on this tab and then I'm going to open another tab and navigate to [github.com/marketplace/models](https://github.com/marketplace/models).
 >
 > **[1:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=115)** This is the home of GitHub models.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=124)** On the screen that shows up, we see a welcome message, previews of some models, but this dropdown is the most important thing that we are going to be using there.
+> **[2:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=124)** On the screen that shows up, we see a welcome message, previews of some models, but this dropdown is the most important thing that we are going to be using there. So this is where all the models are listed, and we can select any model to work with. For now, let us say we want to work with the OpenAI [[GPT-4|GPT-4o]] model, so let us select that. And once selected, we get taken to the playground where we can play around with prompts without having to do any form of coding. We can simply type in a prompt into this text field. Let's say, "Who is the president of the United States?"
 >
-> **[2:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=132)** So this is where all the models are listed, and we can select any model to work with.
+> **[2:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=167)** And GitHub model is going to use the selected model to give us back our response, but this is not what we came here for. We want to use our model in code, so let us get right into that. To use the model in code, click the Get API Key button at the top right-hand corner to bring up a set of details. On the left side of the panel, you can select the language you want to write in and the SDK you want to use. We have selected the OpenAI GPT-4o mini model. So we have a couple of language options, which includes [[JavaScript]], [[Python (Programming Language)|Python]], C#, [[Representational State Transfer (REST)|REST]], and also [[Java]]. For this demo, we'll just be going with JavaScript. For you, make sure you pick the language that your project is written in. For the SDK, we have two options based on the model we have selected, the OpenAI SDK and the [[Microsoft Azure|Azure]] AI Inference SDK. We'll be using the OpenAI SDK for this demo as it directly matches with our selected model. The Azure SDK is also a great option, but more on that in another video. Once you have selected your options, navigate to the dependency section. Here in the dependency section, we see that we have a dependency on the OpenAI [[npm]] package. So let's just copy this package.[[JSON]], go to our codespace. Here, I'm going to create a new package.json file.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=137)** For now, let us say we want to work with the OpenAI [[GPT-4|GPT-4o]] model, so let us select that.
+> **[4:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=259)** It wants me to allow pasting of text, so yeah, I'll allow that. So now I can say new file package.json
 >
-> **[2:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=148)** And once selected, we get taken to the playground where we can play around with prompts without having to do any form of coding.
+> **[4:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=272)** and I'm just going to paste in what we just copied. Save that, and here in our terminal, down in our terminal, first let's clear the screen, and I'm going to run npm install to install the dependencies. Awesome, once we have the dependencies installed, let's go ahead and copy one of the sample code on the setup screen and run it here in our codespace. Let's come here. Let's go to one basic example, and I'm just going to copy this basic example. I'm going to click Copy and go back to my codespace. And here in the codespace, I'm going to create a new file, call it sample.js. It's good. Inside sample.js, I'm going to paste the code that we just copied. Looking through this code, we can see the set up configuration that uses the GitHub token. The GitHub token allows us to automatically authenticate with the model provider, so you don't need to manage any setup keys. Going further down the code, we see that it prompts our model for the capital of France. So let us run this code and find out the answer to that question. Going to go down, clear the terminal, and now we can run node sample.js. We hit Enter, wait a few seconds, and now we get the capital of France is Paris.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=155)** We can simply type in a prompt into this text field.
+> **[6:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=366)** How smart is that? We have been able to test out our OpenAI GPT-4o model and we can also play with other models from different LLM vendors following a similar process. Now, sometimes you might want to test out different models using different SDKs without having to do it directly within your code or even set it up. This is why GitHub models has provided an entire repo for you to do this. This is the GitHub models [[Codespaces]] project that can be found at [github.com/github/codespaces-models](https://github.com/github/codespaces-models). This project consists of different examples using different models and different SDKs that you can quickly run and also tweak the code when trying out the models. To use this project, go to the code dropdown and open it up in the codespace. Once you have it running in the codespace, you can then navigate to any of the language samples or SDK samples to try out different available models. Go to the samples folder. For example, let's say we go to JavaScript. I want to test out OpenAI, We have a bunch of examples here that we can play with. So let's say we want to play with the streaming example. Let's open streaming.js. Here, our code also uses the GPT-4o mini model and it asks for five good examples why I should exercise every day. So let's just run this and see what we get. Let's say node
 >
-> **[2:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=158)** Let's say, "Who is the president of the United States?"
->
-> **[2:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=167)** And GitHub model is going to use the selected model to give us back our response, but this is not what we came here for.
->
-> **[2:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=175)** We want to use our model in code, so let us get right into that.
->
-> **[2:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=179)** To use the model in code, click the Get API Key button at the top right-hand corner to bring up a set of details.
->
-> **[3:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=190)** On the left side of the panel, you can select the language you want to write in and the SDK you want to use.
->
-> **[3:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=197)** We have selected the OpenAI GPT-4o mini model.
->
-> **[3:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=200)** So we have a couple of language options, which includes [[JavaScript]], [[Python (Programming Language)|Python]], C#, [[Representational State Transfer (REST)|REST]], and also [[Java]].
->
-> **[3:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=210)** For this demo, we'll just be going with JavaScript.
->
-> **[3:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=213)** For you, make sure you pick the language that your project is written in.
->
-> **[3:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=217)** For the SDK, we have two options based on the model we have selected, the OpenAI SDK and the [[Microsoft Azure|Azure]] AI Inference SDK.
->
-> **[3:48](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=228)** We'll be using the OpenAI SDK for this demo as it directly matches with our selected model.
->
-> **[3:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=234)** The Azure SDK is also a great option, but more on that in another video.
->
-> **[4:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=242)** Once you have selected your options, navigate to the dependency section.
->
-> **[4:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=247)** Here in the dependency section, we see that we have a dependency on the OpenAI [[npm]] package.
->
-> **[4:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=252)** So let's just copy this package.[[JSON]], go to our codespace.
->
-> **[4:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=258)** Here, I'm going to create a new package.json file.
->
-> **[4:19](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=259)** It wants me to allow pasting of text, so yeah, I'll allow that.
->
-> **[4:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=263)** So now I can say new file package.json
->
-> **[4:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=272)** and I'm just going to paste in what we just copied.
->
-> **[4:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=276)** Save that, and here in our terminal, down in our terminal, first let's clear the screen, and I'm going to run npm install to install the dependencies.
->
-> **[4:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=291)** Awesome, once we have the dependencies installed, let's go ahead and copy one of the sample code on the setup screen and run it here in our codespace.
->
-> **[5:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=302)** Let's come here.
->
-> **[5:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=304)** Let's go to one basic example, and I'm just going to copy this basic example.
->
-> **[5:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=308)** I'm going to click Copy and go back to my codespace.
->
-> **[5:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=314)** And here in the codespace, I'm going to create a new file, call it sample.js.
->
-> **[5:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=322)** It's good.
->
-> **[5:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=323)** Inside sample.js, I'm going to paste the code that we just copied.
->
-> **[5:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=328)** Looking through this code, we can see the set up configuration that uses the GitHub token.
->
-> **[5:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=333)** The GitHub token allows us to automatically authenticate with the model provider, so you don't need to manage any setup keys.
->
-> **[5:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=340)** Going further down the code, we see that it prompts our model for the capital of France.
->
-> **[5:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=346)** So let us run this code and find out the answer to that question.
->
-> **[5:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=349)** Going to go down, clear the terminal, and now we can run node sample.js.
->
-> **[5:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=359)** We hit Enter, wait a few seconds, and now we get the capital of France is Paris.
->
-> **[6:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=366)** How smart is that?
->
-> **[6:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=368)** We have been able to test out our OpenAI GPT-4o model and we can also play with other models from different LLM vendors following a similar process.
->
-> **[6:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=377)** Now, sometimes you might want to test out different models using different SDKs without having to do it directly within your code or even set it up.
->
-> **[6:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=386)** This is why GitHub models has provided an entire repo for you to do this.
->
-> **[6:30](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=390)** This is the GitHub models [[Codespaces]] project that can be found at [github.com/github/codespaces-models](https://github.com/github/codespaces-models).
->
-> **[6:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=400)** This project consists of different examples using different models and different SDKs that you can quickly run and also tweak the code when trying out the models.
->
-> **[6:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=410)** To use this project, go to the code dropdown and open it up in the codespace.
->
-> **[7:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=420)** Once you have it running in the codespace, you can then navigate to any of the language samples or SDK samples to try out different available models.
->
-> **[7:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=429)** Go to the samples folder.
->
-> **[7:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=431)** For example, let's say we go to JavaScript.
->
-> **[7:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=434)** I want to test out OpenAI, We have a bunch of examples here that we can play with.
->
-> **[7:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=440)** So let's say we want to play with the streaming example.
->
-> **[7:22](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=442)** Let's open streaming.js.
->
-> **[7:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=445)** Here, our code also uses the GPT-4o mini model and it asks for five good examples why I should exercise every day.
->
-> **[7:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=454)** So let's just run this and see what we get.
->
-> **[7:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=457)** Let's say node samples, javascript, openai, and streaming.
->
-> **[7:52](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=472)** Here, the streaming example under the OpenAI JavaScript set of examples.
->
-> **[7:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=478)** Let's hit Enter to run this code.
->
-> **[8:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=481)** And as you can see, our results are streamed back to us.
->
-> **[8:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=485)** Awesome.
->
-> **[8:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=486)** The GitHub models codespace is a great spot for trying out different LLMs for your project and also discovering which model best suits your application.
->
-> **[8:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=496)** So if you want to play around with different models and different SDKs in code, I recommend that you come to this project, open it up in a codespace and tweak things until you find the model and SDK that best suits your project's requirements.
+> **[7:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-with-codespaces?u=76281980&t=460)** samples, javascript, openai, and streaming. Here, the streaming example under the OpenAI JavaScript set of examples. Let's hit Enter to run this code. And as you can see, our results are streamed back to us. Awesome. The GitHub models codespace is a great spot for trying out different LLMs for your project and also discovering which model best suits your application. So if you want to play around with different models and different SDKs in code, I recommend that you come to this project, open it up in a codespace and tweak things until you find the model and SDK that best suits your project's requirements.
 
 > [!info]- Semantic Content
 >
@@ -1962,91 +604,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=0)** - [Instructor] Now that we have seen how to make use of [[GitHub]] models in our development with [[Codespaces]], what do we do when we want to ship this code to production?
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=0)** - [Instructor] Now that we have seen how to make use of [[GitHub]] models in our development with [[Codespaces]], what do we do when we want to ship this code to production? Now, one thing to note with GitHub models is that you can only use them in the development phase of your application. They cannot and should not be used for live projects. To move your project to production, you will need the [[Microsoft Azure|Azure]] AI service, which you can seamlessly switch to in your code, as will be seen along the course of this video. Azure AI allows you to deploy production-ready instances of numerous state-of-the-art models. It also generates the credentials for you to authenticate with your deployed models. So enough talk, let's get started on that. To begin, you first need an Azure AI account. So visit ai.[azure.com](https://azure.com) to set one up. You'll be prompted to add your billing details, which is necessary to run models for production purposes. Once your Azure AI account is set up, let's add back to our GitHub Models page at [github.com/marketplace/models](https://github.com/marketplace/models). On this page, let us click the dropdown and go for [[GPT-4|GPT-4o]] mini. On the Playground page, Let's now click the Use This Model button. In the previous video, this button had the label Get API Key. However, GitHub decided to change the label before this video was recorded.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=9)** Now, one thing to note with GitHub models is that you can only use them in the development phase of your application.
+> **[1:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=93)** But don't worry, this button does exactly the same thing. So let's click it. At the top of the Getting Started section, where the first step is to create a personal token, instead of going for the free GitHub models, we'll be using Azure AI, which is a pay-as-you-go model. So let's click the Get Production Key button to get our key. This will automatically navigate us to the Azure AI portal where Azure Foundry then starts to set up a model deployment for us. Once Foundry is done, you'll see a Deploy button. Click that to complete the deployment process. Once the deployment is created, you'll then be taken to a page where you can see your service URL and credentials for working with your newly deployed Azure model. There's also a table where you can see your model deployments. Now we can take these credentials to our Codespaces project to use in our application. So first, I'm going to copy the API key. The API Key 1 is good. Then head over to our project. Back in our Codespaces project, first let's add our Azure AI key to the environment with the name AZURE_TOKEN. Say export AZURE_TOKEN.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=16)** They cannot and should not be used for live projects.
+> **[3:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=188)** Perfect. Next, let us change the authentication variables for our model. For the token, this will now point to our AZURE_TOKEN environment variable.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=21)** To move your project to production, you will need the [[Microsoft Azure|Azure]] AI service, which you can seamlessly switch to in your code, as will be seen along the course of this video.
->
-> **[0:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=31)** Azure AI allows you to deploy production-ready instances of numerous state-of-the-art models.
->
-> **[0:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=38)** It also generates the credentials for you to authenticate with your deployed models.
->
-> **[0:43](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=43)** So enough talk, let's get started on that.
->
-> **[0:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=47)** To begin, you first need an Azure AI account.
->
-> **[0:51](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=51)** So visit ai.[azure.com](https://azure.com) to set one up.
->
-> **[0:56](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=56)** You'll be prompted to add your billing details, which is necessary to run models for production purposes.
->
-> **[1:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=62)** Once your Azure AI account is set up, let's add back to our GitHub Models page at [github.com/marketplace/models](https://github.com/marketplace/models).
->
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=71)** On this page, let us click the dropdown and go for [[GPT-4|GPT-4o]] mini.
->
-> **[1:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=78)** On the Playground page, Let's now click the Use This Model button.
->
-> **[1:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=83)** In the previous video, this button had the label Get API Key.
->
-> **[1:28](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=88)** However, GitHub decided to change the label before this video was recorded.
->
-> **[1:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=93)** But don't worry, this button does exactly the same thing.
->
-> **[1:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=96)** So let's click it.
->
-> **[1:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=98)** At the top of the Getting Started section, where the first step is to create a personal token, instead of going for the free GitHub models, we'll be using Azure AI, which is a pay-as-you-go model.
->
-> **[1:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=109)** So let's click the Get Production Key button to get our key.
->
-> **[1:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=115)** This will automatically navigate us to the Azure AI portal where Azure Foundry then starts to set up a model deployment for us.
->
-> **[2:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=124)** Once Foundry is done, you'll see a Deploy button.
->
-> **[2:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=128)** Click that to complete the deployment process.
->
-> **[2:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=136)** Once the deployment is created, you'll then be taken to a page where you can see your service URL and credentials for working with your newly deployed Azure model.
->
-> **[2:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=145)** There's also a table where you can see your model deployments.
->
-> **[2:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=149)** Now we can take these credentials to our Codespaces project to use in our application.
->
-> **[2:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=158)** So first, I'm going to copy the API key.
->
-> **[2:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=160)** The API Key 1 is good.
->
-> **[2:42](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=162)** Then head over to our project.
->
-> **[2:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=166)** Back in our Codespaces project, first let's add our Azure AI key to the environment with the name AZURE_TOKEN.
->
-> **[2:56](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=176)** Say export AZURE_TOKEN.
->
-> **[3:08](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=188)** Perfect.
->
-> **[3:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=190)** Next, let us change the authentication variables for our model.
->
-> **[3:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=194)** For the token, this will now point to our AZURE_TOKEN environment variable.
->
-> **[3:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=205)** For our endpoint, let us get our service URL from the dashboard and also paste it in here.
->
-> **[3:34](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=214)** Copy our service URL, and replace this value with the new value.
->
-> **[3:45](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=225)** Awesome.
->
-> **[3:47](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=227)** Now let us run our code.
->
-> **[3:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=229)** Our prompt asks, "What is the capital of Egypt?"
->
-> **[3:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=234)** So let's see what we get from our newly deployed model.
->
-> **[4:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=240)** Let's come down here and run node prompt.js.
->
-> **[4:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=247)** Hit Enter, and it tells us "The capital of Egypt is Cairo."
->
-> **[4:16](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=256)** How amazing is that?
->
-> **[4:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=258)** Here we've been able to switch our code from using GitHub models, which are for experimental tasks, now to Azure AI, which is built for production.
+> **[3:25](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/using-github-models-in-live-projects?u=76281980&t=205)** For our endpoint, let us get our service URL from the dashboard and also paste it in here. Copy our service URL, and replace this value with the new value. Awesome. Now let us run our code. Our prompt asks, "What is the capital of Egypt?" So let's see what we get from our newly deployed model. Let's come down here and run node prompt.js. Hit Enter, and it tells us "The capital of Egypt is Cairo." How amazing is that? Here we've been able to switch our code from using GitHub models, which are for experimental tasks, now to Azure AI, which is built for production.
 
 > [!info]- Semantic Content
 >
@@ -2063,97 +627,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=0)** - [Instructor] One inconvenience to have as a developer [[Prototyping]] models is to be able to swap in different models to try out without having to change configurations or installing new SDKs.
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=0)** - [Instructor] One inconvenience to have as a developer [[Prototyping]] models is to be able to swap in different models to try out without having to change configurations or installing new SDKs. This is exactly what the [[Microsoft Azure|Azure]] Inference SDK that we saw in a previous video is for. The Azure AI Inference SDK is all purpose SDK that works for every model supported on .GitHubmodels. So let's go ahead and see how it works. This time let's pick a new model. Let's say Mistral Large 24.11. Now let's click get API key and this time, instead of using the Mistral AI SDK let's go for the Azure AI Inference SDK. Once, that is selected let's go to the dependency section. And here we going to cover the dependencies for the Azure Inference SDK which has these three packages. I've copied them. Go back to my codespace. And let's go to package.[[JSON]]. And paste them on our open AI dependency. Once we have these dependencies in package.json, let us install them by running [[npm]] install. No we are the terminal. Once these packages are installed, let us bring in the streaming example from the set up screen. Let's go down to streaming.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=11)** This is exactly what the [[Microsoft Azure|Azure]] Inference SDK that we saw in a previous video is for.
+> **[1:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=95)** Let's copy this and come back to our code. I'm going to create a new file, going to call it streaming.js. And paste in the code. Now in this code as you can see we're now using the Azure AI Inference SDK and we're also using the Mistral Large model. Let's scroll down to see the prompt. We also prompted the model for five good reasons why we should exercise every day. So let us see the code. Let us clear our terminal. And run it with node streaming.js.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=17)** The Azure AI Inference SDK is all purpose SDK that works for every model supported on .GitHubmodels.
+> **[2:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=143)** Now as expected, the output is streamed back to us and we're currently using the Mistral Large 24.11 model. Without any surprise our code runs fine. But here's where the magic happens. We can simply switch models in this code and run this same prompt using a totally different model. Let's do that. Let's say we want to change our model to one of the five models. So we come to the model name parameter and we switch this from Mistral to let's say Phi-3.5-mini. I spelled phi wrong. Phi-3.5-mini-instruct. So this is the new model we're going to be using. We want to see how the response from Mistral varies from the response from phi so let us save this. And now let's go back to the terminal. And once again, run our code. Node streaming.js. And see if everything works fine. As you can see now using the phi model we're getting a different type of response with the new model. Still streaming, still streaming.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=24)** So let's go ahead and see how it works.
->
-> **[0:27](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=27)** This time let's pick a new model.
->
-> **[0:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=29)** Let's say Mistral Large 24.11.
->
-> **[0:36](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=36)** Now let's click get API key and this time, instead of using the Mistral AI SDK let's go for the Azure AI Inference SDK.
->
-> **[0:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=46)** Once, that is selected let's go to the dependency section.
->
-> **[0:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=50)** And here we going to cover the dependencies for the Azure Inference SDK which has these three packages.
->
-> **[0:57](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=57)** I've copied them.
->
-> **[0:58](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=58)** Go back to my codespace.
->
-> **[1:03](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=63)** And let's go to package.[[JSON]].
->
-> **[1:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=66)** And paste them on our open AI dependency.
->
-> **[1:11](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=71)** Once we have these dependencies in package.json, let us install them by running [[npm]] install.
->
-> **[1:17](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=77)** No we are the terminal.
->
-> **[1:24](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=84)** Once these packages are installed, let us bring in the streaming example from the set up screen.
->
-> **[1:31](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=91)** Let's go down to streaming.
->
-> **[1:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=95)** Let's copy this and come back to our code.
->
-> **[1:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=101)** I'm going to create a new file, going to call it streaming.js.
->
-> **[1:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=109)** And paste in the code.
->
-> **[1:55](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=115)** Now in this code as you can see we're now using the Azure AI Inference SDK and we're also using the Mistral Large model.
->
-> **[2:02](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=122)** Let's scroll down to see the prompt.
->
-> **[2:05](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=125)** We also prompted the model for five good reasons why we should exercise every day.
->
-> **[2:09](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=129)** So let us see the code.
->
-> **[2:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=132)** Let us clear our terminal.
->
-> **[2:15](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=135)** And run it with node streaming.js.
->
-> **[2:23](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=143)** Now as expected, the output is streamed back to us and we're currently using the Mistral Large 24.11 model.
->
-> **[2:33](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=153)** Without any surprise our code runs fine.
->
-> **[2:37](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=157)** But here's where the magic happens.
->
-> **[2:39](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=159)** We can simply switch models in this code and run this same prompt using a totally different model.
->
-> **[2:46](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=166)** Let's do that.
->
-> **[2:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=170)** Let's say we want to change our model to one of the five models.
->
-> **[2:53](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=173)** So we come to the model name parameter and we switch this from Mistral to let's say Phi-3.5-mini.
->
-> **[3:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=187)** I spelled phi wrong.
->
-> **[3:10](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=190)** Phi-3.5-mini-instruct.
->
-> **[3:18](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=198)** So this is the new model we're going to be using.
->
-> **[3:20](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=200)** We want to see how the response from Mistral varies from the response from phi so let us save this.
->
-> **[3:29](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=209)** And now let's go back to the terminal.
->
-> **[3:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=212)** And once again, run our code.
->
-> **[3:35](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=215)** Node streaming.js.
->
-> **[3:38](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=218)** And see if everything works fine.
->
-> **[3:40](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=220)** As you can see now using the phi model we're getting a different type of response with the new model.
->
-> **[3:49](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=229)** Still streaming, still streaming.
->
-> **[3:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=239)** And finally we are five examples according to phi for why we should exercise everyday.
->
-> **[4:06](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=246)** We can keep switching models in this script or use different models in different scripts in this same project.
->
-> **[4:14](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=254)** Which means that with the Azure AI Inference SDK we have the ability to use different models in a single project without having to change SDKs.
+> **[3:59](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/working-with-different-models-in-a-project?u=76281980&t=239)** And finally we are five examples according to phi for why we should exercise everyday. We can keep switching models in this script or use different models in different scripts in this same project. Which means that with the Azure AI Inference SDK we have the ability to use different models in a single project without having to change SDKs.
 
 > [!info]- Semantic Content
 >
@@ -2175,27 +655,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=0)** - [Fikayo] Now that you have a good understanding of [[GitHub]] [[Codespaces]], there're a couple of recommendations to take your skills from good to great.
->
-> **[0:07](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=7)** GitHub Codespaces is a GitHub service and it heavily relies on GitHub workflows.
->
-> **[0:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=12)** So, if you want to take full advantage of Codespaces and your GitHub code management skills are still lacking then I advise you to take the GitHub Essential Training and [[Learning Git and GitHub]] courses from the [[LinkedIn]] Library.
->
-> **[0:26](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=26)** To take full advantage of the Codespaces Editor, having strong Visual Studio skills is essential.
->
-> **[0:32](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=32)** To level up your VS Code skills, check out our Visual Studio Code Productivity Tips course, also here on the LinkedIn Learning Library.
->
-> **[0:41](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=41)** Finally, if you want to fully understand the Codespace environment and configure it to your preference you need to have a good knowledge of Docker.
->
-> **[0:50](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=50)** And as you have guessed, we have a Docker course for that also.
->
-> **[0:54](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=54)** our Learning Docker and Docker for Developers course will take you from zero to mastery in no time.
->
-> **[1:01](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=61)** You can also connect with me through social media.
->
-> **[1:04](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=64)** I am very active on Twitter via the Twitter handle displayed on your screen, and you can also find me on LinkedIn using my name.
->
-> **[1:12](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=72)** Happy coding!
+> **[0:00](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise/next-steps?u=76281980&t=0)** - [Fikayo] Now that you have a good understanding of [[GitHub]] [[Codespaces]], there're a couple of recommendations to take your skills from good to great. GitHub Codespaces is a GitHub service and it heavily relies on GitHub workflows. So, if you want to take full advantage of Codespaces and your GitHub code management skills are still lacking then I advise you to take the GitHub Essential Training and [[Learning Git and GitHub]] courses from the [[LinkedIn]] Library. To take full advantage of the Codespaces Editor, having strong Visual Studio skills is essential. To level up your VS Code skills, check out our Visual Studio Code Productivity Tips course, also here on the LinkedIn Learning Library. Finally, if you want to fully understand the Codespace environment and configure it to your preference you need to have a good knowledge of Docker. And as you have guessed, we have a Docker course for that also. our Learning Docker and Docker for Developers course will take you from zero to mastery in no time. You can also connect with me through social media. I am very active on Twitter via the Twitter handle displayed on your screen, and you can also find me on LinkedIn using my name. Happy coding!
 
 > [!info]- Semantic Content
 >

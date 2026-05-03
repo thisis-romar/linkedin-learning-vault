@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/data-science
@@ -59,7 +59,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Moving%20from%20Data%20Scientist%20to%20Data%20Analyst.md)

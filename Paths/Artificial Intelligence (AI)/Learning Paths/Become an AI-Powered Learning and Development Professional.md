@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/become-an-ai-powered-learning-and-d
 course_count: 5
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 1
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Become%20an%20AI-Powered%20Learning%20and%20Development%20Professional.md)

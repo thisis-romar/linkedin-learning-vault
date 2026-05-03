@@ -9,7 +9,7 @@ level_advanced: 3
 tags:
   - skill
   - skill/apache-kafka
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Apache%20Kafka.md)

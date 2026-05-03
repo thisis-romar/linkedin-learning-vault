@@ -9,7 +9,7 @@ level_advanced: 1
 tags:
   - skill
   - skill/programmable-logic-controller-plc
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Programmable%20Logic%20Controller%20(PLC).md)

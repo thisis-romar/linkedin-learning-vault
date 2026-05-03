@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/devops
@@ -35,7 +35,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Essential%20New%20Skills%20in%20Software%20Engineering.md)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/linkedin-s-2025-top-mba-programs-le
 course_count: 10
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/data-science
@@ -57,7 +57,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-05-02'
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/LinkedIn%E2%80%99s%202025%20Top%20MBA%20Programs%20Learning%20Path.md)

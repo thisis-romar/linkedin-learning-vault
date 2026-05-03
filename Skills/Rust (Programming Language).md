@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/rust-programming-language
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Rust%20(Programming%20Language).md)

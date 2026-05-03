@@ -30,7 +30,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Welcome%20To%20The%20Building%20Ai%20Products%20Security%20Essentials%20Professional%20Certificate.md)
@@ -59,21 +59,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=0)** - Welcome to the Building AI [[Microsoft Products|Products]]: Security Essentials Learning Path.
->
-> **[0:04](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=4)** As AI transforms every industry, new threats are emerging, and technical leaders must adapt to new challenges in building and scaling secure AI products.
->
-> **[0:13](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=13)** Traditional boundaries are evolving.
->
-> **[0:16](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=16)** Tasks once exclusive to machine learning engineers may now be handled by software developers or data analysts.
->
-> **[0:22](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=22)** This shift demands a comprehensive understanding of [[Responsible AI]] development, deployment, and security.
->
-> **[0:30](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=30)** This learning path covers building and deploying secure AI systems, critical security considerations unique to AI, effective governance and security of AI data, and implementing AI defenses and responding to AI incidents.
->
-> **[0:45](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=45)** Complete all courses and pass the final exam to earn your professional certificate, which you can showcase on your [[LinkedIn]] profile.
->
-> **[0:52](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=52)** Let's begin building your expertise in AI [[Product Security]].
+> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980&t=0)** - Welcome to the Building AI [[Microsoft Products|Products]]: Security Essentials Learning Path. As AI transforms every industry, new threats are emerging, and technical leaders must adapt to new challenges in building and scaling secure AI products. Traditional boundaries are evolving. Tasks once exclusive to machine learning engineers may now be handled by software developers or data analysts. This shift demands a comprehensive understanding of [[Responsible AI]] development, deployment, and security. This learning path covers building and deploying secure AI systems, critical security considerations unique to AI, effective governance and security of AI data, and implementing AI defenses and responding to AI incidents. Complete all courses and pass the final exam to earn your professional certificate, which you can showcase on your [[LinkedIn]] profile. Let's begin building your expertise in AI [[Product Security]].
 
 > [!info]- Semantic Content
 >

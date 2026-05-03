@@ -9,7 +9,7 @@ level_advanced: 2
 tags:
   - skill
   - skill/identity-and-access-management-iam
-created: 2026-05-02
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Identity%20and%20Access%20Management%20(IAM).md)
