@@ -7,7 +7,7 @@ course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 9
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/artificial-intelligence

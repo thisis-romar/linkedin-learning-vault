@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-excel-skills
 course_count: 3
 linkedin_topics:
   - Data Science
-louvain_cluster: 9
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/data-science

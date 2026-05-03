@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Cybersecurity
   - Data Science
-louvain_cluster: 7
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/security

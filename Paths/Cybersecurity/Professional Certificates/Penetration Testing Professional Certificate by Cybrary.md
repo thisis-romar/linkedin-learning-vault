@@ -11,7 +11,7 @@ tags:
   - professional-certificate
   - topic/security
   - status/in-progress
-last_activity: 2026-05-02T21:01:25.503Z
+last_activity: 2026-05-03T17:01:45.281Z
 activity_total: 1
 courses_visited: 1
 videos_visited: 0

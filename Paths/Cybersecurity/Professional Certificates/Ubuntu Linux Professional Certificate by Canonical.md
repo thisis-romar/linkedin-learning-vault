@@ -16,12 +16,12 @@ tags:
   - topic/it-help-desk
   - topic/network-and-system-administration
   - topic/web-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T17:02:25.102Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
   - course: '[[Learning Linux Command Line (2023)]]'
     last_opened: null

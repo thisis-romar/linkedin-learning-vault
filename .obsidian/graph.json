@@ -121,6 +121,13 @@
       }
     },
     {
+      "query": "path:\"Skills/Artificial Intelligence (AI)\"",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
       "query": "path:\"Paths/Cloud Computing\"",
       "color": {
         "a": 1,
@@ -136,6 +143,13 @@
     },
     {
       "query": "path:\"Instructors/Cloud Computing\"",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "path:\"Skills/Cloud Computing\"",
       "color": {
         "a": 1,
         "rgb": 15896107
@@ -163,6 +177,13 @@
       }
     },
     {
+      "query": "path:\"Skills/Cybersecurity\"",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
       "query": "path:\"Paths/Data Science\"",
       "color": {
         "a": 1,
@@ -178,6 +199,13 @@
     },
     {
       "query": "path:\"Instructors/Data Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 7780274
+      }
+    },
+    {
+      "query": "path:\"Skills/Data Science\"",
       "color": {
         "a": 1,
         "rgb": 7780274
@@ -205,6 +233,13 @@
       }
     },
     {
+      "query": "path:\"Skills/Database Management\"",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
       "query": "path:\"Paths/DevOps\"",
       "color": {
         "a": 1,
@@ -220,6 +255,13 @@
     },
     {
       "query": "path:\"Instructors/DevOps\"",
+      "color": {
+        "a": 1,
+        "rgb": 15583560
+      }
+    },
+    {
+      "query": "path:\"Skills/DevOps\"",
       "color": {
         "a": 1,
         "rgb": 15583560
@@ -247,6 +289,13 @@
       }
     },
     {
+      "query": "path:\"Skills/Hardware\"",
+      "color": {
+        "a": 1,
+        "rgb": 11565729
+      }
+    },
+    {
       "query": "path:\"Paths/IT Help Desk\"",
       "color": {
         "a": 1,
@@ -262,6 +311,13 @@
     },
     {
       "query": "path:\"Instructors/IT Help Desk\"",
+      "color": {
+        "a": 1,
+        "rgb": 16752039
+      }
+    },
+    {
+      "query": "path:\"Skills/IT Help Desk\"",
       "color": {
         "a": 1,
         "rgb": 16752039
@@ -289,6 +345,13 @@
       }
     },
     {
+      "query": "path:\"Skills/Mobile Development\"",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
       "query": "path:\"Paths/Network and System Administration\"",
       "color": {
         "a": 1,
@@ -304,6 +367,13 @@
     },
     {
       "query": "path:\"Instructors/Network and System Administration\"",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    },
+    {
+      "query": "path:\"Skills/Network and System Administration\"",
       "color": {
         "a": 1,
         "rgb": 12234924
@@ -331,6 +401,13 @@
       }
     },
     {
+      "query": "path:\"Skills/Software Development\"",
+      "color": {
+        "a": 1,
+        "rgb": 8830134
+      }
+    },
+    {
       "query": "path:\"Paths/Web Development\"",
       "color": {
         "a": 1,
@@ -346,6 +423,13 @@
     },
     {
       "query": "path:\"Instructors/Web Development\"",
+      "color": {
+        "a": 1,
+        "rgb": 9228669
+      }
+    },
+    {
+      "query": "path:\"Skills/Web Development\"",
       "color": {
         "a": 1,
         "rgb": 9228669

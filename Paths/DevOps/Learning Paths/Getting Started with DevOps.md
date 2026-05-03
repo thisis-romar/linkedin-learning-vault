@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-devops
 course_count: 5
 linkedin_topics:
   - DevOps
-louvain_cluster: 5
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops

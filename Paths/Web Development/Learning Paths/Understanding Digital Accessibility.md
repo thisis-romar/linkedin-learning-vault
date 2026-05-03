@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/understanding-digital-accessibility
 course_count: 5
 linkedin_topics:
   - Web Development
-louvain_cluster: 7
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/web-development

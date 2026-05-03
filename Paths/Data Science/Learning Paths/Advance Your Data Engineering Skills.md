@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - Data Science
   - DevOps
-louvain_cluster: 8
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/data-science

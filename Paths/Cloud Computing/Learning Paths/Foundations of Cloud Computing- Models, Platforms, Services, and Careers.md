@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/foundations-of-cloud-computing-mode
 course_count: 9
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 6
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/cloud-computing

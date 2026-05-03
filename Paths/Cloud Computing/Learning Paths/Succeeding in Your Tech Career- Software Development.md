@@ -9,7 +9,7 @@ linkedin_topics:
   - Cybersecurity
   - Data Science
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/cloud-computing
