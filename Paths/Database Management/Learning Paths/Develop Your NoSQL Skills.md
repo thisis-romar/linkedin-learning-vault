@@ -7,59 +7,63 @@ course_count: 10
 linkedin_topics:
   - Database Management
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/database-management
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T22:30:08.047Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[Introduction To Nosql]]'
-    last_opened: null
+  - course: "[[Introduction To Nosql]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[NoSQL Essential Training]]'
-    last_opened: null
+  - course: "[[NoSQL Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Learning MongoDB]]'
-    last_opened: null
+  - course: "[[Learning MongoDB]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Introduction to Neo4j]]'
-    last_opened: null
+  - course: "[[Introduction to Neo4j]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Graph Databases- Neo4j for Complex Data Relationships]]'
-    last_opened: null
+  - course: "[[Graph Databases- Neo4j for Complex Data Relationships]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Redis Essential Training]]'
-    last_opened: null
+  - course: "[[Redis Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Introduction to Couchbase]]'
-    last_opened: null
+  - course: "[[Introduction to Couchbase]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Elasticsearch Essential Training (2023)]]'
-    last_opened: null
+  - course: "[[Elasticsearch Essential Training (2023)]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Elasticsearch in Depth]]'
-    last_opened: null
+  - course: "[[Elasticsearch in Depth]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Cloud NoSQL for SQL Professionals]]'
-    last_opened: null
+  - course: "[[Cloud NoSQL for SQL Professionals]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-05-03'
+  - course: introduction-to-nosql
+    last_opened: 2026-05-03T22:30:08.047Z
+    open_count: 1
+    videos: []
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Database%20Management/Learning%20Paths/Develop%20Your%20NoSQL%20Skills.md)

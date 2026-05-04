@@ -6,50 +6,54 @@ url: https://www.linkedin.com/learning/paths/infrastructure-management-on-micros
 course_count: 8
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 7
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/cloud-computing
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T23:56:46.365Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[Azure Administration Essential Training]]'
-    last_opened: null
+  - course: "[[Azure Administration Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Manage Virtual Machines in Azure]]'
-    last_opened: null
+  - course: "[[Manage Virtual Machines in Azure]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Microsoft Azure- Security Concepts]]'
-    last_opened: null
+  - course: "[[Microsoft Azure- Security Concepts]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Planning for Microsoft Entra ID]]'
-    last_opened: null
+  - course: "[[Planning for Microsoft Entra ID]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Deploying Microsoft Entra ID]]'
-    last_opened: null
+  - course: "[[Deploying Microsoft Entra ID]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Microsoft Azure- Networking Concepts]]'
-    last_opened: null
+  - course: "[[Microsoft Azure- Networking Concepts]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Manage Storage in Azure]]'
-    last_opened: null
+  - course: "[[Manage Storage in Azure]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Controlling Cost with Azure Management and Billing]]'
-    last_opened: null
+  - course: "[[Controlling Cost with Azure Management and Billing]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-05-03'
+  - course: manage-virtual-machines-in-azure
+    last_opened: 2026-05-03T23:56:46.365Z
+    open_count: 1
+    videos: []
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Infrastructure%20Management%20on%20Microsoft%20Azure-%20Top%20Skills%20for%20IT%20Professionals.md)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-as-a-user-exper
 course_count: 7
 linkedin_topics:
   - Web Development
-louvain_cluster: 9
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/web-development

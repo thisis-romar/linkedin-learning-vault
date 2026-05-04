@@ -8,7 +8,7 @@ linkedin_topics:
   - DevOps
   - IT Help Desk
   - Network and System Administration
-louvain_cluster: 7
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/devops

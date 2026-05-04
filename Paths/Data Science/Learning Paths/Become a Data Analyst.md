@@ -10,62 +10,66 @@ louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T22:05:29.180Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[The Non Technical Skills Of Effective Data Scientists]]'
-    last_opened: null
+  - course: "[[The Non Technical Skills Of Effective Data Scientists]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Learning Excel- Data Analysis]]'
-    last_opened: null
+  - course: "[[Learning Excel- Data Analysis]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Data Literacy Exploring And Describing Data In An Ai World]]'
-    last_opened: null
+  - course: "[[Data Literacy Exploring And Describing Data In An Ai World]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Learning Data Analytics- 1 Foundations]]'
-    last_opened: null
+  - course: "[[Learning Data Analytics- 1 Foundations]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
-    last_opened: null
+  - course: "[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Predictive Analytics Essential Training- Data Mining]]'
-    last_opened: null
+  - course: "[[Predictive Analytics Essential Training- Data Mining]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Power Bi Essential Training]]'
-    last_opened: null
+  - course: "[[Power Bi Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Learning Data Visualization]]'
-    last_opened: null
+  - course: "[[Learning Data Visualization]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Tableau 2024.1- Essential Training]]'
-    last_opened: null
+  - course: "[[Tableau 2024.1- Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[SQL- Data Reporting and Analysis]]'
-    last_opened: null
+  - course: "[[SQL- Data Reporting and Analysis]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Complete Guide To R Wrangling Visualizing And Modeling Data]]'
-    last_opened: null
+  - course: "[[Complete Guide To R Wrangling Visualizing And Modeling Data]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Data Cleaning in Python Essential Training]]'
-    last_opened: null
+  - course: "[[Data Cleaning in Python Essential Training]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-05-03'
+  - course: complete-guide-to-r-wrangling-visualizing-and-modeling-data
+    last_opened: 2026-05-03T22:05:29.180Z
+    open_count: 1
+    videos: []
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Analyst.md)

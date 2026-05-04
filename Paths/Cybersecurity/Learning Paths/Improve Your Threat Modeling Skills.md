@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/improve-your-threat-modeling-skills
 course_count: 6
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/security

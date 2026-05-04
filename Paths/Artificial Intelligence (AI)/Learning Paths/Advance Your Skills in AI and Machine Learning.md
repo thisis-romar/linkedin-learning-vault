@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/advance-your-skills-in-ai-and-machi
 course_count: 16
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 4
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/artificial-intelligence

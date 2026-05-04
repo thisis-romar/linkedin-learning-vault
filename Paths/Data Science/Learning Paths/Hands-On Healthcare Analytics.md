@@ -16,46 +16,50 @@ tags:
   - topic/devops
   - topic/network-and-system-administration
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T22:27:59.506Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[The Data Science Of Healthcare Medicine And Public Health]]'
-    last_opened: null
+  - course: "[[The Data Science Of Healthcare Medicine And Public Health]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Excel for Healthcare- Practical Applications and Skills]]'
-    last_opened: null
+  - course: "[[Excel for Healthcare- Practical Applications and Skills]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Python for Health Sciences and Healthcare]]'
-    last_opened: null
+  - course: "[[Python for Health Sciences and Healthcare]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Python Data Analysis for Healthcare]]'
-    last_opened: null
+  - course: "[[Python Data Analysis for Healthcare]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[SQL for Healthcare Professionals]]'
-    last_opened: null
+  - course: "[[SQL for Healthcare Professionals]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Descriptive Healthcare Analytics in R]]'
-    last_opened: null
+  - course: "[[Descriptive Healthcare Analytics in R]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Machine Learning Fundamentals for Healthcare]]'
-    last_opened: null
+  - course: "[[Machine Learning Fundamentals for Healthcare]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Hands-on Data Science and AI for Healthcare]]'
-    last_opened: null
+  - course: "[[Hands-on Data Science and AI for Healthcare]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-05-03'
+  - course: python-data-analysis-for-healthcare
+    last_opened: 2026-05-03T22:27:59.506Z
+    open_count: 1
+    videos: []
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Hands-On%20Healthcare%20Analytics.md)

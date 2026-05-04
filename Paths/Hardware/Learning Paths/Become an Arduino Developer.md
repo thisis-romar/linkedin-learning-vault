@@ -8,7 +8,7 @@ linkedin_topics:
   - Hardware
   - Network and System Administration
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 11
 tags:
   - learning-path
   - topic/hardware

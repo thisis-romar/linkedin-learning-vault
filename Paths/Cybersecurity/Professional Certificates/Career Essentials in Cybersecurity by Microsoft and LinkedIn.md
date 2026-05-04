@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/career-essentials-in-cybersecurity-
 course_count: 4
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/security

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/prepare-for-the-excel-associate-mic
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 10
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/data-science

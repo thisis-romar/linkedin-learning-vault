@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/master-the-owasp-top-10
 course_count: 6
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/security

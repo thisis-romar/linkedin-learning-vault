@@ -7,51 +7,55 @@ course_count: 8
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 13
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T22:05:29.180Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[Complete Guide To R Wrangling Visualizing And Modeling Data]]'
-    last_opened: null
+  - course: "[[Complete Guide To R Wrangling Visualizing And Modeling Data]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Complete Your First Project in R]]'
-    last_opened: null
+  - course: "[[Complete Your First Project in R]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[R for Data Science- Analysis and Visualization]]'
-    last_opened: null
+  - course: "[[R for Data Science- Analysis and Visualization]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[R Code Challenges- Data Science]]'
-    last_opened: null
+  - course: "[[R Code Challenges- Data Science]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Learning the R Tidyverse]]'
-    last_opened: null
+  - course: "[[Learning the R Tidyverse]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[R Tidyverse Applications]]'
-    last_opened: null
+  - course: "[[R Tidyverse Applications]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Creating Maps with R]]'
-    last_opened: null
+  - course: "[[Creating Maps with R]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Build Advanced Charts in R]]'
-    last_opened: null
+  - course: "[[Build Advanced Charts in R]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-05-03'
+  - course: complete-guide-to-r-wrangling-visualizing-and-modeling-data
+    last_opened: 2026-05-03T22:05:29.180Z
+    open_count: 1
+    videos: []
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20R.md)

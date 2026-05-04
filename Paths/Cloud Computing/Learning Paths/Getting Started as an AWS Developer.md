@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - Cloud Computing
   - Cybersecurity
-louvain_cluster: 7
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/cloud-computing

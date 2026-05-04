@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/data-science
@@ -19,35 +19,31 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Data Engineering Foundations]]"
-    last_opened:
+  - course: '[[Data Engineering Foundations]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Hands-On Introduction- Data Engineering]]"
-    last_opened:
+  - course: '[[Hands-On Introduction- Data Engineering]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Hands-On Introduction- Scala]]"
-    last_opened:
+  - course: '[[Hands-On Introduction- Scala]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Scala Essential Training]]"
-    last_opened:
+  - course: '[[Scala Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Coding Exercises- Scala]]"
-    last_opened:
+  - course: '[[Coding Exercises- Scala]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[End-to-End Data Engineering Project]]"
-    last_opened:
+  - course: '[[End-to-End Data Engineering Project]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: data-engineering-foundations
-    last_opened: 2026-05-03T18:55:36.430Z
-    open_count: 1
-    videos: []
-created: 2026-05-03
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Develop%20Your%20Scala%20Skills%20for%20Data%20Engineering.md)

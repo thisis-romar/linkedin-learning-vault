@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/working-smarter-with-microsoft-365
 course_count: 9
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 10
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing

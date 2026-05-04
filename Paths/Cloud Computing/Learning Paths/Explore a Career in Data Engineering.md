@@ -9,7 +9,7 @@ linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing
@@ -23,39 +23,35 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Data Engineering Foundations]]"
-    last_opened:
+  - course: '[[Data Engineering Foundations]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Hands-On Introduction- Data Engineering]]"
-    last_opened:
+  - course: '[[Hands-On Introduction- Data Engineering]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Introduction to Data Warehouses]]"
-    last_opened:
+  - course: '[[Introduction to Data Warehouses]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Learning SnowflakeDB]]"
-    last_opened:
+  - course: '[[Learning SnowflakeDB]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[PySpark Essential Training- Introduction to Building Data Pipelines]]"
-    last_opened:
+  - course: '[[PySpark Essential Training- Introduction to Building Data Pipelines]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Apache Kafka Essential Training- Getting Started]]"
-    last_opened:
+  - course: '[[Apache Kafka Essential Training- Getting Started]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Transition from Data Science to Data Engineering]]"
-    last_opened:
+  - course: '[[Transition from Data Science to Data Engineering]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: data-engineering-foundations
-    last_opened: 2026-05-03T18:55:36.430Z
-    open_count: 1
-    videos: []
-created: 2026-05-03
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Explore%20a%20Career%20in%20Data%20Engineering.md)

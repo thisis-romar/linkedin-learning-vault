@@ -14,34 +14,38 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-03T22:27:59.506Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
-  - course: '[[Python for Health Sciences and Healthcare]]'
-    last_opened: null
+  - course: "[[Python for Health Sciences and Healthcare]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Python Data Analysis for Healthcare]]'
-    last_opened: null
+  - course: "[[Python Data Analysis for Healthcare]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Hands-on Data Science and AI for Healthcare]]'
-    last_opened: null
+  - course: "[[Hands-on Data Science and AI for Healthcare]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[An Introduction to How Generative AI Will Transform Healthcare]]'
-    last_opened: null
+  - course: "[[An Introduction to How Generative AI Will Transform Healthcare]]"
+    last_opened:
     open_count: 0
     videos: []
-  - course: '[[Machine Learning Fundamentals for Healthcare]]'
-    last_opened: null
+  - course: "[[Machine Learning Fundamentals for Healthcare]]"
+    last_opened:
     open_count: 0
     videos: []
-created: '2026-05-03'
+  - course: python-data-analysis-for-healthcare
+    last_opened: 2026-05-03T22:27:59.506Z
+    open_count: 1
+    videos: []
+created: 2026-05-03
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Python%20for%20Data%20Professionals%20in%20Healthcare.md)

@@ -8,7 +8,7 @@ linkedin_topics:
   - Cloud Computing
   - Data Science
   - Database Management
-louvain_cluster: 5
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/cloud-computing

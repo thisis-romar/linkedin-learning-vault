@@ -101,5 +101,5 @@ CSS classes per note type (via cssclasses frontmatter):
 - 916 skills
 - 12 LinkedIn official topics
 - 2481 path-to-course links
-- CSS snippets: timestamps.css (timestamp styling), note-types.css (type banners + accents), graph-view.css (graph edge/node contrast)
+- CSS snippets: timestamps.css (timestamp styling), note-types.css (type banners + accents), graph-view.css (graph edge/node contrast), tag-colors.css (tag pill colors by topic/type/status)
 - Custom plugin: lle-progress (automatic per-video engagement tracking in path notes)

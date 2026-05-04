@@ -17,35 +17,31 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Learning Kubernetes]]"
-    last_opened:
+  - course: '[[Learning Kubernetes]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Kubernetes- Your First Project (2021)]]"
-    last_opened:
+  - course: '[[Kubernetes- Your First Project (2021)]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Kubernetes- Essential Tools]]"
-    last_opened:
+  - course: '[[Kubernetes- Essential Tools]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Kubernetes- Microservices]]"
-    last_opened:
+  - course: '[[Kubernetes- Microservices]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Kubernetes- Cloud Native Ecosystem]]"
-    last_opened:
+  - course: '[[Kubernetes- Cloud Native Ecosystem]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Securing Containers and Kubernetes Ecosystem]]"
-    last_opened:
+  - course: '[[Securing Containers and Kubernetes Ecosystem]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: kubernetes-cloud-native-ecosystem-14444671
-    last_opened: 2026-05-03T18:54:49.315Z
-    open_count: 1
-    videos: []
-created: 2026-05-03
+created: '2026-05-03'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20Kubernetes.md)

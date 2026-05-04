@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/become-a-penetration-tester
 course_count: 8
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/security

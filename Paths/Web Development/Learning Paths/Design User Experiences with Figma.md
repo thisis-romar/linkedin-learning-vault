@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/design-user-experiences-with-figma
 course_count: 6
 linkedin_topics:
   - Web Development
-louvain_cluster: 9
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/web-development

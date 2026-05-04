@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Cloud Computing
   - Network and System Administration
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/cloud-computing

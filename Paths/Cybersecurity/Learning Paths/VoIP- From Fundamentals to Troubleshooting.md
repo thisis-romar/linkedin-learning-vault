@@ -7,7 +7,7 @@ course_count: 3
 linkedin_topics:
   - Cybersecurity
   - Network and System Administration
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/security

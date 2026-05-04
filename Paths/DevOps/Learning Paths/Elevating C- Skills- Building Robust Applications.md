@@ -8,7 +8,7 @@ linkedin_topics:
   - DevOps
   - Mobile Development
   - Software Development
-louvain_cluster: 14
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/devops

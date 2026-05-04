@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/software-development-fundamentals
 course_count: 10
 linkedin_topics:
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/software-development

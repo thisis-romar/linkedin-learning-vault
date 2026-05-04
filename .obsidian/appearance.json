@@ -2,6 +2,7 @@
   "enabledCssSnippets": [
     "timestamps",
     "note-types",
-    "graph-view"
+    "graph-view",
+    "tag-colors"
   ]
 }

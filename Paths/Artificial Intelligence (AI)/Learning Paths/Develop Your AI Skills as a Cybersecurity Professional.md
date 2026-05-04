@@ -7,7 +7,7 @@ course_count: 8
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Cybersecurity
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence
