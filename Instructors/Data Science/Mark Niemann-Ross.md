@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Complete Guide to NLP with R]]
-- [[R Code Challenges- Data Science]]
+- [Complete Guide to NLP with R](../../Courses/Data%20Science/Complete%20Guide%20to%20NLP%20with%20R.md)
+- [R Code Challenges- Data Science](../../Courses/Data%20Science/R%20Code%20Challenges-%20Data%20Science.md)

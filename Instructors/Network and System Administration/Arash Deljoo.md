@@ -20,6 +20,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[MPLS L3VPN Foundation and Implementation]]
-- [[MPLS- Traffic Engineering]]
-- [[MPLS Segment Routing]]
+- [MPLS L3VPN Foundation and Implementation](../../Courses/Network%20and%20System%20Administration/MPLS%20L3VPN%20Foundation%20and%20Implementation.md)
+- [MPLS- Traffic Engineering](../../Courses/Network%20and%20System%20Administration/MPLS-%20Traffic%20Engineering.md)
+- [MPLS Segment Routing](../../Courses/Network%20and%20System%20Administration/MPLS%20Segment%20Routing.md)

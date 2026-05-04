@@ -22,15 +22,15 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Critical Thinking]] — 1h 9m · 662,872 learners
-- [[Sharpen Your Decision-Making with Nuanced Thinking Techniques]] — 50m · 197,178 learners
-- [[Investing in Human Skills in the Age of AI]] — 24m · 86,365 learners
-- [[Inside The Mind Of An Aspiring Data Scientist]] — Beginner · 47,462 learners
+- [Critical Thinking](Critical%20Thinking.md) — 1h 9m · 662,872 learners
+- [Sharpen Your Decision-Making with Nuanced Thinking Techniques](../../Courses/Data%20Science/Sharpen%20Your%20Decision-Making%20with%20Nuanced%20Thinking%20Techniques.md) — 50m · 197,178 learners
+- [Investing in Human Skills in the Age of AI](../../Courses/Artificial%20Intelligence%20(AI)/Investing%20in%20Human%20Skills%20in%20the%20Age%20of%20AI.md) — 24m · 86,365 learners
+- [Inside The Mind Of An Aspiring Data Scientist](../../Courses/Cloud%20Computing/Inside%20The%20Mind%20Of%20An%20Aspiring%20Data%20Scientist.md) — Beginner · 47,462 learners
 
 ## Related Skills
 
-- [[Decision-Making]] — 2 shared courses
-- [[Emotional Intelligence]] — 1 shared course
-- [[Interpersonal Skills]] — 1 shared course
-- [[Data Science]] — 1 shared course
-- [[Thinking Skills]] — 1 shared course
+- [Decision-Making](Decision-Making.md) — 2 shared courses
+- [Emotional Intelligence](Emotional%20Intelligence.md) — 1 shared course
+- [Interpersonal Skills](../Artificial%20Intelligence%20(AI)/Interpersonal%20Skills.md) — 1 shared course
+- [Data Science](../../Topics/Data%20Science.md) — 1 shared course
+- [Thinking Skills](Thinking%20Skills.md) — 1 shared course

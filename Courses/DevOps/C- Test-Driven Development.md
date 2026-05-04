@@ -17,11 +17,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQHer6AaKu2izw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1632339054345?e=2147483647&amp;v=beta&amp;t=PAsefRZzFZKcfhCMxSynhTP9lh2Eqox3FO8f_RPaLRY"
 linkedin_topic: DevOps
 learning_paths:
-  - '[[Elevating C- Skills- Building Robust Applications]]'
+  - '[Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)'
 prev_courses:
-  - '[[C- Interfaces and Generics]]'
+  - '[C- Interfaces and Generics](../Software%20Development/C-%20Interfaces%20and%20Generics.md)'
 next_courses:
-  - '[[C- Exception and Error Handling]]'
+  - '[C- Exception and Error Handling](C-%20Exception%20and%20Error%20Handling.md)'
 path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":4,"total":8,"prev":"C- Interfaces and Generics","next":"C- Exception and Error Handling"}]'
 path_count: 1
 tags:
@@ -87,11 +87,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980&t=0)** - [Instructor] High quality software is one key factor to success. A common approach to achieve this is to use testing, but the later you test, the more effort it requires to fix any issues that might have been introduced months ago. Test run development or TDD uses a different process. First, you create the test, and then you write the code. In my [[LinkedIn]] Learning course, I will show you how to use TDD with .NET and C#. After taking a close look at the TDD process, we will use Visual Studio to create, and run tests using NUnit as our testing framework of choice. We will also look at more complex scenarios, such as testing web applications and APIs, and replacing database objects during a test. Don't worry. For each step on the way, I'll show you exactly what needs to be done. You will see how TDD works, and how you can use it for your .NET applications. My name is Christian Wenz. I started with .NET in 2000 when it was still in Beader, and never looked back. Join me in Test Driven Development with C#. Let's get started.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980&t=0)** - [Instructor] High quality software is one key factor to success. A common approach to achieve this is to use testing, but the later you test, the more effort it requires to fix any issues that might have been introduced months ago. Test run development or TDD uses a different process. First, you create the test, and then you write the code. In my [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course, I will show you how to use TDD with .NET and C#. After taking a close look at the TDD process, we will use Visual Studio to create, and run tests using NUnit as our testing framework of choice. We will also look at more complex scenarios, such as testing web applications and APIs, and replacing database objects during a test. Don't worry. For each step on the way, I'll show you exactly what needs to be done. You will see how TDD works, and how you can use it for your .NET applications. My name is Christian Wenz. I started with .NET in 2000 when it was still in Beader, and never looked back. Join me in Test Driven Development with C#. Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Env Vars:** tdd (4), net (3)
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
@@ -103,13 +103,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=0)** - [Instructor] This course does have a few prerequisites. I'll try to be as inclusive as possible and I will also explain vital steps. But still, there are a few things that you should know. First of all, with regards to .NET, it's paramount that you're using a version that's still under support. This obviously depends on when you're watching this course, but just remember that the last even .NET releases had three years of support. The odd ones got about one and a half. For instance, .NET 7 was released in November, 2022 and has, or had, support until some point in May, 2024. .NET 8 is from November, 2023 and will receive updates 'till November, 2026. Everything in this course was tested down to .NET 5, which has already expired. I'm also confident that nothing significant will change in the coming versions of .NET. Also, C# is the language we will be using. If you prefer, say, Visual Basic or F#, you still should be able to follow along, but all of the code samples will be in C#. and then, there are also a few other technologies that we'll touch upon in select parts of this course. We will be working with Entity Framework Core
 >
-> **[1:34](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=94)** for database access a little bit later. But don't worry if you haven't used that before. You will still be able to follow along, but of course it's beneficial if you have already had some exposure to Entity Framework Core. Also, we will be talking about testing web applications, so knowledge of [ASP.NET](https://ASP.NET) Core, especially [API.NET](https://API.NET) Core MVC is beneficial. Having seen web APIs is helpful too. Then, from a [[Software Development]] point of view, we'll be using an IDE to develop our applications and to work with the demos. Visual Studio is the IDE of choice as it's a fully fledged IDE that [[Microsoft]] provides. The Community edition, which is free If you meet some prerequisites, please check it out on the Visual Studio website, is good enough for everything we cover in this course. If you have another edition of Visual Studio at your disposal, that of course works as well. The latest version of Visual Studio is 2022. But 2019 works as well, and I have no doubt that future versions will be compatible as well. Of course, you could also use Visual Studio Code if that's what you prefer.
+> **[1:34](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=94)** for database access a little bit later. But don't worry if you haven't used that before. You will still be able to follow along, but of course it's beneficial if you have already had some exposure to Entity Framework Core. Also, we will be talking about testing web applications, so knowledge of [ASP.NET](https://ASP.NET) Core, especially [API.NET](https://API.NET) Core MVC is beneficial. Having seen web APIs is helpful too. Then, from a [Software Development](../../Topics/Software%20Development.md) point of view, we'll be using an IDE to develop our applications and to work with the demos. Visual Studio is the IDE of choice as it's a fully fledged IDE that [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) provides. The Community edition, which is free If you meet some prerequisites, please check it out on the Visual Studio website, is good enough for everything we cover in this course. If you have another edition of Visual Studio at your disposal, that of course works as well. The latest version of Visual Studio is 2022. But 2019 works as well, and I have no doubt that future versions will be compatible as well. Of course, you could also use Visual Studio Code if that's what you prefer.
 >
 > **[3:06](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=186)** It's free, yet very powerful, and it's also cross-platform. I think that's an important aspect in general. However, many of the UI aspects of TDD, test driven development, are implemented right away in Visual Studio and are not available in Visual Studio Code, at least not out of the box. That's why we have chosen Visual Studio, and I also recommend that you are using Vision Studio for this course. And that's all you need to know and all you need to have available on your system to follow along this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (1), [[Software Development]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [ASP.NET Core](../../Skills/Web%20Development/ASP.NET%20Core.md) (1), [Software Development](../../Topics/Software%20Development.md) (1), [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (1)
 > **Env Vars:** net (8), ide (3), asp (1), api (1), mvc (1)
 > **Tools:** visual studio (8)
 > **URLs:** [asp.net](https://asp.net) (1), [api.net](https://api.net) (1)
@@ -146,13 +146,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-is-tdd?u=76281980&t=0)** - [Instructor] Let's take a look at the process of [[Test-Driven Development]]. Test-driven development basically means we start with a test. So we have a cycle of steps, which we repeat over and over again. And the first step is writing a test. So we write a test we arrange, act, assert, but what happens if you run the test? It must be a red test because you only have the test. And indeed running the test will give us red result, we have a red test. And that sounds weird at first, why do we start with the testing? But basically, by writing the test, we specify what the application needs to do. So we write the test, we run the test, or as I wrote here, we run the tests, because if we repeat that we have a set of tests and we should always run all of the tests, because a change in the code might make another test invalid and go red. So we run the tests and at least the new test will be red, because you really don't have code for it. So therefore we write code that satisfies the test. We fix our code, and the extra recommendation is to write code in such a way that it's basically the minimum effort required to satisfy the test, but well on the other hand, if you say, have a calculation engine, and then you write just one test, and that test assumes that the calculation engine returns a value of say 42,
+> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-is-tdd?u=76281980&t=0)** - [Instructor] Let's take a look at the process of [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md). Test-driven development basically means we start with a test. So we have a cycle of steps, which we repeat over and over again. And the first step is writing a test. So we write a test we arrange, act, assert, but what happens if you run the test? It must be a red test because you only have the test. And indeed running the test will give us red result, we have a red test. And that sounds weird at first, why do we start with the testing? But basically, by writing the test, we specify what the application needs to do. So we write the test, we run the test, or as I wrote here, we run the tests, because if we repeat that we have a set of tests and we should always run all of the tests, because a change in the code might make another test invalid and go red. So we run the tests and at least the new test will be red, because you really don't have code for it. So therefore we write code that satisfies the test. We fix our code, and the extra recommendation is to write code in such a way that it's basically the minimum effort required to satisfy the test, but well on the other hand, if you say, have a calculation engine, and then you write just one test, and that test assumes that the calculation engine returns a value of say 42,
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-is-tdd?u=76281980&t=93)** then the minimum code to satisfy this would be return 42. So, no actually we write meaningful code, but that code should basically satisfy the test by doing what the test expects, by fulfilling the specifications so to speak. And then we re-run all of the tests, and hopefully now they are all green, we have only green tests, but you know, maybe some other tests failed, or we find out by writing the new piece of code, we need to change something in the application, we need to change the structure, we need to refactor. So, refactoring is an integral part of this whole process. We reflect a lot when we do test driven development, and that's because we basically start with the tests and then write the code, and therefore the way the code is structured in architecture, at least in part depends on the tests, and the more tests we have, the more we see the big picture. So to speak. The more we are probably competent to refactor, because we learn something and then we amend the application. And then we start again, we write a new test, we run all the tests, we most probably need to fix code, we rerun the tests. Maybe we are inclined to reflect again, and we repeat until the software is basically done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (2)
+> **Frameworks & Libraries:** [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md) (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** basically means (1), is an  (1)
 > **Analogies:** picture (1)
@@ -163,9 +163,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=0)** - [Instructor] [[Test-Driven Development]] is a very appealing proposition but not everyone is doing it because as always, there are advantages but also potential disadvantages. And I don't want to go into a lengthy discussion here because you have already decided that you want to watch this course so you are at least interested in TDD. And therefore, I'll just give you some reasons why this was a good decision, but also some things to keep in mind when doing test driven development. So for the advantages, since we have rather small tests, we tend to get more modular apps because we are testing so many individual parts of the application. Also writing an application that is testable more or less automatically leads to a more modular architecture and that's of course, always a good thing. Then we refactor a lot and we refactor early. Have you refactored a complex Legacy app that has been a few years old? I've been there a few times and usually it wasn't much fun. And sometimes I thought ah, had I known this earlier and indeed if we refactor early, then the effort required for refactoring is not as much as when we have to refactor a whole complex beast. And therefore, the early refactoring is just an advantage
+> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=0)** - [Instructor] [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md) is a very appealing proposition but not everyone is doing it because as always, there are advantages but also potential disadvantages. And I don't want to go into a lengthy discussion here because you have already decided that you want to watch this course so you are at least interested in TDD. And therefore, I'll just give you some reasons why this was a good decision, but also some things to keep in mind when doing test driven development. So for the advantages, since we have rather small tests, we tend to get more modular apps because we are testing so many individual parts of the application. Also writing an application that is testable more or less automatically leads to a more modular architecture and that's of course, always a good thing. Then we refactor a lot and we refactor early. Have you refactored a complex Legacy app that has been a few years old? I've been there a few times and usually it wasn't much fun. And sometimes I thought ah, had I known this earlier and indeed if we refactor early, then the effort required for refactoring is not as much as when we have to refactor a whole complex beast. And therefore, the early refactoring is just an advantage
 >
-> **[1:37](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=97)** over late refactoring so this might be a positive aspect of TDD as well. And another thing I want to mention is that since we have code that tests something and especially in the .net space, there are really good frameworks and tooling. Those tests can be run automatically in the IDE and also when checking into code for instance or when deploying. So we have automated testing with little to zero extra effort. So we write the tests but we don't have to write a test runner for instance. That's already available. Now there are of course more advantages by that. Just wanted to give you some points that I thought were the paramount for the whole topic. And for disadvantages, writing those tests can be hard. I think that's the major block for many that they say okay, I would love to do TDD but the way my application is structured because I already have an application or the way I envisioned my new application, it's really hard to write some of the tests. I have a lot of dependencies. I work with [[Databases]]. It's a map application. I communicate with an API. It requires effort and that effort sometimes might be too much or at least could lead to writing tests that are not super complex
+> **[1:37](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=97)** over late refactoring so this might be a positive aspect of TDD as well. And another thing I want to mention is that since we have code that tests something and especially in the .net space, there are really good frameworks and tooling. Those tests can be run automatically in the IDE and also when checking into code for instance or when deploying. So we have automated testing with little to zero extra effort. So we write the tests but we don't have to write a test runner for instance. That's already available. Now there are of course more advantages by that. Just wanted to give you some points that I thought were the paramount for the whole topic. And for disadvantages, writing those tests can be hard. I think that's the major block for many that they say okay, I would love to do TDD but the way my application is structured because I already have an application or the way I envisioned my new application, it's really hard to write some of the tests. I have a lot of dependencies. I work with [Databases](../../Skills/Software%20Development/Databases.md). It's a map application. I communicate with an API. It requires effort and that effort sometimes might be too much or at least could lead to writing tests that are not super complex
 >
 > **[3:12](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=192)** just to avoid the effort required. I mean in this course, the tests we will be writing, they are not all super trivial, but of course they have a manageable size so that it's easy to understand and by that to learn how TDD works. And of course, since we don't start writing extra work in code but writing tests that will eventually be satisfied by code, initially it takes more time to write the application because we have a working result later. On the other hand, it's like adding money to an account and we will deplete the account later. Of course, we are investing into easier and cheaper maintenance of our application. If our application is well tested and very modular et cetera, then maintaining it is usually less an effort than if we had this untested monolith. So at the beginning, it takes more time. So everyone has to buy into that not only of the developers but also management or customers. But then the idea is that on the long run, it's more efficient to work with TDD than to work without TDD. And one thing I want to mention and I am guilty of that as well. Since refactoring is such an integral part of the process, there might be the tendency that you lose yourself into continuously refactoring
 >
@@ -173,7 +173,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md) (1), [Databases](../../Skills/Software%20Development/Databases.md) (1)
 > **Env Vars:** tdd (6), ide (1), api (1)
 > **Analogies:** for instance (2), it's like (1)
 > **Definitions:** is a  (1)
@@ -185,7 +185,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=0)** - There are several frameworks and tools with regards to [[Unit Testing]] in the .NET space. And this course is not on one specific framework and all of its features. Of course, I have picked a specific framework and later a second one, but I want to show you how TDD works in general. So even if you choose to pick another framework, another library, another IDE, another tooling, you still get value out of this course. And that's why it's not an exhaustive course, over all of the features, but just gives you an idea how things work and will get you started into TDD. So we're looking at testing frameworks in .NET. There are a few which are relatively popular. One is MSTest directly coming from [[Microsoft]], but there are other options as well. And the most famous, or probably most famous, unit testing tool is J unit from the [[Java]] world. And there are .NET ports. One is NUnit and one is xUnit, and both of them are really great. Both of them are still under active development, X unit, at least as of the time of recording, hasn't had a major release in quite a while because they're working on a new iteration or a new generation of their framework.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=0)** - There are several frameworks and tools with regards to [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) in the .NET space. And this course is not on one specific framework and all of its features. Of course, I have picked a specific framework and later a second one, but I want to show you how TDD works in general. So even if you choose to pick another framework, another library, another IDE, another tooling, you still get value out of this course. And that's why it's not an exhaustive course, over all of the features, but just gives you an idea how things work and will get you started into TDD. So we're looking at testing frameworks in .NET. There are a few which are relatively popular. One is MSTest directly coming from [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md), but there are other options as well. And the most famous, or probably most famous, unit testing tool is J unit from the [Java](../../Skills/Software%20Development/Java.md) world. And there are .NET ports. One is NUnit and one is xUnit, and both of them are really great. Both of them are still under active development, X unit, at least as of the time of recording, hasn't had a major release in quite a while because they're working on a new iteration or a new generation of their framework.
 >
 > **[1:36](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=96)** So I've picked NUnit, which I am also using more often in projects, but still no bad choice here on that slide. And those are the most popular frameworks here. And of course their APIs are different and sometimes their feature sets are different, but the general approach is the same, no matter what you're picking here, more or less, it's just syntax. So even if you prefer another framework than NUnit, you'll still get something out of this course. And a little bit later in this course, we will also need a mocking library a mocking library basically creates a replacement for a component, and there might be reasons why we do not want to use specific components in a test. For instance, when working with a database and we are testing a certain process, for instance, then we are not really interested in the database per se. We don't want to write and read from the database, and maybe even changing data there, we just want to test the process. So we may want a replacement for the database that has the same API and gives us results, but doesn't persist anything. And for that, there are a few options. The most popular one, the one we will be using, is called Moq but there's also NSubstitute and, I just love the name, FakeItEasy. So these are also very popular options. Microsoft also started working on something in that space. So there's Microsoft Fakes, which is relatively new, but also is something for mocking.
 >
@@ -193,7 +193,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Unit Testing]] (2), [[Java]] (1)
+> **Frameworks & Libraries:** [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (3), [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) (2), [Java](../../Skills/Software%20Development/Java.md) (1)
 > **Env Vars:** net (3), tdd (2), ide (1), api (1)
 > **Analogies:** for instance (2)
 > **Code Identifiers:** xunit (1)
@@ -210,11 +210,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=0)** - [Instructor] The code we will be writing in this course is for the fictional h+sport company. They sell a variety of sports related [[Microsoft Products|products]], like mineral water, supplements, and apparel for women and men. So let's see whether they have something for me. How about this skater graphic T-shirt? It's even on sale. So let's go here and then choose a size. Well, on good days, ah, (sighs) let's be honest here and a color. How about blue? And then I add it to the cart. Now it's in my shopping cart, and I can... Well, see your shopping cart, I can't really order it because, again, it's fictional, but that's what they do. And when using TDD, we will implement some of the back [[Microsoft Office|office]] parts of their application. And we'll start with parts of the shopping cart.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=0)** - [Instructor] The code we will be writing in this course is for the fictional h+sport company. They sell a variety of sports related [products](../../Skills/Software%20Development/Microsoft%20Products.md), like mineral water, supplements, and apparel for women and men. So let's see whether they have something for me. How about this skater graphic T-shirt? It's even on sale. So let's go here and then choose a size. Well, on good days, ah, (sighs) let's be honest here and a color. How about blue? And then I add it to the cart. Now it's in my shopping cart, and I can... Well, see your shopping cart, I can't really order it because, again, it's fictional, but that's what they do. And when using TDD, we will implement some of the back [office](../../Skills/Web%20Development/Microsoft%20Office.md) parts of their application. And we'll start with parts of the shopping cart.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1), [Office](../../Skills/Web%20Development/Microsoft%20Office.md) (1)
 > **Env Vars:** tdd (1)
 > **Speakers:** - [instructor] (1)
 
@@ -432,7 +432,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [ASP.NET Core](../../Skills/Web%20Development/ASP.NET%20Core.md) (1)
 > **Env Vars:** mvc (1), http (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -452,7 +452,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [ASP.NET Core](../../Skills/Web%20Development/ASP.NET%20Core.md) (1)
 > **Env Vars:** mvc (4), asp (1), net (1)
 > **Code Identifiers:** viewresult (2)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -486,7 +486,7 @@ created: 2026-05-03
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980&t=5)** - [Instructor] Usually, I would start by creating a new test project for all of the API tests, but to save us some time and effort, I'll just put the API tests within the WebTests here. But first, I go to the dependencies of the test project, and then I need to make sure that I add a reference to the API project because we would like to work with the controller in the API project. And then I just copy the existing WebTests class and call it ApiTests. And rename the class in here as well. And then we are ready to go. I'll just remove the tests that are already in there, and create a new one. And the first test I would like to create is one that just checks whether any articles are returned. So we could call this ShouldReturnArticles. And there, like before, we just instantiate the controller. In that case, it's the new ArticlesController from the API project, so control dot, use the Controllers namespace from the API project, and then we can just do controller.GetAll. And the nice thing is, if we have a look at the ArticlesController,
 >
-> **[1:38](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980&t=98)** the GetAll method returns an IEnumerable of Article. Web API does all the magic that then creates [[JSON]] and sends the correct HTTP headers, et cetera. But for our test, that's great. No conversions necessary. We just check whether the two things are equal three and the count of the items in the result. And that's the test. That's pretty nice and quick and easy, isn't it? This was the test for all of the articles. Now let's continue with a test for a single article. So I just copy this because the start looks rather similar and maybe I can rename it. ShouldReturnAllArticles and then ShouldReturnSingleArticle, and it's a bit easier to read and easier to see. This time, we are calling GetSingle, and use, for instance, three as an argument. Now what happens in that method? Let's take a look. You search for the correct article, and then we return it using the Ok method, and Ok gives us an OkObjectResult, which contains the result and an HTTP status code of 200. So that's something we could test for. So we could try in other assertion method we haven't tried before, which is IsInstanceOf. Of course you could also do casting, et cetera, et cetera,
+> **[1:38](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980&t=98)** the GetAll method returns an IEnumerable of Article. Web API does all the magic that then creates [JSON](../../Skills/Web%20Development/JSON.md) and sends the correct HTTP headers, et cetera. But for our test, that's great. No conversions necessary. We just check whether the two things are equal three and the count of the items in the result. And that's the test. That's pretty nice and quick and easy, isn't it? This was the test for all of the articles. Now let's continue with a test for a single article. So I just copy this because the start looks rather similar and maybe I can rename it. ShouldReturnAllArticles and then ShouldReturnSingleArticle, and it's a bit easier to read and easier to see. This time, we are calling GetSingle, and use, for instance, three as an argument. Now what happens in that method? Let's take a look. You search for the correct article, and then we return it using the Ok method, and Ok gives us an OkObjectResult, which contains the result and an HTTP status code of 200. So that's something we could test for. So we could try in other assertion method we haven't tried before, which is IsInstanceOf. Of course you could also do casting, et cetera, et cetera,
 >
 > **[3:13](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980&t=193)** but I'm interested whether the result is an instance of the OkObjectResult. So typeof OkObjectResult. And then we have verified whether that is the case. The third test is what happens if we use an invalid ID. So ShouldReturn404OnMissingArticle. We could use, for instance, 42, which is not a valid ID. And then there are several ways what we could try to test for now, but if you get a status code result, then the status code needs to be 404, and that's something we can test. So we can go back to our standard AreEqual call, and we just use the result, try to convert it to a StatusCodeResult. And if that is successful, we access the StatusCode, and this needs to be 404. Otherwise, we just get null. And these are the three tests. So let's see what happens in Test Explorer. So I go to the Test Explorer, and then we already see that there are three ApiTests, which we can run now. All articles, one single article, and the missing article. And we see that checking for all articles works, checking for a single article worked as well, but the 404 test didn't work. Why is that the case?
 >
@@ -494,7 +494,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (1)
+> **Frameworks & Libraries:** [JSON](../../Skills/Web%20Development/JSON.md) (1)
 > **Env Vars:** api (8), http (2), json (1)
 > **UI Navigation:** go to (3)
 > **Cross-References:** go back to (2)
@@ -512,11 +512,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980&t=0)** - [Christian] We are almost at the end of our journey, so what's next? The first step is that you need to pick a testing framework and then stick with it and become proficient with it. So read the documentation, do some tutorials, and then get to know the framework inside-out. And the next recommendation I have is that you should train and exercise one of the most important aspects of the TDD process, refactoring, because if you're a proficient with refactoring, then it's easy for you not only to rearrange your application, but also to write great tests. There's a [[C- Refactoring Tips and Tricks]] course in the library and I would recommend that you watch it because it contains some great advice on how to do refactoring for your applications. Well, and then, it's ready to put theory into practice. So when creating your next application, it's always easier to start with a new one. Just use TDD and see how that goes. Thank you for watching that course. See you next time here on [[LinkedIn]] Learning.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980&t=0)** - [Christian] We are almost at the end of our journey, so what's next? The first step is that you need to pick a testing framework and then stick with it and become proficient with it. So read the documentation, do some tutorials, and then get to know the framework inside-out. And the next recommendation I have is that you should train and exercise one of the most important aspects of the TDD process, refactoring, because if you're a proficient with refactoring, then it's easy for you not only to rearrange your application, but also to write great tests. There's a [C- Refactoring Tips and Tricks](../Software%20Development/C-%20Refactoring%20Tips%20and%20Tricks.md) course in the library and I would recommend that you watch it because it contains some great advice on how to do refactoring for your applications. Well, and then, it's ready to put theory into practice. So when creating your next application, it's always easier to start with a new one. Just use TDD and see how that goes. Thank you for watching that course. See you next time here on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Env Vars:** tdd (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [christian] (1)
@@ -524,7 +524,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Christian Wenz]]
+- [Christian Wenz](../../Instructors/DevOps/Christian%20Wenz.md)
 
 ## Resources
 
@@ -537,22 +537,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Elevating C- Skills- Building Robust Applications]]
-← [[C- Interfaces and Generics]] | **4 of 8** | [[C- Exception and Error Handling]] →
+### In [Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)
+← [C- Interfaces and Generics](../Software%20Development/C-%20Interfaces%20and%20Generics.md) | **4 of 8** | [C- Exception and Error Handling](C-%20Exception%20and%20Error%20Handling.md) →
 
 ## Appears In
 
-- [[Elevating C- Skills- Building Robust Applications]]
+- [Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[JavaScript- Test-Driven Development (ES6)]] — Test-Driven Development
-- [[Learning C-]] — C#
-- [[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]] — C#
-- [[Test-Driven Development in C++]] — Test-Driven Development
-- [[Nail Your C- Interview]] — C#
+- [JavaScript- Test-Driven Development (ES6)](../Software%20Development/JavaScript-%20Test-Driven%20Development%20(ES6).md) — Test-Driven Development
+- [Learning C-](../Software%20Development/Learning%20C-.md) — C#
+- [Cert Prep- Unity Certified Associate Game Developer Scripting with C-](../Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Scripting%20with%20C-.md) — C#
+- [Test-Driven Development in C++](Test-Driven%20Development%20in%20C%2B%2B.md) — Test-Driven Development
+- [Nail Your C- Interview](../Software%20Development/Nail%20Your%20C-%20Interview.md) — C#
 
 ---
 

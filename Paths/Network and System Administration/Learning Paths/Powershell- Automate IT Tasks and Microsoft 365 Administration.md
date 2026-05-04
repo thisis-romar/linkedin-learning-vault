@@ -17,15 +17,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Powershell 7 Essential Training]]'
+  - course: '[Powershell 7 Essential Training](../../../Courses/Network%20and%20System%20Administration/Powershell%207%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[PowerShell- Automating IT Administration]]'
+  - course: '[PowerShell- Automating IT Administration](../../../Courses/Network%20and%20System%20Administration/PowerShell-%20Automating%20IT%20Administration.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[PowerShell for Microsoft 365 Administration]]'
+  - course: '[PowerShell for Microsoft 365 Administration](../../../Courses/Network%20and%20System%20Administration/PowerShell%20for%20Microsoft%20365%20Administration.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -40,24 +40,24 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Powershell 7 Essential Training]]
-2. [[PowerShell- Automating IT Administration]] _(3h 22m)_
-3. [[PowerShell for Microsoft 365 Administration]] _(4h 9m)_
+1. [Powershell 7 Essential Training](../../../Courses/Network%20and%20System%20Administration/Powershell%207%20Essential%20Training.md)
+2. [PowerShell- Automating IT Administration](../../../Courses/Network%20and%20System%20Administration/PowerShell-%20Automating%20IT%20Administration.md) _(3h 22m)_
+3. [PowerShell for Microsoft 365 Administration](../../../Courses/Network%20and%20System%20Administration/PowerShell%20for%20Microsoft%20365%20Administration.md) _(4h 9m)_
 
 ## Course Flow
 
-1. [[Powershell 7 Essential Training]] → 2. [[PowerShell- Automating IT Administration]] → 3. [[PowerShell for Microsoft 365 Administration]]
+1. [Powershell 7 Essential Training](../../../Courses/Network%20and%20System%20Administration/Powershell%207%20Essential%20Training.md) → 2. [PowerShell- Automating IT Administration](../../../Courses/Network%20and%20System%20Administration/PowerShell-%20Automating%20IT%20Administration.md) → 3. [PowerShell for Microsoft 365 Administration](../../../Courses/Network%20and%20System%20Administration/PowerShell%20for%20Microsoft%20365%20Administration.md)
 
 ## Topics
 
-- [[Network and System Administration]]
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Networking and Administration Fundamentals]] (1 shared courses)
+- [Networking and Administration Fundamentals](../../Cloud%20Computing/Learning%20Paths/Networking%20and%20Administration%20Fundamentals.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Network and System Administration]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)

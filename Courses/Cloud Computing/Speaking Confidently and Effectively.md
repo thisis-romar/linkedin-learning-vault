@@ -10,9 +10,9 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHOl-2agpS1Gg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1605821728995?e=2147483647&amp;v=beta&amp;t=e2-AzXBF27T12NIPPhqTh6aY9dqb8VCFO0j9frhjsO4"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - '[[The Top 10 Most Popular Courses among IT Professionals]]'
+  - '[The Top 10 Most Popular Courses among IT Professionals](../../Paths/Cloud%20Computing/Learning%20Paths/The%20Top%2010%20Most%20Popular%20Courses%20among%20IT%20Professionals.md)'
 prev_courses:
-  - '[[Cybersecurity Foundations]]'
+  - '[Cybersecurity Foundations](../Cybersecurity/Cybersecurity%20Foundations.md)'
 path_nav: '[{"path":"The Top 10 Most Popular Courses among IT Professionals","position":10,"total":10,"prev":"Cybersecurity Foundations","next":null}]'
 path_count: 1
 tags:
@@ -72,13 +72,13 @@ created: 2026-05-03
 >
 > **[1:26](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980&t=86)** - [Pete] -kind of turned it around.
 >
-> **[1:27](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980&t=87)** - [Diane] I'll give you the first one that comes to mind which was not my typical client but she was a second year law student, and this woman was very nervous about speaking in class and she was thinking of dropping out of law school. So what she would do is she'd raise her hand, ask a question so that professor wouldn't call on her for the [[Representational State Transfer (REST)|rest]] of the time. Now we only had four sessions, but within those four sessions I was able to reframe her thinking and give her some basic tools that gave her the confidence. So long story short, she graduated and now today she's able to present. She actually sent me a video testimonial saying, hi, Diane. I just gave a presentation and it went well and I'm doing really well. So it's a skill that anyone can learn. So that's someone who almost lost her opportunity in law. And I can tell you one other where it was the VP, the vice president of tax, and he was about to lose his job. He reported to the president and the president was frustrated with him because he couldn't get to the point and he would want to know what is your recommendation on tax? And he would hedge and ha and I said, well what recommendation would you make? He said, well, I would say A but I have to tell him all of this before I can do that. So I said, no lead with what you're recommending and then tell him the reason. Long story short, he kept his job, the president was no longer frustrated and the human resource person said she was relieved that she didn't have to give a pink slip. So it helps you keep your job. It helps you get a better job. It helps you get promoted.
+> **[1:27](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980&t=87)** - [Diane] I'll give you the first one that comes to mind which was not my typical client but she was a second year law student, and this woman was very nervous about speaking in class and she was thinking of dropping out of law school. So what she would do is she'd raise her hand, ask a question so that professor wouldn't call on her for the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the time. Now we only had four sessions, but within those four sessions I was able to reframe her thinking and give her some basic tools that gave her the confidence. So long story short, she graduated and now today she's able to present. She actually sent me a video testimonial saying, hi, Diane. I just gave a presentation and it went well and I'm doing really well. So it's a skill that anyone can learn. So that's someone who almost lost her opportunity in law. And I can tell you one other where it was the VP, the vice president of tax, and he was about to lose his job. He reported to the president and the president was frustrated with him because he couldn't get to the point and he would want to know what is your recommendation on tax? And he would hedge and ha and I said, well what recommendation would you make? He said, well, I would say A but I have to tell him all of this before I can do that. So I said, no lead with what you're recommending and then tell him the reason. Long story short, he kept his job, the president was no longer frustrated and the human resource person said she was relieved that she didn't have to give a pink slip. So it helps you keep your job. It helps you get a better job. It helps you get promoted.
 >
 > **[2:59](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980&t=179)** It helps you ace the interview. There are so many benefits.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Speakers:** - [pete] (3), - [diane] (3), - [woman] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (1), it's like (1)
@@ -141,13 +141,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/speaking-confidently-and-effectively/change-your-focus-to-calm-your-nerves?u=76281980&t=0)** - [Female Speaker] Here's what I know. If you are nervous, you are being self-centered because it's all about me, myself and I. Oh, I hope I don't trip. Oh, I hope I don't lose my train of thought. Get over yourself. It's not about you. It's about the audience. Change your focus, change the picture that's in your mind. That's the first step. And when I work with people, I work in two ways with skillset and mindset, but first mindset, because fear and anxiety begin in the mind. I know that if you're nervous and I'm not talking about the little butterflies, we all get a little bit of that. But if you are really nervous, it means that you're living in the future. You are envisioning everything that can go wrong. So what you need to do is come back to the present and be here with the audience. And the best way to bring yourself into the present is to focus on your breath. So we work on breathing exercises to get you back into your body. Now there's no excuse or substitute for lack of preparation. I can't do anything if you don't prepare, but assuming that you know your message and you've practiced and you've prepared, the [[Representational State Transfer (REST)|rest]] is just mindset, going out there, doing it. Now, the other thing is people think that they shouldn't be nervous. They get those butterflies. They think something's wrong. No, that's adrenaline. It's a good thing because what adrenaline is doing is getting you ready for a performance. And I'm sure people who are in sports have a little bit of that too.
+> **[0:00](https://www.linkedin.com/learning/speaking-confidently-and-effectively/change-your-focus-to-calm-your-nerves?u=76281980&t=0)** - [Female Speaker] Here's what I know. If you are nervous, you are being self-centered because it's all about me, myself and I. Oh, I hope I don't trip. Oh, I hope I don't lose my train of thought. Get over yourself. It's not about you. It's about the audience. Change your focus, change the picture that's in your mind. That's the first step. And when I work with people, I work in two ways with skillset and mindset, but first mindset, because fear and anxiety begin in the mind. I know that if you're nervous and I'm not talking about the little butterflies, we all get a little bit of that. But if you are really nervous, it means that you're living in the future. You are envisioning everything that can go wrong. So what you need to do is come back to the present and be here with the audience. And the best way to bring yourself into the present is to focus on your breath. So we work on breathing exercises to get you back into your body. Now there's no excuse or substitute for lack of preparation. I can't do anything if you don't prepare, but assuming that you know your message and you've practiced and you've prepared, the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) is just mindset, going out there, doing it. Now, the other thing is people think that they shouldn't be nervous. They get those butterflies. They think something's wrong. No, that's adrenaline. It's a good thing because what adrenaline is doing is getting you ready for a performance. And I'm sure people who are in sports have a little bit of that too.
 >
 > **[1:32](https://www.linkedin.com/learning/speaking-confidently-and-effectively/change-your-focus-to-calm-your-nerves?u=76281980&t=92)** It's helping you to get over the finish line. So start to think differently about what happens.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [female (1)
@@ -197,7 +197,7 @@ created: 2026-05-03
 >
 > **[1:03](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980&t=63)** - Or like you have a weapon, (chuckles) and that's threatening to us humans.
 >
-> **[1:06](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980&t=66)** - [Woman] Yes, but as soon as you bring them up, (both chuckle) you look much more confident. So that's one thing. And then gesture. You want to have gestures, but you don't want to be in perpetual motion. So have a [[Representational State Transfer (REST)|rest]] position that you can come back to.
+> **[1:06](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980&t=66)** - [Woman] Yes, but as soon as you bring them up, (both chuckle) you look much more confident. So that's one thing. And then gesture. You want to have gestures, but you don't want to be in perpetual motion. So have a [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) position that you can come back to.
 >
 > **[1:19](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980&t=79)** - [Man] Certainly. And that's interesting, so the waist is quite common, I think, for hands to fall below the waist, they're sort of just there, if you're standing on stage, or if you're standing, it's common for hands to just be at the sides, but you're saying that's not so much a powerful place to be.
 >
@@ -209,7 +209,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Speakers:** - [woman] (4), - [man] (2), - or (1)
 > **CLI Commands:** make (5)
 
@@ -258,16 +258,16 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Pete Mockaitis - How to Be Awesome at Your Job]]
+- [Pete Mockaitis - How to Be Awesome at Your Job](../../Instructors/Cloud%20Computing/Pete%20Mockaitis%20-%20How%20to%20Be%20Awesome%20at%20Your%20Job.md)
 
 ## Path Context
 
-### In [[The Top 10 Most Popular Courses among IT Professionals]]
-← [[Cybersecurity Foundations]] | **10 of 10**
+### In [The Top 10 Most Popular Courses among IT Professionals](../../Paths/Cloud%20Computing/Learning%20Paths/The%20Top%2010%20Most%20Popular%20Courses%20among%20IT%20Professionals.md)
+← [Cybersecurity Foundations](../Cybersecurity/Cybersecurity%20Foundations.md) | **10 of 10**
 
 ## Appears In
 
-- [[The Top 10 Most Popular Courses among IT Professionals]]
+- [The Top 10 Most Popular Courses among IT Professionals](../../Paths/Cloud%20Computing/Learning%20Paths/The%20Top%2010%20Most%20Popular%20Courses%20among%20IT%20Professionals.md)
 
 ---
 

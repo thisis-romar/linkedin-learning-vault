@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Responsible AI- Principles and Practical Applications]]
+- [Responsible AI- Principles and Practical Applications](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Principles%20and%20Practical%20Applications.md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Design Thinking- Prototyping]]
+- [Design Thinking- Prototyping](../../Courses/Cloud%20Computing/Design%20Thinking-%20Prototyping.md)

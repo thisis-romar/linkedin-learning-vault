@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL for Finance- Income Statement Project]]
+- [SQL for Finance- Income Statement Project](../../Courses/Data%20Science/SQL%20for%20Finance-%20Income%20Statement%20Project.md)

@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[WordPress- Staging a Site]] — Intermediate · 48m · 4,573 learners
+- [WordPress- Staging a Site](../../Courses/Web%20Development/WordPress-%20Staging%20a%20Site.md) — Intermediate · 48m · 4,573 learners
 
 ## Related Skills
 
-- [[Wordpress Development]] — 1 shared course
+- [Wordpress Development](Wordpress%20Development.md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[WordPress- Staging a Site]] — 2 mentions
+1. [WordPress- Staging a Site](../../Courses/Web%20Development/WordPress-%20Staging%20a%20Site.md) — 2 mentions

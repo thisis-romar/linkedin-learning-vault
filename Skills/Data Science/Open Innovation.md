@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Psychological Safety- Clear Blocks to Innovation, Collaboration, and Risk-Taking]] — Intermediate · 24m · 184,550 learners
+- [Psychological Safety- Clear Blocks to Innovation, Collaboration, and Risk-Taking](../../Courses/Data%20Science/Psychological%20Safety-%20Clear%20Blocks%20to%20Innovation%2C%20Collaboration%2C%20and%20Risk-Taking.md) — Intermediate · 24m · 184,550 learners
 
 ## Related Skills
 
-- [[Building Trust]] — 1 shared course
-- [[Emotional Intelligence]] — 1 shared course
+- [Building Trust](Building%20Trust.md) — 1 shared course
+- [Emotional Intelligence](Emotional%20Intelligence.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Leading with Innovation in the Age of AI]] — 1 mentions
+1. [Leading with Innovation in the Age of AI](../../Courses/Artificial%20Intelligence%20(AI)/Leading%20with%20Innovation%20in%20the%20Age%20of%20AI.md) — 1 mentions

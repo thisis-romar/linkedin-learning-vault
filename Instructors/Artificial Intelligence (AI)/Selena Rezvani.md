@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic AI Prompting for Managers- Leading Smarter with Generative AI]]
+- [Strategic AI Prompting for Managers- Leading Smarter with Generative AI](../../Courses/Artificial%20Intelligence%20(AI)/Strategic%20AI%20Prompting%20for%20Managers-%20Leading%20Smarter%20with%20Generative%20AI.md)

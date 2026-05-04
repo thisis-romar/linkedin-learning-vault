@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Program Management for IT Professionals]]
+- [Program Management for IT Professionals](../../Courses/DevOps/Program%20Management%20for%20IT%20Professionals.md)

@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Data Collection, Modeling, and Quality Management for AI Systems]]
+- [Strategic Data Collection, Modeling, and Quality Management for AI Systems](../../Courses/Data%20Science/Strategic%20Data%20Collection%2C%20Modeling%2C%20and%20Quality%20Management%20for%20AI%20Systems.md)

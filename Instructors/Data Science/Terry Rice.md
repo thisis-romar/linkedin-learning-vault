@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice]]
+- [Nano Tips for Getting Unstuck as an Entrepreneur with Terry Rice](../../Courses/Data%20Science/Nano%20Tips%20for%20Getting%20Unstuck%20as%20an%20Entrepreneur%20with%20Terry%20Rice.md)

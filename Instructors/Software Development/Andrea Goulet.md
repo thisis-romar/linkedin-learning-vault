@@ -28,5 +28,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Software Development- Creating an Agile Culture]]
-- [[Agile Software Development- Remote Teams (2019)]]
+- [Agile Software Development- Creating an Agile Culture](../../Courses/Software%20Development/Agile%20Software%20Development-%20Creating%20an%20Agile%20Culture.md)
+- [Agile Software Development- Remote Teams (2019)](../../Courses/Software%20Development/Agile%20Software%20Development-%20Remote%20Teams%20(2019).md)

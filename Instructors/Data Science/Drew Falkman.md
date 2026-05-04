@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI UX Design with Uizard]]
+- [Generative AI UX Design with Uizard](../../Courses/Data%20Science/Generative%20AI%20UX%20Design%20with%20Uizard.md)

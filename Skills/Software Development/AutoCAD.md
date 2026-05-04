@@ -22,15 +22,15 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Autocad 2022 Essential Training]] — Beginner · 1,475 learners
+- [Autocad 2022 Essential Training](../../Courses/Software%20Development/Autocad%202022%20Essential%20Training.md) — Beginner · 1,475 learners
 
 ## Mentioned In Transcripts _(315 total mentions)_
 
-1. [[Autocad 2022 Essential Training]] — 284 mentions
-2. [[QGIS and Python for AEC]] — 13 mentions
-3. [[SOLIDWORKS 2024 Essential Training]] — 7 mentions
-4. [[SOLIDWORKS 2022 Essential Training]] — 3 mentions
-5. [[Learning QGIS]] — 3 mentions
-6. [[InfraWorks and ArcGIS- AEC Collaboration]] — 2 mentions
-7. [[Learning MapGuide Open Source]] — 2 mentions
-8. [[Foundations of Geographic Information Systems (GIS)]] — 1 mentions
+1. [Autocad 2022 Essential Training](../../Courses/Software%20Development/Autocad%202022%20Essential%20Training.md) — 284 mentions
+2. [QGIS and Python for AEC](../../Courses/Data%20Science/QGIS%20and%20Python%20for%20AEC.md) — 13 mentions
+3. [SOLIDWORKS 2024 Essential Training](../../Courses/Software%20Development/SOLIDWORKS%202024%20Essential%20Training.md) — 7 mentions
+4. [SOLIDWORKS 2022 Essential Training](../../Courses/Software%20Development/SOLIDWORKS%202022%20Essential%20Training.md) — 3 mentions
+5. [Learning QGIS](../../Courses/Data%20Science/Learning%20QGIS.md) — 3 mentions
+6. [InfraWorks and ArcGIS- AEC Collaboration](../../Courses/Data%20Science/InfraWorks%20and%20ArcGIS-%20AEC%20Collaboration.md) — 2 mentions
+7. [Learning MapGuide Open Source](../../Courses/Data%20Science/Learning%20MapGuide%20Open%20Source.md) — 2 mentions
+8. [Foundations of Geographic Information Systems (GIS)](../../Courses/Data%20Science/Foundations%20of%20Geographic%20Information%20Systems%20(GIS).md) — 1 mentions

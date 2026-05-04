@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Transforming Business with AI Agents- Autonomous Efficiency and Decision-Making]]
-- [[Generative AI and Workplace Transformation]]
+- [Transforming Business with AI Agents- Autonomous Efficiency and Decision-Making](../../Courses/Artificial%20Intelligence%20(AI)/Transforming%20Business%20with%20AI%20Agents-%20Autonomous%20Efficiency%20and%20Decision-Making.md)
+- [Generative AI and Workplace Transformation](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20and%20Workplace%20Transformation.md)

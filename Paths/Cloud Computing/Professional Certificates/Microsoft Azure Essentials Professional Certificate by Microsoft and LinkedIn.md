@@ -17,7 +17,7 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Microsoft Azure Essentials By Microsoft Press]]'
+  - course: '[Microsoft Azure Essentials By Microsoft Press](../../../Courses/Cloud%20Computing/Microsoft%20Azure%20Essentials%20By%20Microsoft%20Press.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -32,12 +32,12 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Microsoft Azure Essentials By Microsoft Press]]
+1. [Microsoft Azure Essentials By Microsoft Press](../../../Courses/Cloud%20Computing/Microsoft%20Azure%20Essentials%20By%20Microsoft%20Press.md)
 
 ## Topics
 
-- [[Cloud Computing]]
+- [Cloud Computing](../../../Topics/Cloud%20Computing.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cloud Computing]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cloud Computing](../../../Topics/Cloud%20Computing.md)

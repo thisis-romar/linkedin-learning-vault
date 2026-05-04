@@ -19,7 +19,7 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]]'
+  - course: '[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection](../../../Courses/Cloud%20Computing/Microsoft%20Security%20Essentials%20Concepts%20Solutions%20And%20Ai%20Powered%20Protection.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -34,13 +34,13 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]]
+1. [Microsoft Security Essentials Concepts Solutions And Ai Powered Protection](../../../Courses/Cloud%20Computing/Microsoft%20Security%20Essentials%20Concepts%20Solutions%20And%20Ai%20Powered%20Protection.md)
 
 ## Topics
 
-- [[Cloud Computing]]
-- [[Cybersecurity]]
+- [Cloud Computing](../../../Topics/Cloud%20Computing.md)
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cloud Computing]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cloud Computing](../../../Topics/Cloud%20Computing.md)

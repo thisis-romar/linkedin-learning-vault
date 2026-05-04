@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Devops Foundations Lean And Agile]]
-- [[Kubernetes- Cloud Native Ecosystem]]
+- [Devops Foundations Lean And Agile](../../Courses/DevOps/Devops%20Foundations%20Lean%20And%20Agile.md)
+- [Kubernetes- Cloud Native Ecosystem](../../Courses/DevOps/Kubernetes-%20Cloud%20Native%20Ecosystem.md)

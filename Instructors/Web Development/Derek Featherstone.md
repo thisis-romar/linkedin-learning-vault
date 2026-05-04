@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[UX Foundations- Accessibility]]
-- [[Accessibility for Web Design]]
+- [UX Foundations- Accessibility](../../Courses/Web%20Development/UX%20Foundations-%20Accessibility.md)
+- [Accessibility for Web Design](../../Courses/Web%20Development/Accessibility%20for%20Web%20Design.md)

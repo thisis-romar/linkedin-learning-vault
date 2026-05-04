@@ -19,15 +19,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Learning Bitbucket]]'
+  - course: '[Learning Bitbucket](../../../Courses/DevOps/Learning%20Bitbucket.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Bitbucket Pipelines for CI-CD]]'
+  - course: '[Bitbucket Pipelines for CI-CD](../../../Courses/DevOps/Bitbucket%20Pipelines%20for%20CI-CD.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]]'
+  - course: '[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations](../../../Courses/DevOps/Advanced%20Bitbucket%20Pipelines-%20Automating%20Deployments%20and%20Managing%20Third-Party%20Integrations.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -42,19 +42,19 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Learning Bitbucket]]
-2. [[Bitbucket Pipelines for CI-CD]] _(1h 28m)_
-3. [[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]] _(1h 27m)_
+1. [Learning Bitbucket](../../../Courses/DevOps/Learning%20Bitbucket.md)
+2. [Bitbucket Pipelines for CI-CD](../../../Courses/DevOps/Bitbucket%20Pipelines%20for%20CI-CD.md) _(1h 28m)_
+3. [Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations](../../../Courses/DevOps/Advanced%20Bitbucket%20Pipelines-%20Automating%20Deployments%20and%20Managing%20Third-Party%20Integrations.md) _(1h 27m)_
 
 ## Course Flow
 
-1. [[Learning Bitbucket]] → 2. [[Bitbucket Pipelines for CI-CD]] → 3. [[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]]
+1. [Learning Bitbucket](../../../Courses/DevOps/Learning%20Bitbucket.md) → 2. [Bitbucket Pipelines for CI-CD](../../../Courses/DevOps/Bitbucket%20Pipelines%20for%20CI-CD.md) → 3. [Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations](../../../Courses/DevOps/Advanced%20Bitbucket%20Pipelines-%20Automating%20Deployments%20and%20Managing%20Third-Party%20Integrations.md)
 
 ## Topics
 
-- [[DevOps]]
-- [[Software Development]]
+- [DevOps](../../../Topics/DevOps.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[DevOps]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [DevOps](../../../Topics/DevOps.md)

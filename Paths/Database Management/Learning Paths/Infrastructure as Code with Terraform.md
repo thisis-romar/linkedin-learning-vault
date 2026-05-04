@@ -19,15 +19,15 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: '[[DevOps Foundations- Infrastructure as Code]]'
+  - course: '[DevOps Foundations- Infrastructure as Code](../../../Courses/DevOps/DevOps%20Foundations-%20Infrastructure%20as%20Code.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning Terraform]]'
+  - course: '[Learning Terraform](../../../Courses/Database%20Management/Learning%20Terraform.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Terraform]]'
+  - course: '[Advanced Terraform](../../../Courses/Database%20Management/Advanced%20Terraform.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -42,26 +42,26 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[DevOps Foundations- Infrastructure as Code]] _(2h 30m)_
-2. [[Learning Terraform]] _(2h 28m)_
-3. [[Advanced Terraform]] _(2h 25m)_
+1. [DevOps Foundations- Infrastructure as Code](../../../Courses/DevOps/DevOps%20Foundations-%20Infrastructure%20as%20Code.md) _(2h 30m)_
+2. [Learning Terraform](../../../Courses/Database%20Management/Learning%20Terraform.md) _(2h 28m)_
+3. [Advanced Terraform](../../../Courses/Database%20Management/Advanced%20Terraform.md) _(2h 25m)_
 
 ## Course Flow
 
-1. [[DevOps Foundations- Infrastructure as Code]] → 2. [[Learning Terraform]] → 3. [[Advanced Terraform]]
+1. [DevOps Foundations- Infrastructure as Code](../../../Courses/DevOps/DevOps%20Foundations-%20Infrastructure%20as%20Code.md) → 2. [Learning Terraform](../../../Courses/Database%20Management/Learning%20Terraform.md) → 3. [Advanced Terraform](../../../Courses/Database%20Management/Advanced%20Terraform.md)
 
 ## Topics
 
-- [[Database Management]]
-- [[DevOps]]
+- [Database Management](../../../Topics/Database%20Management.md)
+- [DevOps](../../../Topics/DevOps.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[DevOps Professional Certificate by PagerDuty and LinkedIn]] (1 shared courses)
-- [[Getting Started with DevOps]] (1 shared courses)
+- [DevOps Professional Certificate by PagerDuty and LinkedIn](../../DevOps/Professional%20Certificates/DevOps%20Professional%20Certificate%20by%20PagerDuty%20and%20LinkedIn.md) (1 shared courses)
+- [Getting Started with DevOps](../../DevOps/Learning%20Paths/Getting%20Started%20with%20DevOps.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Database Management]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Database Management](../../../Topics/Database%20Management.md)

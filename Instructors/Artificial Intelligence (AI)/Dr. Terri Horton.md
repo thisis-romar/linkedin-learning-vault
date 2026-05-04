@@ -22,6 +22,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI in HR]]
-- [[Responsible AI for Managers]]
-- [[Applications of Generative AI in Learning and Development]]
+- [Generative AI in HR](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20in%20HR.md)
+- [Responsible AI for Managers](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20for%20Managers.md)
+- [Applications of Generative AI in Learning and Development](../../Courses/Artificial%20Intelligence%20(AI)/Applications%20of%20Generative%20AI%20in%20Learning%20and%20Development.md)

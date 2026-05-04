@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps]] — Intermediate · 32m · 5,294 learners
+- [Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps](../../Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%2011%20Integrating%20Non-Blockchain%20Apps.md) — Intermediate · 32m · 5,294 learners
 
 ## Related Skills
 
-- [[Ethereum]] — 1 shared course
-- [[Blockchain]] — 1 shared course
+- [Ethereum](Ethereum.md) — 1 shared course
+- [Blockchain](Blockchain.md) — 1 shared course
 
 ## Mentioned In Transcripts _(3 total mentions)_
 
-1. [[Leveraging AI for Small and Medium Business Growth]] — 2 mentions
-2. [[GenAIOps Foundations]] — 1 mentions
+1. [Leveraging AI for Small and Medium Business Growth](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20for%20Small%20and%20Medium%20Business%20Growth.md) — 2 mentions
+2. [GenAIOps Foundations](../../Courses/Artificial%20Intelligence%20(AI)/GenAIOps%20Foundations.md) — 1 mentions

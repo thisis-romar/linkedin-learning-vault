@@ -24,14 +24,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Programming Foundations- Beyond the Fundamentals]]
-- [[JSON Essential Training]]
-- [[JavaScript- Ajax and Fetch]]
-- [[JavaScript- Prototypes]]
-- [[JavaScript- Closures]]
-- [[Learning App Building With Vanilla Javascript]]
-- [[JavaScript- Async]]
-- [[JavaScript- Best Practices for Data]]
-- [[ESLint- Integrating with Your Workflow]]
-- [[ESLint- Checking for Syntax and Logic Errors]]
-- [[ESLint- Customizing Styles]]
+- [Programming Foundations- Beyond the Fundamentals](../../Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md)
+- [JSON Essential Training](../../Courses/Software%20Development/JSON%20Essential%20Training.md)
+- [JavaScript- Ajax and Fetch](../../Courses/Software%20Development/JavaScript-%20Ajax%20and%20Fetch.md)
+- [JavaScript- Prototypes](../../Courses/Network%20and%20System%20Administration/JavaScript-%20Prototypes.md)
+- [JavaScript- Closures](../../Courses/Network%20and%20System%20Administration/JavaScript-%20Closures.md)
+- [Learning App Building With Vanilla Javascript](../../Courses/Software%20Development/Learning%20App%20Building%20With%20Vanilla%20Javascript.md)
+- [JavaScript- Async](../../Courses/Software%20Development/JavaScript-%20Async.md)
+- [JavaScript- Best Practices for Data](../../Courses/Software%20Development/JavaScript-%20Best%20Practices%20for%20Data.md)
+- [ESLint- Integrating with Your Workflow](../../Courses/Software%20Development/ESLint-%20Integrating%20with%20Your%20Workflow.md)
+- [ESLint- Checking for Syntax and Logic Errors](../../Courses/Software%20Development/ESLint-%20Checking%20for%20Syntax%20and%20Logic%20Errors.md)
+- [ESLint- Customizing Styles](../../Courses/Software%20Development/ESLint-%20Customizing%20Styles.md)

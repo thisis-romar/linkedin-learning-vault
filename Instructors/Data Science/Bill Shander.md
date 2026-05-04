@@ -22,7 +22,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Visualization for Data Analysts and Analytics]]
-- [[Picking the Right Chart for Your Data]]
-- [[Learning Data Visualization]]
-- [[Data Visualization Storytelling]]
+- [Data Visualization for Data Analysts and Analytics](../../Courses/Data%20Science/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics.md)
+- [Picking the Right Chart for Your Data](../../Courses/Data%20Science/Picking%20the%20Right%20Chart%20for%20Your%20Data.md)
+- [Learning Data Visualization](../../Courses/Data%20Science/Learning%20Data%20Visualization.md)
+- [Data Visualization Storytelling](../../Courses/Data%20Science/Data%20Visualization%20Storytelling.md)

@@ -17,11 +17,11 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: '[[Penetration Testing Essential Training (2021)]]'
+  - course: '[Penetration Testing Essential Training (2021)](../../../Courses/Cybersecurity/Penetration%20Testing%20Essential%20Training%20(2021).md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Offensive Penetration Testing]]'
+  - course: '[Offensive Penetration Testing](../../../Courses/Cybersecurity/Offensive%20Penetration%20Testing.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -36,17 +36,17 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Penetration Testing Essential Training (2021)]]
-2. [[Offensive Penetration Testing]] _(9h 36m)_
+1. [Penetration Testing Essential Training (2021)](../../../Courses/Cybersecurity/Penetration%20Testing%20Essential%20Training%20(2021).md)
+2. [Offensive Penetration Testing](../../../Courses/Cybersecurity/Offensive%20Penetration%20Testing.md) _(9h 36m)_
 
 ## Course Flow
 
-1. [[Penetration Testing Essential Training (2021)]] → 2. [[Offensive Penetration Testing]]
+1. [Penetration Testing Essential Training (2021)](../../../Courses/Cybersecurity/Penetration%20Testing%20Essential%20Training%20(2021).md) → 2. [Offensive Penetration Testing](../../../Courses/Cybersecurity/Offensive%20Penetration%20Testing.md)
 
 ## Topics
 
-- [[Cybersecurity]]
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cybersecurity]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cybersecurity](../../../Topics/Cybersecurity.md)

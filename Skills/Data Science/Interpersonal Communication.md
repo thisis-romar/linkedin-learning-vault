@@ -22,16 +22,16 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Communication Foundations]] — 386,009 learners
-- [[Interpersonal Communication]] — 48m · 278,780 learners
-- [[Skills for Inclusive Conversations]] — 53m · 196,837 learners
+- [Communication Foundations](../../Courses/Cloud%20Computing/Communication%20Foundations.md) — 386,009 learners
+- [Interpersonal Communication](Interpersonal%20Communication.md) — 48m · 278,780 learners
+- [Skills for Inclusive Conversations](../../Courses/Cloud%20Computing/Skills%20for%20Inclusive%20Conversations.md) — 53m · 196,837 learners
 
 ## Related Skills
 
-- [[Professional Communication]] — 1 shared course
-- [[Diversity and Inclusion]] — 1 shared course
+- [Professional Communication](../Cloud%20Computing/Professional%20Communication.md) — 1 shared course
+- [Diversity and Inclusion](../Software%20Development/Diversity%20and%20Inclusion.md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Building and Managing a Cybersecurity Program]] — 1 mentions
-2. [[Interpersonal Communication]] — 1 mentions
+1. [Building and Managing a Cybersecurity Program](../../Courses/Cloud%20Computing/Building%20and%20Managing%20a%20Cybersecurity%20Program.md) — 1 mentions
+2. [Interpersonal Communication](Interpersonal%20Communication.md) — 1 mentions

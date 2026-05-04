@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[A First Look at the LinkedIn Hiring Assistant in Recruiter]]
+- [A First Look at the LinkedIn Hiring Assistant in Recruiter](../../Courses/Artificial%20Intelligence%20(AI)/A%20First%20Look%20at%20the%20LinkedIn%20Hiring%20Assistant%20in%20Recruiter.md)

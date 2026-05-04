@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced Spring- Spring Boot Actuator]]
+- [Advanced Spring- Spring Boot Actuator](../../Courses/Cloud%20Computing/Advanced%20Spring-%20Spring%20Boot%20Actuator.md)

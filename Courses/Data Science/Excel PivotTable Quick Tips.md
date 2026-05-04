@@ -16,11 +16,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHFM0wQMsWD0Q/learning-public-crop_675_1200/B56ZhSFQw_G4Ac-/0/1753723768152?e=2147483647&amp;v=beta&amp;t=iOtQSL_4FWirioT8HKejK0Hycr5f4MwKcHckpZAR3iE"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]'
+  - '[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)](../../Paths/Data%20Science/Learning%20Paths/Prepare%20for%20the%20Excel%20Associate%20-%20Microsoft%20Office%20Specialist%20Exam%20for%20M365%20Apps%20(MO-210).md)'
 prev_courses:
-  - '[[Excel- Introduction to Formatting]]'
+  - '[Excel- Introduction to Formatting](Excel-%20Introduction%20to%20Formatting.md)'
 next_courses:
-  - '[[Excel- Dashboards for Beginners (2022)]]'
+  - '[Excel- Dashboards for Beginners (2022)](Excel-%20Dashboards%20for%20Beginners%20(2022).md)'
 path_nav: '[{"path":"Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)","position":4,"total":7,"prev":"Excel- Introduction to Formatting","next":"Excel- Dashboards for Beginners (2022)"}]'
 path_count: 1
 tags:
@@ -85,11 +85,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980&t=0)** - Did you know that learning how to use [[Microsoft Excel|Excel]] [[Pivot Tables]] is a much less daunting and overwhelming task than you think it is? A pivot table is a power reporting tool, which can show you quick and valuable summaries and trends based on the data you have in your columns and rows. I'm going to take you through the most requested how-tos and like creating a pivot table. These quick tips can also be watched in minutes. My name is Jess Stratton, and I'm going to show you that you can create one in minutes, which is beyond valuable when you get called into a meeting at a moment's notice. Let's dive in.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980&t=0)** - Did you know that learning how to use [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) [Pivot Tables](../../Skills/Data%20Science/Pivot%20Tables.md) is a much less daunting and overwhelming task than you think it is? A pivot table is a power reporting tool, which can show you quick and valuable summaries and trends based on the data you have in your columns and rows. I'm going to take you through the most requested how-tos and like creating a pivot table. These quick tips can also be watched in minutes. My name is Jess Stratton, and I'm going to show you that you can create one in minutes, which is beyond valuable when you get called into a meeting at a moment's notice. Let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1), [Pivot Tables](../../Skills/Data%20Science/Pivot%20Tables.md) (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - did (1)
 
@@ -102,13 +102,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=1)** - [Instructor] Let's prepare the data before creating the PivotTable. This is going to help avoid errors or data inaccuracy. To get started, make sure each column header has a unique name that properly describes the data. It is okay if those column headers have spaces in between each [[Microsoft Word|word]], even though they don't hear. You'll also need to make sure that you have no blank cells. Use the End key while pressing the Down Arrow to go to the next blank cell in a column to find them easily. You'll also want to make sure that your columns have the right cell format if you're using numbers and dates.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=1)** - [Instructor] Let's prepare the data before creating the PivotTable. This is going to help avoid errors or data inaccuracy. To get started, make sure each column header has a unique name that properly describes the data. It is okay if those column headers have spaces in between each [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md), even though they don't hear. You'll also need to make sure that you have no blank cells. Use the End key while pressing the Down Arrow to go to the next blank cell in a column to find them easily. You'll also want to make sure that your columns have the right cell format if you're using numbers and dates.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=49)** Finally, you can also create an [[Microsoft Excel|Excel]] table. It's good practice. It makes adding more data to your PivotTable easier. Select a cell, click Format as Table, choose any table style you want. Make sure there's a check mark My table has headers, and then click OK. One last step, you'll want to make sure you have any filters turned off that you may have on your columns. You'll want to make sure all the data is showing. Now you're ready for a PivotTable.
+> **[0:49](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980&t=49)** Finally, you can also create an [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) table. It's good practice. It makes adding more data to your PivotTable easier. Select a cell, click Format as Table, choose any table style you want. Make sure there's a check mark My table has headers, and then click OK. One last step, you'll want to make sure you have any filters turned off that you may have on your columns. You'll want to make sure all the data is showing. Now you're ready for a PivotTable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1), [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** good practice (1)
@@ -119,11 +119,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-excel-pivottable?u=76281980&t=1)** - [Narrator] Let's create a basic PivotTable. I want to find out how many were sold in each category here in column G. I have my line item transactions and each one has a quantity sold. Click anywhere in your dataset. Change to the insert ribbon tab and click PivotTable here on the left. [[Microsoft Excel|Excel]] will automatically select the data range for you. Click OK and you now have a new sheet. Your original dataset is still intact here in this order sheet. That's never going to change. Now you can just start dragging the fields to the areas below to create your PivotTable. I'll drag ProdCategory to the rows area. Instantly my categories appear in the sheet. I'll drag Quantity to the values area. Now I can very easily see how many of each category I've sold.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-excel-pivottable?u=76281980&t=1)** - [Narrator] Let's create a basic PivotTable. I want to find out how many were sold in each category here in column G. I have my line item transactions and each one has a quantity sold. Click anywhere in your dataset. Change to the insert ribbon tab and click PivotTable here on the left. [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) will automatically select the data range for you. Click OK and you now have a new sheet. Your original dataset is still intact here in this order sheet. That's never going to change. Now you can just start dragging the fields to the areas below to create your PivotTable. I'll drag ProdCategory to the rows area. Instantly my categories appear in the sheet. I'll drag Quantity to the values area. Now I can very easily see how many of each category I've sold.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
@@ -132,11 +132,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980&t=1)** - [Instructor] It can be overwhelming to figure out how to make sense out of all of this line item transaction data. [[Microsoft Excel|Excel]] can make recommendations for you. Select one cell in your sheet, change to the Insert ribbon tab, and click Recommended [[Pivot Tables]]. Excel is going to show you different ways that you can view and analyze your data. You can click on it and see what it's summarizing for you. When you like one, click OK, and it's going to create your pivot table on a brand-new sheet. On the right-hand side, you can see where it drags the fields to create that pivot table. From here, you can adjust it, just like any other pivot table.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-a-recommended-pivottable?u=76281980&t=1)** - [Instructor] It can be overwhelming to figure out how to make sense out of all of this line item transaction data. [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) can make recommendations for you. Select one cell in your sheet, change to the Insert ribbon tab, and click Recommended [Pivot Tables](../../Skills/Data%20Science/Pivot%20Tables.md). Excel is going to show you different ways that you can view and analyze your data. You can click on it and see what it's summarizing for you. When you like one, click OK, and it's going to create your pivot table on a brand-new sheet. On the right-hand side, you can see where it drags the fields to create that pivot table. From here, you can adjust it, just like any other pivot table.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (2), [Pivot Tables](../../Skills/Data%20Science/Pivot%20Tables.md) (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
@@ -147,11 +147,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=1)** - [Instructor] You can have multiple [[Pivot Tables]] on the same sheet. Just like before, we'll place our cursor inside the dataset, change to the Insert tab and click PivotTable. This time, instead of selecting New Worksheet, I'm going to choose Existing Worksheet. I'll change to my sheet that contains the first pivot table and place the cursor where I want the second table to be inserted. I'll click OK. And here's my second pivot table. It contains the same fields and I can adjust these as I see fit. This time, I want to see the amount sold of every order type. At any time, I can delete this second pivot table by right clicking and choosing Delete PivotTable.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-multiple-pivottables?u=76281980&t=1)** - [Instructor] You can have multiple [Pivot Tables](../../Skills/Data%20Science/Pivot%20Tables.md) on the same sheet. Just like before, we'll place our cursor inside the dataset, change to the Insert tab and click PivotTable. This time, instead of selecting New Worksheet, I'm going to choose Existing Worksheet. I'll change to my sheet that contains the first pivot table and place the cursor where I want the second table to be inserted. I'll click OK. And here's my second pivot table. It contains the same fields and I can adjust these as I see fit. This time, I want to see the amount sold of every order type. At any time, I can delete this second pivot table by right clicking and choosing Delete PivotTable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cursor (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** cursor (2), [Pivot Tables](../../Skills/Data%20Science/Pivot%20Tables.md) (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -215,11 +215,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/format-data-in-a-pivottable?u=76281980&t=0)** - [Instructor] Let's format our pivot table. Change to the design ribbon tab. All the way on the left click Subtotals. You can choose to turn them off completely, you can display them at the bottom of the list or at the top. In the report layout area it defaults to compact form. If you select outline form, it spaces everything out and removes the grid lines. Also note that it displays the actual field name instead of the generic [[Microsoft Word|word]] roll label. If you change to tabular form, it adds back the grid lines. You can choose whether you want a blank line after each item. And finally, you can hover your mouse over pivot table styles to change the way that it looks. To change the formatting of a number field, right click in the cell and select number format. You can select any format. I'll use the 1,000 separator with a comma and no decimal places.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/format-data-in-a-pivottable?u=76281980&t=0)** - [Instructor] Let's format our pivot table. Change to the design ribbon tab. All the way on the left click Subtotals. You can choose to turn them off completely, you can display them at the bottom of the list or at the top. In the report layout area it defaults to compact form. If you select outline form, it spaces everything out and removes the grid lines. Also note that it displays the actual field name instead of the generic [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) roll label. If you change to tabular form, it adds back the grid lines. You can choose whether you want a blank line after each item. And finally, you can hover your mouse over pivot table styles to change the way that it looks. To change the formatting of a number field, right click in the cell and select number format. You can select any format. I'll use the 1,000 separator with a comma and no decimal places.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -275,11 +275,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980&t=1)** - [Instructor] Conditional formatting allows you to highlight cells visually based on rules you specify. You can see trends or high or low data amounts quickly. To apply conditional formatting, just like a regular [[Microsoft Excel|Excel]] column or table, select the cells and on the Home ribbon tab, click Conditional Formatting. From here, you can choose the rules to apply. In this case, I'll choose Top and Bottom Rules, and then I'll highlight cells that are above average. You can choose the color, that is, how you want them displayed. As we're looking for something that shows a positive value, I'll choose a green color. Click OK, and the conditional formatting is applied. You do need to be careful. When you add or change the layout of this pivot table, it won't include those cells. You can click Formatting Options and choose whether or not you want to apply it to the entire range, excluding your grand total fields.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980&t=1)** - [Instructor] Conditional formatting allows you to highlight cells visually based on rules you specify. You can see trends or high or low data amounts quickly. To apply conditional formatting, just like a regular [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) column or table, select the cells and on the Home ribbon tab, click Conditional Formatting. From here, you can choose the rules to apply. In this case, I'll choose Top and Bottom Rules, and then I'll highlight cells that are above average. You can choose the color, that is, how you want them displayed. As we're looking for something that shows a positive value, I'll choose a green color. Click OK, and the conditional formatting is applied. You do need to be careful. When you add or change the layout of this pivot table, it won't include those cells. You can click Formatting Options and choose whether or not you want to apply it to the entire range, excluding your grand total fields.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** just like (1)
 > **Warnings:** be careful (1)
@@ -305,11 +305,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980&t=0)** - [Instructor] A PivotChart is a visual representation of your PivotTable data. To create a PivotChart, select anywhere in your PivotTable. Change to the PivotTable Analyze tab, and click PivotChart on the right-hand side. You can select your chart type and you can even refine that particular chart type. When you've selected one, click OK, and your chart is created, just like a regular chart in [[Microsoft Excel|Excel]]. You can click the plus sign to add or remove chart elements. You can move your chart around so that you can still see your PivotTable. You you can drag to make it smaller or larger, and you can also click the down arrows and filter the view. Uncheck any detail you don't want to see on your chart. Notice that it's also been filtered from the PivotTable itself. To delete a chart, select it, and hit the Delete key on your keyboard. You can also click the Filter button and bring back any data that you had filtered from your PivotTable.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980&t=0)** - [Instructor] A PivotChart is a visual representation of your PivotTable data. To create a PivotChart, select anywhere in your PivotTable. Change to the PivotTable Analyze tab, and click PivotChart on the right-hand side. You can select your chart type and you can even refine that particular chart type. When you've selected one, click OK, and your chart is created, just like a regular chart in [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md). You can click the plus sign to add or remove chart elements. You can move your chart around so that you can still see your PivotTable. You you can drag to make it smaller or larger, and you can also click the down arrows and filter the view. Uncheck any detail you don't want to see on your chart. Notice that it's also been filtered from the PivotTable itself. To delete a chart, select it, and hit the Delete key on your keyboard. You can also click the Filter button and bring back any data that you had filtered from your PivotTable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -335,11 +335,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980&t=1)** - [Narrator] If you're comfortable with using functions, instead of creating a pivot table in [[Microsoft Excel|Excel]], you can aggregate data easily using the new GROUPBY function. It's important to note that this function is only available for [[Microsoft 365]], but the function can group and display your data just like a pivot table. GROUPBY has three required elements. What to group? In this case, I'll group what we've been doing this entire course, the product category. We then need to know the specific values to collect. Again, in this case, I want the total quantity sold of each category, and finally, the function that we want to use to aggregate the data such as a sum or an average. Close the parentheses, and here's my table group. I will even update automatically when the data changes. Unlike a pivot table, which has to be updated manually. You can even include the headers as an optional parameter.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980&t=1)** - [Narrator] If you're comfortable with using functions, instead of creating a pivot table in [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md), you can aggregate data easily using the new GROUPBY function. It's important to note that this function is only available for [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md), but the function can group and display your data just like a pivot table. GROUPBY has three required elements. What to group? In this case, I'll group what we've been doing this entire course, the product category. We then need to know the specific values to collect. Again, in this case, I want the total quantity sold of each category, and finally, the function that we want to use to aggregate the data such as a sum or an average. Close the parentheses, and here's my table group. I will even update automatically when the data changes. Unlike a pivot table, which has to be updated manually. You can even include the headers as an optional parameter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1), [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) (1)
 > **Env Vars:** groupby (2)
 > **Analogies:** just like (1), such as (1)
 > **Warnings:** note that (1)
@@ -349,11 +349,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-pivotby-to-view-data-with-more-columns?u=76281980&t=1)** - [Instructor] The PIVOTBY function is similar to GROUPBY. You can aggregate data and display it like a PivotTable. It's also only available to [[Microsoft 365]] users. PIVOTBY has one extra required field that GROUPBY didn't have, a specific column that you want to see the data for. The first parameter is what we want to group, and again, I want to see the product categories. The second parameter is the specific one for PIVOTBY. This is a specific column that you want to see the data for. In this case, I want to see which ones sold that were wholesale versus retail. When we were creating our actual PivotTable, this is what we would put in the columns area. The third parameter is what we're going to actually be looking at. In this case, the quantity of units sold. And the last required parameter is how I want to see that data, and because I want to see the total quantity sold, that's a sum. For this PIVOTBY, I'm going to use one of the optional parameters, and that's to show the headers. As soon as I close the parentheses and hit the Enter key, I can see all of my quantity sold grouped by retail and wholesale.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-pivotby-to-view-data-with-more-columns?u=76281980&t=1)** - [Instructor] The PIVOTBY function is similar to GROUPBY. You can aggregate data and display it like a PivotTable. It's also only available to [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) users. PIVOTBY has one extra required field that GROUPBY didn't have, a specific column that you want to see the data for. The first parameter is what we want to group, and again, I want to see the product categories. The second parameter is the specific one for PIVOTBY. This is a specific column that you want to see the data for. In this case, I want to see which ones sold that were wholesale versus retail. When we were creating our actual PivotTable, this is what we would put in the columns area. The third parameter is what we're going to actually be looking at. In this case, the quantity of units sold. And the last required parameter is how I want to see that data, and because I want to see the total quantity sold, that's a sum. For this PIVOTBY, I'm going to use one of the optional parameters, and that's to show the headers. As soon as I close the parentheses and hit the Enter key, I can see all of my quantity sold grouped by retail and wholesale.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) (1)
 > **Env Vars:** pivotby (4), groupby (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -385,11 +385,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/refresh-a-pivottable?u=76281980&t=1)** - [Narrator] If any of your source data changes, in this case, it's from the order sheet, even if it's in an [[Microsoft Excel|Excel]] table, you need to refresh the PivotTable. Change to the PivotTable Analyze tab and click Refresh. You can also press Alt + F5 on your keyboard. If you want the PivotTable to automatically refresh every time you open up the workbook, still on the same tab, all the way on the left-hand side, click Options. Change to the Data tab and place a check mark next to Refresh data when opening the file.
+> **[0:01](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/refresh-a-pivottable?u=76281980&t=1)** - [Narrator] If any of your source data changes, in this case, it's from the order sheet, even if it's in an [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) table, you need to refresh the PivotTable. Change to the PivotTable Analyze tab and click Refresh. You can also press Alt + F5 on your keyboard. If you want the PivotTable to automatically refresh every time you open up the workbook, still on the same tab, all the way on the left-hand side, click Options. Change to the Data tab and place a check mark next to Refresh data when opening the file.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **Speakers:** - [narrator] (1)
 
 #### [PivotTable error messages: Overlapping and make space](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/pivottable-error-messages-overlapping-and-make-space?u=76281980)
@@ -405,7 +405,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Jess Stratton]]
+- [Jess Stratton](../../Instructors/Cloud%20Computing/Jess%20Stratton.md)
 
 ## Resources
 
@@ -417,12 +417,12 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]
-← [[Excel- Introduction to Formatting]] | **4 of 7** | [[Excel- Dashboards for Beginners (2022)]] →
+### In [Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)](../../Paths/Data%20Science/Learning%20Paths/Prepare%20for%20the%20Excel%20Associate%20-%20Microsoft%20Office%20Specialist%20Exam%20for%20M365%20Apps%20(MO-210).md)
+← [Excel- Introduction to Formatting](Excel-%20Introduction%20to%20Formatting.md) | **4 of 7** | [Excel- Dashboards for Beginners (2022)](Excel-%20Dashboards%20for%20Beginners%20(2022).md) →
 
 ## Appears In
 
-- [[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]]
+- [Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)](../../Paths/Data%20Science/Learning%20Paths/Prepare%20for%20the%20Excel%20Associate%20-%20Microsoft%20Office%20Specialist%20Exam%20for%20M365%20Apps%20(MO-210).md)
 
 ---
 

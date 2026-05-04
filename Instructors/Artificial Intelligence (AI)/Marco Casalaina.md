@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure AI for Developers- Azure AI Speech]]
+- [Azure AI for Developers- Azure AI Speech](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Azure%20AI%20Speech.md)

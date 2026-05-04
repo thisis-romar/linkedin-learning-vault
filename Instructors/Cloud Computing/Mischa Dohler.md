@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to 5G]]
+- [Introduction to 5G](../../Courses/Cloud%20Computing/Introduction%20to%205G.md)

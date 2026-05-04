@@ -22,25 +22,25 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Angular- Testing and Debugging]] — Intermediate · 2h 16m · 39,090 learners
-- [[Debugging in C-]] — Beginner · 1h 26m · 20,727 learners
-- [[Learning JavaScript Debugging]] — Intermediate · 2h 47m · 2,834 learners
-- [[Vue.js- Testing and Debugging]] — Intermediate · 1h 20m · 2,320 learners
+- [Angular- Testing and Debugging](../../Courses/Software%20Development/Angular-%20Testing%20and%20Debugging.md) — Intermediate · 2h 16m · 39,090 learners
+- [Debugging in C-](../../Courses/Software%20Development/Debugging%20in%20C-.md) — Beginner · 1h 26m · 20,727 learners
+- [Learning JavaScript Debugging](../../Courses/Software%20Development/Learning%20JavaScript%20Debugging.md) — Intermediate · 2h 47m · 2,834 learners
+- [Vue.js- Testing and Debugging](../../Courses/Web%20Development/Vue.js-%20Testing%20and%20Debugging.md) — Intermediate · 1h 20m · 2,320 learners
 
 ## Related Skills
 
-- [[Software Testing]] — 2 shared courses
-- [[Angular]] — 1 shared course
-- [[C#]] — 1 shared course
-- [[JavaScript]] — 1 shared course
+- [Software Testing](Software%20Testing.md) — 2 shared courses
+- [Angular](../Web%20Development/Angular.md) — 1 shared course
+- [C#](../../Glossary/Language/C%23.md) — 1 shared course
+- [JavaScript](JavaScript.md) — 1 shared course
 
 ## Mentioned In Transcripts _(10 total mentions)_
 
-1. [[Debugging in C-]] — 2 mentions
-2. [[Effectively Leading Digital Transformation]] — 2 mentions
-3. [[Programming Foundations Fundamentals]] — 1 mentions
-4. [[Vibe Coding Fundamentals Tools And Best Practices]] — 1 mentions
-5. [[Introduction to Agentic AI Governance]] — 1 mentions
-6. [[Angular- Testing and Debugging]] — 1 mentions
-7. [[Ai And Developer Productivity]] — 1 mentions
-8. [[Learning JavaScript Debugging]] — 1 mentions
+1. [Debugging in C-](../../Courses/Software%20Development/Debugging%20in%20C-.md) — 2 mentions
+2. [Effectively Leading Digital Transformation](../../Courses/Cloud%20Computing/Effectively%20Leading%20Digital%20Transformation.md) — 2 mentions
+3. [Programming Foundations Fundamentals](../../Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md) — 1 mentions
+4. [Vibe Coding Fundamentals Tools And Best Practices](../../Courses/Artificial%20Intelligence%20(AI)/Vibe%20Coding%20Fundamentals%20Tools%20And%20Best%20Practices.md) — 1 mentions
+5. [Introduction to Agentic AI Governance](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Agentic%20AI%20Governance.md) — 1 mentions
+6. [Angular- Testing and Debugging](../../Courses/Software%20Development/Angular-%20Testing%20and%20Debugging.md) — 1 mentions
+7. [Ai And Developer Productivity](../../Courses/Artificial%20Intelligence%20(AI)/Ai%20And%20Developer%20Productivity.md) — 1 mentions
+8. [Learning JavaScript Debugging](../../Courses/Software%20Development/Learning%20JavaScript%20Debugging.md) — 1 mentions

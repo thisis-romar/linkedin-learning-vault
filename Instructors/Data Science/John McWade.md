@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Graphic Design- Layouts]]
+- [Learning Graphic Design- Layouts](../../Courses/Data%20Science/Learning%20Graphic%20Design-%20Layouts.md)

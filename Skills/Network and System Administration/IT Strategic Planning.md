@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating Your IT Strategy]] — Advanced · 45m · 19,822 learners
+- [Creating Your IT Strategy](../../Courses/DevOps/Creating%20Your%20IT%20Strategy.md) — Advanced · 45m · 19,822 learners

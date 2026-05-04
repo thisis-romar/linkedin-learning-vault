@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Financial Management in Corporations]]
+- [Strategic Financial Management in Corporations](../../Courses/Data%20Science/Strategic%20Financial%20Management%20in%20Corporations.md)

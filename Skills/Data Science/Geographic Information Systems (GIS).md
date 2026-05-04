@@ -22,20 +22,20 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Real World Gis]] — Intermediate · 60,450 learners
-- [[Foundations of Geographic Information Systems (GIS)]] — Beginner · 48m · 48,995 learners
-- [[Creating Maps with R]] — Intermediate · 2h 31m · 19,120 learners
+- [Real World Gis](../../Courses/Data%20Science/Real%20World%20Gis.md) — Intermediate · 60,450 learners
+- [Foundations of Geographic Information Systems (GIS)](../../Courses/Data%20Science/Foundations%20of%20Geographic%20Information%20Systems%20(GIS).md) — Beginner · 48m · 48,995 learners
+- [Creating Maps with R](../../Courses/Data%20Science/Creating%20Maps%20with%20R.md) — Intermediate · 2h 31m · 19,120 learners
 
 ## Related Skills
 
-- [[Data Mapping]] — 1 shared course
-- [[R (Programming Language)]] — 1 shared course
+- [Data Mapping](Data%20Mapping.md) — 1 shared course
+- [R (Programming Language)](R%20(Programming%20Language).md) — 1 shared course
 
 ## Mentioned In Transcripts _(7 total mentions)_
 
-1. [[Real World Gis]] — 2 mentions
-2. [[Learning MySQL Development]] — 1 mentions
-3. [[Finding New Career Paths with SQL]] — 1 mentions
-4. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 1 mentions
-5. [[SQL for Data Analysis]] — 1 mentions
-6. [[Foundations of Geographic Information Systems (GIS)]] — 1 mentions
+1. [Real World Gis](../../Courses/Data%20Science/Real%20World%20Gis.md) — 2 mentions
+2. [Learning MySQL Development](../../Courses/Database%20Management/Learning%20MySQL%20Development.md) — 1 mentions
+3. [Finding New Career Paths with SQL](../../Courses/Database%20Management/Finding%20New%20Career%20Paths%20with%20SQL.md) — 1 mentions
+4. [Choosing A Database Postgresql Mysql Mongo And Cloud](../../Courses/Data%20Science/Choosing%20A%20Database%20Postgresql%20Mysql%20Mongo%20And%20Cloud.md) — 1 mentions
+5. [SQL for Data Analysis](../../Courses/Data%20Science/SQL%20for%20Data%20Analysis.md) — 1 mentions
+6. [Foundations of Geographic Information Systems (GIS)](../../Courses/Data%20Science/Foundations%20of%20Geographic%20Information%20Systems%20(GIS).md) — 1 mentions

@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Ethical Hacking- Sniffers]] — Intermediate · 2h 10m · 28,073 learners
+- [Ethical Hacking- Sniffers](../../Courses/Cybersecurity/Ethical%20Hacking-%20Sniffers.md) — Intermediate · 2h 10m · 28,073 learners
 
 ## Related Skills
 
-- [[Ethical Hacking]] — 1 shared course
+- [Ethical Hacking](../Cybersecurity/Ethical%20Hacking.md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[XAI and Interpretability in Cybersecurity]] — 2 mentions
-2. [[Cybersecurity Careers and Certifications]] — 1 mentions
-3. [[Wireshark- Malware and Forensics]] — 1 mentions
+1. [XAI and Interpretability in Cybersecurity](../../Courses/Artificial%20Intelligence%20(AI)/XAI%20and%20Interpretability%20in%20Cybersecurity.md) — 2 mentions
+2. [Cybersecurity Careers and Certifications](../../Courses/Cybersecurity/Cybersecurity%20Careers%20and%20Certifications.md) — 1 mentions
+3. [Wireshark- Malware and Forensics](../../Courses/Cybersecurity/Wireshark-%20Malware%20and%20Forensics.md) — 1 mentions

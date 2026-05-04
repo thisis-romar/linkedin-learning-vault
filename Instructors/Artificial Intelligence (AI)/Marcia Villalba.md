@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building Serverless Apps with AI Services on AWS]]
+- [Building Serverless Apps with AI Services on AWS](../../Courses/Artificial%20Intelligence%20(AI)/Building%20Serverless%20Apps%20with%20AI%20Services%20on%20AWS.md)

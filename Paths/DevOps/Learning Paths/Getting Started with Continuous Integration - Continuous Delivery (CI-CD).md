@@ -19,15 +19,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Software Development Life Cycle (SDLC)]]'
+  - course: '[Software Development Life Cycle (SDLC)](../../../Skills/Software%20Development/Software%20Development%20Life%20Cycle%20(SDLC).md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[DevOps Foundations- Continuous Delivery-Continuous Integration]]'
+  - course: '[DevOps Foundations- Continuous Delivery-Continuous Integration](../../../Courses/DevOps/DevOps%20Foundations-%20Continuous%20Delivery-Continuous%20Integration.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Continuous Integration- Tools]]'
+  - course: '[Continuous Integration- Tools](../../../Courses/DevOps/Continuous%20Integration-%20Tools.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -42,27 +42,27 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Software Development Life Cycle (SDLC)]] _(1h 55m)_
-2. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] _(1h 54m)_
-3. [[Continuous Integration- Tools]] _(1h 3m)_
+1. [Software Development Life Cycle (SDLC)](../../../Skills/Software%20Development/Software%20Development%20Life%20Cycle%20(SDLC).md) _(1h 55m)_
+2. [DevOps Foundations- Continuous Delivery-Continuous Integration](../../../Courses/DevOps/DevOps%20Foundations-%20Continuous%20Delivery-Continuous%20Integration.md) _(1h 54m)_
+3. [Continuous Integration- Tools](../../../Courses/DevOps/Continuous%20Integration-%20Tools.md) _(1h 3m)_
 
 ## Course Flow
 
-1. [[Software Development Life Cycle (SDLC)]] → 2. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] → 3. [[Continuous Integration- Tools]]
+1. [Software Development Life Cycle (SDLC)](../../../Skills/Software%20Development/Software%20Development%20Life%20Cycle%20(SDLC).md) → 2. [DevOps Foundations- Continuous Delivery-Continuous Integration](../../../Courses/DevOps/DevOps%20Foundations-%20Continuous%20Delivery-Continuous%20Integration.md) → 3. [Continuous Integration- Tools](../../../Courses/DevOps/Continuous%20Integration-%20Tools.md)
 
 ## Topics
 
-- [[DevOps]]
-- [[Software Development]]
+- [DevOps](../../../Topics/DevOps.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[DevOps Professional Certificate by PagerDuty and LinkedIn]] (1 shared courses)
-- [[Getting Started with DevOps]] (1 shared courses)
-- [[Software Development Fundamentals]] (1 shared courses)
+- [DevOps Professional Certificate by PagerDuty and LinkedIn](../Professional%20Certificates/DevOps%20Professional%20Certificate%20by%20PagerDuty%20and%20LinkedIn.md) (1 shared courses)
+- [Getting Started with DevOps](Getting%20Started%20with%20DevOps.md) (1 shared courses)
+- [Software Development Fundamentals](../../Software%20Development/Learning%20Paths/Software%20Development%20Fundamentals.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[DevOps]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [DevOps](../../../Topics/DevOps.md)

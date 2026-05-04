@@ -16,11 +16,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGbHxeaVejF6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568665548814?e=2147483647&amp;v=beta&amp;t=8FlhMS8xDwv_NPlXFC35oW4r3zmbRScLV_Z_DogBKpc"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - '[[Build Your Skills In Customer Service]]'
+  - '[Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)'
 prev_courses:
-  - '[[Building Rapport with Customers]]'
+  - '[Building Rapport with Customers](Building%20Rapport%20with%20Customers.md)'
 next_courses:
-  - '[[Customer Service- Handling Abusive Customers]]'
+  - '[Customer Service- Handling Abusive Customers](Customer%20Service-%20Handling%20Abusive%20Customers.md)'
 path_nav: '[{"path":"Build Your Skills In Customer Service","position":4,"total":8,"prev":"Building Rapport with Customers","next":"Customer Service- Handling Abusive Customers"}]'
 path_count: 1
 tags:
@@ -69,11 +69,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980&t=0)** - I read that the average customer service call lasts two minutes longer than it needs to. The problem with longer calls is the impact it has on customers who are on hold waiting for help, and it's frustrating for you too because other things need your attention. In this course, we're looking at how you can quickly move calls to closure using techniques that are effective, but polite. My name is Myra Golden, and for more than 20 years, through my workshops, I've helped customer service professionals just like you. Join me in this [[LinkedIn]] learning course and learn how to control conversations politely.
+> **[0:00](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980&t=0)** - I read that the average customer service call lasts two minutes longer than it needs to. The problem with longer calls is the impact it has on customers who are on hold waiting for help, and it's frustrating for you too because other things need your attention. In this course, we're looking at how you can quickly move calls to closure using techniques that are effective, but polite. My name is Myra Golden, and for more than 20 years, through my workshops, I've helped customer service professionals just like you. Join me in this [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) learning course and learn how to control conversations politely.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Analogies:** just like (1)
 > **Speakers:** - i (1)
 
@@ -148,11 +148,11 @@ created: 2026-05-03
 >
 > **[3:15](https://www.linkedin.com/learning/customer-service-call-control-strategies/ask-closed-ended-questions-on-your-customer-call?u=76281980&t=195)** - All right. Thank you, Mrs. Maxville. I have your account in front of me. Let's go ahead and see what's going on in here, okay?
 >
-> **[3:22](https://www.linkedin.com/learning/customer-service-call-control-strategies/ask-closed-ended-questions-on-your-customer-call?u=76281980&t=202)** - Did you notice how the employee shut down the venting and got the customer answering in super short responses? That's what the three questions technique does for you. Customers follow your lead, plugging in one [[Microsoft Word|word]] or a series of numbers. What's great about the three questions tactic is, it immediately puts you in control by limiting the customer's response, and at the same time filling in the details that you need to move the conversation forward. Customers won't recognize the tactic but you'll be back in control.
+> **[3:22](https://www.linkedin.com/learning/customer-service-call-control-strategies/ask-closed-ended-questions-on-your-customer-call?u=76281980&t=202)** - Did you notice how the employee shut down the venting and got the customer answering in super short responses? That's what the three questions technique does for you. Customers follow your lead, plugging in one [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) or a series of numbers. What's great about the three questions tactic is, it immediately puts you in control by limiting the customer's response, and at the same time filling in the details that you need to move the conversation forward. Customers won't recognize the tactic but you'll be back in control.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Speakers:** - all (2), - when (1), - hi (1), - yeah (1), - this (1)
 > **Env Vars:** tx4729 (1), ord (1)
 > **CLI Commands:** make (1)
@@ -182,13 +182,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/customer-service-call-control-strategies/reframe-the-conversation-with-your-customer?u=76281980&t=0)** - When my dad was preparing to have a quadruple bypass and heart valve replacement, I confided to a friend how anxious I was about the surgery. There was a 15% risk of death with my dad's procedure. My friend looked at me with wise eyes and said, "You could look at it this way. Your dad has an 85% chance at life." I smiled, nodding, knowing she was right. What my friend did is reframed my thinking to get me to focus on what could go right. Reframing is a tool you can use to shift the conversation when your customer is stuck blowing off steam about a problem they've experienced, turn into a focus on fixing the issue. To reframe a conversation with a customer, you'll do three things. First, allow the customer to explain the issue. Don't interrupt because this will add to the customer's frustration. And second, when they pause, say something to recognize the customer's frustration. "I can see your point," or "I realize this has been frustrating" are good examples of recognizing the customer's emotion. And lastly, reframe the conversation with an intentional response that moves your customer out of [[Storytelling]] and into resolution. Something as simple as, "Let's take a look and see what's going on, and see if we can get you some answers." Reframing is an ideal strategy when your customer is upset and venting, but it's also great when your customer is friendly and chatty,
+> **[0:00](https://www.linkedin.com/learning/customer-service-call-control-strategies/reframe-the-conversation-with-your-customer?u=76281980&t=0)** - When my dad was preparing to have a quadruple bypass and heart valve replacement, I confided to a friend how anxious I was about the surgery. There was a 15% risk of death with my dad's procedure. My friend looked at me with wise eyes and said, "You could look at it this way. Your dad has an 85% chance at life." I smiled, nodding, knowing she was right. What my friend did is reframed my thinking to get me to focus on what could go right. Reframing is a tool you can use to shift the conversation when your customer is stuck blowing off steam about a problem they've experienced, turn into a focus on fixing the issue. To reframe a conversation with a customer, you'll do three things. First, allow the customer to explain the issue. Don't interrupt because this will add to the customer's frustration. And second, when they pause, say something to recognize the customer's frustration. "I can see your point," or "I realize this has been frustrating" are good examples of recognizing the customer's emotion. And lastly, reframe the conversation with an intentional response that moves your customer out of [Storytelling](../../Skills/Web%20Development/Storytelling.md) and into resolution. Something as simple as, "Let's take a look and see what's going on, and see if we can get you some answers." Reframing is an ideal strategy when your customer is upset and venting, but it's also great when your customer is friendly and chatty,
 >
 > **[1:32](https://www.linkedin.com/learning/customer-service-call-control-strategies/reframe-the-conversation-with-your-customer?u=76281980&t=92)** but you need to wrap up the conversation. I was on the phone with a client and we'd finished up business and had been just catching up for several minutes. I glanced at my phone and realized I had to be on my next conference call in four minutes. I reframed our conversation this way. "Oh goodness, Kourtney, time flies when we get a chance to catch up! I have to jump on another call in four minutes. Let's make a point to do lunch really soon, okay?" Politely, I reframe from breezy conversation to end the call. You can bring discussions to closure and regain control of your time by using the reframe approach.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (1)
+> **Frameworks & Libraries:** [Storytelling](../../Skills/Web%20Development/Storytelling.md) (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
@@ -247,11 +247,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980&t=0)** - As we wrap up, I'd like you to set goals based on what you've learned. Grab something to write with or use the notebook feature to type the following. I'd like you to write down these three words, start, stop, and continue. Now write down one thing you will start doing as a result of something you've learned in this training. Next, what's one thing you commit to stop doing? Perhaps you learned that there's something holding you back from assertively controlling conversations. Write down that one thing. Finally, what's one thing you will continue to do? I imagine there are many things you're already doing to control conversations. What's one of those things? Write it down to reinforce the good habit. This simple exercise is a fantastic way to capture your biggest takeaways, and it can inspire you to apply what you've learned. If you find that you need more help with controlling conversations, visit my blog at [myragolden.com](https://myragolden.com) where I have dozens of resources that will guide you in your customer interactions, and be sure to connect with me on [[LinkedIn]]. Thanks for taking this course with me.
+> **[0:00](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980&t=0)** - As we wrap up, I'd like you to set goals based on what you've learned. Grab something to write with or use the notebook feature to type the following. I'd like you to write down these three words, start, stop, and continue. Now write down one thing you will start doing as a result of something you've learned in this training. Next, what's one thing you commit to stop doing? Perhaps you learned that there's something holding you back from assertively controlling conversations. Write down that one thing. Finally, what's one thing you will continue to do? I imagine there are many things you're already doing to control conversations. What's one of those things? Write it down to reinforce the good habit. This simple exercise is a fantastic way to capture your biggest takeaways, and it can inspire you to apply what you've learned. If you find that you need more help with controlling conversations, visit my blog at [myragolden.com](https://myragolden.com) where I have dozens of resources that will guide you in your customer interactions, and be sure to connect with me on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md). Thanks for taking this course with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** find (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)
@@ -261,7 +261,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Myra Golden]]
+- [Myra Golden](../../Instructors/IT%20Help%20Desk/Myra%20Golden.md)
 
 ## Skills Covered
 
@@ -269,12 +269,12 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Build Your Skills In Customer Service]]
-← [[Building Rapport with Customers]] | **4 of 8** | [[Customer Service- Handling Abusive Customers]] →
+### In [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
+← [Building Rapport with Customers](Building%20Rapport%20with%20Customers.md) | **4 of 8** | [Customer Service- Handling Abusive Customers](Customer%20Service-%20Handling%20Abusive%20Customers.md) →
 
 ## Appears In
 
-- [[Build Your Skills In Customer Service]]
+- [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
 
 ---
 

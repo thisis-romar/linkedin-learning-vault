@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Fine-Tuning for LLMs- from Beginner to Advanced]]
+- [Fine-Tuning for LLMs- from Beginner to Advanced](../../Courses/Artificial%20Intelligence%20(AI)/Fine-Tuning%20for%20LLMs-%20from%20Beginner%20to%20Advanced.md)

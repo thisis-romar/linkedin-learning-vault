@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Marketing Foundations- Analytics (2021)]]
+- [Marketing Foundations- Analytics (2021)](../../Courses/Data%20Science/Marketing%20Foundations-%20Analytics%20(2021).md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Designing Agentic AI Products (No Code Required)]]
+- [Designing Agentic AI Products (No Code Required)](../../Courses/Artificial%20Intelligence%20(AI)/Designing%20Agentic%20AI%20Products%20(No%20Code%20Required).md)

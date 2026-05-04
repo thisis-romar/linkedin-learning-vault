@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating Spring Boot Microservices]]
-- [[Spring Data 2]]
-- [[Introduction to Docker for Java Developers]]
+- [Creating Spring Boot Microservices](../../Courses/Software%20Development/Creating%20Spring%20Boot%20Microservices.md)
+- [Spring Data 2](../../Courses/Software%20Development/Spring%20Data%202.md)
+- [Introduction to Docker for Java Developers](../../Courses/Data%20Science/Introduction%20to%20Docker%20for%20Java%20Developers.md)

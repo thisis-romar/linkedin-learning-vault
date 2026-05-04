@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Productivity Hacks to Reimagine Your Workday and Career]]
-- [[Your Top Ai Questions Answered Ai Literacy For Everyone]]
+- [AI Productivity Hacks to Reimagine Your Workday and Career](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Productivity%20Hacks%20to%20Reimagine%20Your%20Workday%20and%20Career.md)
+- [Your Top Ai Questions Answered Ai Literacy For Everyone](../../Courses/Artificial%20Intelligence%20(AI)/Your%20Top%20Ai%20Questions%20Answered%20Ai%20Literacy%20For%20Everyone.md)

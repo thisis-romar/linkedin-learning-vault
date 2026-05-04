@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Live Streaming on LinkedIn]]
+- [Live Streaming on LinkedIn](../../Courses/Web%20Development/Live%20Streaming%20on%20LinkedIn.md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Business Benefits Realization Foundations]] — Beginner · 1h 7m · 39,854 learners
+- [Business Benefits Realization Foundations](../../Courses/Data%20Science/Business%20Benefits%20Realization%20Foundations.md) — Beginner · 1h 7m · 39,854 learners

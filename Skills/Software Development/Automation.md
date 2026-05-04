@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Jira Administration- Automation]] — Advanced · 1h 57m · 31,200 learners
-- [[Learning Playwright]] — Intermediate · 27,269 learners
-- [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]] — Beginner · 14,941 learners
+- [Jira Administration- Automation](../../Courses/DevOps/Jira%20Administration-%20Automation.md) — Advanced · 1h 57m · 31,200 learners
+- [Learning Playwright](../../Courses/Software%20Development/Learning%20Playwright.md) — Intermediate · 27,269 learners
+- [Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required](../../Courses/DevOps/Ai%20Agents%20For%20Everyday%20Professionals%20Simple%20Automations%20To%20Speed%20Up%20Your%20Work%20No%20Code%20Required.md) — Beginner · 14,941 learners
 
 ## Related Skills
 
-- [[Test Automation Tools]] — 1 shared course
-- [[Jira]] — 1 shared course
-- [[Productivity Improvement]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
-- [[AI Agents]] — 1 shared course
+- [Test Automation Tools](Test%20Automation%20Tools.md) — 1 shared course
+- [Jira](../DevOps/Jira.md) — 1 shared course
+- [Productivity Improvement](../Artificial%20Intelligence%20(AI)/Productivity%20Improvement.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
+- [AI Agents](../Artificial%20Intelligence%20(AI)/AI%20Agents.md) — 1 shared course

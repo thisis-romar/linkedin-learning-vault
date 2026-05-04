@@ -18,9 +18,9 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQGkt7O1q9cyow/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1703196542096?e=2147483647&amp;v=beta&amp;t=TwwE6EX1MbPtHShoYkdFKYWfFQ5NuLTvgZPhxwyND9o"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Build Your Wolfram Language Skills]]'
+  - '[Build Your Wolfram Language Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Wolfram%20Language%20Skills.md)'
 prev_courses:
-  - '[[Built-in Machine Learning in the Wolfram Language]]'
+  - '[Built-in Machine Learning in the Wolfram Language](Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.md)'
 path_nav: '[{"path":"Build Your Wolfram Language Skills","position":8,"total":8,"prev":"Built-in Machine Learning in the Wolfram Language","next":null}]'
 path_count: 1
 tags:
@@ -69,7 +69,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Wolfram Research]]
+- [Wolfram Research](../../Instructors/Data%20Science/Wolfram%20Research.md)
 
 ## Skills Covered
 
@@ -79,22 +79,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Build Your Wolfram Language Skills]]
-← [[Built-in Machine Learning in the Wolfram Language]] | **8 of 8**
+### In [Build Your Wolfram Language Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Wolfram%20Language%20Skills.md)
+← [Built-in Machine Learning in the Wolfram Language](Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.md) | **8 of 8**
 
 ## Appears In
 
-- [[Build Your Wolfram Language Skills]]
+- [Build Your Wolfram Language Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Wolfram%20Language%20Skills.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Deep Learning with TensorFlow- Insights and Innovations]] — Artificial Intelligence (AI), Deep Learning
-- [[Deep Learning- Model Optimization and Tuning (2022)]] — Artificial Intelligence (AI), Deep Learning
-- [[Deep Learning with Python- Optimizing Deep Learning Models]] — Artificial Intelligence (AI), Deep Learning
-- [[Deep Learning with Python- Convolutional Neural Networks]] — Artificial Intelligence (AI), Deep Learning
-- [[Deep Learning Getting Started]] — Artificial Intelligence (AI), Deep Learning
+- [Deep Learning with TensorFlow- Insights and Innovations](../Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20TensorFlow-%20Insights%20and%20Innovations.md) — Artificial Intelligence (AI), Deep Learning
+- [Deep Learning- Model Optimization and Tuning (2022)](../Artificial%20Intelligence%20(AI)/Deep%20Learning-%20Model%20Optimization%20and%20Tuning%20(2022).md) — Artificial Intelligence (AI), Deep Learning
+- [Deep Learning with Python- Optimizing Deep Learning Models](../Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20Python-%20Optimizing%20Deep%20Learning%20Models.md) — Artificial Intelligence (AI), Deep Learning
+- [Deep Learning with Python- Convolutional Neural Networks](../Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20Python-%20Convolutional%20Neural%20Networks.md) — Artificial Intelligence (AI), Deep Learning
+- [Deep Learning Getting Started](../Artificial%20Intelligence%20(AI)/Deep%20Learning%20Getting%20Started.md) — Artificial Intelligence (AI), Deep Learning
 
 ---
 

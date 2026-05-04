@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Swift 5- Protocol-Oriented Programming]]
-- [[C++ Design Patterns- Structural]]
+- [Swift 5- Protocol-Oriented Programming](../../Courses/Mobile%20Development/Swift%205-%20Protocol-Oriented%20Programming.md)
+- [C++ Design Patterns- Structural](../../Courses/Data%20Science/C%2B%2B%20Design%20Patterns-%20Structural.md)

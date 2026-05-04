@@ -18,11 +18,11 @@ github: "https://github.com/LinkedInLearning/cutting-edge-css-2894333"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFYWtT8RGNRSA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1639417840343?e=2147483647&amp;v=beta&amp;t=Y-op1Zcu2Pu-xY3WKsdipwiBGQLFRMEdQzlgQZzC87I"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[The Top Skills Engineering Professionals Have Right Now]]'
+  - '[The Top Skills Engineering Professionals Have Right Now](../../Paths/Software%20Development/Learning%20Paths/The%20Top%20Skills%20Engineering%20Professionals%20Have%20Right%20Now.md)'
 prev_courses:
-  - '[[Git from Scratch]]'
+  - '[Git from Scratch](Git%20from%20Scratch.md)'
 next_courses:
-  - '[[SOLIDWORKS 2024 Essential Training]]'
+  - '[SOLIDWORKS 2024 Essential Training](SOLIDWORKS%202024%20Essential%20Training.md)'
 path_nav: '[{"path":"The Top Skills Engineering Professionals Have Right Now","position":6,"total":9,"prev":"Git from Scratch","next":"SOLIDWORKS 2024 Essential Training"}]'
 path_count: 1
 tags:
@@ -92,11 +92,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/cutting-edge-css/exercise-files?u=76281980&t=0)** (energetic music)
 >
-> **[0:05](https://www.linkedin.com/learning/cutting-edge-css/exercise-files?u=76281980&t=5)** - [Instructor] Since the focus of this course is understanding the principles behind CSS properties and techniques, there are no exercise files with code examples. Instead I've created a list of relevant links, documenting all the features, properties, and techniques covered in each of the movies so you can dig deeper into each subject. The list of links is available at the [[GitHub]] repository for this course, and I've split it into chapters to make it easy to navigate. As you watch the course, be sure to have this list of links handy so you can click on the documentation links and learn more about what is covered.
+> **[0:05](https://www.linkedin.com/learning/cutting-edge-css/exercise-files?u=76281980&t=5)** - [Instructor] Since the focus of this course is understanding the principles behind CSS properties and techniques, there are no exercise files with code examples. Instead I've created a list of relevant links, documenting all the features, properties, and techniques covered in each of the movies so you can dig deeper into each subject. The list of links is available at the [GitHub](../../Skills/Software%20Development/GitHub.md) repository for this course, and I've split it into chapters to make it easy to navigate. As you watch the course, be sure to have this list of links handy so you can click on the documentation links and learn more about what is covered.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1)
+> **Frameworks & Libraries:** [GitHub](../../Skills/Software%20Development/GitHub.md) (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Documentation:** the documentation (1)
@@ -132,11 +132,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/cutting-edge-css/position-explained-14448738?u=76281980&t=0)** - [Narrator] By default, all elements have their position properties set to static. This means the element is positioned according to the normal flow of the document. If we change the position property to relative, the element is still positioned according to the normal flow of the document. But, if we then add top, right, bottom, left, or the logical equivalence, the element is shifted relative to its original position, without effecting the surrounding elements. So, block start minus one m and inline start minus one m, places the element one m up and one m to the left of its original position. All the other elements stay the same. Change to position property, to sticky and the element acts like it's relatively positioned until the containing block, usually the immediate parent element, hits a specified threshold, typically the top of the viewport, when this happens, the elements sticks to its current position in the viewport until it meets the opposite end of the containing block, at this point, it's unstuck and keep scrolling. As with position relative, use top, right, bottom, left or the logical properties to specify the location of the sticky element in relation to that viewport. So, static, relative and sticky all leave the surrounding content unchanged. Absolute positioning is a whole other story, set an element to position absolute, and it is taken out of the normal document flow and whatever space it took up, is filled with the other elements in the document. The element is now positioned
 >
-> **[1:33](https://www.linkedin.com/learning/cutting-edge-css/position-explained-14448738?u=76281980&t=93)** in the inline start block start corner of the closest positioned ancestor, meaning an element that is either relatively or sticky position, or if there is no position ancestor, the initial containing block, meaning the top level [[HTML]] element. Once placed, the absolutely position elements stays in place relative to the other content in the document. So, if the other content scrolls, so does the absolute positioned element. If you want the element of stay fixed relative to the viewport, set it to position fixed and it is pulled out of the document float just like with position absolute and fixed to a position where it stays even when you scroll the page. Now, for both absolute and fixed positioning, use top, right, bottom, left or logical properties to specify the location of the element in relation to the viewport. And one final note, when using position absolute and position fixed, keep in mind that the elements will cover other elements. So, that has to be accounted for in the design, otherwise we'll end up covering things on the page.
+> **[1:33](https://www.linkedin.com/learning/cutting-edge-css/position-explained-14448738?u=76281980&t=93)** in the inline start block start corner of the closest positioned ancestor, meaning an element that is either relatively or sticky position, or if there is no position ancestor, the initial containing block, meaning the top level [HTML](../../Skills/Web%20Development/HTML.md) element. Once placed, the absolutely position elements stays in place relative to the other content in the document. So, if the other content scrolls, so does the absolute positioned element. If you want the element of stay fixed relative to the viewport, set it to position fixed and it is pulled out of the document float just like with position absolute and fixed to a position where it stays even when you scroll the page. Now, for both absolute and fixed positioning, use top, right, bottom, left or logical properties to specify the location of the element in relation to the viewport. And one final note, when using position absolute and position fixed, keep in mind that the elements will cover other elements. So, that has to be accounted for in the design, otherwise we'll end up covering things on the page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1)
+> **Frameworks & Libraries:** [HTML](../../Skills/Web%20Development/HTML.md) (1)
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -190,13 +190,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980&t=0)** (energetic music)
 >
-> **[0:05](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980&t=5)** - [Instructor] Media queries are a mainstay of modern [[Web Development]], but for all their amazingness, they have some severe limitations. Consider this example. We have a component containing two elements, an image and some text. When there is limited horizontal space, the image is displayed at the top of the component and the text below. When there is sufficient horizontal space, the image appears to the left and the text to the right. With old-school media queries, we can create a media query to trigger the layout change of this component at a specific viewport width. In other words, the layout of this component is controlled by the width of the overall viewport, which makes sense if we only ever used a component in one specific location and can design around it. But that's not how components are used. One of the major benefits of a component is it's supposed to be more or less standalone so we can place it anywhere in a layout, and it just works. For this to happen, the component must be able to control its own layout. Say we want to use this component twice in one layout. In the first location, there's limited horizontal space for the component. In a second location, there is ample horizontal space. In this scenario, a media query won't work because the viewport doesn't control the available space. The layout does. This is why container queries were created. With a container query, we can create style rules that respond to the size of a container. Here's how that works. First, we set the container type property for the outmost container within the area, so in our example, the root element of our component,
+> **[0:05](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980&t=5)** - [Instructor] Media queries are a mainstay of modern [Web Development](../../Topics/Web%20Development.md), but for all their amazingness, they have some severe limitations. Consider this example. We have a component containing two elements, an image and some text. When there is limited horizontal space, the image is displayed at the top of the component and the text below. When there is sufficient horizontal space, the image appears to the left and the text to the right. With old-school media queries, we can create a media query to trigger the layout change of this component at a specific viewport width. In other words, the layout of this component is controlled by the width of the overall viewport, which makes sense if we only ever used a component in one specific location and can design around it. But that's not how components are used. One of the major benefits of a component is it's supposed to be more or less standalone so we can place it anywhere in a layout, and it just works. For this to happen, the component must be able to control its own layout. Say we want to use this component twice in one layout. In the first location, there's limited horizontal space for the component. In a second location, there is ample horizontal space. In this scenario, a media query won't work because the viewport doesn't control the available space. The layout does. This is why container queries were created. With a container query, we can create style rules that respond to the size of a container. Here's how that works. First, we set the container type property for the outmost container within the area, so in our example, the root element of our component,
 >
 > **[1:38](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980&t=98)** and we set it to inline-size. This means we want to use the layout across the inline axis as a basis for our container queries. Next, we set up a container query by saying @container, and then defining the query, in our case, min-width: 40rem, and then define the style rule triggered by this query. Now, instead of querying the viewport width to figure out the layout of the component, the browser will query the width of the specified container, so the component itself, and pick the appropriate style rules. That way, the same component can display in two different layouts based on the available space in the location it has been placed. (energetic music)
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Development]] (1)
+> **Frameworks & Libraries:** [Web Development](../../Topics/Web%20Development.md) (1)
 > **Non-Speech:** (energetic music) (2)
 > **Definitions:** in other words (1)
 > **Prerequisites:** set up (1)
@@ -240,13 +240,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cutting-edge-css/beyond-viewport-width?u=76281980&t=0)** - [Instructor] Designers often one to set the width of an element, like an image to the full width of the viewport. For this, we have the viewport width and height or VW and VH units. Set it to 100 VW and you get 100% of the width of the viewport. 100 VH gives you 100% of the height of the viewport. But there's a problem. The width of the viewport includes the scroll bar. And if the scroll bar is always present, as it is in [[Windows]], that means the viewport with is wider than the actual displayed viewport. And as a result, an element set to 100 VW is wider than the displayed area and horizontal scrolling occurs so you can see the entire element. Not great. To solve this problem, the CSS working group is working on some new units. So consider this a preview of something that is coming. In addition to viewport width and viewport height, we will now have large viewport width and height, small viewport width and height and dynamic viewport width and height. The viewport width and height remain the same as before, the total width and height of the viewport. Large viewport width and height will be the viewport size assuming all interactive elements like scroll bars are minimized. Small viewport width and heights will be the viewport size assuming all interactive elements like scroll bars are maximized or open. And finally, dynamic viewport width and height respond
+> **[0:00](https://www.linkedin.com/learning/cutting-edge-css/beyond-viewport-width?u=76281980&t=0)** - [Instructor] Designers often one to set the width of an element, like an image to the full width of the viewport. For this, we have the viewport width and height or VW and VH units. Set it to 100 VW and you get 100% of the width of the viewport. 100 VH gives you 100% of the height of the viewport. But there's a problem. The width of the viewport includes the scroll bar. And if the scroll bar is always present, as it is in [Windows](../../Glossary/Service/Windows.md), that means the viewport with is wider than the actual displayed viewport. And as a result, an element set to 100 VW is wider than the displayed area and horizontal scrolling occurs so you can see the entire element. Not great. To solve this problem, the CSS working group is working on some new units. So consider this a preview of something that is coming. In addition to viewport width and viewport height, we will now have large viewport width and height, small viewport width and height and dynamic viewport width and height. The viewport width and height remain the same as before, the total width and height of the viewport. Large viewport width and height will be the viewport size assuming all interactive elements like scroll bars are minimized. Small viewport width and heights will be the viewport size assuming all interactive elements like scroll bars are maximized or open. And finally, dynamic viewport width and height respond
 >
 > **[1:34](https://www.linkedin.com/learning/cutting-edge-css/beyond-viewport-width?u=76281980&t=94)** to the interactive elements in the viewport and will shrink and grow depending on what elements are currently being displayed. That means if the scroll bar comes in, the width reduces. If the scroll bar goes away, the width increases. Additionally, for all of these new features, the units will also have logical values. So a viewport inline or VI and viewport block VB, and then the equivalent LVI, SVI, and DVI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1)
+> **Frameworks & Libraries:** [Windows](../../Glossary/Service/Windows.md) (1)
 > **Env Vars:** css (1), lvi (1), svi (1), dvi (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -271,13 +271,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cutting-edge-css/making-sense-of-grid-auto-flow?u=76281980&t=0)** - [Instructor] Inside a grid container, grid items are placed automatically based on the grid-auto-flow setting. The default setting is row, meaning the first row is filled first, then the second row and so on. If the writing mode is set left to right, this means the grid is populated horizontally from left to right. We can change grid-auto-flow to column And now the grid is populated vertically, top the bottom, filling the first column first, and the second and the third, so you get the idea? This automatic flow works great as long as we don't have any grid items placed on the grid by specifying their location. But placing things manually on the grid is rather common thing to do when working with grid. That means in many cases, the auto-flowing doesn't produce the results we expect. Consider this scenario where one of the grid items is set to rowspan two, meaning it takes up two row cells along the row axis instead of one, effectively it's taller than the other cells. How does this impact the flow of the content? If the bigger item appears in its natural auto-placement position, the [[Representational State Transfer (REST)|rest]] of the items will just fill up the available space around the elements and we get an order like this, which is pretty logical. However, if we manually position the item one cell further along the column axis, something unexpected happens, we get a hole in the grid, an empty cell, a gap. And if we position the item two cells further along the axis, we get two empty cells.
+> **[0:00](https://www.linkedin.com/learning/cutting-edge-css/making-sense-of-grid-auto-flow?u=76281980&t=0)** - [Instructor] Inside a grid container, grid items are placed automatically based on the grid-auto-flow setting. The default setting is row, meaning the first row is filled first, then the second row and so on. If the writing mode is set left to right, this means the grid is populated horizontally from left to right. We can change grid-auto-flow to column And now the grid is populated vertically, top the bottom, filling the first column first, and the second and the third, so you get the idea? This automatic flow works great as long as we don't have any grid items placed on the grid by specifying their location. But placing things manually on the grid is rather common thing to do when working with grid. That means in many cases, the auto-flowing doesn't produce the results we expect. Consider this scenario where one of the grid items is set to rowspan two, meaning it takes up two row cells along the row axis instead of one, effectively it's taller than the other cells. How does this impact the flow of the content? If the bigger item appears in its natural auto-placement position, the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the items will just fill up the available space around the elements and we get an order like this, which is pretty logical. However, if we manually position the item one cell further along the column axis, something unexpected happens, we get a hole in the grid, an empty cell, a gap. And if we position the item two cells further along the axis, we get two empty cells.
 >
 > **[1:35](https://www.linkedin.com/learning/cutting-edge-css/making-sense-of-grid-auto-flow?u=76281980&t=95)** We get gaps in the grid because auto-flow moves forward according to the text direction and the writing mode, it doesn't go backwards and try to back fill empty cells. To work around this problem, we can add a keyword to grid-auto-flow that keyword is 'dense'. Now the algorithm will try to fill holes earlier in the grid. So in our example, a smaller item is moved in to take up that empty space. This makes for a cleaner grid, but there is an important caveat here, setting grid-auto-flow to dense can result in the content order being jumbled, as you can see clearly here. So the bottom line is grid-auto-flow dense can help clean up your layouts as long as you're careful about keeping your content order in order.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is an  (1)
 > **Warnings:** caveat (1)
@@ -306,7 +306,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Morten Rand-Hendriksen]]
+- [Morten Rand-Hendriksen](../../Instructors/Web%20Development/Morten%20Rand-Hendriksen.md)
 
 ## Resources
 
@@ -320,22 +320,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[The Top Skills Engineering Professionals Have Right Now]]
-← [[Git from Scratch]] | **6 of 9** | [[SOLIDWORKS 2024 Essential Training]] →
+### In [The Top Skills Engineering Professionals Have Right Now](../../Paths/Software%20Development/Learning%20Paths/The%20Top%20Skills%20Engineering%20Professionals%20Have%20Right%20Now.md)
+← [Git from Scratch](Git%20from%20Scratch.md) | **6 of 9** | [SOLIDWORKS 2024 Essential Training](SOLIDWORKS%202024%20Essential%20Training.md) →
 
 ## Appears In
 
-- [[The Top Skills Engineering Professionals Have Right Now]]
+- [The Top Skills Engineering Professionals Have Right Now](../../Paths/Software%20Development/Learning%20Paths/The%20Top%20Skills%20Engineering%20Professionals%20Have%20Right%20Now.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Making Sense of the CSS Box Model]] — Cascading Style Sheets (CSS)
-- [[React- Building Styles with CSS Modules]] — Cascading Style Sheets (CSS)
-- [[Building Great Forms with HTML and CSS]] — Cascading Style Sheets (CSS)
-- [[HTML & CSS- Creating Forms]] — Cascading Style Sheets (CSS)
-- [[HTML and CSS- Linking]] — Cascading Style Sheets (CSS)
+- [Making Sense of the CSS Box Model](../Web%20Development/Making%20Sense%20of%20the%20CSS%20Box%20Model.md) — Cascading Style Sheets (CSS)
+- [React- Building Styles with CSS Modules](../Web%20Development/React-%20Building%20Styles%20with%20CSS%20Modules.md) — Cascading Style Sheets (CSS)
+- [Building Great Forms with HTML and CSS](../Web%20Development/Building%20Great%20Forms%20with%20HTML%20and%20CSS.md) — Cascading Style Sheets (CSS)
+- [HTML & CSS- Creating Forms](../Web%20Development/HTML%20%26%20CSS-%20Creating%20Forms.md) — Cascading Style Sheets (CSS)
+- [HTML and CSS- Linking](../Web%20Development/HTML%20and%20CSS-%20Linking.md) — Cascading Style Sheets (CSS)
 
 ---
 

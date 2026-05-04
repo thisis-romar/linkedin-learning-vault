@@ -19,11 +19,11 @@ github: "https://github.com/LinkedInLearning/cpp-design-patterns-structural-4360
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH8V651keIfeg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1683141155361?e=2147483647&amp;v=beta&amp;t=-vEFGmbj6Pe1-qJWo9ikuPCbS2snbhPNq00Znajvsic"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[C++ Programming Professional Certificate by OpenEDG C++ Institute]]'
+  - '[C++ Programming Professional Certificate by OpenEDG C++ Institute](../../Paths/Data%20Science/Professional%20Certificates/C%2B%2B%20Programming%20Professional%20Certificate%20by%20OpenEDG%20C%2B%2B%20Institute.md)'
 prev_courses:
-  - '[[C Plus Plus Essential Training]]'
+  - '[C Plus Plus Essential Training](C%20Plus%20Plus%20Essential%20Training.md)'
 next_courses:
-  - '[[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices]]'
+  - '[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices](../Software%20Development/C%2B%2B%20Development-%20Advanced%20Concepts%2C%20Lambda%20Expressions%2C%20and%20Best%20Practices.md)'
 path_nav: '[{"path":"C++ Programming Professional Certificate by OpenEDG C++ Institute","position":2,"total":3,"prev":"C Plus Plus Essential Training","next":"C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices"}]'
 path_count: 1
 tags:
@@ -107,11 +107,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=0)** - [Karoly] Structural [[Design Patterns]] can help us maintain and scale our code as our project grows more complex. Design patterns are proven solutions to recurring [[Software Design]] problems and the structural patterns in particular help you simplify and keep the design of large object structures flexible and efficient. In this course, we'll delve into the world of C++ structural design patterns and explore how they can help you create more elegant and scalable software. Hi, I'm Karoly Nyisztor, a software engineer with over 10 years of experience in C++ programming. I've helped numerous developers improve their code quality and design skills and I'm excited to share my knowledge with you. If you are ready to take your coding and object-oriented design skills to the next level, join me in my [[LinkedIn]] Learning course as we explore the seven structural design patterns defined by the Gang of Four and learn how to leverage them in modern C++.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=0)** - [Karoly] Structural [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) can help us maintain and scale our code as our project grows more complex. Design patterns are proven solutions to recurring [Software Design](../../Skills/Software%20Development/Software%20Design.md) problems and the structural patterns in particular help you simplify and keep the design of large object structures flexible and efficient. In this course, we'll delve into the world of C++ structural design patterns and explore how they can help you create more elegant and scalable software. Hi, I'm Karoly Nyisztor, a software engineer with over 10 years of experience in C++ programming. I've helped numerous developers improve their code quality and design skills and I'm excited to share my knowledge with you. If you are ready to take your coding and object-oriented design skills to the next level, join me in my [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course as we explore the seven structural design patterns defined by the Gang of Four and learn how to leverage them in modern C++.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Software Design]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (4), [Software Design](../../Skills/Software%20Development/Software%20Design.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Speakers:** - [karoly] (1)
 
 
@@ -123,7 +123,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980&t=0)** - [Instructor] The adapter design pattern is a [[Software Design]] pattern that allows two incompatible interfaces to work together by converting one class's interface into another. This pattern is often used in situations where a client is expecting a specific interface but the object the client is trying to use as a different interface. One common use case for the adapter design pattern is when you have to integrate legacy code into your existing code base. Since you usually don't have access to the source code for this legacy code, you need to refactor your own code to match the existing APIs, right? Well, not so fast. With the adapter design pattern, you can define the class of the adapter that wraps the incompatible interface code and exposes an interface that matches your existing design. The adapter class acts as a bridge between the incompatible interfaces, allowing them to interact seamlessly with each other. Here's a UML diagram that illustrates how the adaptor design pattern works. We have our own component class which is incompatible with the legacy code's API, represented by the LegacyComponent class. But with the adaptor design pattern, we can easily integrate the two APIs using an adaptor class called LegacyAdapter. LegacyAdapter inherits from component, thus it exposes the interface known to our code base. At the same time, it wraps the LegacyComponent's instance and forwards the cause to this instance, called the adoptee.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980&t=0)** - [Instructor] The adapter design pattern is a [Software Design](../../Skills/Software%20Development/Software%20Design.md) pattern that allows two incompatible interfaces to work together by converting one class's interface into another. This pattern is often used in situations where a client is expecting a specific interface but the object the client is trying to use as a different interface. One common use case for the adapter design pattern is when you have to integrate legacy code into your existing code base. Since you usually don't have access to the source code for this legacy code, you need to refactor your own code to match the existing APIs, right? Well, not so fast. With the adapter design pattern, you can define the class of the adapter that wraps the incompatible interface code and exposes an interface that matches your existing design. The adapter class acts as a bridge between the incompatible interfaces, allowing them to interact seamlessly with each other. Here's a UML diagram that illustrates how the adaptor design pattern works. We have our own component class which is incompatible with the legacy code's API, represented by the LegacyComponent class. But with the adaptor design pattern, we can easily integrate the two APIs using an adaptor class called LegacyAdapter. LegacyAdapter inherits from component, thus it exposes the interface known to our code base. At the same time, it wraps the LegacyComponent's instance and forwards the cause to this instance, called the adoptee.
 >
 > **[1:38](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980&t=98)** Instead of using LegacyComponent instances in our code, we'll now use LegacyAdapter objects. As a consequence, there'll be no need to refactor our code to match LegacyComponent's API. Overall, the adapter design pattern provides a simple and elegant solution for integrating incompatible APIs into our existing design. Now, are there any pitfalls to be aware of when using the adaptor design pattern? One I can think of is that we introduce a new intermediary class into our design. Although this is a better solution than manually refactoring our code to match the legacy API, there are still a risk of introducing additional complexity and unexpected behavior. And since the adapter class is essentially a wrapper around another class, it can make your code harder to understand and maintain. Additionally, the adapter pattern can result in performance overhead since it involves creating an extra layer of abstraction. So if you have access to the legacy code and there are no design constraints or other factors preventing you from refactoring the legacy code to match your design, it is preferable to adapt the incompatible interface instead of introducing an intermediary adapter class. But if you decide to use the adapter design pattern, just keep in mind that it's essential to carefully design and thoroughly test your adapter class. By doing this, you'll prevent any unexpected issues from arising and ensure that your code base stays clean.
 >
@@ -131,7 +131,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Design]] (1)
+> **Frameworks & Libraries:** [Software Design](../../Skills/Software%20Development/Software%20Design.md) (1)
 > **Env Vars:** api (3), uml (1)
 > **Definitions:** is a  (3)
 > **Warnings:** be aware (1), keep in mind (1)
@@ -198,13 +198,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-refactor-using-the-adapter-pattern?u=76281980&t=0)** - [Instructor] Here's a challenge for you. Design an adapter that integrates a third party class into your design. The project consists of three classes. The [[Cloud Storage]] abstract class that provides the common interface that all cloud storage services must expose, it has two methods, upload contents, which uploads the specified content to cloud storage and get free space, which returns the amount of free space left on cloud storage. There are two classes that implement this interface, cloud drive and fast share. Your challenge is to design an adapter that integrates a new cloud storage service. Let's call it virtual drive. This class exposes a similar yet, incompatible interface. It has two methods, upload data and used space and a static constant that holds the total storage space. Note that used space returns the used cloud storage space and not the free available space. Now, we can't just add the virtual drive class as it is to our design since its interface doesn't match that of our existing cloud drive and fast share classes. But you already know how to solve this, right? By creating an adaptor that converts the incompatible interface of virtual drive to the interface of cloud storage. I'll leave it up to you to decide
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-refactor-using-the-adapter-pattern?u=76281980&t=0)** - [Instructor] Here's a challenge for you. Design an adapter that integrates a third party class into your design. The project consists of three classes. The [Cloud Storage](../../Skills/Cloud%20Computing/Cloud%20Storage.md) abstract class that provides the common interface that all cloud storage services must expose, it has two methods, upload contents, which uploads the specified content to cloud storage and get free space, which returns the amount of free space left on cloud storage. There are two classes that implement this interface, cloud drive and fast share. Your challenge is to design an adapter that integrates a new cloud storage service. Let's call it virtual drive. This class exposes a similar yet, incompatible interface. It has two methods, upload data and used space and a static constant that holds the total storage space. Note that used space returns the used cloud storage space and not the free available space. Now, we can't just add the virtual drive class as it is to our design since its interface doesn't match that of our existing cloud drive and fast share classes. But you already know how to solve this, right? By creating an adaptor that converts the incompatible interface of virtual drive to the interface of cloud storage. I'll leave it up to you to decide
 >
 > **[1:32](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-refactor-using-the-adapter-pattern?u=76281980&t=92)** which adaptor type to use, an object adaptor or a class adaptor. Give yourself 5 or 10 minutes to implement the adaptor then compare your approach with my solution. Good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Storage]] (7)
+> **Frameworks & Libraries:** [Cloud Storage](../../Skills/Cloud%20Computing/Cloud%20Storage.md) (7)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -212,13 +212,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-refactor-using-the-adapter-pattern?u=76281980&t=0)** - [Instructor] Welcome back. How did it go? Did you figure out how to design an adapter for the VirtualDrive class? Let's take a look at my solution. I chose to design a class adapter as it requires less code. I named the adapter class VirtualDriveAdapter. It inherits publicly from [[Cloud Storage]] to provide the expected interface, and privately from the VirtualDrive class to delegate requests to it. uploadContents forwards the request to uploadData. However, I had to implement a helper method for generating the unique identifier, the extra argument required by the uploadData method. Here's our private helper method, generateUID. So uploadContents forwards the request to uploadData by passing in the content and this unique identifier. The getFreeSpace method should return the free available space. But as you know, the VirtualDrive class exposes a method that returns the usedSpace. Thus, I subtracted the usedSpace from the total available space and returned the result. We can now use this adapter as a drop in replacement for the VirtualDrive class. So I added an instance of the VirtualDriveAdapter to our CloudServices array.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-refactor-using-the-adapter-pattern?u=76281980&t=0)** - [Instructor] Welcome back. How did it go? Did you figure out how to design an adapter for the VirtualDrive class? Let's take a look at my solution. I chose to design a class adapter as it requires less code. I named the adapter class VirtualDriveAdapter. It inherits publicly from [Cloud Storage](../../Skills/Cloud%20Computing/Cloud%20Storage.md) to provide the expected interface, and privately from the VirtualDrive class to delegate requests to it. uploadContents forwards the request to uploadData. However, I had to implement a helper method for generating the unique identifier, the extra argument required by the uploadData method. Here's our private helper method, generateUID. So uploadContents forwards the request to uploadData by passing in the content and this unique identifier. The getFreeSpace method should return the free available space. But as you know, the VirtualDrive class exposes a method that returns the usedSpace. Thus, I subtracted the usedSpace from the total available space and returned the result. We can now use this adapter as a drop in replacement for the VirtualDrive class. So I added an instance of the VirtualDriveAdapter to our CloudServices array.
 >
 > **[1:35](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-refactor-using-the-adapter-pattern?u=76281980&t=95)** This array of smart pointers of CloudStorage type. The for loop should print the same output as before except now we're also seeing the output from the adapter and the VirtualDrive class. Indeed, we can see it here. This adapter neatly solved the problem of integrating the incompatible class into our design. Next, we'll delve into the bridge design pattern. Stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Storage]] (1)
+> **Frameworks & Libraries:** [Cloud Storage](../../Skills/Cloud%20Computing/Cloud%20Storage.md) (1)
 > **Code Identifiers:** uploaddata (3), uploadcontents (2), usedspace (2), generateuid (1), getfreespace (1)
 > **Speakers:** - [instructor] (1)
 
@@ -231,13 +231,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980&t=0)** - [Instructor] Bridge is a structural design pattern that can solve design problems that involve complex class hierarchies also known as the inheritance explosion problem. You will know you have this problem if the number of derived classes keeps growing as the design evolves. The bridge pattern solves the exploding class hierarchy problem by separating common and specific parts of a design into separate hierarchies. Here's an example of an inheritance explosion. In this design, each user interface element can have a different style. The design requires four classes for each element: a concrete implementation of the element and three variations in style. The design is already becoming very complex, and it will only get worse as more elements and styles are added. The bridge design pattern solves this problem by separating the class hierarchy into two hierarchies, one for the element implementations and one for the style variations. Element holds a reference to style, making it possible to [[Jetpack Compose|compose]] the design from any combination of element and style. This reference acts as a bridge between the two hierarchies. By favoring composition over inheritance, the design is much simpler, more flexible, and open to future changes. To add a new style, say bold style, we just need to create a new style class and we're good to go.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980&t=0)** - [Instructor] Bridge is a structural design pattern that can solve design problems that involve complex class hierarchies also known as the inheritance explosion problem. You will know you have this problem if the number of derived classes keeps growing as the design evolves. The bridge pattern solves the exploding class hierarchy problem by separating common and specific parts of a design into separate hierarchies. Here's an example of an inheritance explosion. In this design, each user interface element can have a different style. The design requires four classes for each element: a concrete implementation of the element and three variations in style. The design is already becoming very complex, and it will only get worse as more elements and styles are added. The bridge design pattern solves this problem by separating the class hierarchy into two hierarchies, one for the element implementations and one for the style variations. Element holds a reference to style, making it possible to [compose](../../Glossary/Framework/Jetpack%20Compose.md) the design from any combination of element and style. This reference acts as a bridge between the two hierarchies. By favoring composition over inheritance, the design is much simpler, more flexible, and open to future changes. To add a new style, say bold style, we just need to create a new style class and we're good to go.
 >
 > **[1:34](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980&t=94)** In summary, the bridge design pattern attempts to solve the inheritance explosion problem by switching from inheritance to object composition. In the following videos, we're going to refactor a C++ design using the bridge design pattern.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [Compose](../../Glossary/Framework/Jetpack%20Compose.md) (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -317,7 +317,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980&t=0)** - [Instructor] The composite design pattern is a structural design pattern that allows us to [[Jetpack Compose|compose]] objects into tree-like structures to represent whole-part hierarchies. The pattern provides a unified interface for both individual objects and compositions of objects which makes it easier to treat them uniformly. The composite pattern is useful when we have a complex object hierarchy that consists of multiple levels of objects. The pattern defines two types of objects, composite and leaf objects. The composite objects are containers that can contain other composite and leaf objects. The leaf objects are the basic building blocks that cannot contain other objects. A good example of the composite design pattern is the filesystem. The filesystem is composed of folders and files. The folder represents a composite object that can contain other folders, the composites and files which are the leaf objects. One of the primary benefits of the composite pattern is that it makes it easier to treat composite and leaf objects uniformly. This means that we can iterate over a composite object and perform operations on all its child objects, regardless of whether they are composite or leaf objects. This is particularly useful when we want to apply the same operations to all objects in a hierarchy. Say that we want to find out how much space a folder uses on the disc. One way to do this is to iterate over all the files
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980&t=0)** - [Instructor] The composite design pattern is a structural design pattern that allows us to [compose](../../Glossary/Framework/Jetpack%20Compose.md) objects into tree-like structures to represent whole-part hierarchies. The pattern provides a unified interface for both individual objects and compositions of objects which makes it easier to treat them uniformly. The composite pattern is useful when we have a complex object hierarchy that consists of multiple levels of objects. The pattern defines two types of objects, composite and leaf objects. The composite objects are containers that can contain other composite and leaf objects. The leaf objects are the basic building blocks that cannot contain other objects. A good example of the composite design pattern is the filesystem. The filesystem is composed of folders and files. The folder represents a composite object that can contain other folders, the composites and files which are the leaf objects. One of the primary benefits of the composite pattern is that it makes it easier to treat composite and leaf objects uniformly. This means that we can iterate over a composite object and perform operations on all its child objects, regardless of whether they are composite or leaf objects. This is particularly useful when we want to apply the same operations to all objects in a hierarchy. Say that we want to find out how much space a folder uses on the disc. One way to do this is to iterate over all the files
 >
 > **[1:36](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980&t=96)** within that folder and add up the sizes of each file. If the folder contains other folders, we need to iterate over them and add up the sizes of all their files as well. And if those subfolders have other subfolders, we need to iterate over those as well. During this process, we need to know which objects are folders and which are files. Thus, our code has to check for the object type at each level of the hierarchy. The composite design pattern simplifies this process by allowing us to treat both composite and leaf objects uniformly. We start by defining a common interface for the folder and file classes. This interface should define operations that can be applied to both objects such as size. We then implement the size operation for each type. In the case of file objects, size returns the size of the file. For folder objects size iterates over all its child objects, which can be subfolders or files, calls their size methods, and sums up the results. The process continues until all the subfolders and their files have been processed. Using the composite design pattern, we can now easily calculate the size of a folder and all its subfolders in a uniform way. Since we don't need type checks to determine which objects are folders and which ones are files,
 >
@@ -325,7 +325,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [Compose](../../Glossary/Framework/Jetpack%20Compose.md) (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -352,7 +352,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/redesigning-with-the-composite-pattern?u=76281980&t=0)** - [Instructor] The composite pattern is a design pattern used to represent a part-whole hierarchy that deals with objects composed of other objects. It allows us to [[Design Systems]] that can contain a mixture of composite and leaf objects, which can be manipulated in a uniform manner. This seems to be exactly what we need. In our project, Box is the composite object, that can contain books and toys, which are leaf objects, and also other boxes. To redesign the system using the composite pattern, we'll have to define a common interface for both composite and leaf objects. This interface should provide the methods common to all objects, the price method in our case. I go ahead and create a new abstract class called Product. It has a public pure virtual method price. And I'll also add a default destructure. Next, I refactor the Book class to inherit from Product.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/redesigning-with-the-composite-pattern?u=76281980&t=0)** - [Instructor] The composite pattern is a design pattern used to represent a part-whole hierarchy that deals with objects composed of other objects. It allows us to [Design Systems](../../Skills/Web%20Development/Design%20Systems.md) that can contain a mixture of composite and leaf objects, which can be manipulated in a uniform manner. This seems to be exactly what we need. In our project, Box is the composite object, that can contain books and toys, which are leaf objects, and also other boxes. To redesign the system using the composite pattern, we'll have to define a common interface for both composite and leaf objects. This interface should provide the methods common to all objects, the price method in our case. I go ahead and create a new abstract class called Product. It has a public pure virtual method price. And I'll also add a default destructure. Next, I refactor the Book class to inherit from Product.
 >
 > **[1:16](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/redesigning-with-the-composite-pattern?u=76281980&t=76)** Its current price method matches exactly the interface of the Product class. So no changes are needed here. Except I'll add the override keyword. The Toy class comes next. I'll also make it inherit from Product. I'll make the required changes to its price method. So instead of getPrice, it should be called price. And we're done. The Box class will also inherit from Product.
 >
@@ -366,7 +366,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Systems]] (1)
+> **Frameworks & Libraries:** [Design Systems](../../Skills/Web%20Development/Design%20Systems.md) (1)
 > **Code Identifiers:** addproduct (3), addbook (2), getprice (1), addbox (1), addtoy (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
@@ -591,13 +591,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980&t=0)** - [Instructor] The flyweight is a structural design pattern that aims to reduce the memory usage and creation costs of objects by sharing common data instead of replicating it in each instance. This pattern is suitable for situations where a large number of objects need to be created and each object has common properties that can be shared. The flyweight pattern can be applied to various scenarios including graphical user interfaces, [[Game Development]] and [[Database Management]] systems. It helps to improve the performance and efficiency of these applications by reducing the number of objects created and the amount of memory used. The flyweight design pattern consists of three main components. The Flyweight. This interface defines the operations that can be performed on the flyweight objects. ConcreteFlyweight. This is the actual flyweight class that implements the interface defined by the flyweight. It encapsulates the object's shared immutable state, also called the intrinsic state. The instance specific extrinsic state is externalized and must be set up and supplied to the flyweight object by the client. And the FlyweightFactory which maintains the pool of flyweight objects and provides a way to retrieve them. Clients must use the factory to request flyweight objects. Now, before we continue, I want to clarify two important concepts
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980&t=0)** - [Instructor] The flyweight is a structural design pattern that aims to reduce the memory usage and creation costs of objects by sharing common data instead of replicating it in each instance. This pattern is suitable for situations where a large number of objects need to be created and each object has common properties that can be shared. The flyweight pattern can be applied to various scenarios including graphical user interfaces, [Game Development](../../Skills/Software%20Development/Game%20Development.md) and [Database Management](../../Topics/Database%20Management.md) systems. It helps to improve the performance and efficiency of these applications by reducing the number of objects created and the amount of memory used. The flyweight design pattern consists of three main components. The Flyweight. This interface defines the operations that can be performed on the flyweight objects. ConcreteFlyweight. This is the actual flyweight class that implements the interface defined by the flyweight. It encapsulates the object's shared immutable state, also called the intrinsic state. The instance specific extrinsic state is externalized and must be set up and supplied to the flyweight object by the client. And the FlyweightFactory which maintains the pool of flyweight objects and provides a way to retrieve them. Clients must use the factory to request flyweight objects. Now, before we continue, I want to clarify two important concepts
 >
 > **[1:33](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980&t=93)** because they are crucial to implementing this pattern correctly. Intrinsic state is the data that's shared among all flyweight instances. This data is immutable and is typically passed during the construction of the flyweight object. Extrinsic state, on the other hand, is the data that is specific to each instance of a flyweight class. This data is not shared among instances and can vary from object to object. The extrinsic state is managed by the client code and passed to the flyweight instance through a dedicated method call. The flyweight design pattern can reduce memory usage by sharing common data among objects. By reducing the number of objects created, this pattern can also help to improve the performance and efficiency of applications. While these benefits are substantial, the flyweight design pattern should only be used when we deal with the large number of objects and these objects have common properties that can be shared. Otherwise, the added complexity may not be worth the effort.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Game Development]] (1), [[Database Management]] (1)
+> **Frameworks & Libraries:** [Game Development](../../Skills/Software%20Development/Game%20Development.md) (1), [Database Management](../../Topics/Database%20Management.md) (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -652,13 +652,13 @@ created: 2026-05-03
 >
 > **[3:37](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980&t=217)** and I pass in the file name and a new Sprite. And finally, I return the Sprite pointer by accessing the the iterator's second element. Return newIt, second. Let's not forget to deallocate the memory. I'll define the des disruptor and iterate through both maps to free up all the sprites and textures we created by calling delete on each element. So let's add the destructure here. The last part of our refactoring is to create the Sprite using the factory. So let's crawl down to the main function and I'll create the SpriteFactory instance. SpriteFactory factory. And I'll call its makeSprite method to create the Sprite objects. And let's pass in the textureFile. And I set each sprite's position and size the extrinsic properties by calling the newly added setPositionSize method. Sprite, setPositionSize,
 >
-> **[5:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980&t=310)** 10 for x, 10 for y, 10 times i for width, and 10 times i for the height. And the [[Representational State Transfer (REST)|rest]] of the code remains unchanged. Let's see if everything works as expected. Yeah, right. We don't need the cleanup code anymore because we have that in the factory's destructure.
+> **[5:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980&t=310)** 10 for x, 10 for y, 10 times i for width, and 10 times i for the height. And the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the code remains unchanged. Let's see if everything works as expected. Yeah, right. We don't need the cleanup code anymore because we have that in the factory's destructure.
 >
 > **[5:45](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980&t=345)** We can see that a single Sprite gets created and the diagnostic message printed from the Sprite render method confirms that all sprite share the same texture. Mission accomplished. Next, we'll talk about the proxy design pattern.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Code Identifiers:** makesprite (4), setpositionsize (3), gettexture (2), newit (1), texturefile (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -716,13 +716,13 @@ created: 2026-05-03
 >
 > **[2:48](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980&t=168)** - [Instructor] And I'll initialize it in the constructor. So, I'll add a constructor as well. It takes file name as input parameter. Now, I can initialize my file name member, and I'll also initialize the wrapped real config file pointer to null, because we don't like uninitialized pointers. And finally, let's output a console message to see when the proxy gets created. Config file proxy created. There is a typo here, and now I can complete my get settings method. Return, and now I forward the call to the real config file, the wrapped instance and call it get settings method. And now that I delegated the call to real config file, we're almost done. The only thing left is to use the proxy in place of the real config file object in the main function. So, I create an instance of config file proxy and comment
 >
-> **[4:28](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980&t=268)** out the code that creates the real config file object. I keep the name of the object so, we don't have to modify the [[Representational State Transfer (REST)|rest]] of our code. And now, let's execute the program again. So, use settings is set to false. Let's see what happens.
+> **[4:28](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980&t=268)** out the code that creates the real config file object. I keep the name of the object so, we don't have to modify the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of our code. And now, let's execute the program again. So, use settings is set to false. Let's see what happens.
 >
 > **[4:52](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980&t=292)** - There are only two messages in the console. The first one indicates that the proxy was created and the second says that our configuration was not used. Now, since use settings is false, the proxies get settings method doesn't get called. Thus, the real config file object isn't created. And that's exactly what we wanted. I'll try again with use settings set to true. And running the demo gives us the following output. So in this case, the get settings method is called which in turn triggers the creation of the real config file object and the proxy forwards the call to this object. We just saw how the virtual proxy design pattern could be used to delay the creation of expensive objects until they are needed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Speakers:** - [instructor] (6), - there (1)
 > **Non-Speech:** (keyboard clicking) (5)
 > **CLI Commands:** make (2)
@@ -747,11 +747,11 @@ created: 2026-05-03
 >
 > **[0:05](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-implement-a-protective-proxy?u=76281980&t=5)** - [Instructor] I hope you had to go at the challenge before checking out my solution. Here's the design of the Protective Proxy class I came up with. Secure storage proxy is derived from storage and exposes the same public interface as the secure storage class, with an additional constructor parameter for the secret code. The class wraps a secure storage instance that gets initialized in the constructor. I used a unique pointer to ensure that the instance gets automatically destroyed when the proxy is deleted. The get contents method contains the access control logic. The proxy requires clients to provide a valid code before granting access to the secure resource. The private authorized method performs a single string comparison, to verify that the provided code matches the secret code, which is 42. If there is a match, the method returns true and get contents forwards the card to the secure storage object. Otherwise, it returns the string access denied. Now, bear in mind that I use this basic approach exclusively for demonstration purposes. It goes without saying that comparing strings and using hard-coded passwords is not how you should implement authentication mechanisms for real world applications. In the main function, I instantiate a secure storage proxy instance with the same string data as in the initial project.
 >
-> **[1:39](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-implement-a-protective-proxy?u=76281980&t=99)** But this time I also provide the secret code. Let's run the demo to see if it works as expected. Yep, it works as intended. Now, let's pass a wrong code, to see if the access control rules kick in. How about 41? And there you go, Access Denied. The proxy design pattern can solve various design problems, involving access control, lazy loading, and optimized usage of remote resources. It's a design pattern worth knowing, along with other [[Design Patterns]] from the gang of four.
+> **[1:39](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-implement-a-protective-proxy?u=76281980&t=99)** But this time I also provide the secret code. Let's run the demo to see if it works as expected. Yep, it works as intended. Now, let's pass a wrong code, to see if the access control rules kick in. How about 41? And there you go, Access Denied. The proxy design pattern can solve various design problems, involving access control, lazy loading, and optimized usage of remote resources. It's a design pattern worth knowing, along with other [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) from the gang of four.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
@@ -765,20 +765,20 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=0)** - [Karoly] Congratulations, you've completed the C++ [[Design Patterns]] Structural course and learned how to use structural design patterns to create more elegant, efficient, and scalable software. I hope you found the course informative, engaging, and rewarding. To solidify your understanding of the concepts covered in this course, I encourage you to practice implementing the structural design patterns in your own code. By applying these patterns in real-world projects, you'll gain valuable experience and expertise that will set you apart as a skilled and knowledgeable developer. Also, don't hesitate to revisit the course from time to time to refresh your knowledge and deepen your understanding of the material. The lessons and exercises in this course are designed to be valuable and relevant for years to come. If you enjoyed this course and want to learn more about [[Software Development]] and design, be sure to check out my other [[LinkedIn]] Learning courses. I cover a wide range of topics from [[Swift (Programming Language)|Swift]] and iOS programming to [[Software Architecture]] and object-oriented design. To deepen your C++ knowledge, I recommend checking out Advanced C++ Topics with Bill Weinman and C++ Code Clinic with Olivia Stone. These courses cover advanced C++ concepts and practical coding challenges that will help you take your skills to the next level. Thank you for watching this course
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=0)** - [Karoly] Congratulations, you've completed the C++ [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) Structural course and learned how to use structural design patterns to create more elegant, efficient, and scalable software. I hope you found the course informative, engaging, and rewarding. To solidify your understanding of the concepts covered in this course, I encourage you to practice implementing the structural design patterns in your own code. By applying these patterns in real-world projects, you'll gain valuable experience and expertise that will set you apart as a skilled and knowledgeable developer. Also, don't hesitate to revisit the course from time to time to refresh your knowledge and deepen your understanding of the material. The lessons and exercises in this course are designed to be valuable and relevant for years to come. If you enjoyed this course and want to learn more about [Software Development](../../Topics/Software%20Development.md) and design, be sure to check out my other [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning courses. I cover a wide range of topics from [Swift](../../Skills/Mobile%20Development/Swift%20(Programming%20Language).md) and iOS programming to [Software Architecture](../../Skills/Web%20Development/Software%20Architecture.md) and object-oriented design. To deepen your C++ knowledge, I recommend checking out Advanced C++ Topics with Bill Weinman and C++ Code Clinic with Olivia Stone. These courses cover advanced C++ concepts and practical coding challenges that will help you take your skills to the next level. Thank you for watching this course
 >
 > **[1:32](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=92)** and investing in your programming education. I'm honored to have been your instructor, and I hope you found the course valuable and enjoyable. Good luck with your coding projects and keep exploring the exciting world of software development.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Software Development]] (2), [[LinkedIn]] (1), [[Swift (Programming Language)|Swift]] (1), [[Software Architecture]] (1)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (3), [Software Development](../../Topics/Software%20Development.md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1), [Swift](../../Skills/Mobile%20Development/Swift%20(Programming%20Language).md) (1), [Software Architecture](../../Skills/Web%20Development/Software%20Architecture.md) (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [karoly] (1)
 
 
 ## Instructor
 
-- [[Károly Nyisztor]]
+- [Károly Nyisztor](../../Instructors/Software%20Development/K%C3%A1roly%20Nyisztor.md)
 
 ## Resources
 
@@ -793,26 +793,26 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[C++ Programming Professional Certificate by OpenEDG C++ Institute]]
-← [[C Plus Plus Essential Training]] | **2 of 3** | [[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices]] →
+### In [C++ Programming Professional Certificate by OpenEDG C++ Institute](../../Paths/Data%20Science/Professional%20Certificates/C%2B%2B%20Programming%20Professional%20Certificate%20by%20OpenEDG%20C%2B%2B%20Institute.md)
+← [C Plus Plus Essential Training](C%20Plus%20Plus%20Essential%20Training.md) | **2 of 3** | [C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices](../Software%20Development/C%2B%2B%20Development-%20Advanced%20Concepts%2C%20Lambda%20Expressions%2C%20and%20Best%20Practices.md) →
 
 ## Part of
 
-- [[C++ Programming Professional Certificate by OpenEDG C++ Institute]]
+- [C++ Programming Professional Certificate by OpenEDG C++ Institute](../../Paths/Data%20Science/Professional%20Certificates/C%2B%2B%20Programming%20Professional%20Certificate%20by%20OpenEDG%20C%2B%2B%20Institute.md)
 
 ## Appears In
 
-- [[C++ Programming Professional Certificate by OpenEDG C++ Institute]]
+- [C++ Programming Professional Certificate by OpenEDG C++ Institute](../../Paths/Data%20Science/Professional%20Certificates/C%2B%2B%20Programming%20Professional%20Certificate%20by%20OpenEDG%20C%2B%2B%20Institute.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[C++ Design Patterns- Behavioral]] — Software Design Patterns, C++
-- [[Python Data Structures- Trees]] — Data Structures
-- [[Python Data Structures- Linked Lists]] — Data Structures
-- [[Python Data Structures- Stacks, Deques, and Queues]] — Data Structures
-- [[Python Data Structures and Algorithms]] — Data Structures
+- [C++ Design Patterns- Behavioral](../DevOps/C%2B%2B%20Design%20Patterns-%20Behavioral.md) — Software Design Patterns, C++
+- [Python Data Structures- Trees](../Database%20Management/Python%20Data%20Structures-%20Trees.md) — Data Structures
+- [Python Data Structures- Linked Lists](../Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md) — Data Structures
+- [Python Data Structures- Stacks, Deques, and Queues](../Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md) — Data Structures
+- [Python Data Structures and Algorithms](../Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md) — Data Structures
 
 ---
 

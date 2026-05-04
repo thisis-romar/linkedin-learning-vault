@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Transition from Data Science to Data Engineering]]
+- [Transition from Data Science to Data Engineering](../../Courses/Cloud%20Computing/Transition%20from%20Data%20Science%20to%20Data%20Engineering.md)

@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Java Advanced Concepts For High Performance Development]] — Advanced · 41,649 learners
+- [Java Advanced Concepts For High Performance Development](../../Courses/Data%20Science/Java%20Advanced%20Concepts%20For%20High%20Performance%20Development.md) — Advanced · 41,649 learners
 
 ## Related Skills
 
-- [[Java]] — 1 shared course
+- [Java](Java.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Nail Your Java Interview]] — 1 mentions
+1. [Nail Your Java Interview](../../Courses/Cloud%20Computing/Nail%20Your%20Java%20Interview.md) — 1 mentions

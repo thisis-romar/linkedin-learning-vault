@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Practical Python for Algorithmic Trading]]
+- [Practical Python for Algorithmic Trading](../../Courses/Data%20Science/Practical%20Python%20for%20Algorithmic%20Trading.md)

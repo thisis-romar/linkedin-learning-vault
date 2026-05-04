@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building Rapport with Customers (2022)]] — 27m · 32,623 learners
+- [Building Rapport with Customers (2022)](../../Courses/IT%20Help%20Desk/Building%20Rapport%20with%20Customers%20(2022).md) — 27m · 32,623 learners
 
 ## Related Skills
 
-- [[Customer Service]] — 1 shared course
+- [Customer Service](Customer%20Service.md) — 1 shared course

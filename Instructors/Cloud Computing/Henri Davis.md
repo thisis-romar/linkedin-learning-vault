@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advance Your Cybersecurity Career]]
+- [Advance Your Cybersecurity Career](../../Courses/Cloud%20Computing/Advance%20Your%20Cybersecurity%20Career.md)

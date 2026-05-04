@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL Tips and Tricks for Data Science]]
-- [[Elasticsearch Essential Training (2023)]]
+- [SQL Tips and Tricks for Data Science](../../Courses/Data%20Science/SQL%20Tips%20and%20Tricks%20for%20Data%20Science.md)
+- [Elasticsearch Essential Training (2023)](../../Courses/Database%20Management/Elasticsearch%20Essential%20Training%20(2023).md)

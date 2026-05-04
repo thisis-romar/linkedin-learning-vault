@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python Data Structures- Stacks, Deques, and Queues]]
+- [Python Data Structures- Stacks, Deques, and Queues](../../Courses/Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md)

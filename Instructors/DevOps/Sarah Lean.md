@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[IT Service Desk Careers and Certifications]]
+- [IT Service Desk Careers and Certifications](../../Courses/DevOps/IT%20Service%20Desk%20Careers%20and%20Certifications.md)

@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Word Online (Microsoft 365)]]
-- [[Word Essential Training (Microsoft 365) (2023)]]
-- [[Learning Microsoft 365]]
+- [Learning Word Online (Microsoft 365)](../../Courses/Cloud%20Computing/Learning%20Word%20Online%20(Microsoft%20365).md)
+- [Word Essential Training (Microsoft 365) (2023)](../../Courses/Cloud%20Computing/Word%20Essential%20Training%20(Microsoft%20365)%20(2023).md)
+- [Learning Microsoft 365](../../Courses/Cloud%20Computing/Learning%20Microsoft%20365.md)

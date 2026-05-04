@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[WebSocket Communications with Node and Angular]]
+- [WebSocket Communications with Node and Angular](../../Courses/Software%20Development/WebSocket%20Communications%20with%20Node%20and%20Angular.md)

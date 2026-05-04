@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Negotiation Foundations]]
+- [Negotiation Foundations](../../Courses/Data%20Science/Negotiation%20Foundations.md)

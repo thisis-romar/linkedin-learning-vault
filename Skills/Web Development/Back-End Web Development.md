@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Node Js Security]] — Intermediate · 112,061 learners
-- [[WordPress Essential Training]] — Beginner · 2h 4m · 33,332 learners
+- [Node Js Security](../../Courses/Web%20Development/Node%20Js%20Security.md) — Intermediate · 112,061 learners
+- [WordPress Essential Training](../../Courses/Web%20Development/WordPress%20Essential%20Training.md) — Beginner · 2h 4m · 33,332 learners
 
 ## Related Skills
 
-- [[Wordpress Development]] — 1 shared course
-- [[WordPress]] — 1 shared course
-- [[Application Security]] — 1 shared course
-- [[Node.js]] — 1 shared course
-- [[Web Development]] — 1 shared course
+- [Wordpress Development](Wordpress%20Development.md) — 1 shared course
+- [WordPress](WordPress.md) — 1 shared course
+- [Application Security](../Cybersecurity/Application%20Security.md) — 1 shared course
+- [Node.js](Node.js.md) — 1 shared course
+- [Web Development](../../Topics/Web%20Development.md) — 1 shared course

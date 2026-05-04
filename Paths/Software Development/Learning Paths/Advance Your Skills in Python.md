@@ -17,31 +17,31 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Hands-On Introduction- Python]]'
+  - course: '[Hands-On Introduction- Python](../../../Courses/Software%20Development/Hands-On%20Introduction-%20Python.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python- Design Patterns]]'
+  - course: '[Python- Design Patterns](../../../Courses/Software%20Development/Python-%20Design%20Patterns.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python Data Structures and Algorithms]]'
+  - course: '[Python Data Structures and Algorithms](../../../Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python Automation and Testing]]'
+  - course: '[Python Automation and Testing](../../../Courses/Software%20Development/Python%20Automation%20and%20Testing.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python GUI Development with Tkinter]]'
+  - course: '[Python GUI Development with Tkinter](../../../Courses/Software%20Development/Python%20GUI%20Development%20with%20Tkinter.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Create an Open-Source Project in Python]]'
+  - course: '[Create an Open-Source Project in Python](../../../Courses/Software%20Development/Create%20an%20Open-Source%20Project%20in%20Python.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Build Three Real-World Python Applications]]'
+  - course: '[Build Three Real-World Python Applications](../../../Courses/Software%20Development/Build%20Three%20Real-World%20Python%20Applications.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -56,30 +56,30 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Hands-On Introduction- Python]] _(1h 18m)_
-2. [[Python- Design Patterns]] _(2h 30m)_
-3. [[Python Data Structures and Algorithms]] _(2h 19m)_
-4. [[Python Automation and Testing]] _(1h 38m)_
-5. [[Python GUI Development with Tkinter]] _(4h 56m)_
-6. [[Create an Open-Source Project in Python]] _(1h 24m)_
-7. [[Build Three Real-World Python Applications]] _(2h 27m)_
+1. [Hands-On Introduction- Python](../../../Courses/Software%20Development/Hands-On%20Introduction-%20Python.md) _(1h 18m)_
+2. [Python- Design Patterns](../../../Courses/Software%20Development/Python-%20Design%20Patterns.md) _(2h 30m)_
+3. [Python Data Structures and Algorithms](../../../Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md) _(2h 19m)_
+4. [Python Automation and Testing](../../../Courses/Software%20Development/Python%20Automation%20and%20Testing.md) _(1h 38m)_
+5. [Python GUI Development with Tkinter](../../../Courses/Software%20Development/Python%20GUI%20Development%20with%20Tkinter.md) _(4h 56m)_
+6. [Create an Open-Source Project in Python](../../../Courses/Software%20Development/Create%20an%20Open-Source%20Project%20in%20Python.md) _(1h 24m)_
+7. [Build Three Real-World Python Applications](../../../Courses/Software%20Development/Build%20Three%20Real-World%20Python%20Applications.md) _(2h 27m)_
 
 ## Course Flow
 
-1. [[Hands-On Introduction- Python]] → 2. [[Python- Design Patterns]] → 3. [[Python Data Structures and Algorithms]] → 4. [[Python Automation and Testing]] → 5. [[Python GUI Development with Tkinter]] → 6. [[Create an Open-Source Project in Python]] → 7. [[Build Three Real-World Python Applications]]
+1. [Hands-On Introduction- Python](../../../Courses/Software%20Development/Hands-On%20Introduction-%20Python.md) → 2. [Python- Design Patterns](../../../Courses/Software%20Development/Python-%20Design%20Patterns.md) → 3. [Python Data Structures and Algorithms](../../../Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md) → 4. [Python Automation and Testing](../../../Courses/Software%20Development/Python%20Automation%20and%20Testing.md) → 5. [Python GUI Development with Tkinter](../../../Courses/Software%20Development/Python%20GUI%20Development%20with%20Tkinter.md) → 6. [Create an Open-Source Project in Python](../../../Courses/Software%20Development/Create%20an%20Open-Source%20Project%20in%20Python.md) → 7. [Build Three Real-World Python Applications](../../../Courses/Software%20Development/Build%20Three%20Real-World%20Python%20Applications.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Python Hands-On Practice]] (3 shared courses)
-- [[A Quick Start Guide to Programming in Python]] (1 shared courses)
-- [[Master Python for Data Science]] (1 shared courses)
+- [Python Hands-On Practice](Python%20Hands-On%20Practice.md) (3 shared courses)
+- [A Quick Start Guide to Programming in Python](A%20Quick%20Start%20Guide%20to%20Programming%20in%20Python.md) (1 shared courses)
+- [Master Python for Data Science](../../Database%20Management/Learning%20Paths/Master%20Python%20for%20Data%20Science.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

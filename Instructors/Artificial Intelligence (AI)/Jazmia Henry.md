@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning XAI- Explainable Artificial Intelligence]]
+- [Learning XAI- Explainable Artificial Intelligence](../../Courses/Artificial%20Intelligence%20(AI)/Learning%20XAI-%20Explainable%20Artificial%20Intelligence.md)

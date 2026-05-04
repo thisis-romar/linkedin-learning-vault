@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Removing Noise and Bias from Strategic Decision-Making]]
-- [[Amplify Your Critical Thinking with Generative AI]]
+- [Removing Noise and Bias from Strategic Decision-Making](../../Courses/Data%20Science/Removing%20Noise%20and%20Bias%20from%20Strategic%20Decision-Making.md)
+- [Amplify Your Critical Thinking with Generative AI](../../Courses/Artificial%20Intelligence%20(AI)/Amplify%20Your%20Critical%20Thinking%20with%20Generative%20AI.md)

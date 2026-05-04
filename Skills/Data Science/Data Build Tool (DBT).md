@@ -22,17 +22,17 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Engineering With Dbt]] — Intermediate · 140,701 learners
-- [[Data Engineering- dbt for SQL]] — Advanced · 1h 31m · 54,969 learners
+- [Data Engineering With Dbt](../../Courses/Data%20Science/Data%20Engineering%20With%20Dbt.md) — Intermediate · 140,701 learners
+- [Data Engineering- dbt for SQL](../../Courses/Data%20Science/Data%20Engineering-%20dbt%20for%20SQL.md) — Advanced · 1h 31m · 54,969 learners
 
 ## Related Skills
 
-- [[Data Engineering]] — 2 shared courses
-- [[SQL]] — 1 shared course
+- [Data Engineering](Data%20Engineering.md) — 2 shared courses
+- [SQL](SQL.md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[End-to-End Data Engineering Project]] — 1 mentions
-2. [[Data Engineering With Dbt]] — 1 mentions
-3. [[Data Engineering- dbt for SQL]] — 1 mentions
-4. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
+1. [End-to-End Data Engineering Project](../../Courses/Data%20Science/End-to-End%20Data%20Engineering%20Project.md) — 1 mentions
+2. [Data Engineering With Dbt](../../Courses/Data%20Science/Data%20Engineering%20With%20Dbt.md) — 1 mentions
+3. [Data Engineering- dbt for SQL](../../Courses/Data%20Science/Data%20Engineering-%20dbt%20for%20SQL.md) — 1 mentions
+4. [Complete Guide to Data Lakes and Lakehouses](../../Courses/Data%20Science/Complete%20Guide%20to%20Data%20Lakes%20and%20Lakehouses.md) — 1 mentions

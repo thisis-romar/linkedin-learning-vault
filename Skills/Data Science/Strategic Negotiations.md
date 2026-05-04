@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Negotiation]] — 56m · 662,872 learners
+- [Strategic Negotiation](../../Courses/Data%20Science/Strategic%20Negotiation.md) — 56m · 662,872 learners

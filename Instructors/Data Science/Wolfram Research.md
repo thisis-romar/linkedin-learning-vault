@@ -24,11 +24,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Statistical Analysis with Wolfram Language]]
-- [[Quantile and Box-Whisker Plots in the Wolfram Language]]
-- [[Wavelet Analysis- Concepts with Wolfram Language]]
-- [[Wavelet Analysis- Applications with Wolfram Language]]
-- [[Modeling Market Prices Using Stochastic Processes with Wolfram Language]]
-- [[Interacting with Blockchains in the Wolfram Language]]
-- [[Built-in Machine Learning in the Wolfram Language]]
-- [[Building Blocks for Deep Learning in the Wolfram Language]]
+- [Statistical Analysis with Wolfram Language](../../Courses/Data%20Science/Statistical%20Analysis%20with%20Wolfram%20Language.md)
+- [Quantile and Box-Whisker Plots in the Wolfram Language](../../Courses/Data%20Science/Quantile%20and%20Box-Whisker%20Plots%20in%20the%20Wolfram%20Language.md)
+- [Wavelet Analysis- Concepts with Wolfram Language](../../Courses/Data%20Science/Wavelet%20Analysis-%20Concepts%20with%20Wolfram%20Language.md)
+- [Wavelet Analysis- Applications with Wolfram Language](../../Courses/Data%20Science/Wavelet%20Analysis-%20Applications%20with%20Wolfram%20Language.md)
+- [Modeling Market Prices Using Stochastic Processes with Wolfram Language](../../Courses/Data%20Science/Modeling%20Market%20Prices%20Using%20Stochastic%20Processes%20with%20Wolfram%20Language.md)
+- [Interacting with Blockchains in the Wolfram Language](../../Courses/Data%20Science/Interacting%20with%20Blockchains%20in%20the%20Wolfram%20Language.md)
+- [Built-in Machine Learning in the Wolfram Language](../../Courses/Data%20Science/Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.md)
+- [Building Blocks for Deep Learning in the Wolfram Language](../../Courses/Data%20Science/Building%20Blocks%20for%20Deep%20Learning%20in%20the%20Wolfram%20Language.md)

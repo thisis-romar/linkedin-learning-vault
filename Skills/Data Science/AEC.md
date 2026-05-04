@@ -22,15 +22,15 @@ created: 2026-05-03
 
 ## Courses
 
-- [[QGIS and Python for AEC]] — Intermediate · 2h 18m · 19,120 learners
+- [QGIS and Python for AEC](../../Courses/Data%20Science/QGIS%20and%20Python%20for%20AEC.md) — Intermediate · 2h 18m · 19,120 learners
 
 ## Related Skills
 
-- [[Quantum GIS]] — 1 shared course
-- [[Python (Programming Language)]] — 1 shared course
+- [Quantum GIS](Quantum%20GIS.md) — 1 shared course
+- [Python (Programming Language)](../Software%20Development/Python%20(Programming%20Language).md) — 1 shared course
 
 ## Mentioned In Transcripts _(9 total mentions)_
 
-1. [[QGIS and Python for AEC]] — 6 mentions
-2. [[InfraWorks and ArcGIS- AEC Collaboration]] — 2 mentions
-3. [[Complete Your First Project in R]] — 1 mentions
+1. [QGIS and Python for AEC](../../Courses/Data%20Science/QGIS%20and%20Python%20for%20AEC.md) — 6 mentions
+2. [InfraWorks and ArcGIS- AEC Collaboration](../../Courses/Data%20Science/InfraWorks%20and%20ArcGIS-%20AEC%20Collaboration.md) — 2 mentions
+3. [Complete Your First Project in R](../../Courses/Data%20Science/Complete%20Your%20First%20Project%20in%20R.md) — 1 mentions

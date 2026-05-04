@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Navigating the EU AI Act]]
+- [Navigating the EU AI Act](../../Courses/Artificial%20Intelligence%20(AI)/Navigating%20the%20EU%20AI%20Act.md)

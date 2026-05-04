@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Trello Essential Training]]
+- [Trello Essential Training](../../Courses/Cloud%20Computing/Trello%20Essential%20Training.md)

@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Communication Foundations]] — 386,009 learners
-- [[Business Etiquette- Phone, Email, and Text]] — Beginner · 1h 3m · 28,902 learners
+- [Communication Foundations](../../Courses/Cloud%20Computing/Communication%20Foundations.md) — 386,009 learners
+- [Business Etiquette- Phone, Email, and Text](../../Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md) — Beginner · 1h 3m · 28,902 learners
 
 ## Related Skills
 
-- [[Phone Etiquette]] — 1 shared course
-- [[Email Etiquette]] — 1 shared course
-- [[Interpersonal Communication]] — 1 shared course
+- [Phone Etiquette](Phone%20Etiquette.md) — 1 shared course
+- [Email Etiquette](Email%20Etiquette.md) — 1 shared course
+- [Interpersonal Communication](../Data%20Science/Interpersonal%20Communication.md) — 1 shared course

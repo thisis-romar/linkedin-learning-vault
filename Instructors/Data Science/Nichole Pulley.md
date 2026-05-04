@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Nail Your SQL Interview]]
+- [Nail Your SQL Interview](../../Courses/Data%20Science/Nail%20Your%20SQL%20Interview.md)

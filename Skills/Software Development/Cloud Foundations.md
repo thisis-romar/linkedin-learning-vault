@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Google Cloud Foundations]] — Beginner · 3,860 learners
+- [Google Cloud Foundations](../../Courses/Cloud%20Computing/Google%20Cloud%20Foundations.md) — Beginner · 3,860 learners
 
 ## Related Skills
 
-- [[Google Cloud Platform (GCP)]] — 1 shared course
+- [Google Cloud Platform (GCP)](Google%20Cloud%20Platform%20(GCP).md) — 1 shared course

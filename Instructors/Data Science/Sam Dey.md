@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Nano Tips For Marketing Using AI Tools with Sam Dey]]
-- [[Marketing Foundations- Ecommerce]]
+- [Nano Tips For Marketing Using AI Tools with Sam Dey](../../Courses/Data%20Science/Nano%20Tips%20For%20Marketing%20Using%20AI%20Tools%20with%20Sam%20Dey.md)
+- [Marketing Foundations- Ecommerce](../../Courses/Data%20Science/Marketing%20Foundations-%20Ecommerce.md)

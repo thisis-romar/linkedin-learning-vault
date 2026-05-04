@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Autopsy for Digital Forensics]]
+- [Learning Autopsy for Digital Forensics](../../Courses/Cybersecurity/Learning%20Autopsy%20for%20Digital%20Forensics.md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[XAI and Interpretability in Cybersecurity]]
+- [XAI and Interpretability in Cybersecurity](../../Courses/Artificial%20Intelligence%20(AI)/XAI%20and%20Interpretability%20in%20Cybersecurity.md)

@@ -28,7 +28,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Framing Cloud Discussions for the C-Suite]]
-- [[Presenting Cloud Migration Benefits to the C-Suite]]
-- [[Cloud Architecture- Advanced Concepts]]
-- [[Cloud for Business- Developing a Cloud Center of Excellence]]
+- [Framing Cloud Discussions for the C-Suite](../../Courses/Cloud%20Computing/Framing%20Cloud%20Discussions%20for%20the%20C-Suite.md)
+- [Presenting Cloud Migration Benefits to the C-Suite](../../Courses/Cloud%20Computing/Presenting%20Cloud%20Migration%20Benefits%20to%20the%20C-Suite.md)
+- [Cloud Architecture- Advanced Concepts](../../Courses/Cloud%20Computing/Cloud%20Architecture-%20Advanced%20Concepts.md)
+- [Cloud for Business- Developing a Cloud Center of Excellence](../../Courses/Cloud%20Computing/Cloud%20for%20Business-%20Developing%20a%20Cloud%20Center%20of%20Excellence.md)

@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced Spring- Application Events]] — Advanced · 43m · 9,810 learners
+- [Advanced Spring- Application Events](../../Courses/Cloud%20Computing/Advanced%20Spring-%20Application%20Events.md) — Advanced · 43m · 9,810 learners
 
 ## Related Skills
 
-- [[Spring Framework]] — 1 shared course
+- [Spring Framework](../Software%20Development/Spring%20Framework.md) — 1 shared course

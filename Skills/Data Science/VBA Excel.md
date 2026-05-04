@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel Vba Managing Files And Data]] — Advanced · 58,023 learners
+- [Excel Vba Managing Files And Data](../../Courses/Data%20Science/Excel%20Vba%20Managing%20Files%20And%20Data.md) — Advanced · 58,023 learners
 
 ## Related Skills
 
-- [[Microsoft Excel]] — 1 shared course
-- [[Data Analysis]] — 1 shared course
+- [Microsoft Excel](Microsoft%20Excel.md) — 1 shared course
+- [Data Analysis](Data%20Analysis.md) — 1 shared course

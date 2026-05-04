@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Serving Customers Using Social Media]]
-- [[Writing Customer Service Emails]]
+- [Serving Customers Using Social Media](../../Courses/IT%20Help%20Desk/Serving%20Customers%20Using%20Social%20Media.md)
+- [Writing Customer Service Emails](../../Courses/IT%20Help%20Desk/Writing%20Customer%20Service%20Emails.md)

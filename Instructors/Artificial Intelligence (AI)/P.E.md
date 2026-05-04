@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Data Strategy- Data Procurement and Storage]]
-- [[Python for Data Science and Machine Learning Essential Training Part 2]]
-- [[Python For Data Science And Machine Learning Essential Training Part]]
+- [AI Data Strategy- Data Procurement and Storage](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Data%20Strategy-%20Data%20Procurement%20and%20Storage.md)
+- [Python for Data Science and Machine Learning Essential Training Part 2](../../Courses/Artificial%20Intelligence%20(AI)/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Essential%20Training%20Part%202.md)
+- [Python For Data Science And Machine Learning Essential Training Part](../../Courses/Artificial%20Intelligence%20(AI)/Python%20For%20Data%20Science%20And%20Machine%20Learning%20Essential%20Training%20Part.md)

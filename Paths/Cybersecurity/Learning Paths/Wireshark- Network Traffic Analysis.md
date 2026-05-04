@@ -19,23 +19,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Wireshark Essential Training]]'
+  - course: '[Wireshark Essential Training](../../../Courses/Cybersecurity/Wireshark%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Wireshark- Functionality]]'
+  - course: '[Wireshark- Functionality](../../../Courses/Cybersecurity/Wireshark-%20Functionality.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Wireshark- Network Troubleshooting]]'
+  - course: '[Wireshark- Network Troubleshooting](../../../Courses/Cybersecurity/Wireshark-%20Network%20Troubleshooting.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Wireshark- Malware and Forensics]]'
+  - course: '[Wireshark- Malware and Forensics](../../../Courses/Cybersecurity/Wireshark-%20Malware%20and%20Forensics.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Analyzing VoIP Traffic with Wireshark]]'
+  - course: '[Analyzing VoIP Traffic with Wireshark](../../../Courses/Cybersecurity/Analyzing%20VoIP%20Traffic%20with%20Wireshark.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -50,28 +50,28 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Wireshark Essential Training]]
-2. [[Wireshark- Functionality]] _(1h 55m)_
-3. [[Wireshark- Network Troubleshooting]] _(1h 42m)_
-4. [[Wireshark- Malware and Forensics]] _(2h 9m)_
-5. [[Analyzing VoIP Traffic with Wireshark]] _(1h 33m)_
+1. [Wireshark Essential Training](../../../Courses/Cybersecurity/Wireshark%20Essential%20Training.md)
+2. [Wireshark- Functionality](../../../Courses/Cybersecurity/Wireshark-%20Functionality.md) _(1h 55m)_
+3. [Wireshark- Network Troubleshooting](../../../Courses/Cybersecurity/Wireshark-%20Network%20Troubleshooting.md) _(1h 42m)_
+4. [Wireshark- Malware and Forensics](../../../Courses/Cybersecurity/Wireshark-%20Malware%20and%20Forensics.md) _(2h 9m)_
+5. [Analyzing VoIP Traffic with Wireshark](../../../Courses/Cybersecurity/Analyzing%20VoIP%20Traffic%20with%20Wireshark.md) _(1h 33m)_
 
 ## Course Flow
 
-1. [[Wireshark Essential Training]] → 2. [[Wireshark- Functionality]] → 3. [[Wireshark- Network Troubleshooting]] → 4. [[Wireshark- Malware and Forensics]] → 5. [[Analyzing VoIP Traffic with Wireshark]]
+1. [Wireshark Essential Training](../../../Courses/Cybersecurity/Wireshark%20Essential%20Training.md) → 2. [Wireshark- Functionality](../../../Courses/Cybersecurity/Wireshark-%20Functionality.md) → 3. [Wireshark- Network Troubleshooting](../../../Courses/Cybersecurity/Wireshark-%20Network%20Troubleshooting.md) → 4. [Wireshark- Malware and Forensics](../../../Courses/Cybersecurity/Wireshark-%20Malware%20and%20Forensics.md) → 5. [Analyzing VoIP Traffic with Wireshark](../../../Courses/Cybersecurity/Analyzing%20VoIP%20Traffic%20with%20Wireshark.md)
 
 ## Topics
 
-- [[Cybersecurity]]
-- [[Network and System Administration]]
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[VoIP- From Fundamentals to Troubleshooting]] (1 shared courses)
-- [[Explore a Career in Computer Forensics]] (1 shared courses)
+- [VoIP- From Fundamentals to Troubleshooting](VoIP-%20From%20Fundamentals%20to%20Troubleshooting.md) (1 shared courses)
+- [Explore a Career in Computer Forensics](Explore%20a%20Career%20in%20Computer%20Forensics.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cybersecurity]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cybersecurity](../../../Topics/Cybersecurity.md)

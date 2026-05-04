@@ -19,27 +19,27 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Learning Php]]'
+  - course: '[Learning Php](../../../Courses/Software%20Development/Learning%20Php.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[PHP Essential Training]]'
+  - course: '[PHP Essential Training](../../../Courses/Software%20Development/PHP%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[PHP with MySQL Essential Training- 1 The Basics]]'
+  - course: '[PHP with MySQL Essential Training- 1 The Basics](../../../Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%201%20The%20Basics.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[PHP with MySQL Essential Training- 2 Build a CMS]]'
+  - course: '[PHP with MySQL Essential Training- 2 Build a CMS](../../../Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%202%20Build%20a%20CMS.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[PHP- Object-Oriented Programming]]'
+  - course: '[PHP- Object-Oriented Programming](../../../Courses/Software%20Development/PHP-%20Object-Oriented%20Programming.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[PHP- Object-Oriented Programming with Databases]]'
+  - course: '[PHP- Object-Oriented Programming with Databases](../../../Courses/Software%20Development/PHP-%20Object-Oriented%20Programming%20with%20Databases.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -54,22 +54,22 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Learning Php]]
-2. [[PHP Essential Training]] _(4h 7m)_
-3. [[PHP with MySQL Essential Training- 1 The Basics]] _(5h 52m)_
-4. [[PHP with MySQL Essential Training- 2 Build a CMS]] _(3h 51m)_
-5. [[PHP- Object-Oriented Programming]] _(3h 53m)_
-6. [[PHP- Object-Oriented Programming with Databases]] _(4h 4m)_
+1. [Learning Php](../../../Courses/Software%20Development/Learning%20Php.md)
+2. [PHP Essential Training](../../../Courses/Software%20Development/PHP%20Essential%20Training.md) _(4h 7m)_
+3. [PHP with MySQL Essential Training- 1 The Basics](../../../Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%201%20The%20Basics.md) _(5h 52m)_
+4. [PHP with MySQL Essential Training- 2 Build a CMS](../../../Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%202%20Build%20a%20CMS.md) _(3h 51m)_
+5. [PHP- Object-Oriented Programming](../../../Courses/Software%20Development/PHP-%20Object-Oriented%20Programming.md) _(3h 53m)_
+6. [PHP- Object-Oriented Programming with Databases](../../../Courses/Software%20Development/PHP-%20Object-Oriented%20Programming%20with%20Databases.md) _(4h 4m)_
 
 ## Course Flow
 
-1. [[Learning Php]] → 2. [[PHP Essential Training]] → 3. [[PHP with MySQL Essential Training- 1 The Basics]] → 4. [[PHP with MySQL Essential Training- 2 Build a CMS]] → 5. [[PHP- Object-Oriented Programming]] → 6. [[PHP- Object-Oriented Programming with Databases]]
+1. [Learning Php](../../../Courses/Software%20Development/Learning%20Php.md) → 2. [PHP Essential Training](../../../Courses/Software%20Development/PHP%20Essential%20Training.md) → 3. [PHP with MySQL Essential Training- 1 The Basics](../../../Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%201%20The%20Basics.md) → 4. [PHP with MySQL Essential Training- 2 Build a CMS](../../../Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%202%20Build%20a%20CMS.md) → 5. [PHP- Object-Oriented Programming](../../../Courses/Software%20Development/PHP-%20Object-Oriented%20Programming.md) → 6. [PHP- Object-Oriented Programming with Databases](../../../Courses/Software%20Development/PHP-%20Object-Oriented%20Programming%20with%20Databases.md)
 
 ## Topics
 
-- [[Software Development]]
-- [[Web Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

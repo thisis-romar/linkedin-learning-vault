@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Using AI in the Design to Full-Stack Development Life Cycle]]
+- [Using AI in the Design to Full-Stack Development Life Cycle](../../Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20in%20the%20Design%20to%20Full-Stack%20Development%20Life%20Cycle.md)

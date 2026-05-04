@@ -18,11 +18,11 @@ github: "https://github.com/LinkedInLearning/playwright-design-patterns-2019019"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQE68ssz1R0Ufw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731097260562?e=2147483647&amp;v=beta&amp;t=RUlzWaTzqCfWpEjv_Lu3mKjo4TCxEZW_kf4lysTgpxI"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[Master Test Automation with Playwright]]'
+  - '[Master Test Automation with Playwright](../../Paths/Software%20Development/Learning%20Paths/Master%20Test%20Automation%20with%20Playwright.md)'
 prev_courses:
-  - '[[Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios]]'
+  - '[Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios](Playwright%20Essential%20Training-%20Abstractions%2C%20Fixtures%2C%20and%20Complex%20Scenarios.md)'
 next_courses:
-  - '[[Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing]]'
+  - '[Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing](Advanced%20Playwright%20Techniques-%20Optimizing%20Speed%2C%20Stability%2C%20and%20Cloud%20Testing.md)'
 path_nav: '[{"path":"Master Test Automation with Playwright","position":3,"total":4,"prev":"Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios","next":"Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing"}]'
 path_count: 1
 tags:
@@ -102,13 +102,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=0)** - [Instructor] Welcome to the course. In this first video, we are going to set up a basic Playwright framework that we'll use as a foundation for all the demos and examples throughout the course. Now, I highly encourage you to follow along with me as I code. This way, you can get hands-on experience and learn on the spot. I'll walk you through each step in [[Real-Time]] and we'll build the framework together. Of course, if you need to refer back, you'll also find the full code in the resources. So I'm inside the folder and I'm on the terminal. I will start writing the command [[npm]] init and right now the folder is empty, so playwright@latest. At this point, it'll ask me, what language do I want to choose? And I will select TypeScript. And by default, I want to put the test in the test folder and I will just press Enter, Enter, Enter, and it'll create the framework, downloading all the necessary dependencies like the browser. And you can see if you click on the folder, files will start to appear. So on my left-hand side you can see a file called playwright.config. This is where you can set up the browsers. I normally disable the browsers from Firefox and WebKit while running the tests so that I can run these tests quickly and develop these tests faster. And then I enable them later on. Secondly, we have got the package.[[JSON]] file.
+> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=0)** - [Instructor] Welcome to the course. In this first video, we are going to set up a basic Playwright framework that we'll use as a foundation for all the demos and examples throughout the course. Now, I highly encourage you to follow along with me as I code. This way, you can get hands-on experience and learn on the spot. I'll walk you through each step in [Real-Time](../../Skills/Database%20Management/Real-Time.md) and we'll build the framework together. Of course, if you need to refer back, you'll also find the full code in the resources. So I'm inside the folder and I'm on the terminal. I will start writing the command [npm](../../Skills/Web%20Development/npm.md) init and right now the folder is empty, so playwright@latest. At this point, it'll ask me, what language do I want to choose? And I will select TypeScript. And by default, I want to put the test in the test folder and I will just press Enter, Enter, Enter, and it'll create the framework, downloading all the necessary dependencies like the browser. And you can see if you click on the folder, files will start to appear. So on my left-hand side you can see a file called playwright.config. This is where you can set up the browsers. I normally disable the browsers from Firefox and WebKit while running the tests so that I can run these tests quickly and develop these tests faster. And then I enable them later on. Secondly, we have got the package.[JSON](../../Skills/Web%20Development/JSON.md) file.
 >
 > **[1:35](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-your-local-environment?u=76281980&t=95)** You can put this test run command inside the script if you need to. If not, then you can run the test using npx playwright test. And last but not least, I'll delete this folder, which is the test examples, 'cause we don't need this folder. Inside the test, we have got an example, which clearly shows an example of going to Playwright documentation and checking the title. So I'm just going to run this test and see if it's working. So npx playwright test. And you can see both of these tests are passing. Once you see the test pass, you're all set. We now have a fully functional Playwright setup. If you ran into any issues, don't worry, check the code in the resources, but try coding along with me first for the best learning experience. Now that you have set up the basic Playwright framework, we'll be using this for all the upcoming videos. Each demo and example will be built on top of this, so it's important to follow along with me. You'll find all the code in the resources for easy reference, but I encourage you to code as we go to get the most out of this course. Following along will help you understand how everything fits together, and by the end of this course, you'll have built a solid foundation step-by-step. If you are ready, let's dive into the next lesson where we'll explore the first design pattern, which is fixtures.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (1), [[npm]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [Real-Time](../../Skills/Database%20Management/Real-Time.md) (1), [npm](../../Skills/Web%20Development/npm.md) (1), [JSON](../../Skills/Web%20Development/JSON.md) (1)
 > **CLI Commands:** find (2), npx (2), npm (1)
 > **Prerequisites:** set up (3), setup (1)
 > **File Paths:** playwright.config (1), package.json (1)
@@ -125,13 +125,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=0)** - [Presenter] Imagine a project where every piece of code feels disorganized and chaotic like this image. Every update leads to more complexity. Without a clear structure, maintaining the code becomes a nightmare. This is where [[Design Patterns]] come in. They provide systematic solutions to common coding problems, allowing you to keep your code structured, efficient, and scalable over time. Think of your web application as a house under construction. Design patterns are like blueprints that guide every step of the process. Without blueprints, you could still build a house, but it wouldn't be as sturdy or efficient. In coding, these patterns ensure that your solutions are robust and adaptable. By using design patterns, you ensure that your code is not only functional but also maintainable. They solve common coding issues, make the code easier to update as your project grows. Without these patterns, future changes can become unnecessarily complex and time-consuming. In this course, we'll dive into several crucial design patterns used in Playwright, each one designed to make your [[Test Automation]] more maintainable and efficient. We'll cover the page object model, which organizes your test code and simplifies interaction with web elements, fixtures, which streamline test setup and tear down, behavior-driven development, which allows you to write tests
+> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=0)** - [Presenter] Imagine a project where every piece of code feels disorganized and chaotic like this image. Every update leads to more complexity. Without a clear structure, maintaining the code becomes a nightmare. This is where [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) come in. They provide systematic solutions to common coding problems, allowing you to keep your code structured, efficient, and scalable over time. Think of your web application as a house under construction. Design patterns are like blueprints that guide every step of the process. Without blueprints, you could still build a house, but it wouldn't be as sturdy or efficient. In coding, these patterns ensure that your solutions are robust and adaptable. By using design patterns, you ensure that your code is not only functional but also maintainable. They solve common coding issues, make the code easier to update as your project grows. Without these patterns, future changes can become unnecessarily complex and time-consuming. In this course, we'll dive into several crucial design patterns used in Playwright, each one designed to make your [Test Automation](../../Skills/Software%20Development/Test%20Automation.md) more maintainable and efficient. We'll cover the page object model, which organizes your test code and simplifies interaction with web elements, fixtures, which streamline test setup and tear down, behavior-driven development, which allows you to write tests
 >
 > **[1:37](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980&t=97)** in human readable format, and data-driven testing, a powerful approach to testing multiple scenarios with minimal effort.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Test Automation]] (1)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (4), [Test Automation](../../Skills/Software%20Development/Test%20Automation.md) (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Prerequisites:** setup (1)
@@ -141,13 +141,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/types-of-design-pattern?u=76281980&t=0)** - [Instructor] [[Design Patterns]] are strategies that help solve common problems in [[Software Development]]. They are divided into three main types, structural patterns. They focus on how different parts of your code are organized, ensuring they are easy to manage and scale. Behavioral patterns. These define how objects interact and communicate within your application. Creational patterns. These deal with how objects are created and managed efficiently. Structural patterns are concerned with how you organize your code just like organizing books in a library, they focus on the composition of classes and objects to form larger structures within your application. By using structural patterns, you can ensure that your code is well organized, maintainable, and easy to extend. One example we will discuss in this course is the page object model. Behavioral patterns are like the screenplay of a film or television show that guides the action. They focus on how objects interact and communicate within your code. These patterns define the flow of control and data between different parts of your application, ensuring that everything works together smoothly. Creation patterns guide the process of object creation, like a chef preparing ingredients before cooking. These patterns ensure that objects are created in a controlled and efficient manner.
+> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/types-of-design-pattern?u=76281980&t=0)** - [Instructor] [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) are strategies that help solve common problems in [Software Development](../../Topics/Software%20Development.md). They are divided into three main types, structural patterns. They focus on how different parts of your code are organized, ensuring they are easy to manage and scale. Behavioral patterns. These define how objects interact and communicate within your application. Creational patterns. These deal with how objects are created and managed efficiently. Structural patterns are concerned with how you organize your code just like organizing books in a library, they focus on the composition of classes and objects to form larger structures within your application. By using structural patterns, you can ensure that your code is well organized, maintainable, and easy to extend. One example we will discuss in this course is the page object model. Behavioral patterns are like the screenplay of a film or television show that guides the action. They focus on how objects interact and communicate within your code. These patterns define the flow of control and data between different parts of your application, ensuring that everything works together smoothly. Creation patterns guide the process of object creation, like a chef preparing ingredients before cooking. These patterns ensure that objects are created in a controlled and efficient manner.
 >
 > **[1:35](https://www.linkedin.com/learning/playwright-design-patterns/types-of-design-pattern?u=76281980&t=95)** In playwright creation patterns are especially useful when setting up fixtures which manage and create components like browser instances and page objects. Just like a chef ensures all the ingredients are ready before starting to cook, fixtures help create and manage the resources your test needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (1), [Software Development](../../Topics/Software%20Development.md) (1)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
@@ -196,11 +196,11 @@ created: 2026-05-03
 >
 > **[2:00](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-fixtures-in-playwright?u=76281980&t=120)** to check sign in button is visible. And after I've done all that, I will do a cleanup. So await browser.close. So what this test does is it looks for a sign in button is visible. So I'm going to execute this test npx playwright test. And you can see the test is passing. Now let's see how the same test looks like when we use playwright's built-in fixtures. So, to use playwright built-in fixtures, I will add the fixture, which is the page fixture. Now because we are getting the playwright built-in fixtures, we don't need the browser or page.
 >
-> **[3:04](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-fixtures-in-playwright?u=76281980&t=184)** And we don't need the cleanup. And we no longer need to import Chromium. Let's try and run this test again. With built-in playwright fixtures, playwright automatically manages browsers set up and tear down. You don't need to manually launch or close the browser. Which simplifies your test and reduces repetitiveness in the code. As you can see, using built-in fixtures can streamline your tests by automatically handling the browser lifecycle allowing you to focus more on writing test logic. In the next video, we'll explore even more ways to optimize your [[Test Automation]] using playwright fixtures.
+> **[3:04](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-fixtures-in-playwright?u=76281980&t=184)** And we don't need the cleanup. And we no longer need to import Chromium. Let's try and run this test again. With built-in playwright fixtures, playwright automatically manages browsers set up and tear down. You don't need to manually launch or close the browser. Which simplifies your test and reduces repetitiveness in the code. As you can see, using built-in fixtures can streamline your tests by automatically handling the browser lifecycle allowing you to focus more on writing test logic. In the next video, we'll explore even more ways to optimize your [Test Automation](../../Skills/Software%20Development/Test%20Automation.md) using playwright fixtures.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test Automation]] (1)
+> **Frameworks & Libraries:** [Test Automation](../../Skills/Software%20Development/Test%20Automation.md) (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), npx (1)
 > **Code Identifiers:** getbyrole (1)
@@ -274,11 +274,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/fixture-best-practices?u=76281980&t=0)** - [Instructor] Simplicity is the key when creating fixtures. A fixture should focus on just one task, like setting up a login without adding unnecessary complexity. Keeping it simple ensures fixtures are easier to maintain and debug. On the screen, you can see a fixture of a login with a condition within it. This makes the fixture complicated. Next, let's talk about scope. Playwright offers different scope for fixtures, like test and worker. The test scope is generally the best choice, as it ensures that each test is fully isolated with its own fresh environment, like you saw in the previous video. This prevents unexpected issues caused by shared states between tests. Choosing the right scope can make a big difference in the stability of your test suite. Reusing and encapsulating setup logic is another best practice. Instead of repeating the same setup in multiple tests, encapsulate it within a fixture. For example, if you have a login sequence, create a fixture for it, and we use it across test. This not only makes your code cleaner, but also reduces the chance of errors, keeping your test logic focused and let fixtures handle the repetitive setup. Leverage built-in fixtures. Playwright provides a variety of built-in fixtures that are optimized for common testing tasks. Here's a quick rundown.
 >
-> **[1:34](https://www.linkedin.com/learning/playwright-design-patterns/fixture-best-practices?u=76281980&t=94)** Page and browser fixtures. Page is for interacting with webpages, while browser handles the browser instance. Context and request fixtures. Context manages isolated sessions, and requests is great for [[API Testing]] without a browser. Advance fixtures, trace captures detailed test traces, and artifacts handle screenshots, videos, and more. Leveraging these built-in fixtures helps you write efficient, maintainable tests. Before you write custom code, check if a built-in fixture can do the job. By applying these best practices, you'll create a strong foundation for your automated test in Playwright.
+> **[1:34](https://www.linkedin.com/learning/playwright-design-patterns/fixture-best-practices?u=76281980&t=94)** Page and browser fixtures. Page is for interacting with webpages, while browser handles the browser instance. Context and request fixtures. Context manages isolated sessions, and requests is great for [API Testing](../../Skills/Software%20Development/API%20Testing.md) without a browser. Advance fixtures, trace captures detailed test traces, and artifacts handle screenshots, videos, and more. Leveraging these built-in fixtures helps you write efficient, maintainable tests. Before you write custom code, check if a built-in fixture can do the job. By applying these best practices, you'll create a strong foundation for your automated test in Playwright.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[API Testing]] (1)
+> **Frameworks & Libraries:** [API Testing](../../Skills/Software%20Development/API%20Testing.md) (1)
 > **Prerequisites:** setup (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -416,11 +416,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980&t=0)** - [Instructor] Imagine a world where developers, testers, business stakeholders, are all in sync, working towards the same goal with complete clarity. That's the world of behavior-driven development. BDD isn't just about testing, it's about defining how your system should behave using simple, everyday language so everyone's on the same page. Traditional testing answers the question, does it work? BDD takes it a step further, asking, does it work the way the business needs it to? BDD shifts the focus from functionality alone to business behavior, and it does this by writing scenarios in natural language, so the whole team can easily follow along, not just the technical folks. Collaboration is the secret to BDD's success. It brings developers, testers, stakeholders together to craft a shared understanding of how the system should behave. This means fewer misunderstandings, better communication, and software that actually meets the business requirement. At the heart of BDD are scenarios written in Gherkin, a simple structured language. Gherkin scenarios use the keywords like given, when, and then to describe systems behavior in plain terms. For example, given a user is on the login page when they enter valid credentials,
 >
-> **[1:33](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980&t=93)** they should be redirected to the dashboard. These scenarios aren't just documentation, they become automated tests, making your documentation and testing one and the same. The benefits of BDD are huge. It improves communication, keeps everyone aligned with business goals, and creates living documentation that evolves with your project. It turns development into a truly collaborative effort, making sure your team delivers what really matters. BDD fits perfectly into [[Agile Development|agile]] practices like [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]]. In an agile environment where quick feedback and alteration are key, BDD ensures that every release delivers features that align with business expectations. It's all about delivering value faster with more confidence. To sum up, behavior-driven development aligns your software's functionality with the business needs, ensuring that everyone is on the same page by writing clear collaborative scenarios and automating them. BDD helps you build software that behaves exactly as it should, delivering value where it counts.
+> **[1:33](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980&t=93)** they should be redirected to the dashboard. These scenarios aren't just documentation, they become automated tests, making your documentation and testing one and the same. The benefits of BDD are huge. It improves communication, keeps everyone aligned with business goals, and creates living documentation that evolves with your project. It turns development into a truly collaborative effort, making sure your team delivers what really matters. BDD fits perfectly into [agile](../../Skills/DevOps/Agile%20Development.md) practices like [continuous integration](../../Skills/Software%20Development/Continuous%20Integration%20(CI).md) and [continuous delivery](../../Skills/Software%20Development/Continuous%20Delivery%20(CD).md). In an agile environment where quick feedback and alteration are key, BDD ensures that every release delivers features that align with business expectations. It's all about delivering value faster with more confidence. To sum up, behavior-driven development aligns your software's functionality with the business needs, ensuring that everyone is on the same page by writing clear collaborative scenarios and automating them. BDD helps you build software that behaves exactly as it should, delivering value where it counts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [Agile](../../Skills/DevOps/Agile%20Development.md) (2), [Continuous integration](../../Skills/Software%20Development/Continuous%20Integration%20(CI).md) (1), [Continuous delivery](../../Skills/Software%20Development/Continuous%20Delivery%20(CD).md) (1)
 > **Env Vars:** bdd (9)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -450,9 +450,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=0)** - [Instructor] Now that we have written our BDD scenarios, it's time to implement them in our playwright project using Cucumber and TypeScript. This is where your scenarios come to life, turning those plain language steps into real executable tests. So first of all, I will install the Cucumber and ts-node so [[npm]] install --save-dev @cucumber/cucumber ts-node.
+> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=0)** - [Instructor] Now that we have written our BDD scenarios, it's time to implement them in our playwright project using Cucumber and TypeScript. This is where your scenarios come to life, turning those plain language steps into real executable tests. So first of all, I will install the Cucumber and ts-node so [npm](../../Skills/Web%20Development/npm.md) install --save-dev @cucumber/cucumber ts-node.
 >
-> **[0:29](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=29)** So once it installs these two libraries, you can see them getting updated in the package, [[JSON]]. There you go. So now you have installed both of them. Let's move forward and create a cucumber.JSON file, which is the configuration for the cucumber. So in this configuration, I will specify where everything is basically. So for example, I want to tell Cucumber that my step files would be in the steps folder and they are ts files.
+> **[0:29](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=29)** So once it installs these two libraries, you can see them getting updated in the package, [JSON](../../Skills/Web%20Development/JSON.md). There you go. So now you have installed both of them. Let's move forward and create a cucumber.JSON file, which is the configuration for the cucumber. So in this configuration, I will specify where everything is basically. So for example, I want to tell Cucumber that my step files would be in the steps folder and they are ts files.
 >
 > **[1:13](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-cucumber-in-your-project?u=76281980&t=73)** Then my feature files are in the feature folder features, which is... And last but not least, I want to use TypeScript. So I need to acquire the module ts-node and I will register it so that I'm using TypeScript. Next, I will create a ts config file in the same directory, tsconfig.json and here I will specify the compiler options. Because we are using TypeScript, we need to specify the compiler option and the option that we are going to specify is the module. So remember the TypeScript and playwright, they work really well together, but Cucumber is not natively supported in playwright. So this is why we will have to do a little bit extra when we are writing tests using Cucumber. So the next step for us is to start writing the step. Let me try and run this and see what we are up to up until now. So to run it, we will go to the package, JSON. Here, I've added a command, test
 >
@@ -460,7 +460,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[npm]] (2)
+> **Frameworks & Libraries:** [JSON](../../Skills/Web%20Development/JSON.md) (4), [npm](../../Skills/Web%20Development/npm.md) (2)
 > **CLI Commands:** node (3), npm (2)
 > **Env Vars:** json (3), bdd (1)
 > **File Paths:** cucumber.json (1), tsconfig.json (1), loginsteps.ts (1)
@@ -512,11 +512,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/centralizing-setup-and-running-a-bdd-test?u=76281980&t=0)** - [Instructor] Let's centralize our Playwright browser setup using a dedicated TypeScript file in this video. We will call that file our browserSetup file. This will ensure a clean, consistent environment for each test scenario. By centralizing the step, we streamline the testing process and reduce repetitive code. So, let's create a new file called browserSetup.ts. What I'm going to do is I will move all this code from After to import into the browserSetup. Now, I'm going to get rid of the things that we don't need. So for example, Given, When, Then, and we can just do it by clicking on Quick Fix and Delete all unused imports. So what this file is doing is it's doing the initial setup of the browser, like handling the browser startup and closing the browser at the right time. And then in the end, I will export the page, which is what we are going to use in the test. So, export (page) and this is the same page that we are basically defining over here. So in the login setup, I can just do import (page) from '../browserSetup'
 >
-> **[1:37](https://www.linkedin.com/learning/playwright-design-patterns/centralizing-setup-and-running-a-bdd-test?u=76281980&t=97)** and we don't need this anymore. And I will do the same to remove all the unwanted or unnecessary imports from here. Now, let's try and run this test. So, [[npm]] t, let's see what happens. As you can see, the test still works. Our setup is out of the way, our tests are cleaner, and we can just focus on the tests.
+> **[1:37](https://www.linkedin.com/learning/playwright-design-patterns/centralizing-setup-and-running-a-bdd-test?u=76281980&t=97)** and we don't need this anymore. And I will do the same to remove all the unwanted or unnecessary imports from here. Now, let's try and run this test. So, [npm](../../Skills/Web%20Development/npm.md) t, let's see what happens. As you can see, the test still works. Our setup is out of the way, our tests are cleaner, and we can just focus on the tests.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (1)
+> **Frameworks & Libraries:** [npm](../../Skills/Web%20Development/npm.md) (1)
 > **Code Identifiers:** browsersetup (4)
 > **Prerequisites:** setup (4)
 > **File Paths:** browsersetup.ts (1)
@@ -552,11 +552,11 @@ created: 2026-05-03
 >
 > **[5:07](https://www.linkedin.com/learning/playwright-design-patterns/combining-bdd-with-page-object-model?u=76281980&t=307)** Password, loginPage.passwordLocator.fill pass.
 >
-> **[5:19](https://www.linkedin.com/learning/playwright-design-patterns/combining-bdd-with-page-object-model?u=76281980&t=319)** And the button. LoginPage.signInButtonLocator.click. Now let's try and when these tests and see what happens. So [[npm]] t. And as you can see, the tests are still running, they're passing, there are no issues. And we have integrated our BDD Cucumber with the page object models.
+> **[5:19](https://www.linkedin.com/learning/playwright-design-patterns/combining-bdd-with-page-object-model?u=76281980&t=319)** And the button. LoginPage.signInButtonLocator.click. Now let's try and when these tests and see what happens. So [npm](../../Skills/Web%20Development/npm.md) t. And as you can see, the tests are still running, they're passing, there are no issues. And we have integrated our BDD Cucumber with the page object models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (1)
+> **Frameworks & Libraries:** [npm](../../Skills/Web%20Development/npm.md) (1)
 > **Code Identifiers:** loginpage (4), emaillocator (2), signinbuttonlocator (2), passwordlocator (1)
 > **CLI Commands:** make (2), find (1), npm (1)
 > **Env Vars:** url (2), bdd (2)
@@ -574,13 +574,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=0)** - [Presenter] Data-driven testing is all about flexibility and power. Imagine having one powerful test script that adapts to different inputs, saving you from writing multiple tests for every scenario. This approach separates the test logic from the data itself, allowing your application to be stress tested across a wide range of inputs. Think of it as an obstacle course for your app, ensuring it can handle anything you throw at it. So, why is data-drive testing essential? First, it provides comprehensive coverage by ensuring edge cases are tested. It's also incredibly efficient. You use a single test script but with varied data, cutting down data redundancy. And finally, it's scalable. As your app grows, you simply update the data files and the same test logic handles the [[Representational State Transfer (REST)|rest]]. Let's break it down into three steps. Step number one, prepare your test data. Whether in [[JSON]], CSV, or another format, this is where you define all the inputs for your test. Step two, write a generic test script that can handle various inputs. It's like a Swiss Army knife for testing. Step three, execute the test using different datasets, ensuring your app performs flawlessly across all scenarios. Data-driven shines in real-world applications. For example, in form validation, you can test multiple input combinations to make sure all possible user data is handled correctly. In user authentication, you can validate login processes across user credentials, ensuring security.
+> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=0)** - [Presenter] Data-driven testing is all about flexibility and power. Imagine having one powerful test script that adapts to different inputs, saving you from writing multiple tests for every scenario. This approach separates the test logic from the data itself, allowing your application to be stress tested across a wide range of inputs. Think of it as an obstacle course for your app, ensuring it can handle anything you throw at it. So, why is data-drive testing essential? First, it provides comprehensive coverage by ensuring edge cases are tested. It's also incredibly efficient. You use a single test script but with varied data, cutting down data redundancy. And finally, it's scalable. As your app grows, you simply update the data files and the same test logic handles the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md). Let's break it down into three steps. Step number one, prepare your test data. Whether in [JSON](../../Skills/Web%20Development/JSON.md), CSV, or another format, this is where you define all the inputs for your test. Step two, write a generic test script that can handle various inputs. It's like a Swiss Army knife for testing. Step three, execute the test using different datasets, ensuring your app performs flawlessly across all scenarios. Data-driven shines in real-world applications. For example, in form validation, you can test multiple input combinations to make sure all possible user data is handled correctly. In user authentication, you can validate login processes across user credentials, ensuring security.
 >
-> **[1:35](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=95)** And for [[E-Commerce]], you can ensure the checkout process is smooth no matter what's in the cart. These are just a few examples of where data-driven testing can make a real-world impact. To sum it up, data-driven testing boosts your testing strategy by enhancing coverage, reducing redundant code, and scaling effortlessly as your application grows. In the next videos, we'll move from theory to practice and show you exactly how to implement data-driven testing in Playwright. Let's get ready to take your testing to the next level.
+> **[1:35](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980&t=95)** And for [E-Commerce](../../Skills/Web%20Development/E-Commerce.md), you can ensure the checkout process is smooth no matter what's in the cart. These are just a few examples of where data-driven testing can make a real-world impact. To sum it up, data-driven testing boosts your testing strategy by enhancing coverage, reducing redundant code, and scaling effortlessly as your application grows. In the next videos, we'll move from theory to practice and show you exactly how to implement data-driven testing in Playwright. Let's get ready to take your testing to the next level.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1), [JSON](../../Skills/Web%20Development/JSON.md) (1), [E-Commerce](../../Skills/Web%20Development/E-Commerce.md) (1)
 > **Analogies:** imagine (1), think of it as (1), it's like (1), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** json (1), csv (1)
@@ -591,13 +591,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=0)** - [Instructor] Now that we understand the benefits of data-driven testing, it's time to set up the data that will drive our tests. Well-structured data is the foundation of effective data-driven testing. And with the right setup, you'll be able to test multiple scenarios with ease. So, to get started, I'm going to click on the parent folder and click on Create New Folder, and the new folder name would be data, and inside data I will create a file call loginData.[[JSON]]. This file is an array of objects containing email. And you can just write the email address. For example, test1@[example.com](https://example.com). And the password is pass123.
+> **[0:00](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=0)** - [Instructor] Now that we understand the benefits of data-driven testing, it's time to set up the data that will drive our tests. Well-structured data is the foundation of effective data-driven testing. And with the right setup, you'll be able to test multiple scenarios with ease. So, to get started, I'm going to click on the parent folder and click on Create New Folder, and the new folder name would be data, and inside data I will create a file call loginData.[JSON](../../Skills/Web%20Development/JSON.md). This file is an array of objects containing email. And you can just write the email address. For example, test1@[example.com](https://example.com). And the password is pass123.
 >
-> **[0:49](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=49)** And then, second is [[John the Ripper|john]].smith example, 123. So I'll try one before in the password. Similarly, let's do dave.smith. And let's do just a alphabet password. So this way you can actually test different kind of edge cases. By structuring the data this way, it's easy to add new scenarios. Just add another entry to the JSON file and you'll automatically create a new test. This concludes our setup process. In the next video, we'll connect this data to our Playwright test and show you how to run them across all these scenarios.
+> **[0:49](https://www.linkedin.com/learning/playwright-design-patterns/setting-up-data-for-data-driven-testing?u=76281980&t=49)** And then, second is [john](../../Glossary/Tool/John%20the%20Ripper.md).smith example, 123. So I'll try one before in the password. Similarly, let's do dave.smith. And let's do just a alphabet password. So this way you can actually test different kind of edge cases. By structuring the data this way, it's easy to add new scenarios. Just add another entry to the JSON file and you'll automatically create a new test. This concludes our setup process. In the next video, we'll connect this data to our Playwright test and show you how to run them across all these scenarios.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), [[John the Ripper|John]] (1)
+> **Frameworks & Libraries:** [JSON](../../Skills/Web%20Development/JSON.md) (2), [John](../../Glossary/Tool/John%20the%20Ripper.md) (1)
 > **Prerequisites:** setup (2), set up (1)
 > **UI Navigation:** click on (2)
 > **File Paths:** logindata.json (1)
@@ -622,11 +622,11 @@ created: 2026-05-03
 >
 > **[3:18](https://www.linkedin.com/learning/playwright-design-patterns/implementing-data-driven-testing-in-playwright?u=76281980&t=198)** and then this will have the body, which is the test. So, let's wrap this thing around here. Now you can see that this test is now become duplicate because we are running the same test again and again within the loop, so we need to have a different test chat. So, I'm going to use a different string literal, and we can use that email address here. So, user can log in with email, which says email.
 >
-> **[4:00](https://www.linkedin.com/learning/playwright-design-patterns/implementing-data-driven-testing-in-playwright?u=76281980&t=240)** And because the email is different every time, the test title will be different every time as well. And I will replace this with the value email. I will replace this with the value password. And for our regular expression, we will do new regular expression and we'll specify the password here. So, we'll run the test again and this time you'll notice that three tests will be run instead of one. There you go. So, three tests ran and they all pass. So, I'm going to open the playwright report to show you the test titles, and this is what the report looks like. User can log in with email this, which is test1@[eightexample.com](https://eightexample.com), [[John the Ripper|John]] Smith and Dave Smith. With data-driven testing in place, our test suite is now more scalable and efficient. You can easily add new test scenarios by updating the data file without having to weave at the test code.
+> **[4:00](https://www.linkedin.com/learning/playwright-design-patterns/implementing-data-driven-testing-in-playwright?u=76281980&t=240)** And because the email is different every time, the test title will be different every time as well. And I will replace this with the value email. I will replace this with the value password. And for our regular expression, we will do new regular expression and we'll specify the password here. So, we'll run the test again and this time you'll notice that three tests will be run instead of one. There you go. So, three tests ran and they all pass. So, I'm going to open the playwright report to show you the test titles, and this is what the report looks like. User can log in with email this, which is test1@[eightexample.com](https://eightexample.com), [John](../../Glossary/Tool/John%20the%20Ripper.md) Smith and Dave Smith. With data-driven testing in place, our test suite is now more scalable and efficient. You can easily add new test scenarios by updating the data file without having to weave at the test code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
+> **Frameworks & Libraries:** [John](../../Glossary/Tool/John%20the%20Ripper.md) (1)
 > **Code Identifiers:** foreach (2), tohaveurl (1)
 > **URLs:** [binaryville.com](https://binaryville.com) (1), [example.com](https://example.com) (1), [eightexample.com](https://eightexample.com) (1)
 > **CLI Commands:** make (1), npx (1)
@@ -655,7 +655,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Qambar Raza]]
+- [Qambar Raza](../../Instructors/Software%20Development/Qambar%20Raza.md)
 
 ## Resources
 
@@ -669,22 +669,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Master Test Automation with Playwright]]
-← [[Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios]] | **3 of 4** | [[Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing]] →
+### In [Master Test Automation with Playwright](../../Paths/Software%20Development/Learning%20Paths/Master%20Test%20Automation%20with%20Playwright.md)
+← [Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios](Playwright%20Essential%20Training-%20Abstractions%2C%20Fixtures%2C%20and%20Complex%20Scenarios.md) | **3 of 4** | [Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing](Advanced%20Playwright%20Techniques-%20Optimizing%20Speed%2C%20Stability%2C%20and%20Cloud%20Testing.md) →
 
 ## Appears In
 
-- [[Master Test Automation with Playwright]]
+- [Master Test Automation with Playwright](../../Paths/Software%20Development/Learning%20Paths/Master%20Test%20Automation%20with%20Playwright.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Postman Essential Training]] — Test Automation
-- [[Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests]] — Test Automation
-- [[Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing]] — Test Automation
-- [[Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios]] — Test Automation
-- [[Python Automation and Testing]] — Test Automation
+- [Postman Essential Training](Postman%20Essential%20Training.md) — Test Automation
+- [Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests](Learning%20Selenium-%20Structure%2C%20Scale%2C%20Run%2C%20and%20Optimize%20Automated%20Tests.md) — Test Automation
+- [Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing](Advanced%20Playwright%20Techniques-%20Optimizing%20Speed%2C%20Stability%2C%20and%20Cloud%20Testing.md) — Test Automation
+- [Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios](Playwright%20Essential%20Training-%20Abstractions%2C%20Fixtures%2C%20and%20Complex%20Scenarios.md) — Test Automation
+- [Python Automation and Testing](Python%20Automation%20and%20Testing.md) — Test Automation
 
 ---
 

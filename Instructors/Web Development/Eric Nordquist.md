@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Using AI Tools for UX Design]]
-- [[Figma for UX Research- Presentations that Stand Out]]
+- [Using AI Tools for UX Design](../../Courses/Data%20Science/Using%20AI%20Tools%20for%20UX%20Design.md)
+- [Figma for UX Research- Presentations that Stand Out](../../Courses/Web%20Development/Figma%20for%20UX%20Research-%20Presentations%20that%20Stand%20Out.md)

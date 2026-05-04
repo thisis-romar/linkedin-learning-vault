@@ -19,15 +19,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Microservices Foundations]]'
+  - course: '[Microservices Foundations](../../../Courses/Software%20Development/Microservices%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Microservices- Design Patterns]]'
+  - course: '[Microservices- Design Patterns](../../../Courses/Software%20Development/Microservices-%20Design%20Patterns.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Microservices- Security]]'
+  - course: '[Microservices- Security](../../../Courses/Cybersecurity/Microservices-%20Security.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -42,25 +42,25 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Microservices Foundations]]
-2. [[Microservices- Design Patterns]] _(1h 37m)_
-3. [[Microservices- Security]] _(2h 26m)_
+1. [Microservices Foundations](../../../Courses/Software%20Development/Microservices%20Foundations.md)
+2. [Microservices- Design Patterns](../../../Courses/Software%20Development/Microservices-%20Design%20Patterns.md) _(1h 37m)_
+3. [Microservices- Security](../../../Courses/Cybersecurity/Microservices-%20Security.md) _(2h 26m)_
 
 ## Course Flow
 
-1. [[Microservices Foundations]] → 2. [[Microservices- Design Patterns]] → 3. [[Microservices- Security]]
+1. [Microservices Foundations](../../../Courses/Software%20Development/Microservices%20Foundations.md) → 2. [Microservices- Design Patterns](../../../Courses/Software%20Development/Microservices-%20Design%20Patterns.md) → 3. [Microservices- Security](../../../Courses/Cybersecurity/Microservices-%20Security.md)
 
 ## Topics
 
-- [[Cybersecurity]]
-- [[Software Development]]
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Microservices Foundations Professional Certificate by Kong]] (2 shared courses)
+- [Microservices Foundations Professional Certificate by Kong](../../Software%20Development/Professional%20Certificates/Microservices%20Foundations%20Professional%20Certificate%20by%20Kong.md) (2 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cybersecurity]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cybersecurity](../../../Topics/Cybersecurity.md)

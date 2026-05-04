@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[InfraWorks and ArcGIS- AEC Collaboration]] — 2h 53m · 19,120 learners
+- [InfraWorks and ArcGIS- AEC Collaboration](../../Courses/Data%20Science/InfraWorks%20and%20ArcGIS-%20AEC%20Collaboration.md) — 2h 53m · 19,120 learners
 
 ## Related Skills
 
-- [[Autodesk InfraWorks]] — 1 shared course
+- [Autodesk InfraWorks](Autodesk%20InfraWorks.md) — 1 shared course

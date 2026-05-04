@@ -19,18 +19,18 @@ created: 2026-05-03
 
 # Java Software Development
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Cloud Computing]], [[Software Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Cloud Computing](../../Topics/Cloud%20Computing.md), [Software Development](../../Topics/Software%20Development.md)
 
 ## Courses
 
-1. [[Nail Your Java Interview]] — 1 mentions
+1. [Nail Your Java Interview](../../Courses/Cloud%20Computing/Nail%20Your%20Java%20Interview.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Building Your Java Skills]] — 1 total mentions
+1. [Building Your Java Skills](../../Paths/Cloud%20Computing/Learning%20Paths/Building%20Your%20Java%20Skills.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

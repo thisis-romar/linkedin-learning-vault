@@ -19,27 +19,27 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Advanced Nlp With Python For Machine Learning]]'
+  - course: '[Advanced Nlp With Python For Machine Learning](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Nlp%20With%20Python%20For%20Machine%20Learning.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Hands-On Natural Language Processing]]'
+  - course: '[Hands-On Natural Language Processing](../../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20Natural%20Language%20Processing.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building NLP Pipelines with spaCy]]'
+  - course: '[Building NLP Pipelines with spaCy](../../../Courses/Artificial%20Intelligence%20(AI)/Building%20NLP%20Pipelines%20with%20spaCy.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Deep Learning with TensorFlow- Insights and Innovations]]'
+  - course: '[Deep Learning with TensorFlow- Insights and Innovations](../../../Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20TensorFlow-%20Insights%20and%20Innovations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[AI Workshop- Build a Neural Network with PyTorch Lightning]]'
+  - course: '[AI Workshop- Build a Neural Network with PyTorch Lightning](../../../Courses/Artificial%20Intelligence%20(AI)/AI%20Workshop-%20Build%20a%20Neural%20Network%20with%20PyTorch%20Lightning.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Generative AI- Working with Large Language Models]]'
+  - course: '[Generative AI- Working with Large Language Models](../../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-%20Working%20with%20Large%20Language%20Models.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -54,29 +54,29 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Advanced Nlp With Python For Machine Learning]]
-2. [[Hands-On Natural Language Processing]] _(50m)_
-3. [[Building NLP Pipelines with spaCy]] _(1h)_
-4. [[Deep Learning with TensorFlow- Insights and Innovations]] _(3h 6m)_
-5. [[AI Workshop- Build a Neural Network with PyTorch Lightning]] _(1h 36m)_
-6. [[Generative AI- Working with Large Language Models]] _(1h 22m)_
+1. [Advanced Nlp With Python For Machine Learning](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Nlp%20With%20Python%20For%20Machine%20Learning.md)
+2. [Hands-On Natural Language Processing](../../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20Natural%20Language%20Processing.md) _(50m)_
+3. [Building NLP Pipelines with spaCy](../../../Courses/Artificial%20Intelligence%20(AI)/Building%20NLP%20Pipelines%20with%20spaCy.md) _(1h)_
+4. [Deep Learning with TensorFlow- Insights and Innovations](../../../Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20TensorFlow-%20Insights%20and%20Innovations.md) _(3h 6m)_
+5. [AI Workshop- Build a Neural Network with PyTorch Lightning](../../../Courses/Artificial%20Intelligence%20(AI)/AI%20Workshop-%20Build%20a%20Neural%20Network%20with%20PyTorch%20Lightning.md) _(1h 36m)_
+6. [Generative AI- Working with Large Language Models](../../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-%20Working%20with%20Large%20Language%20Models.md) _(1h 22m)_
 
 ## Course Flow
 
-1. [[Advanced Nlp With Python For Machine Learning]] → 2. [[Hands-On Natural Language Processing]] → 3. [[Building NLP Pipelines with spaCy]] → 4. [[Deep Learning with TensorFlow- Insights and Innovations]] → 5. [[AI Workshop- Build a Neural Network with PyTorch Lightning]] → 6. [[Generative AI- Working with Large Language Models]]
+1. [Advanced Nlp With Python For Machine Learning](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Nlp%20With%20Python%20For%20Machine%20Learning.md) → 2. [Hands-On Natural Language Processing](../../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20Natural%20Language%20Processing.md) → 3. [Building NLP Pipelines with spaCy](../../../Courses/Artificial%20Intelligence%20(AI)/Building%20NLP%20Pipelines%20with%20spaCy.md) → 4. [Deep Learning with TensorFlow- Insights and Innovations](../../../Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20TensorFlow-%20Insights%20and%20Innovations.md) → 5. [AI Workshop- Build a Neural Network with PyTorch Lightning](../../../Courses/Artificial%20Intelligence%20(AI)/AI%20Workshop-%20Build%20a%20Neural%20Network%20with%20PyTorch%20Lightning.md) → 6. [Generative AI- Working with Large Language Models](../../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-%20Working%20with%20Large%20Language%20Models.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Software Development]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Building Generative AI Skills for Developers]] (1 shared courses)
-- [[Develop Your Skills with Large Language Models]] (1 shared courses)
+- [Building Generative AI Skills for Developers](Building%20Generative%20AI%20Skills%20for%20Developers.md) (1 shared courses)
+- [Develop Your Skills with Large Language Models](Develop%20Your%20Skills%20with%20Large%20Language%20Models.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

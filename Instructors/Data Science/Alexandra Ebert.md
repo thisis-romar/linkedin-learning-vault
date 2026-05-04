@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Synthetic Data as the Future of AI Privacy, Explainability, and Fairness- An Introduction for Data Scientists and Data Executives]]
+- [Synthetic Data as the Future of AI Privacy, Explainability, and Fairness- An Introduction for Data Scientists and Data Executives](../../Courses/Data%20Science/Synthetic%20Data%20as%20the%20Future%20of%20AI%20Privacy%2C%20Explainability%2C%20and%20Fairness-%20An%20Introduction%20for%20Data%20Scientists%20and%20Data%20Executives.md)

@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Awareness- Cybersecurity Terminology]]
-- [[Building a Cybersecurity Awareness Program]]
+- [Cybersecurity Awareness- Cybersecurity Terminology](../../Courses/Cybersecurity/Cybersecurity%20Awareness-%20Cybersecurity%20Terminology.md)
+- [Building a Cybersecurity Awareness Program](../../Courses/Cybersecurity/Building%20a%20Cybersecurity%20Awareness%20Program.md)

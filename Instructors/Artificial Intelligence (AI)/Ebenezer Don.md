@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js]]
+- [Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js](../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Build%20an%20AI%20Chatbot%20with%20GPT-4o%20and%20Next.js.md)

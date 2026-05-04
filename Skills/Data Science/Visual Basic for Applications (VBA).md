@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel VBA- Process Modeling]] — Advanced · 3h 2m · 10,057 learners
+- [Excel VBA- Process Modeling](../../Courses/Data%20Science/Excel%20VBA-%20Process%20Modeling.md) — Advanced · 3h 2m · 10,057 learners
 
 ## Related Skills
 
-- [[Data Modeling]] — 1 shared course
-- [[Microsoft Excel]] — 1 shared course
+- [Data Modeling](Data%20Modeling.md) — 1 shared course
+- [Microsoft Excel](Microsoft%20Excel.md) — 1 shared course

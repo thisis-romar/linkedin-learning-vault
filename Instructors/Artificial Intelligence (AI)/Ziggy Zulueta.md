@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]]
-- [[Azure AI for Developers- Building AI Agents]]
-- [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]]
+- [Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20for%20Developers-%20Retrieval-Augmented%20Generation%20(RAG)%20with%20Azure%20AI.md)
+- [Azure AI for Developers- Building AI Agents](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Building%20AI%20Agents.md)
+- [Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)](../../Courses/Artificial%20Intelligence%20(AI)/Building%20RAG%20Solutions%20with%20Azure%20AI%20Foundry%20(Formerly%20Azure%20AI%20Studio).md)

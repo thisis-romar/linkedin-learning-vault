@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[IT Service Management Foundations- Problem Management]]
+- [IT Service Management Foundations- Problem Management](../../Courses/DevOps/IT%20Service%20Management%20Foundations-%20Problem%20Management.md)

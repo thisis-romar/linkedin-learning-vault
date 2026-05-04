@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Ethical Hacking- Cryptography]]
+- [Ethical Hacking- Cryptography](../../Courses/Cybersecurity/Ethical%20Hacking-%20Cryptography.md)

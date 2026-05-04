@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Accessible Layout for the Web]]
+- [Accessible Layout for the Web](../../Courses/Web%20Development/Accessible%20Layout%20for%20the%20Web.md)

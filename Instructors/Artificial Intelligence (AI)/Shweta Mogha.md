@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Harnessing AI for Effective Interviewing]]
+- [Harnessing AI for Effective Interviewing](../../Courses/Artificial%20Intelligence%20(AI)/Harnessing%20AI%20for%20Effective%20Interviewing.md)

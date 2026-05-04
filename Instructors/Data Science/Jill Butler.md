@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[The 33 Laws of Typography]]
+- [The 33 Laws of Typography](../../Courses/Data%20Science/The%2033%20Laws%20of%20Typography.md)

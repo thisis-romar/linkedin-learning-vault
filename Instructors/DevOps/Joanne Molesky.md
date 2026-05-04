@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Lean Technology Strategy- Moving Fast With Defined Constraints]]
+- [Lean Technology Strategy- Moving Fast With Defined Constraints](../../Courses/DevOps/Lean%20Technology%20Strategy-%20Moving%20Fast%20With%20Defined%20Constraints.md)

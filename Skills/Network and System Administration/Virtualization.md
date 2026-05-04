@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Virtualization]] — Beginner · 2h 13m · 47,331 learners
+- [Learning Virtualization](../../Courses/Cloud%20Computing/Learning%20Virtualization.md) — Beginner · 2h 13m · 47,331 learners

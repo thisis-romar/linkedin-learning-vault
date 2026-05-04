@@ -22,16 +22,16 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Orchestration- Developing and Testing Your AI Prototype]] — Intermediate · 58m · 2,763 learners
+- [AI Orchestration- Developing and Testing Your AI Prototype](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Developing%20and%20Testing%20Your%20AI%20Prototype.md) — Intermediate · 58m · 2,763 learners
 
 ## Related Skills
 
-- [[Prototype Validation]] — 1 shared course
-- [[AI Orchestration]] — 1 shared course
-- [[AI Software Development]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Prototype Validation](Prototype%20Validation.md) — 1 shared course
+- [AI Orchestration](AI%20Orchestration.md) — 1 shared course
+- [AI Software Development](../Artificial%20Intelligence%20(AI)/AI%20Software%20Development.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[Dynamic Application Security Testing]] — 3 mentions
-2. [[Introduction To Career Skills In Software Development]] — 1 mentions
+1. [Dynamic Application Security Testing](../../Courses/Cybersecurity/Dynamic%20Application%20Security%20Testing.md) — 3 mentions
+2. [Introduction To Career Skills In Software Development](../../Courses/Software%20Development/Introduction%20To%20Career%20Skills%20In%20Software%20Development.md) — 1 mentions

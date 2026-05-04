@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Content Marketing Foundations]] — Beginner · 53m · 381,883 learners
-- [[A Content Marketer's Guide to Responsible AI]] — 23m · 1,732 learners
+- [Content Marketing Foundations](../../Courses/Data%20Science/Content%20Marketing%20Foundations.md) — Beginner · 53m · 381,883 learners
+- [A Content Marketer's Guide to Responsible AI](../../Courses/Artificial%20Intelligence%20(AI)/A%20Content%20Marketer's%20Guide%20to%20Responsible%20AI.md) — 23m · 1,732 learners
 
 ## Related Skills
 
-- [[AI for Marketing]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [AI for Marketing](../Artificial%20Intelligence%20(AI)/AI%20for%20Marketing.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

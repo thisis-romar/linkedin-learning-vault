@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Scala Essential Training]]
+- [Scala Essential Training](../../Courses/Data%20Science/Scala%20Essential%20Training.md)

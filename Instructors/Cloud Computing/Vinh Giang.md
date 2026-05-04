@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Communicating with Confidence]]
+- [Communicating with Confidence](../../Courses/Cloud%20Computing/Communicating%20with%20Confidence.md)

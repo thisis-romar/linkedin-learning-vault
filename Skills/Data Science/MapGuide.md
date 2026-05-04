@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning MapGuide Open Source]] — Beginner · 3h 29m · 19,120 learners
+- [Learning MapGuide Open Source](../../Courses/Data%20Science/Learning%20MapGuide%20Open%20Source.md) — Beginner · 3h 29m · 19,120 learners
 
 ## Mentioned In Transcripts _(140 total mentions)_
 
-1. [[Learning MapGuide Open Source]] — 140 mentions
+1. [Learning MapGuide Open Source](../../Courses/Data%20Science/Learning%20MapGuide%20Open%20Source.md) — 140 mentions

@@ -16,9 +16,9 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGOvmZCxzgEDw/learning-public-crop_675_1200/B4DZsyfMblJcAY-/0/1766078597734?e=2147483647&amp;v=beta&amp;t=Cprg1SFhO6nLKZTlwXuTKIpWO68QxgsdS40awE36bRw"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - '[[Responsible AI Foundations Professional Certificate by All Tech Is Human]]'
+  - '[Responsible AI Foundations Professional Certificate by All Tech Is Human](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Responsible%20AI%20Foundations%20Professional%20Certificate%20by%20All%20Tech%20Is%20Human.md)'
 prev_courses:
-  - '[[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]]'
+  - '[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human](Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md)'
 path_nav: '[{"path":"Responsible AI Foundations Professional Certificate by All Tech Is Human","position":4,"total":4,"prev":"Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human","next":null}]'
 path_count: 1
 tags:
@@ -58,7 +58,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[All Tech Is Human]]
+- [All Tech Is Human](../../Instructors/Artificial%20Intelligence%20(AI)/All%20Tech%20Is%20Human.md)
 
 ## Resources
 
@@ -71,26 +71,26 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Responsible AI Foundations Professional Certificate by All Tech Is Human]]
-← [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]] | **4 of 4**
+### In [Responsible AI Foundations Professional Certificate by All Tech Is Human](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Responsible%20AI%20Foundations%20Professional%20Certificate%20by%20All%20Tech%20Is%20Human.md)
+← [Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human](Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md) | **4 of 4**
 
 ## Part of
 
-- [[Responsible AI Foundations Professional Certificate by All Tech Is Human]]
+- [Responsible AI Foundations Professional Certificate by All Tech Is Human](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Responsible%20AI%20Foundations%20Professional%20Certificate%20by%20All%20Tech%20Is%20Human.md)
 
 ## Appears In
 
-- [[Responsible AI Foundations Professional Certificate by All Tech Is Human]]
+- [Responsible AI Foundations Professional Certificate by All Tech Is Human](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Responsible%20AI%20Foundations%20Professional%20Certificate%20by%20All%20Tech%20Is%20Human.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — Artificial Intelligence (AI), Responsible AI
-- [[Responsible AI- Global Risks, Governance, and Human Oversight]] — Artificial Intelligence (AI), Responsible AI
-- [[Understanding Ai S Global Impact Governance Equity And Responsibility]] — Artificial Intelligence (AI), Responsible AI
-- [[Responsible AI to the Rescue]] — Artificial Intelligence (AI), Responsible AI
-- [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]] — Artificial Intelligence (AI), Responsible AI
+- [Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI](Implement%20and%20Evaluate%20Cloud%20AI%20Solutions-%20Foundations%20of%20Responsible%20AI.md) — Artificial Intelligence (AI), Responsible AI
+- [Responsible AI- Global Risks, Governance, and Human Oversight](Responsible%20AI-%20Global%20Risks%2C%20Governance%2C%20and%20Human%20Oversight.md) — Artificial Intelligence (AI), Responsible AI
+- [Understanding Ai S Global Impact Governance Equity And Responsibility](Understanding%20Ai%20S%20Global%20Impact%20Governance%20Equity%20And%20Responsibility.md) — Artificial Intelligence (AI), Responsible AI
+- [Responsible AI to the Rescue](Responsible%20AI%20to%20the%20Rescue.md) — Artificial Intelligence (AI), Responsible AI
+- [Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human](Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md) — Artificial Intelligence (AI), Responsible AI
 
 ---
 

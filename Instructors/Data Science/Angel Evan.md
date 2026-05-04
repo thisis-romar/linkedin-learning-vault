@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Science Team Lifecycle Management]]
+- [Data Science Team Lifecycle Management](../../Courses/Data%20Science/Data%20Science%20Team%20Lifecycle%20Management.md)

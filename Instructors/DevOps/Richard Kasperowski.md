@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Software Development- Extreme Programming]]
+- [Agile Software Development- Extreme Programming](../../Courses/DevOps/Agile%20Software%20Development-%20Extreme%20Programming.md)

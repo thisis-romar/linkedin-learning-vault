@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS]]
+- [Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS](../../Courses/Data%20Science/Data%20Engineering%20Project-%20Build%20Streaming%20Ingestion%20Pipelines%20for%20Snowflake%20with%20AWS.md)

@@ -17,29 +17,29 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGe_XBEUaYAHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669412428?e=2147483647&amp;v=beta&amp;t=QEso6-1Lc9Ph5lSUygZxhuAC_R3CXpoXTTv-FsIkdIg"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - '[[Advance as a Tech Leader]]'
-  - '[[Succeeding in Your Tech Career- Software Development]]'
-  - '[[Managing and Leading Developers]]'
-  - '[[Improve Your Technical Communication Skills]]'
-  - '[[Managing your Career as a Developer]]'
-  - '[[Starting Your Career in Tech- Software Development]]'
-  - '[[Advance Your Communication Skills as a Tech Manager]]'
+  - '[Advance as a Tech Leader](../../Paths/Cloud%20Computing/Learning%20Paths/Advance%20as%20a%20Tech%20Leader.md)'
+  - '[Succeeding in Your Tech Career- Software Development](../../Paths/Cloud%20Computing/Learning%20Paths/Succeeding%20in%20Your%20Tech%20Career-%20Software%20Development.md)'
+  - '[Managing and Leading Developers](../../Paths/Cloud%20Computing/Learning%20Paths/Managing%20and%20Leading%20Developers.md)'
+  - '[Improve Your Technical Communication Skills](../../Paths/Cloud%20Computing/Learning%20Paths/Improve%20Your%20Technical%20Communication%20Skills.md)'
+  - '[Managing your Career as a Developer](../../Paths/Cloud%20Computing/Learning%20Paths/Managing%20your%20Career%20as%20a%20Developer.md)'
+  - '[Starting Your Career in Tech- Software Development](../../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20Software%20Development.md)'
+  - '[Advance Your Communication Skills as a Tech Manager](../../Paths/DevOps/Learning%20Paths/Advance%20Your%20Communication%20Skills%20as%20a%20Tech%20Manager.md)'
 prev_courses:
-  - '[[Succeeding As A First Time Tech Manager]]'
-  - '[[Tech Career Skills- Communication for Developers]]'
-  - '[[Tech Career Skills- Moving from Developer to Engineering Manager]]'
+  - '[Succeeding As A First Time Tech Manager](Succeeding%20As%20A%20First%20Time%20Tech%20Manager.md)'
+  - '[Tech Career Skills- Communication for Developers](Tech%20Career%20Skills-%20Communication%20for%20Developers.md)'
+  - '[Tech Career Skills- Moving from Developer to Engineering Manager](Tech%20Career%20Skills-%20Moving%20from%20Developer%20to%20Engineering%20Manager.md)'
   - null
-  - '[[Succeeding in Web Development- Full Stack and Front End]]'
-  - '[[Rock Your LinkedIn Profile]]'
+  - '[Succeeding in Web Development- Full Stack and Front End](../Software%20Development/Succeeding%20in%20Web%20Development-%20Full%20Stack%20and%20Front%20End.md)'
+  - '[Rock Your LinkedIn Profile](Rock%20Your%20LinkedIn%20Profile.md)'
   - null
 next_courses:
-  - '[[Tech Career Skills- Getting Promoted]]'
+  - '[Tech Career Skills- Getting Promoted](Tech%20Career%20Skills-%20Getting%20Promoted.md)'
   - null
-  - '[[Succeeding As A First Time Tech Manager]]'
-  - '[[Inclusive Tech- Conducting Humane Code Reviews]]'
-  - '[[Getting Things Done]]'
-  - '[[Developer Career Paths and Certifications]]'
-  - '[[Creating Your IT Strategy]]'
+  - '[Succeeding As A First Time Tech Manager](Succeeding%20As%20A%20First%20Time%20Tech%20Manager.md)'
+  - '[Inclusive Tech- Conducting Humane Code Reviews](Inclusive%20Tech-%20Conducting%20Humane%20Code%20Reviews.md)'
+  - '[Getting Things Done](Getting%20Things%20Done.md)'
+  - '[Developer Career Paths and Certifications](../Software%20Development/Developer%20Career%20Paths%20and%20Certifications.md)'
+  - '[Creating Your IT Strategy](../DevOps/Creating%20Your%20IT%20Strategy.md)'
 path_nav: '[{"path":"Advance as a Tech Leader","position":2,"total":8,"prev":"Succeeding As A First Time Tech Manager","next":"Tech Career Skills- Getting Promoted"},{"path":"Succeeding in Your Tech Career- Software Development","position":6,"total":6,"prev":"Tech Career Skills- Communication for Developers","next":null},{"path":"Managing and Leading Developers","position":2,"total":8,"prev":"Tech Career Skills- Moving from Developer to Engineering Manager","next":"Succeeding As A First Time Tech Manager"},{"path":"Improve Your Technical Communication Skills","position":1,"total":5,"prev":null,"next":"Inclusive Tech- Conducting Humane Code Reviews"},{"path":"Managing your Career as a Developer","position":4,"total":8,"prev":"Succeeding in Web Development- Full Stack and Front End","next":"Getting Things Done"},{"path":"Starting Your Career in Tech- Software Development","position":5,"total":6,"prev":"Rock Your LinkedIn Profile","next":"Developer Career Paths and Certifications"},{"path":"Advance Your Communication Skills as a Tech Manager","position":1,"total":6,"prev":null,"next":"Creating Your IT Strategy"}]'
 path_count: 7
 tags:
@@ -103,11 +103,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=0)** - [Instructor] [[Software Development]] is challenging, because as a technical team, we have to figure out what to do, do it, and then make sure we've done it right. And each step requires effective communication. We work with stakeholders, developers, product managers, testers, each coming with different perspectives on how things should be done. And this can cause our product to suffer if we don't all get on the same page. We'll look at various tools and techniques that can help propel your career by making you a more effective technical communicator. Learn more [[Forms]] of communication are the most effective to automate, and which require a personal touch in your team's daily activities. Also, learn how you can best structure meetings to achieve your team's goals. We'll also review some common challenges to effective communication, and how you can navigate them successfully. My name is Annyce Davis, and I've worked on software teams of various structures, sizes and cultures, and through it all, having effective communication has helped me to make the most of my interactions. So, join me on my [[LinkedIn]] learning course, all about becoming an effective technical communicator.
+> **[0:00](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=0)** - [Instructor] [Software Development](../../Topics/Software%20Development.md) is challenging, because as a technical team, we have to figure out what to do, do it, and then make sure we've done it right. And each step requires effective communication. We work with stakeholders, developers, product managers, testers, each coming with different perspectives on how things should be done. And this can cause our product to suffer if we don't all get on the same page. We'll look at various tools and techniques that can help propel your career by making you a more effective technical communicator. Learn more [Forms](../../Skills/Web%20Development/Forms.md) of communication are the most effective to automate, and which require a personal touch in your team's daily activities. Also, learn how you can best structure meetings to achieve your team's goals. We'll also review some common challenges to effective communication, and how you can navigate them successfully. My name is Annyce Davis, and I've worked on software teams of various structures, sizes and cultures, and through it all, having effective communication has helped me to make the most of my interactions. So, join me on my [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) learning course, all about becoming an effective technical communicator.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), [[Forms]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Software Development](../../Topics/Software%20Development.md) (1), [Forms](../../Skills/Web%20Development/Forms.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -115,11 +115,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980&t=1)** - This course is designed primarily for members of a [[Software Development]] team that are interested in improving their communication skills, and not only programmers. This course is for anyone involved with the day-to-day activities of a software team, be it product managers, tech leads, testers, and even business stakeholders. We're going to cover tested techniques and strategies for improving the way you communicate within your team. We will walk through real-world examples as well as different scenarios with a fictional [[Agile Development|Agile]] team that is building reporting software. With that in mind, having a basic understanding of how Agile teams are structured is useful, but not a hard requirement. The main thing you need is a willingness to learn and the desire to put what you learned into action. I've also included useful templates and additional resources as course handouts. You can download these documents to help you on your journey to becoming an effective technical communicator.
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980&t=1)** - This course is designed primarily for members of a [Software Development](../../Topics/Software%20Development.md) team that are interested in improving their communication skills, and not only programmers. This course is for anyone involved with the day-to-day activities of a software team, be it product managers, tech leads, testers, and even business stakeholders. We're going to cover tested techniques and strategies for improving the way you communicate within your team. We will walk through real-world examples as well as different scenarios with a fictional [Agile](../../Skills/DevOps/Agile%20Development.md) team that is building reporting software. With that in mind, having a basic understanding of how Agile teams are structured is useful, but not a hard requirement. The main thing you need is a willingness to learn and the desire to put what you learned into action. I've also included useful templates and additional resources as course handouts. You can download these documents to help you on your journey to becoming an effective technical communicator.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [Agile](../../Skills/DevOps/Agile%20Development.md) (2), [Software Development](../../Topics/Software%20Development.md) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
@@ -132,13 +132,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=1)** - In all areas of life, standards exist whether we want them or not. There are safety standards to protect us on the road, food standards to protect what we eat, and [[Banking]] standards to protect our money. In software teams, we have standards that shape not only what we develop, but how we go about doing so. These standards serve as a baseline for [[Decision-Making]], help reduce uncertainty, and ultimately save time, as expectations are clearly understood by all. I once worked on a mobile application that downloaded video content for offline playback. The requirements were to download the videos in a batch process once a day. And that's exactly what we did. After the release, we started to receive complaints from users that the app was eating up all of their mobile data. As a result, many of those same users uninstalled their application. This could have been prevented if we had tighter standards in place. What are some things we should have thought about? Well the first thing should have been our users. They should always be the focal point of the features you want to deliver. For instance, users should have the ability to opt out of background downloads altogether, or if a user hasn't used the app in a few days, we should pause downloads until they interact again. And I'm sure you could think of many more scenarios. But it's this type of thinking that is needed to make sure you consistently deliver [[Microsoft Products|products]]
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=1)** - In all areas of life, standards exist whether we want them or not. There are safety standards to protect us on the road, food standards to protect what we eat, and [Banking](../../Skills/Software%20Development/Banking.md) standards to protect our money. In software teams, we have standards that shape not only what we develop, but how we go about doing so. These standards serve as a baseline for [Decision-Making](../../Skills/Data%20Science/Decision-Making.md), help reduce uncertainty, and ultimately save time, as expectations are clearly understood by all. I once worked on a mobile application that downloaded video content for offline playback. The requirements were to download the videos in a batch process once a day. And that's exactly what we did. After the release, we started to receive complaints from users that the app was eating up all of their mobile data. As a result, many of those same users uninstalled their application. This could have been prevented if we had tighter standards in place. What are some things we should have thought about? Well the first thing should have been our users. They should always be the focal point of the features you want to deliver. For instance, users should have the ability to opt out of background downloads altogether, or if a user hasn't used the app in a few days, we should pause downloads until they interact again. And I'm sure you could think of many more scenarios. But it's this type of thinking that is needed to make sure you consistently deliver [products](../../Skills/Software%20Development/Microsoft%20Products.md)
 >
-> **[1:35](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=95)** that will delight users. An added bonus is you get to keep your sanity, because you and your team have the knowledge about what you want good to look like. But beyond technical standards, each team should have process standards. If you're using [[Agile Development|Agile]], how are the meetings structured? Who's in attendance? How are decisions made and captured? These are just a few questions related to process standards that you will need to decide. Keep in mind, however, it's a continuous process. Standards can evolve, or even be replaced as your team grows and your needs change. That's why it's important to regularly assess the effectiveness of the various standards that you have in place. This applies to how you determine code quality, testing procedures, even the efficiency with which you onboard new members to the team. Establishing standards is critical to the success of your team. Yet they will be useless if they're not communicated in a way that is accessible to all.
+> **[1:35](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=95)** that will delight users. An added bonus is you get to keep your sanity, because you and your team have the knowledge about what you want good to look like. But beyond technical standards, each team should have process standards. If you're using [Agile](../../Skills/DevOps/Agile%20Development.md), how are the meetings structured? Who's in attendance? How are decisions made and captured? These are just a few questions related to process standards that you will need to decide. Keep in mind, however, it's a continuous process. Standards can evolve, or even be replaced as your team grows and your needs change. That's why it's important to regularly assess the effectiveness of the various standards that you have in place. This applies to how you determine code quality, testing procedures, even the efficiency with which you onboard new members to the team. Establishing standards is critical to the success of your team. Yet they will be useless if they're not communicated in a way that is accessible to all.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), [[Decision-Making]] (1), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [Banking](../../Skills/Software%20Development/Banking.md) (1), [Decision-Making](../../Skills/Data%20Science/Decision-Making.md) (1), [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1), [Agile](../../Skills/DevOps/Agile%20Development.md) (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for instance (1)
@@ -149,15 +149,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=1)** - Code reviews are a great way to enforce coding standards, but the fact that someone's work is being critiqued can easily make it a frustrating experience. If this was a play, we'd have the following parts: the code, the author, the author's ego, the reviewer, and the reviewer's ego. Now imagine trying to bring all of these characters together in the same scene. Chaos could easily ensue. To pull it off though, we need a plan. Just like any good play has a well-written script. A major piece of the puzzle is automation. We want to let machines do as much of the dirty work as possible. I love this diagram from Alex Hill where she shows the different places a comment could fall during a [[Code Review]]. The items in the Low record-High conflict area is where automation is going to help us out. I always feel a bit icky pointing out to someone that there's an extra newline or a missing space after an if statement. With automated checks, that's no longer my job. I can focus on more high reward items. Here's an example of the results from a static code analysis run. Static code analysis is a way your code can be checked for issues without you even running it. You and your team decide on a set of rules, like no more than two returns per function or no functions with more than 20 lines,
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=1)** - Code reviews are a great way to enforce coding standards, but the fact that someone's work is being critiqued can easily make it a frustrating experience. If this was a play, we'd have the following parts: the code, the author, the author's ego, the reviewer, and the reviewer's ego. Now imagine trying to bring all of these characters together in the same scene. Chaos could easily ensue. To pull it off though, we need a plan. Just like any good play has a well-written script. A major piece of the puzzle is automation. We want to let machines do as much of the dirty work as possible. I love this diagram from Alex Hill where she shows the different places a comment could fall during a [Code Review](../../Skills/Software%20Development/Code%20Review.md). The items in the Low record-High conflict area is where automation is going to help us out. I always feel a bit icky pointing out to someone that there's an extra newline or a missing space after an if statement. With automated checks, that's no longer my job. I can focus on more high reward items. Here's an example of the results from a static code analysis run. Static code analysis is a way your code can be checked for issues without you even running it. You and your team decide on a set of rules, like no more than two returns per function or no functions with more than 20 lines,
 >
-> **[1:35](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=95)** whatever it is that you like. Now instead of pointing out these types of stylistic issues during a code review, we've let the tool do it for us. Once you, as the author, feel your code is ready to go, the next step is to ask for a review. A very popular way to do so is via opening a pull request. Here are a few tips to make the most of this step in the process as well. First, the title should include the issue number that you're working on and a short summary of the change. Here's the format I've used for years. It covers what was done and what the related issue was. I prefer this approach because the reviewer can quickly get a sense of what the P.R. is about and how long it might take them to review it. Finally, make use of a template that populates the description field when a P.R. is opened. It serves a two-fold purpose. It sets clear expectations for the author and it saves the reviewer from thinking about housekeeping task instead of big picture items. Here's the template we use for our [[Android]] apps at work. Feel free to grab it and make changes that fit the needs of your team. Our app is available in several languages, so we have to push any new strings to our translation service. In the past, when we've missed this step it has cost us pain during the release process. Having it as an item in the checklist
+> **[1:35](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=95)** whatever it is that you like. Now instead of pointing out these types of stylistic issues during a code review, we've let the tool do it for us. Once you, as the author, feel your code is ready to go, the next step is to ask for a review. A very popular way to do so is via opening a pull request. Here are a few tips to make the most of this step in the process as well. First, the title should include the issue number that you're working on and a short summary of the change. Here's the format I've used for years. It covers what was done and what the related issue was. I prefer this approach because the reviewer can quickly get a sense of what the P.R. is about and how long it might take them to review it. Finally, make use of a template that populates the description field when a P.R. is opened. It serves a two-fold purpose. It sets clear expectations for the author and it saves the reviewer from thinking about housekeeping task instead of big picture items. Here's the template we use for our [Android](../../Glossary/Sdk/Android.md) apps at work. Feel free to grab it and make changes that fit the needs of your team. Our app is available in several languages, so we have to push any new strings to our translation service. In the past, when we've missed this step it has cost us pain during the release process. Having it as an item in the checklist
 >
 > **[3:09](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=189)** means we don't have to worry about missing it again. Think about what we might include in your team's P.R. checklist. Automation is a powerful way to improve code quality and at the same time keep frustration to a minimum in your team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (2), [[Android]] (1)
+> **Frameworks & Libraries:** [Code Review](../../Skills/Software%20Development/Code%20Review.md) (2), [Android](../../Glossary/Sdk/Android.md) (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), just like (1), picture (1)
 > **Exercise Files:** template (2)
@@ -168,7 +168,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=1)** - During a [[Code Review]], we have the author and the reviewer. It can sometimes feel like a really dangerous game of ping pong as biting comments are sent back and forth about the code, but it doesn't have to be that way. Both sides of the table can work together to make it more enjoyable. Meet Ahmed and Josh. Let's sit in on one of their code reviews. See if you can spot some of the ways they both drop the ball.
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=1)** - During a [Code Review](../../Skills/Software%20Development/Code%20Review.md), we have the author and the reviewer. It can sometimes feel like a really dangerous game of ping pong as biting comments are sent back and forth about the code, but it doesn't have to be that way. Both sides of the table can work together to make it more enjoyable. Meet Ahmed and Josh. Let's sit in on one of their code reviews. See if you can spot some of the ways they both drop the ball.
 >
 > **[0:31](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=31)** - Okay, let me quickly go through this. Hm, that doesn't make sense. We never use this method anymore. What's up with using old methods?
 >
@@ -176,7 +176,7 @@ created: 2026-05-03
 >
 > **[1:43](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=103)** - What? Really old method. Did I read the ticket? What did-- I hate when this guy reviews my code. He thinks that he knows everything, but he doesn't. This method is not old. We use it in three other places in the app. Or did you not check?
 >
-> **[2:16](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=136)** Our PM sent out the criteria in the [[Slack]] chat yesterday. I guess you didn't see it.
+> **[2:16](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=136)** Our PM sent out the criteria in the [Slack](../../Skills/Software%20Development/Slack.md) chat yesterday. I guess you didn't see it.
 >
 > **[2:34](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=154)** Okay, wow. I'm not even going to respond to this one.
 >
@@ -204,7 +204,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (2), [[Slack]] (2)
+> **Frameworks & Libraries:** [Code Review](../../Skills/Software%20Development/Code%20Review.md) (2), [Slack](../../Skills/Software%20Development/Slack.md) (2)
 > **Speakers:** - okay (3), - during (1), - what (1), - that (1), - much (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** slack (2)
@@ -230,7 +230,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-testing-software?u=76281980&t=1)** - Your QA team plays the part of both adversary and assistant. They develop the test cases that push the software to its limits, and at the same time, provide the test data and other context that is needed for developers to perform their daily tasks. Both aspects of the tester are essential to the success of a well-run team. But how can we strike a healthy balance between these two roles, and ensure that everyone on the team is communicating in the most effective way? Well, let's take a look at two tools which help to promote effective communication during the testing phase of [[Software Development]]. The first is creating an issue template for reporting bugs. A good bug report should include the most basic steps required to reproduce an issue. This will help avoid needless back and forth between developers and testers. Does this sound familiar? A developer receives a bug report from QA. It contains the following title: User cannot always send report. That's it. (chuckles) This then leads to a series of questions back and forth between the tester and developer, as the developer attempts to gather more information to debug the issue. Both people end up annoyed and frustrated. Instead of having to go through this whole song and dance each time, take advantage of an issue template. Here's a simple format that I find is effective
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-testing-software?u=76281980&t=1)** - Your QA team plays the part of both adversary and assistant. They develop the test cases that push the software to its limits, and at the same time, provide the test data and other context that is needed for developers to perform their daily tasks. Both aspects of the tester are essential to the success of a well-run team. But how can we strike a healthy balance between these two roles, and ensure that everyone on the team is communicating in the most effective way? Well, let's take a look at two tools which help to promote effective communication during the testing phase of [Software Development](../../Topics/Software%20Development.md). The first is creating an issue template for reporting bugs. A good bug report should include the most basic steps required to reproduce an issue. This will help avoid needless back and forth between developers and testers. Does this sound familiar? A developer receives a bug report from QA. It contains the following title: User cannot always send report. That's it. (chuckles) This then leads to a series of questions back and forth between the tester and developer, as the developer attempts to gather more information to debug the issue. Both people end up annoyed and frustrated. Instead of having to go through this whole song and dance each time, take advantage of an issue template. Here's a simple format that I find is effective
 >
 > **[1:34](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-testing-software?u=76281980&t=94)** in the majority of cases. First, you have a summary where you explain the actual issue. Let's use our user report scenario. In the Summary field, we'd have: User cannot send a report after 5:00 p.m. It's short and specific. Then, in the Steps to Reproduce, we'd have something like: Set the device time to 5:01 p.m. Log in as a sales agent. From the home screen, click the Send Report button. Only the most basic information we need to have it reproduced. Next, in the Expected Results section, we'd put: User report is recorded on the server and a message appears notifying the user of a successful submission. In the Actual Results section, we'd put: User report is not recorded on the server and no message is displayed. This type of bug report helps to avoid leaving developers struggling to track down where the bug exists. The second tool we want to consider to help with our testing process is a bug priority matrix. This is where you and your team have an agreed upon set of categories for where bugs fall. Despite our best efforts, there will be bugs in the software, but deciding which ones are potential blockers to a successful release shouldn't be left to chance.
 >
@@ -238,7 +238,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (2)
+> **Frameworks & Libraries:** [Software Development](../../Topics/Software%20Development.md) (2)
 > **CLI Commands:** find (1), make (1)
 > **Ports:** :00 (1), :01 (1)
 > **Exercise Files:** template (2)
@@ -288,13 +288,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980&t=1)** - Collaboration is required for companies to do their best work, and meetings are the go-to choice for doing so. But let's be honest, how many meetings do you attend which could be summed up in a simple email? Over the years, I've been in hundreds of meetings, some good, but many of them not so much. I'm sure you've felt the same way. This leads us to try either avoiding meetings altogether or simply view them as a waste of time and mentally check out. I've definitely been guilty of this, and my meeting notes ended up consisting of mostly doodles. But why does this happen? Meetings flop for a number of reasons, but the top three you'll hear consistently are scheduling a meeting last minute, not having a clear plan, and having too many people present. Do any of those reasons sound familiar to you? No doubt. Yet, in the age of [[Agile Development|Agile]], we rely on meetings to help us achieve our goals for each sprint. So what can we do to make meetings work for us and not against us? Personally, I like the POWER approach. POWER is an acronym that stands for purpose, outcomes, what's in it for them, engagement, and roles and responsibilities. Let's look at these one at a time. First, purpose. Why is this meeting necessary? Do you need the high-touch interaction that meetings provide? Or can you gather the information you need
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980&t=1)** - Collaboration is required for companies to do their best work, and meetings are the go-to choice for doing so. But let's be honest, how many meetings do you attend which could be summed up in a simple email? Over the years, I've been in hundreds of meetings, some good, but many of them not so much. I'm sure you've felt the same way. This leads us to try either avoiding meetings altogether or simply view them as a waste of time and mentally check out. I've definitely been guilty of this, and my meeting notes ended up consisting of mostly doodles. But why does this happen? Meetings flop for a number of reasons, but the top three you'll hear consistently are scheduling a meeting last minute, not having a clear plan, and having too many people present. Do any of those reasons sound familiar to you? No doubt. Yet, in the age of [Agile](../../Skills/DevOps/Agile%20Development.md), we rely on meetings to help us achieve our goals for each sprint. So what can we do to make meetings work for us and not against us? Personally, I like the POWER approach. POWER is an acronym that stands for purpose, outcomes, what's in it for them, engagement, and roles and responsibilities. Let's look at these one at a time. First, purpose. Why is this meeting necessary? Do you need the high-touch interaction that meetings provide? Or can you gather the information you need
 >
 > **[1:33](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980&t=93)** in a more asynchronous fashion? Next, outcomes. What is the deliverable for your meeting? Will there be a set of action items? Is a decision going to be made? Whatever the goal, your desired outcome should be stated up front. What's in it for them? Why should others care about attending your meeting? What would they learn that can help them to get their jobs done? Engagement is the next ingredient in our POWER soup. How do you plan on getting your participants involved either before, during, or after the meeting? It's very common to have meetings where only one or two people dominate the conversation. How can you plan ahead to break that pattern? Finally, roles and responsibilities. Who's in charge of making sure the meeting stays on track? Who's going to take notes? How will the action items be handled? It's important to make sure that everyone knows what role they play to make your meetings effective. Now it does require more effort to have effective meetings. But considering we spend at least 15% of our time as a company in meetings, it's worth it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [Agile](../../Skills/DevOps/Agile%20Development.md) (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** power (3)
 > **Definitions:** is an  (1), stands for (1), is a  (1)
@@ -304,7 +304,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=1)** - Let's take a look at how we can apply the power principle to our iteration planning meetings, or IPMs. Now this course is not focused on how to apply [[Agile Development|Agile]] in your company. For more on that, I would recommend the [[Agile Software Development]] course available in our library. But just as a quick overview, with an Agile approach, you're going to have a product backlog. This consists of a prioritized list of the features that you need for your product. Your team's work is performed in short time box iterations, which normally range from a week to a month in length. At the start of each iteration, you would all get together and plan which portion of the product backlog will get attention in the upcoming iteration. This is known as your IPM. Josh, Ahmed, Karen, and Frank are just getting started with an upcoming sprint. Let's take a look at how they kick off their IPM.
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=1)** - Let's take a look at how we can apply the power principle to our iteration planning meetings, or IPMs. Now this course is not focused on how to apply [Agile](../../Skills/DevOps/Agile%20Development.md) in your company. For more on that, I would recommend the [Agile Software Development](../../Skills/DevOps/Agile%20Software%20Development.md) course available in our library. But just as a quick overview, with an Agile approach, you're going to have a product backlog. This consists of a prioritized list of the features that you need for your product. Your team's work is performed in short time box iterations, which normally range from a week to a month in length. At the start of each iteration, you would all get together and plan which portion of the product backlog will get attention in the upcoming iteration. This is known as your IPM. Josh, Ahmed, Karen, and Frank are just getting started with an upcoming sprint. Let's take a look at how they kick off their IPM.
 >
 > **[1:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=61)** - Okay, let's get started. Uh, I forgot to send out the stories that we're going to handle this week, so let's just go over it now real briefly, okay? First, we're going to do the new user reports in the mobile app. Josh, what's the timeframe on that?
 >
@@ -344,7 +344,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Agile Software Development]] (1)
+> **Frameworks & Libraries:** [Agile](../../Skills/DevOps/Agile%20Development.md) (3), [Agile Software Development](../../Skills/DevOps/Agile%20Software%20Development.md) (1)
 > **Speakers:** - okay (7), - let (2), - i (2), - wait (1), - now (1)
 > **Definitions:** known as (1), is an  (1), stands for (1), is a  (1)
 > **Env Vars:** ipm (3)
@@ -355,13 +355,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=0)** - [Instructor] Demo day is where you get to share the accomplishments from the sprint with your team. I used to hate going into this meeting, especially when I felt like my tasks for the sprint weren't visible enough. For instance, maybe I updated a database query that resulted in decreased page load times. How could that really impress stakeholders? Or, new events were added to track user interaction with the screen. What would management be able to take away from that? Well, over the years I've come to realize that sprint demos are more for other team members, man management or stakeholders. They help share knowledge in a more interactive way, and can often reveal hidden bugs. They are a crucial piece of the [[Agile Development|Agile]] lifecycle. So, how can you make the most of this meeting? Here are my top tips. Planning: during your iteration planning meeting, or IPM, think about how you will demo each and every user story. This helps to get everyone on the same page and eases the burden of prepping for the demo day. The right attendees: the entire agile team, product owners and essential stakeholders, should all be in attendance. You can also leave the door open for people from other teams to attend, as well. This is especially useful when multiple teams work on the same project. Developers can gain insight into what's being done, and avoid duplicating work.
+> **[0:00](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=0)** - [Instructor] Demo day is where you get to share the accomplishments from the sprint with your team. I used to hate going into this meeting, especially when I felt like my tasks for the sprint weren't visible enough. For instance, maybe I updated a database query that resulted in decreased page load times. How could that really impress stakeholders? Or, new events were added to track user interaction with the screen. What would management be able to take away from that? Well, over the years I've come to realize that sprint demos are more for other team members, man management or stakeholders. They help share knowledge in a more interactive way, and can often reveal hidden bugs. They are a crucial piece of the [Agile](../../Skills/DevOps/Agile%20Development.md) lifecycle. So, how can you make the most of this meeting? Here are my top tips. Planning: during your iteration planning meeting, or IPM, think about how you will demo each and every user story. This helps to get everyone on the same page and eases the burden of prepping for the demo day. The right attendees: the entire agile team, product owners and essential stakeholders, should all be in attendance. You can also leave the door open for people from other teams to attend, as well. This is especially useful when multiple teams work on the same project. Developers can gain insight into what's being done, and avoid duplicating work.
 >
-> **[1:34](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=94)** In a previous company, I personally benefited from attending the IOS demo meetings, even though I worked on the [[Android]] team. We needed to tackle some of the same challenges and I was able to help keep both platforms in sync by doing so. Timeboxed: I prefer to cap the demo at one hour, but you should allow for flexibility based on the size of your team and the number of user stories included in each sprint. Follow an agenda: this is perhaps the most important tip. Meetings can easily fall off the rails when there's no agreed-upon agenda. Here's a format I find works well. You start out by having the project manager briefly review the goals for the sprint. Next, developers demo their work, and no slide-ex, please, just actual, functioning software. Allow time for stakeholders to provide feedback. And finally, leave some room to identify any new risks that were uncovered during the whole process. This helps to better inform the upcoming sprint. Demo days help increase everyone's sense of ownership over all of your team software, even small wins deserve a chance to be celebrated and appreciated, so make your team's demo day more effective by keeping these simple points in mind.
+> **[1:34](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=94)** In a previous company, I personally benefited from attending the IOS demo meetings, even though I worked on the [Android](../../Glossary/Sdk/Android.md) team. We needed to tackle some of the same challenges and I was able to help keep both platforms in sync by doing so. Timeboxed: I prefer to cap the demo at one hour, but you should allow for flexibility based on the size of your team and the number of user stories included in each sprint. Follow an agenda: this is perhaps the most important tip. Meetings can easily fall off the rails when there's no agreed-upon agenda. Here's a format I find works well. You start out by having the project manager briefly review the goals for the sprint. Next, developers demo their work, and no slide-ex, please, just actual, functioning software. Allow time for stakeholders to provide feedback. And finally, leave some room to identify any new risks that were uncovered during the whole process. This helps to better inform the upcoming sprint. Demo days help increase everyone's sense of ownership over all of your team software, even small wins deserve a chance to be celebrated and appreciated, so make your team's demo day more effective by keeping these simple points in mind.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Android]] (1)
+> **Frameworks & Libraries:** [Agile](../../Skills/DevOps/Agile%20Development.md) (2), [Android](../../Glossary/Sdk/Android.md) (1)
 > **CLI Commands:** make (2), rails (1), find (1)
 > **Env Vars:** ipm (1), ios (1)
 > **Analogies:** for instance (1)
@@ -371,13 +371,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=1)** - Many [[Agile Development|Agile]] teams aren't sure what to talk about during retrospectives if they have them at all. It may just be an around the room discussion of what went well and what didn't during the sprint. Or it turns into a venting session of failures without any clear plans for change. Neither approach meets the needs of the team or aids in the continuous improvement of Agile practices. Ideally, the sprint retrospective should cover three main questions, what went well during the sprint, what would we like to change, and how can we implement that change. The best way to spark conversation and gather the answers to these questions is by means of objective data. By focusing on facts you reduce the natural impulse of team members to be defensive and view sprint failings as a personal attack. Here are a few numbers worth reviewing. Your team's overall percentage of completed stories, the team velocity, a comparison of your estimated versus actual output, the number of defects reported, this aids in assessing the quality of the work. And depending on the tool your team uses for project management you may be able to have this data available with little to no effort. For example, if you use (mumbles) for issue tracking, you can easily view reports for common Agile metrics. Like the sprint burndown, team velocity, and control charts.
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=1)** - Many [Agile](../../Skills/DevOps/Agile%20Development.md) teams aren't sure what to talk about during retrospectives if they have them at all. It may just be an around the room discussion of what went well and what didn't during the sprint. Or it turns into a venting session of failures without any clear plans for change. Neither approach meets the needs of the team or aids in the continuous improvement of Agile practices. Ideally, the sprint retrospective should cover three main questions, what went well during the sprint, what would we like to change, and how can we implement that change. The best way to spark conversation and gather the answers to these questions is by means of objective data. By focusing on facts you reduce the natural impulse of team members to be defensive and view sprint failings as a personal attack. Here are a few numbers worth reviewing. Your team's overall percentage of completed stories, the team velocity, a comparison of your estimated versus actual output, the number of defects reported, this aids in assessing the quality of the work. And depending on the tool your team uses for project management you may be able to have this data available with little to no effort. For example, if you use (mumbles) for issue tracking, you can easily view reports for common Agile metrics. Like the sprint burndown, team velocity, and control charts.
 >
-> **[1:41](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=101)** Before the retrospective, the [[Scrum]] master or project manager can pull this data and open the floor for team discussion. Having metrics is just one part of a successful retrospective, you also need to leave space for each team member to share their personal feedback about how the sprint went. Over time, this will help improve your team's processes and feelings of trust among members. Once you've discussed what people would like to see changed, it's important that you also decide on how to implement those changes. Do you need more clarity in bug reports? If so, outline a clear plan for how you're going to increase the clarity as a team. And then make someone accountable for that action item. I find it personally frustrating when I offer suggestions during meetings, but there's no follow-through. Perhaps you feel the same. You can avoid that by creating action items and assigning them to the respective team member. This also gives you something that you can review as a team before the next retrospective. If you feel like you're not getting much value out of your retrospectives, I encourage you to try out this format and see if it helps.
+> **[1:41](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=101)** Before the retrospective, the [Scrum](../../Skills/DevOps/Scrum.md) master or project manager can pull this data and open the floor for team discussion. Having metrics is just one part of a successful retrospective, you also need to leave space for each team member to share their personal feedback about how the sprint went. Over time, this will help improve your team's processes and feelings of trust among members. Once you've discussed what people would like to see changed, it's important that you also decide on how to implement those changes. Do you need more clarity in bug reports? If so, outline a clear plan for how you're going to increase the clarity as a team. And then make someone accountable for that action item. I find it personally frustrating when I offer suggestions during meetings, but there's no follow-through. Perhaps you feel the same. You can avoid that by creating action items and assigning them to the respective team member. This also gives you something that you can review as a team before the next retrospective. If you feel like you're not getting much value out of your retrospectives, I encourage you to try out this format and see if it helps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Scrum]] (1)
+> **Frameworks & Libraries:** [Agile](../../Skills/DevOps/Agile%20Development.md) (3), [Scrum](../../Skills/DevOps/Scrum.md) (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
@@ -429,13 +429,13 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=1)** - When you work on a globally-distributed team, you will often face challenges with communicating across timezones. Not being in the same location as your teammates forces you to rely on asynchronous means of communication. This type of communication lacks the typical non-verbal cues that help us to determine when someone is confused, disagrees, or feels uncomfortable with a decision. What's more, feelings of isolation are very common, as you don't get to have consistent, in-person contact with your coworkers. And this can easily snowball into having a general lack of trust among members of the team. To combat these potential pitfalls of working on a distributed team, you and your company need to be dedicated to establishing clear guidelines for how the team works together. This involves both your synchronous and asynchronous interactions. Let's start with synchronous. And for that, we'll cover our favorite topic, meetings. Before the meeting day, endeavor to send out the meeting agenda at least 24 to 48 hours in advance. This will help to make sure that regardless of timezone, each participant has had a chance to review the goals and the role that they will play in the meeting. Getting everyone together for a video call where it's just a wall of black boxes can be discouraging. If network constraints are a real issue,
 >
-> **[1:37](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=97)** then agree to have everyone keep their video on for at least the first five minutes of the meeting. This will give you consistent face time with your team and helps to get things off to a good start. During the meeting, make sure you summarize the conversation frequently. Since you can't see a confused look on someone's face, you need to make sure you are checking for understanding with all involved. Also, having a shared document allows everyone to feel involved in the meeting and makes it easier for them to follow along. I typically use [[Google]] Docs or [[Confluence]] for this and find them both very effective for remote meetings. And now let's talk about your asynchronous interactions. [[Slack]] has become the de facto standard for having workplace conversations, whether co-located or distributed. Yet it's not ideal for following up on action items, improving your team's documentation, or following the flow of changes to features. This becomes increasingly more important, as unclear communication or waiting for responses can cause multiple-day delays when your team is spread across timezones. To tackle this, you need to over-communicate. If you think you've shared enough, share some more. When a decision has been made in Slack, copy it to your ticketing system so that someone in another timezone can easily follow the changes in one place.
+> **[1:37](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=97)** then agree to have everyone keep their video on for at least the first five minutes of the meeting. This will give you consistent face time with your team and helps to get things off to a good start. During the meeting, make sure you summarize the conversation frequently. Since you can't see a confused look on someone's face, you need to make sure you are checking for understanding with all involved. Also, having a shared document allows everyone to feel involved in the meeting and makes it easier for them to follow along. I typically use [Google](../../Glossary/Service/Google.md) Docs or [Confluence](../../Skills/DevOps/Confluence.md) for this and find them both very effective for remote meetings. And now let's talk about your asynchronous interactions. [Slack](../../Skills/Software%20Development/Slack.md) has become the de facto standard for having workplace conversations, whether co-located or distributed. Yet it's not ideal for following up on action items, improving your team's documentation, or following the flow of changes to features. This becomes increasingly more important, as unclear communication or waiting for responses can cause multiple-day delays when your team is spread across timezones. To tackle this, you need to over-communicate. If you think you've shared enough, share some more. When a decision has been made in Slack, copy it to your ticketing system so that someone in another timezone can easily follow the changes in one place.
 >
 > **[3:10](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=190)** Another thing I tend to do is spend time at the beginning and end of my day responding to requests from my teammates. When I come online in the Netherlands, I have coworkers in America who are now sleeping, but may have left requests for me to look at. Or my teammates in Africa who've been working for a few hours already may need my assistance with something. I try to unblock as many people as possible, as I know the time difference poses a challenge to their productivity. Can you try something similar? You may not be able to replicate exactly what it would be like to have everyone based in the same location, yet you can make the most of the communication that you do have by spending time in advance establishing guidelines or your team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (2), [[Google]] (1), [[Confluence]] (1)
+> **Frameworks & Libraries:** [Slack](../../Skills/Software%20Development/Slack.md) (2), [Google](../../Glossary/Service/Google.md) (1), [Confluence](../../Skills/DevOps/Confluence.md) (1)
 > **CLI Commands:** make (4), find (1)
 > **Tools:** slack (2), confluence (1)
 > **Speakers:** - when (1)
@@ -504,18 +504,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980&t=1)** - Communicating effectively isn't always easy. We all come from various backgrounds and we think and process information differently. When it comes to the software industry, there can be additional challenges, as we need to work closely as a team to build high-quality [[Microsoft Products|products]]. Yet it's totally worth it to spend the extra time putting in place processes and systems that will help us to reduce miscommunication. Think about what it would mean for you if your next sprint planning meeting used the power approach and everyone left with a smile on their face. Or if you add a new person to your team and they start making a difference sooner because of your onboarding efforts. All of this can be possible if you and your team work to improve your communication. Don't feel the need to do everything all at once. Start by picking just one area and apply the techniques that we covered. Maybe start by tackling how you handle code reviews or the structure of your mentoring program. Whatever it is, just pick one thing. You'll certainly notice a difference. So until next time, I'm Anise Davis and thanks for watching.
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980&t=1)** - Communicating effectively isn't always easy. We all come from various backgrounds and we think and process information differently. When it comes to the software industry, there can be additional challenges, as we need to work closely as a team to build high-quality [products](../../Skills/Software%20Development/Microsoft%20Products.md). Yet it's totally worth it to spend the extra time putting in place processes and systems that will help us to reduce miscommunication. Think about what it would mean for you if your next sprint planning meeting used the power approach and everyone left with a smile on their face. Or if you add a new person to your team and they start making a difference sooner because of your onboarding efforts. All of this can be possible if you and your team work to improve your communication. Don't feel the need to do everything all at once. Start by picking just one area and apply the techniques that we covered. Maybe start by tackling how you handle code reviews or the structure of your mentoring program. Whatever it is, just pick one thing. You'll certainly notice a difference. So until next time, I'm Anise Davis and thanks for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - communicating (1)
 
 
 ## Instructor
 
-- [[Annyce Davis]]
+- [Annyce Davis](../../Instructors/Software%20Development/Annyce%20Davis.md)
 
 ## Resources
 
@@ -528,46 +528,46 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Advance as a Tech Leader]]
-← [[Succeeding As A First Time Tech Manager]] | **2 of 8** | [[Tech Career Skills- Getting Promoted]] →
+### In [Advance as a Tech Leader](../../Paths/Cloud%20Computing/Learning%20Paths/Advance%20as%20a%20Tech%20Leader.md)
+← [Succeeding As A First Time Tech Manager](Succeeding%20As%20A%20First%20Time%20Tech%20Manager.md) | **2 of 8** | [Tech Career Skills- Getting Promoted](Tech%20Career%20Skills-%20Getting%20Promoted.md) →
 
-### In [[Succeeding in Your Tech Career- Software Development]]
-← [[Tech Career Skills- Communication for Developers]] | **6 of 6**
+### In [Succeeding in Your Tech Career- Software Development](../../Paths/Cloud%20Computing/Learning%20Paths/Succeeding%20in%20Your%20Tech%20Career-%20Software%20Development.md)
+← [Tech Career Skills- Communication for Developers](Tech%20Career%20Skills-%20Communication%20for%20Developers.md) | **6 of 6**
 
-### In [[Managing and Leading Developers]]
-← [[Tech Career Skills- Moving from Developer to Engineering Manager]] | **2 of 8** | [[Succeeding As A First Time Tech Manager]] →
+### In [Managing and Leading Developers](../../Paths/Cloud%20Computing/Learning%20Paths/Managing%20and%20Leading%20Developers.md)
+← [Tech Career Skills- Moving from Developer to Engineering Manager](Tech%20Career%20Skills-%20Moving%20from%20Developer%20to%20Engineering%20Manager.md) | **2 of 8** | [Succeeding As A First Time Tech Manager](Succeeding%20As%20A%20First%20Time%20Tech%20Manager.md) →
 
-### In [[Improve Your Technical Communication Skills]]
-**1 of 5** | [[Inclusive Tech- Conducting Humane Code Reviews]] →
+### In [Improve Your Technical Communication Skills](../../Paths/Cloud%20Computing/Learning%20Paths/Improve%20Your%20Technical%20Communication%20Skills.md)
+**1 of 5** | [Inclusive Tech- Conducting Humane Code Reviews](Inclusive%20Tech-%20Conducting%20Humane%20Code%20Reviews.md) →
 
-### In [[Managing your Career as a Developer]]
-← [[Succeeding in Web Development- Full Stack and Front End]] | **4 of 8** | [[Getting Things Done]] →
+### In [Managing your Career as a Developer](../../Paths/Cloud%20Computing/Learning%20Paths/Managing%20your%20Career%20as%20a%20Developer.md)
+← [Succeeding in Web Development- Full Stack and Front End](../Software%20Development/Succeeding%20in%20Web%20Development-%20Full%20Stack%20and%20Front%20End.md) | **4 of 8** | [Getting Things Done](Getting%20Things%20Done.md) →
 
-### In [[Starting Your Career in Tech- Software Development]]
-← [[Rock Your LinkedIn Profile]] | **5 of 6** | [[Developer Career Paths and Certifications]] →
+### In [Starting Your Career in Tech- Software Development](../../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20Software%20Development.md)
+← [Rock Your LinkedIn Profile](Rock%20Your%20LinkedIn%20Profile.md) | **5 of 6** | [Developer Career Paths and Certifications](../Software%20Development/Developer%20Career%20Paths%20and%20Certifications.md) →
 
-### In [[Advance Your Communication Skills as a Tech Manager]]
-**1 of 6** | [[Creating Your IT Strategy]] →
+### In [Advance Your Communication Skills as a Tech Manager](../../Paths/DevOps/Learning%20Paths/Advance%20Your%20Communication%20Skills%20as%20a%20Tech%20Manager.md)
+**1 of 6** | [Creating Your IT Strategy](../DevOps/Creating%20Your%20IT%20Strategy.md) →
 
 ## Appears In
 
-- [[Advance as a Tech Leader]]
-- [[Succeeding in Your Tech Career- Software Development]]
-- [[Managing and Leading Developers]]
-- [[Improve Your Technical Communication Skills]]
-- [[Managing your Career as a Developer]]
-- [[Starting Your Career in Tech- Software Development]]
-- [[Advance Your Communication Skills as a Tech Manager]]
+- [Advance as a Tech Leader](../../Paths/Cloud%20Computing/Learning%20Paths/Advance%20as%20a%20Tech%20Leader.md)
+- [Succeeding in Your Tech Career- Software Development](../../Paths/Cloud%20Computing/Learning%20Paths/Succeeding%20in%20Your%20Tech%20Career-%20Software%20Development.md)
+- [Managing and Leading Developers](../../Paths/Cloud%20Computing/Learning%20Paths/Managing%20and%20Leading%20Developers.md)
+- [Improve Your Technical Communication Skills](../../Paths/Cloud%20Computing/Learning%20Paths/Improve%20Your%20Technical%20Communication%20Skills.md)
+- [Managing your Career as a Developer](../../Paths/Cloud%20Computing/Learning%20Paths/Managing%20your%20Career%20as%20a%20Developer.md)
+- [Starting Your Career in Tech- Software Development](../../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20Software%20Development.md)
+- [Advance Your Communication Skills as a Tech Manager](../../Paths/DevOps/Learning%20Paths/Advance%20Your%20Communication%20Skills%20as%20a%20Tech%20Manager.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Lessons from Data Scientists]] — Tech Career Skills
-- [[A Day In The Life Of A Data Scientist]] — Tech Career Skills
-- [[Future Proofing Your Data Science Career]] — Tech Career Skills
-- [[Data Science and Analytics Career Paths and Certifications- First Steps]] — Tech Career Skills
-- [[Developer Career Paths and Certifications]] — Tech Career Skills
+- [Lessons from Data Scientists](../Data%20Science/Lessons%20from%20Data%20Scientists.md) — Tech Career Skills
+- [A Day In The Life Of A Data Scientist](../Data%20Science/A%20Day%20In%20The%20Life%20Of%20A%20Data%20Scientist.md) — Tech Career Skills
+- [Future Proofing Your Data Science Career](Future%20Proofing%20Your%20Data%20Science%20Career.md) — Tech Career Skills
+- [Data Science and Analytics Career Paths and Certifications- First Steps](../Data%20Science/Data%20Science%20and%20Analytics%20Career%20Paths%20and%20Certifications-%20First%20Steps.md) — Tech Career Skills
+- [Developer Career Paths and Certifications](../Software%20Development/Developer%20Career%20Paths%20and%20Certifications.md) — Tech Career Skills
 
 ---
 

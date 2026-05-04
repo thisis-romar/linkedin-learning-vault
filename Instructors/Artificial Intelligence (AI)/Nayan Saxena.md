@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Orchestration- Developing and Testing Your AI Prototype]]
+- [AI Orchestration- Developing and Testing Your AI Prototype](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Developing%20and%20Testing%20Your%20AI%20Prototype.md)

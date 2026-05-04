@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to Terraform on Azure (2022)]]
+- [Introduction to Terraform on Azure (2022)](../../Courses/Cloud%20Computing/Introduction%20to%20Terraform%20on%20Azure%20(2022).md)

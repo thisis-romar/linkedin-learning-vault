@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Land Your First Cybersecurity Job]]
+- [Land Your First Cybersecurity Job](../../Courses/Cybersecurity/Land%20Your%20First%20Cybersecurity%20Job.md)

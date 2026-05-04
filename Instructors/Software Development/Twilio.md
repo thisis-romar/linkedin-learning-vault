@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Twilio Essentials Unit 2- Programmable Voice]]
-- [[Twilio Essentials Unit 3- All Together Now]]
+- [Twilio Essentials Unit 2- Programmable Voice](../../Courses/Software%20Development/Twilio%20Essentials%20Unit%202-%20Programmable%20Voice.md)
+- [Twilio Essentials Unit 3- All Together Now](../../Courses/Software%20Development/Twilio%20Essentials%20Unit%203-%20All%20Together%20Now.md)

@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI in Action- Global Case Studies from Public Institutions]] — 41m
-- [[Responsible AI- Global Risks, Governance, and Human Oversight]] — 1h 39m
-- [[Understanding Ai S Global Impact Governance Equity And Responsibility]]
+- [AI in Action- Global Case Studies from Public Institutions](../../Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Action-%20Global%20Case%20Studies%20from%20Public%20Institutions.md) — 41m
+- [Responsible AI- Global Risks, Governance, and Human Oversight](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Global%20Risks%2C%20Governance%2C%20and%20Human%20Oversight.md) — 1h 39m
+- [Understanding Ai S Global Impact Governance Equity And Responsibility](../../Courses/Artificial%20Intelligence%20(AI)/Understanding%20Ai%20S%20Global%20Impact%20Governance%20Equity%20And%20Responsibility.md)
 
 ## Related Skills
 
-- [[Artificial Intelligence (AI)]] — 3 shared courses
-- [[Responsible AI]] — 2 shared courses
-- [[Governance, Risk Management, and Compliance (GRC)]] — 2 shared courses
-- [[AI Equity]] — 1 shared course
-- [[AI Literacy]] — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 3 shared courses
+- [Responsible AI](Responsible%20AI.md) — 2 shared courses
+- [Governance, Risk Management, and Compliance (GRC)](../Cybersecurity/Governance%2C%20Risk%20Management%2C%20and%20Compliance%20(GRC).md) — 2 shared courses
+- [AI Equity](AI%20Equity.md) — 1 shared course
+- [AI Literacy](AI%20Literacy.md) — 1 shared course

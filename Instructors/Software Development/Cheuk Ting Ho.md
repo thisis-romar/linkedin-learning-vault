@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Create an Open-Source Project in Python]]
+- [Create an Open-Source Project in Python](../../Courses/Software%20Development/Create%20an%20Open-Source%20Project%20in%20Python.md)

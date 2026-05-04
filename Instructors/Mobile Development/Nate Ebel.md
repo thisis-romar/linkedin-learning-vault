@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Kotlin Essential Training- Object-Oriented and Async Code]]
+- [Kotlin Essential Training- Object-Oriented and Async Code](../../Courses/Mobile%20Development/Kotlin%20Essential%20Training-%20Object-Oriented%20and%20Async%20Code.md)

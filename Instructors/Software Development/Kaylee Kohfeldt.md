@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Practice It- Python Data Structures]]
+- [Practice It- Python Data Structures](../../Courses/Software%20Development/Practice%20It-%20Python%20Data%20Structures.md)

@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data, Economic Modeling, and Forecasting with Stata]] — Beginner · 49m · 45,408 learners
+- [Data, Economic Modeling, and Forecasting with Stata](../../Courses/Data%20Science/Data%2C%20Economic%20Modeling%2C%20and%20Forecasting%20with%20Stata.md) — Beginner · 49m · 45,408 learners
 
 ## Related Skills
 
-- [[Stata]] — 1 shared course
-- [[Financial Forecasting]] — 1 shared course
+- [Stata](Stata.md) — 1 shared course
+- [Financial Forecasting](Financial%20Forecasting.md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[Lean Technology Strategy- Running Agile at Scale]] — 2 mentions
-2. [[Data, Economic Modeling, and Forecasting with Stata]] — 2 mentions
+1. [Lean Technology Strategy- Running Agile at Scale](../../Courses/DevOps/Lean%20Technology%20Strategy-%20Running%20Agile%20at%20Scale.md) — 2 mentions
+2. [Data, Economic Modeling, and Forecasting with Stata](../../Courses/Data%20Science/Data%2C%20Economic%20Modeling%2C%20and%20Forecasting%20with%20Stata.md) — 2 mentions

@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # LinkedIn Marketing
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Data Science]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Data Science](../../Topics/Data%20Science.md)
 
 ## Courses
 
-1. [[Excel for Business Analysts]] — 1 mentions
+1. [Excel for Business Analysts](../../Courses/Data%20Science/Excel%20for%20Business%20Analysts.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Master Excel for Data Science]] — 1 total mentions
+1. [Master Excel for Data Science](../../Paths/Data%20Science/Learning%20Paths/Master%20Excel%20for%20Data%20Science.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

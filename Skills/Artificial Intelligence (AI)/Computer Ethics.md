@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Ethics in the Age of Generative AI]] — Beginner · 45m · 334,419 learners
+- [Ethics in the Age of Generative AI](../../Courses/Artificial%20Intelligence%20(AI)/Ethics%20in%20the%20Age%20of%20Generative%20AI.md) — Beginner · 45m · 334,419 learners
 
 ## Related Skills
 
-- [[Responsible AI]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
-- [[Generative AI]] — 1 shared course
+- [Responsible AI](Responsible%20AI.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
+- [Generative AI](Generative%20AI.md) — 1 shared course

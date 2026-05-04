@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Architectural Design- The WE Way for Workplace Inclusivity]]
+- [Architectural Design- The WE Way for Workplace Inclusivity](../../Courses/Web%20Development/Architectural%20Design-%20The%20WE%20Way%20for%20Workplace%20Inclusivity.md)

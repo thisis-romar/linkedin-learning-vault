@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[End-to-End Data Engineering Project]]
-- [[Complete Guide to Data Lakes and Lakehouses]]
+- [End-to-End Data Engineering Project](../../Courses/Data%20Science/End-to-End%20Data%20Engineering%20Project.md)
+- [Complete Guide to Data Lakes and Lakehouses](../../Courses/Data%20Science/Complete%20Guide%20to%20Data%20Lakes%20and%20Lakehouses.md)

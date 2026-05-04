@@ -19,15 +19,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[C Plus Plus Essential Training]]'
+  - course: '[C Plus Plus Essential Training](../../../Courses/Data%20Science/C%20Plus%20Plus%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[C++ Design Patterns- Structural]]'
+  - course: '[C++ Design Patterns- Structural](../../../Courses/Data%20Science/C%2B%2B%20Design%20Patterns-%20Structural.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices]]'
+  - course: '[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices](../../../Courses/Software%20Development/C%2B%2B%20Development-%20Advanced%20Concepts%2C%20Lambda%20Expressions%2C%20and%20Best%20Practices.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -42,25 +42,25 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[C Plus Plus Essential Training]]
-2. [[C++ Design Patterns- Structural]] _(1h 47m)_
-3. [[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices]] _(2h 54m)_
+1. [C Plus Plus Essential Training](../../../Courses/Data%20Science/C%20Plus%20Plus%20Essential%20Training.md)
+2. [C++ Design Patterns- Structural](../../../Courses/Data%20Science/C%2B%2B%20Design%20Patterns-%20Structural.md) _(1h 47m)_
+3. [C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices](../../../Courses/Software%20Development/C%2B%2B%20Development-%20Advanced%20Concepts%2C%20Lambda%20Expressions%2C%20and%20Best%20Practices.md) _(2h 54m)_
 
 ## Course Flow
 
-1. [[C Plus Plus Essential Training]] → 2. [[C++ Design Patterns- Structural]] → 3. [[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices]]
+1. [C Plus Plus Essential Training](../../../Courses/Data%20Science/C%20Plus%20Plus%20Essential%20Training.md) → 2. [C++ Design Patterns- Structural](../../../Courses/Data%20Science/C%2B%2B%20Design%20Patterns-%20Structural.md) → 3. [C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices](../../../Courses/Software%20Development/C%2B%2B%20Development-%20Advanced%20Concepts%2C%20Lambda%20Expressions%2C%20and%20Best%20Practices.md)
 
 ## Topics
 
-- [[Data Science]]
-- [[Software Development]]
+- [Data Science](../../../Topics/Data%20Science.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Master C++]] (1 shared courses)
+- [Master C++](../../DevOps/Learning%20Paths/Master%20C%2B%2B.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

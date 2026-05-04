@@ -16,11 +16,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHs2g5pgjX9Bw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902171062?e=2147483647&amp;v=beta&amp;t=3KGQEoQehvpFIkNavn0Ka6V-0lAb5W1-IX-8_QPH6BA"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[Python Hands-On Practice]]'
+  - '[Python Hands-On Practice](../../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)'
 prev_courses:
-  - '[[Practice It- Python Data Structures]]'
+  - '[Practice It- Python Data Structures](Practice%20It-%20Python%20Data%20Structures.md)'
 next_courses:
-  - '[[Python Practice- Collections]]'
+  - '[Python Practice- Collections](Python%20Practice-%20Collections.md)'
 path_nav: '[{"path":"Python Hands-On Practice","position":3,"total":14,"prev":"Practice It- Python Data Structures","next":"Python Practice- Collections"}]'
 path_count: 1
 tags:
@@ -69,11 +69,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] is one of the most popular programming languages in the world. Knowledge of Python opens the door to working with data, building applications, and solving problems, with code that can run on many types of devices. In this Code Challenge course, you can test your knowledge of Python basics to build your confidence working with the language. I've put together seven code challenges covering some of the most important basic concepts you'll use when working in Python. Build and test your solutions to these challenges in the built-in interactive coding environment, no special software required. And when you finish your solution to each challenge, take a look at my solution videos to see how I solve them. If you're ready to try out your Python skills, let's go.
+> **[0:00](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980&t=0)** - [Instructor] [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) is one of the most popular programming languages in the world. Knowledge of Python opens the door to working with data, building applications, and solving problems, with code that can run on many types of devices. In this Code Challenge course, you can test your knowledge of Python basics to build your confidence working with the language. I've put together seven code challenges covering some of the most important basic concepts you'll use when working in Python. Build and test your solutions to these challenges in the built-in interactive coding environment, no special software required. And when you finish your solution to each challenge, take a look at my solution videos to see how I solve them. If you're ready to try out your Python skills, let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (5)
 > **CLI Commands:** python (5)
 > **Speakers:** - [instructor] (1)
 
@@ -81,11 +81,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980&t=0)** - [Instructor] In this Code Challenge course, I expect you to be familiar with the basics of working with [[Python (Programming Language)|Python]]. We'll start out working with strings, and we'll use some flow control and conditional statements too. The challenges start out quite basic and become more involved as the course moves on. If you need to refresh your Python knowledge, take a look at these courses in the [[LinkedIn]] Learning Library. To work on these challenges, you don't need to install any separate software. The Coding Challenge environment is part of the LinkedIn Learning Course page. We'll explore how that works in the next video.
+> **[0:00](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980&t=0)** - [Instructor] In this Code Challenge course, I expect you to be familiar with the basics of working with [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md). We'll start out working with strings, and we'll use some flow control and conditional statements too. The challenges start out quite basic and become more involved as the course moves on. If you need to refresh your Python knowledge, take a look at these courses in the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning Library. To work on these challenges, you don't need to install any separate software. The Coding Challenge environment is part of the LinkedIn Learning Course page. We'll explore how that works in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
@@ -95,7 +95,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-operations/exploring-the-lab-environment?u=76281980&t=0)** - [Instructor] This course consists of automated code challenges that appear when you click on the challenge links in the courses' table of contents. Each challenge includes instructions and a couple of code editors you can use to create and test your own solution to the challenge. These challenges are hosted by Coder Pad and they appear in the same area of the course page where you watch the courses' videos. We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer. The Code Challenge has four areas. Instructions are in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left. You can use these drag handles to allocate space as you like. To get even more horizontal space for the code editors, you can collapse the courses' table of contents on the left. Each challenge has instructions that include a description of the challenge and the challenges' parameters and desired result. Parameters are values that are passed into your code, and they have to be of a particular data type. The return value also has to be of a particular type, and you'll also see that noted in the instructions. The constraints' section has useful information about the parameters that will be passed in. The examples show different parameter values and what result would be returned for each of those test cases. Create your answer in the top right code editor. There are comments in the starting code, showing where to put your solution. When you click test my code, you'll see a message indicating
+> **[0:00](https://www.linkedin.com/learning/python-practice-operations/exploring-the-lab-environment?u=76281980&t=0)** - [Instructor] This course consists of automated code challenges that appear when you click on the challenge links in the courses' table of contents. Each challenge includes instructions and a couple of code editors you can use to create and test your own solution to the challenge. These challenges are hosted by Coder Pad and they appear in the same area of the course page where you watch the courses' videos. We recommend using a desktop browser for the best experience with code challenges, but you can use the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning mobile app if you prefer. The Code Challenge has four areas. Instructions are in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left. You can use these drag handles to allocate space as you like. To get even more horizontal space for the code editors, you can collapse the courses' table of contents on the left. Each challenge has instructions that include a description of the challenge and the challenges' parameters and desired result. Parameters are values that are passed into your code, and they have to be of a particular data type. The return value also has to be of a particular type, and you'll also see that noted in the instructions. The constraints' section has useful information about the parameters that will be passed in. The examples show different parameter values and what result would be returned for each of those test cases. Create your answer in the top right code editor. There are comments in the starting code, showing where to put your solution. When you click test my code, you'll see a message indicating
 >
 > **[1:38](https://www.linkedin.com/learning/python-practice-operations/exploring-the-lab-environment?u=76281980&t=98)** whether your code returned a correct result. If your code isn't successful, you can ask for help.
 >
@@ -107,7 +107,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -120,11 +120,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980&t=0)** - [Instructor] The solution to this challenge requires us to do two things. First, we need to provide the parameters that our function will accept. We need to know which two strings to compare. So in the function definition, I added first_string, second_string as parameters. So this function will take two arguments when it's called. These arguments will be the strings to compare. Within the function, these values will be represented by first_string and second_string. So we can write return first_string == second_string. Double equals checks whether two values are equal, and the result is a Boolean value, true or false. In our first test case, comparing string one to string two will get back true. And in the second case, comparing string two to string three will get back false. Or at least that's the idea. Let's make sure that this solution works. I'll click Test my code, and I get what I expect. The first comparison is true and the second is false. I've solved this challenge. In many other languages, it's quite easy to make the mistake of using one equal sign, the assignment operator, where we really need two, the comparison operator. In those languages, the assignment operation will always return true. And that's led to a lot of pretty famous software bugs over the past few years. [[Python (Programming Language)|Python]] can catch this mistake for us, but it's always important to keep in mind. Comparing strings and other items and returning a true or false value as the result is something we'll find ourselves doing often in Python programs.
+> **[0:00](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980&t=0)** - [Instructor] The solution to this challenge requires us to do two things. First, we need to provide the parameters that our function will accept. We need to know which two strings to compare. So in the function definition, I added first_string, second_string as parameters. So this function will take two arguments when it's called. These arguments will be the strings to compare. Within the function, these values will be represented by first_string and second_string. So we can write return first_string == second_string. Double equals checks whether two values are equal, and the result is a Boolean value, true or false. In our first test case, comparing string one to string two will get back true. And in the second case, comparing string two to string three will get back false. Or at least that's the idea. Let's make sure that this solution works. I'll click Test my code, and I get what I expect. The first comparison is true and the second is false. I've solved this challenge. In many other languages, it's quite easy to make the mistake of using one equal sign, the assignment operator, where we really need two, the comparison operator. In those languages, the assignment operation will always return true. And that's led to a lot of pretty famous software bugs over the past few years. [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) can catch this mistake for us, but it's always important to keep in mind. Comparing strings and other items and returning a true or false value as the result is something we'll find ourselves doing often in Python programs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **Code Identifiers:** first_string (3), second_string (3)
 > **CLI Commands:** make (2), python (2), find (1)
 > **Definitions:** is a  (1)
@@ -145,11 +145,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-operations/solution-3-reverse-a-string?u=76281980&t=0)** - [Instructor] To solve this challenge, I used string slicing with a negative interval. Reversing a string can be accomplished in many different ways, though. Each character in a string has an index number starting from zero at the left side. String slicing lets us use these index numbers to refer to substrings. We can provide a number and another number and get back the substring represented by that specific range of indices in the string. The second number is where the counting stops, so the character in that position isn't returned. We'll be seeing that later in this set of challenges. String slicing has a third term, though, which is an interval, so we could put two or something like that and tell the [[Python (Programming Language)|Python]] string slicing to return every other index item. Putting a one here is the same as leaving that term off because an interval of one is just the normal counting of items, one at a time. We can also use a negative number as this interval and that tells Python to start from the end of the string rather than the beginning. And if we leave off the other two terms, that means to return the whole string, not just a substring. So if we use the full range and negative one is our interval, we'll work backwards from the end of the string, one item at a time. And if we leave off the other terms in the string slicing, we'll get the whole string, but backwards. I'll run my solution here and we can see that this works. If you used a different approach, that's fine too. The important part is that you got the right result.
+> **[0:00](https://www.linkedin.com/learning/python-practice-operations/solution-3-reverse-a-string?u=76281980&t=0)** - [Instructor] To solve this challenge, I used string slicing with a negative interval. Reversing a string can be accomplished in many different ways, though. Each character in a string has an index number starting from zero at the left side. String slicing lets us use these index numbers to refer to substrings. We can provide a number and another number and get back the substring represented by that specific range of indices in the string. The second number is where the counting stops, so the character in that position isn't returned. We'll be seeing that later in this set of challenges. String slicing has a third term, though, which is an interval, so we could put two or something like that and tell the [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) string slicing to return every other index item. Putting a one here is the same as leaving that term off because an interval of one is just the normal counting of items, one at a time. We can also use a negative number as this interval and that tells Python to start from the end of the string rather than the beginning. And if we leave off the other two terms, that means to return the whole string, not just a substring. So if we use the full range and negative one is our interval, we'll work backwards from the end of the string, one item at a time. And if we leave off the other terms in the string slicing, we'll get the whole string, but backwards. I'll run my solution here and we can see that this works. If you used a different approach, that's fine too. The important part is that you got the right result.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
@@ -159,11 +159,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980&t=0)** - [Instructor] String formatting is important when we're outputting mixed data types or when we need to control spacing or precision in our output. A common way of formatting strings in [[Python (Programming Language)|Python]] is to use f-strings to interpolate various pieces of information within a string. This lets us include things like numbers in a string without having to cast them as strings and use regular string concatenation to [[Jetpack Compose|compose]] our string. An f-stringing starts with the letter f and then has the regular string in either single or double quotes. And as I mentioned, they let us use existing variables or even whole pieces of code right within the f-stringing, and those values are evaluated when the string is rendered. For this solution, I used two parameters in my function and used three placeholders for my numeric values. I included both of the original values in the string, and I also included the calculation that was required by the challenge. Python takes care of evaluating this calculation and inserting the appropriate values into my text string. I'll run my code, and here we can see that the result is correct. f-strings also allow us to provide more formatting, like setting a specific precision for decimal values and so on, but we didn't need that here. Without f-strings, we'd need to convert variables into string types and use the plus character to concatenate string pieces together. That can get messy and becomes very hard to read. f-strings are a good choice whenever we need to incorporate non-text values into text output.
+> **[0:00](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980&t=0)** - [Instructor] String formatting is important when we're outputting mixed data types or when we need to control spacing or precision in our output. A common way of formatting strings in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) is to use f-strings to interpolate various pieces of information within a string. This lets us include things like numbers in a string without having to cast them as strings and use regular string concatenation to [compose](../../Glossary/Framework/Jetpack%20Compose.md) our string. An f-stringing starts with the letter f and then has the regular string in either single or double quotes. And as I mentioned, they let us use existing variables or even whole pieces of code right within the f-stringing, and those values are evaluated when the string is rendered. For this solution, I used two parameters in my function and used three placeholders for my numeric values. I included both of the original values in the string, and I also included the calculation that was required by the challenge. Python takes care of evaluating this calculation and inserting the appropriate values into my text string. I'll run my code, and here we can see that the result is correct. f-strings also allow us to provide more formatting, like setting a specific precision for decimal values and so on, but we didn't need that here. Without f-strings, we'd need to convert variables into string types and use the plus character to concatenate string pieces together. That can get messy and becomes very hard to read. f-strings are a good choice whenever we need to incorporate non-text values into text output.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [Compose](../../Glossary/Framework/Jetpack%20Compose.md) (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 
@@ -221,18 +221,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980&t=0)** - [Scott] If you are able to solve these challenges, congratulations. And if not, take some time to refresh your knowledge of [[Python (Programming Language)|Python]] and come back and try again. If you're ready to move on and solve more advanced challenges, take a look at our other interactive Python Code Challenge Courses here on [[LinkedIn]] Learning. See you next time.
+> **[0:00](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980&t=0)** - [Scott] If you are able to solve these challenges, congratulations. And if not, take some time to refresh your knowledge of [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) and come back and try again. If you're ready to move on and solve more advanced challenges, take a look at our other interactive Python Code Challenge Courses here on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning. See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [scott] (1)
 
 
 ## Instructor
 
-- [[Scott Simpson]]
+- [Scott Simpson](../../Instructors/Software%20Development/Scott%20Simpson.md)
 
 ## Skills Covered
 
@@ -240,22 +240,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Python Hands-On Practice]]
-← [[Practice It- Python Data Structures]] | **3 of 14** | [[Python Practice- Collections]] →
+### In [Python Hands-On Practice](../../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)
+← [Practice It- Python Data Structures](Practice%20It-%20Python%20Data%20Structures.md) | **3 of 14** | [Python Practice- Collections](Python%20Practice-%20Collections.md) →
 
 ## Appears In
 
-- [[Python Hands-On Practice]]
+- [Python Hands-On Practice](../../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Learning ArcGIS Python Scripting]] — Python (Programming Language)
-- [[QGIS and Python for AEC]] — Python (Programming Language)
-- [[Python Data Structures- Trees]] — Python (Programming Language)
-- [[Using SQL with Python]] — Python (Programming Language)
-- [[Python- Working with Predictive Analytics (2019)]] — Python (Programming Language)
+- [Learning ArcGIS Python Scripting](../Data%20Science/Learning%20ArcGIS%20Python%20Scripting.md) — Python (Programming Language)
+- [QGIS and Python for AEC](../Data%20Science/QGIS%20and%20Python%20for%20AEC.md) — Python (Programming Language)
+- [Python Data Structures- Trees](../Database%20Management/Python%20Data%20Structures-%20Trees.md) — Python (Programming Language)
+- [Using SQL with Python](../Data%20Science/Using%20SQL%20with%20Python.md) — Python (Programming Language)
+- [Python- Working with Predictive Analytics (2019)](Python-%20Working%20with%20Predictive%20Analytics%20(2019).md) — Python (Programming Language)
 
 ---
 

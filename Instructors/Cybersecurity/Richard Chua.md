@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Operational Excellence Foundations]]
-- [[Six Sigma Foundations]]
+- [Operational Excellence Foundations](../../Courses/Cybersecurity/Operational%20Excellence%20Foundations.md)
+- [Six Sigma Foundations](../../Courses/Cybersecurity/Six%20Sigma%20Foundations.md)

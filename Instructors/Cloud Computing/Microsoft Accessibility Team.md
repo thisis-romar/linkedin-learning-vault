@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Digital Accessibility for the Modern Workplace]]
+- [Digital Accessibility for the Modern Workplace](../../Courses/Cloud%20Computing/Digital%20Accessibility%20for%20the%20Modern%20Workplace.md)

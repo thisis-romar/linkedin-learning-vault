@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Awareness- Cybersecurity Terminology]] — Beginner · 48m · 245,736 learners
-- [[Cybersecurity Awareness- Protect Your Privacy]] — Beginner · 1h 26m · 185,174 learners
-- [[Building a Cybersecurity Awareness Program]] — Intermediate · 1h 21m · 29,569 learners
+- [Cybersecurity Awareness- Cybersecurity Terminology](../../Courses/Cybersecurity/Cybersecurity%20Awareness-%20Cybersecurity%20Terminology.md) — Beginner · 48m · 245,736 learners
+- [Cybersecurity Awareness- Protect Your Privacy](../../Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Protect%20Your%20Privacy.md) — Beginner · 1h 26m · 185,174 learners
+- [Building a Cybersecurity Awareness Program](../../Courses/Cybersecurity/Building%20a%20Cybersecurity%20Awareness%20Program.md) — Intermediate · 1h 21m · 29,569 learners
 
 ## Related Skills
 
-- [[Cybersecurity]] — 2 shared courses
-- [[Privacy Protection]] — 1 shared course
-- [[Privacy]] — 1 shared course
-- [[Security Awareness]] — 1 shared course
+- [Cybersecurity](../../Topics/Cybersecurity.md) — 2 shared courses
+- [Privacy Protection](../Data%20Science/Privacy%20Protection.md) — 1 shared course
+- [Privacy](../Data%20Science/Privacy.md) — 1 shared course
+- [Security Awareness](Security%20Awareness.md) — 1 shared course

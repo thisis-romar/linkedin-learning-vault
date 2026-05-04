@@ -17,14 +17,14 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGZuQRAhcxfyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1645204997331?e=2147483647&amp;v=beta&amp;t=_QsbXwiUzEW7nymW_uLVQYeoxUFQMUUrVlfaJhoKGeU"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - '[[Build Your Skills In Customer Service]]'
-  - '[[Zendesk Customer Service Professional Certificate]]'
+  - '[Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)'
+  - '[Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)'
 prev_courses:
-  - '[[Customer Service- Handling Abusive Customers]]'
-  - '[[Customer Service- Handling Abusive Customers]]'
+  - '[Customer Service- Handling Abusive Customers](Customer%20Service-%20Handling%20Abusive%20Customers.md)'
+  - '[Customer Service- Handling Abusive Customers](Customer%20Service-%20Handling%20Abusive%20Customers.md)'
 next_courses:
-  - '[[De-Escalating Conversations for Customer Service]]'
-  - '[[Serving Customers Using Social Media]]'
+  - '[De-Escalating Conversations for Customer Service](De-Escalating%20Conversations%20for%20Customer%20Service.md)'
+  - '[Serving Customers Using Social Media](Serving%20Customers%20Using%20Social%20Media.md)'
 path_nav: '[{"path":"Build Your Skills In Customer Service","position":6,"total":8,"prev":"Customer Service- Handling Abusive Customers","next":"De-Escalating Conversations for Customer Service"},{"path":"Zendesk Customer Service Professional Certificate","position":5,"total":6,"prev":"Customer Service- Handling Abusive Customers","next":"Serving Customers Using Social Media"}]'
 path_count: 2
 tags:
@@ -77,13 +77,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980&t=0)** - After a tiresome day of travel involving long delays, I got to my hotel and found that the hotel had an oversale situation. I remember just dropping my bag right there at the desk. I was so frustrated and I was ready to put up a fuss. But before I could say anything, the employee went on, "We've taken the liberty to book you a king room with a competitor, 1 1/2 miles away. We've also arranged for dinner and two cocktails on us. Our shuttle can take you now." My attitude defrosted and I looked forward to a free dinner and cocktails. In this course, we're looking at how you can reframe challenging conversations with customers by putting a positive slant on your approach and your words. You'll see how a mere apology can create calm. I'll introduce you to what I call the "What else?" focus, so you can give customers helpful information to make them feel heard and taken care of. Plus, we'll talk about how empathy and what's known as pacing, can show customers you're on their side. My name is Myra Golden and for more than 20 years, through my workshops, I've helped customer service professionals just like you. Join me in this [[LinkedIn]] Learning course and learn exactly how to foster positive conversations
+> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980&t=0)** - After a tiresome day of travel involving long delays, I got to my hotel and found that the hotel had an oversale situation. I remember just dropping my bag right there at the desk. I was so frustrated and I was ready to put up a fuss. But before I could say anything, the employee went on, "We've taken the liberty to book you a king room with a competitor, 1 1/2 miles away. We've also arranged for dinner and two cocktails on us. Our shuttle can take you now." My attitude defrosted and I looked forward to a free dinner and cocktails. In this course, we're looking at how you can reframe challenging conversations with customers by putting a positive slant on your approach and your words. You'll see how a mere apology can create calm. I'll introduce you to what I call the "What else?" focus, so you can give customers helpful information to make them feel heard and taken care of. Plus, we'll talk about how empathy and what's known as pacing, can show customers you're on their side. My name is Myra Golden and for more than 20 years, through my workshops, I've helped customer service professionals just like you. Join me in this [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course and learn exactly how to foster positive conversations
 >
 > **[1:34](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980&t=94)** in challenging situations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
@@ -111,13 +111,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/pacing-your-customers?u=76281980&t=0)** - Good negotiators have mastered the skill of pacing others. They mirror the verbal expression or body language of the person they're talking to and this pacing helps them create rapport and it puts them in the best possible position to influence the outcome. So let's look at three ways you can pace your customers. Pace the customer's sense of urgency. I stopped at an airport restaurant for lunch. When the server came to my table, one of the first things she said was, "How much time do you have before your flight?" When I told her I had less than an hour, she said, "We'll make this fast." She was [[Swift (Programming Language)|swift]] with everything, taking my order, bringing it out and getting me the check. She paced my schedule. Her sense of urgency put me at ease because I knew I'd enjoy a meal and make my flight. When you sense your customer has an urgent need, try to pace. Do this by quickly following up or conveying a sense of urgency with your words. For example, I don't want you to worry at all. We'll resolve this today. Next, pace with agreement. It's easier to keep a conversation positive when you find ways to agree with your customer. Look for opportunities to pace your customers
+> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/pacing-your-customers?u=76281980&t=0)** - Good negotiators have mastered the skill of pacing others. They mirror the verbal expression or body language of the person they're talking to and this pacing helps them create rapport and it puts them in the best possible position to influence the outcome. So let's look at three ways you can pace your customers. Pace the customer's sense of urgency. I stopped at an airport restaurant for lunch. When the server came to my table, one of the first things she said was, "How much time do you have before your flight?" When I told her I had less than an hour, she said, "We'll make this fast." She was [swift](../../Skills/Mobile%20Development/Swift%20(Programming%20Language).md) with everything, taking my order, bringing it out and getting me the check. She paced my schedule. Her sense of urgency put me at ease because I knew I'd enjoy a meal and make my flight. When you sense your customer has an urgent need, try to pace. Do this by quickly following up or conveying a sense of urgency with your words. For example, I don't want you to worry at all. We'll resolve this today. Next, pace with agreement. It's easier to keep a conversation positive when you find ways to agree with your customer. Look for opportunities to pace your customers
 >
 > **[1:34](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/pacing-your-customers?u=76281980&t=94)** by positively commenting on something they've said. You can say things like I can see your point on that, or I know that had to be frustrating. And finally, if you outpace, walk it back. I was leaving a deli with my mother and sister one evening. Engrossed in conversation, my sister and I strolled at a brisk pace. I happened to look back and saw that my mother was a few yards behind us. We turned around and walked toward her and then picked up her pace. While my mother didn't say anything about us walking ahead of her, I know that didn't feel good. When you outpace a customer, by talking too fast or giving explanations that they just don't get, it doesn't feel good. Your intentions are good but your pace is off. Get back on track by checking for understanding, slowing down when you need to and by even using some of the words your customer uses, even if they're not technically correct. For example, if your customer says thumb drive, when your inventory calls the device a flash drive, you don't need to correct the customer. Pace customers by using their language when it makes sense. Pacing customers put you in a position of influence because you're in sync with the customer and they sense you're on their side and that you truly want to help.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [Swift](../../Skills/Mobile%20Development/Swift%20(Programming%20Language).md) (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - good (1)
@@ -160,13 +160,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/when-you-can-t-give-the-customer-what-they-want?u=76281980&t=0)** - Sometimes, well, a lot of the time, you can't give customers what they want. You have to provide them a firm no, and this can be challenging when they're trying to resolve the issue. This is why I like to guide my clients to say no using the Feel, Felt, Found method. Here's an example. I was working with a client that sells food [[Microsoft Products|products]]. A frequent question they get from customers is, "What ingredients are in this yogurt?" When a customer asks for ingredients, it's usually because they or one of their children has a food allergy, and they're trying to make sure the product is safe. The problem is my clients can't give the entire ingredient list because that would be like giving away their secret sauce. All of their products list all ingredients known to have an allergic reaction to some people. For example, peanuts always would be listed on the label if the are in the product. But when a customer asks for a full list of ingredients, that can't be done. So I help my client respond to these customers with empathy since they can't give the customers what they are asking for. Using Feel, Felt, Found, here's what I had them do. "I understand how you feel. My daughter has a walnut allergy, and like you, I have to know what's in the food my daughter eats. We've had other customers who share your concern,
+> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/when-you-can-t-give-the-customer-what-they-want?u=76281980&t=0)** - Sometimes, well, a lot of the time, you can't give customers what they want. You have to provide them a firm no, and this can be challenging when they're trying to resolve the issue. This is why I like to guide my clients to say no using the Feel, Felt, Found method. Here's an example. I was working with a client that sells food [products](../../Skills/Software%20Development/Microsoft%20Products.md). A frequent question they get from customers is, "What ingredients are in this yogurt?" When a customer asks for ingredients, it's usually because they or one of their children has a food allergy, and they're trying to make sure the product is safe. The problem is my clients can't give the entire ingredient list because that would be like giving away their secret sauce. All of their products list all ingredients known to have an allergic reaction to some people. For example, peanuts always would be listed on the label if the are in the product. But when a customer asks for a full list of ingredients, that can't be done. So I help my client respond to these customers with empathy since they can't give the customers what they are asking for. Using Feel, Felt, Found, here's what I had them do. "I understand how you feel. My daughter has a walnut allergy, and like you, I have to know what's in the food my daughter eats. We've had other customers who share your concern,
 >
 > **[1:35](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/when-you-can-t-give-the-customer-what-they-want?u=76281980&t=95)** and they felt just as you do. Here's what we found helped them. Our labels list all known allergens. While the other customers couldn't get the full ingredient list, they could spot the specific ingredients that are known to trigger a known allergy, because all of our labels list out every ingredient that has a known allergic reaction. While this response doesn't give the customer everything they wanted to know, it's both helpful and framed with empathy. Feel, Felt, Found is a way to say no with empathy and showing customers how other customers got through the same thing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -176,7 +176,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positively-prime-customers?u=76281980&t=0)** - Before we get into this lesson, I want you to fill in the blanks. I'll give you the first and last letter of a [[Microsoft Word|word]]. Complete this word while I fluff up my fro.
+> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positively-prime-customers?u=76281980&t=0)** - Before we get into this lesson, I want you to fill in the blanks. I'll give you the first and last letter of a [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md). Complete this word while I fluff up my fro.
 >
 > **[0:21](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positively-prime-customers?u=76281980&t=21)** Did you say hair? Okay, let's try that again. Just as I came to talk to you, a loud truck pulled up right outside my window. Did you say hear this time? This is called priming. When you're exposed to a stimulus, a word, a color, a picture, it influences how you respond. Present positive primers to your customers and you increase the chance of them accepting your word as final. One of my clients is a water utility. In this county, when a person moves and leaves an outstanding balance, the debt stays with the water meter. When someone else moves into that house, they discover they have to pay the past due bill before they can turn their water on, and they're mad. The agent could say "The debt is attached to the meter. Regardless who accrued the debt, ABC Utility won't turn on the water until the bill is paid." But this approach will get pushback, and it will be difficult to manage. Here's a good priming example. "As a solution, I have two suggestions. First, you need to talk to your landlord. Tell them there's a debt on the meter and that you can't turn on the water. See if they'll work something out for you. The second option, and I'd do this immediately.
 >
@@ -184,7 +184,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (4)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** abc (1)
 > **Analogies:** picture (1)
@@ -194,13 +194,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/words-and-phrases-to-avoid-and-choosing-better-options?u=76281980&t=0)** - Sweetie is a trigger [[Microsoft Word|word]] for me. As in, what can I get you, sweetie? It always causes me to pause in shock. Now, sweetie, doesn't offend everyone but it does stir a lot of grown women. In customer service, there are certain words and for phrases that you're better off avoiding because of how they might be perceived. If the wording is seen negatively by the customer, you could be making things harder for yourself without even realizing it. Let's go over some words and phrases that you should avoid when talking to customers and what you should say instead. When you need to correct a confused or mistaken customer, don't be short. Don't make them feel foolish. Instead, use the words, "turns out." This makes you sound diplomatic. For example, if the customer says, "emailing photos is tedious." You could reply using "turns out" this way. "Emailing is an option. Turns out, now you can also text claims photos to us." You also want to avoid words that elicit negative feelings. Was a customer's card declined? Never say, "your card was declined." Try, "I'm having trouble authorizing your card." Is the problem the customer's fault? Don't say, "that's because you're using it incorrectly."
+> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/words-and-phrases-to-avoid-and-choosing-better-options?u=76281980&t=0)** - Sweetie is a trigger [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) for me. As in, what can I get you, sweetie? It always causes me to pause in shock. Now, sweetie, doesn't offend everyone but it does stir a lot of grown women. In customer service, there are certain words and for phrases that you're better off avoiding because of how they might be perceived. If the wording is seen negatively by the customer, you could be making things harder for yourself without even realizing it. Let's go over some words and phrases that you should avoid when talking to customers and what you should say instead. When you need to correct a confused or mistaken customer, don't be short. Don't make them feel foolish. Instead, use the words, "turns out." This makes you sound diplomatic. For example, if the customer says, "emailing photos is tedious." You could reply using "turns out" this way. "Emailing is an option. Turns out, now you can also text claims photos to us." You also want to avoid words that elicit negative feelings. Was a customer's card declined? Never say, "your card was declined." Try, "I'm having trouble authorizing your card." Is the problem the customer's fault? Don't say, "that's because you're using it incorrectly."
 >
 > **[1:37](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/words-and-phrases-to-avoid-and-choosing-better-options?u=76281980&t=97)** Instead, "how about let's take a look and see what's going on." And rather than, "so ,the widget is defective." Say, "it's not working as it should." Don't say, "my manager will just tell you the same thing I'm telling you." Because this sounds defensive and it will make the customers push to escalate. Try. "I can certainly transfer you to a manager. I'd like first to try to explain what's going on here before transferring you. Will that work for you?" It's also best to avoid saying, "no, there's nothing we can do." And, "I don't know." Always work to put a positive slant on things. You'll have fewer upset customers, which translates to better days for you too.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -247,11 +247,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/politely-distancing-from-hot-topics?u=76281980&t=0)** - A friend told me that over lunch, his boss said, "Not to get political, but what do you think of the president pulling the troops out of Afghanistan??" The very question makes things political and it has the potential of significant awkwardness, not just for lunch, but for the relationship. You may have customers that bring up hot topics about masks, vaccines, your company's support of a particular interest, like Black Lives Matter or Pride month, for example. You don't want to get caught up discussing a hot topic, just like my friend didn't want to go there with his boss. Here's how you distance yourself from hot topics with customers. Listen more than you talk. This tip will keep you out of a lot of polarizing conversations. Let your customer do most of the talking when it comes to hot topics. Your listening will validate them and you may not need to say much all. When you speak, say things like, "Hmm, okay, I can appreciate your point. That's an interesting perspective." Keep it neutral. While you don't want to get pulled into a hot topic discussion with a customer, you want to be friendly and you want to make customers feel heard and understood. This takes intention. If listening more than you talk doesn't work,
 >
-> **[1:35](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/politely-distancing-from-hot-topics?u=76281980&t=95)** keep responses neutral because a customer is pulling you in. Say things like, "I know people have strong opinions about blank. in my professional role, it's not appropriate for me to get into this discussion. This isn't something I'm willing to talk about with customers. For my own reasons, I choose not to discuss this topic, but if you need anything from a [[Customer Support]] position, I'm happy to help." Listening than you talk and keeping things neutral will help you avoid polarizing interactions with friends, family, and coworkers too.
+> **[1:35](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/politely-distancing-from-hot-topics?u=76281980&t=95)** keep responses neutral because a customer is pulling you in. Say things like, "I know people have strong opinions about blank. in my professional role, it's not appropriate for me to get into this discussion. This isn't something I'm willing to talk about with customers. For my own reasons, I choose not to discuss this topic, but if you need anything from a [Customer Support](../../Skills/IT%20Help%20Desk/Customer%20Support.md) position, I'm happy to help." Listening than you talk and keeping things neutral will help you avoid polarizing interactions with friends, family, and coworkers too.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (1)
+> **Frameworks & Libraries:** [Customer Support](../../Skills/IT%20Help%20Desk/Customer%20Support.md) (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
@@ -279,7 +279,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Myra Golden]]
+- [Myra Golden](../../Instructors/IT%20Help%20Desk/Myra%20Golden.md)
 
 ## Skills Covered
 
@@ -288,30 +288,30 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Build Your Skills In Customer Service]]
-← [[Customer Service- Handling Abusive Customers]] | **6 of 8** | [[De-Escalating Conversations for Customer Service]] →
+### In [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
+← [Customer Service- Handling Abusive Customers](Customer%20Service-%20Handling%20Abusive%20Customers.md) | **6 of 8** | [De-Escalating Conversations for Customer Service](De-Escalating%20Conversations%20for%20Customer%20Service.md) →
 
-### In [[Zendesk Customer Service Professional Certificate]]
-← [[Customer Service- Handling Abusive Customers]] | **5 of 6** | [[Serving Customers Using Social Media]] →
+### In [Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)
+← [Customer Service- Handling Abusive Customers](Customer%20Service-%20Handling%20Abusive%20Customers.md) | **5 of 6** | [Serving Customers Using Social Media](Serving%20Customers%20Using%20Social%20Media.md) →
 
 ## Part of
 
-- [[Zendesk Customer Service Professional Certificate]]
+- [Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)
 
 ## Appears In
 
-- [[Build Your Skills In Customer Service]]
-- [[Zendesk Customer Service Professional Certificate]]
+- [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
+- [Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Innovative Customer Service Techniques]] — Customer Service
-- [[Working with Upset Customers]] — Customer Service
-- [[Phone-Based Customer Service]] — Customer Service
-- [[Writing Customer Service Emails]] — Customer Service
-- [[Building Rapport with Customers (2022)]] — Customer Service
+- [Innovative Customer Service Techniques](Innovative%20Customer%20Service%20Techniques.md) — Customer Service
+- [Working with Upset Customers](Working%20with%20Upset%20Customers.md) — Customer Service
+- [Phone-Based Customer Service](Phone-Based%20Customer%20Service.md) — Customer Service
+- [Writing Customer Service Emails](Writing%20Customer%20Service%20Emails.md) — Customer Service
+- [Building Rapport with Customers (2022)](Building%20Rapport%20with%20Customers%20(2022).md) — Customer Service
 
 ---
 

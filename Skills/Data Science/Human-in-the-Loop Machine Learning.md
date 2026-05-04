@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation]] — Beginner · 1h 2m · 2,608,329 learners
+- [Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation](../../Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20Human-in-the-Loop%20Machine%20Learning%20and%20Data%20Annotation.md) — Beginner · 1h 2m · 2,608,329 learners
 
 ## Related Skills
 
-- [[Data Annotation]] — 1 shared course
-- [[Machine Learning]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Data Annotation](Data%20Annotation.md) — 1 shared course
+- [Machine Learning](../Artificial%20Intelligence%20(AI)/Machine%20Learning.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

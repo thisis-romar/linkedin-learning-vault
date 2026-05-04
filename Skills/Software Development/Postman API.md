@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Postman Essential Training]] — Intermediate · 1h 45m · 41,099 learners
+- [Postman Essential Training](../../Courses/Software%20Development/Postman%20Essential%20Training.md) — Intermediate · 1h 45m · 41,099 learners
 
 ## Related Skills
 
-- [[API Testing]] — 1 shared course
-- [[Test Automation]] — 1 shared course
+- [API Testing](API%20Testing.md) — 1 shared course
+- [Test Automation](Test%20Automation.md) — 1 shared course

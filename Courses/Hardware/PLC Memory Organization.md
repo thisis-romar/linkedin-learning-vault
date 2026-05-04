@@ -16,11 +16,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEdQs8tEi3FdQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1615392756499?e=2147483647&amp;v=beta&amp;t=Se2aa2cjWXeW7y6Vuk6GJd6DwG5nm1nmpoTjHHlm7PY"
 linkedin_topic: Hardware
 learning_paths:
-  - '[[Become a PLC Developer]]'
+  - '[Become a PLC Developer](../../Paths/Hardware/Learning%20Paths/Become%20a%20PLC%20Developer.md)'
 prev_courses:
-  - '[[Learning PLC Ladder Logic- 2 Diving Deeper]]'
+  - '[Learning PLC Ladder Logic- 2 Diving Deeper](Learning%20PLC%20Ladder%20Logic-%202%20Diving%20Deeper.md)'
 next_courses:
-  - '[[PLC Sequencer Logic]]'
+  - '[PLC Sequencer Logic](PLC%20Sequencer%20Logic.md)'
 path_nav: '[{"path":"Become a PLC Developer","position":4,"total":7,"prev":"Learning PLC Ladder Logic- 2 Diving Deeper","next":"PLC Sequencer Logic"}]'
 path_count: 1
 tags:
@@ -80,11 +80,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=0)** - [Zahraa] At some point, we might have heard that organizing and knowing where you placed an item helps in finding it when needed, or not. But when it comes to [[PLC Programming]], understanding the memory structure will help in knowing where to find, refer, and assign data to use them in the ladder logic program. In this [[LinkedIn]] Learner course, I'll explain to you memory structures that Allen Bradley controllers use, rack-based systems, and tag-based systems. I'll explore each system separately by explaining the structure of each memory type and its associated components. I am Zahraa Khalil. I am an engineering instructor, and I love teaching students just like you. Join me in my LinkedIn Learner course and explore the world of [[PLC Ladder Logic]] programming.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=0)** - [Zahraa] At some point, we might have heard that organizing and knowing where you placed an item helps in finding it when needed, or not. But when it comes to [PLC Programming](../../Skills/Hardware/PLC%20Programming.md), understanding the memory structure will help in knowing where to find, refer, and assign data to use them in the ladder logic program. In this [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learner course, I'll explain to you memory structures that Allen Bradley controllers use, rack-based systems, and tag-based systems. I'll explore each system separately by explaining the structure of each memory type and its associated components. I am Zahraa Khalil. I am an engineering instructor, and I love teaching students just like you. Join me in my LinkedIn Learner course and explore the world of [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[PLC Programming]] (1), [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2), [PLC Programming](../../Skills/Hardware/PLC%20Programming.md) (1), [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1)
 > **Env Vars:** plc (2)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
@@ -94,11 +94,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980&t=0)** - [Instructor] Before you start this course, you should be familiar with how ladder logic programming works, knowing the basic operation and basic instructions. This course covers the theory part for Allen Bradley [[PLC]] memory structure. Although no programming is covered in this course, but understanding the memory structure helps in programming, as you will be able to know where to find, refer, and assign data to use in the ladder logic program. This course is designed as a continuation of the learning path. Become a PLC developer. If you need a refresher on the basics of programming ladder logic, I recommend that you check this course. "Learning [[PLC Ladder Logic]]."
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980&t=0)** - [Instructor] Before you start this course, you should be familiar with how ladder logic programming works, knowing the basic operation and basic instructions. This course covers the theory part for Allen Bradley [PLC](../../Glossary/Tool/PLC.md) memory structure. Although no programming is covered in this course, but understanding the memory structure helps in programming, as you will be able to know where to find, refer, and assign data to use in the ladder logic program. This course is designed as a continuation of the learning path. Become a PLC developer. If you need a refresher on the basics of programming ladder logic, I recommend that you check this course. "Learning [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md)."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (2), [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (2), [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1)
 > **Env Vars:** plc (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -107,11 +107,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980&t=0)** - [Instructor] For this course, I'll be using LogixPro [[PLC]] simulator from LearningPit. This [[Simulation Software]] mimics Allen Bradley RSLogix 500. Please refer to this video, "LogixPro PLC Simulation Software," where I go through the software and how to download it. The simulation software is only used for demo. The course does not teach the software, as you can apply the knowledge to any PLC software that uses ladder logic.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980&t=0)** - [Instructor] For this course, I'll be using LogixPro [PLC](../../Glossary/Tool/PLC.md) simulator from LearningPit. This [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) mimics Allen Bradley RSLogix 500. Please refer to this video, "LogixPro PLC Simulation Software," where I go through the software and how to download it. The simulation software is only used for demo. The course does not teach the software, as you can apply the knowledge to any PLC software that uses ladder logic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (3), [[Simulation Software]] (3)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (3), [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (3)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
@@ -124,13 +124,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=0)** - [Narrator] There are different types of [[PLC]] controllers on the market from various manufacturers. Here are a couple of examples of the ones by Allen Bradley from Rockwell Automation. In general while the fundamental concepts of [[PLC Programming]] are common to all manufacturers there are differences between them. For example, the controller size, memory organization, I/O addressing, instruction set and the applications that are used for which means that PLC programs are never perfectly interchangeable among the various models of PLCs. The two PLCs you see here are from Allen Bradley and Siemens and sometimes even within the same product line of a single manufacturer different models may not even be compatible. As for example Allen Bradley ControlLogix and MicroLogix. Allen Bradley controllers are generally classified into three categories depending on the controller group type and its associated software. The controller category is organized by the size of the controller and its application. The software comes in two types. RSLogix 500 and RSLogix 5,000.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=0)** - [Narrator] There are different types of [PLC](../../Glossary/Tool/PLC.md) controllers on the market from various manufacturers. Here are a couple of examples of the ones by Allen Bradley from Rockwell Automation. In general while the fundamental concepts of [PLC Programming](../../Skills/Hardware/PLC%20Programming.md) are common to all manufacturers there are differences between them. For example, the controller size, memory organization, I/O addressing, instruction set and the applications that are used for which means that PLC programs are never perfectly interchangeable among the various models of PLCs. The two PLCs you see here are from Allen Bradley and Siemens and sometimes even within the same product line of a single manufacturer different models may not even be compatible. As for example Allen Bradley ControlLogix and MicroLogix. Allen Bradley controllers are generally classified into three categories depending on the controller group type and its associated software. The controller category is organized by the size of the controller and its application. The software comes in two types. RSLogix 500 and RSLogix 5,000.
 >
 > **[1:37](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=97)** The first group is MicroLogix controllers. There are relatively small controllers used for low cost stand alone machines for small control systems. MicroLogix controllers use RSLogix 500 software. The second group is CompactLogix and SLC 500 controllers they are still considered small controllers used for medium sized applications and processes but they have more advanced capabilities to be used in manufacturing. CompactLogix controllers use RSLogix 5,000 software and SLC controllers use RSLogix 500 software. The third group is ControlLogix controllers. They are used for large control systems. In general they provide faster system performance for large processes compared to the other two controller groups. ControlLogix controllers use RSLogix 5,000 software.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (2), [[PLC Programming]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (2), [PLC Programming](../../Skills/Hardware/PLC%20Programming.md) (1)
 > **Env Vars:** plc (3), slc (2)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
@@ -187,11 +187,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-1?u=76281980&t=0)** - [Instructor] Data files store the information needed to carry out the user program, like the status of inputs and outputs, the processor status, and the status of various bits and numerical data. Status is the on and off type of information represented by one and zero. The files are organized by the type of data they contain. Files number zero through eight are specified data files, and files number nine through 255 are user defined data files. In RSLogix500, the files are placed under the data file section with the same order. Output file zero, this file stores the status of the output module terminals. You see here the output module is placed in slot number three, but the data inside the memory are stored in file zero. As the memory location is fixed, input file one, this file stores the status of the input terminals for the controller. In the example here, the input module is in slot one. Status file two, this file stores controller operation information and sometimes it is used for troubleshooting. Bit file three, this file consists of binary digits
 >
-> **[1:39](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-1?u=76281980&t=99)** and often referred to as Boolean type. It is used to store internal bits. Internal bits can be values for internal outputs, internal coils, internal control relays, or simply, we refer to them as internal bits. You see here the internal bits in the binary table inside file three and you can select any bit to use it in your program. An example is [[Microsoft Word|word]] four, bit nine, and it's used as an output internal bit. Internal means the bit is not connected to any physical device. It is used in situation in programming where an output is required, but a physical device is not needed. The internal output operates just like any output that is controlled by ladder logic program, but it's used strictly for internal purposes.
+> **[1:39](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-1?u=76281980&t=99)** and often referred to as Boolean type. It is used to store internal bits. Internal bits can be values for internal outputs, internal coils, internal control relays, or simply, we refer to them as internal bits. You see here the internal bits in the binary table inside file three and you can select any bit to use it in your program. An example is [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) four, bit nine, and it's used as an output internal bit. Internal means the bit is not connected to any physical device. It is used in situation in programming where an output is required, but a physical device is not needed. The internal output operates just like any output that is controlled by ladder logic program, but it's used strictly for internal purposes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
@@ -199,13 +199,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-2?u=76281980&t=0)** - [Instructor] Timer file four. This file stores the data for each timer instruction used in the latter logic program. Counter file five. This file stores the data for each counter instruction used in the latter logic program. Control file six. This file stores the data for specific instructions such as shift registers and sequencers. Integer file seven. This file is used to store whole number values or bit information. Let's say, for example, we want to store temperature and pressure values or mathematical operation constants. File eight. The floating-point file is used to store fractional numerical data. This comes in handy when dealing with math operations. This file applies to selected [[PLC]] processor types. Now files from nine up to 255 are called user-defined files and are used to create any file type from zero through eight. They are used to expand the number of data files available to the programmer if needed. So this is generally what the memory structure of a rack-based systems looks like. Having both files categories with their subdivision files,
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-2?u=76281980&t=0)** - [Instructor] Timer file four. This file stores the data for each timer instruction used in the latter logic program. Counter file five. This file stores the data for each counter instruction used in the latter logic program. Control file six. This file stores the data for specific instructions such as shift registers and sequencers. Integer file seven. This file is used to store whole number values or bit information. Let's say, for example, we want to store temperature and pressure values or mathematical operation constants. File eight. The floating-point file is used to store fractional numerical data. This comes in handy when dealing with math operations. This file applies to selected [PLC](../../Glossary/Tool/PLC.md) processor types. Now files from nine up to 255 are called user-defined files and are used to create any file type from zero through eight. They are used to expand the number of data files available to the programmer if needed. So this is generally what the memory structure of a rack-based systems looks like. Having both files categories with their subdivision files,
 >
 > **[1:39](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-2?u=76281980&t=99)** and in RSLogix500, they are shown in this area. If you would like to learn more, I recommend checking out the user manual of your desired controller. Here's an example of the user manual for SLC500 Controller by Ellen Bradley.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (1)
 > **Env Vars:** plc (1), slc500 (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -214,26 +214,26 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/logixpro-demo?u=76281980&t=0)** - [Instructor] I regularly use LogixPro [[Simulation]]. This [[Simulation Software]] mimics Allen Bradley RSLogix500. This software uses a rack-based system and you can see the different files represented here. You can access the files by clicking on data table and you can see all the files over here. However, there are some limitations as you don't have access to the program files, which is fine for our demonstration. This simulation is used to show the behavior of the Ladder Logic Program and the configuration of the controller in the IO modules is done in the background.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/logixpro-demo?u=76281980&t=0)** - [Instructor] I regularly use LogixPro [Simulation](../../Skills/Hardware/Simulation.md). This [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) mimics Allen Bradley RSLogix500. This software uses a rack-based system and you can see the different files represented here. You can access the files by clicking on data table and you can see all the files over here. However, there are some limitations as you don't have access to the program files, which is fine for our demonstration. This simulation is used to show the behavior of the Ladder Logic Program and the configuration of the controller in the IO modules is done in the background.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [Simulation](../../Skills/Hardware/Simulation.md) (2), [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1)
 > **Speakers:** - [instructor] (1)
 
 #### [I/O address format for rack-based PLC](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=0)** - [Instructor] The I/O addresses for rack-based system are derived using the slot location of the input and output modules within the [[PLC]] rack. The rack is the back plane where the controller in the other modules are placed. The modules like input and output modules or the processor module can be plugged in in different locations on the rack or chasis. A slot location is simply the physical location to insert a module on the rack. In the example you see here, an I/O module is being inserted into slot location one. Modules are counted starting from zero. Usually the first module is the PLC controller in slot zero. Then the input and output modules. Here, the controller is in slot zero. Input module is in slot one and output module is in slot two. Keep in mind that there are different arrangements for placing the modules according to various designs. So you might see them in different slots. Here on the left-hand arrangement, the PLC input module is placed in slot one. On the right hand arrangement, the PLC input module is placed in slot two. This is the IO address format for rack-based system.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=0)** - [Instructor] The I/O addresses for rack-based system are derived using the slot location of the input and output modules within the [PLC](../../Glossary/Tool/PLC.md) rack. The rack is the back plane where the controller in the other modules are placed. The modules like input and output modules or the processor module can be plugged in in different locations on the rack or chasis. A slot location is simply the physical location to insert a module on the rack. In the example you see here, an I/O module is being inserted into slot location one. Modules are counted starting from zero. Usually the first module is the PLC controller in slot zero. Then the input and output modules. Here, the controller is in slot zero. Input module is in slot one and output module is in slot two. Keep in mind that there are different arrangements for placing the modules according to various designs. So you might see them in different slots. Here on the left-hand arrangement, the PLC input module is placed in slot one. On the right hand arrangement, the PLC input module is placed in slot two. This is the IO address format for rack-based system.
 >
-> **[1:37](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=97)** First we identify whether the data is an input or output. I is used for inputs and O is used for outputs followed by the module slot number. It depends on each rack design, but usually between slots zero and 30 and a forward slash then the terminal number or the bits number. And again, this depends on the module design but usually there are up to 16 bits. Here are two examples. The first address is I 1/2 meaning it's an input in slot one bit number two. The second address is O 2/4, meaning it's an output module in slot two bit number four. The way to say it is, input one bit two, O bit two bit four. The bit number comes from the module terminals. It basically specifies where the device is connected. For this module type you see here, it has 16 terminals, meaning 16 devices can be connected to any of the terminals within the module. Here's an example of switches connected to an input module as you will see in this [[Simulation Software]].
+> **[1:37](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=97)** First we identify whether the data is an input or output. I is used for inputs and O is used for outputs followed by the module slot number. It depends on each rack design, but usually between slots zero and 30 and a forward slash then the terminal number or the bits number. And again, this depends on the module design but usually there are up to 16 bits. Here are two examples. The first address is I 1/2 meaning it's an input in slot one bit number two. The second address is O 2/4, meaning it's an output module in slot two bit number four. The way to say it is, input one bit two, O bit two bit four. The bit number comes from the module terminals. It basically specifies where the device is connected. For this module type you see here, it has 16 terminals, meaning 16 devices can be connected to any of the terminals within the module. Here's an example of switches connected to an input module as you will see in this [Simulation Software](../../Skills/Hardware/Simulation%20Software.md).
 >
 > **[3:13](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=193)** If we need to use the switch connected to terminal two, the address of this specific switch is input 1/2. Here's another example of an address for an led connected to a terminal 11 on an output module. The address is output 2/11.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (4), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (4), [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1)
 > **Env Vars:** plc (4)
 > **Tools:** terminal (3)
 > **Definitions:** is an  (1)
@@ -244,7 +244,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=0)** - [Narrator] Now let's talk about how the information or data are being stored inside each file. PLCs work on binary numbers. So in general, anything that gets stored inside the [[PLC]] memory is saved in binary format. In a PLC, the memory locations are referred to as words. Each [[Microsoft Word|word]] stores data in the form of binary digits or bits. The number of bits that a word can store depends on the type of the PLC system being used. Each digit of a binary number is known as a bit. A bit is either a zero or one. Eight bits are called a byte. Two bytes or 16 bits form a word. A double word is two 16 bit words or 32 bits. PLC memory is organized using bytes, single words or double words. Older PLCs use eight bit or 16 bits memory words. While the newer systems such as ControlLogix controllers use 32 bit double words. The size of the controller memory helps in estimating the amount of user program that can be stored. A common memory size for a rock based system starts
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=0)** - [Narrator] Now let's talk about how the information or data are being stored inside each file. PLCs work on binary numbers. So in general, anything that gets stored inside the [PLC](../../Glossary/Tool/PLC.md) memory is saved in binary format. In a PLC, the memory locations are referred to as words. Each [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) stores data in the form of binary digits or bits. The number of bits that a word can store depends on the type of the PLC system being used. Each digit of a binary number is known as a bit. A bit is either a zero or one. Eight bits are called a byte. Two bytes or 16 bits form a word. A double word is two 16 bit words or 32 bits. PLC memory is organized using bytes, single words or double words. Older PLCs use eight bit or 16 bits memory words. While the newer systems such as ControlLogix controllers use 32 bit double words. The size of the controller memory helps in estimating the amount of user program that can be stored. A common memory size for a rock based system starts
 >
 > **[1:38](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=98)** with one K word or one kilobytes. It can store up to 1,024 words or 16,384 bits of information using 16 bit words
 >
@@ -252,7 +252,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[PLC]] (4)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (6), [PLC](../../Glossary/Tool/PLC.md) (4)
 > **Env Vars:** plc (4), slc (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
@@ -344,13 +344,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/addressing-format-for-tag-based-systems?u=76281980&t=0)** - [Tutor] The address name for the tasks that are associated with the input or output modules is based on the location of the I/O module in the system. The I/O address format for tag-based systems has the following parameters, location, slot, type, member and two optional parameters, sub member and bit. The location means the network location. If it says local, it means the module is on the same chassis or back plane as the controller. Adapter name means a remote communication adapter or bridge module. Slot is simply the slot number of the I/O module on the back plane. Usually, slot zero is reserved for the controller, which is placed beside the power. Type is identifying the type of data. I for input, O for output, C for configuration and S for status. Members specifying the type of data that the module can store. Usually here we just write the [[Microsoft Word|word]] data. This is optional. Sometimes more specific information is needed here related
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/addressing-format-for-tag-based-systems?u=76281980&t=0)** - [Tutor] The address name for the tasks that are associated with the input or output modules is based on the location of the I/O module in the system. The I/O address format for tag-based systems has the following parameters, location, slot, type, member and two optional parameters, sub member and bit. The location means the network location. If it says local, it means the module is on the same chassis or back plane as the controller. Adapter name means a remote communication adapter or bridge module. Slot is simply the slot number of the I/O module on the back plane. Usually, slot zero is reserved for the controller, which is placed beside the power. Type is identifying the type of data. I for input, O for output, C for configuration and S for status. Members specifying the type of data that the module can store. Usually here we just write the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) data. This is optional. Sometimes more specific information is needed here related
 >
 > **[1:33](https://www.linkedin.com/learning/plc-memory-organization/addressing-format-for-tag-based-systems?u=76281980&t=93)** to the previous parameter member and finally, bit parameter that specify terminals on a digital I/O module. Here's an example of a tag address of evolve controls switch connected to input module in slot one. The tag address is local one, input data one. Local means the input module is on the same rack as the controller. One indicates the module is in slot one on the rack. I indicates the module is an input module. Data one is data stored in bit one since the bit is shown here, it's means that it is a digital input module. Another example is local two output data four meaning an output data tag on an output module that is in a slot two and using bit four. The I/O address format is usually shown in the latter logic program below the name chosen for it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - [tutor] (1)
 
@@ -379,11 +379,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=0)** - [Instructor] Thank you for taking the time to join me in this course. This course covers the theory part for Allen Bradley [[PLC]] member structure. If you'd like to learn more about [[PLC Ladder Logic]] Programming, I recommend checking out the learning path; Become a PLC Developer. The learning path covers Ladder Logic Programming starting with the basics to some advanced instructions. If you're interested in understanding more about PLCs and how they fit within the field of industrial automation, check out the course; Learn Industrial Automation. That goes through each level of the automation field, and I always suggest and encourage you to dive into the documentation for each manufacturer of the specific PLC device you're currently working with. I hope this course gave you an opportunity to learn more about the world of PLC Ladder Logic Programming.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=0)** - [Instructor] Thank you for taking the time to join me in this course. This course covers the theory part for Allen Bradley [PLC](../../Glossary/Tool/PLC.md) member structure. If you'd like to learn more about [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) Programming, I recommend checking out the learning path; Become a PLC Developer. The learning path covers Ladder Logic Programming starting with the basics to some advanced instructions. If you're interested in understanding more about PLCs and how they fit within the field of industrial automation, check out the course; Learn Industrial Automation. That goes through each level of the automation field, and I always suggest and encourage you to dive into the documentation for each manufacturer of the specific PLC device you're currently working with. I hope this course gave you an opportunity to learn more about the world of PLC Ladder Logic Programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (3), [[PLC Ladder Logic]] (2)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (3), [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (2)
 > **Env Vars:** plc (5)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -391,7 +391,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Zahraa Khalil]]
+- [Zahraa Khalil](../../Instructors/Hardware/Zahraa%20Khalil.md)
 
 ## Skills Covered
 
@@ -399,18 +399,18 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Become a PLC Developer]]
-← [[Learning PLC Ladder Logic- 2 Diving Deeper]] | **4 of 7** | [[PLC Sequencer Logic]] →
+### In [Become a PLC Developer](../../Paths/Hardware/Learning%20Paths/Become%20a%20PLC%20Developer.md)
+← [Learning PLC Ladder Logic- 2 Diving Deeper](Learning%20PLC%20Ladder%20Logic-%202%20Diving%20Deeper.md) | **4 of 7** | [PLC Sequencer Logic](PLC%20Sequencer%20Logic.md) →
 
 ## Appears In
 
-- [[Become a PLC Developer]]
+- [Become a PLC Developer](../../Paths/Hardware/Learning%20Paths/Become%20a%20PLC%20Developer.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Learning PLC Ladder Logic- 2 Diving Deeper]] — Programmable Logic Controller (PLC)
+- [Learning PLC Ladder Logic- 2 Diving Deeper](Learning%20PLC%20Ladder%20Logic-%202%20Diving%20Deeper.md) — Programmable Logic Controller (PLC)
 
 ---
 

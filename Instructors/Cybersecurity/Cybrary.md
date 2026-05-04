@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Offensive Penetration Testing]]
+- [Offensive Penetration Testing](../../Courses/Cybersecurity/Offensive%20Penetration%20Testing.md)

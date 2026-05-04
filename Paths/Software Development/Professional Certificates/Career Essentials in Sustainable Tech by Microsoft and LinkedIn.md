@@ -17,31 +17,31 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Sustainability Foundations Core Concepts]]'
+  - course: '[Sustainability Foundations Core Concepts](../../../Courses/Software%20Development/Sustainability%20Foundations%20Core%20Concepts.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Sustainability as an Innovation Opportunity]]'
+  - course: '[Sustainability as an Innovation Opportunity](../../../Courses/Software%20Development/Sustainability%20as%20an%20Innovation%20Opportunity.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Including Sustainability in Your Cloud Strategy]]'
+  - course: '[Including Sustainability in Your Cloud Strategy](../../../Courses/Software%20Development/Including%20Sustainability%20in%20Your%20Cloud%20Strategy.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Microsoft Cloud for Sustainability- ESG and the Future of Business]]'
+  - course: '[Microsoft Cloud for Sustainability- ESG and the Future of Business](../../../Courses/Software%20Development/Microsoft%20Cloud%20for%20Sustainability-%20ESG%20and%20the%20Future%20of%20Business.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[An Introduction to AI and Sustainability]]'
+  - course: '[An Introduction to AI and Sustainability](../../../Courses/Software%20Development/An%20Introduction%20to%20AI%20and%20Sustainability.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Introduction to ESG- Environmental, Social, and Governance]]'
+  - course: '[Introduction to ESG- Environmental, Social, and Governance](../../../Courses/Software%20Development/Introduction%20to%20ESG-%20Environmental%2C%20Social%2C%20and%20Governance.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Performing a Sustainability Audit with Microsoft Sustainability Manager]]'
+  - course: '[Performing a Sustainability Audit with Microsoft Sustainability Manager](../../../Courses/Software%20Development/Performing%20a%20Sustainability%20Audit%20with%20Microsoft%20Sustainability%20Manager.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -56,28 +56,28 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Sustainability Foundations Core Concepts]]
-2. [[Sustainability as an Innovation Opportunity]] _(55m)_
-3. [[Including Sustainability in Your Cloud Strategy]] _(50m)_
-4. [[Microsoft Cloud for Sustainability- ESG and the Future of Business]] _(28m)_
-5. [[An Introduction to AI and Sustainability]] _(41m)_
-6. [[Introduction to ESG- Environmental, Social, and Governance]] _(43m)_
-7. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]] _(56m)_
+1. [Sustainability Foundations Core Concepts](../../../Courses/Software%20Development/Sustainability%20Foundations%20Core%20Concepts.md)
+2. [Sustainability as an Innovation Opportunity](../../../Courses/Software%20Development/Sustainability%20as%20an%20Innovation%20Opportunity.md) _(55m)_
+3. [Including Sustainability in Your Cloud Strategy](../../../Courses/Software%20Development/Including%20Sustainability%20in%20Your%20Cloud%20Strategy.md) _(50m)_
+4. [Microsoft Cloud for Sustainability- ESG and the Future of Business](../../../Courses/Software%20Development/Microsoft%20Cloud%20for%20Sustainability-%20ESG%20and%20the%20Future%20of%20Business.md) _(28m)_
+5. [An Introduction to AI and Sustainability](../../../Courses/Software%20Development/An%20Introduction%20to%20AI%20and%20Sustainability.md) _(41m)_
+6. [Introduction to ESG- Environmental, Social, and Governance](../../../Courses/Software%20Development/Introduction%20to%20ESG-%20Environmental%2C%20Social%2C%20and%20Governance.md) _(43m)_
+7. [Performing a Sustainability Audit with Microsoft Sustainability Manager](../../../Courses/Software%20Development/Performing%20a%20Sustainability%20Audit%20with%20Microsoft%20Sustainability%20Manager.md) _(56m)_
 
 ## Course Flow
 
-1. [[Sustainability Foundations Core Concepts]] → 2. [[Sustainability as an Innovation Opportunity]] → 3. [[Including Sustainability in Your Cloud Strategy]] → 4. [[Microsoft Cloud for Sustainability- ESG and the Future of Business]] → 5. [[An Introduction to AI and Sustainability]] → 6. [[Introduction to ESG- Environmental, Social, and Governance]] → 7. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]]
+1. [Sustainability Foundations Core Concepts](../../../Courses/Software%20Development/Sustainability%20Foundations%20Core%20Concepts.md) → 2. [Sustainability as an Innovation Opportunity](../../../Courses/Software%20Development/Sustainability%20as%20an%20Innovation%20Opportunity.md) → 3. [Including Sustainability in Your Cloud Strategy](../../../Courses/Software%20Development/Including%20Sustainability%20in%20Your%20Cloud%20Strategy.md) → 4. [Microsoft Cloud for Sustainability- ESG and the Future of Business](../../../Courses/Software%20Development/Microsoft%20Cloud%20for%20Sustainability-%20ESG%20and%20the%20Future%20of%20Business.md) → 5. [An Introduction to AI and Sustainability](../../../Courses/Software%20Development/An%20Introduction%20to%20AI%20and%20Sustainability.md) → 6. [Introduction to ESG- Environmental, Social, and Governance](../../../Courses/Software%20Development/Introduction%20to%20ESG-%20Environmental%2C%20Social%2C%20and%20Governance.md) → 7. [Performing a Sustainability Audit with Microsoft Sustainability Manager](../../../Courses/Software%20Development/Performing%20a%20Sustainability%20Audit%20with%20Microsoft%20Sustainability%20Manager.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Improve Your Sustainability Skills]] (2 shared courses)
+- [Improve Your Sustainability Skills](../Learning%20Paths/Improve%20Your%20Sustainability%20Skills.md) (2 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

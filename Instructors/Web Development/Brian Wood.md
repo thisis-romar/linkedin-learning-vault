@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Miro for UX- Brainstorming and Collaboration]]
+- [Miro for UX- Brainstorming and Collaboration](../../Courses/Web%20Development/Miro%20for%20UX-%20Brainstorming%20and%20Collaboration.md)

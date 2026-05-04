@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Unconscious Bias]] — Beginner · 28m
+- [Unconscious Bias](../../Courses/Data%20Science/Unconscious%20Bias.md) — Beginner · 28m
 
 ## Related Skills
 
-- [[Diversity and Inclusion]] — 1 shared course
+- [Diversity and Inclusion](Diversity%20and%20Inclusion.md) — 1 shared course

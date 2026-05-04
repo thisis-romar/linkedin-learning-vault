@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Ethical Hacking- Scanning Networks]] — Intermediate · 2h 15m · 54,600 learners
+- [Ethical Hacking- Scanning Networks](../../Courses/Cybersecurity/Ethical%20Hacking-%20Scanning%20Networks.md) — Intermediate · 2h 15m · 54,600 learners
 
 ## Related Skills
 
-- [[Ethical Hacking]] — 1 shared course
+- [Ethical Hacking](../Cybersecurity/Ethical%20Hacking.md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Wireshark- Network Troubleshooting]] — 1 mentions
-2. [[DevOps Foundations- Monitoring and Observability]] — 1 mentions
+1. [Wireshark- Network Troubleshooting](../../Courses/Cybersecurity/Wireshark-%20Network%20Troubleshooting.md) — 1 mentions
+2. [DevOps Foundations- Monitoring and Observability](../../Courses/DevOps/DevOps%20Foundations-%20Monitoring%20and%20Observability.md) — 1 mentions

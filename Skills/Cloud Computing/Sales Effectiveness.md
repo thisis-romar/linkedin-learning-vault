@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Microsoft 365 Copilot- Helpful Tips for Sales Professionals]] — 20m · 16,449 learners
+- [Microsoft 365 Copilot- Helpful Tips for Sales Professionals](../../Courses/Cloud%20Computing/Microsoft%20365%20Copilot-%20Helpful%20Tips%20for%20Sales%20Professionals.md) — 20m · 16,449 learners
 
 ## Related Skills
 
-- [[Microsoft 365]] — 1 shared course
-- [[Microsoft Copilot]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Microsoft 365](Microsoft%20365.md) — 1 shared course
+- [Microsoft Copilot](Microsoft%20Copilot.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[The AI-Driven Sales Professional- Streamline Systems and Exceed Targets]] — 1 mentions
+1. [The AI-Driven Sales Professional- Streamline Systems and Exceed Targets](../../Courses/Artificial%20Intelligence%20(AI)/The%20AI-Driven%20Sales%20Professional-%20Streamline%20Systems%20and%20Exceed%20Targets.md) — 1 mentions

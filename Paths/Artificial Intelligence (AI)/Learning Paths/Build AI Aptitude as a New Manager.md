@@ -17,19 +17,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Leading With A Digital Mindset In The Age Of Ai]]'
+  - course: '[Leading With A Digital Mindset In The Age Of Ai](../../../Courses/Artificial%20Intelligence%20(AI)/Leading%20With%20A%20Digital%20Mindset%20In%20The%20Age%20Of%20Ai.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Everyday Ai Concepts]]'
+  - course: '[Everyday Ai Concepts](../../../Courses/Artificial%20Intelligence%20(AI)/Everyday%20Ai%20Concepts.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Responsible AI- Principles and Practical Applications]]'
+  - course: '[Responsible AI- Principles and Practical Applications](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Principles%20and%20Practical%20Applications.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[How to Boost Your Productivity with AI Tools (2023)]]'
+  - course: '[How to Boost Your Productivity with AI Tools (2023)](../../../Courses/Artificial%20Intelligence%20(AI)/How%20to%20Boost%20Your%20Productivity%20with%20AI%20Tools%20(2023).md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -44,29 +44,29 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Leading With A Digital Mindset In The Age Of Ai]]
-2. [[Everyday Ai Concepts]]
-3. [[Responsible AI- Principles and Practical Applications]] _(1h 17m)_
-4. [[How to Boost Your Productivity with AI Tools (2023)]] _(1h)_
+1. [Leading With A Digital Mindset In The Age Of Ai](../../../Courses/Artificial%20Intelligence%20(AI)/Leading%20With%20A%20Digital%20Mindset%20In%20The%20Age%20Of%20Ai.md)
+2. [Everyday Ai Concepts](../../../Courses/Artificial%20Intelligence%20(AI)/Everyday%20Ai%20Concepts.md)
+3. [Responsible AI- Principles and Practical Applications](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Principles%20and%20Practical%20Applications.md) _(1h 17m)_
+4. [How to Boost Your Productivity with AI Tools (2023)](../../../Courses/Artificial%20Intelligence%20(AI)/How%20to%20Boost%20Your%20Productivity%20with%20AI%20Tools%20(2023).md) _(1h)_
 
 ## Course Flow
 
-1. [[Leading With A Digital Mindset In The Age Of Ai]] → 2. [[Everyday Ai Concepts]] → 3. [[Responsible AI- Principles and Practical Applications]] → 4. [[How to Boost Your Productivity with AI Tools (2023)]]
+1. [Leading With A Digital Mindset In The Age Of Ai](../../../Courses/Artificial%20Intelligence%20(AI)/Leading%20With%20A%20Digital%20Mindset%20In%20The%20Age%20Of%20Ai.md) → 2. [Everyday Ai Concepts](../../../Courses/Artificial%20Intelligence%20(AI)/Everyday%20Ai%20Concepts.md) → 3. [Responsible AI- Principles and Practical Applications](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Principles%20and%20Practical%20Applications.md) → 4. [How to Boost Your Productivity with AI Tools (2023)](../../../Courses/Artificial%20Intelligence%20(AI)/How%20to%20Boost%20Your%20Productivity%20with%20AI%20Tools%20(2023).md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Build AI Aptitude as a Middle Manager]] (3 shared courses)
-- [[Become an AI-Powered Recruiter]] (1 shared courses)
-- [[Mastering Responsible AI- From Concept to Auditing]] (1 shared courses)
-- [[AI Boot Camp for Small and Medium-Sized Businesses (SMBs)]] (1 shared courses)
-- [[Applying Generative AI as a Business Professional]] (1 shared courses)
+- [Build AI Aptitude as a Middle Manager](Build%20AI%20Aptitude%20as%20a%20Middle%20Manager.md) (3 shared courses)
+- [Become an AI-Powered Recruiter](Become%20an%20AI-Powered%20Recruiter.md) (1 shared courses)
+- [Mastering Responsible AI- From Concept to Auditing](Mastering%20Responsible%20AI-%20From%20Concept%20to%20Auditing.md) (1 shared courses)
+- [AI Boot Camp for Small and Medium-Sized Businesses (SMBs)](AI%20Boot%20Camp%20for%20Small%20and%20Medium-Sized%20Businesses%20(SMBs).md) (1 shared courses)
+- [Applying Generative AI as a Business Professional](Applying%20Generative%20AI%20as%20a%20Business%20Professional.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

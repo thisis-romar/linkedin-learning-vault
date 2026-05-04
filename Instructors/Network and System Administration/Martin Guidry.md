@@ -28,6 +28,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Windows 10- Administration]]
-- [[Windows 10- Security]]
-- [[Learning Virtualization]]
+- [Windows 10- Administration](../../Courses/Network%20and%20System%20Administration/Windows%2010-%20Administration.md)
+- [Windows 10- Security](../../Courses/Network%20and%20System%20Administration/Windows%2010-%20Security.md)
+- [Learning Virtualization](../../Courses/Cloud%20Computing/Learning%20Virtualization.md)

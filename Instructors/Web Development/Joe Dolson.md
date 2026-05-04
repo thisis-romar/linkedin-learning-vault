@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[WordPress- Accessibility]]
+- [WordPress- Accessibility](../../Courses/Web%20Development/WordPress-%20Accessibility.md)

@@ -20,8 +20,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building Rapport with Customers]]
-- [[Customer Service- Call Control Strategies]]
-- [[Creating Positive Conversations with Challenging Customers]]
-- [[De-Escalating Conversations for Customer Service]]
-- [[Building Rapport with Customers (2022)]]
+- [Building Rapport with Customers](../../Courses/IT%20Help%20Desk/Building%20Rapport%20with%20Customers.md)
+- [Customer Service- Call Control Strategies](../../Courses/IT%20Help%20Desk/Customer%20Service-%20Call%20Control%20Strategies.md)
+- [Creating Positive Conversations with Challenging Customers](../../Courses/IT%20Help%20Desk/Creating%20Positive%20Conversations%20with%20Challenging%20Customers.md)
+- [De-Escalating Conversations for Customer Service](../../Courses/IT%20Help%20Desk/De-Escalating%20Conversations%20for%20Customer%20Service.md)
+- [Building Rapport with Customers (2022)](../../Courses/IT%20Help%20Desk/Building%20Rapport%20with%20Customers%20(2022).md)

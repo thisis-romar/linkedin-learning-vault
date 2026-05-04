@@ -17,19 +17,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Windows Server 2019 Essential Training]]'
+  - course: '[Windows Server 2019 Essential Training](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Windows Server 2019- Installation and Configuration]]'
+  - course: '[Windows Server 2019- Installation and Configuration](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20Installation%20and%20Configuration.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Windows Server 2019- Install and Configure Active Directory]]'
+  - course: '[Windows Server 2019- Install and Configure Active Directory](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20Install%20and%20Configure%20Active%20Directory.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Windows Server 2019- DHCP and DNS]]'
+  - course: '[Windows Server 2019- DHCP and DNS](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20DHCP%20and%20DNS.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -44,19 +44,19 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Windows Server 2019 Essential Training]]
-2. [[Windows Server 2019- Installation and Configuration]] _(1h 37m)_
-3. [[Windows Server 2019- Install and Configure Active Directory]] _(1h 56m)_
-4. [[Windows Server 2019- DHCP and DNS]] _(2h 36m)_
+1. [Windows Server 2019 Essential Training](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019%20Essential%20Training.md)
+2. [Windows Server 2019- Installation and Configuration](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20Installation%20and%20Configuration.md) _(1h 37m)_
+3. [Windows Server 2019- Install and Configure Active Directory](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20Install%20and%20Configure%20Active%20Directory.md) _(1h 56m)_
+4. [Windows Server 2019- DHCP and DNS](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20DHCP%20and%20DNS.md) _(2h 36m)_
 
 ## Course Flow
 
-1. [[Windows Server 2019 Essential Training]] → 2. [[Windows Server 2019- Installation and Configuration]] → 3. [[Windows Server 2019- Install and Configure Active Directory]] → 4. [[Windows Server 2019- DHCP and DNS]]
+1. [Windows Server 2019 Essential Training](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019%20Essential%20Training.md) → 2. [Windows Server 2019- Installation and Configuration](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20Installation%20and%20Configuration.md) → 3. [Windows Server 2019- Install and Configure Active Directory](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20Install%20and%20Configure%20Active%20Directory.md) → 4. [Windows Server 2019- DHCP and DNS](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20DHCP%20and%20DNS.md)
 
 ## Topics
 
-- [[Network and System Administration]]
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Network and System Administration]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)

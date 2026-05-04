@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Phone-Based Customer Service]] — Intermediate · 48m · 347,547 learners
+- [Phone-Based Customer Service](../../Courses/IT%20Help%20Desk/Phone-Based%20Customer%20Service.md) — Intermediate · 48m · 347,547 learners
 
 ## Related Skills
 
-- [[Customer Service]] — 1 shared course
+- [Customer Service](Customer%20Service.md) — 1 shared course

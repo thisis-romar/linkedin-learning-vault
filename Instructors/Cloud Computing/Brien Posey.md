@@ -28,8 +28,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Windows 10 for IT Support- Troubleshooting Basics]]
-- [[Design a Cloud Migration Strategy]]
-- [[Windows 10- Supporting Users Essential Training]]
-- [[Manage Virtual Machines in Azure]]
-- [[Windows 10 for IT Support- Advanced Troubleshooting]]
+- [Windows 10 for IT Support- Troubleshooting Basics](../../Courses/Network%20and%20System%20Administration/Windows%2010%20for%20IT%20Support-%20Troubleshooting%20Basics.md)
+- [Design a Cloud Migration Strategy](../../Courses/Cloud%20Computing/Design%20a%20Cloud%20Migration%20Strategy.md)
+- [Windows 10- Supporting Users Essential Training](../../Courses/DevOps/Windows%2010-%20Supporting%20Users%20Essential%20Training.md)
+- [Manage Virtual Machines in Azure](../../Courses/Cloud%20Computing/Manage%20Virtual%20Machines%20in%20Azure.md)
+- [Windows 10 for IT Support- Advanced Troubleshooting](../../Courses/IT%20Help%20Desk/Windows%2010%20for%20IT%20Support-%20Advanced%20Troubleshooting.md)

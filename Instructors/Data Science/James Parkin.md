@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[From Excel to SQL]]
+- [From Excel to SQL](../../Courses/Data%20Science/From%20Excel%20to%20SQL.md)

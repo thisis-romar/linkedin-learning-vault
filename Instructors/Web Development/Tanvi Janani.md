@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Lo-Fi to Hi-Fi- Prototyping in Figma]]
+- [Lo-Fi to Hi-Fi- Prototyping in Figma](../../Courses/Web%20Development/Lo-Fi%20to%20Hi-Fi-%20Prototyping%20in%20Figma.md)

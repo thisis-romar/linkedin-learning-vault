@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Agility for Organizational Leaders]] — Intermediate · 1h 26m · 2,017 learners
+- [Strategic Agility for Organizational Leaders](../../Courses/Cloud%20Computing/Strategic%20Agility%20for%20Organizational%20Leaders.md) — Intermediate · 1h 26m · 2,017 learners
 
 ## Related Skills
 
-- [[Lead Change]] — 1 shared course
-- [[Strategic Leadership]] — 1 shared course
+- [Lead Change](Lead%20Change.md) — 1 shared course
+- [Strategic Leadership](Strategic%20Leadership.md) — 1 shared course

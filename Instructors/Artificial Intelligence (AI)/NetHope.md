@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]]
+- [Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.md)

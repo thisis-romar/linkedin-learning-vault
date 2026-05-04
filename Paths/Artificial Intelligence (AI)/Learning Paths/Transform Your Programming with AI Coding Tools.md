@@ -19,31 +19,31 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Build with AI- Beyond Pair Programming with AI]]'
+  - course: '[Build with AI- Beyond Pair Programming with AI](../../../Courses/Artificial%20Intelligence%20(AI)/Build%20with%20AI-%20Beyond%20Pair%20Programming%20with%20AI.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Using AI in the Design to Full-Stack Development Life Cycle]]'
+  - course: '[Using AI in the Design to Full-Stack Development Life Cycle](../../../Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20in%20the%20Design%20to%20Full-Stack%20Development%20Life%20Cycle.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Refactoring with GitHub Copilot]]'
+  - course: '[Refactoring with GitHub Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Refactoring%20with%20GitHub%20Copilot.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[ChatGPT and SQL]]'
+  - course: '[ChatGPT and SQL](../../../Courses/Artificial%20Intelligence%20(AI)/ChatGPT%20and%20SQL.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Software Testing Assistance with GitHub Copilot AI]]'
+  - course: '[Software Testing Assistance with GitHub Copilot AI](../../../Courses/Artificial%20Intelligence%20(AI)/Software%20Testing%20Assistance%20with%20GitHub%20Copilot%20AI.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Responsible GitHub Copilot- Creating Reliable Code Ethically]]'
+  - course: '[Responsible GitHub Copilot- Creating Reliable Code Ethically](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20GitHub%20Copilot-%20Creating%20Reliable%20Code%20Ethically.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Delivering and Analyzing a Software Pilot- GitHub Copilot]]'
+  - course: '[Delivering and Analyzing a Software Pilot- GitHub Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Delivering%20and%20Analyzing%20a%20Software%20Pilot-%20GitHub%20Copilot.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -58,32 +58,32 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Build with AI- Beyond Pair Programming with AI]] _(2h 24m)_
-2. [[Using AI in the Design to Full-Stack Development Life Cycle]] _(1h 1m)_
-3. [[Refactoring with GitHub Copilot]] _(1h 1m)_
-4. [[ChatGPT and SQL]] _(1h 23m)_
-5. [[Software Testing Assistance with GitHub Copilot AI]] _(1h 16m)_
-6. [[Responsible GitHub Copilot- Creating Reliable Code Ethically]] _(23m)_
-7. [[Delivering and Analyzing a Software Pilot- GitHub Copilot]] _(2h 45m)_
+1. [Build with AI- Beyond Pair Programming with AI](../../../Courses/Artificial%20Intelligence%20(AI)/Build%20with%20AI-%20Beyond%20Pair%20Programming%20with%20AI.md) _(2h 24m)_
+2. [Using AI in the Design to Full-Stack Development Life Cycle](../../../Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20in%20the%20Design%20to%20Full-Stack%20Development%20Life%20Cycle.md) _(1h 1m)_
+3. [Refactoring with GitHub Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Refactoring%20with%20GitHub%20Copilot.md) _(1h 1m)_
+4. [ChatGPT and SQL](../../../Courses/Artificial%20Intelligence%20(AI)/ChatGPT%20and%20SQL.md) _(1h 23m)_
+5. [Software Testing Assistance with GitHub Copilot AI](../../../Courses/Artificial%20Intelligence%20(AI)/Software%20Testing%20Assistance%20with%20GitHub%20Copilot%20AI.md) _(1h 16m)_
+6. [Responsible GitHub Copilot- Creating Reliable Code Ethically](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20GitHub%20Copilot-%20Creating%20Reliable%20Code%20Ethically.md) _(23m)_
+7. [Delivering and Analyzing a Software Pilot- GitHub Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Delivering%20and%20Analyzing%20a%20Software%20Pilot-%20GitHub%20Copilot.md) _(2h 45m)_
 
 ## Course Flow
 
-1. [[Build with AI- Beyond Pair Programming with AI]] → 2. [[Using AI in the Design to Full-Stack Development Life Cycle]] → 3. [[Refactoring with GitHub Copilot]] → 4. [[ChatGPT and SQL]] → 5. [[Software Testing Assistance with GitHub Copilot AI]] → 6. [[Responsible GitHub Copilot- Creating Reliable Code Ethically]] → 7. [[Delivering and Analyzing a Software Pilot- GitHub Copilot]]
+1. [Build with AI- Beyond Pair Programming with AI](../../../Courses/Artificial%20Intelligence%20(AI)/Build%20with%20AI-%20Beyond%20Pair%20Programming%20with%20AI.md) → 2. [Using AI in the Design to Full-Stack Development Life Cycle](../../../Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20in%20the%20Design%20to%20Full-Stack%20Development%20Life%20Cycle.md) → 3. [Refactoring with GitHub Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Refactoring%20with%20GitHub%20Copilot.md) → 4. [ChatGPT and SQL](../../../Courses/Artificial%20Intelligence%20(AI)/ChatGPT%20and%20SQL.md) → 5. [Software Testing Assistance with GitHub Copilot AI](../../../Courses/Artificial%20Intelligence%20(AI)/Software%20Testing%20Assistance%20with%20GitHub%20Copilot%20AI.md) → 6. [Responsible GitHub Copilot- Creating Reliable Code Ethically](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20GitHub%20Copilot-%20Creating%20Reliable%20Code%20Ethically.md) → 7. [Delivering and Analyzing a Software Pilot- GitHub Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Delivering%20and%20Analyzing%20a%20Software%20Pilot-%20GitHub%20Copilot.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Software Development]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Master GitHub Copilot]] (4 shared courses)
-- [[Career Essentials in GitHub Copilot Professional Certificate]] (2 shared courses)
-- [[Learn Vibe Coding- Build Apps with AI-Powered Coding]] (1 shared courses)
-- [[Building Generative AI Skills for Web Developers]] (1 shared courses)
+- [Master GitHub Copilot](Master%20GitHub%20Copilot.md) (4 shared courses)
+- [Career Essentials in GitHub Copilot Professional Certificate](../Professional%20Certificates/Career%20Essentials%20in%20GitHub%20Copilot%20Professional%20Certificate.md) (2 shared courses)
+- [Learn Vibe Coding- Build Apps with AI-Powered Coding](Learn%20Vibe%20Coding-%20Build%20Apps%20with%20AI-Powered%20Coding.md) (1 shared courses)
+- [Building Generative AI Skills for Web Developers](Building%20Generative%20AI%20Skills%20for%20Web%20Developers.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

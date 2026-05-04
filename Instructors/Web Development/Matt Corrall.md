@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Sketching For Ux Designers]]
+- [Sketching For Ux Designers](../../Courses/Web%20Development/Sketching%20For%20Ux%20Designers.md)

@@ -22,24 +22,24 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building Intelligent Chatbots on AWS]] — Advanced · 1h 13m · 2,608,329 learners
-- [[Building a Project with the ChatGPT API]] — Intermediate · 1h 56m · 2,608,329 learners
-- [[ChatGPT- Publishing GPTs on the GPT Store]] — 20m · 58,414 learners
-- [[Hands On Ai Build Your Own Gpts]] — Beginner · 58,414 learners
-- [[Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js]] — Intermediate · 1h 47m · 29,749 learners
-- [[Exploring Million-Token Models with Google Gemini Pro 1.5]] — 18m · 16,429 learners
+- [Building Intelligent Chatbots on AWS](../../Courses/Artificial%20Intelligence%20(AI)/Building%20Intelligent%20Chatbots%20on%20AWS.md) — Advanced · 1h 13m · 2,608,329 learners
+- [Building a Project with the ChatGPT API](../../Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Project%20with%20the%20ChatGPT%20API.md) — Intermediate · 1h 56m · 2,608,329 learners
+- [ChatGPT- Publishing GPTs on the GPT Store](../../Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Publishing%20GPTs%20on%20the%20GPT%20Store.md) — 20m · 58,414 learners
+- [Hands On Ai Build Your Own Gpts](../../Courses/Artificial%20Intelligence%20(AI)/Hands%20On%20Ai%20Build%20Your%20Own%20Gpts.md) — Beginner · 58,414 learners
+- [Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js](../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Build%20an%20AI%20Chatbot%20with%20GPT-4o%20and%20Next.js.md) — Intermediate · 1h 47m · 29,749 learners
+- [Exploring Million-Token Models with Google Gemini Pro 1.5](../../Courses/Artificial%20Intelligence%20(AI)/Exploring%20Million-Token%20Models%20with%20Google%20Gemini%20Pro%201.5.md) — 18m · 16,429 learners
 
 ## Related Skills
 
-- [[Artificial Intelligence (AI)]] — 6 shared courses
-- [[ChatGPT]] — 3 shared courses
-- [[AI Software Development]] — 2 shared courses
-- [[Amazon Web Services (AWS)]] — 1 shared course
-- [[Next.js]] — 1 shared course
-- [[OpenAI Products]] — 1 shared course
-- [[Application Development]] — 1 shared course
-- [[Large Language Models (LLM)]] — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 6 shared courses
+- [ChatGPT](ChatGPT.md) — 3 shared courses
+- [AI Software Development](AI%20Software%20Development.md) — 2 shared courses
+- [Amazon Web Services (AWS)](../Cloud%20Computing/Amazon%20Web%20Services%20(AWS).md) — 1 shared course
+- [Next.js](../Web%20Development/Next.js.md) — 1 shared course
+- [OpenAI Products](OpenAI%20Products.md) — 1 shared course
+- [Application Development](../Software%20Development/Application%20Development.md) — 1 shared course
+- [Large Language Models (LLM)](Large%20Language%20Models%20(LLM).md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Fine-Tuning for LLMs- from Beginner to Advanced]] — 1 mentions
+1. [Fine-Tuning for LLMs- from Beginner to Advanced](../../Courses/Artificial%20Intelligence%20(AI)/Fine-Tuning%20for%20LLMs-%20from%20Beginner%20to%20Advanced.md) — 1 mentions

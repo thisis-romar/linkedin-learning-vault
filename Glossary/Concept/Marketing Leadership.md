@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # Marketing Leadership
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Data Science]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Data Science](../../Topics/Data%20Science.md)
 
 ## Courses
 
-1. [[Business Analysis for Busy Professionals]] — 1 mentions
+1. [Business Analysis for Busy Professionals](../../Courses/Data%20Science/Business%20Analysis%20for%20Busy%20Professionals.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Get Ahead in Business Analytics and Analysis]] — 1 total mentions
+1. [Get Ahead in Business Analytics and Analysis](../../Paths/Data%20Science/Learning%20Paths/Get%20Ahead%20in%20Business%20Analytics%20and%20Analysis.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

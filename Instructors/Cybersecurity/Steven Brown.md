@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Lean Foundations]]
-- [[Lean Six Sigma Foundations]]
+- [Lean Foundations](../../Courses/Cybersecurity/Lean%20Foundations.md)
+- [Lean Six Sigma Foundations](../../Courses/Hardware/Lean%20Six%20Sigma%20Foundations.md)

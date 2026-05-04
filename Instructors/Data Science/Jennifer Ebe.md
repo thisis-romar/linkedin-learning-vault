@@ -28,4 +28,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[ETL in Python and SQL]]
+- [ETL in Python and SQL](../../Courses/Data%20Science/ETL%20in%20Python%20and%20SQL.md)

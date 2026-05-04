@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building a Responsible AI Program- Context, Culture, Content, and Commitment]]
-- [[Using Generative AI Ethically at Work]]
+- [Building a Responsible AI Program- Context, Culture, Content, and Commitment](../../Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Responsible%20AI%20Program-%20Context%2C%20Culture%2C%20Content%2C%20and%20Commitment.md)
+- [Using Generative AI Ethically at Work](../../Courses/Artificial%20Intelligence%20(AI)/Using%20Generative%20AI%20Ethically%20at%20Work.md)

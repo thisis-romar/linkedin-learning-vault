@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Manage Storage in Azure]]
+- [Manage Storage in Azure](../../Courses/Cloud%20Computing/Manage%20Storage%20in%20Azure.md)

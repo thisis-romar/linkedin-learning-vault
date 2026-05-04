@@ -28,6 +28,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel and ChatGPT- Data Analysis Power Tips]]
-- [[ChatGPT and SQL]]
-- [[Advanced Tableau Desktop]]
+- [Excel and ChatGPT- Data Analysis Power Tips](../../Courses/Artificial%20Intelligence%20(AI)/Excel%20and%20ChatGPT-%20Data%20Analysis%20Power%20Tips.md)
+- [ChatGPT and SQL](../../Courses/Artificial%20Intelligence%20(AI)/ChatGPT%20and%20SQL.md)
+- [Advanced Tableau Desktop](../../Courses/Data%20Science/Advanced%20Tableau%20Desktop.md)

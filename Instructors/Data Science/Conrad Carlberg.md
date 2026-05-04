@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Business Analytics- Forecasting with Exponential Smoothing]]
-- [[Business Analytics- Forecasting with Seasonal Baseline Smoothing]]
+- [Business Analytics- Forecasting with Exponential Smoothing](../../Courses/Data%20Science/Business%20Analytics-%20Forecasting%20with%20Exponential%20Smoothing.md)
+- [Business Analytics- Forecasting with Seasonal Baseline Smoothing](../../Courses/Data%20Science/Business%20Analytics-%20Forecasting%20with%20Seasonal%20Baseline%20Smoothing.md)

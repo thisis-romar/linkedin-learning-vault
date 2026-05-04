@@ -28,5 +28,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Responsible AI and Application Development]]
-- [[LLMOps in Practice- A Deep Dive]]
+- [Responsible AI and Application Development](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20and%20Application%20Development.md)
+- [LLMOps in Practice- A Deep Dive](../../Courses/Artificial%20Intelligence%20(AI)/LLMOps%20in%20Practice-%20A%20Deep%20Dive.md)

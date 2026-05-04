@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[The Importance of Biodiversity to Business]]
+- [The Importance of Biodiversity to Business](../../Courses/Software%20Development/The%20Importance%20of%20Biodiversity%20to%20Business.md)

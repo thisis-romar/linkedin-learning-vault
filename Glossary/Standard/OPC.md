@@ -27,21 +27,21 @@ created: 2026-05-03
 
 Open Platform Communications — interoperability standard for industrial automation data exchange.
 
-> **Type:** Standard | **Courses:** 2 | **Topics:** [[Hardware]], [[Cybersecurity]], [[Network and System Administration]]
+> **Type:** Standard | **Courses:** 2 | **Topics:** [Hardware](../../Topics/Hardware.md), [Cybersecurity](../../Topics/Cybersecurity.md), [Network and System Administration](../../Topics/Network%20and%20System%20Administration.md)
 
 ## Courses
 
-1. [[Learning Industrial Automation]] — 71 mentions
-2. [[Ethical Hacking- Hacking IoT Devices]] — 4 mentions
+1. [Learning Industrial Automation](../../Courses/Hardware/Learning%20Industrial%20Automation.md) — 71 mentions
+2. [Ethical Hacking- Hacking IoT Devices](../../Courses/Cybersecurity/Ethical%20Hacking-%20Hacking%20IoT%20Devices.md) — 4 mentions
 
 ## Learning Paths
 
-1. [[CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate]] — 71 total mentions
-2. [[Become a PLC Developer]] — 71 total mentions
-3. [[Become an Ethical Hacker]] — 4 total mentions
+1. [CSCMP Supply Chain Foundations- Manufacturing and Service Operations Professional Certificate](../../Paths/Hardware/Professional%20Certificates/CSCMP%20Supply%20Chain%20Foundations-%20Manufacturing%20and%20Service%20Operations%20Professional%20Certificate.md) — 71 total mentions
+2. [Become a PLC Developer](../../Paths/Hardware/Learning%20Paths/Become%20a%20PLC%20Developer.md) — 71 total mentions
+3. [Become an Ethical Hacker](../../Paths/Cybersecurity/Learning%20Paths/Become%20an%20Ethical%20Hacker.md) — 4 total mentions
 
 ---
 
 *Source: manually added*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

@@ -22,20 +22,20 @@ created: 2026-05-03
 
 ## Courses
 
-- [[HTML- Structured Semantic Data]] — Advanced · 1h 33m · 11,845 learners
+- [HTML- Structured Semantic Data](../../Courses/Web%20Development/HTML-%20Structured%20Semantic%20Data.md) — Advanced · 1h 33m · 11,845 learners
 
 ## Related Skills
 
-- [[HTML]] — 1 shared course
+- [HTML](HTML.md) — 1 shared course
 
 ## Mentioned In Transcripts _(28 total mentions)_
 
-1. [[Accessibility For Managers And Non Designers]] — 16 mentions
-2. [[Accessibility for Web Design]] — 3 mentions
-3. [[Accessibility-First Design]] — 2 mentions
-4. [[JSON Essential Training]] — 2 mentions
-5. [[React- Components, Context, and Accessibility]] — 1 mentions
-6. [[Web Programming Foundations]] — 1 mentions
-7. [[Css Fundamentals Unlock The Power Of Web Styling]] — 1 mentions
-8. [[CSS- Display]] — 1 mentions
-9. [[WordPress- Accessibility]] — 1 mentions
+1. [Accessibility For Managers And Non Designers](../../Courses/Web%20Development/Accessibility%20For%20Managers%20And%20Non%20Designers.md) — 16 mentions
+2. [Accessibility for Web Design](../../Courses/Web%20Development/Accessibility%20for%20Web%20Design.md) — 3 mentions
+3. [Accessibility-First Design](../../Courses/Web%20Development/Accessibility-First%20Design.md) — 2 mentions
+4. [JSON Essential Training](../../Courses/Software%20Development/JSON%20Essential%20Training.md) — 2 mentions
+5. [React- Components, Context, and Accessibility](../../Courses/Web%20Development/React-%20Components%2C%20Context%2C%20and%20Accessibility.md) — 1 mentions
+6. [Web Programming Foundations](../../Courses/Web%20Development/Web%20Programming%20Foundations.md) — 1 mentions
+7. [Css Fundamentals Unlock The Power Of Web Styling](../../Courses/Web%20Development/Css%20Fundamentals%20Unlock%20The%20Power%20Of%20Web%20Styling.md) — 1 mentions
+8. [CSS- Display](../../Courses/Web%20Development/CSS-%20Display.md) — 1 mentions
+9. [WordPress- Accessibility](../../Courses/Web%20Development/WordPress-%20Accessibility.md) — 1 mentions

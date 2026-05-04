@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Application Security in DevSecOps]]
+- [Application Security in DevSecOps](../../Courses/Cybersecurity/Application%20Security%20in%20DevSecOps.md)

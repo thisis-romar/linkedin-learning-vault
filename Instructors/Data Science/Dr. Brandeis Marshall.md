@@ -30,7 +30,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Implementing a Data Strategy for Responsible AI]]
-- [[Secure Data Management for AI Implementation]]
-- [[Ethical Data Collection for AI Implementation]]
-- [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]]
+- [Implementing a Data Strategy for Responsible AI](../../Courses/Artificial%20Intelligence%20(AI)/Implementing%20a%20Data%20Strategy%20for%20Responsible%20AI.md)
+- [Secure Data Management for AI Implementation](../../Courses/Data%20Science/Secure%20Data%20Management%20for%20AI%20Implementation.md)
+- [Ethical Data Collection for AI Implementation](../../Courses/Data%20Science/Ethical%20Data%20Collection%20for%20AI%20Implementation.md)
+- [Practical Database Design- Implementing Responsible Data Solutions with SQL Querying](../../Courses/Data%20Science/Practical%20Database%20Design-%20Implementing%20Responsible%20Data%20Solutions%20with%20SQL%20Querying.md)

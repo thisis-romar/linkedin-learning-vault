@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Inclusive Tech- Leadership and Management]] — Intermediate · 50m · 38,321 learners
+- [Inclusive Tech- Leadership and Management](../../Courses/Cloud%20Computing/Inclusive%20Tech-%20Leadership%20and%20Management.md) — Intermediate · 50m · 38,321 learners
 
 ## Related Skills
 
-- [[Tech Career Skills]] — 1 shared course
-- [[Diversity and Inclusion]] — 1 shared course
+- [Tech Career Skills](../Cybersecurity/Tech%20Career%20Skills.md) — 1 shared course
+- [Diversity and Inclusion](Diversity%20and%20Inclusion.md) — 1 shared course

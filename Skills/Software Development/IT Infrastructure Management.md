@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]] — Beginner · 41m · 3,954 learners
+- [Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud](../../Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%204%20Modernize%20Infrastructure%20and%20Applications%20with%20Google%20Cloud.md) — Beginner · 41m · 3,954 learners
 
 ## Related Skills
 
-- [[Legacy Modernization]] — 1 shared course
-- [[Google Cloud Platform (GCP)]] — 1 shared course
+- [Legacy Modernization](Legacy%20Modernization.md) — 1 shared course
+- [Google Cloud Platform (GCP)](Google%20Cloud%20Platform%20(GCP).md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Aws Essential Training For Administrators]] — 1 mentions
+1. [Aws Essential Training For Administrators](../../Courses/Cloud%20Computing/Aws%20Essential%20Training%20For%20Administrators.md) — 1 mentions

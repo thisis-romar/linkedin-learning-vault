@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Redis Essential Training]]
+- [Redis Essential Training](../../Courses/Database%20Management/Redis%20Essential%20Training.md)

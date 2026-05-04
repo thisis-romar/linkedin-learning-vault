@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Responsible GitHub Copilot- Creating Reliable Code Ethically]]
+- [Responsible GitHub Copilot- Creating Reliable Code Ethically](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20GitHub%20Copilot-%20Creating%20Reliable%20Code%20Ethically.md)

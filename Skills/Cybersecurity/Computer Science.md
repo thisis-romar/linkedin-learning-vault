@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Computer Science Principles- Programming]] — Beginner · 1h 25m · 87,841 learners
-- [[Computer Science Principles Digital Information]] — Beginner · 70,757 learners
-- [[Computer Science Principles- The Internet]] — Beginner · 59m · 70,757 learners
+- [Computer Science Principles- Programming](../../Courses/Software%20Development/Computer%20Science%20Principles-%20Programming.md) — Beginner · 1h 25m · 87,841 learners
+- [Computer Science Principles Digital Information](../../Courses/Cloud%20Computing/Computer%20Science%20Principles%20Digital%20Information.md) — Beginner · 70,757 learners
+- [Computer Science Principles- The Internet](../../Courses/Cloud%20Computing/Computer%20Science%20Principles-%20The%20Internet.md) — Beginner · 59m · 70,757 learners
 
 ## Related Skills
 
-- [[Programming]] — 1 shared course
+- [Programming](../Software%20Development/Programming.md) — 1 shared course

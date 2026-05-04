@@ -21,7 +21,7 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]]'
+  - course: '[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure](../../../Courses/Artificial%20Intelligence%20(AI)/Microsoft%20Azure%20Ai%20Essentials%20Workloads%20And%20Machine%20Learning%20On%20Azure.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -36,14 +36,14 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]]
+1. [Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure](../../../Courses/Artificial%20Intelligence%20(AI)/Microsoft%20Azure%20Ai%20Essentials%20Workloads%20And%20Machine%20Learning%20On%20Azure.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Cloud Computing]]
-- [[Software Development]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Cloud Computing](../../../Topics/Cloud%20Computing.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

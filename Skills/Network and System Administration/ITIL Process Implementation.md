@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — Intermediate · 1h 56m · 93,873 learners
+- [Putting ITIL® into Practice- DevOps for ITIL® Practitioners](../../Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20DevOps%20for%20ITIL%C2%AE%20Practitioners.md) — Intermediate · 1h 56m · 93,873 learners
 
 ## Related Skills
 
-- [[DevOps]] — 1 shared course
+- [DevOps](../../Topics/DevOps.md) — 1 shared course

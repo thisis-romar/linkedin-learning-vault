@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Arduino- Prototyping]]
+- [Arduino- Prototyping](../../Courses/Hardware/Arduino-%20Prototyping.md)

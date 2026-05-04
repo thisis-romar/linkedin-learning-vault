@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Complete Guide to Java Design Patterns- Creational, Behavioral, and Structural]]
-- [[Java- Data Structures]]
-- [[Practice It- Java]]
+- [Complete Guide to Java Design Patterns- Creational, Behavioral, and Structural](../../Courses/Cloud%20Computing/Complete%20Guide%20to%20Java%20Design%20Patterns-%20Creational%2C%20Behavioral%2C%20and%20Structural.md)
+- [Java- Data Structures](../../Courses/Data%20Science/Java-%20Data%20Structures.md)
+- [Practice It- Java](../../Courses/Software%20Development/Practice%20It-%20Java.md)

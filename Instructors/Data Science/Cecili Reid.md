@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Java Exception Handling]]
+- [Java Exception Handling](../../Courses/Data%20Science/Java%20Exception%20Handling.md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Coding Exercises- Scala]]
+- [Coding Exercises- Scala](../../Courses/Data%20Science/Coding%20Exercises-%20Scala.md)

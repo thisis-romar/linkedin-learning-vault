@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Orchestration- Planning and Orchestrating for Observability]] — Intermediate · 1h 53m · 2,763 learners
+- [AI Orchestration- Planning and Orchestrating for Observability](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Planning%20and%20Orchestrating%20for%20Observability.md) — Intermediate · 1h 53m · 2,763 learners
 
 ## Related Skills
 
-- [[AI Orchestration]] — 1 shared course
-- [[AI Software Development]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [AI Orchestration](AI%20Orchestration.md) — 1 shared course
+- [AI Software Development](../Artificial%20Intelligence%20(AI)/AI%20Software%20Development.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

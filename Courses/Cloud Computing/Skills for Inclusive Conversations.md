@@ -15,11 +15,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQEbQFMEkzfpyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568060997696?e=2147483647&amp;v=beta&amp;t=zaYi3iZPIMOrkqUpGKjiH5RXqb4ZjlBsCGmV-M3iC2s"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - '[[Improve Your Technical Communication Skills]]'
+  - '[Improve Your Technical Communication Skills](../../Paths/Cloud%20Computing/Learning%20Paths/Improve%20Your%20Technical%20Communication%20Skills.md)'
 prev_courses:
-  - '[[Inclusive Tech- Conducting Humane Code Reviews]]'
+  - '[Inclusive Tech- Conducting Humane Code Reviews](Inclusive%20Tech-%20Conducting%20Humane%20Code%20Reviews.md)'
 next_courses:
-  - '[[Tech Career Skills- Communication for Developers]]'
+  - '[Tech Career Skills- Communication for Developers](Tech%20Career%20Skills-%20Communication%20for%20Developers.md)'
 path_nav: '[{"path":"Improve Your Technical Communication Skills","position":3,"total":5,"prev":"Inclusive Tech- Conducting Humane Code Reviews","next":"Tech Career Skills- Communication for Developers"}]'
 path_count: 1
 tags:
@@ -76,11 +76,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980&t=0)** - Many organizations invite employees to bring their whole selves to work, because they realize that they are more productive, more innovative, and more engaged. With this invitation, employees may bring issues and concerns that are related to important aspects of their identity. Consider an employee who has faced anti-Semitism, or one who has been impacted by racially-incited violence, or another, who might have relatives who are concerned about evolving immigration regulations. These are just a few examples of issues that might impact an employee's ability to do their best work. These conversations can be difficult, because we have been mostly taught not to talk about such topics as race, religion, or politics, especially at work, so it stands to reason that we might not have the skills to do so effectively. My name is Mary-Frances Winters, and I am President and CEO of The Winters Group, a global [[Diversity and Inclusion]] firm. This course will highlight the prerequisites and steps for engaging in inclusive conversations, and provide some tools to start you on the journey. I will help you develop the skills needed for engaging in meaningful conversations in the workplace about potentially polarizing topics. Let's start now.
+> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980&t=0)** - Many organizations invite employees to bring their whole selves to work, because they realize that they are more productive, more innovative, and more engaged. With this invitation, employees may bring issues and concerns that are related to important aspects of their identity. Consider an employee who has faced anti-Semitism, or one who has been impacted by racially-incited violence, or another, who might have relatives who are concerned about evolving immigration regulations. These are just a few examples of issues that might impact an employee's ability to do their best work. These conversations can be difficult, because we have been mostly taught not to talk about such topics as race, religion, or politics, especially at work, so it stands to reason that we might not have the skills to do so effectively. My name is Mary-Frances Winters, and I am President and CEO of The Winters Group, a global [Diversity and Inclusion](../../Skills/Software%20Development/Diversity%20and%20Inclusion.md) firm. This course will highlight the prerequisites and steps for engaging in inclusive conversations, and provide some tools to start you on the journey. I will help you develop the skills needed for engaging in meaningful conversations in the workplace about potentially polarizing topics. Let's start now.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Diversity and Inclusion]] (1)
+> **Frameworks & Libraries:** [Diversity and Inclusion](../../Skills/Software%20Development/Diversity%20and%20Inclusion.md) (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - many (1)
 
@@ -90,13 +90,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=0)** - Whether it's the Black Lives Matter movement, Islamophobic or xenophobic rhetoric, policy decisions that impact the LGBTQ community, acts of global terrorism or polarizing politics, leaders are learning that employees are talking about these issues in the workplace, and it can be detrimental to productivity and working relationships. The sociopolitical climate impacts workers in a number of ways. A study by the American Psychological Association found that following the 2016 US presidential election, nearly half of all workers surveyed said they were more likely to discuss politics in the workplace and that some workers experienced lower productivity as a result because more of their attention than normal was spent on debating polarized political perspectives rather than their work. As external socio politics make their way into the workplace, discussions can lead to feelings of exclusion and increase polarization if employees do not have the competencies to engage in meaningful, respectful dialogue. Consider how most of us feel when we hear of another attack by extremist religious groups that are happening around the world from Paris to the UK, Sri Lanka and even here in the US. This triggers fear around the world and these fears make it into discussions in the workplace. So here's an example based on my real experiences dealing with people's fears and misunderstanding
 >
-> **[1:35](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=95)** in the workplace. Now before I jump in, I want to note that these topics can be very uncomfortable, but we need to face these issues together in order to grow and understand one another. So imagine three employees, [[John the Ripper|John]], Miriam, and Jennifer, they're taking a break. John and Jennifer are in the break room and talking about the recent attacks. John makes a remark about the attacks being related to a Muslim group. While John and Jennifer are talking, their coworker, Miriam who is Muslim, walks in on their conversation. She feels nervous, scared, and leaves without saying anything. John and Jennifer did not intend to be insensitive to their coworker, but Miriam took the comment personally because it cut at the core of her identity. Reflect on these questions. If Miriam does not say anything about the encounter, how might that impact her ability to do her best work for the [[Representational State Transfer (REST)|rest]] of the day and even maybe beyond that? How might John's opinion change if he had more knowledge about Miriam's religion and culture? What if there was a culture in the workplace where Miriam felt empowered and safe to intervene and invite a conversation to help John and others learn more about her religion and culture? There is no definitive blueprint for how to respond to situations like John, Miriam and Jennifer's,
+> **[1:35](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=95)** in the workplace. Now before I jump in, I want to note that these topics can be very uncomfortable, but we need to face these issues together in order to grow and understand one another. So imagine three employees, [John](../../Glossary/Tool/John%20the%20Ripper.md), Miriam, and Jennifer, they're taking a break. John and Jennifer are in the break room and talking about the recent attacks. John makes a remark about the attacks being related to a Muslim group. While John and Jennifer are talking, their coworker, Miriam who is Muslim, walks in on their conversation. She feels nervous, scared, and leaves without saying anything. John and Jennifer did not intend to be insensitive to their coworker, but Miriam took the comment personally because it cut at the core of her identity. Reflect on these questions. If Miriam does not say anything about the encounter, how might that impact her ability to do her best work for the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the day and even maybe beyond that? How might John's opinion change if he had more knowledge about Miriam's religion and culture? What if there was a culture in the workplace where Miriam felt empowered and safe to intervene and invite a conversation to help John and others learn more about her religion and culture? There is no definitive blueprint for how to respond to situations like John, Miriam and Jennifer's,
 >
 > **[3:09](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=189)** and the options depend on the extent to which there is an organizational climate of trust and openness and whether there are skills such as suspending judgment, listening and empathy to engage in meaningful conversations. To what extent are you and your organization equipped to talk about these topics? If you have the skill, your organization will create a climate where employees feel that they are cared about, which will lead to a greater sense of belonging and inclusion, which results in greater productivity and innovation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (8), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [John](../../Glossary/Tool/John%20the%20Ripper.md) (8), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** lgbtq (1)
@@ -108,7 +108,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/thriving-with-inclusive-dialogue-14487133?u=76281980&t=0)** - We can't talk about that at work. Topics like race, religion, politics, sexual orientation, and many others. This has been the adage for many years for organizations and even at our own dinner tables. Therefore we have not had the experience nor skills to engage in effective dialogue. Given today's sociopolitical climate, our [[Real-Time]] access to news and perspectives via social media and organizations strides towards creating more inclusive environments, these topics are unavoidable. They're happening in our homes, on our social media timelines, and in the workplace. If not approached with effective skills, these conversations can negatively impact business and interpersonal relationships. Consider these scenarios and how they might impact those involved and the workplace. An employee of Middle Eastern descent is detained after visiting their home country due to new immigration policies. A black employee comes to work and is impacted by the recent killing of an unarmed black person but is unsure of how or if they can discuss this with their supervisor. The women's employee resource group at your organization wants to host a town hall on the #MeToo movement and how the organization can foster a gender inclusive culture. A team member who is part of the LGBTQ community comes to you expressing their concern about an offensive joke that they overheard shared by another team member.
+> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/thriving-with-inclusive-dialogue-14487133?u=76281980&t=0)** - We can't talk about that at work. Topics like race, religion, politics, sexual orientation, and many others. This has been the adage for many years for organizations and even at our own dinner tables. Therefore we have not had the experience nor skills to engage in effective dialogue. Given today's sociopolitical climate, our [Real-Time](../../Skills/Database%20Management/Real-Time.md) access to news and perspectives via social media and organizations strides towards creating more inclusive environments, these topics are unavoidable. They're happening in our homes, on our social media timelines, and in the workplace. If not approached with effective skills, these conversations can negatively impact business and interpersonal relationships. Consider these scenarios and how they might impact those involved and the workplace. An employee of Middle Eastern descent is detained after visiting their home country due to new immigration policies. A black employee comes to work and is impacted by the recent killing of an unarmed black person but is unsure of how or if they can discuss this with their supervisor. The women's employee resource group at your organization wants to host a town hall on the #MeToo movement and how the organization can foster a gender inclusive culture. A team member who is part of the LGBTQ community comes to you expressing their concern about an offensive joke that they overheard shared by another team member.
 >
 > **[1:35](https://www.linkedin.com/learning/skills-for-inclusive-conversations/thriving-with-inclusive-dialogue-14487133?u=76281980&t=95)** Each of these situations could potentially impact an employee's ability to do their best work, and thus the organization's ability to operate at its best. What would be your level of comfort facilitating or engaging in dialogue around these situations? Would you say you'd be not at all comfortable, somewhat comfortable, or very comfortable? Now reflect on why you answered how you did. I think that most of us would answer not at all or only somewhat comfortable. This is to be expected because we've been taught to avoid dialogue around these topics. Creating an environment where these conversations are possible fosters inclusion and impacts the bottom line. Where is the evidence of this? A landmark study by Harvard Business School professor Amy Edmondson surfaced the concept of psychological safety, the extent to which team members feel comfortable enough to take risks, speak up with questions, ideas, concerns, or mistakes without being punished or humiliated. Research conducted by Catalyst found that when employees feel psychologically safe to bring up tough issues, they experience a greater sense of inclusion and that leads to greater innovation. What can you do to create psychological safety? Well, you can conduct non-work-related check-ins at kickoff meetings.
 >
@@ -116,7 +116,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (1)
+> **Frameworks & Libraries:** [Real-Time](../../Skills/Database%20Management/Real-Time.md) (1)
 > **Env Vars:** lgbtq (1)
 > **Speakers:** - we (1)
 
@@ -167,11 +167,11 @@ created: 2026-05-03
 >
 > **[1:36](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusive-conversations-readiness-14488126?u=76281980&t=96)** having the capacity to understand the perspective of one's other is core to effective conversations. Empathy does not mean agreement. It means that you can suspend judgment, listen, and try to see the world from the lens of the other person. When I work with organizations and individuals seeking to assess their readiness for difficult conversations, I asked them to consider the following statements and decide if they'd respond a great deal, somewhat, or not at all. Think about how you would respond. I have studied my own and other culture's norms and beliefs. Would you say you've done that a great deal? Would you say you've somewhat studied that or not at all? If you answered somewhat or not at all, you really don't have a lot of knowledge of cultural differences. So the kind of dialogue that I'm talking about probably won't be very effective. Next, I readily acknowledge that I don't know what I don't know. Do you say great deal to that, somewhat or not at all? If you answered somewhat or not at all, you need to reflect on why you are not willing to admit that there's probably something more for you to learn. Is there a high level of trust on your team and within the organization? You say a great deal, would you say somewhat, or would you say no, there's no trust at all? If you do not have trust in your organization, these conversations will not likely yield the desired results. Fostering trust is a core requisite to engaging in inclusive conversations.
 >
-> **[3:10](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusive-conversations-readiness-14488126?u=76281980&t=190)** How would you answer this one? My [[Organizational Culture]] is conducive to engaging in authentic dialogue and fostering inclusion. What do you think? A great deal, somewhat or not at all. If an organization does not at a minimum, have an articulated and actionable commitment to diversity, equity and inclusion, then creating spaces for dialogue is really just not realistic. These are just a few things to consider when assessing individual and organizational or team readiness, there are other considerations included in the readiness self-assessment included in the exercise file. Readiness is honestly assessing where you and your team are on a learning curve of understanding of self and others before trying to engage in what might be polarizing topics.
+> **[3:10](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusive-conversations-readiness-14488126?u=76281980&t=190)** How would you answer this one? My [Organizational Culture](../../Skills/Data%20Science/Organizational%20Culture.md) is conducive to engaging in authentic dialogue and fostering inclusion. What do you think? A great deal, somewhat or not at all. If an organization does not at a minimum, have an articulated and actionable commitment to diversity, equity and inclusion, then creating spaces for dialogue is really just not realistic. These are just a few things to consider when assessing individual and organizational or team readiness, there are other considerations included in the readiness self-assessment included in the exercise file. Readiness is honestly assessing where you and your team are on a learning curve of understanding of self and others before trying to engage in what might be polarizing topics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [Organizational Culture](../../Skills/Data%20Science/Organizational%20Culture.md) (1)
 > **Definitions:** means that (1), is a  (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
@@ -197,7 +197,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/getting-to-shared-meaning-14487135?u=76281980&t=0)** - You said this and I heard that. How many times have we interpreted meaning in a conversation with someone that was not what was intended? This is a particularly common pitfall when we are trying to communicate across cultural differences, as intent and impact may be two very different things, as well as the interpretations that we have. All of us have a worldview that comes from our own experiences that may be different from others. It is critical to create shared meaning before you try to talk about those things on which you do not agree. The goal of creating shared meaning is to get to what we each agree on. Consider this scenario, three employees, [[John the Ripper|John]], Miriam and Jennifer are in the break room. John and Jennifer were sharing their seemingly innocent thoughts about an attack that just happened in Paris, unaware of how it may impact their Muslim colleague, Miriam. Let's watch their interaction.
+> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/getting-to-shared-meaning-14487135?u=76281980&t=0)** - You said this and I heard that. How many times have we interpreted meaning in a conversation with someone that was not what was intended? This is a particularly common pitfall when we are trying to communicate across cultural differences, as intent and impact may be two very different things, as well as the interpretations that we have. All of us have a worldview that comes from our own experiences that may be different from others. It is critical to create shared meaning before you try to talk about those things on which you do not agree. The goal of creating shared meaning is to get to what we each agree on. Consider this scenario, three employees, [John](../../Glossary/Tool/John%20the%20Ripper.md), Miriam and Jennifer are in the break room. John and Jennifer were sharing their seemingly innocent thoughts about an attack that just happened in Paris, unaware of how it may impact their Muslim colleague, Miriam. Let's watch their interaction.
 >
 > **[1:09](https://www.linkedin.com/learning/skills-for-inclusive-conversations/getting-to-shared-meaning-14487135?u=76281980&t=69)** - I also heard about the attack in Paris, and I heard you say how you thought Muslims were responsible for the attack, and that really upsets me.
 >
@@ -217,7 +217,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (4)
+> **Frameworks & Libraries:** [John](../../Glossary/Tool/John%20the%20Ripper.md) (4)
 > **Speakers:** - i (2), - you (1), - miriam (1), - well (1), - those (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -227,7 +227,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/honing-skills-for-shared-meaning-14486163?u=76281980&t=0)** - Why can't you see things from my perspective? Were you even listening? Engaging and inclusive conversations requires reaching some level of shared understanding. Shared meaning is critical because you cannot attempt to explore potential differences if you don't first establish some kind of common ground. What do we agree on? The key ingredients to getting to shared meaning are first creating a brave zone, where you agree to stretch the boundaries of your comfort, inclusive listening, are you really listening to each other, focusing on self-awareness, what's going on for me right now, describing before interpreting the situation, choosing curiosity over judgment, using I statements instead of you language, asking a lot of clarifying questions, and lastly, and really most importantly, admitting mistakes. Let's look at a scenario where there is an attempt to get to shared meaning. [[John the Ripper|John]] had made an assumption about Muslims being responsible for an attack. And he and Miriam, his Muslim coworker, have agreed to meet in an attempt to get to shared meaning.
+> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/honing-skills-for-shared-meaning-14486163?u=76281980&t=0)** - Why can't you see things from my perspective? Were you even listening? Engaging and inclusive conversations requires reaching some level of shared understanding. Shared meaning is critical because you cannot attempt to explore potential differences if you don't first establish some kind of common ground. What do we agree on? The key ingredients to getting to shared meaning are first creating a brave zone, where you agree to stretch the boundaries of your comfort, inclusive listening, are you really listening to each other, focusing on self-awareness, what's going on for me right now, describing before interpreting the situation, choosing curiosity over judgment, using I statements instead of you language, asking a lot of clarifying questions, and lastly, and really most importantly, admitting mistakes. Let's look at a scenario where there is an attempt to get to shared meaning. [John](../../Glossary/Tool/John%20the%20Ripper.md) had made an assumption about Muslims being responsible for an attack. And he and Miriam, his Muslim coworker, have agreed to meet in an attempt to get to shared meaning.
 >
 > **[1:17](https://www.linkedin.com/learning/skills-for-inclusive-conversations/honing-skills-for-shared-meaning-14486163?u=76281980&t=77)** - Thank you for meeting with me, Miriam.
 >
@@ -261,7 +261,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (3)
+> **Frameworks & Libraries:** [John](../../Glossary/Tool/John%20the%20Ripper.md) (3)
 > **Speakers:** - i (5), - sure (2), - why (1), - thank (1), - it (1)
 > **Definitions:** is an  (1), is a  (1)
 
@@ -269,9 +269,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=0)** - Our differences make a difference when engaging in conversations about polarizing topics. Sure, we should aspire to find common ground and identify similarities, things we can agree on, but we can't stay there if we expect to get to reciprocal empathy, the ability to see situations from each other's perspectives to alleviate polarization and enhance our working relationships. Delving into differences means we are exploring and naming our differences. Let's look at the steps to apply as we have these conversations. First, you have to establish the ground rules, including your expectations around confidentiality. Next, acknowledge that there's polarization and your differences in perspectives. Thirdly, establish some kind of shared meaning. Next, you'll want to distinguish interpretations and clarify definitions. You'll also want to suspend judgment and strive for reciprocal empathy in that each can respect the other's view. You'll want to consider impact and not just intent, and really important, you want to know when to pause the conversation for more learning and reflection. Let's see how these skills might play out in a real conversation. Miriam and [[John the Ripper|John]] are coworkers. Recently, Miriam overheard John's assumption
+> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=0)** - Our differences make a difference when engaging in conversations about polarizing topics. Sure, we should aspire to find common ground and identify similarities, things we can agree on, but we can't stay there if we expect to get to reciprocal empathy, the ability to see situations from each other's perspectives to alleviate polarization and enhance our working relationships. Delving into differences means we are exploring and naming our differences. Let's look at the steps to apply as we have these conversations. First, you have to establish the ground rules, including your expectations around confidentiality. Next, acknowledge that there's polarization and your differences in perspectives. Thirdly, establish some kind of shared meaning. Next, you'll want to distinguish interpretations and clarify definitions. You'll also want to suspend judgment and strive for reciprocal empathy in that each can respect the other's view. You'll want to consider impact and not just intent, and really important, you want to know when to pause the conversation for more learning and reflection. Let's see how these skills might play out in a real conversation. Miriam and [John](../../Glossary/Tool/John%20the%20Ripper.md) are coworkers. Recently, Miriam overheard John's assumption
 >
-> **[1:33](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=93)** about Muslims being responsible for a violent attack. Miriam and John have begun to do the work around [[Building Trust]] and finding common ground and are at a point where they can now begin to explore their differences. Listen to the dialogue and see if you observe areas where they are practicing these skills.
+> **[1:33](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=93)** about Muslims being responsible for a violent attack. Miriam and John have begun to do the work around [Building Trust](../../Skills/Data%20Science/Building%20Trust.md) and finding common ground and are at a point where they can now begin to explore their differences. Listen to the dialogue and see if you observe areas where they are practicing these skills.
 >
 > **[1:55](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=115)** - How has your day, John?
 >
@@ -301,7 +301,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (5), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [John](../../Glossary/Tool/John%20the%20Ripper.md) (5), [Building Trust](../../Skills/Data%20Science/Building%20Trust.md) (1)
 > **Speakers:** - yeah (3), - yes (3), - i (2), - our (1), - how (1)
 > **CLI Commands:** make (1), find (1)
 
@@ -314,7 +314,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980&t=0)** - Conversations around our differences can be challenging. The model for bold inclusive conversations supports us in preparing for and engaging in these conversations. While the model is not intended to be linear, there are several steps that one should follow when engaging in conversations as polarizing as race. The first step is to foster self and other understanding. [[John the Ripper|John]] is a manager and has identified an opportunity to have a conversation about race with one of his team members. Let's connect with John to understand his situation. Perhaps you've encountered a similar one.
+> **[0:00](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980&t=0)** - Conversations around our differences can be challenging. The model for bold inclusive conversations supports us in preparing for and engaging in these conversations. While the model is not intended to be linear, there are several steps that one should follow when engaging in conversations as polarizing as race. The first step is to foster self and other understanding. [John](../../Glossary/Tool/John%20the%20Ripper.md) is a manager and has identified an opportunity to have a conversation about race with one of his team members. Let's connect with John to understand his situation. Perhaps you've encountered a similar one.
 >
 > **[0:38](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980&t=38)** - Thank you so much for taking some time with me today. I appreciate it. - Sure. One of my team members, he's black, has been a little distant. And I've learned recently that it may have something to do with the police and the African-American communities. But I just don't understand why he's allowing these incidents to impact his work. So I want to get to the bottom of this and I'm thinking about having a conversation with him, but I don't know how. I mean, what are your thoughts, Mary-Frances? How would you approach this?
 >
@@ -330,7 +330,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
+> **Frameworks & Libraries:** [John](../../Glossary/Tool/John%20the%20Ripper.md) (2)
 > **Speakers:** - yeah (2), - conversations (1), - thank (1), - hmm (1), - i (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -347,7 +347,7 @@ created: 2026-05-03
 >
 > **[1:48](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980&t=108)** - What do you mean? How could I assess the team's readiness?
 >
-> **[1:52](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980&t=112)** - Well, one way that you would know is, what does the organization do around [[Diversity and Inclusion]]? Are there policies? Are there practices and strategies? Has the company said that diversity and inclusion is important? And if they have, how are they demonstrating that? And you know, that could be your business case, because if they've said inclusion is important, then the business case for doing this work and having some conversations would be that we've said that it's important. And now I think it's important for us to have this conversation. Well, you would have to test whether or not the organization is ready. And one way that I have found that organizations can do that and can support getting ready to have these more difficult conversations is in meetings. For example, they might start the meeting with, how are you checking into this meeting today? And ask everybody to share that. Or, what do you need from the team? So these sort of less threatening kinds of conversations could help to develop the capability to have the more difficult ones.
+> **[1:52](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980&t=112)** - Well, one way that you would know is, what does the organization do around [Diversity and Inclusion](../../Skills/Software%20Development/Diversity%20and%20Inclusion.md)? Are there policies? Are there practices and strategies? Has the company said that diversity and inclusion is important? And if they have, how are they demonstrating that? And you know, that could be your business case, because if they've said inclusion is important, then the business case for doing this work and having some conversations would be that we've said that it's important. And now I think it's important for us to have this conversation. Well, you would have to test whether or not the organization is ready. And one way that I have found that organizations can do that and can support getting ready to have these more difficult conversations is in meetings. For example, they might start the meeting with, how are you checking into this meeting today? And ask everybody to share that. Or, what do you need from the team? So these sort of less threatening kinds of conversations could help to develop the capability to have the more difficult ones.
 >
 > **[2:55](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980&t=175)** - Okay, so if trust is there, how could you recommend me to approach an initial conversation with the team? Yeah, so there's not any one right or wrong way, but one exercise that we found to be very powerful is what we call the "I Am" exercise. And you have each team member talk about who they are and what's important to their identity. So for example, if I was doing my "I Am" I would say, I am an African-American woman, I am a baby boomer, I am a mother. And there could be many more obviously aspects of who I am, but getting people to talk about those aspects that are important can foster greater understanding across difference and can break down barriers because people are more vulnerable and they're more willing to share. However, if your team has trouble with such an exercise, that might signal that they're really not ready to go deeper into the conversation. So you might have to take little steps, and you might have to go back a little bit and start to build more individual kinds of relationships.
 >
@@ -357,7 +357,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2)
+> **Frameworks & Libraries:** [Diversity and Inclusion](../../Skills/Software%20Development/Diversity%20and%20Inclusion.md) (2)
 > **Speakers:** - okay (3), - religion (1), - i (1), - what (1), - well (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
@@ -418,7 +418,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Mary-Frances Winters]]
+- [Mary-Frances Winters](../../Instructors/Cloud%20Computing/Mary-Frances%20Winters.md)
 
 ## Resources
 
@@ -431,22 +431,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Improve Your Technical Communication Skills]]
-← [[Inclusive Tech- Conducting Humane Code Reviews]] | **3 of 5** | [[Tech Career Skills- Communication for Developers]] →
+### In [Improve Your Technical Communication Skills](../../Paths/Cloud%20Computing/Learning%20Paths/Improve%20Your%20Technical%20Communication%20Skills.md)
+← [Inclusive Tech- Conducting Humane Code Reviews](Inclusive%20Tech-%20Conducting%20Humane%20Code%20Reviews.md) | **3 of 5** | [Tech Career Skills- Communication for Developers](Tech%20Career%20Skills-%20Communication%20for%20Developers.md) →
 
 ## Appears In
 
-- [[Improve Your Technical Communication Skills]]
+- [Improve Your Technical Communication Skills](../../Paths/Cloud%20Computing/Learning%20Paths/Improve%20Your%20Technical%20Communication%20Skills.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Communication Foundations]] — Interpersonal Communication
-- [[Interpersonal Communication]] — Interpersonal Communication
-- [[Creating Accessible And Inclusive Video]] — Diversity and Inclusion
-- [[Inclusive Tech- Leadership and Management]] — Diversity and Inclusion
-- [[Unconscious Bias]] — Diversity and Inclusion
+- [Communication Foundations](Communication%20Foundations.md) — Interpersonal Communication
+- [Interpersonal Communication](../../Skills/Data%20Science/Interpersonal%20Communication.md) — Interpersonal Communication
+- [Creating Accessible And Inclusive Video](../Web%20Development/Creating%20Accessible%20And%20Inclusive%20Video.md) — Diversity and Inclusion
+- [Inclusive Tech- Leadership and Management](Inclusive%20Tech-%20Leadership%20and%20Management.md) — Diversity and Inclusion
+- [Unconscious Bias](../Data%20Science/Unconscious%20Bias.md) — Diversity and Inclusion
 
 ---
 

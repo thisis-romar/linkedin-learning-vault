@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building a Paid Membership Site with Django]] — Intermediate · 1h 15m · 38,191 learners
+- [Building a Paid Membership Site with Django](../../Courses/Web%20Development/Building%20a%20Paid%20Membership%20Site%20with%20Django.md) — Intermediate · 1h 15m · 38,191 learners
 
 ## Related Skills
 
-- [[Django]] — 1 shared course
+- [Django](Django.md) — 1 shared course

@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leveraging Generative AI in Finance and Accounting]]
+- [Leveraging Generative AI in Finance and Accounting](../../Courses/Data%20Science/Leveraging%20Generative%20AI%20in%20Finance%20and%20Accounting.md)

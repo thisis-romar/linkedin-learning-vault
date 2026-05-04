@@ -19,18 +19,18 @@ created: 2026-05-03
 
 # Business Process Automation
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Cloud Computing]], [[Software Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Cloud Computing](../../Topics/Cloud%20Computing.md), [Software Development](../../Topics/Software%20Development.md)
 
 ## Courses
 
-1. [[Introduction to IT Automation]] — 7 mentions
+1. [Introduction to IT Automation](../../Courses/Cloud%20Computing/Introduction%20to%20IT%20Automation.md) — 7 mentions
 
 ## Learning Paths
 
-1. [[Digital Transformation for Tech Leaders]] — 7 total mentions
+1. [Digital Transformation for Tech Leaders](../../Paths/Cloud%20Computing/Learning%20Paths/Digital%20Transformation%20for%20Tech%20Leaders.md) — 7 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

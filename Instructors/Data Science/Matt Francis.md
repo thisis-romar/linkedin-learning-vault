@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Complete Guide to Tableau for Data Scientists]]
-- [[Creating Interactive Tableau Dashboards]]
+- [Complete Guide to Tableau for Data Scientists](../../Courses/Data%20Science/Complete%20Guide%20to%20Tableau%20for%20Data%20Scientists.md)
+- [Creating Interactive Tableau Dashboards](../../Courses/Data%20Science/Creating%20Interactive%20Tableau%20Dashboards.md)

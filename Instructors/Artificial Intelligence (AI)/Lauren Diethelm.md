@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[A Content Marketer's Guide to Responsible AI]]
+- [A Content Marketer's Guide to Responsible AI](../../Courses/Artificial%20Intelligence%20(AI)/A%20Content%20Marketer's%20Guide%20to%20Responsible%20AI.md)

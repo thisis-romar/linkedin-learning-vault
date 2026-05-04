@@ -34,8 +34,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python Essential Training]]
-- [[Python Practice- Real-World Coding Challenges]]
-- [[Advanced Django Project- Build High-Traffic Websites with Django]]
-- [[Python Data Structures- Linked Lists]]
-- [[Python Data Structures- Trees]]
+- [Python Essential Training](../../Courses/Software%20Development/Python%20Essential%20Training.md)
+- [Python Practice- Real-World Coding Challenges](../../Courses/Software%20Development/Python%20Practice-%20Real-World%20Coding%20Challenges.md)
+- [Advanced Django Project- Build High-Traffic Websites with Django](../../Courses/Web%20Development/Advanced%20Django%20Project-%20Build%20High-Traffic%20Websites%20with%20Django.md)
+- [Python Data Structures- Linked Lists](../../Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md)
+- [Python Data Structures- Trees](../../Courses/Database%20Management/Python%20Data%20Structures-%20Trees.md)

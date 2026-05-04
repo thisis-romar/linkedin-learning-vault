@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[HTML- Images and Figures]]
+- [HTML- Images and Figures](../../Courses/Web%20Development/HTML-%20Images%20and%20Figures.md)

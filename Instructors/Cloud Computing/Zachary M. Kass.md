@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]]
+- [Fundamentals of Agentic AI- Business Implications and Ethical Insights](../../Courses/Cloud%20Computing/Fundamentals%20of%20Agentic%20AI-%20Business%20Implications%20and%20Ethical%20Insights.md)

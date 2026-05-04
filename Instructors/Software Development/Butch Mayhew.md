@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios]]
-- [[Learning Playwright]]
+- [Playwright Essential Training- Abstractions, Fixtures, and Complex Scenarios](../../Courses/Software%20Development/Playwright%20Essential%20Training-%20Abstractions%2C%20Fixtures%2C%20and%20Complex%20Scenarios.md)
+- [Learning Playwright](../../Courses/Software%20Development/Learning%20Playwright.md)

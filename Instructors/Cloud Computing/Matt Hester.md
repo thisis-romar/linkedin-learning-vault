@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning PowerShell]]
+- [Learning PowerShell](../../Courses/Cloud%20Computing/Learning%20PowerShell.md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Administrative Professional Foundations]] — Beginner · 1h 24m · 32,132 learners
+- [Administrative Professional Foundations](../../Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md) — Beginner · 1h 24m · 32,132 learners

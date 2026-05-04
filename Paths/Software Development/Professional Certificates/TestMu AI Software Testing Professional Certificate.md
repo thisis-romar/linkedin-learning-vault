@@ -17,19 +17,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Programming Foundations- Software Testing-QA]]'
+  - course: '[Programming Foundations- Software Testing-QA](../../../Courses/Software%20Development/Programming%20Foundations-%20Software%20Testing-QA.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Software Testing Tips Weekly]]'
+  - course: '[Software Testing Tips Weekly](../../../Courses/Software%20Development/Software%20Testing%20Tips%20Weekly.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Agile Testing]]'
+  - course: '[Agile Testing](../../../Skills/Software%20Development/Agile%20Testing.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Succeeding in Software Testing]]'
+  - course: '[Succeeding in Software Testing](../../../Courses/Software%20Development/Succeeding%20in%20Software%20Testing.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -44,27 +44,27 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Programming Foundations- Software Testing-QA]] _(1h 55m)_
-2. [[Software Testing Tips Weekly]] _(1h 12m)_
-3. [[Agile Testing]] _(48m)_
-4. [[Succeeding in Software Testing]] _(56m)_
+1. [Programming Foundations- Software Testing-QA](../../../Courses/Software%20Development/Programming%20Foundations-%20Software%20Testing-QA.md) _(1h 55m)_
+2. [Software Testing Tips Weekly](../../../Courses/Software%20Development/Software%20Testing%20Tips%20Weekly.md) _(1h 12m)_
+3. [Agile Testing](../../../Skills/Software%20Development/Agile%20Testing.md) _(48m)_
+4. [Succeeding in Software Testing](../../../Courses/Software%20Development/Succeeding%20in%20Software%20Testing.md) _(56m)_
 
 ## Course Flow
 
-1. [[Programming Foundations- Software Testing-QA]] → 2. [[Software Testing Tips Weekly]] → 3. [[Agile Testing]] → 4. [[Succeeding in Software Testing]]
+1. [Programming Foundations- Software Testing-QA](../../../Courses/Software%20Development/Programming%20Foundations-%20Software%20Testing-QA.md) → 2. [Software Testing Tips Weekly](../../../Courses/Software%20Development/Software%20Testing%20Tips%20Weekly.md) → 3. [Agile Testing](../../../Skills/Software%20Development/Agile%20Testing.md) → 4. [Succeeding in Software Testing](../../../Courses/Software%20Development/Succeeding%20in%20Software%20Testing.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Become a Programmer- Foundations]] (1 shared courses)
-- [[Develop Your Skills as a Software Project Manager]] (1 shared courses)
-- [[Getting Started with Software Testing]] (1 shared courses)
+- [Become a Programmer- Foundations](../Learning%20Paths/Become%20a%20Programmer-%20Foundations.md) (1 shared courses)
+- [Develop Your Skills as a Software Project Manager](../../DevOps/Learning%20Paths/Develop%20Your%20Skills%20as%20a%20Software%20Project%20Manager.md) (1 shared courses)
+- [Getting Started with Software Testing](../Learning%20Paths/Getting%20Started%20with%20Software%20Testing.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

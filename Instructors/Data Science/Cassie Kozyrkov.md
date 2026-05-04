@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Decision Intelligence]]
+- [Decision Intelligence](../../Courses/Data%20Science/Decision%20Intelligence.md)

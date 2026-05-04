@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI, Recruiting, and Talent Acquisition]]
+- [Generative AI, Recruiting, and Talent Acquisition](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%2C%20Recruiting%2C%20and%20Talent%20Acquisition.md)

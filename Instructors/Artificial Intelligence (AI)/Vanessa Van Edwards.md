@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Amplify Your Communication Skills with Generative AI]]
+- [Amplify Your Communication Skills with Generative AI](../../Courses/Artificial%20Intelligence%20(AI)/Amplify%20Your%20Communication%20Skills%20with%20Generative%20AI.md)

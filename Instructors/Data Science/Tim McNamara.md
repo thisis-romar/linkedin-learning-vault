@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Level Up- Rust]]
+- [Level Up- Rust](../../Courses/Data%20Science/Level%20Up-%20Rust.md)

@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Accelerating Your Career with Personal Branding]]
+- [Accelerating Your Career with Personal Branding](../../Courses/Cloud%20Computing/Accelerating%20Your%20Career%20with%20Personal%20Branding.md)

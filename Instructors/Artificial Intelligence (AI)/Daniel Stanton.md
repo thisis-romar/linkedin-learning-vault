@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Using Generative Artificial Intelligence (AI) in Supply Chains]]
-- [[Digital Transformation in Supply Chains]]
-- [[Business Acumen for Project Managers]]
+- [Using Generative Artificial Intelligence (AI) in Supply Chains](../../Courses/Artificial%20Intelligence%20(AI)/Using%20Generative%20Artificial%20Intelligence%20(AI)%20in%20Supply%20Chains.md)
+- [Digital Transformation in Supply Chains](../../Courses/Artificial%20Intelligence%20(AI)/Digital%20Transformation%20in%20Supply%20Chains.md)
+- [Business Acumen for Project Managers](../../Courses/Cybersecurity/Business%20Acumen%20for%20Project%20Managers.md)

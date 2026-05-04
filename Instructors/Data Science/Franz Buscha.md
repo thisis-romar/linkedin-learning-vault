@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Decision Intelligence- Data Stories]]
-- [[Advanced Data Visualizations- 12 Uncommon Plot Types and How to Use Them]]
-- [[Basics of Data Visualization Analysis]]
+- [Decision Intelligence- Data Stories](../../Courses/Data%20Science/Decision%20Intelligence-%20Data%20Stories.md)
+- [Advanced Data Visualizations- 12 Uncommon Plot Types and How to Use Them](../../Courses/Data%20Science/Advanced%20Data%20Visualizations-%2012%20Uncommon%20Plot%20Types%20and%20How%20to%20Use%20Them.md)
+- [Basics of Data Visualization Analysis](../../Courses/Data%20Science/Basics%20of%20Data%20Visualization%20Analysis.md)

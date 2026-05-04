@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Careers- Become a Penetration Tester]]
+- [Cybersecurity Careers- Become a Penetration Tester](../../Courses/Cybersecurity/Cybersecurity%20Careers-%20Become%20a%20Penetration%20Tester.md)

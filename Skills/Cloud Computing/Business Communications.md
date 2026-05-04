@@ -22,16 +22,16 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Tips for Writing Business Emails]] — 35m · 584,300 learners
+- [Tips for Writing Business Emails](../../Courses/Cloud%20Computing/Tips%20for%20Writing%20Business%20Emails.md) — 35m · 584,300 learners
 
 ## Related Skills
 
-- [[Email Etiquette]] — 1 shared course
+- [Email Etiquette](Email%20Etiquette.md) — 1 shared course
 
 ## Mentioned In Transcripts _(5 total mentions)_
 
-1. [[Learning Voip And Unified Communications]] — 1 mentions
-2. [[Analyzing VoIP Traffic with Wireshark]] — 1 mentions
-3. [[Learning XAI- Explainable Artificial Intelligence]] — 1 mentions
-4. [[Negotiation Foundations]] — 1 mentions
-5. [[Data Visualization Storytelling]] — 1 mentions
+1. [Learning Voip And Unified Communications](../../Courses/Cybersecurity/Learning%20Voip%20And%20Unified%20Communications.md) — 1 mentions
+2. [Analyzing VoIP Traffic with Wireshark](../../Courses/Cybersecurity/Analyzing%20VoIP%20Traffic%20with%20Wireshark.md) — 1 mentions
+3. [Learning XAI- Explainable Artificial Intelligence](../../Courses/Artificial%20Intelligence%20(AI)/Learning%20XAI-%20Explainable%20Artificial%20Intelligence.md) — 1 mentions
+4. [Negotiation Foundations](../../Courses/Data%20Science/Negotiation%20Foundations.md) — 1 mentions
+5. [Data Visualization Storytelling](../../Courses/Data%20Science/Data%20Visualization%20Storytelling.md) — 1 mentions

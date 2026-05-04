@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # MapGuide
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Data Science]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Data Science](../../Topics/Data%20Science.md)
 
 ## Courses
 
-1. [[Learning MapGuide Open Source]] — 140 mentions
+1. [Learning MapGuide Open Source](../../Courses/Data%20Science/Learning%20MapGuide%20Open%20Source.md) — 140 mentions
 
 ## Learning Paths
 
-1. [[Advance Your Skills in GIS]] — 140 total mentions
+1. [Advance Your Skills in GIS](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20GIS.md) — 140 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

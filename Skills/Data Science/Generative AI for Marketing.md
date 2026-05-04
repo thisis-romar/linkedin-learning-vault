@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Build Your Generative AI Plan for Marketing Success]] — Beginner · 53m · 133,329 learners
-- [[Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung]] — 21m · 18,986 learners
+- [Build Your Generative AI Plan for Marketing Success](../../Courses/Artificial%20Intelligence%20(AI)/Build%20Your%20Generative%20AI%20Plan%20for%20Marketing%20Success.md) — Beginner · 53m · 133,329 learners
+- [Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung](../../Courses/Data%20Science/Nano%20Tips%20for%20Using%20Generative%20AI%20Tools%20for%20Better%20Marketing%20Outcomes%20with%20Joanna%20Yung.md) — 21m · 18,986 learners
 
 ## Related Skills
 
-- [[Artificial Intelligence (AI)]] — 2 shared courses
-- [[Marketing Strategy]] — 1 shared course
-- [[Digital Marketing]] — 1 shared course
-- [[Generative AI Tools]] — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 2 shared courses
+- [Marketing Strategy](Marketing%20Strategy.md) — 1 shared course
+- [Digital Marketing](Digital%20Marketing.md) — 1 shared course
+- [Generative AI Tools](../Artificial%20Intelligence%20(AI)/Generative%20AI%20Tools.md) — 1 shared course

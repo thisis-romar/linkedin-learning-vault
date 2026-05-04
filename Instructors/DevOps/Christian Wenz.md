@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[C- Test-Driven Development]]
-- [[Building Web APIs with ASP.NET Core 8]]
+- [C- Test-Driven Development](../../Courses/DevOps/C-%20Test-Driven%20Development.md)
+- [Building Web APIs with ASP.NET Core 8](../../Courses/Web%20Development/Building%20Web%20APIs%20with%20ASP.NET%20Core%208.md)

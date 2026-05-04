@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Negotiation Foundations]] — 1h 5m · 302,109 learners
+- [Negotiation Foundations](../../Courses/Data%20Science/Negotiation%20Foundations.md) — 1h 5m · 302,109 learners

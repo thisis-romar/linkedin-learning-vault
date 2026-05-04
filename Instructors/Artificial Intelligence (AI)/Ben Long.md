@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI Imaging- What Creative Pros Need to Know]]
-- [[Stable Diffusion- Tips, Tricks, and Techniques]]
+- [Generative AI Imaging- What Creative Pros Need to Know](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20Imaging-%20What%20Creative%20Pros%20Need%20to%20Know.md)
+- [Stable Diffusion- Tips, Tricks, and Techniques](../../Courses/Artificial%20Intelligence%20(AI)/Stable%20Diffusion-%20Tips%2C%20Tricks%2C%20and%20Techniques.md)

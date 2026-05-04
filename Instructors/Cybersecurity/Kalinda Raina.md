@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Privacy in the New World of Work]]
+- [Privacy in the New World of Work](../../Courses/Cybersecurity/Privacy%20in%20the%20New%20World%20of%20Work.md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Project Management- International Projects]] — 1h · 354,234 learners
+- [Project Management- International Projects](../../Courses/Cybersecurity/Project%20Management-%20International%20Projects.md) — 1h · 354,234 learners

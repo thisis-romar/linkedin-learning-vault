@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[The AI-Driven Cybersecurity Analyst]] — Beginner · 32m · 11,039 learners
+- [The AI-Driven Cybersecurity Analyst](../../Courses/Artificial%20Intelligence%20(AI)/The%20AI-Driven%20Cybersecurity%20Analyst.md) — Beginner · 32m · 11,039 learners
 
 ## Related Skills
 
-- [[Cybersecurity Tools]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
-- [[Generative AI]] — 1 shared course
+- [Cybersecurity Tools](Cybersecurity%20Tools.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
+- [Generative AI](../Artificial%20Intelligence%20(AI)/Generative%20AI.md) — 1 shared course

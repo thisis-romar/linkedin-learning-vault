@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure Storage Essential Training (2021)]]
+- [Azure Storage Essential Training (2021)](../../Courses/Cloud%20Computing/Azure%20Storage%20Essential%20Training%20(2021).md)

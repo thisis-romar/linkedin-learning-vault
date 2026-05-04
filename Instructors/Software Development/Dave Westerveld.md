@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[API Testing Foundations]]
-- [[SQL for Testers]]
+- [API Testing Foundations](../../Courses/Software%20Development/API%20Testing%20Foundations.md)
+- [SQL for Testers](../../Courses/Software%20Development/SQL%20for%20Testers.md)

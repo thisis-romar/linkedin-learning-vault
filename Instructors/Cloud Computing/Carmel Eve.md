@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure Data Lake for Developers]]
+- [Azure Data Lake for Developers](../../Courses/Cloud%20Computing/Azure%20Data%20Lake%20for%20Developers.md)

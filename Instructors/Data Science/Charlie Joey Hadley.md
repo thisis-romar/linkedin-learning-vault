@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning the R Tidyverse]]
-- [[Creating Maps with R]]
+- [Learning the R Tidyverse](../../Courses/Data%20Science/Learning%20the%20R%20Tidyverse.md)
+- [Creating Maps with R](../../Courses/Data%20Science/Creating%20Maps%20with%20R.md)

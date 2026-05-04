@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Software Development- Dealing with Legacy Code and Technical Debt]]
+- [Agile Software Development- Dealing with Legacy Code and Technical Debt](../../Courses/DevOps/Agile%20Software%20Development-%20Dealing%20with%20Legacy%20Code%20and%20Technical%20Debt.md)

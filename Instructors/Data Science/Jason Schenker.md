@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data, Economic Modeling, and Forecasting with Stata]]
+- [Data, Economic Modeling, and Forecasting with Stata](../../Courses/Data%20Science/Data%2C%20Economic%20Modeling%2C%20and%20Forecasting%20with%20Stata.md)

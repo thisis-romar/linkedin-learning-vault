@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning QGIS]] — Beginner · 2h 57m · 48,995 learners
-- [[QGIS and Python for AEC]] — Intermediate · 2h 18m · 19,120 learners
+- [Learning QGIS](../../Courses/Data%20Science/Learning%20QGIS.md) — Beginner · 2h 57m · 48,995 learners
+- [QGIS and Python for AEC](../../Courses/Data%20Science/QGIS%20and%20Python%20for%20AEC.md) — Intermediate · 2h 18m · 19,120 learners
 
 ## Related Skills
 
-- [[AEC]] — 1 shared course
-- [[Python (Programming Language)]] — 1 shared course
+- [AEC](AEC.md) — 1 shared course
+- [Python (Programming Language)](../Software%20Development/Python%20(Programming%20Language).md) — 1 shared course

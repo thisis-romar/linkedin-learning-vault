@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # Building Accessibility
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Web Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Web Development](../../Topics/Web%20Development.md)
 
 ## Courses
 
-1. [[Web Accessibility for Developers]] — 1 mentions
+1. [Web Accessibility for Developers](../../Courses/Web%20Development/Web%20Accessibility%20for%20Developers.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Prepare for Digital Accessibility]] — 1 total mentions
+1. [Prepare for Digital Accessibility](../../Paths/Web%20Development/Learning%20Paths/Prepare%20for%20Digital%20Accessibility.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Principle for UX Design]] — 3h 13m · 10,547 learners
+- [Principle for UX Design](../../Courses/Web%20Development/Principle%20for%20UX%20Design.md) — 3h 13m · 10,547 learners
 
 ## Related Skills
 
-- [[User Interface Prototyping]] — 1 shared course
-- [[User Experience (UX)]] — 1 shared course
+- [User Interface Prototyping](User%20Interface%20Prototyping.md) — 1 shared course
+- [User Experience (UX)](User%20Experience%20(UX).md) — 1 shared course
 
 ## Mentioned In Transcripts _(3 total mentions)_
 
-1. [[Principle for UX Design]] — 3 mentions
+1. [Principle for UX Design](../../Courses/Web%20Development/Principle%20for%20UX%20Design.md) — 3 mentions

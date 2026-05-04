@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Java Essential Training- Objects and APIs]]
-- [[Hands-On Introduction- Java]]
+- [Java Essential Training- Objects and APIs](../../Courses/Software%20Development/Java%20Essential%20Training-%20Objects%20and%20APIs.md)
+- [Hands-On Introduction- Java](../../Courses/Software%20Development/Hands-On%20Introduction-%20Java.md)

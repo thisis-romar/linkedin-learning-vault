@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — Beginner · 4,680 learners
-- [[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]] — Beginner · 1h 13m · 1,919 learners
+- [Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Ai%20In%20Your%20Nonprofit%20Role%20By%20Microsoft%20And%20Nethope.md) — Beginner · 4,680 learners
+- [Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.md) — Beginner · 1h 13m · 1,919 learners
 
 ## Related Skills
 
-- [[Nonprofit Organizations]] — 2 shared courses
-- [[Artificial Intelligence (AI)]] — 2 shared courses
-- [[AI Readiness]] — 1 shared course
+- [Nonprofit Organizations](Nonprofit%20Organizations.md) — 2 shared courses
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 2 shared courses
+- [AI Readiness](AI%20Readiness.md) — 1 shared course

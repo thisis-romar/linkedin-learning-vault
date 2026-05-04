@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Reading Corporate Financial Statements]]
+- [Reading Corporate Financial Statements](../../Courses/Data%20Science/Reading%20Corporate%20Financial%20Statements.md)

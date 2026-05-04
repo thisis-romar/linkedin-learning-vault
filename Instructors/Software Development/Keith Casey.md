@@ -22,6 +22,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Designing RESTful APIs]]
-- [[API Testing and Validation]]
-- [[Web Security- OAuth and OpenID Connect]]
+- [Designing RESTful APIs](../../Courses/Software%20Development/Designing%20RESTful%20APIs.md)
+- [API Testing and Validation](../../Courses/Software%20Development/API%20Testing%20and%20Validation.md)
+- [Web Security- OAuth and OpenID Connect](../../Courses/Software%20Development/Web%20Security-%20OAuth%20and%20OpenID%20Connect.md)

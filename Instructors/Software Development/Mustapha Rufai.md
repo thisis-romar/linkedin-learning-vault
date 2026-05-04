@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[JavaScript- Recursion]]
+- [JavaScript- Recursion](../../Courses/Software%20Development/JavaScript-%20Recursion.md)

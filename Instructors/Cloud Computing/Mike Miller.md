@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Careers- Become a Security Auditor]]
+- [Cybersecurity Careers- Become a Security Auditor](../../Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Security%20Auditor.md)

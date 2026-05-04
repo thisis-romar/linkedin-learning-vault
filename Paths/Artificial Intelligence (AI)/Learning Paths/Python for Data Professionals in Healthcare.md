@@ -21,23 +21,23 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Python for Health Sciences and Healthcare]]"
+  - course: "[Python for Health Sciences and Healthcare](../../../Courses/Data%20Science/Python%20for%20Health%20Sciences%20and%20Healthcare.md)"
     last_opened:
     open_count: 0
     videos: []
-  - course: "[[Python Data Analysis for Healthcare]]"
+  - course: "[Python Data Analysis for Healthcare](../../../Courses/Data%20Science/Python%20Data%20Analysis%20for%20Healthcare.md)"
     last_opened:
     open_count: 0
     videos: []
-  - course: "[[Hands-on Data Science and AI for Healthcare]]"
+  - course: "[Hands-on Data Science and AI for Healthcare](../../../Courses/Data%20Science/Hands-on%20Data%20Science%20and%20AI%20for%20Healthcare.md)"
     last_opened:
     open_count: 0
     videos: []
-  - course: "[[An Introduction to How Generative AI Will Transform Healthcare]]"
+  - course: "[An Introduction to How Generative AI Will Transform Healthcare](../../../Courses/Artificial%20Intelligence%20(AI)/An%20Introduction%20to%20How%20Generative%20AI%20Will%20Transform%20Healthcare.md)"
     last_opened:
     open_count: 0
     videos: []
-  - course: "[[Machine Learning Fundamentals for Healthcare]]"
+  - course: "[Machine Learning Fundamentals for Healthcare](../../../Courses/Data%20Science/Machine%20Learning%20Fundamentals%20for%20Healthcare.md)"
     last_opened:
     open_count: 0
     videos: []
@@ -56,29 +56,29 @@ created: 2026-05-03
 
 ## Courses
 
-1. [[Python for Health Sciences and Healthcare]] _(2h 8m)_
-2. [[Python Data Analysis for Healthcare]] _(2h 48m)_
-3. [[Hands-on Data Science and AI for Healthcare]] _(39m)_
-4. [[An Introduction to How Generative AI Will Transform Healthcare]] _(53m)_
-5. [[Machine Learning Fundamentals for Healthcare]] _(1h 36m)_
+1. [Python for Health Sciences and Healthcare](../../../Courses/Data%20Science/Python%20for%20Health%20Sciences%20and%20Healthcare.md) _(2h 8m)_
+2. [Python Data Analysis for Healthcare](../../../Courses/Data%20Science/Python%20Data%20Analysis%20for%20Healthcare.md) _(2h 48m)_
+3. [Hands-on Data Science and AI for Healthcare](../../../Courses/Data%20Science/Hands-on%20Data%20Science%20and%20AI%20for%20Healthcare.md) _(39m)_
+4. [An Introduction to How Generative AI Will Transform Healthcare](../../../Courses/Artificial%20Intelligence%20(AI)/An%20Introduction%20to%20How%20Generative%20AI%20Will%20Transform%20Healthcare.md) _(53m)_
+5. [Machine Learning Fundamentals for Healthcare](../../../Courses/Data%20Science/Machine%20Learning%20Fundamentals%20for%20Healthcare.md) _(1h 36m)_
 
 ## Course Flow
 
-1. [[Python for Health Sciences and Healthcare]] → 2. [[Python Data Analysis for Healthcare]] → 3. [[Hands-on Data Science and AI for Healthcare]] → 4. [[An Introduction to How Generative AI Will Transform Healthcare]] → 5. [[Machine Learning Fundamentals for Healthcare]]
+1. [Python for Health Sciences and Healthcare](../../../Courses/Data%20Science/Python%20for%20Health%20Sciences%20and%20Healthcare.md) → 2. [Python Data Analysis for Healthcare](../../../Courses/Data%20Science/Python%20Data%20Analysis%20for%20Healthcare.md) → 3. [Hands-on Data Science and AI for Healthcare](../../../Courses/Data%20Science/Hands-on%20Data%20Science%20and%20AI%20for%20Healthcare.md) → 4. [An Introduction to How Generative AI Will Transform Healthcare](../../../Courses/Artificial%20Intelligence%20(AI)/An%20Introduction%20to%20How%20Generative%20AI%20Will%20Transform%20Healthcare.md) → 5. [Machine Learning Fundamentals for Healthcare](../../../Courses/Data%20Science/Machine%20Learning%20Fundamentals%20for%20Healthcare.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Data Science]]
-- [[Software Development]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Data Science](../../../Topics/Data%20Science.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Hands-On Healthcare Analytics]] (4 shared courses)
-- [[AI for Healthcare- Essentials for Technical Roles]] (3 shared courses)
+- [Hands-On Healthcare Analytics](../../Data%20Science/Learning%20Paths/Hands-On%20Healthcare%20Analytics.md) (4 shared courses)
+- [AI for Healthcare- Essentials for Technical Roles](AI%20for%20Healthcare-%20Essentials%20for%20Technical%20Roles.md) (3 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

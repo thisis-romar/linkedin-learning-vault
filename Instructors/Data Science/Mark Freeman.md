@@ -28,5 +28,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Quality- Core Concepts]]
-- [[Data Engineering With Dbt]]
+- [Data Quality- Core Concepts](../../Courses/Artificial%20Intelligence%20(AI)/Data%20Quality-%20Core%20Concepts.md)
+- [Data Engineering With Dbt](../../Courses/Data%20Science/Data%20Engineering%20With%20Dbt.md)

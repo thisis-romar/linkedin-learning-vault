@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Problem-Solving Strategies for Data Engineers]]
-- [[Graph Databases- Neo4j for Complex Data Relationships]]
+- [Problem-Solving Strategies for Data Engineers](../../Courses/Data%20Science/Problem-Solving%20Strategies%20for%20Data%20Engineers.md)
+- [Graph Databases- Neo4j for Complex Data Relationships](../../Courses/Database%20Management/Graph%20Databases-%20Neo4j%20for%20Complex%20Data%20Relationships.md)

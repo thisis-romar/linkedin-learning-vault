@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[ChatGPT and SQL]]
+- [ChatGPT and SQL](../../Courses/Artificial%20Intelligence%20(AI)/ChatGPT%20and%20SQL.md)

@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[ProtoPie for UX Design]] — Intermediate · 1h 6m · 101,046 learners
+- [ProtoPie for UX Design](../../Courses/Web%20Development/ProtoPie%20for%20UX%20Design.md) — Intermediate · 1h 6m · 101,046 learners
 
 ## Related Skills
 
-- [[User Experience Design (UED)]] — 1 shared course
+- [User Experience Design (UED)](User%20Experience%20Design%20(UED).md) — 1 shared course
 
 ## Mentioned In Transcripts _(66 total mentions)_
 
-1. [[ProtoPie for UX Design]] — 66 mentions
+1. [ProtoPie for UX Design](../../Courses/Web%20Development/ProtoPie%20for%20UX%20Design.md) — 66 mentions

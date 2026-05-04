@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building the Classic Snake Game with Python]] — Intermediate · 1h 17m · 101,584 learners
+- [Building the Classic Snake Game with Python](../../Courses/Software%20Development/Building%20the%20Classic%20Snake%20Game%20with%20Python.md) — Intermediate · 1h 17m · 101,584 learners
 
 ## Related Skills
 
-- [[Python (Programming Language)]] — 1 shared course
+- [Python (Programming Language)](Python%20(Programming%20Language).md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Building the Classic Snake Game with Python]] — 1 mentions
+1. [Building the Classic Snake Game with Python](../../Courses/Software%20Development/Building%20the%20Classic%20Snake%20Game%20with%20Python.md) — 1 mentions

@@ -20,6 +20,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Xcode 15 Essential Training]]
-- [[iOS 17 Development Essential Training]]
-- [[Building Your First iOS 17 App]]
+- [Xcode 15 Essential Training](../../Courses/Mobile%20Development/Xcode%2015%20Essential%20Training.md)
+- [iOS 17 Development Essential Training](../../Courses/Mobile%20Development/iOS%2017%20Development%20Essential%20Training.md)
+- [Building Your First iOS 17 App](../../Courses/Mobile%20Development/Building%20Your%20First%20iOS%2017%20App.md)

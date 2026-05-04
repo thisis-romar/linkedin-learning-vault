@@ -28,4 +28,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Succeeding in DevOps]]
+- [Succeeding in DevOps](../../Courses/Cloud%20Computing/Succeeding%20in%20DevOps.md)

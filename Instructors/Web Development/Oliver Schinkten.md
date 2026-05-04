@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Foundations of Accessible Elearning]]
+- [Foundations of Accessible Elearning](../../Courses/Web%20Development/Foundations%20of%20Accessible%20Elearning.md)

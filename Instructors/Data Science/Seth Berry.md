@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Level Up- Python Data Acquisitions, Prep, and EDA]]
+- [Level Up- Python Data Acquisitions, Prep, and EDA](../../Courses/Data%20Science/Level%20Up-%20Python%20Data%20Acquisitions%2C%20Prep%2C%20and%20EDA.md)

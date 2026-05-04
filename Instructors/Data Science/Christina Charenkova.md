@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Business Analysis for Busy Professionals]]
+- [Business Analysis for Busy Professionals](../../Courses/Data%20Science/Business%20Analysis%20for%20Busy%20Professionals.md)

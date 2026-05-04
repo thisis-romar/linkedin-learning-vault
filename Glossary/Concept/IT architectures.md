@@ -19,18 +19,18 @@ created: 2026-05-03
 
 # IT architectures
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[DevOps]], [[Network and System Administration]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [DevOps](../../Topics/DevOps.md), [Network and System Administration](../../Topics/Network%20and%20System%20Administration.md)
 
 ## Courses
 
-1. [[Introduction to IT Architecture]] — 7 mentions
+1. [Introduction to IT Architecture](../../Courses/DevOps/Introduction%20to%20IT%20Architecture.md) — 7 mentions
 
 ## Learning Paths
 
-1. [[ServiceNow IT Leadership Professional Certificate]] — 7 total mentions
+1. [ServiceNow IT Leadership Professional Certificate](../../Paths/DevOps/Professional%20Certificates/ServiceNow%20IT%20Leadership%20Professional%20Certificate.md) — 7 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

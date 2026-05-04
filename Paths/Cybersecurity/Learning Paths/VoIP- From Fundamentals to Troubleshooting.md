@@ -19,15 +19,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Learning Voip And Unified Communications]]'
+  - course: '[Learning Voip And Unified Communications](../../../Courses/Cybersecurity/Learning%20Voip%20And%20Unified%20Communications.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Analyzing VoIP Traffic with Wireshark]]'
+  - course: '[Analyzing VoIP Traffic with Wireshark](../../../Courses/Cybersecurity/Analyzing%20VoIP%20Traffic%20with%20Wireshark.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Troubleshooting VOIP- Identify and Resolve Common VOIP Issues]]'
+  - course: '[Troubleshooting VOIP- Identify and Resolve Common VOIP Issues](../../../Courses/Cybersecurity/Troubleshooting%20VOIP-%20Identify%20and%20Resolve%20Common%20VOIP%20Issues.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -42,25 +42,25 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Learning Voip And Unified Communications]]
-2. [[Analyzing VoIP Traffic with Wireshark]] _(1h 33m)_
-3. [[Troubleshooting VOIP- Identify and Resolve Common VOIP Issues]] _(1h 30m)_
+1. [Learning Voip And Unified Communications](../../../Courses/Cybersecurity/Learning%20Voip%20And%20Unified%20Communications.md)
+2. [Analyzing VoIP Traffic with Wireshark](../../../Courses/Cybersecurity/Analyzing%20VoIP%20Traffic%20with%20Wireshark.md) _(1h 33m)_
+3. [Troubleshooting VOIP- Identify and Resolve Common VOIP Issues](../../../Courses/Cybersecurity/Troubleshooting%20VOIP-%20Identify%20and%20Resolve%20Common%20VOIP%20Issues.md) _(1h 30m)_
 
 ## Course Flow
 
-1. [[Learning Voip And Unified Communications]] → 2. [[Analyzing VoIP Traffic with Wireshark]] → 3. [[Troubleshooting VOIP- Identify and Resolve Common VOIP Issues]]
+1. [Learning Voip And Unified Communications](../../../Courses/Cybersecurity/Learning%20Voip%20And%20Unified%20Communications.md) → 2. [Analyzing VoIP Traffic with Wireshark](../../../Courses/Cybersecurity/Analyzing%20VoIP%20Traffic%20with%20Wireshark.md) → 3. [Troubleshooting VOIP- Identify and Resolve Common VOIP Issues](../../../Courses/Cybersecurity/Troubleshooting%20VOIP-%20Identify%20and%20Resolve%20Common%20VOIP%20Issues.md)
 
 ## Topics
 
-- [[Cybersecurity]]
-- [[Network and System Administration]]
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Wireshark- Network Traffic Analysis]] (1 shared courses)
+- [Wireshark- Network Traffic Analysis](Wireshark-%20Network%20Traffic%20Analysis.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cybersecurity]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cybersecurity](../../../Topics/Cybersecurity.md)

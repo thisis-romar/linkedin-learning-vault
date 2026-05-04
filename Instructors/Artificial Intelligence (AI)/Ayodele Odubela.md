@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to Auditing AI Systems]]
+- [Introduction to Auditing AI Systems](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Auditing%20AI%20Systems.md)

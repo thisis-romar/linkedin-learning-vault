@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure AI Engineering- Speech, Language, and Vision Solutions]]
+- [Azure AI Engineering- Speech, Language, and Vision Solutions](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Engineering-%20Speech%2C%20Language%2C%20and%20Vision%20Solutions.md)

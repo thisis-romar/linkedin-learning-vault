@@ -26,8 +26,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Process Mining for Robotic Process Automation]]
-- [[Rpa Ai And Cognitive Tech For Leaders]]
-- [[The Startup-SMB Guide to Integrating and Managing AI Agents]]
-- [[Intelligent Automation Foundations]]
-- [[Process Discovery for Robotic Process Automation]]
+- [Process Mining for Robotic Process Automation](../../Courses/Network%20and%20System%20Administration/Process%20Mining%20for%20Robotic%20Process%20Automation.md)
+- [Rpa Ai And Cognitive Tech For Leaders](../../Courses/Cloud%20Computing/Rpa%20Ai%20And%20Cognitive%20Tech%20For%20Leaders.md)
+- [The Startup-SMB Guide to Integrating and Managing AI Agents](../../Courses/Artificial%20Intelligence%20(AI)/The%20Startup-SMB%20Guide%20to%20Integrating%20and%20Managing%20AI%20Agents.md)
+- [Intelligent Automation Foundations](../../Courses/Software%20Development/Intelligent%20Automation%20Foundations.md)
+- [Process Discovery for Robotic Process Automation](../../Courses/Network%20and%20System%20Administration/Process%20Discovery%20for%20Robotic%20Process%20Automation.md)

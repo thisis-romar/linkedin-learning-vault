@@ -18,9 +18,9 @@ github: "https://github.com/LinkedInLearning/build-advanced-charts-in-r-4405613"
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHDgvGBnVrA3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692390095857?e=2147483647&amp;v=beta&amp;t=O4GASJztQQ9RHPg7gemZ9An0qCC32UK3t4EQVJAXzOc"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Advance Your Skills in R]]'
+  - '[Advance Your Skills in R](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20R.md)'
 prev_courses:
-  - '[[Creating Maps with R]]'
+  - '[Creating Maps with R](Creating%20Maps%20with%20R.md)'
 path_nav: '[{"path":"Advance Your Skills in R","position":8,"total":8,"prev":"Creating Maps with R","next":null}]'
 path_count: 1
 tags:
@@ -83,24 +83,24 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980&t=0)** - [Rita] R is very powerful to produce data visualization. With it, you can create a different kind of chart and showcase your data. In this course, you will learn how to create a chart diagram and how to design alternative charts to bar chart and line chart. At the end of the course, you will be able to create simple [[Infographics]], adding a different chart together, and also, you will learn how to add the notations. Hi, I'm Rita Giordano, a data visualization consultant and R practitioner. Join me to learn now to create advanced chart with R.
+> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980&t=0)** - [Rita] R is very powerful to produce data visualization. With it, you can create a different kind of chart and showcase your data. In this course, you will learn how to create a chart diagram and how to design alternative charts to bar chart and line chart. At the end of the course, you will be able to create simple [Infographics](../../Skills/Software%20Development/Infographics.md), adding a different chart together, and also, you will learn how to add the notations. Hi, I'm Rita Giordano, a data visualization consultant and R practitioner. Join me to learn now to create advanced chart with R.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infographics]] (1)
+> **Frameworks & Libraries:** [Infographics](../../Skills/Software%20Development/Infographics.md) (1)
 > **Speakers:** - [rita] (1)
 
 #### [What you should know](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=0)** - [Instructor] This course will help you to create advanced chart with R. To follow along in this course, you need to know R quite well, especially the function from the base library and how to create a function yourself. Also, good knowledge of the [[RStudio]] environment are important. For example, how to create a script, how to open a script, and how to run the code. It's also important to know how to install packages, that you can do it directly in RStudio using the Install Package manager here. Or you can do it doing the function install.packages with the name of the package that you need to install. It is significant to have some basic knowledge of tidyverse and a good command of ggplot2 for this course. Most of the library that we will use are based on ggplot2. So, if you need a refresher on ggplot2, you can go on the library of [[LinkedIn]] Learning and here, you will find several course where you can refresh your knowledge. And also, if you need something about Tidyverse, you can also explore the LinkedIn Learning library. Before starting the course, please install the package that we will use. These are circlize, cowplot, tidyverse, ggrepel, and ggsci, ggpp, RColorBrewer, colorblindr, ggpubr, and recolorize. Install them before moving on
+> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=0)** - [Instructor] This course will help you to create advanced chart with R. To follow along in this course, you need to know R quite well, especially the function from the base library and how to create a function yourself. Also, good knowledge of the [RStudio](../../Skills/Software%20Development/RStudio.md) environment are important. For example, how to create a script, how to open a script, and how to run the code. It's also important to know how to install packages, that you can do it directly in RStudio using the Install Package manager here. Or you can do it doing the function install.packages with the name of the package that you need to install. It is significant to have some basic knowledge of tidyverse and a good command of ggplot2 for this course. Most of the library that we will use are based on ggplot2. So, if you need a refresher on ggplot2, you can go on the library of [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning and here, you will find several course where you can refresh your knowledge. And also, if you need something about Tidyverse, you can also explore the LinkedIn Learning library. Before starting the course, please install the package that we will use. These are circlize, cowplot, tidyverse, ggrepel, and ggsci, ggpp, RColorBrewer, colorblindr, ggpubr, and recolorize. Install them before moving on
 >
 > **[1:35](https://www.linkedin.com/learning/build-advanced-charts-in-r/what-you-should-know?u=76281980&t=95)** and start to create our charts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [RStudio](../../Skills/Software%20Development/RStudio.md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2)
 > **Prerequisites:** install (6)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -110,11 +110,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=0)** - [Instructor] All the codes I will use in this course are stored on a [[GitHub]] repository. The codes are separated into branches for each video. To access the code for the corresponding video, first, select the branch. You'll notice that if we select 01_01, there are two branches, one ending with B and one ending with E. Well, we have that B stand for the beginning so we will have the script at the beginning of the video, and E stand for end. At the beginning of each video, you will see the name of the branch. So if you are seeing the video 01_01, you will see this name. To download the code on your machine, simply go on Code, then click on Download ZIP, and then proceed to the download into the folder on your local machine. Another way is to use [[RStudio]]. So we can copy this, the link, and if we go in RStudio, we can create here a new project, and we will click on [[Version Control]], we select [[Git]], and here we paste the name of the repository, we select our folder and we create our repository. Now we are ready to start our course.
+> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/using-exercise-files?u=76281980&t=0)** - [Instructor] All the codes I will use in this course are stored on a [GitHub](../../Skills/Software%20Development/GitHub.md) repository. The codes are separated into branches for each video. To access the code for the corresponding video, first, select the branch. You'll notice that if we select 01_01, there are two branches, one ending with B and one ending with E. Well, we have that B stand for the beginning so we will have the script at the beginning of the video, and E stand for end. At the beginning of each video, you will see the name of the branch. So if you are seeing the video 01_01, you will see this name. To download the code on your machine, simply go on Code, then click on Download ZIP, and then proceed to the download into the folder on your local machine. Another way is to use [RStudio](../../Skills/Software%20Development/RStudio.md). So we can copy this, the link, and if we go in RStudio, we can create here a new project, and we will click on [Version Control](../../Skills/Web%20Development/Version%20Control.md), we select [Git](../../Skills/Software%20Development/Git.md), and here we paste the name of the repository, we select our folder and we create our repository. Now we are ready to start our course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (2), [[GitHub]] (1), [[Version Control]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [RStudio](../../Skills/Software%20Development/RStudio.md) (2), [GitHub](../../Skills/Software%20Development/GitHub.md) (1), [Version Control](../../Skills/Web%20Development/Version%20Control.md) (1), [Git](../../Skills/Software%20Development/Git.md) (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** git (1)
 > **Env Vars:** zip (1)
@@ -131,11 +131,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=0)** - [Instructor] Exploring data represent a fundamental part of every data visualization task. To help you with this course, I create a data set containing information about renewable energy across the world. The data is already clean and the source is our [[Microsoft Word|word]] in data. Let's start to explore our data. To load the dataset, I use the library which include either library we'll use later, we'll read now the data using the function read_csv. We give the path our data with the name of the data set and I add show_col_types equal FALSE.
+> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=0)** - [Instructor] Exploring data represent a fundamental part of every data visualization task. To help you with this course, I create a data set containing information about renewable energy across the world. The data is already clean and the source is our [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) in data. Let's start to explore our data. To load the dataset, I use the library which include either library we'll use later, we'll read now the data using the function read_csv. We give the path our data with the name of the data set and I add show_col_types equal FALSE.
 >
 > **[0:52](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=52)** This will avoid printing on the console, the column type which we'll see later. We can explore and check the dataset name when containing all the variable. The first variable name territory includes the country and continents. The next variable country code which is an A for continents. If we scroll down, we see for Algeria that we have a country code. After we have type, which indicate whether a target is a country or continent here that span from 1990 to 2021.
 >
-> **[1:37](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=97)** There is share of electricity that show the percentage of primary energy from renewable sources. And here we have the renewable sources, the last four variables, and we have geo_biomass_other which indicate geothermal, biomass and other energies. Solar generation, which is solar energy, wind generation, wind energy, hydro generation, which is hydropower. And this source of energy are in TWh. Another way to check the name of the column is to use the function names(ren), and when we run, we see in the console the name of our column, targeter type and so on. We can also now check the column using the function spec(ren). And we see here that we have free column that are character and the other columns that are double numerical. To have a quick [[Statistics]], we use the function summary and we type (ren) but this time we saw that the three variable are character. So I only type from column 4 to column 9 because I wanted the summary only
+> **[1:37](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=97)** There is share of electricity that show the percentage of primary energy from renewable sources. And here we have the renewable sources, the last four variables, and we have geo_biomass_other which indicate geothermal, biomass and other energies. Solar generation, which is solar energy, wind generation, wind energy, hydro generation, which is hydropower. And this source of energy are in TWh. Another way to check the name of the column is to use the function names(ren), and when we run, we see in the console the name of our column, targeter type and so on. We can also now check the column using the function spec(ren). And we see here that we have free column that are character and the other columns that are double numerical. To have a quick [Statistics](../../Skills/Data%20Science/Statistics.md), we use the function summary and we type (ren) but this time we saw that the three variable are character. So I only type from column 4 to column 9 because I wanted the summary only
 >
 > **[3:13](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980&t=193)** of the variables that are numeric. So I run, and I can see here in the console, the minimum,
 >
@@ -143,7 +143,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1), [Statistics](../../Skills/Data%20Science/Statistics.md) (1)
 > **Code Identifiers:** read_csv (1), show_col_types (1), geo_biomass_other (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -192,7 +192,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980&t=0)** - [Instructor] In this chapter we will learn how to create a circular visualization with the library circlize. The goal is to create a chart diagram with the data we explored to show relationship between different element. One advantage of circlize is that it's very customizable. When we talk about the circular diagram we have that circlize make a transformation between the Cartesian coordinate system of the data to polar coordinate. Last, circlize transform into canvas coordinate, and this goes for the x and y-axis from minus one to one and minus one to one. Another important feature to understand before building our chart diagram is tracks, sector, and cell. This space between the two circle represent the track. A sector is a space between two radii. And the intersection between the sectors and the track is the cell. And the cell has it's own C coordinate system x and y. Now we pass in the script. We first load the library circlize. And now here we define some sectors. Here you see I take a vector, and I put inside some name of some countries. And this is to show the example how to build the circular diagram, so I want the sector.
 >
-> **[1:35](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980&t=95)** And first of all, I need to initialize my layout. To initialize my layout I use the function circos.initialize. And I give the sectors that we already define and also the xlim that in this case I put to equal to the year range from 2000 to 2021. The xlim is the range on the x-axis inside the cell, as we saw in the previous slide. And when we run we see that we initialize our layout that we see an empty plot. Now that we have this empty canvas we can, to create the plotting region we use the function circos.track. And I define again the sectors. And this time I give it ylim. The ylim is the range on the y-axis, and that is equal to 15 and 100 because I want to span the value between 15 and 100. This is sort of a [[Simulation]] of the data that we saw in the previous chapter, but of course are not the real data. Now, we can use the argument panel.fun,
+> **[1:35](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980&t=95)** And first of all, I need to initialize my layout. To initialize my layout I use the function circos.initialize. And I give the sectors that we already define and also the xlim that in this case I put to equal to the year range from 2000 to 2021. The xlim is the range on the x-axis inside the cell, as we saw in the previous slide. And when we run we see that we initialize our layout that we see an empty plot. Now that we have this empty canvas we can, to create the plotting region we use the function circos.track. And I define again the sectors. And this time I give it ylim. The ylim is the range on the y-axis, and that is equal to 15 and 100 because I want to span the value between 15 and 100. This is sort of a [Simulation](../../Skills/Hardware/Simulation.md) of the data that we saw in the previous chapter, but of course are not the real data. Now, we can use the argument panel.fun,
 >
 > **[3:12](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980&t=192)** and when we use the parameter panel.fun I'll pass it to create the graphics for each cell. In this case we want to add the sector name and the axis on each cell in order that we can understand how this works. To do this I create a function, x, y. And inside this function I add the circos.text
 >
@@ -204,7 +204,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (1)
+> **Frameworks & Libraries:** [Simulation](../../Skills/Hardware/Simulation.md) (1)
 > **Env Vars:** cell_meta (2)
 > **Cross-References:** as we saw (1), previous chapter (1)
 > **CLI Commands:** make (1)
@@ -217,7 +217,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/prepare-your-data?u=76281980&t=0)** - [Instructor] Now let's start seeing how to shape the data to create a chart diagram. I want to show the relationship between the countries and the different source of renewable energy. We load the library tidyverse and we read the data. To create the chart diagram, I want to look at the data for 2021 and they want to remove the countries that have a share of energy equal to zero. So I run this data and score zero where I selected this data. Now we can run a summary [[Statistics]] for this dataset
+> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/prepare-your-data?u=76281980&t=0)** - [Instructor] Now let's start seeing how to shape the data to create a chart diagram. I want to show the relationship between the countries and the different source of renewable energy. We load the library tidyverse and we read the data. To create the chart diagram, I want to look at the data for 2021 and they want to remove the countries that have a share of energy equal to zero. So I run this data and score zero where I selected this data. Now we can run a summary [Statistics](../../Skills/Data%20Science/Statistics.md) for this dataset
 >
 > **[0:42](https://www.linkedin.com/learning/build-advanced-charts-in-r/prepare-your-data?u=76281980&t=42)** and we can see that in 2021, average share of electricity is 35%. So I want to select all the data where the countries have a share of renewable energy per electricity, bigger than 35%. That is the mean value in 2021. So we create a new data set that we call data_35. And I use data_0
 >
@@ -243,7 +243,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1)
+> **Frameworks & Libraries:** [Statistics](../../Skills/Data%20Science/Statistics.md) (1)
 > **Code Identifiers:** pivot_longer (2), pivot_wider (2), renewable_wider (1), country_code (1), str_remove (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -300,7 +300,7 @@ created: 2026-05-03
 >
 > **[1:53](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980&t=113)** and we define that the length of our replication is the col names of the matrix. Now, we give here again us names that I want the col names in order that I have all the countries defined here. And last, I create a color grid for the chord diagram. Now that we have defined the colors, we define our last variable that is called col_grid, and this variable contains the two-color vector that we defined before, and then we create this variable to pass later to circlize. So in this variable, we add the source color and the country color. We run, and we can inspect col-grid and see that now, for each of our variable, we have a color assigned. So renewable energies have their color, and our country that are here, they have the same color. Now, we have to pass this function here after the small gap, and we use the parameter grid.col
 >
-> **[3:34](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980&t=214)** equal to our variable col_grid. And for the [[Representational State Transfer (REST)|rest]], we don't need to add any other variable, because this is the same code of before. So we run. And here, we obtain our chord diagram, where now the colors are the one that we define at the beginning, and then for the country, we have only one color. This is more easy to recognize for the reader. Now that we changed the color of our chord diagram, we can add title and footnotes, and we will use the function title and text from base R. So here we go. At the title, we will use the function title, and here, I will give the title "Renewable source of energy per countries".
+> **[3:34](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980&t=214)** equal to our variable col_grid. And for the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md), we don't need to add any other variable, because this is the same code of before. So we run. And here, we obtain our chord diagram, where now the colors are the one that we define at the beginning, and then for the country, we have only one color. This is more easy to recognize for the reader. Now that we changed the color of our chord diagram, we can add title and footnotes, and we will use the function title and text from base R. So here we go. At the title, we will use the function title, and here, I will give the title "Renewable source of energy per countries".
 >
 > **[4:48](https://www.linkedin.com/learning/build-advanced-charts-in-r/customize-your-chord-diagram?u=76281980&t=288)** And with cex, I can define the size that I give 10. And if I run, we can see that now, on the plot window, that we have our title, and we can add the footnote using text, minus 0.6 and minus one.
 >
@@ -314,7 +314,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Code Identifiers:** col_grid (2), source_color (1), source_palette (1)
 > **Versions:** 0.6 (1), 0.8 (1)
 > **CLI Commands:** find (1)
@@ -551,7 +551,7 @@ created: 2026-05-03
 >
 > **[3:44](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980&t=224)** So now we see again the four different type. And for deutanomaly and protanomaly, we see that blue and purple are not very distinguishable and then deutanomaly red and dark green are not distinguishable. So we can use the package we colorize that allow us to change this parameter to improve accessibility and we can play with the saturation and brightness. First of all, we need to convert our palette in RGB. And to do this I use the function col2rgb. I give my name and I divide for 255. Now that I have converted, I can create another variable brand_sat where I will use the function adjust_color because I want to adjust the second and the third color. So I use brand_rgb, indicate which color I want to change. So 2 and 3 and I changed the value for the saturation to 0.3 and the brightness to 0.9
 >
-> **[5:09](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980&t=309)** and I add the plotting equal TRUE to have the output here. So yeah, we can see how the color change for the second and the third. Now to test for colorblindness we have to convert to [[Xcode]]. So, and we use the function rgb on the variable brand_sat.
+> **[5:09](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980&t=309)** and I add the plotting equal TRUE to have the output here. So yeah, we can see how the color change for the second and the third. Now to test for colorblindness we have to convert to [Xcode](../../Skills/Mobile%20Development/Xcode.md). So, and we use the function rgb on the variable brand_sat.
 >
 > **[5:36](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980&t=336)** Now we can use cvd_grid to check. Now our brand palette is now change
 >
@@ -561,7 +561,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (1)
+> **Frameworks & Libraries:** [Xcode](../../Skills/Mobile%20Development/Xcode.md) (1)
 > **Code Identifiers:** cvd_grid (3), palette_plot (2), brand_sat (2), scale_colour_viridis (1), colour_brewer (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** rgb (1), true (1)
@@ -661,18 +661,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=0)** - [Rita] Thanks for completing this course. Well done on applying what you learn to a real data project. Now, that you have taken this course so you can create a customized chart diagram. You are also able to add the different charts to create the simple [[Infographics]]. I hope that you find the course available and applicable to your work. If you'd like to continue developing your skill I recommend you to have a look at the course [[Creating Maps with R]]. You could also try to add the map to your project. You could also explore the Patchwork package to combine the charts together or explore the function ggarrange from ggpubr. And I also encourage you to apply the lesson you have learned to create more complex infographics using R. If you are happy with the outcome please share it on [[LinkedIn]]. You can tag me so I can comment on it and celebrate your achievements. You can also reach me through my website or following me on LinkedIn. Thanks again for taking my course.
+> **[0:00](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980&t=0)** - [Rita] Thanks for completing this course. Well done on applying what you learn to a real data project. Now, that you have taken this course so you can create a customized chart diagram. You are also able to add the different charts to create the simple [Infographics](../../Skills/Software%20Development/Infographics.md). I hope that you find the course available and applicable to your work. If you'd like to continue developing your skill I recommend you to have a look at the course [Creating Maps with R](Creating%20Maps%20with%20R.md). You could also try to add the map to your project. You could also explore the Patchwork package to combine the charts together or explore the function ggarrange from ggpubr. And I also encourage you to apply the lesson you have learned to create more complex infographics using R. If you are happy with the outcome please share it on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md). You can tag me so I can comment on it and celebrate your achievements. You can also reach me through my website or following me on LinkedIn. Thanks again for taking my course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infographics]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [Infographics](../../Skills/Software%20Development/Infographics.md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [rita] (1)
 
 
 ## Instructor
 
-- [[Rita Giordano]]
+- [Rita Giordano](../../Instructors/Data%20Science/Rita%20Giordano.md)
 
 ## Resources
 
@@ -686,22 +686,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Advance Your Skills in R]]
-← [[Creating Maps with R]] | **8 of 8**
+### In [Advance Your Skills in R](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20R.md)
+← [Creating Maps with R](Creating%20Maps%20with%20R.md) | **8 of 8**
 
 ## Appears In
 
-- [[Advance Your Skills in R]]
+- [Advance Your Skills in R](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20R.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Complete Guide To R Wrangling Visualizing And Modeling Data]] — Data Visualization, R (Programming Language)
-- [[R for Data Science- Analysis and Visualization]] — Data Visualization, R (Programming Language)
-- [[Creating Maps with R]] — R (Programming Language)
-- [[R Tidyverse Applications]] — R (Programming Language)
-- [[Learning the R Tidyverse]] — R (Programming Language)
+- [Complete Guide To R Wrangling Visualizing And Modeling Data](Complete%20Guide%20To%20R%20Wrangling%20Visualizing%20And%20Modeling%20Data.md) — Data Visualization, R (Programming Language)
+- [R for Data Science- Analysis and Visualization](R%20for%20Data%20Science-%20Analysis%20and%20Visualization.md) — Data Visualization, R (Programming Language)
+- [Creating Maps with R](Creating%20Maps%20with%20R.md) — R (Programming Language)
+- [R Tidyverse Applications](R%20Tidyverse%20Applications.md) — R (Programming Language)
+- [Learning the R Tidyverse](Learning%20the%20R%20Tidyverse.md) — R (Programming Language)
 
 ---
 

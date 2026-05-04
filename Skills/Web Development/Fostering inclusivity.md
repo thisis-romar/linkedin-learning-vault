@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Making A Case For Accessibility In Your Organization]] — 117,566 learners
+- [Making A Case For Accessibility In Your Organization](../../Courses/Web%20Development/Making%20A%20Case%20For%20Accessibility%20In%20Your%20Organization.md) — 117,566 learners
 
 ## Related Skills
 
-- [[Building Accessibility]] — 1 shared course
-- [[Workplace Equity]] — 1 shared course
-- [[Diversity, Equity, Inclusion and Belonging (DEIB)]] — 1 shared course
+- [Building Accessibility](Building%20Accessibility.md) — 1 shared course
+- [Workplace Equity](Workplace%20Equity.md) — 1 shared course
+- [Diversity, Equity, Inclusion and Belonging (DEIB)](Diversity%2C%20Equity%2C%20Inclusion%20and%20Belonging%20(DEIB).md) — 1 shared course

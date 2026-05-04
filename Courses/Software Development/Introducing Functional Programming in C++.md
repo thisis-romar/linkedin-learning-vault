@@ -17,11 +17,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQH51xAl4RFJ0g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567117610592?e=2147483647&amp;v=beta&amp;t=tXzvEu1g5BOb63e5upc8jpo7c5FTHuFoKLz9x8bCdNo"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[Getting Started with C++]]'
+  - '[Getting Started with C++](../../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20with%20C%2B%2B.md)'
 prev_courses:
-  - '[[Complete Guide To C Plus Plus Programming Foundations]]'
+  - '[Complete Guide To C Plus Plus Programming Foundations](Complete%20Guide%20To%20C%20Plus%20Plus%20Programming%20Foundations.md)'
 next_courses:
-  - '[[Learning C++]]'
+  - '[Learning C++](Learning%20C%2B%2B.md)'
 path_nav: '[{"path":"Getting Started with C++","position":2,"total":5,"prev":"Complete Guide To C Plus Plus Programming Foundations","next":"Learning C++"}]'
 path_count: 1
 tags:
@@ -89,11 +89,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980&t=0)** - [Troy] [[Functional Programming]] in C++ allows you to write less code that is also more powerful. Functional programming teaches us to tell the computer what we want instead of telling it how to do it. Hi, I'm Troy Miles, and I've written award-winning games, popular mobile apps, and large-scale public websites. In this course, we'll explore different techniques and libraries to make our C++ code more functional.
+> **[0:00](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980&t=0)** - [Troy] [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) in C++ allows you to write less code that is also more powerful. Functional programming teaches us to tell the computer what we want instead of telling it how to do it. Hi, I'm Troy Miles, and I've written award-winning games, popular mobile apps, and large-scale public websites. In this course, we'll explore different techniques and libraries to make our C++ code more functional.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (2)
+> **Frameworks & Libraries:** [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [troy] (1)
 
@@ -101,11 +101,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/what-you-should-know?u=76281980&t=1)** - [Instructor] You should be an experienced C++ programmer. This is not a teach you to program C++ course. It is a course to teach you a different technique for programming C++. I am on a Mac using Visual Studio Code as my editor. However, any text editor you've used for C++ development will work fine. In Visual Studio Code, I have font ligatures turned on. This joins two characters next to each other into one. For instance, when I type a dash and a greater-than sign, it will display as a right arrow. I will be using the Clang Compiler from a command line. However, GCC and [[Microsoft]] compilers will also work. For this course, I've downloaded the Boost RxCpp and Catch2 libraries.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/what-you-should-know?u=76281980&t=1)** - [Instructor] You should be an experienced C++ programmer. This is not a teach you to program C++ course. It is a course to teach you a different technique for programming C++. I am on a Mac using Visual Studio Code as my editor. However, any text editor you've used for C++ development will work fine. In Visual Studio Code, I have font ligatures turned on. This joins two characters next to each other into one. For instance, when I type a dash and a greater-than sign, it will display as a right arrow. I will be using the Clang Compiler from a command line. However, GCC and [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) compilers will also work. For this course, I've downloaded the Boost RxCpp and Catch2 libraries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1)
+> **Frameworks & Libraries:** [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (1)
 > **Tools:** visual studio (2), command line (1)
 > **Env Vars:** gcc (1)
 > **Definitions:** is a  (1)
@@ -121,13 +121,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=1)** - [Narrator] [[Functional Programming]] has many benefits. Here are my top three. Pure functions are simple by design making them understandable. Without classes and by emphasizing pure functions our code is easier to debug and test and since we lack mutable state, multi-threading is achievable. What does it mean to program in a functional style? The answer depends on who you ask, but here are a few common trades. We try to avoid data mutations so all of our variables tend to be immutable. Immutable is just a fancy [[Microsoft Word|word]] for a constant. If you can't change variables, loops are difficult to implement so recursion is preferred. We keep functions clean and straightforward. Functions are pure meaning they have outputs which depend only on their inputs. They also avoid making changes to program state which makes them side-effect free. We prefer using expressions to statements. Expressions return values and can appear on the right hand side of an equal sign. Statements return nothing and exist mainly to cause side effects. Finally, currying and partial applications manage how we send our arguments to functions. Since C++ is not a functional programming language, these are all more guidelines than rules. The coding community sometimes things that object-oriented and functional programming are enemies, they are not. To quote Uncle Bob Martin, "Functional programs like object-oriented programs "are composed of functions that operate on data." We can use the best of each paradigm
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=1)** - [Narrator] [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) has many benefits. Here are my top three. Pure functions are simple by design making them understandable. Without classes and by emphasizing pure functions our code is easier to debug and test and since we lack mutable state, multi-threading is achievable. What does it mean to program in a functional style? The answer depends on who you ask, but here are a few common trades. We try to avoid data mutations so all of our variables tend to be immutable. Immutable is just a fancy [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) for a constant. If you can't change variables, loops are difficult to implement so recursion is preferred. We keep functions clean and straightforward. Functions are pure meaning they have outputs which depend only on their inputs. They also avoid making changes to program state which makes them side-effect free. We prefer using expressions to statements. Expressions return values and can appear on the right hand side of an equal sign. Statements return nothing and exist mainly to cause side effects. Finally, currying and partial applications manage how we send our arguments to functions. Since C++ is not a functional programming language, these are all more guidelines than rules. The coding community sometimes things that object-oriented and functional programming are enemies, they are not. To quote Uncle Bob Martin, "Functional programs like object-oriented programs "are composed of functions that operate on data." We can use the best of each paradigm
 >
 > **[1:34](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980&t=94)** such as object-oriented polymorphism and single purpose classes and functional programming's emphasis on immutability and pure functions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) (4), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -135,7 +135,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980&t=1)** - [Instructor] One of the nice benefits of [[Functional Programming]] is easier testing, not having classes to mock or instantiate makes testing simpler, using pure functions whose outputs solely depends on their inputs, means the tests almost write themselves. Let's take a quick look at [[Unit Testing]] a C++ program written functionally. We'll download the open source, Catch2, unit test framework. So, here's the Catch2 website, we're going to scroll down until we see the logo, and then, just past the logo, there is a long blue link, which says single header can be downloaded directly using this link. We're going to click that. That will download the catch.hpp file to our machine, and then, we're going to copy that catch.hpp file to our working directory. Yeah, we're going to go to Visual Studio Code, and here, we have main.cpp plus catch.hpp. This code uses the Catch2 unit test framework. The define statement CATCH_CONFIG_MAIN tells catch to create a main function. You only need to do this once. Next comes, catch.hpp. It is the unit test framework's single header file. It's giving us a green squiggly, but that's, that's wrong. Every now and then, Visual Studio Code gives a false positive. Next, comes our single function, fibonacci,
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980&t=1)** - [Instructor] One of the nice benefits of [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) is easier testing, not having classes to mock or instantiate makes testing simpler, using pure functions whose outputs solely depends on their inputs, means the tests almost write themselves. Let's take a quick look at [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) a C++ program written functionally. We'll download the open source, Catch2, unit test framework. So, here's the Catch2 website, we're going to scroll down until we see the logo, and then, just past the logo, there is a long blue link, which says single header can be downloaded directly using this link. We're going to click that. That will download the catch.hpp file to our machine, and then, we're going to copy that catch.hpp file to our working directory. Yeah, we're going to go to Visual Studio Code, and here, we have main.cpp plus catch.hpp. This code uses the Catch2 unit test framework. The define statement CATCH_CONFIG_MAIN tells catch to create a main function. You only need to do this once. Next comes, catch.hpp. It is the unit test framework's single header file. It's giving us a green squiggly, but that's, that's wrong. Every now and then, Visual Studio Code gives a false positive. Next, comes our single function, fibonacci,
 >
 > **[1:34](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unit-testing-functional-programming?u=76281980&t=94)** which computes the series value for the past number. Note that this function is both pure and recursive. Below the function, is the test case, and it's going to check to make sure that we received the correct output for each input. From the terminal, let's build the app, and so, I'm going to right-click on main.cpp, choose Open in Terminal, and then, I'm going to type clang++
 >
@@ -143,7 +143,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) (1), [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) (1)
 > **Tools:** visual studio (2), terminal (2)
 > **File Paths:** main.cpp (3)
 > **UI Navigation:** scroll down (1), go to (1), right-click (1)
@@ -161,7 +161,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980&t=1)** - [Instructor] To get the most functional features, we're going to build our code for C++ 17. We won't always need it, but it doesn't hurt to have it available. Each of the three big compilers, [[Microsoft]], Clang and GCC has excellent C++ 17 support. Here are the command line flags to activate it. If you use CMake to build your programs, then it's easy to add C++ 17 support, simply add the line set CMake CXX standard space 17 near the top of your CMake list dot text file. That's all it takes. Let's build an actual C++ 17 program and pay attention to the command line options this time. Let's open Visual Studio Code we're going to go file, new and we'll begin by saying pound include and this is going to be iostream. Next we'll add a space and then we're going to have a name space and our usage here is going to be a little bit silly but it will test a compiler C++ 17 feature so we're going to say A colon colon, that's the scope resolution operator, B colon colon, C. This is C++ 17's nested name spaces and a space, an open curly brace, a closed curly brace and in between them, we're going to type int I colon. Then we'll come down a couple of lines
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980&t=1)** - [Instructor] To get the most functional features, we're going to build our code for C++ 17. We won't always need it, but it doesn't hurt to have it available. Each of the three big compilers, [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md), Clang and GCC has excellent C++ 17 support. Here are the command line flags to activate it. If you use CMake to build your programs, then it's easy to add C++ 17 support, simply add the line set CMake CXX standard space 17 near the top of your CMake list dot text file. That's all it takes. Let's build an actual C++ 17 program and pay attention to the command line options this time. Let's open Visual Studio Code we're going to go file, new and we'll begin by saying pound include and this is going to be iostream. Next we'll add a space and then we're going to have a name space and our usage here is going to be a little bit silly but it will test a compiler C++ 17 feature so we're going to say A colon colon, that's the scope resolution operator, B colon colon, C. This is C++ 17's nested name spaces and a space, an open curly brace, a closed curly brace and in between them, we're going to type int I colon. Then we'll come down a couple of lines
 >
 > **[1:37](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980&t=97)** and we'll have int main, every C++ program needs its main function, and we're going to do A colon colon, B colon colon, C colon colon I equals 42.
 >
@@ -171,7 +171,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1)
+> **Frameworks & Libraries:** [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (1)
 > **Tools:** command line (2), terminal (2), visual studio (1)
 > **Env Vars:** gcc (1), cxx (1)
 > **Warnings:** warning (2)
@@ -183,7 +183,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=1)** - [Instructor] The first methods that newbie functional programmers learn are map, filter and reduce. A lot of languages, [[Databases]], and libraries have these methods, but unfortunately they don't exist in C++. But don't fret, we have substitutes available. Instead of map, filter and reduce, we have transform, copy if, and accumulate. These replacements aren't functional, nor are they pure, but they have been part of the C++ standard library since the 1990s. We could create implementations of them from scratch, but that usually isn't a good idea. The [[Algorithms]] of the standard library have had over 20 years of optimizations and improvements. So let's go back to visual studio code. Let us go into file, new. And the first thing that we're going to do is we're going to add some include files. So we'll say include iostream, include algorithm, include vector, and finally, include numeric. Then we're going to save ourselves a little bit of typing by putting in using namespace std, and we'll create our main function. We're not going to pass it anything. Close it up, on the last line of the main function we'll say return 0, and then we'll go back to the top of it, and here we'll create auto render.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=1)** - [Instructor] The first methods that newbie functional programmers learn are map, filter and reduce. A lot of languages, [Databases](../../Skills/Software%20Development/Databases.md), and libraries have these methods, but unfortunately they don't exist in C++. But don't fret, we have substitutes available. Instead of map, filter and reduce, we have transform, copy if, and accumulate. These replacements aren't functional, nor are they pure, but they have been part of the C++ standard library since the 1990s. We could create implementations of them from scratch, but that usually isn't a good idea. The [Algorithms](../../Skills/Software%20Development/Algorithms.md) of the standard library have had over 20 years of optimizations and improvements. So let's go back to visual studio code. Let us go into file, new. And the first thing that we're going to do is we're going to add some include files. So we'll say include iostream, include algorithm, include vector, and finally, include numeric. Then we're going to save ourselves a little bit of typing by putting in using namespace std, and we'll create our main function. We're not going to pass it anything. Close it up, on the last line of the main function we'll say return 0, and then we'll go back to the top of it, and here we'll create auto render.
 >
 > **[1:37](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/transform-instead-of-map?u=76281980&t=97)** And this is going to be a lambda function, and this lambda function is going to take auto collection. We're going to use this guy to render out our collection so we can see what's in them. And, let's see, we'll have a semicolon right there, and then in the middle we'll have for, and this is going to be a const auto reference to a val and then collections. So this is in range collection. And we'll say cout, val, and then endl semicolon. Then we'll start doing our transform and the first thing that we need to do, is we need to create a vector to hold a list of data for us. So we're going to call this in collection, we'll use list initialization here and say one. We're going to go all the way up to 10 here. So we got the numbers one through 10. And then we're going to have another vector, it's also going to be an int, and we're going to call this one out collection, But we don't need to initialize it. Then we'll do a transform, and transform takes four parameters. Takes a begin iterator, that's going to be in collection.begin,
 >
@@ -197,7 +197,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [Databases](../../Skills/Software%20Development/Databases.md) (1), [Algorithms](../../Skills/Software%20Development/Algorithms.md) (1)
 > **Speakers:** - [instructor] (1), - std (1), - wall (1)
 > **File Paths:** main.cpp (2)
 > **Tools:** visual studio (1), terminal (1)
@@ -246,7 +246,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/bind?u=76281980&t=1)** - [Instructor] In [[Functional Programming]], partial application is a technique which creates a new function with a smaller number of arguments from an old one. The number of arguments a function accepts is called its arity. Std::bind comes from the stl's functional header and allows us to partially apply functions. We can reorder the function's argument and bind values to arbitrary arguments. Let's take a look at std::bind with some code. Now in this file, we've already included our iostream's cmath and vector. We're using the namespace std and we have a vector of int of ages. And these ages represent the ages of our customers. And we have a very simple problem. We just want to know how many of our customers are over 21. Now typical programing what we would do is iterate over this range. Every time we see an age that's greater than or equal to 21 we increase this counter, which we initially set at zero. And in the end, we print out the number that are over 21. This code works. It does what we asked it to do. The problem with it is it's not thinking functionally. We are telling the computer every step, how to do what we want. And instead, what we should think of, is we should think more functionally and tell the computer what it is that we want. So let's take a look at how to do that. So we'll begin by saying, hey we have auto. We're going to have num over 21 and it is going to be equal to std, colon, colon, count, if. So the stl already has a function that if
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/bind?u=76281980&t=1)** - [Instructor] In [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md), partial application is a technique which creates a new function with a smaller number of arguments from an old one. The number of arguments a function accepts is called its arity. Std::bind comes from the stl's functional header and allows us to partially apply functions. We can reorder the function's argument and bind values to arbitrary arguments. Let's take a look at std::bind with some code. Now in this file, we've already included our iostream's cmath and vector. We're using the namespace std and we have a vector of int of ages. And these ages represent the ages of our customers. And we have a very simple problem. We just want to know how many of our customers are over 21. Now typical programing what we would do is iterate over this range. Every time we see an age that's greater than or equal to 21 we increase this counter, which we initially set at zero. And in the end, we print out the number that are over 21. This code works. It does what we asked it to do. The problem with it is it's not thinking functionally. We are telling the computer every step, how to do what we want. And instead, what we should think of, is we should think more functionally and tell the computer what it is that we want. So let's take a look at how to do that. So we'll begin by saying, hey we have auto. We're going to have num over 21 and it is going to be equal to std, colon, colon, count, if. So the stl already has a function that if
 >
 > **[1:33](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/bind?u=76281980&t=93)** you give it a range to iterate over, it will tell you how many have passed your test. So in this case, we're going to pass it the begin iterator, which is the ages, begin, and then the end, which is ages, dot, end. And then the next thing that it wants here is a predicate. And so a predicate once again is a function that when passed a value, returns either true or false. So it is a unary function that takes a value and returns either true or false. And we don't have that yet, so let's go ahead and create one. So we'll come up here and we're going to say auto greater than and this is going to check, only thing is we're going to tell this, int first and int second. So we're going to give it two values, make it a binary function. And it's going to return true if first is greater than or equal to second. All right, so we have a little bit of a problem here. Count if expects a unary predicate and we have a binary function, so we're going to use std::bind to fix that problem for us. So std, colon, colon, bind and the first thing that it expects is a reference to the function. So we say, reference, greater, underscore, than, comma. Now the next thing that it wants
 >
@@ -256,7 +256,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -361,9 +361,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=1)** - [Narrator] Template Metaprogramming or TMP is a form of C++ programming. TMP is a Turing complete, [[Functional Programming]] language built-in to C++. TMP variables are always immutable. TMP doesn't have loops, so we must use recursion. TMP doesn't have branching, so we use specialization. Let's explore template metaprogramming with a couple of code examples. We have our include files, which are just iostream and vector and we're using the namespace std. So, let's first create an example function, which demonstrates how to do the same thing using [[Generic Programming]]. So, we're going to say template, which is a keyword here. And we're going to say type name T.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=1)** - [Narrator] Template Metaprogramming or TMP is a form of C++ programming. TMP is a Turing complete, [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) language built-in to C++. TMP variables are always immutable. TMP doesn't have loops, so we must use recursion. TMP doesn't have branching, so we use specialization. Let's explore template metaprogramming with a couple of code examples. We have our include files, which are just iostream and vector and we're using the namespace std. So, let's first create an example function, which demonstrates how to do the same thing using [Generic Programming](../../Skills/Software%20Development/Generic%20Programming.md). So, we're going to say template, which is a keyword here. And we're going to say type name T.
 >
-> **[0:50](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=50)** Then, we're going to use our type and we're going to say our generic type and we're going to say T as the return results. We're going to do a cube function, which is just going to multiply the past value by three. And we're going to say const T reference value. Value is a primer we're passing in. And we're going to say return value times value times value. Alright, so that's an example of just regular generic programming in C++ and what's going to happen here is that this template function is going to get instantiated during compile time. So the code's going to look through here. It's going to say, oh we're calling cube with the integer eight, so type name becomes an integer and it's going to be integer T and it's going to instantiate this function, or another [[Microsoft Word|word]] for that is create the function in runtime. And then that function is actually going to get called in runtime. Now, here is an example of a cube function. And this time we are going to use TMP. So, we're going to say template, once again same keyword, and we're going to say int toCube. And cube, toCube is just the name of our variable. And we're going to say struct. Notice that we use the struct this time. And we're going to call the function Cube and then inside of it we're going to say enum.
+> **[0:50](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=50)** Then, we're going to use our type and we're going to say our generic type and we're going to say T as the return results. We're going to do a cube function, which is just going to multiply the past value by three. And we're going to say const T reference value. Value is a primer we're passing in. And we're going to say return value times value times value. Alright, so that's an example of just regular generic programming in C++ and what's going to happen here is that this template function is going to get instantiated during compile time. So the code's going to look through here. It's going to say, oh we're calling cube with the integer eight, so type name becomes an integer and it's going to be integer T and it's going to instantiate this function, or another [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) for that is create the function in runtime. And then that function is actually going to get called in runtime. Now, here is an example of a cube function. And this time we are going to use TMP. So, we're going to say template, once again same keyword, and we're going to say int toCube. And cube, toCube is just the name of our variable. And we're going to say struct. Notice that we use the struct this time. And we're going to call the function Cube and then inside of it we're going to say enum.
 >
 > **[2:28](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980&t=148)** Value equals toCube times toCube times toCube.
 >
@@ -373,7 +373,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generic Programming]] (3), [[Functional Programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Generic Programming](../../Skills/Software%20Development/Generic%20Programming.md) (3), [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) (1), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Exercise Files:** template (10)
 > **Code Identifiers:** tocube (9)
 > **Env Vars:** tmp (6)
@@ -413,11 +413,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980&t=1)** - [Instructor] The Standard Template Library is a subset of the C++ Standard Library. To make the library flexible and able to work with a wide variety of types, it is implemented using both template metaprogramming and [[Generic Programming]]. The STL consists of four components, [[Algorithms]], containers, functions, and iterators. Before you write a new algorithm, you should check here first to see if it already exists in the STL. One anti-pattern you should avoid in your code is raw loops. Odds are that there are already an STL algorithm which provides the same function and is more performant and more thoroughly debugged. Remember the STL is your friend.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/the-standard-template-library?u=76281980&t=1)** - [Instructor] The Standard Template Library is a subset of the C++ Standard Library. To make the library flexible and able to work with a wide variety of types, it is implemented using both template metaprogramming and [Generic Programming](../../Skills/Software%20Development/Generic%20Programming.md). The STL consists of four components, [Algorithms](../../Skills/Software%20Development/Algorithms.md), containers, functions, and iterators. Before you write a new algorithm, you should check here first to see if it already exists in the STL. One anti-pattern you should avoid in your code is raw loops. Odds are that there are already an STL algorithm which provides the same function and is more performant and more thoroughly debugged. Remember the STL is your friend.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generic Programming]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [Generic Programming](../../Skills/Software%20Development/Generic%20Programming.md) (1), [Algorithms](../../Skills/Software%20Development/Algorithms.md) (1)
 > **Env Vars:** stl (4)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -428,11 +428,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functional-programming-libraries?u=76281980&t=1)** - [Instructor] Loki is one of the oldest C++ metaprogramming libraries around. It was created by Andrei Alexandrescu for his book Modern C++ Design. Unfortunately, it has not had a new release since 2009. The Boost.MPL library is a header only C++ O3 base general purpose template metaprogramming framework of compile time [[Algorithms]], sequences, and metafunctions. Boost.Fusion is a library for working with heterogeneous collections of data, commonly referred to as tuples. Boost.Hana calls itself your standard library for metaprogramming. It is header only and provides a super set of the features in Boost.MPL and Fusion. Boost.HigherOrderFunctions is a recent addition to the Boost family. Like Hana, it is a header only C++ 11 and 14 library that provides utility functions and function objects which can solve many problems with much simpler constructs than what's traditionally been available in metaprogramming. Keep in mind that there are a lot more libraries than the five mentioned here.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/functional-programming-libraries?u=76281980&t=1)** - [Instructor] Loki is one of the oldest C++ metaprogramming libraries around. It was created by Andrei Alexandrescu for his book Modern C++ Design. Unfortunately, it has not had a new release since 2009. The Boost.MPL library is a header only C++ O3 base general purpose template metaprogramming framework of compile time [Algorithms](../../Skills/Software%20Development/Algorithms.md), sequences, and metafunctions. Boost.Fusion is a library for working with heterogeneous collections of data, commonly referred to as tuples. Boost.Hana calls itself your standard library for metaprogramming. It is header only and provides a super set of the features in Boost.MPL and Fusion. Boost.HigherOrderFunctions is a recent addition to the Boost family. Like Hana, it is a header only C++ 11 and 14 library that provides utility functions and function objects which can solve many problems with much simpler constructs than what's traditionally been available in metaprogramming. Keep in mind that there are a lot more libraries than the five mentioned here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1)
+> **Frameworks & Libraries:** [Algorithms](../../Skills/Software%20Development/Algorithms.md) (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** mpl (2)
 > **Exercise Files:** template (1)
@@ -447,7 +447,7 @@ created: 2026-05-03
 >
 > **[1:11](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980&t=71)** go ahead and close it off, and we'll open it up so we have some more room. And let's go ahead and close this screen here, too, and give those shells a little bit more room left and right. And we're going to call the first thing, it's going to be a truck. And it will have a name, we'll call it F-150. And then we'll say it has a bed_length, and that is just 8.5. The next item here is going to be a car. its name will be Volt. And the final item will be a motorcycle, and its name will be Ninja. So now we have a collection of heterogeneous items, next we're going to create a function. And this is going to be auto has_bed_length. And we're going to make this be a hana::is_valid.
 >
-> **[2:13](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980&t=133)** Let's also open this up. And in here is going to go a lambda. Inside the lambda is going to be an auto, reference reference x. And it's going to return a decltype, and that decltype is going to be determined based on whether or not it finds this property. So it's going to say x.bed_length. Then the actual body of the lambda is empty. Then we just close off that function. Next we're going to get a collection of just trucks. So we're going to say auto trucks, and let's make that lower case. Trucks = hana. And the way that we're going to do this is we're going to filter through our vehicles, and we're going to see which vehicles have a bed_length. If they have a bed_length, we're going to assume they're a truck, and it's going to be part of the trucks collection. Next we're going to just do auto vehicles, or not vehicles, auto nontrucks and that's going to be hana::filter again. We're also going to pass to it the vehicles collection. And this time we're going to do a little functional composition, so we're going to say hana::[[Jetpack Compose|compose]]. Hana::compose takes two or more functions and makes them one function.
+> **[2:13](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980&t=133)** Let's also open this up. And in here is going to go a lambda. Inside the lambda is going to be an auto, reference reference x. And it's going to return a decltype, and that decltype is going to be determined based on whether or not it finds this property. So it's going to say x.bed_length. Then the actual body of the lambda is empty. Then we just close off that function. Next we're going to get a collection of just trucks. So we're going to say auto trucks, and let's make that lower case. Trucks = hana. And the way that we're going to do this is we're going to filter through our vehicles, and we're going to see which vehicles have a bed_length. If they have a bed_length, we're going to assume they're a truck, and it's going to be part of the trucks collection. Next we're going to just do auto vehicles, or not vehicles, auto nontrucks and that's going to be hana::filter again. We're also going to pass to it the vehicles collection. And this time we're going to do a little functional composition, so we're going to say hana::[compose](../../Glossary/Framework/Jetpack%20Compose.md). Hana::compose takes two or more functions and makes them one function.
 >
 > **[3:45](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/boost-hana?u=76281980&t=225)** And so that the way that it does that is we pass it which functions we want to compose together, so the first one's going to be hana::not_, and it ends with an underscore. And then the second function is going to be has_bed_length. And what's going on here is hana compose goes through this from right to left, and so it's going to take the has_bed_length function, it's going to execute it, then it's going to call hana::not_, which is going to take, if this was true it's going to make it false, if this was false, it's going to make it true. Because what we want is we want all the vehicles that don't have a bed_length. Once we've done that, let's go up a little bit, let's go ahead and uncomment the rendering code. All right. So what we have here is two methods, one method's going to render out all the trucks and the second method's going to render out all the nontrucks. And for the trucks, it's also going to display its bed_length. Let's save this. Let us open this in the terminal. Let's do a clang++ -std=c++17
 >
@@ -457,7 +457,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4)
+> **Frameworks & Libraries:** [Compose](../../Glossary/Framework/Jetpack%20Compose.md) (4)
 > **Code Identifiers:** bed_length (7), has_bed_length (3), make_tuple (1), is_valid (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** mpl (1), stl (1)
@@ -516,18 +516,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980&t=1)** - [Narrator] ReactiveX combines the best parts of the Observer and Iterator patterns and [[Functional Programming]]. It abstracts away dirty details and leaves fewer lines of more powerful code. It has been ported to every major programming language, including C++, and is used in production by many top tech firms. ReactiveX is everywhere. It is running in the front end, back end, mobile, and desktop apps. The four main components of ReactiveX are observables, which are composable streams of events; observers are those interested in those events; operators, which are functions that manipulate observables; and schedulers that execute actions associated with operators.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980&t=1)** - [Narrator] ReactiveX combines the best parts of the Observer and Iterator patterns and [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md). It abstracts away dirty details and leaves fewer lines of more powerful code. It has been ported to every major programming language, including C++, and is used in production by many top tech firms. ReactiveX is everywhere. It is running in the front end, back end, mobile, and desktop apps. The four main components of ReactiveX are observables, which are composable streams of events; observers are those interested in those events; operators, which are functions that manipulate observables; and schedulers that execute actions associated with operators.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) (1)
 > **Speakers:** - [narrator] (1)
 
 #### [RxCpp library](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980&t=1)** - [Instructor] The RxCpp library is the C++ implementation of ReactiveX. It supports both a chaining and pipe interface, though I find the chaining easier to work with. It can convert STL containers like list invectors to observables. You'll want to clone the RxCpp repo from [[GitHub]], and put the header files where your code can find them. Now it's time to check out ReactiveX using the RxCpp library. Here I just have my include file for RxCpp. I also have some name spaces already set up. To just make things easier for me. And I have an include for iostream. Then here I have a vector of int which represents let's just say it's the ages our customers. What we want to know, is we want to know how many of our customers are over the age of 21. So what we're going to do here, is we're going to say auto, values, and it is going to be equal to RxCpp colon colon observables, and what we're going to do here is, we're going to convert this vector of int into an observable. We're going to iterate, iterate, over ages and then we're going to use the chaining interface. So we're going to put a period at the end of the sentence.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980&t=1)** - [Instructor] The RxCpp library is the C++ implementation of ReactiveX. It supports both a chaining and pipe interface, though I find the chaining easier to work with. It can convert STL containers like list invectors to observables. You'll want to clone the RxCpp repo from [GitHub](../../Skills/Software%20Development/GitHub.md), and put the header files where your code can find them. Now it's time to check out ReactiveX using the RxCpp library. Here I just have my include file for RxCpp. I also have some name spaces already set up. To just make things easier for me. And I have an include for iostream. Then here I have a vector of int which represents let's just say it's the ages our customers. What we want to know, is we want to know how many of our customers are over the age of 21. So what we're going to do here, is we're going to say auto, values, and it is going to be equal to RxCpp colon colon observables, and what we're going to do here is, we're going to convert this vector of int into an observable. We're going to iterate, iterate, over ages and then we're going to use the chaining interface. So we're going to put a period at the end of the sentence.
 >
 > **[1:40](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/rxcpp-library?u=76281980&t=100)** Next, we're going to say filter, and the filter method is going to take our good friend the lambda. And so we're just going to have open and close square brackets, we're going to have an int age, and then inside of the curly braces, we're going to say, return, age, greater than or equal to 21, semi-colon. And then at the end of this we're also going to have a period, because again this is the chaining interface. Some languages will call this a fluent interface. Then we're going to do a count. So here the observable's going to send us each one of these numbers. All the way from the beginning to the end of this vector of int. The filter is going to go through and it's only going to let the ones over 21 pass. Then count is going to say well how many that there are. Then finally we get to the subscribe.
 >
@@ -539,7 +539,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1)
+> **Frameworks & Libraries:** [GitHub](../../Skills/Software%20Development/GitHub.md) (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** github (1), terminal (1)
 > **Speakers:** - [instructor] (1), - capital (1)
@@ -594,11 +594,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=1)** - [Instructor] Thank you for viewing this course. Using [[Functional Programming]] techniques has helped me make my code more solid and hopefully they will help yours as well. Template metaprogramming is one of the most challenging aspects of C++ programming. It is the thing that separates those who write powerful libraries from those who use them. If you'd like to continue your journey, check out the [[LinkedIn]] Learning course on the C++ Standard Template Library. Be sure to learn more about Boost.Hana and RxCpp at their websites. And finally, read the book Modern C++ Design by Andrei Alexandrescu. I hope I pronounced that right. Have fun and keep on coding.
+> **[0:01](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980&t=1)** - [Instructor] Thank you for viewing this course. Using [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) techniques has helped me make my code more solid and hopefully they will help yours as well. Template metaprogramming is one of the most challenging aspects of C++ programming. It is the thing that separates those who write powerful libraries from those who use them. If you'd like to continue your journey, check out the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course on the C++ Standard Template Library. Be sure to learn more about Boost.Hana and RxCpp at their websites. And finally, read the book Modern C++ Design by Andrei Alexandrescu. I hope I pronounced that right. Have fun and keep on coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -606,7 +606,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Troy Miles]]
+- [Troy Miles](../../Instructors/Software%20Development/Troy%20Miles.md)
 
 ## Resources
 
@@ -619,22 +619,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Getting Started with C++]]
-← [[Complete Guide To C Plus Plus Programming Foundations]] | **2 of 5** | [[Learning C++]] →
+### In [Getting Started with C++](../../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20with%20C%2B%2B.md)
+← [Complete Guide To C Plus Plus Programming Foundations](Complete%20Guide%20To%20C%20Plus%20Plus%20Programming%20Foundations.md) | **2 of 5** | [Learning C++](Learning%20C%2B%2B.md) →
 
 ## Appears In
 
-- [[Getting Started with C++]]
+- [Getting Started with C++](../../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20with%20C%2B%2B.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Nail Your C++ Interview]] — C++
-- [[Web Servers and APIs using C++]] — C++
-- [[Learning C++]] — C++
-- [[C++ Design Patterns- Structural]] — C++
-- [[C Plus Plus Essential Training]] — C++
+- [Nail Your C++ Interview](Nail%20Your%20C%2B%2B%20Interview.md) — C++
+- [Web Servers and APIs using C++](Web%20Servers%20and%20APIs%20using%20C%2B%2B.md) — C++
+- [Learning C++](Learning%20C%2B%2B.md) — C++
+- [C++ Design Patterns- Structural](../Data%20Science/C%2B%2B%20Design%20Patterns-%20Structural.md) — C++
+- [C Plus Plus Essential Training](../Data%20Science/C%20Plus%20Plus%20Essential%20Training.md) — C++
 
 ---
 

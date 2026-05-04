@@ -28,6 +28,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[JavaScript Practice- Object-Oriented Programming]]
-- [[Writing a Tech Resume]]
-- [[Level Up- JavaScript]]
+- [JavaScript Practice- Object-Oriented Programming](../../Courses/Software%20Development/JavaScript%20Practice-%20Object-Oriented%20Programming.md)
+- [Writing a Tech Resume](../../Courses/Cloud%20Computing/Writing%20a%20Tech%20Resume.md)
+- [Level Up- JavaScript](../../Courses/Software%20Development/Level%20Up-%20JavaScript.md)

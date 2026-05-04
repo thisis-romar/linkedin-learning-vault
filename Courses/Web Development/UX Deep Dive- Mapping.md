@@ -16,11 +16,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFudXWd13cM1g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589904875160?e=2147483647&amp;v=beta&amp;t=8yqy06KXCZH9xVjljq3fq2I5SF1YxkQlV_GDgx--nnM"
 linkedin_topic: Web Development
 learning_paths:
-  - '[[Advance Your Skills in User Experience Design]]'
+  - '[Advance Your Skills in User Experience Design](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20User%20Experience%20Design.md)'
 prev_courses:
-  - '[[Sketching For Ux Designers]]'
+  - '[Sketching For Ux Designers](Sketching%20For%20Ux%20Designers.md)'
 next_courses:
-  - '[[Practical Accessibility For Designers]]'
+  - '[Practical Accessibility For Designers](Practical%20Accessibility%20For%20Designers.md)'
 path_nav: '[{"path":"Advance Your Skills in User Experience Design","position":3,"total":9,"prev":"Sketching For Ux Designers","next":"Practical Accessibility For Designers"}]'
 path_count: 1
 tags:
@@ -73,11 +73,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980&t=0)** - When you hear the [[Microsoft Word|word]] map, you might think of a visual artifact to find your way or make sense of something complex. Just like physical maps, UX maps can help us understand the people who will use what we build, the relationships between people and services or [[Microsoft Products|products]] we offer, and components of the whole system we're working on. If you're already a part of the UX world, you know that research and design helps us create better products, but you probably also know that communicating everything you've found can be a challenge. Maps can help us better communicate within and throughout our teams so that knowledge is shared and efforts are better aligned. I'm Amanda Stockwell. Welcome to this course on commonly used UX maps. I'll describe the core kinds of UX maps, help you identify when to use which map, and provide tips for anyone to get started using maps in their own work. Let's get mappy!
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980&t=0)** - When you hear the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) map, you might think of a visual artifact to find your way or make sense of something complex. Just like physical maps, UX maps can help us understand the people who will use what we build, the relationships between people and services or [products](../../Skills/Software%20Development/Microsoft%20Products.md) we offer, and components of the whole system we're working on. If you're already a part of the UX world, you know that research and design helps us create better products, but you probably also know that communicating everything you've found can be a challenge. Maps can help us better communicate within and throughout our teams so that knowledge is shared and efforts are better aligned. I'm Amanda Stockwell. Welcome to this course on commonly used UX maps. I'll describe the core kinds of UX maps, help you identify when to use which map, and provide tips for anyone to get started using maps in their own work. Let's get mappy!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
@@ -91,11 +91,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980&t=1)** - A map is used as a way to understand and navigate terrain. When most people think of a map, they think of a representation of physical Earth and as way to figure out where things are or how to get somewhere. A map in the context of UX is simply a model, diagram or other visual representation of information you have. UX Maps can represent individual components or players in a system, the relationships to one another, and their relative locations. They can also help people understand how to get from one point to another. In reality, a map is just a visual way to represent knowledge and help you make sense of something that's complex. Whether you're a visual learner or not, maps translate data points into something you can literally see making it easier to understand relationships or things at scale. More easily spot gaps or issues, and help people internalize or remember information better than just text. UX Maps are often the artifacts we create to help describe what we learn from research. You can also use maps to identify assumptions that serve as hypotheses for future research, capture the current state of something, or plan the ideal or future state of something. The very act of building a map, research-based or not, can help you and your team get on the same page about what information you're sure of, and what you need to learn more about. Maps of any kind can help you build a shared understanding and alignment. Let's walk through some of the most common types of mapping used in [[User Experience (UX)|user experience]] so you can get started using maps in your own work.
+> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980&t=1)** - A map is used as a way to understand and navigate terrain. When most people think of a map, they think of a representation of physical Earth and as way to figure out where things are or how to get somewhere. A map in the context of UX is simply a model, diagram or other visual representation of information you have. UX Maps can represent individual components or players in a system, the relationships to one another, and their relative locations. They can also help people understand how to get from one point to another. In reality, a map is just a visual way to represent knowledge and help you make sense of something that's complex. Whether you're a visual learner or not, maps translate data points into something you can literally see making it easier to understand relationships or things at scale. More easily spot gaps or issues, and help people internalize or remember information better than just text. UX Maps are often the artifacts we create to help describe what we learn from research. You can also use maps to identify assumptions that serve as hypotheses for future research, capture the current state of something, or plan the ideal or future state of something. The very act of building a map, research-based or not, can help you and your team get on the same page about what information you're sure of, and what you need to learn more about. Maps of any kind can help you build a shared understanding and alignment. Let's walk through some of the most common types of mapping used in [user experience](../../Skills/Web%20Development/User%20Experience%20(UX).md) so you can get started using maps in your own work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [User experience](../../Skills/Web%20Development/User%20Experience%20(UX).md) (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
@@ -145,13 +145,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=1)** - A journey map is just what it sounds like. It's a visualization that documents a person's steps through a particular process or interactions with a product or service. It's presented chronologically and typically focused on a single person or persona-types perspective. You may hear this called just a journey map, a customer journey map, or a user journey map. While not all users are technically customers, for mapping purposes you can use any term. Journey maps help build a shared understanding of that user and their context. There are two main types of journey maps, those that document the existing state of affairs and those that suggest an ideal future state. Documenting the current precises can help build shared focus on individual users and their needs and highlight critical ping points or other opportunities to improve. The active building of journey maps together can be used to increase cross-functional empathy and understanding of users and ensure that teams are aligned. You'll want to base current state maps on a wide breadth of data. You should gather any existing information such as site analytics, feedback from support representatives, or sales feedback. You can use that information to inform hypothesis that frame the [[Representational State Transfer (REST)|rest]] of your research. While no project looks exactly the same it's very likely you'll want to both talk to and observe your users, so things like interviews, usability tests, diaries or other longitudinal studies and contextual inquiries,
+> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=1)** - A journey map is just what it sounds like. It's a visualization that documents a person's steps through a particular process or interactions with a product or service. It's presented chronologically and typically focused on a single person or persona-types perspective. You may hear this called just a journey map, a customer journey map, or a user journey map. While not all users are technically customers, for mapping purposes you can use any term. Journey maps help build a shared understanding of that user and their context. There are two main types of journey maps, those that document the existing state of affairs and those that suggest an ideal future state. Documenting the current precises can help build shared focus on individual users and their needs and highlight critical ping points or other opportunities to improve. The active building of journey maps together can be used to increase cross-functional empathy and understanding of users and ensure that teams are aligned. You'll want to base current state maps on a wide breadth of data. You should gather any existing information such as site analytics, feedback from support representatives, or sales feedback. You can use that information to inform hypothesis that frame the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of your research. While no project looks exactly the same it's very likely you'll want to both talk to and observe your users, so things like interviews, usability tests, diaries or other longitudinal studies and contextual inquiries,
 >
-> **[1:35](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=95)** or other ethnic graphic studies are likely. The goal of current state mapping is to factually represent the steps, interaction points, channels and behaviors and layer on narrative about the users [[Microsoft Outlook|outlook]] and emotions. Ultimately you want to build shared understanding so you can collectively work to improve the experience. To that end, you may also use a journey map as a tool to plan out what an ideal scenario would look like. You can look at your current state to see where are the biggest opportunities to improve, assess competitors or associated providers, or brainstorm innovative solutions. The future state map can be used to help you get on the same page about what work ought to come next. Either way journey maps should be used as a tool to help everyone see the full picture of what's happening and build shared vision to guide future work.
+> **[1:35](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=95)** or other ethnic graphic studies are likely. The goal of current state mapping is to factually represent the steps, interaction points, channels and behaviors and layer on narrative about the users [outlook](../../Skills/Cloud%20Computing/Microsoft%20Outlook.md) and emotions. Ultimately you want to build shared understanding so you can collectively work to improve the experience. To that end, you may also use a journey map as a tool to plan out what an ideal scenario would look like. You can look at your current state to see where are the biggest opportunities to improve, assess competitors or associated providers, or brainstorm innovative solutions. The future state map can be used to help you get on the same page about what work ought to come next. Either way journey maps should be used as a tool to help everyone see the full picture of what's happening and build shared vision to guide future work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1), [Outlook](../../Skills/Cloud%20Computing/Microsoft%20Outlook.md) (1)
 > **Analogies:** such as (1), picture (1)
 > **Speakers:** - a (1)
 
@@ -234,13 +234,13 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=1)** - Empathy maps, journey maps, experience maps, and service blueprints are the most commonly used mapping tools within a UXer's repertoire. There are also some non-UX-specific tools and techniques with very similar names that you might come across in your work. Here are a few of the most common. Storymapping is the more general term for using classic narrative structure as a tool to help visualize and communicate ideas. You can use storymapping to describe things like the overall value of a product or experience, the specific steps someone takes through the product, or how they come to use the product. The point is to use the well-established sequence of events that make up a story in the context of a product. Very generally, a story always follows the same structure, with a beginning, middle, and end, where context is set, action builds, and then some sort of resolution is reached. The beginning of the story is called the exposition, which sets the context, introduces the people involved, and establishes a goal for the main character. In the context of UX, that main character is often the target user or persona. The inciting incident occurs when something gets in the way of said goal, inspiring change or action. This is usually the core need or challenge said persona has. The rising action is the core of the story, the series of events or steps that the main character or user takes. Eventually, there will be a crucial moment called the crisis which is a dramatic event or period that serves
 >
-> **[1:34](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=94)** as a turning point for the user. Whatever happens next is called the climax, the peak of excitement and action in the story. In movies, these are the final battle scenes, the exciting kiss, or the dramatic deaths. The final actions that serve to tie up loose ends, provide closure, and answer final questions are called the denouement. These are the crucial steps that help a story feel complete. Storymapping uses these steps to highlight the important players, context, and actions for [[Microsoft Products|products]]. Like with other kinds of mapping, you can conduct research and use narrative arc to describe what you found or use story mapping to plot out ideal future scenarios. Donna Lichaw has an amazing book that provides much more detail on storymapping and its various uses. I highly recommend checking out The User's Journey: Storymapping Products That People Love for a deeper look. Similarly named but quite different in context, you might have also heard of a user storymap. This particular tool isn't a strictly UX practice but it's commonly used within [[Agile Development|agile]] development teams. In agile environments, a user's story is a description of work that needs to get done, written from the perspective of the person who will use it. User stories usually follow a pretty simple template. As a type of user, I want a thing so that reason. This helps agile teams keep their target audience and their end goal in mind. For example, let's say you're working
+> **[1:34](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=94)** as a turning point for the user. Whatever happens next is called the climax, the peak of excitement and action in the story. In movies, these are the final battle scenes, the exciting kiss, or the dramatic deaths. The final actions that serve to tie up loose ends, provide closure, and answer final questions are called the denouement. These are the crucial steps that help a story feel complete. Storymapping uses these steps to highlight the important players, context, and actions for [products](../../Skills/Software%20Development/Microsoft%20Products.md). Like with other kinds of mapping, you can conduct research and use narrative arc to describe what you found or use story mapping to plot out ideal future scenarios. Donna Lichaw has an amazing book that provides much more detail on storymapping and its various uses. I highly recommend checking out The User's Journey: Storymapping Products That People Love for a deeper look. Similarly named but quite different in context, you might have also heard of a user storymap. This particular tool isn't a strictly UX practice but it's commonly used within [agile](../../Skills/DevOps/Agile%20Development.md) development teams. In agile environments, a user's story is a description of work that needs to get done, written from the perspective of the person who will use it. User stories usually follow a pretty simple template. As a type of user, I want a thing so that reason. This helps agile teams keep their target audience and their end goal in mind. For example, let's say you're working
 >
-> **[3:07](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=187)** on a new [[E-Commerce]] site. A user story might be something like as a customer I want to be able to save my payment details so it's faster for me to check out in the future. These stories can be really high level so they're often broken down into more granular tasks and stories. With that in mind, a user storymap is a way to model the individual user stories together so the team can understand the core goals and visualize the necessary work. Very roughly, a user storymap breaks out core tasks or activities within a product or service and then categorizes the smaller, more detailed steps and tasks that need to happen to accomplish those larger goals. The top level or backbone of the map roughly correlates to the core features or capabilities and the steps underneath are the more granular things that need to happen but they're all done from the point of view of the end user. Jeff Patton champions the practice and has lots of great resources, so check out his book, User Story Mapping, for more information.
+> **[3:07](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=187)** on a new [E-Commerce](../../Skills/Web%20Development/E-Commerce.md) site. A user story might be something like as a customer I want to be able to save my payment details so it's faster for me to check out in the future. These stories can be really high level so they're often broken down into more granular tasks and stories. With that in mind, a user storymap is a way to model the individual user stories together so the team can understand the core goals and visualize the necessary work. Very roughly, a user storymap breaks out core tasks or activities within a product or service and then categorizes the smaller, more detailed steps and tasks that need to happen to accomplish those larger goals. The top level or backbone of the map roughly correlates to the core features or capabilities and the steps underneath are the more granular things that need to happen but they're all done from the point of view of the end user. Jeff Patton champions the practice and has lots of great resources, so check out his book, User Story Mapping, for more information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (2), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [Agile](../../Skills/DevOps/Agile%20Development.md) (3), [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2), [E-Commerce](../../Skills/Web%20Development/E-Commerce.md) (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -256,17 +256,17 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=1)** - Thanks so much for taking some time to dig into the various maps [[User Experience (UX)|user experience]] practitioners use. Maps are great flexible tools for anyone involved in building software and [[Microsoft Products|products]]. They can help you visualize complex problems or concepts, identify gaps in current situations, and plot out future plans to address your users' needs. This course should have given you everything you need to get started using maps in your own work. I'd love to hear how your teams are using maps. Share your stories on [[LinkedIn]] with the hashtag #uxmap, to continue the conversation. And remember that this is just one of a series of [[UX Research]] deep dives. Check out my other courses here. Thanks again, and good luck out there.
+> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=1)** - Thanks so much for taking some time to dig into the various maps [user experience](../../Skills/Web%20Development/User%20Experience%20(UX).md) practitioners use. Maps are great flexible tools for anyone involved in building software and [products](../../Skills/Software%20Development/Microsoft%20Products.md). They can help you visualize complex problems or concepts, identify gaps in current situations, and plot out future plans to address your users' needs. This course should have given you everything you need to get started using maps in your own work. I'd love to hear how your teams are using maps. Share your stories on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) with the hashtag #uxmap, to continue the conversation. And remember that this is just one of a series of [UX Research](../../Skills/Web%20Development/UX%20Research.md) deep dives. Check out my other courses here. Thanks again, and good luck out there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[UX Research]] (1)
+> **Frameworks & Libraries:** [User experience](../../Skills/Web%20Development/User%20Experience%20(UX).md) (1), [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1), [UX Research](../../Skills/Web%20Development/UX%20Research.md) (1)
 > **Speakers:** - thanks (1)
 
 
 ## Instructor
 
-- [[Amanda Stockwell]]
+- [Amanda Stockwell](../../Instructors/Web%20Development/Amanda%20Stockwell.md)
 
 ## Resources
 
@@ -278,22 +278,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Advance Your Skills in User Experience Design]]
-← [[Sketching For Ux Designers]] | **3 of 9** | [[Practical Accessibility For Designers]] →
+### In [Advance Your Skills in User Experience Design](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20User%20Experience%20Design.md)
+← [Sketching For Ux Designers](Sketching%20For%20Ux%20Designers.md) | **3 of 9** | [Practical Accessibility For Designers](Practical%20Accessibility%20For%20Designers.md) →
 
 ## Appears In
 
-- [[Advance Your Skills in User Experience Design]]
+- [Advance Your Skills in User Experience Design](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20User%20Experience%20Design.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Miro for UX- Brainstorming and Collaboration]] — User Experience Design (UED)
-- [[Design Powered by Data- Getting Started with UX Web Analytics (2022)]] — User Experience Design (UED)
-- [[UX for AI- Design Practices for AI Developers]] — User Experience Design (UED)
-- [[ProtoPie for UX Design]] — User Experience Design (UED)
-- [[Empathy in UX Design]] — User Experience Design (UED)
+- [Miro for UX- Brainstorming and Collaboration](Miro%20for%20UX-%20Brainstorming%20and%20Collaboration.md) — User Experience Design (UED)
+- [Design Powered by Data- Getting Started with UX Web Analytics (2022)](Design%20Powered%20by%20Data-%20Getting%20Started%20with%20UX%20Web%20Analytics%20(2022).md) — User Experience Design (UED)
+- [UX for AI- Design Practices for AI Developers](../Artificial%20Intelligence%20(AI)/UX%20for%20AI-%20Design%20Practices%20for%20AI%20Developers.md) — User Experience Design (UED)
+- [ProtoPie for UX Design](ProtoPie%20for%20UX%20Design.md) — User Experience Design (UED)
+- [Empathy in UX Design](Empathy%20in%20UX%20Design.md) — User Experience Design (UED)
 
 ---
 

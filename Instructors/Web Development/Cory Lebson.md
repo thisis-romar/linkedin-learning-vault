@@ -22,6 +22,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Using AI in Research Projects]]
-- [[UX Research- Being Flexible]]
-- [[Empathy in UX Design]]
+- [Using AI in Research Projects](../../Courses/Data%20Science/Using%20AI%20in%20Research%20Projects.md)
+- [UX Research- Being Flexible](../../Courses/Web%20Development/UX%20Research-%20Being%20Flexible.md)
+- [Empathy in UX Design](../../Courses/Web%20Development/Empathy%20in%20UX%20Design.md)

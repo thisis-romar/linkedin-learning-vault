@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Accelerating Digital Transformation as Offices Reopen]]
+- [Accelerating Digital Transformation as Offices Reopen](../../Courses/Cloud%20Computing/Accelerating%20Digital%20Transformation%20as%20Offices%20Reopen.md)

@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building Accountability into Your Culture]] — Intermediate · 39m · 287,137 learners
+- [Building Accountability into Your Culture](../../Courses/Data%20Science/Building%20Accountability%20into%20Your%20Culture.md) — Intermediate · 39m · 287,137 learners
 
 ## Related Skills
 
-- [[Organizational Culture]] — 1 shared course
-- [[Accountability]] — 1 shared course
+- [Organizational Culture](Organizational%20Culture.md) — 1 shared course
+- [Accountability](Accountability.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[AI Product Development- Secure by Design]] — 1 mentions
+1. [AI Product Development- Secure by Design](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Development-%20Secure%20by%20Design.md) — 1 mentions

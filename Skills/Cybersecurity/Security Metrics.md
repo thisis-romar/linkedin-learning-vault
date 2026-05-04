@@ -22,15 +22,15 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leveraging Security Metrics in Your Organization]] — Intermediate · 46m · 20,599 learners
+- [Leveraging Security Metrics in Your Organization](../../Courses/Cybersecurity/Leveraging%20Security%20Metrics%20in%20Your%20Organization.md) — Intermediate · 46m · 20,599 learners
 
 ## Related Skills
 
-- [[Budget Analysis]] — 1 shared course
-- [[Cybersecurity]] — 1 shared course
+- [Budget Analysis](Budget%20Analysis.md) — 1 shared course
+- [Cybersecurity](../../Topics/Cybersecurity.md) — 1 shared course
 
 ## Mentioned In Transcripts _(12 total mentions)_
 
-1. [[Leveraging Security Metrics in Your Organization]] — 10 mentions
-2. [[Devops Foundations Lean And Agile]] — 1 mentions
-3. [[Ethical Data Collection for AI Implementation]] — 1 mentions
+1. [Leveraging Security Metrics in Your Organization](../../Courses/Cybersecurity/Leveraging%20Security%20Metrics%20in%20Your%20Organization.md) — 10 mentions
+2. [Devops Foundations Lean And Agile](../../Courses/DevOps/Devops%20Foundations%20Lean%20And%20Agile.md) — 1 mentions
+3. [Ethical Data Collection for AI Implementation](../../Courses/Data%20Science/Ethical%20Data%20Collection%20for%20AI%20Implementation.md) — 1 mentions

@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Bitbucket Pipelines for CI-CD]] — Intermediate · 1h 28m · 6,574 learners
-- [[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]] — Advanced · 1h 27m · 2,998 learners
+- [Bitbucket Pipelines for CI-CD](../../Courses/DevOps/Bitbucket%20Pipelines%20for%20CI-CD.md) — Intermediate · 1h 28m · 6,574 learners
+- [Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations](../../Courses/DevOps/Advanced%20Bitbucket%20Pipelines-%20Automating%20Deployments%20and%20Managing%20Third-Party%20Integrations.md) — Advanced · 1h 27m · 2,998 learners
 
 ## Related Skills
 
-- [[Bitbucket]] — 2 shared courses
+- [Bitbucket](Bitbucket.md) — 2 shared courses

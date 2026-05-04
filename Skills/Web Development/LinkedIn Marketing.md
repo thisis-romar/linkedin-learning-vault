@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating LinkedIn Newsletters]] — 21m · 2,731 learners
+- [Creating LinkedIn Newsletters](../../Courses/Web%20Development/Creating%20LinkedIn%20Newsletters.md) — 21m · 2,731 learners
 
 ## Related Skills
 
-- [[Newsletters]] — 1 shared course
+- [Newsletters](Newsletters.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Excel for Business Analysts]] — 1 mentions
+1. [Excel for Business Analysts](../../Courses/Data%20Science/Excel%20for%20Business%20Analysts.md) — 1 mentions

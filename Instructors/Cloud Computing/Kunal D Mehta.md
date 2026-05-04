@@ -30,6 +30,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Microsoft Entra ID Fundamentals]]
-- [[Planning for Microsoft Entra ID]]
-- [[Deploying Microsoft Entra ID]]
+- [Microsoft Entra ID Fundamentals](../../Courses/Network%20and%20System%20Administration/Microsoft%20Entra%20ID%20Fundamentals.md)
+- [Planning for Microsoft Entra ID](../../Courses/Cloud%20Computing/Planning%20for%20Microsoft%20Entra%20ID.md)
+- [Deploying Microsoft Entra ID](../../Courses/Cloud%20Computing/Deploying%20Microsoft%20Entra%20ID.md)

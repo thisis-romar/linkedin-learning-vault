@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Programming Foundations- Design Patterns]]
+- [Programming Foundations- Design Patterns](../../Courses/Software%20Development/Programming%20Foundations-%20Design%20Patterns.md)

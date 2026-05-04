@@ -17,23 +17,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Getting Started With Power Bi]]'
+  - course: '[Getting Started With Power Bi](../../../Courses/Data%20Science/Getting%20Started%20With%20Power%20Bi.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning Power BI Desktop]]'
+  - course: '[Learning Power BI Desktop](../../../Courses/Data%20Science/Learning%20Power%20BI%20Desktop.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Power Bi Essential Training]]'
+  - course: '[Power Bi Essential Training](../../../Courses/Data%20Science/Power%20Bi%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Power BI Quick Tips]]'
+  - course: '[Power BI Quick Tips](../../../Courses/Data%20Science/Power%20BI%20Quick%20Tips.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Power BI Mistakes to Avoid]]'
+  - course: '[Power BI Mistakes to Avoid](../../../Courses/Data%20Science/Power%20BI%20Mistakes%20to%20Avoid.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -48,28 +48,28 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Getting Started With Power Bi]]
-2. [[Learning Power BI Desktop]] _(2h 42m)_
-3. [[Power Bi Essential Training]]
-4. [[Power BI Quick Tips]] _(48m)_
-5. [[Power BI Mistakes to Avoid]] _(58m)_
+1. [Getting Started With Power Bi](../../../Courses/Data%20Science/Getting%20Started%20With%20Power%20Bi.md)
+2. [Learning Power BI Desktop](../../../Courses/Data%20Science/Learning%20Power%20BI%20Desktop.md) _(2h 42m)_
+3. [Power Bi Essential Training](../../../Courses/Data%20Science/Power%20Bi%20Essential%20Training.md)
+4. [Power BI Quick Tips](../../../Courses/Data%20Science/Power%20BI%20Quick%20Tips.md) _(48m)_
+5. [Power BI Mistakes to Avoid](../../../Courses/Data%20Science/Power%20BI%20Mistakes%20to%20Avoid.md) _(58m)_
 
 ## Course Flow
 
-1. [[Getting Started With Power Bi]] → 2. [[Learning Power BI Desktop]] → 3. [[Power Bi Essential Training]] → 4. [[Power BI Quick Tips]] → 5. [[Power BI Mistakes to Avoid]]
+1. [Getting Started With Power Bi](../../../Courses/Data%20Science/Getting%20Started%20With%20Power%20Bi.md) → 2. [Learning Power BI Desktop](../../../Courses/Data%20Science/Learning%20Power%20BI%20Desktop.md) → 3. [Power Bi Essential Training](../../../Courses/Data%20Science/Power%20Bi%20Essential%20Training.md) → 4. [Power BI Quick Tips](../../../Courses/Data%20Science/Power%20BI%20Quick%20Tips.md) → 5. [Power BI Mistakes to Avoid](../../../Courses/Data%20Science/Power%20BI%20Mistakes%20to%20Avoid.md)
 
 ## Topics
 
-- [[Data Science]]
+- [Data Science](../../../Topics/Data%20Science.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Explore a Career as a Power BI Specialist]] (1 shared courses)
-- [[Become a Business Intelligence Specialist]] (1 shared courses)
-- [[Become a Data Analyst]] (1 shared courses)
+- [Explore a Career as a Power BI Specialist](Explore%20a%20Career%20as%20a%20Power%20BI%20Specialist.md) (1 shared courses)
+- [Become a Business Intelligence Specialist](Become%20a%20Business%20Intelligence%20Specialist.md) (1 shared courses)
+- [Become a Data Analyst](Become%20a%20Data%20Analyst.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

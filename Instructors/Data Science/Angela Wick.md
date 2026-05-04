@@ -24,10 +24,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Requirements Foundations]]
-- [[Business Analyst and Project Manager Collaboration (2018)]]
-- [[Requirements Elicitation and Analysis]]
-- [[Requirements Elicitation for Business Analysis- Stakeholder Conversations]]
-- [[Learning Digital Business Analysis]]
-- [[Business Analysis Foundations- Competencies]]
-- [[Learning AI for Business Analysis]]
+- [Agile Requirements Foundations](../../Courses/Data%20Science/Agile%20Requirements%20Foundations.md)
+- [Business Analyst and Project Manager Collaboration (2018)](../../Courses/Data%20Science/Business%20Analyst%20and%20Project%20Manager%20Collaboration%20(2018).md)
+- [Requirements Elicitation and Analysis](../../Courses/Data%20Science/Requirements%20Elicitation%20and%20Analysis.md)
+- [Requirements Elicitation for Business Analysis- Stakeholder Conversations](../../Courses/Data%20Science/Requirements%20Elicitation%20for%20Business%20Analysis-%20Stakeholder%20Conversations.md)
+- [Learning Digital Business Analysis](../../Courses/Data%20Science/Learning%20Digital%20Business%20Analysis.md)
+- [Business Analysis Foundations- Competencies](../../Courses/Data%20Science/Business%20Analysis%20Foundations-%20Competencies.md)
+- [Learning AI for Business Analysis](../../Courses/Artificial%20Intelligence%20(AI)/Learning%20AI%20for%20Business%20Analysis.md)

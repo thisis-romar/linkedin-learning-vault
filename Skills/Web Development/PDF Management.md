@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced Accessible PDFs]] — Advanced · 6h 46m · 36,091 learners
-- [[Creating Accessible PDFs]] — Intermediate · 8h 16m · 11,891 learners
+- [Advanced Accessible PDFs](../../Courses/Web%20Development/Advanced%20Accessible%20PDFs.md) — Advanced · 6h 46m · 36,091 learners
+- [Creating Accessible PDFs](../../Courses/Web%20Development/Creating%20Accessible%20PDFs.md) — Intermediate · 8h 16m · 11,891 learners
 
 ## Related Skills
 
-- [[IT Accessibility]] — 2 shared courses
+- [IT Accessibility](IT%20Accessibility.md) — 2 shared courses

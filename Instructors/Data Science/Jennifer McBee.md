@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cert Prep- Excel Expert - Microsoft Office Specialist for Microsoft 365 Apps]]
-- [[Microsoft Office Specialist- Excel Associate (Microsoft 365 Apps) Cert Prep]]
+- [Cert Prep- Excel Expert - Microsoft Office Specialist for Microsoft 365 Apps](../../Courses/Data%20Science/Cert%20Prep-%20Excel%20Expert%20-%20Microsoft%20Office%20Specialist%20for%20Microsoft%20365%20Apps.md)
+- [Microsoft Office Specialist- Excel Associate (Microsoft 365 Apps) Cert Prep](../../Courses/Data%20Science/Microsoft%20Office%20Specialist-%20Excel%20Associate%20(Microsoft%20365%20Apps)%20Cert%20Prep.md)

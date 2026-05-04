@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating a High Performance Culture]] — Advanced · 1h 4m · 417,476 learners
+- [Creating a High Performance Culture](../../Courses/Data%20Science/Creating%20a%20High%20Performance%20Culture.md) — Advanced · 1h 4m · 417,476 learners

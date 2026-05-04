@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[UX for AI- Design Practices for AI Developers]]
+- [UX for AI- Design Practices for AI Developers](../../Courses/Artificial%20Intelligence%20(AI)/UX%20for%20AI-%20Design%20Practices%20for%20AI%20Developers.md)

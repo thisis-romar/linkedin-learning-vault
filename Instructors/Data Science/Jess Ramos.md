@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL Hands-On Practice- Solve Business Problems]]
+- [SQL Hands-On Practice- Solve Business Problems](../../Courses/Data%20Science/SQL%20Hands-On%20Practice-%20Solve%20Business%20Problems.md)

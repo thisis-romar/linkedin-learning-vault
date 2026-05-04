@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[MongoDB Essential Training]]
+- [MongoDB Essential Training](../../Courses/Database%20Management/MongoDB%20Essential%20Training.md)

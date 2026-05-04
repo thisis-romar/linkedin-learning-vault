@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Arduino- Pulse Width Modulation]]
+- [Learning Arduino- Pulse Width Modulation](../../Courses/Hardware/Learning%20Arduino-%20Pulse%20Width%20Modulation.md)

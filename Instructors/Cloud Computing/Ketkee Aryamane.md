@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Java- Generic Classes]]
+- [Java- Generic Classes](../../Courses/Cloud%20Computing/Java-%20Generic%20Classes.md)

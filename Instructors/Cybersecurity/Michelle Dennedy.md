@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Understanding and Prioritizing Data Privacy]]
+- [Understanding and Prioritizing Data Privacy](../../Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md)

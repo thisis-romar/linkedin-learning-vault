@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Understanding Manual Testing]]
-- [[Software Testing- Planning Tests for Mobile]]
+- [Understanding Manual Testing](../../Courses/Software%20Development/Understanding%20Manual%20Testing.md)
+- [Software Testing- Planning Tests for Mobile](../../Courses/Software%20Development/Software%20Testing-%20Planning%20Tests%20for%20Mobile.md)

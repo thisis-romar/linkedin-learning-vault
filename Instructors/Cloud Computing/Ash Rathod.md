@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Storytelling and Content Creation to Transform Your Personal Brand]]
+- [Storytelling and Content Creation to Transform Your Personal Brand](../../Courses/Cloud%20Computing/Storytelling%20and%20Content%20Creation%20to%20Transform%20Your%20Personal%20Brand.md)

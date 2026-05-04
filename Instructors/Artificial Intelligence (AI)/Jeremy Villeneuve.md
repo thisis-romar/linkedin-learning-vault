@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to AWS AI Services for Developers]]
+- [Introduction to AWS AI Services for Developers](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20AWS%20AI%20Services%20for%20Developers.md)

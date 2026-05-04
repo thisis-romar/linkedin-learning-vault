@@ -28,5 +28,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Hands-On Introduction- Data Engineering]]
-- [[Data Engineering- dbt for SQL]]
+- [Hands-On Introduction- Data Engineering](../../Courses/Data%20Science/Hands-On%20Introduction-%20Data%20Engineering.md)
+- [Data Engineering- dbt for SQL](../../Courses/Data%20Science/Data%20Engineering-%20dbt%20for%20SQL.md)

@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SOLIDWORKS 2022 Essential Training]]
-- [[SOLIDWORKS 2024 Essential Training]]
+- [SOLIDWORKS 2022 Essential Training](../../Courses/Software%20Development/SOLIDWORKS%202022%20Essential%20Training.md)
+- [SOLIDWORKS 2024 Essential Training](../../Courses/Software%20Development/SOLIDWORKS%202024%20Essential%20Training.md)

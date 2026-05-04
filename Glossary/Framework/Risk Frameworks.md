@@ -19,18 +19,18 @@ created: 2026-05-03
 
 # Risk Frameworks
 
-> **Type:** Framework | **Courses:** 1 | **Topics:** [[Artificial Intelligence (AI)]], [[Cybersecurity]]
+> **Type:** Framework | **Courses:** 1 | **Topics:** [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md), [Cybersecurity](../../Topics/Cybersecurity.md)
 
 ## Courses
 
-1. [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]] — 1 mentions
+1. [Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human](../../Courses/Artificial%20Intelligence%20(AI)/Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Responsible AI Foundations Professional Certificate by All Tech Is Human]] — 1 total mentions
+1. [Responsible AI Foundations Professional Certificate by All Tech Is Human](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Responsible%20AI%20Foundations%20Professional%20Certificate%20by%20All%20Tech%20Is%20Human.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (framework)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

@@ -28,9 +28,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Security Testing Essential Training (2022)]]
-- [[Dynamic Application Security Testing]]
-- [[Static Application Security Testing]]
-- [[Soft Skills for Information Security Professionals]]
-- [[Ethics in Cybersecurity]]
-- [[Leveraging AI for Security Testing]]
+- [Security Testing Essential Training (2022)](../../Courses/Cybersecurity/Security%20Testing%20Essential%20Training%20(2022).md)
+- [Dynamic Application Security Testing](../../Courses/Cybersecurity/Dynamic%20Application%20Security%20Testing.md)
+- [Static Application Security Testing](../../Courses/Cybersecurity/Static%20Application%20Security%20Testing.md)
+- [Soft Skills for Information Security Professionals](../../Courses/Cybersecurity/Soft%20Skills%20for%20Information%20Security%20Professionals.md)
+- [Ethics in Cybersecurity](../../Courses/Cybersecurity/Ethics%20in%20Cybersecurity.md)
+- [Leveraging AI for Security Testing](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20for%20Security%20Testing.md)

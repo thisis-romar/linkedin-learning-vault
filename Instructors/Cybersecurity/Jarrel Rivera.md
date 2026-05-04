@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Networking Foundations- Local Area Networks (LANs)]]
-- [[Networking Foundations- Wide Area Networks (WANs)]]
+- [Networking Foundations- Local Area Networks (LANs)](../../Courses/Cybersecurity/Networking%20Foundations-%20Local%20Area%20Networks%20(LANs).md)
+- [Networking Foundations- Wide Area Networks (WANs)](../../Courses/Cybersecurity/Networking%20Foundations-%20Wide%20Area%20Networks%20(WANs).md)

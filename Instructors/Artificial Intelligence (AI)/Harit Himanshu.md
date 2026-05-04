@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]]
+- [Creating a Book Search Engine from Scratch Using Java and GitHub Copilot](../../Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Book%20Search%20Engine%20from%20Scratch%20Using%20Java%20and%20GitHub%20Copilot.md)

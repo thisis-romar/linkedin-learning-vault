@@ -22,21 +22,21 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Continuous Delivery for Cloud Native Java Apps]] — Intermediate · 3h 21m · 128,720 learners
-- [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — Advanced · 38,941 learners
-- [[Kubernetes- Cloud Native Ecosystem]] — Intermediate · 34m · 27,516 learners
+- [Continuous Delivery for Cloud Native Java Apps](../../Courses/Cloud%20Computing/Continuous%20Delivery%20for%20Cloud%20Native%20Java%20Apps.md) — Intermediate · 3h 21m · 128,720 learners
+- [Spring On Kubernetes Deploying And Managing Cloud Native Applications](../../Courses/Cloud%20Computing/Spring%20On%20Kubernetes%20Deploying%20And%20Managing%20Cloud%20Native%20Applications.md) — Advanced · 38,941 learners
+- [Kubernetes- Cloud Native Ecosystem](../../Courses/DevOps/Kubernetes-%20Cloud%20Native%20Ecosystem.md) — Intermediate · 34m · 27,516 learners
 
 ## Related Skills
 
-- [[Kubernetes]] — 2 shared courses
-- [[Java]] — 1 shared course
-- [[Spring Boot]] — 1 shared course
-- [[Continuous Delivery (CD)]] — 1 shared course
+- [Kubernetes](../DevOps/Kubernetes.md) — 2 shared courses
+- [Java](Java.md) — 1 shared course
+- [Spring Boot](Spring%20Boot.md) — 1 shared course
+- [Continuous Delivery (CD)](Continuous%20Delivery%20(CD).md) — 1 shared course
 
 ## Mentioned In Transcripts _(5 total mentions)_
 
-1. [[Planning and Implementing a Rapid Cloud Migration (RCM)]] — 1 mentions
-2. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
-3. [[Azure Essential Training for Developers]] — 1 mentions
-4. [[Kubernetes- Essential Tools]] — 1 mentions
-5. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 1 mentions
+1. [Planning and Implementing a Rapid Cloud Migration (RCM)](../../Courses/Cloud%20Computing/Planning%20and%20Implementing%20a%20Rapid%20Cloud%20Migration%20(RCM).md) — 1 mentions
+2. [Scalable Data Storage and Processing for AI Workloads](../../Courses/Cloud%20Computing/Scalable%20Data%20Storage%20and%20Processing%20for%20AI%20Workloads.md) — 1 mentions
+3. [Azure Essential Training for Developers](../../Courses/Cloud%20Computing/Azure%20Essential%20Training%20for%20Developers.md) — 1 mentions
+4. [Kubernetes- Essential Tools](../../Courses/DevOps/Kubernetes-%20Essential%20Tools.md) — 1 mentions
+5. [Spring On Kubernetes Deploying And Managing Cloud Native Applications](../../Courses/Cloud%20Computing/Spring%20On%20Kubernetes%20Deploying%20And%20Managing%20Cloud%20Native%20Applications.md) — 1 mentions

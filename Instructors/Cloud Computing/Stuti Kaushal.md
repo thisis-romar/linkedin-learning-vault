@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Securing Cloud Resources with Microsoft Defender for Cloud]]
-- [[Azure Cloud Fundamentals- Explore Cloud Services]]
+- [Securing Cloud Resources with Microsoft Defender for Cloud](../../Courses/Cloud%20Computing/Securing%20Cloud%20Resources%20with%20Microsoft%20Defender%20for%20Cloud.md)
+- [Azure Cloud Fundamentals- Explore Cloud Services](../../Courses/Cloud%20Computing/Azure%20Cloud%20Fundamentals-%20Explore%20Cloud%20Services.md)

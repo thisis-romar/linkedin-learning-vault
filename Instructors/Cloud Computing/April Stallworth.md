@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Administrative Professional Foundations]]
+- [Administrative Professional Foundations](../../Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md)

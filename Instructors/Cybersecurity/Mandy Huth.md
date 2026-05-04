@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to Identity and Access Management]]
-- [[Security Frameworks Fundamentals]]
-- [[GDPR Compliance- Essential Training]]
+- [Introduction to Identity and Access Management](../../Courses/Cybersecurity/Introduction%20to%20Identity%20and%20Access%20Management.md)
+- [Security Frameworks Fundamentals](../../Courses/Cloud%20Computing/Security%20Frameworks%20Fundamentals.md)
+- [GDPR Compliance- Essential Training](../../Courses/Cybersecurity/GDPR%20Compliance-%20Essential%20Training.md)

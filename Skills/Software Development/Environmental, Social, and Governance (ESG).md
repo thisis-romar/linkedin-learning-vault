@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Microsoft Cloud for Sustainability- ESG and the Future of Business]] — Intermediate · 28m · 112,663 learners
-- [[Introduction to ESG- Environmental, Social, and Governance]] — 43m · 46,563 learners
+- [Microsoft Cloud for Sustainability- ESG and the Future of Business](../../Courses/Software%20Development/Microsoft%20Cloud%20for%20Sustainability-%20ESG%20and%20the%20Future%20of%20Business.md) — Intermediate · 28m · 112,663 learners
+- [Introduction to ESG- Environmental, Social, and Governance](../../Courses/Software%20Development/Introduction%20to%20ESG-%20Environmental%2C%20Social%2C%20and%20Governance.md) — 43m · 46,563 learners
 
 ## Related Skills
 
-- [[Microsoft’s Cloud for Sustainability]] — 1 shared course
-- [[Digital Sustainability]] — 1 shared course
-- [[Sustainable Business Strategy]] — 1 shared course
+- [Microsoft’s Cloud for Sustainability](Microsoft%E2%80%99s%20Cloud%20for%20Sustainability.md) — 1 shared course
+- [Digital Sustainability](Digital%20Sustainability.md) — 1 shared course
+- [Sustainable Business Strategy](Sustainable%20Business%20Strategy.md) — 1 shared course

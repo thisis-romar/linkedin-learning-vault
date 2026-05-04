@@ -22,7 +22,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[WordPress Essential Training]]
-- [[WordPress- Everything about Plugins]]
-- [[Wordpress Building A Secure Site]]
-- [[WordPress- Staging a Site]]
+- [WordPress Essential Training](../../Courses/Web%20Development/WordPress%20Essential%20Training.md)
+- [WordPress- Everything about Plugins](../../Courses/Cybersecurity/WordPress-%20Everything%20about%20Plugins.md)
+- [Wordpress Building A Secure Site](../../Courses/Web%20Development/Wordpress%20Building%20A%20Secure%20Site.md)
+- [WordPress- Staging a Site](../../Courses/Web%20Development/WordPress-%20Staging%20a%20Site.md)

@@ -22,7 +22,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Exploring AI Workflows within Figma Design]]
-- [[Figma- Designing with Variables and Conditionals]]
-- [[Figma- From Design to CSS Implementation]]
-- [[Learning Web Audio and Video]]
+- [Exploring AI Workflows within Figma Design](../../Courses/Data%20Science/Exploring%20AI%20Workflows%20within%20Figma%20Design.md)
+- [Figma- Designing with Variables and Conditionals](../../Courses/Web%20Development/Figma-%20Designing%20with%20Variables%20and%20Conditionals.md)
+- [Figma- From Design to CSS Implementation](../../Courses/Web%20Development/Figma-%20From%20Design%20to%20CSS%20Implementation.md)
+- [Learning Web Audio and Video](../../Courses/Web%20Development/Learning%20Web%20Audio%20and%20Video.md)

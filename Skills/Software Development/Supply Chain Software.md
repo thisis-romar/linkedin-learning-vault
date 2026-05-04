@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 24m · 55,663 learners
+- [Using Generative Artificial Intelligence (AI) in Supply Chains](../../Courses/Artificial%20Intelligence%20(AI)/Using%20Generative%20Artificial%20Intelligence%20(AI)%20in%20Supply%20Chains.md) — 24m · 55,663 learners
 
 ## Related Skills
 
-- [[Supply Chain Management]] — 1 shared course
-- [[Generative AI Tools]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Supply Chain Management](Supply%20Chain%20Management.md) — 1 shared course
+- [Generative AI Tools](../Artificial%20Intelligence%20(AI)/Generative%20AI%20Tools.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

@@ -30,6 +30,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Software Development]]
-- [[Agile Software Development- Scrum for Developers]]
-- [[Software Development Life Cycle (SDLC)]]
+- [Agile Software Development](../../Skills/DevOps/Agile%20Software%20Development.md)
+- [Agile Software Development- Scrum for Developers](../../Courses/DevOps/Agile%20Software%20Development-%20Scrum%20for%20Developers.md)
+- [Software Development Life Cycle (SDLC)](../../Skills/Software%20Development/Software%20Development%20Life%20Cycle%20(SDLC).md)

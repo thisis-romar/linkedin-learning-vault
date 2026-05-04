@@ -17,20 +17,20 @@ created: 2026-05-03
 
 # Excel Dashboards
 
-> **Type:** Concept | **Courses:** 2 | **Topics:** [[Data Science]]
+> **Type:** Concept | **Courses:** 2 | **Topics:** [Data Science](../../Topics/Data%20Science.md)
 
 ## Courses
 
-1. [[Excel- Dashboards for Beginners (2022)]] — 3 mentions
-2. [[Excel- Creating a Basic Dashboard]] — 1 mentions
+1. [Excel- Dashboards for Beginners (2022)](../../Courses/Data%20Science/Excel-%20Dashboards%20for%20Beginners%20(2022).md) — 3 mentions
+2. [Excel- Creating a Basic Dashboard](../../Courses/Data%20Science/Excel-%20Creating%20a%20Basic%20Dashboard.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)]] — 3 total mentions
-2. [[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)]] — 1 total mentions
+1. [Prepare for the Excel Associate - Microsoft Office Specialist Exam for M365 Apps (MO-210)](../../Paths/Data%20Science/Learning%20Paths/Prepare%20for%20the%20Excel%20Associate%20-%20Microsoft%20Office%20Specialist%20Exam%20for%20M365%20Apps%20(MO-210).md) — 3 total mentions
+2. [Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)](../../Paths/Data%20Science/Learning%20Paths/Prepare%20for%20the%20Excel%20Expert%20-%20Microsoft%20Office%20Specialist%20Exam%20for%20M365%20Apps%20(MO-211).md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

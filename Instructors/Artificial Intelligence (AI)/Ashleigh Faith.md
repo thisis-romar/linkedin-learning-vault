@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Knowledge Graph Data Engineering for Generative AI Use Cases]]
-- [[Semantic Search and Information Retrieval using GenAI]]
+- [Knowledge Graph Data Engineering for Generative AI Use Cases](../../Courses/Artificial%20Intelligence%20(AI)/Knowledge%20Graph%20Data%20Engineering%20for%20Generative%20AI%20Use%20Cases.md)
+- [Semantic Search and Information Retrieval using GenAI](../../Courses/Artificial%20Intelligence%20(AI)/Semantic%20Search%20and%20Information%20Retrieval%20using%20GenAI.md)

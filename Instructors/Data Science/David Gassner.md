@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL Practice- Basic Queries]]
+- [SQL Practice- Basic Queries](../../Courses/Data%20Science/SQL%20Practice-%20Basic%20Queries.md)

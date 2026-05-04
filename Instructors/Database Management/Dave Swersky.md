@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced Terraform]]
+- [Advanced Terraform](../../Courses/Database%20Management/Advanced%20Terraform.md)

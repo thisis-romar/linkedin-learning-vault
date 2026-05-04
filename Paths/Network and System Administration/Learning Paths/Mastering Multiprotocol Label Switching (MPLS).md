@@ -17,19 +17,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Mpls Foundations Getting Started With Mpls]]'
+  - course: '[Mpls Foundations Getting Started With Mpls](../../../Courses/Network%20and%20System%20Administration/Mpls%20Foundations%20Getting%20Started%20With%20Mpls.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[MPLS L3VPN Foundation and Implementation]]'
+  - course: '[MPLS L3VPN Foundation and Implementation](../../../Courses/Network%20and%20System%20Administration/MPLS%20L3VPN%20Foundation%20and%20Implementation.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[MPLS- Traffic Engineering]]'
+  - course: '[MPLS- Traffic Engineering](../../../Courses/Network%20and%20System%20Administration/MPLS-%20Traffic%20Engineering.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[MPLS Segment Routing]]'
+  - course: '[MPLS Segment Routing](../../../Courses/Network%20and%20System%20Administration/MPLS%20Segment%20Routing.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -44,19 +44,19 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Mpls Foundations Getting Started With Mpls]]
-2. [[MPLS L3VPN Foundation and Implementation]] _(2h 3m)_
-3. [[MPLS- Traffic Engineering]] _(2h 35m)_
-4. [[MPLS Segment Routing]] _(3h 10m)_
+1. [Mpls Foundations Getting Started With Mpls](../../../Courses/Network%20and%20System%20Administration/Mpls%20Foundations%20Getting%20Started%20With%20Mpls.md)
+2. [MPLS L3VPN Foundation and Implementation](../../../Courses/Network%20and%20System%20Administration/MPLS%20L3VPN%20Foundation%20and%20Implementation.md) _(2h 3m)_
+3. [MPLS- Traffic Engineering](../../../Courses/Network%20and%20System%20Administration/MPLS-%20Traffic%20Engineering.md) _(2h 35m)_
+4. [MPLS Segment Routing](../../../Courses/Network%20and%20System%20Administration/MPLS%20Segment%20Routing.md) _(3h 10m)_
 
 ## Course Flow
 
-1. [[Mpls Foundations Getting Started With Mpls]] → 2. [[MPLS L3VPN Foundation and Implementation]] → 3. [[MPLS- Traffic Engineering]] → 4. [[MPLS Segment Routing]]
+1. [Mpls Foundations Getting Started With Mpls](../../../Courses/Network%20and%20System%20Administration/Mpls%20Foundations%20Getting%20Started%20With%20Mpls.md) → 2. [MPLS L3VPN Foundation and Implementation](../../../Courses/Network%20and%20System%20Administration/MPLS%20L3VPN%20Foundation%20and%20Implementation.md) → 3. [MPLS- Traffic Engineering](../../../Courses/Network%20and%20System%20Administration/MPLS-%20Traffic%20Engineering.md) → 4. [MPLS Segment Routing](../../../Courses/Network%20and%20System%20Administration/MPLS%20Segment%20Routing.md)
 
 ## Topics
 
-- [[Network and System Administration]]
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Network and System Administration]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)

@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Predictive Analytics Essential Training- Estimating and Ensuring ROI]] — Intermediate · 54m · 78,523 learners
+- [Predictive Analytics Essential Training- Estimating and Ensuring ROI](../../Courses/Data%20Science/Predictive%20Analytics%20Essential%20Training-%20Estimating%20and%20Ensuring%20ROI.md) — Intermediate · 54m · 78,523 learners
 
 ## Related Skills
 
-- [[ROI Management]] — 1 shared course
-- [[ROI Strategies]] — 1 shared course
-- [[Predictive Analytics]] — 1 shared course
+- [ROI Management](ROI%20Management.md) — 1 shared course
+- [ROI Strategies](ROI%20Strategies.md) — 1 shared course
+- [Predictive Analytics](Predictive%20Analytics.md) — 1 shared course

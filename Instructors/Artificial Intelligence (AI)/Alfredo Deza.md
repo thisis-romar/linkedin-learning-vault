@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[MLOps Tools- MLflow and Hugging Face]]
+- [MLOps Tools- MLflow and Hugging Face](../../Courses/Artificial%20Intelligence%20(AI)/MLOps%20Tools-%20MLflow%20and%20Hugging%20Face.md)

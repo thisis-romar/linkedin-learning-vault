@@ -16,11 +16,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHwLhX7mciAFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902085725?e=2147483647&amp;v=beta&amp;t=-nbo6ggJgU5zG_My0xWIsSSv9W9xfSpBXhKRVQ3hrHc"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[SQL Hands-On Practice]]'
+  - '[SQL Hands-On Practice](../../Paths/Data%20Science/Learning%20Paths/SQL%20Hands-On%20Practice.md)'
 prev_courses:
-  - '[[Hands On Introduction Sql]]'
+  - '[Hands On Introduction Sql](Hands%20On%20Introduction%20Sql.md)'
 next_courses:
-  - '[[SQL Practice- Intermediate Queries]]'
+  - '[SQL Practice- Intermediate Queries](SQL%20Practice-%20Intermediate%20Queries.md)'
 path_nav: '[{"path":"SQL Hands-On Practice","position":2,"total":9,"prev":"Hands On Introduction Sql","next":"SQL Practice- Intermediate Queries"}]'
 path_count: 1
 tags:
@@ -71,11 +71,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=0)** - [David] [[SQL]] or structured query language is used by everyone from software developers to business analysts. It's the universal language for accessing and manipulating data in a relational database, and it's an essential tool for anyone who works with data. SQL is supported by everything from enterprise server-based [[Microsoft Products|products]] to tiny file-based systems. This course will help you test your SQL knowledge. In each challenge, you'll be given a data set and instructions, and then it's up to you to write your own [[Database Queries]] right in your browser. Good luck and have fun.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=0)** - [David] [SQL](../../Skills/Data%20Science/SQL.md) or structured query language is used by everyone from software developers to business analysts. It's the universal language for accessing and manipulating data in a relational database, and it's an essential tool for anyone who works with data. SQL is supported by everything from enterprise server-based [products](../../Skills/Software%20Development/Microsoft%20Products.md) to tiny file-based systems. This course will help you test your SQL knowledge. In each challenge, you'll be given a data set and instructions, and then it's up to you to write your own [Database Queries](../../Skills/Software%20Development/Database%20Queries.md) right in your browser. Good luck and have fun.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Products|Products]] (1), [[Database Queries]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (3), [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1), [Database Queries](../../Skills/Software%20Development/Database%20Queries.md) (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [david] (1)
 
@@ -83,11 +83,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is designed for anybody using a relational database, that is, a database that can support multiple tables that can be joined at runtime using queries. Different database [[Microsoft Products|products]] use different versions of [[SQL]]. This particular course is built around code challenges that run on something called the H2 Database Engine. This is an open source database product that can mimic the behavior of various database products. These code challenges work with H2 Database Engine in its compatibility mode, which means that its syntax is the same as with the product [[MySQL]] and MariaDB. When working through these code challenges, you'll be using a database schema, a set of tables that are designed to link together. They're built for a fictional restaurant brand, and so you have customers of the restaurant, dishes that the restaurant serves, orders, a table that links the orders and dishes tables together, and then reservations and events. None of the code challenges are going to use all of these tables, and at the beginning of each challenge, I'll show you which tables in this schema will be used. Before you try these challenges, you may want to watch some instructional content, and I highly recommend the course [[SQL Essential Training]], which takes you through the basic concepts of SQL and the most common commands that you'll use when you work with [[Relational Databases]].
+> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is designed for anybody using a relational database, that is, a database that can support multiple tables that can be joined at runtime using queries. Different database [products](../../Skills/Software%20Development/Microsoft%20Products.md) use different versions of [SQL](../../Skills/Data%20Science/SQL.md). This particular course is built around code challenges that run on something called the H2 Database Engine. This is an open source database product that can mimic the behavior of various database products. These code challenges work with H2 Database Engine in its compatibility mode, which means that its syntax is the same as with the product [MySQL](../../Skills/Software%20Development/MySQL.md) and MariaDB. When working through these code challenges, you'll be using a database schema, a set of tables that are designed to link together. They're built for a fictional restaurant brand, and so you have customers of the restaurant, dishes that the restaurant serves, orders, a table that links the orders and dishes tables together, and then reservations and events. None of the code challenges are going to use all of these tables, and at the beginning of each challenge, I'll show you which tables in this schema will be used. Before you try these challenges, you may want to watch some instructional content, and I highly recommend the course [SQL Essential Training](SQL%20Essential%20Training.md), which takes you through the basic concepts of SQL and the most common commands that you'll use when you work with [Relational Databases](../../Skills/Software%20Development/Relational%20Databases.md).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Products|Products]] (2), [[MySQL]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (3), [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2), [MySQL](../../Skills/Software%20Development/MySQL.md) (1), [Relational Databases](../../Skills/Software%20Development/Relational%20Databases.md) (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** mysql (1)
@@ -97,13 +97,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/exploring-the-lab-environment?u=76281980&t=0)** - [Instructor] This course consists of automated code challenges that appear when you click on the challenge links in the course's table of contents. Each challenge includes instructions and a code editor you can use to create and test your own solution to the challenge. These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos. We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer. The code challenge has three areas. Instructions in the top left, a console for output in the bottom left, and a code editor for your answer on the right. You can use these drag handles to reallocate space for the code editor or any other content. To get even more horizontal space for the code editor, you can collapse the course's table of contents on the left. Each challenge has instructions that include a description of the challenge and the challenge's desired result. In this example, the desired result has a single value named price. Create your answer in the code editor. When you click Test my code, you'll see a message indicating whether your code returned a correct result. If you don't see that result immediately, make sure that you've allocated enough space. In this example, I'm seeing incorrect output because I'm querying everything from a particular table in the database.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/exploring-the-lab-environment?u=76281980&t=0)** - [Instructor] This course consists of automated code challenges that appear when you click on the challenge links in the course's table of contents. Each challenge includes instructions and a code editor you can use to create and test your own solution to the challenge. These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos. We recommend using a desktop browser for the best experience with code challenges, but you can use the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning mobile app if you prefer. The code challenge has three areas. Instructions in the top left, a console for output in the bottom left, and a code editor for your answer on the right. You can use these drag handles to reallocate space for the code editor or any other content. To get even more horizontal space for the code editor, you can collapse the course's table of contents on the left. Each challenge has instructions that include a description of the challenge and the challenge's desired result. In this example, the desired result has a single value named price. Create your answer in the code editor. When you click Test my code, you'll see a message indicating whether your code returned a correct result. If you don't see that result immediately, make sure that you've allocated enough space. In this example, I'm seeing incorrect output because I'm querying everything from a particular table in the database.
 >
 > **[1:35](https://www.linkedin.com/learning/sql-practice-basic-queries/exploring-the-lab-environment?u=76281980&t=95)** Now, I'm going to change this to the correct answer. I'll use the max function and pass in price and then I'll rename the result price. I'll test the code again and this time I'll see that I got the correct output. If any messages are too long to fit in the console, you can scroll sideways to see all of the text. And when you finished each code challenge, return to the course's table of contents and click the next video to see my solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -143,11 +143,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-on-a-range-of-values?u=76281980&t=0)** - [Instructor] This code challenge uses just one table from my restaurant's database, the dishes table. This table has a primary key column, and then three string columns for name, description, and type, and a decimal column for the price. This challenge asks you to filter the data so you only retrieve dishes where the price is between a value of eight and nine, and only to show the dish's name and price. Here's my solution. The beginning code just retrieves everything from the dish's table, so if I run that code, I'll see incorrect output and I'll see that there are 22 rows in the table. Now I'm going to paste in my solution. I'm only retrieving the dish ID, that is the primary key, the name, and the price. And I'm filtering using the between keyword. This means get everything with a value greater than or equal to eight, and less than or equal to nine. And I'm sorting the results by the name column. This results in retrieving six rows from the table, and they're alphabetized by the dish's name, starting with A and ending with P. That's my solution to this code challenge. Now, you could've solved this in a couple of different ways. Instead of the between keyword, you could've said the price has to be greater than or equal to eight. and less than or equal to nine, but the between keyword is a great way to filter
 >
-> **[1:33](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-on-a-range-of-values?u=76281980&t=93)** for a range of values using [[SQL]]. It's more concise and it gets the job done.
+> **[1:33](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-on-a-range-of-values?u=76281980&t=93)** for a range of values using [SQL](../../Skills/Data%20Science/SQL.md). It's more concise and it gets the job done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -156,13 +156,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-aggregated-data-with-an-sql-function?u=76281980&t=0)** - [Instructor] In this code challenge, you're asked to find the three customers that have the most orders historically over time. You'll work with two tables in this database, the customers table and the orders table. These two tables are linked together by the CustomerID columns. That's the primary key in the customers table and the second column in the orders table. The initial [[SQL]] statement just selects data from the customers table. I'll test the code and see, incorrect output, which is expected but see that the customer table has those three columns. CUSTOMERID, FIRSTNAME, and LASTNAME. Now I'm going to select everything from the orders table.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-aggregated-data-with-an-sql-function?u=76281980&t=0)** - [Instructor] In this code challenge, you're asked to find the three customers that have the most orders historically over time. You'll work with two tables in this database, the customers table and the orders table. These two tables are linked together by the CustomerID columns. That's the primary key in the customers table and the second column in the orders table. The initial [SQL](../../Skills/Data%20Science/SQL.md) statement just selects data from the customers table. I'll test the code and see, incorrect output, which is expected but see that the customer table has those three columns. CUSTOMERID, FIRSTNAME, and LASTNAME. Now I'm going to select everything from the orders table.
 >
 > **[0:48](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-aggregated-data-with-an-sql-function?u=76281980&t=48)** The orders table has 1,000 rows and only some of them are displayed here. But you'll see that there's an ORDERID, a CUSTOMERID and an ORDERDATE. Now I'll show you my solution to this challenge. The challenge asked me to return the three customers who have made the most orders. So I'm starting with the TOP 3 clause. That's an easy way to get the three top rows of a result set. And then I'm retrieving the CustomerID, the Customer.FirstName and the Customer.LastName. To get the CustomerOrderCount, I'm using an INNER JOIN to link the two tables together on their CustomerID columns. And then to get the aggregate, that is the total count per customer, I'm using the GROUP BY clause and I'm grouping on the CustomerID. And then finally, to make sure I'm getting the three customers with the most orders, I'm sorting by CustomerOrderCount in descending order. And notice that CustomerOrderCount is the name that I've assigned to that result column. So now when I test my code, I get a correct output and I see the four columns that were requested, the CUSTOMERID, the FIRSTNAME, the LASTNAME and the CUSTOMERORDERCOUNT, which is the result of the count of the OrderID. That's my solution to this code challenge. How did you solve it?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Env Vars:** customerid (3), firstname (2), lastname (2), sql (1), orderid (1)
 > **CLI Commands:** find (1), make (1)
 > **SQL:** inner join (1), group by (1)
@@ -217,18 +217,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980&t=0)** - [Narrator] Thank you for joining me for this set of [[SQL]] Code Challenges. If you liked this course, you can watch more code challenge courses. There's one on intermediate queries and a more advanced course on the topic of SQL Window functions. To learn more about the topic, you can watch one of many available courses on SQL. [[SQL Essential Training]] takes you through the basics of the language and then to keep up-to-date with new ideas, you could keep track of the serial course, SQL Weekly Tips and then this course on [[Data Reporting]] and analysis is one of many courses available on this topic. These courses and more are available as you continue to build your SQL skills.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980&t=0)** - [Narrator] Thank you for joining me for this set of [SQL](../../Skills/Data%20Science/SQL.md) Code Challenges. If you liked this course, you can watch more code challenge courses. There's one on intermediate queries and a more advanced course on the topic of SQL Window functions. To learn more about the topic, you can watch one of many available courses on SQL. [SQL Essential Training](SQL%20Essential%20Training.md) takes you through the basics of the language and then to keep up-to-date with new ideas, you could keep track of the serial course, SQL Weekly Tips and then this course on [Data Reporting](../../Skills/Software%20Development/Data%20Reporting.md) and analysis is one of many courses available on this topic. These courses and more are available as you continue to build your SQL skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[Data Reporting]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (6), [Data Reporting](../../Skills/Software%20Development/Data%20Reporting.md) (1)
 > **Env Vars:** sql (6)
 > **Speakers:** - [narrator] (1)
 
 
 ## Instructor
 
-- [[David Gassner]]
+- [David Gassner](../../Instructors/Data%20Science/David%20Gassner.md)
 
 ## Skills Covered
 
@@ -236,22 +236,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[SQL Hands-On Practice]]
-← [[Hands On Introduction Sql]] | **2 of 9** | [[SQL Practice- Intermediate Queries]] →
+### In [SQL Hands-On Practice](../../Paths/Data%20Science/Learning%20Paths/SQL%20Hands-On%20Practice.md)
+← [Hands On Introduction Sql](Hands%20On%20Introduction%20Sql.md) | **2 of 9** | [SQL Practice- Intermediate Queries](SQL%20Practice-%20Intermediate%20Queries.md) →
 
 ## Appears In
 
-- [[SQL Hands-On Practice]]
+- [SQL Hands-On Practice](../../Paths/Data%20Science/Learning%20Paths/SQL%20Hands-On%20Practice.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Advanced SQL Project- Design and Manage a Database]] — SQL
-- [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — SQL
-- [[SQL Server Fundamentals- Master Basic Query Techniques]] — SQL
-- [[Advanced SQL for Data Science- Time Series]] — SQL
-- [[Intermediate SQL- Data Reporting and Analysis]] — SQL
+- [Advanced SQL Project- Design and Manage a Database](Advanced%20SQL%20Project-%20Design%20and%20Manage%20a%20Database.md) — SQL
+- [Practical Database Design- Implementing Responsible Data Solutions with SQL Querying](Practical%20Database%20Design-%20Implementing%20Responsible%20Data%20Solutions%20with%20SQL%20Querying.md) — SQL
+- [SQL Server Fundamentals- Master Basic Query Techniques](SQL%20Server%20Fundamentals-%20Master%20Basic%20Query%20Techniques.md) — SQL
+- [Advanced SQL for Data Science- Time Series](Advanced%20SQL%20for%20Data%20Science-%20Time%20Series.md) — SQL
+- [Intermediate SQL- Data Reporting and Analysis](Intermediate%20SQL-%20Data%20Reporting%20and%20Analysis.md) — SQL
 
 ---
 

@@ -34,7 +34,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL Essential Training]]
-- [[SQL Server Intelligence- Cracking the Code of Enterprise Data]]
-- [[Data Analysis- Investigate with SQL]]
-- [[Advanced SQL Project- Design and Manage a Database]]
+- [SQL Essential Training](../../Courses/Data%20Science/SQL%20Essential%20Training.md)
+- [SQL Server Intelligence- Cracking the Code of Enterprise Data](../../Courses/Data%20Science/SQL%20Server%20Intelligence-%20Cracking%20the%20Code%20of%20Enterprise%20Data.md)
+- [Data Analysis- Investigate with SQL](../../Courses/Data%20Science/Data%20Analysis-%20Investigate%20with%20SQL.md)
+- [Advanced SQL Project- Design and Manage a Database](../../Courses/Data%20Science/Advanced%20SQL%20Project-%20Design%20and%20Manage%20a%20Database.md)

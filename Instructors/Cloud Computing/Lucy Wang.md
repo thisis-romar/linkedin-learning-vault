@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cloud Computing Terms Every Beginner Should Know]]
-- [[Building Serverless Applications in AWS]]
+- [Cloud Computing Terms Every Beginner Should Know](../../Courses/Cloud%20Computing/Cloud%20Computing%20Terms%20Every%20Beginner%20Should%20Know.md)
+- [Building Serverless Applications in AWS](../../Courses/Cloud%20Computing/Building%20Serverless%20Applications%20in%20AWS.md)

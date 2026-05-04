@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Developing Chatbots with Azure]]
+- [Developing Chatbots with Azure](../../Courses/Cloud%20Computing/Developing%20Chatbots%20with%20Azure.md)

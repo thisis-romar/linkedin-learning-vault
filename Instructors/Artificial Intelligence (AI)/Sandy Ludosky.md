@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Integrating Generative AI into JavaScript Web Projects]]
+- [Integrating Generative AI into JavaScript Web Projects](../../Courses/Artificial%20Intelligence%20(AI)/Integrating%20Generative%20AI%20into%20JavaScript%20Web%20Projects.md)

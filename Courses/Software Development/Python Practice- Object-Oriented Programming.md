@@ -17,11 +17,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQH7193iBIAhRw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692902250796?e=2147483647&amp;v=beta&amp;t=wYPtpWYN0JZsAvinlsPMrB-UXjQyO_mi4Lxme3YxQdU"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[Python Hands-On Practice]]'
+  - '[Python Hands-On Practice](../../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)'
 prev_courses:
-  - '[[Python Practice- Collections]]'
+  - '[Python Practice- Collections](Python%20Practice-%20Collections.md)'
 next_courses:
-  - '[[Building the Classic Snake Game with Python]]'
+  - '[Building the Classic Snake Game with Python](Building%20the%20Classic%20Snake%20Game%20with%20Python.md)'
 path_nav: '[{"path":"Python Hands-On Practice","position":5,"total":14,"prev":"Python Practice- Collections","next":"Building the Classic Snake Game with Python"}]'
 path_count: 1
 tags:
@@ -69,11 +69,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=0)** - [Scott] [[Python (Programming Language)|Python]] is one of the most popular programming languages in the world. Knowledge of Python opens the door to working with data, building applications, and solving problems with code that can run on many types of devices. In this Code Challenge course, you can test your knowledge of [[Object-Oriented Programming (OOP)|object-oriented programming]] and Python to build your confidence working with the objects in classes that allow us to model real world systems in code. And I've put together five code challenges that cover the concepts around object-oriented programming that you'll use when working in Python. Build and test your solutions to these challenges in the built-in interactive coding environment. No special software required. And when you finish your solution to each challenge, take a look at my solution videos to see how I solved them. I'm Scott Simpson, senior staff instructor at [[LinkedIn]] Learning. If you're ready to try out your [[Python Object-Oriented Programming]] skills, let's go.
+> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=0)** - [Scott] [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) is one of the most popular programming languages in the world. Knowledge of Python opens the door to working with data, building applications, and solving problems with code that can run on many types of devices. In this Code Challenge course, you can test your knowledge of [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) and Python to build your confidence working with the objects in classes that allow us to model real world systems in code. And I've put together five code challenges that cover the concepts around object-oriented programming that you'll use when working in Python. Build and test your solutions to these challenges in the built-in interactive coding environment. No special software required. And when you finish your solution to each challenge, take a look at my solution videos to see how I solved them. I'm Scott Simpson, senior staff instructor at [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning. If you're ready to try out your [Python Object-Oriented Programming](Python%20Object-Oriented%20Programming.md) skills, let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (5), [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (3), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** python (5)
 > **Speakers:** - [scott] (1)
 
@@ -81,11 +81,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=0)** - [Instructor] In this Code Challenge course, I expect you to be familiar with using objects in [[Python (Programming Language)|Python]]. We'll work with various aspects of [[Object-Oriented Programming (OOP)|object-oriented programming]] like classes, instances, inheritance, and so on. The challenges start out with the fundamentals and become more involved as the course moves on. If you need to refresh your Python knowledge, take a look at these courses in the [[LinkedIn]] Learning Library. To work on these challenges, you don't need to install any separate software. The coding challenge environment is part of the LinkedIn Learning course page. We'll explore how that works in the next video.
+> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=0)** - [Instructor] In this Code Challenge course, I expect you to be familiar with using objects in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md). We'll work with various aspects of [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) like classes, instances, inheritance, and so on. The challenges start out with the fundamentals and become more involved as the course moves on. If you need to refresh your Python knowledge, take a look at these courses in the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning Library. To work on these challenges, you don't need to install any separate software. The coding challenge environment is part of the LinkedIn Learning course page. We'll explore how that works in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2), [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (1)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
@@ -95,7 +95,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/exploring-the-lab-environment?u=76281980&t=0)** - [Instructor] This course consists of automated code challenges that appear when you click on the challenge links in the courses table of contents. Each challenge includes instructions and a couple of code editors you can use to create and test your own solution to the challenge. These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the courses videos. We recommend using a desktop browser for the best experience with code challenges but you can use the [[LinkedIn]] Learning mobile app if you prefer. The code challenge has four areas. Instructions are in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left. You can use these drag handles to allocate space as you like. To get even more horizontal space for the code editors, you can collapse the courses table of contents on the left. Each challenge has instructions that included description of the challenge and the challenges parameters and desired result. Parameters are values that are passed into your code and they have to be of a particular data type. The return value also has to be of a particular type and you'll also see that noted in the instructions. The constraints section has useful information about the parameters that will be passed in. The examples show different parameter values and what result would be returned for each of those test cases. Create your answer in the top right code editor. There are comments in the starting code showing where to put your solution.
+> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/exploring-the-lab-environment?u=76281980&t=0)** - [Instructor] This course consists of automated code challenges that appear when you click on the challenge links in the courses table of contents. Each challenge includes instructions and a couple of code editors you can use to create and test your own solution to the challenge. These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the courses videos. We recommend using a desktop browser for the best experience with code challenges but you can use the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning mobile app if you prefer. The code challenge has four areas. Instructions are in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left. You can use these drag handles to allocate space as you like. To get even more horizontal space for the code editors, you can collapse the courses table of contents on the left. Each challenge has instructions that included description of the challenge and the challenges parameters and desired result. Parameters are values that are passed into your code and they have to be of a particular data type. The return value also has to be of a particular type and you'll also see that noted in the instructions. The constraints section has useful information about the parameters that will be passed in. The examples show different parameter values and what result would be returned for each of those test cases. Create your answer in the top right code editor. There are comments in the starting code showing where to put your solution.
 >
 > **[1:39](https://www.linkedin.com/learning/python-practice-object-oriented-programming/exploring-the-lab-environment?u=76281980&t=99)** When you click test my code, you'll see a message indicating whether your code returned a correct result. If your code isn't successful, you can ask for help.
 >
@@ -105,7 +105,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -154,13 +154,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-4-protect-an-attribute?u=76281980&t=0)** - [Instructor] Here's how I solved this challenge, and there's two things going on here that we need to recognize. First, we'll change the price attribute to start with an underscore. In [[Python (Programming Language)|Python]], a leading underscore is a convention to say, even though you can access this, please don't, pretend it's not there, pretend it's private. Other languages make this more robust, but Python doesn't. And so, that's all we can do to sort of make a private attribute. Second, I added a method called price, which when called returns self._price, our semi-private attribute that stores the price of the item. However, above that, I added the at property decorator, which treats this method like the getter for a regular attribute. Ordinarily, when we define an attribute, it has a getter and setter method. In our case here, we don't want price to have a setter method. So we can use at property, which is a shorthand for basically only having a getter method defined. We could further define a setter, but if we don't want this price property to be changed, because there's no setter for price, when we try to get price, we get an attribute error. The same as if we had tried to set cake.giraffe, or cake.moonbase, or whatever, there's no setters for those either. It's also important to recognize that if we had tried to just use self.price without the underscore, and then use this property here to only ever return a value and never have a setter for it, instantiating this class would always fail because its own initialization would run up against this property here, and we'd never be able to make a new cake object. And cake objects are delicious, so we use the underscore semi-private attribute trick to get around that.
+> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-4-protect-an-attribute?u=76281980&t=0)** - [Instructor] Here's how I solved this challenge, and there's two things going on here that we need to recognize. First, we'll change the price attribute to start with an underscore. In [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md), a leading underscore is a convention to say, even though you can access this, please don't, pretend it's not there, pretend it's private. Other languages make this more robust, but Python doesn't. And so, that's all we can do to sort of make a private attribute. Second, I added a method called price, which when called returns self._price, our semi-private attribute that stores the price of the item. However, above that, I added the at property decorator, which treats this method like the getter for a regular attribute. Ordinarily, when we define an attribute, it has a getter and setter method. In our case here, we don't want price to have a setter method. So we can use at property, which is a shorthand for basically only having a getter method defined. We could further define a setter, but if we don't want this price property to be changed, because there's no setter for price, when we try to get price, we get an attribute error. The same as if we had tried to set cake.giraffe, or cake.moonbase, or whatever, there's no setters for those either. It's also important to recognize that if we had tried to just use self.price without the underscore, and then use this property here to only ever return a value and never have a setter for it, instantiating this class would always fail because its own initialization would run up against this property here, and we'd never be able to make a new cake object. And cake objects are delicious, so we use the underscore semi-private attribute trick to get around that.
 >
 > **[1:34](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-4-protect-an-attribute?u=76281980&t=94)** Okay, that was a lot of explanation for not very much code. So let's see if this works. I'll run this, and there we go. I get the correct answer, true, which I can see comes from this try accept block down here. When we tried to set the spice cake price to a new value, and we got an attribute error back, that changed the result here to true.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **CLI Commands:** make (3), python (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** initialization (1)
@@ -189,18 +189,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980&t=0)** - [Narrator] If you were able to solve these challenges, congratulations, and if not, take some time to refresh your knowledge of [[Python (Programming Language)|Python]] and come back and try again. If you're ready to move on and solve more challenges, take a look at our other interactive Python Code challenge courses here on [[LinkedIn]] Learning. See you next time.
+> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980&t=0)** - [Narrator] If you were able to solve these challenges, congratulations, and if not, take some time to refresh your knowledge of [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) and come back and try again. If you're ready to move on and solve more challenges, take a look at our other interactive Python Code challenge courses here on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning. See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [narrator] (1)
 
 
 ## Instructor
 
-- [[Scott Simpson]]
+- [Scott Simpson](../../Instructors/Software%20Development/Scott%20Simpson.md)
 
 ## Skills Covered
 
@@ -209,22 +209,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Python Hands-On Practice]]
-← [[Python Practice- Collections]] | **5 of 14** | [[Building the Classic Snake Game with Python]] →
+### In [Python Hands-On Practice](../../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)
+← [Python Practice- Collections](Python%20Practice-%20Collections.md) | **5 of 14** | [Building the Classic Snake Game with Python](Building%20the%20Classic%20Snake%20Game%20with%20Python.md) →
 
 ## Appears In
 
-- [[Python Hands-On Practice]]
+- [Python Hands-On Practice](../../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Python Object-Oriented Programming]] — Python (Programming Language), Object-Oriented Programming (OOP)
-- [[Learning ArcGIS Python Scripting]] — Python (Programming Language)
-- [[QGIS and Python for AEC]] — Python (Programming Language)
-- [[Python Data Structures- Trees]] — Python (Programming Language)
-- [[Using SQL with Python]] — Python (Programming Language)
+- [Python Object-Oriented Programming](Python%20Object-Oriented%20Programming.md) — Python (Programming Language), Object-Oriented Programming (OOP)
+- [Learning ArcGIS Python Scripting](../Data%20Science/Learning%20ArcGIS%20Python%20Scripting.md) — Python (Programming Language)
+- [QGIS and Python for AEC](../Data%20Science/QGIS%20and%20Python%20for%20AEC.md) — Python (Programming Language)
+- [Python Data Structures- Trees](../Database%20Management/Python%20Data%20Structures-%20Trees.md) — Python (Programming Language)
+- [Using SQL with Python](../Data%20Science/Using%20SQL%20with%20Python.md) — Python (Programming Language)
 
 ---
 

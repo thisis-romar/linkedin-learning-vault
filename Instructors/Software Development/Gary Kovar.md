@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Refactoring with GitHub Copilot]]
-- [[Software Testing Assistance with GitHub Copilot AI]]
-- [[Advanced PHP- Debugging Techniques]]
+- [Refactoring with GitHub Copilot](../../Courses/Artificial%20Intelligence%20(AI)/Refactoring%20with%20GitHub%20Copilot.md)
+- [Software Testing Assistance with GitHub Copilot AI](../../Courses/Artificial%20Intelligence%20(AI)/Software%20Testing%20Assistance%20with%20GitHub%20Copilot%20AI.md)
+- [Advanced PHP- Debugging Techniques](../../Courses/Cybersecurity/Advanced%20PHP-%20Debugging%20Techniques.md)

@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Using AI for Accessible Design Workflows]]
+- [Using AI for Accessible Design Workflows](../../Courses/Web%20Development/Using%20AI%20for%20Accessible%20Design%20Workflows.md)

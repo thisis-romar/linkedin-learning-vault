@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Design Thinking- Lead Change in Your Organization]]
+- [Learning Design Thinking- Lead Change in Your Organization](../../Courses/Cloud%20Computing/Learning%20Design%20Thinking-%20Lead%20Change%20in%20Your%20Organization.md)

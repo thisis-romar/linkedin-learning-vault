@@ -19,43 +19,43 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Openai Api Introduction]]'
+  - course: '[Openai Api Introduction](../../../Courses/Artificial%20Intelligence%20(AI)/Openai%20Api%20Introduction.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[OpenAI API- Working with Files]]'
+  - course: '[OpenAI API- Working with Files](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Working%20with%20Files.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[OpenAI API- Function Calling (2023)]]'
+  - course: '[OpenAI API- Function Calling (2023)](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Function%20Calling%20(2023).md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[OpenAI API- Embeddings]]'
+  - course: '[OpenAI API- Embeddings](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Embeddings.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[OpenAI API- Fine-Tuning]]'
+  - course: '[OpenAI API- Fine-Tuning](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Fine-Tuning.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[OpenAI API- Image Generation with DALL-E]]'
+  - course: '[OpenAI API- Image Generation with DALL-E](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Image%20Generation%20with%20DALL-E.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[OpenAI API- Vision]]'
+  - course: '[OpenAI API- Vision](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Vision.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[OpenAI API- Speech]]'
+  - course: '[OpenAI API- Speech](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Speech.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[OpenAI API- Moderation]]'
+  - course: '[OpenAI API- Moderation](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Moderation.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[OpenAI API- Code Interpreter and Advanced Data Analysis]]'
+  - course: '[OpenAI API- Code Interpreter and Advanced Data Analysis](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Code%20Interpreter%20and%20Advanced%20Data%20Analysis.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -70,26 +70,26 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Openai Api Introduction]]
-2. [[OpenAI API- Working with Files]] _(36m)_
-3. [[OpenAI API- Function Calling (2023)]] _(17m)_
-4. [[OpenAI API- Embeddings]] _(27m)_
-5. [[OpenAI API- Fine-Tuning]] _(47m)_
-6. [[OpenAI API- Image Generation with DALL-E]] _(24m)_
-7. [[OpenAI API- Vision]] _(30m)_
-8. [[OpenAI API- Speech]] _(29m)_
-9. [[OpenAI API- Moderation]] _(14m)_
-10. [[OpenAI API- Code Interpreter and Advanced Data Analysis]] _(42m)_
+1. [Openai Api Introduction](../../../Courses/Artificial%20Intelligence%20(AI)/Openai%20Api%20Introduction.md)
+2. [OpenAI API- Working with Files](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Working%20with%20Files.md) _(36m)_
+3. [OpenAI API- Function Calling (2023)](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Function%20Calling%20(2023).md) _(17m)_
+4. [OpenAI API- Embeddings](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Embeddings.md) _(27m)_
+5. [OpenAI API- Fine-Tuning](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Fine-Tuning.md) _(47m)_
+6. [OpenAI API- Image Generation with DALL-E](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Image%20Generation%20with%20DALL-E.md) _(24m)_
+7. [OpenAI API- Vision](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Vision.md) _(30m)_
+8. [OpenAI API- Speech](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Speech.md) _(29m)_
+9. [OpenAI API- Moderation](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Moderation.md) _(14m)_
+10. [OpenAI API- Code Interpreter and Advanced Data Analysis](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Code%20Interpreter%20and%20Advanced%20Data%20Analysis.md) _(42m)_
 
 ## Course Flow
 
-1. [[Openai Api Introduction]] → 2. [[OpenAI API- Working with Files]] → 3. [[OpenAI API- Function Calling (2023)]] → 4. [[OpenAI API- Embeddings]] → 5. [[OpenAI API- Fine-Tuning]] → 6. [[OpenAI API- Image Generation with DALL-E]] → 7. [[OpenAI API- Vision]] → 8. [[OpenAI API- Speech]] → 9. [[OpenAI API- Moderation]] → 10. [[OpenAI API- Code Interpreter and Advanced Data Analysis]]
+1. [Openai Api Introduction](../../../Courses/Artificial%20Intelligence%20(AI)/Openai%20Api%20Introduction.md) → 2. [OpenAI API- Working with Files](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Working%20with%20Files.md) → 3. [OpenAI API- Function Calling (2023)](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Function%20Calling%20(2023).md) → 4. [OpenAI API- Embeddings](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Embeddings.md) → 5. [OpenAI API- Fine-Tuning](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Fine-Tuning.md) → 6. [OpenAI API- Image Generation with DALL-E](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Image%20Generation%20with%20DALL-E.md) → 7. [OpenAI API- Vision](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Vision.md) → 8. [OpenAI API- Speech](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Speech.md) → 9. [OpenAI API- Moderation](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Moderation.md) → 10. [OpenAI API- Code Interpreter and Advanced Data Analysis](../../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Code%20Interpreter%20and%20Advanced%20Data%20Analysis.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Software Development]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

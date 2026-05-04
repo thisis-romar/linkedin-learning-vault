@@ -26,7 +26,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]]
-- [[Artificial Intelligence for Cybersecurity]]
-- [[Securing Containers and Kubernetes Ecosystem]]
-- [[Blockchain and Smart Contracts Security]]
+- [AI Product Security- Secure Architecture, Deployment, and Infrastructure](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Secure%20Architecture%2C%20Deployment%2C%20and%20Infrastructure.md)
+- [Artificial Intelligence for Cybersecurity](../../Courses/Cybersecurity/Artificial%20Intelligence%20for%20Cybersecurity.md)
+- [Securing Containers and Kubernetes Ecosystem](../../Courses/DevOps/Securing%20Containers%20and%20Kubernetes%20Ecosystem.md)
+- [Blockchain and Smart Contracts Security](../../Courses/Cybersecurity/Blockchain%20and%20Smart%20Contracts%20Security.md)

@@ -25,20 +25,20 @@ created: 2026-05-03
 
 # IT Risk Management
 
-> **Type:** Concept | **Courses:** 2 | **Topics:** [[Cloud Computing]], [[Cybersecurity]], [[Data Science]], [[Software Development]], [[DevOps]]
+> **Type:** Concept | **Courses:** 2 | **Topics:** [Cloud Computing](../../Topics/Cloud%20Computing.md), [Cybersecurity](../../Topics/Cybersecurity.md), [Data Science](../../Topics/Data%20Science.md), [Software Development](../../Topics/Software%20Development.md), [DevOps](../../Topics/DevOps.md)
 
 ## Courses
 
-1. [[IT and Cybersecurity Risk Management Essential Training]] — 29 mentions
-2. [[Introduction to IT Architecture]] — 4 mentions
+1. [IT and Cybersecurity Risk Management Essential Training](../../Courses/Cloud%20Computing/IT%20and%20Cybersecurity%20Risk%20Management%20Essential%20Training.md) — 29 mentions
+2. [Introduction to IT Architecture](../../Courses/DevOps/Introduction%20to%20IT%20Architecture.md) — 4 mentions
 
 ## Learning Paths
 
-1. [[The IT Professional's Path to Cybersecurity]] — 29 total mentions
-2. [[ServiceNow IT Leadership Professional Certificate]] — 4 total mentions
+1. [The IT Professional's Path to Cybersecurity](../../Paths/Cloud%20Computing/Learning%20Paths/The%20IT%20Professional's%20Path%20to%20Cybersecurity.md) — 29 total mentions
+2. [ServiceNow IT Leadership Professional Certificate](../../Paths/DevOps/Professional%20Certificates/ServiceNow%20IT%20Leadership%20Professional%20Certificate.md) — 4 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

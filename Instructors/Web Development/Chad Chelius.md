@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating Accessible PDFs]]
-- [[Advanced Accessible PDFs]]
+- [Creating Accessible PDFs](../../Courses/Web%20Development/Creating%20Accessible%20PDFs.md)
+- [Advanced Accessible PDFs](../../Courses/Web%20Development/Advanced%20Accessible%20PDFs.md)

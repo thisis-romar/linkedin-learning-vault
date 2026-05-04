@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Prompt Engineering with LangChain]]
-- [[Hands-On AI- RAG using LlamaIndex]]
+- [Prompt Engineering with LangChain](../../Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20with%20LangChain.md)
+- [Hands-On AI- RAG using LlamaIndex](../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20RAG%20using%20LlamaIndex.md)

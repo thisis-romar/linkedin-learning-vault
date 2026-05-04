@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Effectively Leading Digital Transformation]]
-- [[Digital Transformation Tips]]
+- [Effectively Leading Digital Transformation](../../Courses/Cloud%20Computing/Effectively%20Leading%20Digital%20Transformation.md)
+- [Digital Transformation Tips](../../Courses/Cloud%20Computing/Digital%20Transformation%20Tips.md)

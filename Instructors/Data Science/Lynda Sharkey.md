@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[InfraWorks and ArcGIS- AEC Collaboration]]
+- [InfraWorks and ArcGIS- AEC Collaboration](../../Courses/Data%20Science/InfraWorks%20and%20ArcGIS-%20AEC%20Collaboration.md)

@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Java Collections]] — Intermediate · 3h 10m · 346,150 learners
+- [Learning Java Collections](../../Courses/Data%20Science/Learning%20Java%20Collections.md) — Intermediate · 3h 10m · 346,150 learners
 
 ## Related Skills
 
-- [[Java]] — 1 shared course
+- [Java](../Software%20Development/Java.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More]] — 1 mentions
+1. [Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More](../../Courses/Data%20Science/Advanced%20Java-%20Hands-on%20with%20Streams%2C%20Lambda%20Expressions%2C%20Collections%2C%20Generics%20and%20More.md) — 1 mentions

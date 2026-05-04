@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # Database Testing
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Software Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Software Development](../../Topics/Software%20Development.md)
 
 ## Courses
 
-1. [[SQL for Testers]] — 1 mentions
+1. [SQL for Testers](../../Courses/Software%20Development/SQL%20for%20Testers.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Getting Started with Software Testing]] — 1 total mentions
+1. [Getting Started with Software Testing](../../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20with%20Software%20Testing.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

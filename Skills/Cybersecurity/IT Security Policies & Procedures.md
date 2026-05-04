@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity- Key Policies and Resources]] — Beginner · 41m · 99,214 learners
+- [Cybersecurity- Key Policies and Resources](../../Courses/Cybersecurity/Cybersecurity-%20Key%20Policies%20and%20Resources.md) — Beginner · 41m · 99,214 learners
 
 ## Related Skills
 
-- [[Cybersecurity]] — 1 shared course
+- [Cybersecurity](../../Topics/Cybersecurity.md) — 1 shared course

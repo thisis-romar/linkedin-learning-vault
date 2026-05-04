@@ -18,11 +18,11 @@ github: "https://github.com/LinkedInLearning/c-sharp-exception-and-error-handlin
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEHKuZhVdeGtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710284097660?e=2147483647&amp;v=beta&amp;t=bSBiVautAOtppfk3qFH7KdswMz5hbF2GKQY63uU-euE"
 linkedin_topic: DevOps
 learning_paths:
-  - '[[Elevating C- Skills- Building Robust Applications]]'
+  - '[Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)'
 prev_courses:
-  - '[[C- Test-Driven Development]]'
+  - '[C- Test-Driven Development](C-%20Test-Driven%20Development.md)'
 next_courses:
-  - '[[C- Cross-Platform Development]]'
+  - '[C- Cross-Platform Development](C-%20Cross-Platform%20Development.md)'
 path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":5,"total":8,"prev":"C- Test-Driven Development","next":"C- Cross-Platform Development"}]'
 path_count: 1
 tags:
@@ -94,13 +94,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/getting-set-up?u=76281980&t=0)** - [Instructor] I've set up a [[GitHub]] repository with the examples, and you can find it at this link. The course content is organized into two separate folders. So if we go into the source folder, you'll notice that there's a finished folder and a start folder. The finished folder contains all of the code examples in their finished state, so you can compare your code against them as you work through the course. The start folder contains the code examples in the beginning state, and this is the folder I will be working in throughout the course as we build towards the finished state for each example. If you want to download the examples and work with them locally on your computer, that's easy enough to do. Just click on the code button, and then in the local tab, you can either clone the repository to your own account or download a zip file and then use your favorite code editor to work on the examples. You'll just need to make sure that you have the appropriate dot net SDK installed on your computer. But this repository has also been set up with a GitHub code space, so you can just work directly online with nothing to install. All you need to do is fork a copy of the repository into your own GitHub account, and then fire up a code space. We click on the code spaces tab. Here's where you can create a new code space, and you won't need to install anything. Now you can see I've already done that, and this is the code space that I've created that I'll be using in this course. Either way works fine, but I'm going to be using the code spaces feature in this course. So let me go ahead and open the code space and show you what it looks like.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/getting-set-up?u=76281980&t=0)** - [Instructor] I've set up a [GitHub](../../Skills/Software%20Development/GitHub.md) repository with the examples, and you can find it at this link. The course content is organized into two separate folders. So if we go into the source folder, you'll notice that there's a finished folder and a start folder. The finished folder contains all of the code examples in their finished state, so you can compare your code against them as you work through the course. The start folder contains the code examples in the beginning state, and this is the folder I will be working in throughout the course as we build towards the finished state for each example. If you want to download the examples and work with them locally on your computer, that's easy enough to do. Just click on the code button, and then in the local tab, you can either clone the repository to your own account or download a zip file and then use your favorite code editor to work on the examples. You'll just need to make sure that you have the appropriate dot net SDK installed on your computer. But this repository has also been set up with a GitHub code space, so you can just work directly online with nothing to install. All you need to do is fork a copy of the repository into your own GitHub account, and then fire up a code space. We click on the code spaces tab. Here's where you can create a new code space, and you won't need to install anything. Now you can see I've already done that, and this is the code space that I've created that I'll be using in this course. Either way works fine, but I'm going to be using the code spaces feature in this course. So let me go ahead and open the code space and show you what it looks like.
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/getting-set-up?u=76281980&t=93)** Now when you create your own code space, it will take a few minutes to spin up, so just be patient. When the code space starts, you'll see a browser based version of Visual Studio Code, and then here in the files list are all the files that you'll need for the course. You also have a built-in terminal, which can be found in the view menu. So if I click on the little view menu stack up here, choose view, and then go to terminal, you can see that we have a built-in terminal right here in the browser, and I can check to see that dot net is already installed. So I'll write dot net dash dash version, and sure enough, I've got dot net installed. So that's pretty much all there is to set up. Once you have the code space set up for your account and you have the coding preferences the way you want them, you are ready to go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3)
+> **Frameworks & Libraries:** [GitHub](../../Skills/Software%20Development/GitHub.md) (3)
 > **Tools:** github (3), terminal (3), visual studio (1)
 > **Prerequisites:** set up (4), install (2), you'll need (1)
 > **UI Navigation:** click on (3), open the (1), go to (1)
@@ -118,13 +118,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980&t=0)** - [Instructor] Let's begin with a basic definition and understanding of what exceptions are and why they happen. An exception is an error condition that happens during the course of the execution of your program's code. When this happens, the exception makes its way through your application until it is caught and handled by an exception handler. So let's take a look at how this process works. Your application consists of the code that you write in various classes, and it sits on top of the .NET framework along with any third-party libraries that you include in your app. Exceptions have a point of origin and a point at which they are handled. They can originate almost anywhere, in the .NET CLR itself or within a third-party library that you're using or within the .NET framework, or of course, within your own application code. If an exception makes it all the way to your application without being handled, then your app will terminate, and that's not the kind of experience we want our users to have. So how do we prevent this kind of bad experience? In our program, we enclose any code that might cause an exception within a try block. If the code within this block causes an exception to happen, then the program flow will immediately transfer to the nearest appropriate catch block, which encloses the code that handles the exception that just happened. If the CLR can't find an appropriate catch block to handle the exception, this is when the program will terminate. In the [[Representational State Transfer (REST)|rest]] of this course, we'll learn about what the different kinds of exceptions are,
+> **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980&t=0)** - [Instructor] Let's begin with a basic definition and understanding of what exceptions are and why they happen. An exception is an error condition that happens during the course of the execution of your program's code. When this happens, the exception makes its way through your application until it is caught and handled by an exception handler. So let's take a look at how this process works. Your application consists of the code that you write in various classes, and it sits on top of the .NET framework along with any third-party libraries that you include in your app. Exceptions have a point of origin and a point at which they are handled. They can originate almost anywhere, in the .NET CLR itself or within a third-party library that you're using or within the .NET framework, or of course, within your own application code. If an exception makes it all the way to your application without being handled, then your app will terminate, and that's not the kind of experience we want our users to have. So how do we prevent this kind of bad experience? In our program, we enclose any code that might cause an exception within a try block. If the code within this block causes an exception to happen, then the program flow will immediately transfer to the nearest appropriate catch block, which encloses the code that handles the exception that just happened. If the CLR can't find an appropriate catch block to handle the exception, this is when the program will terminate. In the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of this course, we'll learn about what the different kinds of exceptions are,
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980&t=93)** how to handle them, and even how to generate our own exceptions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Env Vars:** net (3), clr (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -143,13 +143,13 @@ created: 2026-05-03
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980&t=93)** And similarly, let's go back and fix that. If I try to index beyond the end of the array, right? Let's run the code again. Okay, so now I get a different error. I'm getting an index out of range exception because I'm trying to index beyond the end of this array. So in each of these cases, my app is causing an exception to happen. And what I want to do is catch these problems before they cause my program to terminate with this terrible looking message. So to fix this, I'm going to add exception handling code to my program. So let's close the terminal. So what I'm going to do is enclose all of my code inside a try block. So I'm going to write try, and then I'm going to put the closing bracket down here. All right, and then let's indent this code. Okay, so I'm going to put the code I'm trying to execute in the try block, and then I'm going to add what's called a catch block. And I'm going to specify that I'm catching a generic system exception object. And then inside the catch block, all I'm going to do is just write out a message to the console. And what I'm going to do is write out the error message so each exception object has a message property. I'll just write that out. Now, if any piece of code that is called within the try block
 >
-> **[3:06](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980&t=186)** causes an exception to happen, then the flow of the program will immediately transfer to the nearest catch block, and that's this one right here, where I can deal with the problem. This allows me to separate the code that deals with errors from the [[Representational State Transfer (REST)|rest]] of the app logic, and centralize it in one place. So let's go ahead and try the code again. So let's open up the terminal, and now let's go ahead and create that problem. So let's try to divide by zero again. So I'll run the code and now you can see I get a much nicer looking error message, right? It says attempted to divide by zero. And then let's try the same thing where I try to index beyond the end of the array. So let's go ahead and run this. And now you can see that I'm getting the index was outside the bounds of the array message, which is the message from the exception. Now this is a much better experience than having my program just crash with this ugly error message in stack trace. My program has an opportunity to deal with the problem and give the user a better experience. Now, in this case, I'm not really doing that. I'm just printing a nicer looking error message. But in real code, you would just deal with the problem in a much better way. The exception object that the code is catching is an instance of the system exception class. Let's take a quick look at the documentation for that class. You can find it at this link. Now we're going to learn more about that class in a separate video. So don't worry about reading through this right now. Just keep it handy as a reference to refer back to.
+> **[3:06](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980&t=186)** causes an exception to happen, then the flow of the program will immediately transfer to the nearest catch block, and that's this one right here, where I can deal with the problem. This allows me to separate the code that deals with errors from the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the app logic, and centralize it in one place. So let's go ahead and try the code again. So let's open up the terminal, and now let's go ahead and create that problem. So let's try to divide by zero again. So I'll run the code and now you can see I get a much nicer looking error message, right? It says attempted to divide by zero. And then let's try the same thing where I try to index beyond the end of the array. So let's go ahead and run this. And now you can see that I'm getting the index was outside the bounds of the array message, which is the message from the exception. Now this is a much better experience than having my program just crash with this ugly error message in stack trace. My program has an opportunity to deal with the problem and give the user a better experience. Now, in this case, I'm not really doing that. I'm just printing a nicer looking error message. But in real code, you would just deal with the problem in a much better way. The exception object that the code is catching is an instance of the system exception class. Let's take a quick look at the documentation for that class. You can find it at this link. Now we're going to learn more about that class in a separate video. So don't worry about reading through this right now. Just keep it handy as a reference to refer back to.
 >
 > **[4:39](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980&t=279)** Now in this example, I'm using this base exception class to catch both the divide by zero as well as the index out of range exceptions, because those are both subclasses of the base exception class. But you can exercise a much more granular level of control over how you catch individual exception types. And we'll see examples of how to do that later in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Tools:** terminal (3)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **CLI Commands:** dotnet (1), find (1)
@@ -255,11 +255,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-basics?u=76281980&t=0)** - [Instructor] All right, so how did you do? Were you able to handle the different exceptions? Let's take a look at my code. So the first part of my solution is the same as the starting point that I provided for your challenge. I've defined a few local variables to use. And so here I have the code that reads in the user input. All right. And let's see, if we scroll down a little bit. This is where the challenge part was. So I needed to convert the string to a number and then perform the operation that I was told to do. So I enclosed my code in a try block. And the first two operations here, the first two calls to Parse are to convert the strings that the user entered up here in the calls to the ReadLine. And I'm doing that using the Parse function. Now, as I showed in the documentation, this function may throw a FormatException. So I catch that FormatException as my first catch block. And then I write out the message that the exception comes along with. We already saw how to handle the DivideByZeroException earlier in the course. So that one was easy enough to implement as well as the second catch block. And then the third exception is one that my code throws on its own. So you'll see that I have a switch statement here that switches the operation that was chosen. And if they chose add, subtract, multiply or divide, everything's fine. But if they enter anything else, you can see I'm throwing a new ArgumentException with a message and the name of the parameter
 >
-> **[1:34](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-basics?u=76281980&t=94)** that caused the exception. Otherwise, my code computes the result, and then the loop continues until they type the [[Microsoft Word|word]], exit.
+> **[1:34](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-basics?u=76281980&t=94)** that caused the exception. Otherwise, my code computes the result, and then the loop continues until they type the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md), exit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Cross-References:** earlier in (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** scroll down (1)
@@ -360,11 +360,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=0)** - [Instructor] We've learned quite a bit about exceptions so far during the course. So let's take a moment now and review some of the best practices for working with exceptions in C#. Many of these practices might seem like common sense, such as our first one, and that is, one, try to avoid throwing exceptions whenever possible. Many kinds of exceptions can be avoided just by doing some common checking for problems, like arguments with values that are null or invalid, or indexes that will be out of range, trying to read or write files that don't exist and so on. So by performing some basic checks, you can avoid executing code that will cause exceptions in the first place. Also, remember that exceptions are intended to handle error conditions within your program. Don't use exceptions intentionally to change the flow of your program. There are other better logical constructs for doing this. When writing your catch blocks, start with the most specific exceptions and then move to the more generic ones. Remember that the first catch handler that matches an exception is the one that gets invoked. So if you put the more generic ones first, then the specific ones are less likely to get called, or not at all. A related best practice is to not catch System.Exception directly. And the reason for this is because doing this will catch all the exceptions that get thrown in the program, including the ones coming from the CLR, and that might mask other problems or catch exceptions that your code isn't even designed to handle. Remember to use finally blocks
 >
-> **[1:33](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=93)** to clean up any resources that might get left allocated as a result of an exception happening, and this includes closing any files that were opened or other shared system resources that need to be released. The next few practices are related to defining your own exception classes. When defining an exception class, end the name with the [[Microsoft Word|word]] "Exception." This ensures that it's clear what the class does, and the name is consistent with other exception code throughout .NET. Before you go defining your own exception classes, try to use the ones that are already predefined in .NET. By using the predefined exception classes, you can reduce the amount of additional learning that other developers working in your code will have to do, and it cuts down on code size and complexity. When you create your own custom exceptions, you need to supply three constructors. There's the base constructor, which uses default values; the constructor that takes a string message, and the constructor that takes a message along with an inner exception. By defining these three constructors, your code will be compatible with the [[Representational State Transfer (REST)|rest]] of the exception handling code in .NET. By following these practices, you can help ensure that your code is using exceptions properly and will be able to operate with the rest of the .NET framework.
+> **[1:33](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=93)** to clean up any resources that might get left allocated as a result of an exception happening, and this includes closing any files that were opened or other shared system resources that need to be released. The next few practices are related to defining your own exception classes. When defining an exception class, end the name with the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) "Exception." This ensures that it's clear what the class does, and the name is consistent with other exception code throughout .NET. Before you go defining your own exception classes, try to use the ones that are already predefined in .NET. By using the predefined exception classes, you can reduce the amount of additional learning that other developers working in your code will have to do, and it cuts down on code size and complexity. When you create your own custom exceptions, you need to supply three constructors. There's the base constructor, which uses default values; the constructor that takes a string message, and the constructor that takes a message along with an inner exception. By defining these three constructors, your code will be compatible with the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the exception handling code in .NET. By following these practices, you can help ensure that your code is using exceptions properly and will be able to operate with the rest of the .NET framework.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (2), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Env Vars:** net (4), clr (1)
 > **Best Practices:** best practice (1), remember to (1)
 > **Analogies:** such as (1)
@@ -412,7 +412,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/next-steps?u=76281980&t=0)** - [Joe] All right. Congratulations on completing the course. Exceptions are a core feature of C# and .NET programming, and understanding how they work will help you become a better .NET developer. If you're looking for some suggestions on where to go next, I have some ideas for you. To learn more about other key features of C#, consider checking out C# Events, Delegates, and Lambdas or [[C- Interfaces and Generics]]. Each of these courses cover parts of the C# language that you will encounter as you build more sophisticated and complex applications. Of course, there are plenty of other C# titles to check out here in the library, as well as to help you stay up to date with the .NET platform. I'll see you again soon. Until then, happy coding.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/next-steps?u=76281980&t=0)** - [Joe] All right. Congratulations on completing the course. Exceptions are a core feature of C# and .NET programming, and understanding how they work will help you become a better .NET developer. If you're looking for some suggestions on where to go next, I have some ideas for you. To learn more about other key features of C#, consider checking out C# Events, Delegates, and Lambdas or [C- Interfaces and Generics](../Software%20Development/C-%20Interfaces%20and%20Generics.md). Each of these courses cover parts of the C# language that you will encounter as you build more sophisticated and complex applications. Of course, there are plenty of other C# titles to check out here in the library, as well as to help you stay up to date with the .NET platform. I'll see you again soon. Until then, happy coding.
 
 > [!info]- Semantic Content
 >
@@ -422,7 +422,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Joe Marini]]
+- [Joe Marini](../../Instructors/Software%20Development/Joe%20Marini.md)
 
 ## Resources
 
@@ -436,22 +436,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Elevating C- Skills- Building Robust Applications]]
-← [[C- Test-Driven Development]] | **5 of 8** | [[C- Cross-Platform Development]] →
+### In [Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)
+← [C- Test-Driven Development](C-%20Test-Driven%20Development.md) | **5 of 8** | [C- Cross-Platform Development](C-%20Cross-Platform%20Development.md) →
 
 ## Appears In
 
-- [[Elevating C- Skills- Building Robust Applications]]
+- [Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[React- Testing and Debugging]] — Debugging
-- [[Advanced PHP- Debugging Techniques]] — Debugging
-- [[Learning C-]] — C#
-- [[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]] — C#
-- [[Nail Your C- Interview]] — C#
+- [React- Testing and Debugging](../Web%20Development/React-%20Testing%20and%20Debugging.md) — Debugging
+- [Advanced PHP- Debugging Techniques](../Cybersecurity/Advanced%20PHP-%20Debugging%20Techniques.md) — Debugging
+- [Learning C-](../Software%20Development/Learning%20C-.md) — C#
+- [Cert Prep- Unity Certified Associate Game Developer Scripting with C-](../Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Scripting%20with%20C-.md) — C#
+- [Nail Your C- Interview](../Software%20Development/Nail%20Your%20C-%20Interview.md) — C#
 
 ---
 

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Cleaning and Manipulating with Python in Excel]]
+- [Data Cleaning and Manipulating with Python in Excel](../../Courses/Data%20Science/Data%20Cleaning%20and%20Manipulating%20with%20Python%20in%20Excel.md)

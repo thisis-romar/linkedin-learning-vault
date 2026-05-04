@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating Your Personal Brand]]
+- [Creating Your Personal Brand](../../Courses/Web%20Development/Creating%20Your%20Personal%20Brand.md)

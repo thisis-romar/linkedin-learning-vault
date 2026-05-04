@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[PySpark Essential Training- Introduction to Building Data Pipelines]]
+- [PySpark Essential Training- Introduction to Building Data Pipelines](../../Courses/Data%20Science/PySpark%20Essential%20Training-%20Introduction%20to%20Building%20Data%20Pipelines.md)

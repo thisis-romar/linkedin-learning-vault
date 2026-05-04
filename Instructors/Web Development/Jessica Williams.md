@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Supporting Accessibility in a Hybrid Workplace]]
+- [Supporting Accessibility in a Hybrid Workplace](../../Courses/Web%20Development/Supporting%20Accessibility%20in%20a%20Hybrid%20Workplace.md)

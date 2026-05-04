@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Outsourcing- Vendor Selection and Management]] — Intermediate · 1h 7m · 36,866 learners
+- [Cybersecurity Outsourcing- Vendor Selection and Management](../../Courses/Cybersecurity/Cybersecurity%20Outsourcing-%20Vendor%20Selection%20and%20Management.md) — Intermediate · 1h 7m · 36,866 learners
 
 ## Related Skills
 
-- [[Security Management]] — 1 shared course
+- [Security Management](Security%20Management.md) — 1 shared course

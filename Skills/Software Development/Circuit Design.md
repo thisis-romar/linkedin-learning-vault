@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Electronics Foundations- Basic Circuits]] — Beginner · 4h 2m · 132,419 learners
+- [Electronics Foundations- Basic Circuits](../../Courses/Hardware/Electronics%20Foundations-%20Basic%20Circuits.md) — Beginner · 4h 2m · 132,419 learners
 
 ## Related Skills
 
-- [[Electronics]] — 1 shared course
+- [Electronics](Electronics.md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Electronics Foundations- Fundamentals]] — 1 mentions
-2. [[Electronics Foundations- Semiconductor Devices]] — 1 mentions
+1. [Electronics Foundations- Fundamentals](../../Courses/Hardware/Electronics%20Foundations-%20Fundamentals.md) — 1 mentions
+2. [Electronics Foundations- Semiconductor Devices](../../Courses/Hardware/Electronics%20Foundations-%20Semiconductor%20Devices.md) — 1 mentions

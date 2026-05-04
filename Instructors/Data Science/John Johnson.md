@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Analytics for Business Professionals]]
+- [Data Analytics for Business Professionals](../../Courses/Data%20Science/Data%20Analytics%20for%20Business%20Professionals.md)

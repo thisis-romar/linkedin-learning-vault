@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[CSS- Animation]]
+- [CSS- Animation](../../Courses/Web%20Development/CSS-%20Animation.md)

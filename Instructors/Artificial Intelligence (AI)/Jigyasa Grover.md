@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Integrating AI into the Product Architecture]]
+- [Integrating AI into the Product Architecture](../../Courses/Artificial%20Intelligence%20(AI)/Integrating%20AI%20into%20the%20Product%20Architecture.md)

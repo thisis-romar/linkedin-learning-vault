@@ -22,16 +22,16 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python GUI Development with Tkinter]] — Intermediate · 4h 56m · 229,277 learners
+- [Python GUI Development with Tkinter](../../Courses/Software%20Development/Python%20GUI%20Development%20with%20Tkinter.md) — Intermediate · 4h 56m · 229,277 learners
 
 ## Related Skills
 
-- [[Python (Programming Language)]] — 1 shared course
+- [Python (Programming Language)](Python%20(Programming%20Language).md) — 1 shared course
 
 ## Mentioned In Transcripts _(177 total mentions)_
 
-1. [[Python GUI Development with Tkinter]] — 150 mentions
-2. [[Python Projects]] — 13 mentions
-3. [[Python Data Structures and Algorithms]] — 11 mentions
-4. [[Building the Classic Snake Game with Python]] — 2 mentions
-5. [[Training Neural Networks in Python]] — 1 mentions
+1. [Python GUI Development with Tkinter](../../Courses/Software%20Development/Python%20GUI%20Development%20with%20Tkinter.md) — 150 mentions
+2. [Python Projects](../../Courses/Software%20Development/Python%20Projects.md) — 13 mentions
+3. [Python Data Structures and Algorithms](../../Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md) — 11 mentions
+4. [Building the Classic Snake Game with Python](../../Courses/Software%20Development/Building%20the%20Classic%20Snake%20Game%20with%20Python.md) — 2 mentions
+5. [Training Neural Networks in Python](../../Courses/Artificial%20Intelligence%20(AI)/Training%20Neural%20Networks%20in%20Python.md) — 1 mentions

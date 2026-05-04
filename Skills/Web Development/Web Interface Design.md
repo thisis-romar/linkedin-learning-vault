@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[React.js- Building an Interface]] — Intermediate · 1h 40m · 27,435 learners
+- [React.js- Building an Interface](../../Courses/Web%20Development/React.js-%20Building%20an%20Interface.md) — Intermediate · 1h 40m · 27,435 learners
 
 ## Related Skills
 
-- [[React.js]] — 1 shared course
+- [React.js](React.js.md) — 1 shared course

@@ -22,6 +22,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure AI for Developers- Using the Azure AI Model Catalog]]
-- [[Azure AI for Developers- OpenAI Services and Generative AI Models]]
-- [[Azure AI for Developers- Content Safety and Responsible AI]]
+- [Azure AI for Developers- Using the Azure AI Model Catalog](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Using%20the%20Azure%20AI%20Model%20Catalog.md)
+- [Azure AI for Developers- OpenAI Services and Generative AI Models](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20OpenAI%20Services%20and%20Generative%20AI%20Models.md)
+- [Azure AI for Developers- Content Safety and Responsible AI](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Content%20Safety%20and%20Responsible%20AI.md)

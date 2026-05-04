@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Influence Skills for Leaders and Managers]]
+- [Influence Skills for Leaders and Managers](../../Courses/Data%20Science/Influence%20Skills%20for%20Leaders%20and%20Managers.md)

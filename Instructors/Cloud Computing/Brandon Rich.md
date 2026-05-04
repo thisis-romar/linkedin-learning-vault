@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AWS- Storage and Data Management]]
-- [[Complete Guide to AWS Software Deployment]]
+- [AWS- Storage and Data Management](../../Courses/Cloud%20Computing/AWS-%20Storage%20and%20Data%20Management.md)
+- [Complete Guide to AWS Software Deployment](../../Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Software%20Deployment.md)

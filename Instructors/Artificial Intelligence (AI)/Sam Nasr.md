@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure AI for Developers- LLMs and SLMs]]
+- [Azure AI for Developers- LLMs and SLMs](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20LLMs%20and%20SLMs.md)

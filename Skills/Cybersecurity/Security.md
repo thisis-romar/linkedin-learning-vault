@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Microsoft Security Copilot]] — Beginner · 40m · 1,502 learners
+- [Microsoft Security Copilot](../../Courses/Cybersecurity/Microsoft%20Security%20Copilot.md) — Beginner · 40m · 1,502 learners
 
 ## Related Skills
 
-- [[Incident Response]] — 1 shared course
+- [Incident Response](Incident%20Response.md) — 1 shared course

@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Marketing Analytics- Setting and Measuring KPIs]]
+- [Marketing Analytics- Setting and Measuring KPIs](../../Courses/Data%20Science/Marketing%20Analytics-%20Setting%20and%20Measuring%20KPIs.md)

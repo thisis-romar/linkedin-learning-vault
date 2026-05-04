@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AWS for Developers- CLI Tips]]
+- [AWS for Developers- CLI Tips](../../Courses/Artificial%20Intelligence%20(AI)/AWS%20for%20Developers-%20CLI%20Tips.md)

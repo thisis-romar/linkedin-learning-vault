@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leading Remote Projects and Virtual Teams]]
+- [Leading Remote Projects and Virtual Teams](../../Courses/Cybersecurity/Leading%20Remote%20Projects%20and%20Virtual%20Teams.md)

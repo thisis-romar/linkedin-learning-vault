@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating LinkedIn Newsletters]]
+- [Creating LinkedIn Newsletters](../../Courses/Web%20Development/Creating%20LinkedIn%20Newsletters.md)

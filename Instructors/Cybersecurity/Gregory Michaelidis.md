@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity- Key Policies and Resources]]
+- [Cybersecurity- Key Policies and Resources](../../Courses/Cybersecurity/Cybersecurity-%20Key%20Policies%20and%20Resources.md)

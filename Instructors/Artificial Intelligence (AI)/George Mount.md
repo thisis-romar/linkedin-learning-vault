@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel with Copilot- AI-Driven Data Analysis]]
-- [[Using Python with Excel]]
+- [Excel with Copilot- AI-Driven Data Analysis](../../Courses/Artificial%20Intelligence%20(AI)/Excel%20with%20Copilot-%20AI-Driven%20Data%20Analysis.md)
+- [Using Python with Excel](../../Courses/Data%20Science/Using%20Python%20with%20Excel.md)

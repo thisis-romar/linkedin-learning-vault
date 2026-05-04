@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Structure Vibe Coding to Save Build Time]]
+- [Structure Vibe Coding to Save Build Time](../../Courses/Artificial%20Intelligence%20(AI)/Structure%20Vibe%20Coding%20to%20Save%20Build%20Time.md)

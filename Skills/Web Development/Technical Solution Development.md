@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Hands-On OpenAI API- Building a Real-World Solution]] — Beginner · 59m · 14,050 learners
+- [Hands-On OpenAI API- Building a Real-World Solution](../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20OpenAI%20API-%20Building%20a%20Real-World%20Solution.md) — Beginner · 59m · 14,050 learners
 
 ## Related Skills
 
-- [[OpenAI API]] — 1 shared course
-- [[OpenAI Products]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [OpenAI API](../Artificial%20Intelligence%20(AI)/OpenAI%20API.md) — 1 shared course
+- [OpenAI Products](../Artificial%20Intelligence%20(AI)/OpenAI%20Products.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

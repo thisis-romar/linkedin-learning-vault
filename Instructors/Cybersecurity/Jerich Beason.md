@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Demystifying Advanced and Complex Security Topics]]
-- [[Cybersecurity Careers- Become a Chief Information Security Officer (CISO)]]
+- [Demystifying Advanced and Complex Security Topics](../../Courses/Cybersecurity/Demystifying%20Advanced%20and%20Complex%20Security%20Topics.md)
+- [Cybersecurity Careers- Become a Chief Information Security Officer (CISO)](../../Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Chief%20Information%20Security%20Officer%20(CISO).md)

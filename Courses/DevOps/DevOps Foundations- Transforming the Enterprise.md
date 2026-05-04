@@ -10,13 +10,13 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHsgDGz0eQUxA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1569955973652?e=2147483647&amp;v=beta&amp;t=jmi_w10fS0k77kCB4SUUOE0GNnToXOM5434-tEBRxhE"
 linkedin_topic: DevOps
 learning_paths:
-  - '[[Applying Lean, DevOps, and Agile to Your IT Organization]]'
-  - '[[Starting Your Career in Tech- DevOps]]'
+  - '[Applying Lean, DevOps, and Agile to Your IT Organization](../../Paths/DevOps/Learning%20Paths/Applying%20Lean%2C%20DevOps%2C%20and%20Agile%20to%20Your%20IT%20Organization.md)'
+  - '[Starting Your Career in Tech- DevOps](../../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20DevOps.md)'
 prev_courses:
-  - '[[Agile Software Development- Transforming Your Organization]]'
-  - '[[DevOps Tips]]'
+  - '[Agile Software Development- Transforming Your Organization](Agile%20Software%20Development-%20Transforming%20Your%20Organization.md)'
+  - '[DevOps Tips](../Cloud%20Computing/DevOps%20Tips.md)'
 next_courses:
-  - '[[Lean Technology Strategy- Running Agile at Scale]]'
+  - '[Lean Technology Strategy- Running Agile at Scale](Lean%20Technology%20Strategy-%20Running%20Agile%20at%20Scale.md)'
   - null
 path_nav: '[{"path":"Applying Lean, DevOps, and Agile to Your IT Organization","position":5,"total":9,"prev":"Agile Software Development- Transforming Your Organization","next":"Lean Technology Strategy- Running Agile at Scale"},{"path":"Starting Your Career in Tech- DevOps","position":5,"total":5,"prev":"DevOps Tips","next":null}]'
 path_count: 2
@@ -184,20 +184,20 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Mirco Hering]]
+- [Mirco Hering](../../Instructors/DevOps/Mirco%20Hering.md)
 
 ## Path Context
 
-### In [[Applying Lean, DevOps, and Agile to Your IT Organization]]
-← [[Agile Software Development- Transforming Your Organization]] | **5 of 9** | [[Lean Technology Strategy- Running Agile at Scale]] →
+### In [Applying Lean, DevOps, and Agile to Your IT Organization](../../Paths/DevOps/Learning%20Paths/Applying%20Lean%2C%20DevOps%2C%20and%20Agile%20to%20Your%20IT%20Organization.md)
+← [Agile Software Development- Transforming Your Organization](Agile%20Software%20Development-%20Transforming%20Your%20Organization.md) | **5 of 9** | [Lean Technology Strategy- Running Agile at Scale](Lean%20Technology%20Strategy-%20Running%20Agile%20at%20Scale.md) →
 
-### In [[Starting Your Career in Tech- DevOps]]
-← [[DevOps Tips]] | **5 of 5**
+### In [Starting Your Career in Tech- DevOps](../../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20DevOps.md)
+← [DevOps Tips](../Cloud%20Computing/DevOps%20Tips.md) | **5 of 5**
 
 ## Appears In
 
-- [[Applying Lean, DevOps, and Agile to Your IT Organization]]
-- [[Starting Your Career in Tech- DevOps]]
+- [Applying Lean, DevOps, and Agile to Your IT Organization](../../Paths/DevOps/Learning%20Paths/Applying%20Lean%2C%20DevOps%2C%20and%20Agile%20to%20Your%20IT%20Organization.md)
+- [Starting Your Career in Tech- DevOps](../../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20DevOps.md)
 
 ---
 

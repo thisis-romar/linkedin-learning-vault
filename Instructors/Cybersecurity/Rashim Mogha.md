@@ -34,7 +34,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]]
-- [[Building a Generative AI Tech Strategy]]
-- [[Succeeding As A First Time Tech Manager]]
-- [[Red Teaming for Generative AI- Building Robust and Responsible Solutions]]
+- [Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment](../../Courses/Cloud%20Computing/Determining%20Your%20Cloud%20Strategy-%20Planning%20for%20Roadmap%2C%20Infrastructure%2C%20and%20Deployment.md)
+- [Building a Generative AI Tech Strategy](../../Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Generative%20AI%20Tech%20Strategy.md)
+- [Succeeding As A First Time Tech Manager](../../Courses/Cloud%20Computing/Succeeding%20As%20A%20First%20Time%20Tech%20Manager.md)
+- [Red Teaming for Generative AI- Building Robust and Responsible Solutions](../../Courses/Cybersecurity/Red%20Teaming%20for%20Generative%20AI-%20Building%20Robust%20and%20Responsible%20Solutions.md)

@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # Nature Conservation
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Software Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Software Development](../../Topics/Software%20Development.md)
 
 ## Courses
 
-1. [[The Importance of Biodiversity to Business]] — 1 mentions
+1. [The Importance of Biodiversity to Business](../../Courses/Software%20Development/The%20Importance%20of%20Biodiversity%20to%20Business.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Improve Your Sustainability Skills]] — 1 total mentions
+1. [Improve Your Sustainability Skills](../../Paths/Software%20Development/Learning%20Paths/Improve%20Your%20Sustainability%20Skills.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

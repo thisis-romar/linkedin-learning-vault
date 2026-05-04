@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[PLC Simulation Software- Factory I-O with Connected Component Workbench]] — Intermediate · 2h 16m · 93,923 learners
+- [PLC Simulation Software- Factory I-O with Connected Component Workbench](../../Courses/Hardware/PLC%20Simulation%20Software-%20Factory%20I-O%20with%20Connected%20Component%20Workbench.md) — Intermediate · 2h 16m · 93,923 learners
 
 ## Related Skills
 
-- [[PLC Programming]] — 1 shared course
-- [[Simulation Software]] — 1 shared course
-- [[Simulation]] — 1 shared course
+- [PLC Programming](PLC%20Programming.md) — 1 shared course
+- [Simulation Software](Simulation%20Software.md) — 1 shared course
+- [Simulation](Simulation.md) — 1 shared course

@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Vulnerability Management in Cybersecurity- The Basics]]
-- [[Vulnerability Management- Assessing the Risks with CVSS v3.1]]
+- [Vulnerability Management in Cybersecurity- The Basics](../../Courses/Cybersecurity/Vulnerability%20Management%20in%20Cybersecurity-%20The%20Basics.md)
+- [Vulnerability Management- Assessing the Risks with CVSS v3.1](../../Courses/Cybersecurity/Vulnerability%20Management-%20Assessing%20the%20Risks%20with%20CVSS%20v3.1.md)

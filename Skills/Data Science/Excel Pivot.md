@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel PivotTable Quick Tips]] — Beginner · 25m · 259,257 learners
+- [Excel PivotTable Quick Tips](../../Courses/Data%20Science/Excel%20PivotTable%20Quick%20Tips.md) — Beginner · 25m · 259,257 learners

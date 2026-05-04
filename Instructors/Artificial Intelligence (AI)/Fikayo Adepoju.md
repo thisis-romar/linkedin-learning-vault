@@ -26,10 +26,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]
-- [[AI Orchestration- Planning and Orchestrating for Observability]]
-- [[OpenAI API- Working with Files]]
-- [[Building a Video Transcriber with Node.js and Google AI Speech-To-Text API]]
-- [[Vue.js- Testing and Debugging]]
-- [[Getting Started with the Google Gemini API]]
-- [[Learning GitHub Codespaces for Enterprise]]
+- [Build an Image Captioning Tool for Visually Impaired Users with Gemini](../../Courses/Artificial%20Intelligence%20(AI)/Build%20an%20Image%20Captioning%20Tool%20for%20Visually%20Impaired%20Users%20with%20Gemini.md)
+- [AI Orchestration- Planning and Orchestrating for Observability](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Planning%20and%20Orchestrating%20for%20Observability.md)
+- [OpenAI API- Working with Files](../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Working%20with%20Files.md)
+- [Building a Video Transcriber with Node.js and Google AI Speech-To-Text API](../../Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Video%20Transcriber%20with%20Node.js%20and%20Google%20AI%20Speech-To-Text%20API.md)
+- [Vue.js- Testing and Debugging](../../Courses/Web%20Development/Vue.js-%20Testing%20and%20Debugging.md)
+- [Getting Started with the Google Gemini API](../../Courses/Artificial%20Intelligence%20(AI)/Getting%20Started%20with%20the%20Google%20Gemini%20API.md)
+- [Learning GitHub Codespaces for Enterprise](../../Courses/Artificial%20Intelligence%20(AI)/Learning%20GitHub%20Codespaces%20for%20Enterprise.md)

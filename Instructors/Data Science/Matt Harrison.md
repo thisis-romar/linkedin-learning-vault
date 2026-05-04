@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Getting Started with Python for Finance]]
-- [[Python Statistics Essential Training]]
+- [Getting Started with Python for Finance](../../Courses/Data%20Science/Getting%20Started%20with%20Python%20for%20Finance.md)
+- [Python Statistics Essential Training](../../Courses/Software%20Development/Python%20Statistics%20Essential%20Training.md)

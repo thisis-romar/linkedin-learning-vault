@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Canva- Designing Engaging, Accessible Presentations]]
+- [Canva- Designing Engaging, Accessible Presentations](../../Courses/Web%20Development/Canva-%20Designing%20Engaging%2C%20Accessible%20Presentations.md)

@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Designing Accessible Components In Figma]] — Intermediate · 1h 11m · 20,386 learners
-- [[Microsoft Office Accessibility for Beginners]] — 24m · 11,891 learners
+- [Designing Accessible Components In Figma](../../Courses/Web%20Development/Designing%20Accessible%20Components%20In%20Figma.md) — Intermediate · 1h 11m · 20,386 learners
+- [Microsoft Office Accessibility for Beginners](../../Courses/Web%20Development/Microsoft%20Office%20Accessibility%20for%20Beginners.md) — 24m · 11,891 learners
 
 ## Related Skills
 
-- [[Microsoft Office]] — 1 shared course
-- [[Figma (Software)]] — 1 shared course
-- [[Digital Accessibility]] — 1 shared course
+- [Microsoft Office](Microsoft%20Office.md) — 1 shared course
+- [Figma (Software)](Figma%20(Software).md) — 1 shared course
+- [Digital Accessibility](Digital%20Accessibility.md) — 1 shared course

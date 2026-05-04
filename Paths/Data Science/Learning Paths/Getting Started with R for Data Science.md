@@ -19,19 +19,19 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Complete Guide To R Wrangling Visualizing And Modeling Data]]"
+  - course: "[Complete Guide To R Wrangling Visualizing And Modeling Data](../../../Courses/Data%20Science/Complete%20Guide%20To%20R%20Wrangling%20Visualizing%20And%20Modeling%20Data.md)"
     last_opened:
     open_count: 0
     videos: []
-  - course: "[[Data Wrangling in R]]"
+  - course: "[Data Wrangling in R](../../../Courses/Data%20Science/Data%20Wrangling%20in%20R.md)"
     last_opened:
     open_count: 0
     videos: []
-  - course: "[[R for Data Science- Analysis and Visualization]]"
+  - course: "[R for Data Science- Analysis and Visualization](../../../Courses/Data%20Science/R%20for%20Data%20Science-%20Analysis%20and%20Visualization.md)"
     last_opened:
     open_count: 0
     videos: []
-  - course: "[[R Code Challenges- Data Science]]"
+  - course: "[R Code Challenges- Data Science](../../../Courses/Data%20Science/R%20Code%20Challenges-%20Data%20Science.md)"
     last_opened:
     open_count: 0
     videos: []
@@ -50,29 +50,29 @@ created: 2026-05-03
 
 ## Courses
 
-1. [[Complete Guide To R Wrangling Visualizing And Modeling Data]]
-2. [[Data Wrangling in R]] _(2h 51m)_
-3. [[R for Data Science- Analysis and Visualization]] _(2h 53m)_
-4. [[R Code Challenges- Data Science]] _(57m)_
+1. [Complete Guide To R Wrangling Visualizing And Modeling Data](../../../Courses/Data%20Science/Complete%20Guide%20To%20R%20Wrangling%20Visualizing%20And%20Modeling%20Data.md)
+2. [Data Wrangling in R](../../../Courses/Data%20Science/Data%20Wrangling%20in%20R.md) _(2h 51m)_
+3. [R for Data Science- Analysis and Visualization](../../../Courses/Data%20Science/R%20for%20Data%20Science-%20Analysis%20and%20Visualization.md) _(2h 53m)_
+4. [R Code Challenges- Data Science](../../../Courses/Data%20Science/R%20Code%20Challenges-%20Data%20Science.md) _(57m)_
 
 ## Course Flow
 
-1. [[Complete Guide To R Wrangling Visualizing And Modeling Data]] → 2. [[Data Wrangling in R]] → 3. [[R for Data Science- Analysis and Visualization]] → 4. [[R Code Challenges- Data Science]]
+1. [Complete Guide To R Wrangling Visualizing And Modeling Data](../../../Courses/Data%20Science/Complete%20Guide%20To%20R%20Wrangling%20Visualizing%20And%20Modeling%20Data.md) → 2. [Data Wrangling in R](../../../Courses/Data%20Science/Data%20Wrangling%20in%20R.md) → 3. [R for Data Science- Analysis and Visualization](../../../Courses/Data%20Science/R%20for%20Data%20Science-%20Analysis%20and%20Visualization.md) → 4. [R Code Challenges- Data Science](../../../Courses/Data%20Science/R%20Code%20Challenges-%20Data%20Science.md)
 
 ## Topics
 
-- [[Data Science]]
-- [[Software Development]]
+- [Data Science](../../../Topics/Data%20Science.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Advance Your Skills in R]] (3 shared courses)
-- [[Moving from Data Scientist to Data Analyst]] (1 shared courses)
-- [[Moving from Data Analyst to Data Scientist]] (1 shared courses)
-- [[Become a Data Analyst]] (1 shared courses)
+- [Advance Your Skills in R](Advance%20Your%20Skills%20in%20R.md) (3 shared courses)
+- [Moving from Data Scientist to Data Analyst](Moving%20from%20Data%20Scientist%20to%20Data%20Analyst.md) (1 shared courses)
+- [Moving from Data Analyst to Data Scientist](Moving%20from%20Data%20Analyst%20to%20Data%20Scientist.md) (1 shared courses)
+- [Become a Data Analyst](Become%20a%20Data%20Analyst.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

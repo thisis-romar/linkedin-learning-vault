@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to AI Governance]]
-- [[Introduction to Agentic AI Governance]]
+- [Introduction to AI Governance](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20AI%20Governance.md)
+- [Introduction to Agentic AI Governance](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Agentic%20AI%20Governance.md)

@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Developing Ci Cd Solutions With Azure Devops]]
+- [Developing Ci Cd Solutions With Azure Devops](../../Courses/Cloud%20Computing/Developing%20Ci%20Cd%20Solutions%20With%20Azure%20Devops.md)

@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning ArcGIS Python Scripting]] — Intermediate · 3h 39m · 60,450 learners
+- [Learning ArcGIS Python Scripting](../../Courses/Data%20Science/Learning%20ArcGIS%20Python%20Scripting.md) — Intermediate · 3h 39m · 60,450 learners
 
 ## Related Skills
 
-- [[ArcGIS Pro]] — 1 shared course
-- [[Python (Programming Language)]] — 1 shared course
+- [ArcGIS Pro](ArcGIS%20Pro.md) — 1 shared course
+- [Python (Programming Language)](../Software%20Development/Python%20(Programming%20Language).md) — 1 shared course

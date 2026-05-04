@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[JavaScript- Service Workers]]
-- [[Vanilla JavaScript- Web Performance Optimization APIs]]
+- [JavaScript- Service Workers](../../Courses/Software%20Development/JavaScript-%20Service%20Workers.md)
+- [Vanilla JavaScript- Web Performance Optimization APIs](../../Courses/Software%20Development/Vanilla%20JavaScript-%20Web%20Performance%20Optimization%20APIs.md)

@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Awareness- IoT Devices]]
+- [Cybersecurity Awareness- IoT Devices](../../Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20IoT%20Devices.md)

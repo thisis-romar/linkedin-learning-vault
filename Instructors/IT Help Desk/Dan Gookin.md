@@ -28,7 +28,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Computer Components and Peripherals for IT Technicians]]
-- [[Troubleshooting Common PC Issues for Users]]
-- [[Learning Pc Maintenance And Performance]]
-- [[Complete Guide to C Programming Foundations]]
+- [Computer Components and Peripherals for IT Technicians](../../Courses/IT%20Help%20Desk/Computer%20Components%20and%20Peripherals%20for%20IT%20Technicians.md)
+- [Troubleshooting Common PC Issues for Users](../../Courses/DevOps/Troubleshooting%20Common%20PC%20Issues%20for%20Users.md)
+- [Learning Pc Maintenance And Performance](../../Courses/IT%20Help%20Desk/Learning%20Pc%20Maintenance%20And%20Performance.md)
+- [Complete Guide to C Programming Foundations](../../Courses/Hardware/Complete%20Guide%20to%20C%20Programming%20Foundations.md)

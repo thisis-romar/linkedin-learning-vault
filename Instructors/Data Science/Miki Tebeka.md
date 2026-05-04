@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Ingestion with Python]]
-- [[Data Cleaning in Python Essential Training]]
-- [[Data Science Foundations- Python Scientific Stack -CoderPad-]]
+- [Data Ingestion with Python](../../Courses/Data%20Science/Data%20Ingestion%20with%20Python.md)
+- [Data Cleaning in Python Essential Training](../../Courses/Data%20Science/Data%20Cleaning%20in%20Python%20Essential%20Training.md)
+- [Data Science Foundations- Python Scientific Stack -CoderPad-](../../Courses/Data%20Science/Data%20Science%20Foundations-%20Python%20Scientific%20Stack%20-CoderPad-.md)

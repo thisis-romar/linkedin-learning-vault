@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Email and Newsletter Marketing Foundations]]
+- [Email and Newsletter Marketing Foundations](../../Courses/Data%20Science/Email%20and%20Newsletter%20Marketing%20Foundations.md)

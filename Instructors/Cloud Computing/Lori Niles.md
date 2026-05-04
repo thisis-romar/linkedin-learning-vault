@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Upskilling and Reskilling Your Workforce]]
+- [Upskilling and Reskilling Your Workforce](../../Courses/Cloud%20Computing/Upskilling%20and%20Reskilling%20Your%20Workforce.md)

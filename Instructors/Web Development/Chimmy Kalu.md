@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Practical Accessibility For Designers]]
+- [Practical Accessibility For Designers](../../Courses/Web%20Development/Practical%20Accessibility%20For%20Designers.md)

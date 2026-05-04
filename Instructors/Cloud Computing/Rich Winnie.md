@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Computer Science Principles- The Internet]]
-- [[Computer Science Principles- Programming]]
+- [Computer Science Principles- The Internet](../../Courses/Cloud%20Computing/Computer%20Science%20Principles-%20The%20Internet.md)
+- [Computer Science Principles- Programming](../../Courses/Software%20Development/Computer%20Science%20Principles-%20Programming.md)

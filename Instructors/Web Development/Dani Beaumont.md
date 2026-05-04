@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Adobe XD Essential Training- Prototype]]
+- [Adobe XD Essential Training- Prototype](../../Courses/Web%20Development/Adobe%20XD%20Essential%20Training-%20Prototype.md)

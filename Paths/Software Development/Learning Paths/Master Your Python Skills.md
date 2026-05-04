@@ -17,47 +17,47 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Advanced Python]]'
+  - course: '[Advanced Python](../../../Courses/Software%20Development/Advanced%20Python.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Python- Classes and Functions]]'
+  - course: '[Advanced Python- Classes and Functions](../../../Courses/Software%20Development/Advanced%20Python-%20Classes%20and%20Functions.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Python- Working With Data]]'
+  - course: '[Advanced Python- Working With Data](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20With%20Data.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python Data Structures- Stacks, Deques, and Queues]]'
+  - course: '[Python Data Structures- Stacks, Deques, and Queues](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python Data Structures- Linked Lists]]'
+  - course: '[Python Data Structures- Linked Lists](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Python- Practical Database Examples]]'
+  - course: '[Advanced Python- Practical Database Examples](../../../Courses/Software%20Development/Advanced%20Python-%20Practical%20Database%20Examples.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Unit Testing in Python]]'
+  - course: '[Unit Testing in Python](../../../Courses/Software%20Development/Unit%20Testing%20in%20Python.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Python- Working with Databases]]'
+  - course: '[Advanced Python- Working with Databases](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python- Working with Predictive Analytics (2019)]]'
+  - course: '[Python- Working with Predictive Analytics (2019)](../../../Courses/Software%20Development/Python-%20Working%20with%20Predictive%20Analytics%20(2019).md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Level Up- Advanced Python]]'
+  - course: '[Level Up- Advanced Python](../../../Courses/Software%20Development/Level%20Up-%20Advanced%20Python.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Case Study- Visualize Complex Microservice Data Using Python]]'
+  - course: '[Case Study- Visualize Complex Microservice Data Using Python](../../../Courses/Software%20Development/Case%20Study-%20Visualize%20Complex%20Microservice%20Data%20Using%20Python.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -72,33 +72,33 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Advanced Python]]
-2. [[Advanced Python- Classes and Functions]] _(2h 16m)_
-3. [[Advanced Python- Working With Data]] _(2h 5m)_
-4. [[Python Data Structures- Stacks, Deques, and Queues]] _(35m)_
-5. [[Python Data Structures- Linked Lists]] _(1h 2m)_
-6. [[Advanced Python- Practical Database Examples]] _(1h 48m)_
-7. [[Unit Testing in Python]] _(1h 31m)_
-8. [[Advanced Python- Working with Databases]] _(2h 6m)_
-9. [[Python- Working with Predictive Analytics (2019)]] _(1h 17m)_
-10. [[Level Up- Advanced Python]] _(39m)_
-11. [[Case Study- Visualize Complex Microservice Data Using Python]] _(1h 25m)_
+1. [Advanced Python](../../../Courses/Software%20Development/Advanced%20Python.md)
+2. [Advanced Python- Classes and Functions](../../../Courses/Software%20Development/Advanced%20Python-%20Classes%20and%20Functions.md) _(2h 16m)_
+3. [Advanced Python- Working With Data](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20With%20Data.md) _(2h 5m)_
+4. [Python Data Structures- Stacks, Deques, and Queues](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md) _(35m)_
+5. [Python Data Structures- Linked Lists](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md) _(1h 2m)_
+6. [Advanced Python- Practical Database Examples](../../../Courses/Software%20Development/Advanced%20Python-%20Practical%20Database%20Examples.md) _(1h 48m)_
+7. [Unit Testing in Python](../../../Courses/Software%20Development/Unit%20Testing%20in%20Python.md) _(1h 31m)_
+8. [Advanced Python- Working with Databases](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md) _(2h 6m)_
+9. [Python- Working with Predictive Analytics (2019)](../../../Courses/Software%20Development/Python-%20Working%20with%20Predictive%20Analytics%20(2019).md) _(1h 17m)_
+10. [Level Up- Advanced Python](../../../Courses/Software%20Development/Level%20Up-%20Advanced%20Python.md) _(39m)_
+11. [Case Study- Visualize Complex Microservice Data Using Python](../../../Courses/Software%20Development/Case%20Study-%20Visualize%20Complex%20Microservice%20Data%20Using%20Python.md) _(1h 25m)_
 
 ## Course Flow
 
-1. [[Advanced Python]] → 2. [[Advanced Python- Classes and Functions]] → 3. [[Advanced Python- Working With Data]] → 4. [[Python Data Structures- Stacks, Deques, and Queues]] → 5. [[Python Data Structures- Linked Lists]] → 6. [[Advanced Python- Practical Database Examples]] → 7. [[Unit Testing in Python]] → 8. [[Advanced Python- Working with Databases]] → 9. [[Python- Working with Predictive Analytics (2019)]] → 10. [[Level Up- Advanced Python]] → 11. [[Case Study- Visualize Complex Microservice Data Using Python]]
+1. [Advanced Python](../../../Courses/Software%20Development/Advanced%20Python.md) → 2. [Advanced Python- Classes and Functions](../../../Courses/Software%20Development/Advanced%20Python-%20Classes%20and%20Functions.md) → 3. [Advanced Python- Working With Data](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20With%20Data.md) → 4. [Python Data Structures- Stacks, Deques, and Queues](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md) → 5. [Python Data Structures- Linked Lists](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md) → 6. [Advanced Python- Practical Database Examples](../../../Courses/Software%20Development/Advanced%20Python-%20Practical%20Database%20Examples.md) → 7. [Unit Testing in Python](../../../Courses/Software%20Development/Unit%20Testing%20in%20Python.md) → 8. [Advanced Python- Working with Databases](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md) → 9. [Python- Working with Predictive Analytics (2019)](../../../Courses/Software%20Development/Python-%20Working%20with%20Predictive%20Analytics%20(2019).md) → 10. [Level Up- Advanced Python](../../../Courses/Software%20Development/Level%20Up-%20Advanced%20Python.md) → 11. [Case Study- Visualize Complex Microservice Data Using Python](../../../Courses/Software%20Development/Case%20Study-%20Visualize%20Complex%20Microservice%20Data%20Using%20Python.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Master Python for Data Science]] (4 shared courses)
-- [[Python Hands-On Practice]] (2 shared courses)
+- [Master Python for Data Science](../../Database%20Management/Learning%20Paths/Master%20Python%20for%20Data%20Science.md) (4 shared courses)
+- [Python Hands-On Practice](Python%20Hands-On%20Practice.md) (2 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

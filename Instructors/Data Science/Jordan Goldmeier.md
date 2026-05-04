@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel- Dashboards for Beginners (2022)]]
+- [Excel- Dashboards for Beginners (2022)](../../Courses/Data%20Science/Excel-%20Dashboards%20for%20Beginners%20(2022).md)

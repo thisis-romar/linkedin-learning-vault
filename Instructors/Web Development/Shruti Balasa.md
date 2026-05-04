@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced Laravel]]
+- [Advanced Laravel](../../Courses/Web%20Development/Advanced%20Laravel.md)

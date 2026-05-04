@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[jQuery Essential Training]] — 4h 23m · 1,311 learners
+- [jQuery Essential Training](../../Courses/Web%20Development/jQuery%20Essential%20Training.md) — 4h 23m · 1,311 learners
 
 ## Related Skills
 
-- [[Front-End Development]] — 1 shared course
-- [[Web Development]] — 1 shared course
+- [Front-End Development](Front-End%20Development.md) — 1 shared course
+- [Web Development](../../Topics/Web%20Development.md) — 1 shared course

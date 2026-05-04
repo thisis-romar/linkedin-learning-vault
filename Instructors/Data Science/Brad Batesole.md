@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Digital Marketing Foundations]]
+- [Digital Marketing Foundations](../../Courses/Data%20Science/Digital%20Marketing%20Foundations.md)

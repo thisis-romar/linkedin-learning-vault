@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building a Cloud Architecture Diagram]]
+- [Building a Cloud Architecture Diagram](../../Courses/Cloud%20Computing/Building%20a%20Cloud%20Architecture%20Diagram.md)

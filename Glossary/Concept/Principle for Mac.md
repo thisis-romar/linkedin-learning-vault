@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # Principle for Mac
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Web Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Web Development](../../Topics/Web%20Development.md)
 
 ## Courses
 
-1. [[Principle for UX Design]] — 3 mentions
+1. [Principle for UX Design](../../Courses/Web%20Development/Principle%20for%20UX%20Design.md) — 3 mentions
 
 ## Learning Paths
 
-1. [[Improve Your UX Prototyping Skills]] — 3 total mentions
+1. [Improve Your UX Prototyping Skills](../../Paths/Web%20Development/Learning%20Paths/Improve%20Your%20UX%20Prototyping%20Skills.md) — 3 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

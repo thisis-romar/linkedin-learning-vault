@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Vanilla JavaScript- Building on the Document Object Model (DOM)]]
+- [Vanilla JavaScript- Building on the Document Object Model (DOM)](../../Courses/Software%20Development/Vanilla%20JavaScript-%20Building%20on%20the%20Document%20Object%20Model%20(DOM).md)

@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Exploring AIOps]] — Beginner · 18m · 204,042 learners
+- [Exploring AIOps](../../Courses/Artificial%20Intelligence%20(AI)/Exploring%20AIOps.md) — Beginner · 18m · 204,042 learners
 
 ## Related Skills
 
-- [[IT Automation]] — 1 shared course
-- [[AIOps]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [IT Automation](../Network%20and%20System%20Administration/IT%20Automation.md) — 1 shared course
+- [AIOps](AIOps.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[IT Service Management Foundations- Change Management]] — 1 mentions
+1. [IT Service Management Foundations- Change Management](../../Courses/DevOps/IT%20Service%20Management%20Foundations-%20Change%20Management.md) — 1 mentions

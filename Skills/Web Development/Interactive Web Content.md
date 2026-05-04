@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Web Audio and Video]] — Intermediate · 1h 29m · 10,984 learners
-- [[CSS- Animation]] — Intermediate · 1h 50m · 5,568 learners
+- [Learning Web Audio and Video](../../Courses/Web%20Development/Learning%20Web%20Audio%20and%20Video.md) — Intermediate · 1h 29m · 10,984 learners
+- [CSS- Animation](../../Courses/Web%20Development/CSS-%20Animation.md) — Intermediate · 1h 50m · 5,568 learners
 
 ## Related Skills
 
-- [[Web Standards]] — 1 shared course
-- [[Cascading Style Sheets (CSS)]] — 1 shared course
+- [Web Standards](Web%20Standards.md) — 1 shared course
+- [Cascading Style Sheets (CSS)](Cascading%20Style%20Sheets%20(CSS).md) — 1 shared course

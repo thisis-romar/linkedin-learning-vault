@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[GDPR Compliance- Essential Training]] — Beginner · 1h 24m · 25,686 learners
+- [GDPR Compliance- Essential Training](../../Courses/Cybersecurity/GDPR%20Compliance-%20Essential%20Training.md) — Beginner · 1h 24m · 25,686 learners
 
 ## Related Skills
 
-- [[Legal Compliance]] — 1 shared course
+- [Legal Compliance](Legal%20Compliance.md) — 1 shared course

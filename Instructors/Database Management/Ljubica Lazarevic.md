@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to Neo4j]]
+- [Introduction to Neo4j](../../Courses/Database%20Management/Introduction%20to%20Neo4j.md)

@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Financial Intelligence for Business Leaders]] — 1h 30m · 35,541 learners
-- [[Strategic Financial Management in Corporations]] — Advanced · 41m · 8,883 learners
+- [Strategic Financial Intelligence for Business Leaders](../../Courses/Data%20Science/Strategic%20Financial%20Intelligence%20for%20Business%20Leaders.md) — 1h 30m · 35,541 learners
+- [Strategic Financial Management in Corporations](../../Courses/Data%20Science/Strategic%20Financial%20Management%20in%20Corporations.md) — Advanced · 41m · 8,883 learners
 
 ## Related Skills
 
-- [[Corporate Finance]] — 2 shared courses
+- [Corporate Finance](Corporate%20Finance.md) — 2 shared courses

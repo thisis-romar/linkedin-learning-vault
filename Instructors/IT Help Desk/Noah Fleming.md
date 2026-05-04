@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Customer Service- Problem-Solving and Troubleshooting]]
+- [Customer Service- Problem-Solving and Troubleshooting](../../Courses/IT%20Help%20Desk/Customer%20Service-%20Problem-Solving%20and%20Troubleshooting.md)

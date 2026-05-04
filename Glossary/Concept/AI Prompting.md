@@ -21,19 +21,19 @@ created: 2026-05-03
 
 # AI Prompting
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Artificial Intelligence (AI)]], [[Network and System Administration]], [[Web Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md), [Network and System Administration](../../Topics/Network%20and%20System%20Administration.md), [Web Development](../../Topics/Web%20Development.md)
 
 ## Courses
 
-1. [[Gpt Foundations Building Ai Powered Apps]] — 1 mentions
+1. [Gpt Foundations Building Ai Powered Apps](../../Courses/Artificial%20Intelligence%20(AI)/Gpt%20Foundations%20Building%20Ai%20Powered%20Apps.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Hands-On Projects for OpenAI-Powered Apps]] — 1 total mentions
-2. [[Develop Your Skills with Large Language Models]] — 1 total mentions
+1. [Hands-On Projects for OpenAI-Powered Apps](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Hands-On%20Projects%20for%20OpenAI-Powered%20Apps.md) — 1 total mentions
+2. [Develop Your Skills with Large Language Models](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Develop%20Your%20Skills%20with%20Large%20Language%20Models.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

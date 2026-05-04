@@ -17,19 +17,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Django Essential Training]]'
+  - course: '[Django Essential Training](../../../Courses/Web%20Development/Django%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Django- Forms]]'
+  - course: '[Django- Forms](../../../Courses/Web%20Development/Django-%20Forms.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Deploying Django Apps- Make Your Site Go Live]]'
+  - course: '[Deploying Django Apps- Make Your Site Go Live](../../../Courses/Web%20Development/Deploying%20Django%20Apps-%20Make%20Your%20Site%20Go%20Live.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building a Personal Portfolio with Django]]'
+  - course: '[Building a Personal Portfolio with Django](../../../Courses/Web%20Development/Building%20a%20Personal%20Portfolio%20with%20Django.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -44,19 +44,19 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Django Essential Training]]
-2. [[Django- Forms]] _(2h)_
-3. [[Deploying Django Apps- Make Your Site Go Live]] _(2h 42m)_
-4. [[Building a Personal Portfolio with Django]] _(1h 54m)_
+1. [Django Essential Training](../../../Courses/Web%20Development/Django%20Essential%20Training.md)
+2. [Django- Forms](../../../Courses/Web%20Development/Django-%20Forms.md) _(2h)_
+3. [Deploying Django Apps- Make Your Site Go Live](../../../Courses/Web%20Development/Deploying%20Django%20Apps-%20Make%20Your%20Site%20Go%20Live.md) _(2h 42m)_
+4. [Building a Personal Portfolio with Django](../../../Courses/Web%20Development/Building%20a%20Personal%20Portfolio%20with%20Django.md) _(1h 54m)_
 
 ## Course Flow
 
-1. [[Django Essential Training]] → 2. [[Django- Forms]] → 3. [[Deploying Django Apps- Make Your Site Go Live]] → 4. [[Building a Personal Portfolio with Django]]
+1. [Django Essential Training](../../../Courses/Web%20Development/Django%20Essential%20Training.md) → 2. [Django- Forms](../../../Courses/Web%20Development/Django-%20Forms.md) → 3. [Deploying Django Apps- Make Your Site Go Live](../../../Courses/Web%20Development/Deploying%20Django%20Apps-%20Make%20Your%20Site%20Go%20Live.md) → 4. [Building a Personal Portfolio with Django](../../../Courses/Web%20Development/Building%20a%20Personal%20Portfolio%20with%20Django.md)
 
 ## Topics
 
-- [[Web Development]]
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Web Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Web Development](../../../Topics/Web%20Development.md)

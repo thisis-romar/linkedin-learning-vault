@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Future Proofing Your Data Science Career]]
+- [Future Proofing Your Data Science Career](../../Courses/Cloud%20Computing/Future%20Proofing%20Your%20Data%20Science%20Career.md)

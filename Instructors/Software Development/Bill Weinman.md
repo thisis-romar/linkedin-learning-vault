@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices]]
-- [[Using SQL with Python]]
+- [C++ Development- Advanced Concepts, Lambda Expressions, and Best Practices](../../Courses/Software%20Development/C%2B%2B%20Development-%20Advanced%20Concepts%2C%20Lambda%20Expressions%2C%20and%20Best%20Practices.md)
+- [Using SQL with Python](../../Courses/Data%20Science/Using%20SQL%20with%20Python.md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Ux Foundations Interaction Design]]
+- [Ux Foundations Interaction Design](../../Courses/Software%20Development/Ux%20Foundations%20Interaction%20Design.md)

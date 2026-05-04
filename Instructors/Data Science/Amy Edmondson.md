@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Psychological Safety- Clear Blocks to Innovation, Collaboration, and Risk-Taking]]
+- [Psychological Safety- Clear Blocks to Innovation, Collaboration, and Risk-Taking](../../Courses/Data%20Science/Psychological%20Safety-%20Clear%20Blocks%20to%20Innovation%2C%20Collaboration%2C%20and%20Risk-Taking.md)

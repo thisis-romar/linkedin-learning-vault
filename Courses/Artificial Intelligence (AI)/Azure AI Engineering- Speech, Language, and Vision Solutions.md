@@ -19,11 +19,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQEFzp92FB3_cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008951241?e=2147483647&amp;v=beta&amp;t=Jhgi7Fu4Psw02QhuLUccIfJHcU20fi3ljfxIrjJMV9o"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - '[[Understanding Generative AI for Tech Leaders]]'
+  - '[Understanding Generative AI for Tech Leaders](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Understanding%20Generative%20AI%20for%20Tech%20Leaders.md)'
 prev_courses:
-  - '[[Building in Azure AI Foundry]]'
+  - '[Building in Azure AI Foundry](Building%20in%20Azure%20AI%20Foundry.md)'
 next_courses:
-  - '[[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]]'
+  - '[Understanding and Implementing the NIST AI Risk Management Framework (RMF)](Understanding%20and%20Implementing%20the%20NIST%20AI%20Risk%20Management%20Framework%20(RMF).md)'
 path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":11,"total":22,"prev":"Building in Azure AI Foundry","next":"Understanding and Implementing the NIST AI Risk Management Framework (RMF)"}]'
 path_count: 1
 tags:
@@ -75,11 +75,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980&t=1)** - Welcome to this course about building [[AI Solutions]] with [[Microsoft Azure|Azure]] AI. [[Artificial Intelligence (AI)|Artificial intelligence]] engineers are often responsible for creating solutions that use [[Natural Language Processing (NLP)|natural language processing]], or NLP. NLP solutions Use language models to interpret the semantic meaning of written and spoken language. In this course, you'll learn how to use the Language Understanding service in Azure AI to build language models for your applications. Additionally, you'll use Azure AI Vision, which includes multiple services that support common [[Computer Vision]] scenarios. You'll learn how to process and translate speech with Azure AI Speech services, and you'll build AI solutions that can answer questions and can classify images, video, speech, and text using Azure AI.
+> **[0:01](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980&t=1)** - Welcome to this course about building [AI Solutions](../../Skills/Software%20Development/AI%20Solutions.md) with [Azure](../../Skills/Cloud%20Computing/Microsoft%20Azure.md) AI. [Artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) engineers are often responsible for creating solutions that use [natural language processing](../../Skills/Artificial%20Intelligence%20(AI)/Natural%20Language%20Processing%20(NLP).md), or NLP. NLP solutions Use language models to interpret the semantic meaning of written and spoken language. In this course, you'll learn how to use the Language Understanding service in Azure AI to build language models for your applications. Additionally, you'll use Azure AI Vision, which includes multiple services that support common [Computer Vision](../../Skills/Artificial%20Intelligence%20(AI)/Computer%20Vision.md) scenarios. You'll learn how to process and translate speech with Azure AI Speech services, and you'll build AI solutions that can answer questions and can classify images, video, speech, and text using Azure AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[AI Solutions]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [Azure](../../Skills/Cloud%20Computing/Microsoft%20Azure.md) (5), [AI Solutions](../../Skills/Software%20Development/AI%20Solutions.md) (2), [Artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) (1), [Natural language processing](../../Skills/Artificial%20Intelligence%20(AI)/Natural%20Language%20Processing%20(NLP).md) (1), [Computer Vision](../../Skills/Artificial%20Intelligence%20(AI)/Computer%20Vision.md) (1)
 > **Env Vars:** nlp (2)
 > **Speakers:** - welcome (1)
 
@@ -141,7 +141,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Microsoft Learn]]
+- [Microsoft Learn](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft%20Learn.md)
 
 ## Skills Covered
 
@@ -152,22 +152,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Understanding Generative AI for Tech Leaders]]
-← [[Building in Azure AI Foundry]] | **11 of 22** | [[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]] →
+### In [Understanding Generative AI for Tech Leaders](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Understanding%20Generative%20AI%20for%20Tech%20Leaders.md)
+← [Building in Azure AI Foundry](Building%20in%20Azure%20AI%20Foundry.md) | **11 of 22** | [Understanding and Implementing the NIST AI Risk Management Framework (RMF)](Understanding%20and%20Implementing%20the%20NIST%20AI%20Risk%20Management%20Framework%20(RMF).md) →
 
 ## Appears In
 
-- [[Understanding Generative AI for Tech Leaders]]
+- [Understanding Generative AI for Tech Leaders](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Understanding%20Generative%20AI%20for%20Tech%20Leaders.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Azure AI for Developers- Azure AI Speech]] — Artificial Intelligence (AI), AI Software Development, Microsoft Azure
-- [[Exploring the Future of Development with GitHub Copilot Workspace]] — Artificial Intelligence (AI), AI Software Development
-- [[AI Orchestration- Foundations]] — Artificial Intelligence (AI), AI Software Development
-- [[Welcome To The Building Ai Products Understanding The Workflow Professional Certificate]] — Artificial Intelligence (AI), AI Software Development
-- [[Advanced Python Projects- Build AI Applications]] — Artificial Intelligence (AI), AI Software Development
+- [Azure AI for Developers- Azure AI Speech](Azure%20AI%20for%20Developers-%20Azure%20AI%20Speech.md) — Artificial Intelligence (AI), AI Software Development, Microsoft Azure
+- [Exploring the Future of Development with GitHub Copilot Workspace](Exploring%20the%20Future%20of%20Development%20with%20GitHub%20Copilot%20Workspace.md) — Artificial Intelligence (AI), AI Software Development
+- [AI Orchestration- Foundations](AI%20Orchestration-%20Foundations.md) — Artificial Intelligence (AI), AI Software Development
+- [Welcome To The Building Ai Products Understanding The Workflow Professional Certificate](Welcome%20To%20The%20Building%20Ai%20Products%20Understanding%20The%20Workflow%20Professional%20Certificate.md) — Artificial Intelligence (AI), AI Software Development
+- [Advanced Python Projects- Build AI Applications](Advanced%20Python%20Projects-%20Build%20AI%20Applications.md) — Artificial Intelligence (AI), AI Software Development
 
 ---
 

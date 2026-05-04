@@ -24,13 +24,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[PHP Essential Training]]
-- [[PHP with MySQL Essential Training- 1 The Basics]]
-- [[PHP with MySQL Essential Training- 2 Build a CMS]]
-- [[PHP- Object-Oriented Programming]]
-- [[PHP- Object-Oriented Programming with Databases]]
-- [[Programming Foundations- Web Security]]
-- [[PHP Techniques- Working with Files and Directories]]
-- [[PHP- Creating Secure Websites]]
-- [[PHP- User Authentication]]
-- [[PHP Techniques- Pagination]]
+- [PHP Essential Training](../../Courses/Software%20Development/PHP%20Essential%20Training.md)
+- [PHP with MySQL Essential Training- 1 The Basics](../../Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%201%20The%20Basics.md)
+- [PHP with MySQL Essential Training- 2 Build a CMS](../../Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%202%20Build%20a%20CMS.md)
+- [PHP- Object-Oriented Programming](../../Courses/Software%20Development/PHP-%20Object-Oriented%20Programming.md)
+- [PHP- Object-Oriented Programming with Databases](../../Courses/Software%20Development/PHP-%20Object-Oriented%20Programming%20with%20Databases.md)
+- [Programming Foundations- Web Security](../../Courses/Software%20Development/Programming%20Foundations-%20Web%20Security.md)
+- [PHP Techniques- Working with Files and Directories](../../Courses/Cybersecurity/PHP%20Techniques-%20Working%20with%20Files%20and%20Directories.md)
+- [PHP- Creating Secure Websites](../../Courses/Cybersecurity/PHP-%20Creating%20Secure%20Websites.md)
+- [PHP- User Authentication](../../Courses/Cybersecurity/PHP-%20User%20Authentication.md)
+- [PHP Techniques- Pagination](../../Courses/Cybersecurity/PHP%20Techniques-%20Pagination.md)

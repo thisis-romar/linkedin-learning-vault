@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Reinforcement Learning Foundations]]
+- [Reinforcement Learning Foundations](../../Courses/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning%20Foundations.md)

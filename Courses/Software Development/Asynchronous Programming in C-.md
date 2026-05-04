@@ -16,11 +16,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHOVzhhX-Hnzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691013027545?e=2147483647&amp;v=beta&amp;t=-SY2yhceanWM4BElINp4e7qXKCvoNenyD2wr-nTxmos"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[C- Excellence- Architecting High-Performance Solutions]]'
+  - '[C- Excellence- Architecting High-Performance Solutions](../../Paths/Software%20Development/Learning%20Paths/C-%20Excellence-%20Architecting%20High-Performance%20Solutions.md)'
 prev_courses:
-  - '[[Advanced C- Object-Oriented Programming]]'
+  - '[Advanced C- Object-Oriented Programming](Advanced%20C-%20Object-Oriented%20Programming.md)'
 next_courses:
-  - '[[C- Framework Design]]'
+  - '[C- Framework Design](C-%20Framework%20Design.md)'
 path_nav: '[{"path":"C- Excellence- Architecting High-Performance Solutions","position":5,"total":6,"prev":"Advanced C- Object-Oriented Programming","next":"C- Framework Design"}]'
 path_count: 1
 tags:
@@ -83,11 +83,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980&t=0)** - Asynchronous programming is important for just about every software developer. These days, most computers have multicore processors. When that's combined with increasingly sophisticated user interfaces, developers have both a need, and the [[Hardware]] capability for asynchronous programming. Mastering asynchronous techniques will help you build applications that take full advantage of modern hardware, perform well, and are more responsive to your users. Hi, I'm Brice Wilson, and I've been developing software for over 25 years. In this course, you'll learn asynchronous C# techniques that will help you create great .NET applications that are performant and keep your users happy and productive.
+> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980&t=0)** - Asynchronous programming is important for just about every software developer. These days, most computers have multicore processors. When that's combined with increasingly sophisticated user interfaces, developers have both a need, and the [Hardware](../../Topics/Hardware.md) capability for asynchronous programming. Mastering asynchronous techniques will help you build applications that take full advantage of modern hardware, perform well, and are more responsive to your users. Hi, I'm Brice Wilson, and I've been developing software for over 25 years. In this course, you'll learn asynchronous C# techniques that will help you create great .NET applications that are performant and keep your users happy and productive.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2)
+> **Frameworks & Libraries:** [Hardware](../../Topics/Hardware.md) (2)
 > **Env Vars:** net (1)
 > **Speakers:** - asynchronous (1)
 
@@ -95,11 +95,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-you-should-know?u=76281980&t=0)** - [Instructor] Here's what you should know to get the most out of this course. This is not a beginner course so I'm going to assume you already have at least an introductory knowledge of C#. Just the basics, really. Things like declaring variables, writing functions, loops, and using basic programming constructs that exist in just about every language. I'll be writing small programs and running them with the .NET [[CLI]], so some basic experience with it would also be helpful, but not really required. As long as you have the .NET SDK installed on your computer, you should be able to follow along even if you've never used the .NET CLI. If you're ready to get started with asynchronous programming in C#, keep watching.
+> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-you-should-know?u=76281980&t=0)** - [Instructor] Here's what you should know to get the most out of this course. This is not a beginner course so I'm going to assume you already have at least an introductory knowledge of C#. Just the basics, really. Things like declaring variables, writing functions, loops, and using basic programming constructs that exist in just about every language. I'll be writing small programs and running them with the .NET [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md), so some basic experience with it would also be helpful, but not really required. As long as you have the .NET SDK installed on your computer, you should be able to follow along even if you've never used the .NET CLI. If you're ready to get started with asynchronous programming in C#, keep watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (2)
+> **Frameworks & Libraries:** [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md) (2)
 > **Env Vars:** net (3), cli (2), sdk (1)
 > **Speakers:** - [instructor] (1)
 
@@ -112,13 +112,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=0)** - These days, just about every computer you buy has multiple CPU processing cores and can perform several operations at the same time. Additional capabilities are great but to actually take advantage of these capabilities, we programmers have to write our code a bit differently. Asynchronous programming is a technique that lets you offload long running operations to background threads so that the main thread of your application remains available to respond to new input from your user. The result is an application that makes more efficient use of the available [[Hardware]] and is more responsive to your users. When a user starts your application, an application process begins running on their computer. In most cases, that process will initially contain a single thread of execution that will create the user interface, respond to user input, and perform other work required of the application. In some applications, only utilizing a single thread may be all you need. However, if your application starts to perform tasks that take a bit longer to execute, like reading the contents of a file or making an HTTP request, then there can be negative effects on the overall [[User Experience (UX)|user experience]]. While the UI thread is busy processing those longer running tasks, it blocks any new input from your user. To the user, your application may appear frozen or locked up until the other task completes. This can be a frustrating experience for your users and it also doesn't take advantage of the hardware resources available on modern computers.
+> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=0)** - These days, just about every computer you buy has multiple CPU processing cores and can perform several operations at the same time. Additional capabilities are great but to actually take advantage of these capabilities, we programmers have to write our code a bit differently. Asynchronous programming is a technique that lets you offload long running operations to background threads so that the main thread of your application remains available to respond to new input from your user. The result is an application that makes more efficient use of the available [Hardware](../../Topics/Hardware.md) and is more responsive to your users. When a user starts your application, an application process begins running on their computer. In most cases, that process will initially contain a single thread of execution that will create the user interface, respond to user input, and perform other work required of the application. In some applications, only utilizing a single thread may be all you need. However, if your application starts to perform tasks that take a bit longer to execute, like reading the contents of a file or making an HTTP request, then there can be negative effects on the overall [user experience](../../Skills/Web%20Development/User%20Experience%20(UX).md). While the UI thread is busy processing those longer running tasks, it blocks any new input from your user. To the user, your application may appear frozen or locked up until the other task completes. This can be a frustrating experience for your users and it also doesn't take advantage of the hardware resources available on modern computers.
 >
 > **[1:34](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=94)** When you write asynchronous code, you're able to send those long-running tasks to separate threads. Since the main user interface thread isn't busy performing that work, it can always be available to respond to new user events. When the worker threads are done, they can report their changes back to the main thread so the interface can be updated with their results. The concept behind asynchronous programming is fairly straightforward, but recognizing when to use these techniques and actually implementing them in code has traditionally been difficult. In the remainder of this chapter and course, I'll show you how to do those things using modern C# language features that make asynchronous programming much more accessible than it used to be.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [Hardware](../../Topics/Hardware.md) (2), [User experience](../../Skills/Web%20Development/User%20Experience%20(UX).md) (1)
 > **Env Vars:** cpu (1), http (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -140,13 +140,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/patterns-for-asynchronous-programming-in-c-sharp?u=76281980&t=1)** - The C# programming language was created around the year 2000. Rarely do technology survive and thrive that long without their creators being willing to evolve them and focus on continuous improvement. The patterns used for asynchronous programming in C# have evolved a lot over the years. In this course, I'm only going to focus on the pattern currently recommended by [[Microsoft]], but I want you to be aware that other older patterns do exist, because you will likely encounter them in older books, blog posts, and other training materials. The first I'll mention is the Event-Based Asynchronous Pattern. As the name suggests, this pattern makes use of event handler delegates and types derived from EventArg to manage the asynchronous processes. You can usually spot this pattern based on the method names used. They employ a common set of suffixes such as Async, completed, and AsyncCancel. Microsoft no longer recommends this pattern for new development. Another older pattern you may run across is known as the asynchronous programming model. It uses an interface named IAsyncResult and requires so-called begin and end methods. Those are methods that perform different parts of the asynchronous work and are prefixed with the words begin and end. For example, BeginWrite and EndWrite. Microsoft also no longer recommends this pattern. The current recommendation is to follow the much more developer friendly task-based asynchronous pattern. It gets its name from the task class
+> **[0:01](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/patterns-for-asynchronous-programming-in-c-sharp?u=76281980&t=1)** - The C# programming language was created around the year 2000. Rarely do technology survive and thrive that long without their creators being willing to evolve them and focus on continuous improvement. The patterns used for asynchronous programming in C# have evolved a lot over the years. In this course, I'm only going to focus on the pattern currently recommended by [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md), but I want you to be aware that other older patterns do exist, because you will likely encounter them in older books, blog posts, and other training materials. The first I'll mention is the Event-Based Asynchronous Pattern. As the name suggests, this pattern makes use of event handler delegates and types derived from EventArg to manage the asynchronous processes. You can usually spot this pattern based on the method names used. They employ a common set of suffixes such as Async, completed, and AsyncCancel. Microsoft no longer recommends this pattern for new development. Another older pattern you may run across is known as the asynchronous programming model. It uses an interface named IAsyncResult and requires so-called begin and end methods. Those are methods that perform different parts of the asynchronous work and are prefixed with the words begin and end. For example, BeginWrite and EndWrite. Microsoft also no longer recommends this pattern. The current recommendation is to follow the much more developer friendly task-based asynchronous pattern. It gets its name from the task class
 >
 > **[1:34](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/patterns-for-asynchronous-programming-in-c-sharp?u=76281980&t=94)** that functions as an abstraction of an asynchronous operation. There's also the related task of T type for those operations that will return a result. You can manage asynchronous operations using task alone, but you can also use the Async and await keywords to write much more readable asynchronous code that more closely resembles synchronous code. The task-based asynchronous pattern is the one currently recommended by Microsoft and the one I'll focus on in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4)
+> **Frameworks & Libraries:** [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (4)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** recommended (2)
 > **Definitions:** known as (1)
@@ -164,7 +164,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980&t=0)** - [Instructor] Task or the foundation for asynchronous programming in modern C#. Learning how to create and execute them is the first step to building fast and responsive apps. We'll start with some simple synchronous code, and then show you how you can quickly create a new task to run the code asynchronously. I've got a few lines of code already in place here, that will just help us keep track of when different lines are executing, and make it clear when they're running asynchronously. These Console.WriteLine calls will just let us know when the program starts running, and when it's ready to receive some user input. At the end, I've got a call to Console.Readline that could receive some input from the user, but will also make sure our console app doesn't shut down before we're done observing the output. I'm going to wrap our synchronous code inside a new function named ProcessData.
 >
-> **[0:58](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980&t=58)** I'll output another message to the console, so we know when the processing has begun. I'm not going to do any real work here, instead I'll just simulate some long-running [[Data Processing]] by calling Thread.Sleep. At the end I'll add one more Console.WriteLine call, just to let us know when the processing is completed.
+> **[0:58](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980&t=58)** I'll output another message to the console, so we know when the processing has begun. I'm not going to do any real work here, instead I'll just simulate some long-running [Data Processing](../../Skills/Database%20Management/Data%20Processing.md) by calling Thread.Sleep. At the end I'll add one more Console.WriteLine call, just to let us know when the processing is completed.
 >
 > **[1:31](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980&t=91)** This will block the thread it's running on for a fixed number of milliseconds, I'm passing 3000 which will block the thread for three seconds. Okay, I'll now come down a few lines and call the function right after the program starts running. Let's run this and see what it looks like so far. I'll open the terminal built into Visual Studio Code and start the program with the command dotnet run.
 >
@@ -176,7 +176,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Processing]] (2)
+> **Frameworks & Libraries:** [Data Processing](../../Skills/Database%20Management/Data%20Processing.md) (2)
 > **CLI Commands:** make (2), dotnet (1), go run (1)
 > **Tools:** terminal (3), visual studio (1)
 > **Cross-References:** go back to (2)
@@ -194,7 +194,7 @@ created: 2026-05-03
 >
 > **[3:08](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980&t=188)** and when it's ready for user input. Between those two, I'm first going to create a new HttpClient instance,
 >
-> **[3:21](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980&t=201)** I'll then call the GetAsync method that exists on HTTP clients and request the [[LinkedIn]] learning homepage.
+> **[3:21](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980&t=201)** I'll then call the GetAsync method that exists on HTTP clients and request the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) learning homepage.
 >
 > **[3:33](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980&t=213)** Notice that if I hover over the call to GetAsync, we can see that it returns a task with a generic type parameter of type HTTP response message. Because I ultimately need that return value, I'll capture the returned task in a variable.
 >
@@ -204,7 +204,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Env Vars:** http (4), net (1), api (1)
 > **Analogies:** imagine (1), just like (1)
 > **Code Identifiers:** datatask (1)
@@ -223,13 +223,13 @@ created: 2026-05-03
 >
 > **[3:15](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980&t=195)** like this is a blocking operation and reduces the responsiveness of the user interface. I'm now going to fix that by converting this code to use a continuation. After the call to get async, I'll call the continue with method on the return task.
 >
-> **[3:39](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980&t=219)** The method will accept a delegate that will be passed the completed task as a parameter. I'll name that task HTTP task. Since the continuation is also a task that will be executed asynchronously, I can process the results of the completed task here without blocking the [[Representational State Transfer (REST)|rest]] of the application. I'll just move the two lines I already had that access and print out the result inside the body of the delegate. I now just need to rename the task variable to HTTP task. I'll go back to the terminal and run it again.
+> **[3:39](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980&t=219)** The method will accept a delegate that will be passed the completed task as a parameter. I'll name that task HTTP task. Since the continuation is also a task that will be executed asynchronously, I can process the results of the completed task here without blocking the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the application. I'll just move the two lines I already had that access and print out the result inside the body of the delegate. I now just need to rename the task variable to HTTP task. I'll go back to the terminal and run it again.
 >
 > **[4:31](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980&t=271)** Notice that this time the user interface is immediately responsive and the result of the HTTP request is printed out without blocking.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Env Vars:** http (5), url (1)
 > **Analogies:** for instance (1), such as (1)
 > **Prerequisites:** configure (2)
@@ -242,11 +242,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/updating-the-user-interface?u=76281980&t=0)** - [Instructor] The examples I've shown you so far use console applications, which avoids a problem you may run into if using a graphical user interface framework like WPF or [[Windows]] [[Forms]]. When you use one of those frameworks, the UI elements get created by a single UI thread that starts when your program starts. The problem with this is that all updates to those UI elements must be performed from the thread that created them. So if you perform some long-running calculation using a task on a background thread and want to present the results in a text box, for instance, you'll have to pass those results back to the main UI thread and have it update the text box. You can certainly do this, but it's more code you have to write and different UI technologies have different techniques to switch to the UI thread. Rather than show you lots of different ways to do that using the classes and methods I've shown you so far, I'm going to wait until the next chapter and show you how the async and await keywords make UI updates much easier and will accommodate the vast majority of use cases where you need to update the UI from a background thread.
+> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/updating-the-user-interface?u=76281980&t=0)** - [Instructor] The examples I've shown you so far use console applications, which avoids a problem you may run into if using a graphical user interface framework like WPF or [Windows](../../Glossary/Service/Windows.md) [Forms](../../Skills/Web%20Development/Forms.md). When you use one of those frameworks, the UI elements get created by a single UI thread that starts when your program starts. The problem with this is that all updates to those UI elements must be performed from the thread that created them. So if you perform some long-running calculation using a task on a background thread and want to present the results in a text box, for instance, you'll have to pass those results back to the main UI thread and have it update the text box. You can certainly do this, but it's more code you have to write and different UI technologies have different techniques to switch to the UI thread. Rather than show you lots of different ways to do that using the classes and methods I've shown you so far, I'm going to wait until the next chapter and show you how the async and await keywords make UI updates much easier and will accommodate the vast majority of use cases where you need to update the UI from a background thread.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [Windows](../../Glossary/Service/Windows.md) (1), [Forms](../../Skills/Web%20Development/Forms.md) (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wpf (1)
 > **Cross-References:** next chapter (1)
@@ -338,11 +338,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-await-http-requests?u=76281980&t=0)** - [Instructor] In this challenge, you'll write some code that uses the Async and Await keywords to request the contents of a URL, similar to what you saw me do in the demos. The first step is to write an Async function that will accept a URL as a string parameter. You'll then use that URL with the GetStringAsync function on the HttpClient class to retrieve the contents of the URL and print them out to the screen once the task returned from GetStringAsync is complete. After writing the function, add some code to Program.cs to call your new function. You want to observe that it doesn't block your main thread while requesting the URL, so add some output before and after the function call so you can see when the different parts are running and ready for user input. Finally, use the .NET [[CLI]] to run your program and verify that your Async function doesn't block the main program thread. In the next movie, I'll present my solution.
+> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-await-http-requests?u=76281980&t=0)** - [Instructor] In this challenge, you'll write some code that uses the Async and Await keywords to request the contents of a URL, similar to what you saw me do in the demos. The first step is to write an Async function that will accept a URL as a string parameter. You'll then use that URL with the GetStringAsync function on the HttpClient class to retrieve the contents of the URL and print them out to the screen once the task returned from GetStringAsync is complete. After writing the function, add some code to Program.cs to call your new function. You want to observe that it doesn't block your main thread while requesting the URL, so add some output before and after the function call so you can see when the different parts are running and ready for user input. Finally, use the .NET [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md) to run your program and verify that your Async function doesn't block the main program thread. In the next movie, I'll present my solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (1)
+> **Frameworks & Libraries:** [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md) (1)
 > **Env Vars:** url (5), net (1), cli (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
@@ -355,13 +355,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980&t=0)** - [Instructor] The first step to solving the challenge is to write an async function, that starts with the async keyword. Async function should either return a task or a task of T, where T is the return type of the asynchronous work. Our work won't have a return value so the function will just return a task. I'll name the function PrintWebpageContents and have it accept a URL as a string parameter.
 >
-> **[0:41](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980&t=41)** Inside the function, I'll declare a variable to store a new HTTP client instance. I'll then use it to call the GetStringAsync instance method, passing it the URL passed into our function. GetStringAsync is asynchronous and returns a task, so I'll make sure to include the await keyword in front of the call. I'll also store the results, a string representation of the webpage, in a variable. Once the task is complete I'll print that string to the console. I'll now write a few lines to call the new function. Just so we can see when the program starts running I'll add some initial output to the console. (keyboard clicks) I'll then call our new function passing it the URL for [[LinkedIn]] Learning. I'll capture the return task in a variable. (keyboard clicks) Finally, as you've seen me do before, I'll output some text so we know the program is ready for user input. This will just help us confirm our function is running on a background thread and not blocking the main UI thread. A call to Console.ReadLine will keep the program open so we can observe all of the output. I'll now open the terminal built into VS code
+> **[0:41](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980&t=41)** Inside the function, I'll declare a variable to store a new HTTP client instance. I'll then use it to call the GetStringAsync instance method, passing it the URL passed into our function. GetStringAsync is asynchronous and returns a task, so I'll make sure to include the await keyword in front of the call. I'll also store the results, a string representation of the webpage, in a variable. Once the task is complete I'll print that string to the console. I'll now write a few lines to call the new function. Just so we can see when the program starts running I'll add some initial output to the console. (keyboard clicks) I'll then call our new function passing it the URL for [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning. I'll capture the return task in a variable. (keyboard clicks) Finally, as you've seen me do before, I'll output some text so we know the program is ready for user input. This will just help us confirm our function is running on a background thread and not blocking the main UI thread. A call to Console.ReadLine will keep the program open so we can observe all of the output. I'll now open the terminal built into VS code
 >
 > **[2:15](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980&t=135)** and run the program with the command dotnet run. After a few seconds, we see that the program is running and ready for input before the contents of the webpage starts scrolling past. Based on the order of that output, we know we did successfully download the contents of the page on a background thread without blocking the user interface.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Env Vars:** url (3), http (1)
 > **CLI Commands:** make (1), dotnet (1)
 > **Tools:** terminal (1), vs code (1)
@@ -390,7 +390,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/implementing-timeout-cancellations?u=76281980&t=0)** - In this lesson, I want to show you an example of using the cancellation token source class, and cancellation [[Tokens]], to implement timeout cancellations for asynchronous methods. I've already got some code in place here that will asynchronously read the contents of a text file before printing it to the screen. I've hard coded the name of the file I'm going to read here on line three. Below that, I declare a byte array that will hold the contents of the file. I then use a try catch block to create a new file stream and read the data. The asynchronous work begins on line 11, when I call the "read async" method that exists on file stream instances. I'm currently passing it three parameters that basically instruct the method to read the entire file into the "contents" bite array. There's no code to implement cancellation here yet. Notice that I'm also awaiting the completion of the "read async" method, and then writing the contents of the file to the screen. In the catch block at the bottom, I'm just catching all exceptions, and then printing the type of the exception to the screen. There's nothing wrong with this code as it is, but let's imagine we're worried about the read operation taking too long, so we want it to time out after a fixed amount of time. The first thing I need to do is create a new cancellation token source instance. I'll do that near the top of the code before the try block.
+> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/implementing-timeout-cancellations?u=76281980&t=0)** - In this lesson, I want to show you an example of using the cancellation token source class, and cancellation [Tokens](../../Skills/Web%20Development/Tokens.md), to implement timeout cancellations for asynchronous methods. I've already got some code in place here that will asynchronously read the contents of a text file before printing it to the screen. I've hard coded the name of the file I'm going to read here on line three. Below that, I declare a byte array that will hold the contents of the file. I then use a try catch block to create a new file stream and read the data. The asynchronous work begins on line 11, when I call the "read async" method that exists on file stream instances. I'm currently passing it three parameters that basically instruct the method to read the entire file into the "contents" bite array. There's no code to implement cancellation here yet. Notice that I'm also awaiting the completion of the "read async" method, and then writing the contents of the file to the screen. In the catch block at the bottom, I'm just catching all exceptions, and then printing the type of the exception to the screen. There's nothing wrong with this code as it is, but let's imagine we're worried about the read operation taking too long, so we want it to time out after a fixed amount of time. The first thing I need to do is create a new cancellation token source instance. I'll do that near the top of the code before the try block.
 >
 > **[1:34](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/implementing-timeout-cancellations?u=76281980&t=94)** I want to cancel the operation if it hasn't completed in 500 milliseconds, so I'll call the cancel after method on our new cancellation token source instance and pass it 500. I now need to pass the token associated with this source to the asynchronous method. There's an overload of the "read async" method that accepts a cancellation token as the final parameter. I pass the token using the token property of the cancellation token source instance. One important thing to note about the cancellation token source class, is that it implements the I disposable interface, so we either need to wrap it in a "using" block, or make sure we explicitly call its dispose method. I'm going to add a "finally" block at the end of the code and call the dispose method in there. With that in place, we're ready to try it out. I'll open the terminal in VS Code and start it with the command "dotnet run." After a few seconds, we see the single line of text from the file printed to the screen, and the program ends with no errors. This is a tiny text file on my local drive, so 500 milliseconds is more than enough time for the "Read Async" method to do its work before cancellation is initiated. Let's tweak the code, just so I can show you how the cancellation would behave. Instead of 500 milliseconds, I'm going to change the code to cancel the read
 >
@@ -400,7 +400,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (1)
+> **Frameworks & Libraries:** [Tokens](../../Skills/Web%20Development/Tokens.md) (1)
 > **Tools:** terminal (2), vs code (1)
 > **CLI Commands:** make (1), dotnet (1)
 > **Env Vars:** usb (1)
@@ -415,7 +415,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980&t=0)** - [Instructor] Even though you may asynchronously execute long running tasks, leaving your users free to do other things in your app, they may still like to see how the long running task is progressing. The .net framework provides an interface specifically designed to help you do that. The Iprogress of T interface contains a single method named report. To use it, you pass an object that implements the interface to your asynchronous method. Inside the method, you call report when you want to communicate a progress update back to the calling code. The T, generic type parameter, represents the type that contains the progress data passed back to the caller. It can be a simple built-in type like a string or integer or a custom type you've created to store precisely what you want the caller to know about the task progress. You're free to create your own custom implementation of the IProgress interface, but there's one already included in the .net framework named Progress of T. If you use the Progress of T implementation, there are a couple of different ways you can handle the progress updates. The class exposes a progress changed event that will be raised with each progress update sent from the asynchronous code. You can register event handlers for that event just as you would with any other event. The other option is to pass a delegate to the progress class constructor. The delegate will be passed one parameter which will be the progress data sent from the asynchronous code. The delegate effectively acts like an event handler,
 >
-> **[1:35](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980&t=95)** and you can use it to present the progress update to your user. Let me show you an example of how it all works. I've got an async method here at the top of my code file named ProcessData that I'll use to simulate some asynchronous [[Data Processing]]. It takes an array of strings representing departments as a parameter, loops over them and simulate some data processing with this call to task.delay, which will delay the function by one second for each department. A little further down in the code, I declare an array with four different names and then pass it to the asynchronous function. I then output that the program is ready for user input before awaiting the task returned from the function. I'll quickly open the VS code terminal and show you how this currently works. We get notified that the program is ready for user input but then we wait several seconds with no update before being told that the processing is done. It would be much nicer to get some progress updates about that processing rather than wondering what's happening during that time. To add progress reporting to this code, we need to make some changes to the asynchronous function as well as the code that calls it. I'll start with the changes to the function. I first need update it to accept a parameter that implements the Iprogress interface. Probably my favorite thing about how you report progress is how flexible it is. The generic type parameter I use with the interface is the type that will contain the progress data
+> **[1:35](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980&t=95)** and you can use it to present the progress update to your user. Let me show you an example of how it all works. I've got an async method here at the top of my code file named ProcessData that I'll use to simulate some asynchronous [Data Processing](../../Skills/Database%20Management/Data%20Processing.md). It takes an array of strings representing departments as a parameter, loops over them and simulate some data processing with this call to task.delay, which will delay the function by one second for each department. A little further down in the code, I declare an array with four different names and then pass it to the asynchronous function. I then output that the program is ready for user input before awaiting the task returned from the function. I'll quickly open the VS code terminal and show you how this currently works. We get notified that the program is ready for user input but then we wait several seconds with no update before being told that the processing is done. It would be much nicer to get some progress updates about that processing rather than wondering what's happening during that time. To add progress reporting to this code, we need to make some changes to the asynchronous function as well as the code that calls it. I'll start with the changes to the function. I first need update it to accept a parameter that implements the Iprogress interface. Probably my favorite thing about how you report progress is how flexible it is. The generic type parameter I use with the interface is the type that will contain the progress data
 >
 > **[3:10](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980&t=190)** communicated back to the calling code. I could create any type I want to pass any data I need. I'm going to keep things simple for now and just use an integer. I'll name the parameter progress. I want to report the number of departments that have been processed. To make that a little easier, I'm going to convert this for each loop to a for loop, and I'll use my counter variable I as the data I'm reporting. Before the simulated processing, I'll call the report method on the progress object and pass it the current value I. That's all I need to do inside the function. In the calling code, I need to create an object that implements the IProgress interface. If I needed to, I could create my own implementation, but the built-in progress class will meet my needs here. Its constructor accepts a delegate that will receive the progress data as a parameter and execute each time a progress report is sent.
 >
@@ -423,7 +423,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Processing]] (2)
+> **Frameworks & Libraries:** [Data Processing](../../Skills/Database%20Management/Data%20Processing.md) (2)
 > **CLI Commands:** make (2), go run (1), find (1)
 > **Tools:** terminal (2), vs code (1)
 > **UI Navigation:** open the (1)
@@ -436,11 +436,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-cancel-a-slow-http-request?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-cancel-a-slow-http-request?u=76281980&t=5)** - [Instructor] In this challenge, you'll write an async function that makes an HTTP request but will time out with a cancellation token if the request takes too long to complete. The first step is to write an async function that will accept a URL as a string parameter. You'll then use that URL with the GetStringAsync function on the HttpClient class to retrieve the contents of the URL and print them out to the screen once the task returned from GetStringAsync is complete. If this sounds familiar, it's because this was also the first step in the challenge from the previous chapter. If you completed that challenge, you can use your code from it as a starting point to complete this one. There's an overload of the GetStringAsync method that accepts a string URL for the first parameter and a cancellation token for the second. That's the one you want to use for this challenge. Configure the cancellation token to cancel the HTTP request if it's not complete within five seconds. Also, make sure to use try-catch finally blocks to make the request and handle the exception thrown as a result of a cancellation. Finally, call your function inside Program.cs and use the .NET [[CLI]] to run your program. Hopefully, most websites will return successfully in less than five seconds. So if you want to observe a cancellation, feel free to experiment with different cancellation times. In the next movie, I'll present my solution.
+> **[0:05](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-cancel-a-slow-http-request?u=76281980&t=5)** - [Instructor] In this challenge, you'll write an async function that makes an HTTP request but will time out with a cancellation token if the request takes too long to complete. The first step is to write an async function that will accept a URL as a string parameter. You'll then use that URL with the GetStringAsync function on the HttpClient class to retrieve the contents of the URL and print them out to the screen once the task returned from GetStringAsync is complete. If this sounds familiar, it's because this was also the first step in the challenge from the previous chapter. If you completed that challenge, you can use your code from it as a starting point to complete this one. There's an overload of the GetStringAsync method that accepts a string URL for the first parameter and a cancellation token for the second. That's the one you want to use for this challenge. Configure the cancellation token to cancel the HTTP request if it's not complete within five seconds. Also, make sure to use try-catch finally blocks to make the request and handle the exception thrown as a result of a cancellation. Finally, call your function inside Program.cs and use the .NET [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md) to run your program. Hopefully, most websites will return successfully in less than five seconds. So if you want to observe a cancellation, feel free to experiment with different cancellation times. In the next movie, I'll present my solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (1)
+> **Frameworks & Libraries:** [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md) (1)
 > **Env Vars:** url (4), http (2), net (1), cli (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1), in the next (1)
@@ -455,7 +455,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980&t=0)** (lively music)
 >
-> **[0:05](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980&t=5)** - [Instructor] The solution to the challenge really begins with the code you hopefully wrote for the challenge in the previous chapter. I'll briefly walk you through this in case you need a quick refresher on it. At the top, I wrote an async function named PrintWebpageContents that accepts a URL as a string parameter. I declared the function with the async keyword and specified that it will return a task. Inside the function, I create a new HttpClient instance and then call the GetStringAsync method on it, passing it the url parameter. I await the results of that asynchronous function and capture the webpage contents in a variable that I then output to the screen. A little further down, I wrote a few lines to call the function, passing it the URL for the [[LinkedIn]] Learning website. The part of this challenge you didn't do in the earlier one is adding a CancellationToken to cancel the request if it takes too long. Let's now write the additional code to implement that. At the top of the function body, I'll declare a new CancellationTokenSource variable and assign it a new CancellationTokenSource instance. Immediately after that, I'll call the CancelAfter instance method on the variable, and pass it 5000, the number of milliseconds that should trigger the cancellation. I can then use the CancellationTokenSource to pass a CancellationToken to the GetStringAsync method below.
+> **[0:05](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980&t=5)** - [Instructor] The solution to the challenge really begins with the code you hopefully wrote for the challenge in the previous chapter. I'll briefly walk you through this in case you need a quick refresher on it. At the top, I wrote an async function named PrintWebpageContents that accepts a URL as a string parameter. I declared the function with the async keyword and specified that it will return a task. Inside the function, I create a new HttpClient instance and then call the GetStringAsync method on it, passing it the url parameter. I await the results of that asynchronous function and capture the webpage contents in a variable that I then output to the screen. A little further down, I wrote a few lines to call the function, passing it the URL for the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning website. The part of this challenge you didn't do in the earlier one is adding a CancellationToken to cancel the request if it takes too long. Let's now write the additional code to implement that. At the top of the function body, I'll declare a new CancellationTokenSource variable and assign it a new CancellationTokenSource instance. Immediately after that, I'll call the CancelAfter instance method on the variable, and pass it 5000, the number of milliseconds that should trigger the cancellation. I can then use the CancellationTokenSource to pass a CancellationToken to the GetStringAsync method below.
 >
 > **[1:40](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980&t=100)** Remember I mentioned that there's an overload of it that takes a CancellationToken as a second parameter. I'll pass it here by referencing the Token property on the CancellationTokenSource variable. Now, in order to properly handle the exception that will be thrown as a result of a cancellation, I need to wrap this code in try-catch blocks.
 >
@@ -463,7 +463,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** make (1), dotnet (1)
 > **Env Vars:** url (2)
 > **Cross-References:** previous chapter (1), go back to (1)
@@ -480,20 +480,20 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980&t=0)** - [Narrator] Congratulations on finishing the course. You've developed some new C# muscles. To maintain and grow those muscles, you must continue exercising them. That can take the form of additional learning as well as practice on your own applications. I've got a few suggestions to help you in each of those areas. There are lots of great C# courses on [[LinkedIn]] Learning to help you with asynchronous programming and other advanced topics. C# Advanced Practices includes topics on task and asynchronous programming as well as [[Language Integrated Query (LINQ)|LINQ]], entity framework and multi-threading. Advanced C#: Thread-Safe Data with Concurrent Collections covers many important multi-threading topics with an obvious focus on concurrent collections. Lastly, Advanced C# Language Features doesn't cover asynchronous programming, but does dive deep into other advanced features of the language that will certainly help you continue to grow your skills. Continuing to learn new things is great, but one of the best ways to retain that new knowledge is to put them into practice. Always be on the lookout for opportunities to practice your new skills. I explained earlier that there are lots of programming scenarios that might benefit from asynchronous execution. Particularly look for I/O bound and CPU bound tasks. This is probably easiest to do when working on a new application or a new feature in an existing application, but refactoring existing code is another great way to practice your new skills. You presumably already have a correct implementation of the requirements
+> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980&t=0)** - [Narrator] Congratulations on finishing the course. You've developed some new C# muscles. To maintain and grow those muscles, you must continue exercising them. That can take the form of additional learning as well as practice on your own applications. I've got a few suggestions to help you in each of those areas. There are lots of great C# courses on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning to help you with asynchronous programming and other advanced topics. C# Advanced Practices includes topics on task and asynchronous programming as well as [LINQ](../../Skills/Software%20Development/Language%20Integrated%20Query%20(LINQ).md), entity framework and multi-threading. Advanced C#: Thread-Safe Data with Concurrent Collections covers many important multi-threading topics with an obvious focus on concurrent collections. Lastly, Advanced C# Language Features doesn't cover asynchronous programming, but does dive deep into other advanced features of the language that will certainly help you continue to grow your skills. Continuing to learn new things is great, but one of the best ways to retain that new knowledge is to put them into practice. Always be on the lookout for opportunities to practice your new skills. I explained earlier that there are lots of programming scenarios that might benefit from asynchronous execution. Particularly look for I/O bound and CPU bound tasks. This is probably easiest to do when working on a new application or a new feature in an existing application, but refactoring existing code is another great way to practice your new skills. You presumably already have a correct implementation of the requirements
 >
 > **[1:34](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980&t=94)** and can just focus on improving the code using asynchronous techniques. I hope you've enjoyed the course and are eager to start using your new asynchronous C# skills. Thanks for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Language Integrated Query (LINQ)|Linq]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1), [Linq](../../Skills/Software%20Development/Language%20Integrated%20Query%20(LINQ).md) (1)
 > **Env Vars:** linq (1), cpu (1)
 > **Speakers:** - [narrator] (1)
 
 
 ## Instructor
 
-- [[Brice Wilson]]
+- [Brice Wilson](../../Instructors/Software%20Development/Brice%20Wilson.md)
 
 ## Skills Covered
 
@@ -501,22 +501,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[C- Excellence- Architecting High-Performance Solutions]]
-← [[Advanced C- Object-Oriented Programming]] | **5 of 6** | [[C- Framework Design]] →
+### In [C- Excellence- Architecting High-Performance Solutions](../../Paths/Software%20Development/Learning%20Paths/C-%20Excellence-%20Architecting%20High-Performance%20Solutions.md)
+← [Advanced C- Object-Oriented Programming](Advanced%20C-%20Object-Oriented%20Programming.md) | **5 of 6** | [C- Framework Design](C-%20Framework%20Design.md) →
 
 ## Appears In
 
-- [[C- Excellence- Architecting High-Performance Solutions]]
+- [C- Excellence- Architecting High-Performance Solutions](../../Paths/Software%20Development/Learning%20Paths/C-%20Excellence-%20Architecting%20High-Performance%20Solutions.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Learning C-]] — C#
-- [[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]] — C#
-- [[Nail Your C- Interview]] — C#
-- [[C- Design Patterns Part 2]] — C#
-- [[C- Design Patterns Part 1]] — C#
+- [Learning C-](Learning%20C-.md) — C#
+- [Cert Prep- Unity Certified Associate Game Developer Scripting with C-](Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Scripting%20with%20C-.md) — C#
+- [Nail Your C- Interview](Nail%20Your%20C-%20Interview.md) — C#
+- [C- Design Patterns Part 2](C-%20Design%20Patterns%20Part%202.md) — C#
+- [C- Design Patterns Part 1](C-%20Design%20Patterns%20Part%201.md) — C#
 
 ---
 

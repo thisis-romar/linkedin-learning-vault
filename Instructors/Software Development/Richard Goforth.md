@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[C- Design Patterns Part 1]]
-- [[C- Design Patterns Part 2]]
+- [C- Design Patterns Part 1](../../Courses/Software%20Development/C-%20Design%20Patterns%20Part%201.md)
+- [C- Design Patterns Part 2](../../Courses/Software%20Development/C-%20Design%20Patterns%20Part%202.md)

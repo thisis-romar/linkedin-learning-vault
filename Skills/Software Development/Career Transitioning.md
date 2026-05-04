@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Transition from Data Science to Data Engineering]] — Intermediate · 47m · 47,802 learners
-- [[Transitioning to a Career in Cybersecurity]] — Beginner · 1h 19m · 8,371 learners
+- [Transition from Data Science to Data Engineering](../../Courses/Cloud%20Computing/Transition%20from%20Data%20Science%20to%20Data%20Engineering.md) — Intermediate · 47m · 47,802 learners
+- [Transitioning to a Career in Cybersecurity](../../Courses/Cybersecurity/Transitioning%20to%20a%20Career%20in%20Cybersecurity.md) — Beginner · 1h 19m · 8,371 learners
 
 ## Related Skills
 
-- [[Data Engineering]] — 1 shared course
-- [[Cybersecurity Careers]] — 1 shared course
-- [[Cybersecurity]] — 1 shared course
-- [[Tech Career Skills]] — 1 shared course
+- [Data Engineering](../Data%20Science/Data%20Engineering.md) — 1 shared course
+- [Cybersecurity Careers](../Cybersecurity/Cybersecurity%20Careers.md) — 1 shared course
+- [Cybersecurity](../../Topics/Cybersecurity.md) — 1 shared course
+- [Tech Career Skills](../Cybersecurity/Tech%20Career%20Skills.md) — 1 shared course

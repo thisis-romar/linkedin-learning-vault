@@ -22,7 +22,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[UX Research- Journey Mapping]]
-- [[UX Foundations- Storytelling]]
-- [[UX Foundations- Generational Design]]
-- [[Market Research Foundations]]
+- [UX Research- Journey Mapping](../../Courses/Web%20Development/UX%20Research-%20Journey%20Mapping.md)
+- [UX Foundations- Storytelling](../../Courses/Web%20Development/UX%20Foundations-%20Storytelling.md)
+- [UX Foundations- Generational Design](../../Courses/Web%20Development/UX%20Foundations-%20Generational%20Design.md)
+- [Market Research Foundations](../../Courses/Data%20Science/Market%20Research%20Foundations.md)

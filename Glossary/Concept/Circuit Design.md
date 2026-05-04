@@ -21,19 +21,19 @@ created: 2026-05-03
 
 # Circuit Design
 
-> **Type:** Concept | **Courses:** 2 | **Topics:** [[Hardware]], [[Network and System Administration]], [[Software Development]]
+> **Type:** Concept | **Courses:** 2 | **Topics:** [Hardware](../../Topics/Hardware.md), [Network and System Administration](../../Topics/Network%20and%20System%20Administration.md), [Software Development](../../Topics/Software%20Development.md)
 
 ## Courses
 
-1. [[Electronics Foundations- Fundamentals]] — 1 mentions
-2. [[Electronics Foundations- Semiconductor Devices]] — 1 mentions
+1. [Electronics Foundations- Fundamentals](../../Courses/Hardware/Electronics%20Foundations-%20Fundamentals.md) — 1 mentions
+2. [Electronics Foundations- Semiconductor Devices](../../Courses/Hardware/Electronics%20Foundations-%20Semiconductor%20Devices.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Become an Arduino Developer]] — 2 total mentions
+1. [Become an Arduino Developer](../../Paths/Hardware/Learning%20Paths/Become%20an%20Arduino%20Developer.md) — 2 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

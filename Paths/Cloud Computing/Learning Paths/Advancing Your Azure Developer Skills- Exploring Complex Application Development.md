@@ -21,31 +21,31 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Developing Ci Cd Solutions With Azure Devops]]'
+  - course: '[Developing Ci Cd Solutions With Azure Devops](../../../Courses/Cloud%20Computing/Developing%20Ci%20Cd%20Solutions%20With%20Azure%20Devops.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Migrating to Azure]]'
+  - course: '[Migrating to Azure](../../../Courses/Cloud%20Computing/Migrating%20to%20Azure.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Azure Data Lake for Developers]]'
+  - course: '[Azure Data Lake for Developers](../../../Courses/Cloud%20Computing/Azure%20Data%20Lake%20for%20Developers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]]'
+  - course: '[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security](../../../Courses/Cloud%20Computing/Azure%20Developer%20Associate%20(AZ-204)%20Cert%20Prep-%20Implement%20Azure%20Security.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Developing Chatbots with Azure]]'
+  - course: '[Developing Chatbots with Azure](../../../Courses/Cloud%20Computing/Developing%20Chatbots%20with%20Azure.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Microsoft Azure Synapse for Developers]]'
+  - course: '[Microsoft Azure Synapse for Developers](../../../Courses/Cloud%20Computing/Microsoft%20Azure%20Synapse%20for%20Developers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Introduction to Terraform on Azure (2022)]]'
+  - course: '[Introduction to Terraform on Azure (2022)](../../../Courses/Cloud%20Computing/Introduction%20to%20Terraform%20on%20Azure%20(2022).md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -60,30 +60,30 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Developing Ci Cd Solutions With Azure Devops]]
-2. [[Migrating to Azure]] _(1h 40m)_
-3. [[Azure Data Lake for Developers]] _(1h 11m)_
-4. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] _(1h 12m)_
-5. [[Developing Chatbots with Azure]] _(1h 2m)_
-6. [[Microsoft Azure Synapse for Developers]] _(2h 35m)_
-7. [[Introduction to Terraform on Azure (2022)]] _(50m)_
+1. [Developing Ci Cd Solutions With Azure Devops](../../../Courses/Cloud%20Computing/Developing%20Ci%20Cd%20Solutions%20With%20Azure%20Devops.md)
+2. [Migrating to Azure](../../../Courses/Cloud%20Computing/Migrating%20to%20Azure.md) _(1h 40m)_
+3. [Azure Data Lake for Developers](../../../Courses/Cloud%20Computing/Azure%20Data%20Lake%20for%20Developers.md) _(1h 11m)_
+4. [Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security](../../../Courses/Cloud%20Computing/Azure%20Developer%20Associate%20(AZ-204)%20Cert%20Prep-%20Implement%20Azure%20Security.md) _(1h 12m)_
+5. [Developing Chatbots with Azure](../../../Courses/Cloud%20Computing/Developing%20Chatbots%20with%20Azure.md) _(1h 2m)_
+6. [Microsoft Azure Synapse for Developers](../../../Courses/Cloud%20Computing/Microsoft%20Azure%20Synapse%20for%20Developers.md) _(2h 35m)_
+7. [Introduction to Terraform on Azure (2022)](../../../Courses/Cloud%20Computing/Introduction%20to%20Terraform%20on%20Azure%20(2022).md) _(50m)_
 
 ## Course Flow
 
-1. [[Developing Ci Cd Solutions With Azure Devops]] → 2. [[Migrating to Azure]] → 3. [[Azure Data Lake for Developers]] → 4. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] → 5. [[Developing Chatbots with Azure]] → 6. [[Microsoft Azure Synapse for Developers]] → 7. [[Introduction to Terraform on Azure (2022)]]
+1. [Developing Ci Cd Solutions With Azure Devops](../../../Courses/Cloud%20Computing/Developing%20Ci%20Cd%20Solutions%20With%20Azure%20Devops.md) → 2. [Migrating to Azure](../../../Courses/Cloud%20Computing/Migrating%20to%20Azure.md) → 3. [Azure Data Lake for Developers](../../../Courses/Cloud%20Computing/Azure%20Data%20Lake%20for%20Developers.md) → 4. [Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security](../../../Courses/Cloud%20Computing/Azure%20Developer%20Associate%20(AZ-204)%20Cert%20Prep-%20Implement%20Azure%20Security.md) → 5. [Developing Chatbots with Azure](../../../Courses/Cloud%20Computing/Developing%20Chatbots%20with%20Azure.md) → 6. [Microsoft Azure Synapse for Developers](../../../Courses/Cloud%20Computing/Microsoft%20Azure%20Synapse%20for%20Developers.md) → 7. [Introduction to Terraform on Azure (2022)](../../../Courses/Cloud%20Computing/Introduction%20to%20Terraform%20on%20Azure%20(2022).md)
 
 ## Topics
 
-- [[Cloud Computing]]
-- [[Network and System Administration]]
-- [[Software Development]]
+- [Cloud Computing](../../../Topics/Cloud%20Computing.md)
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Getting Started as an Azure Developer]] (1 shared courses)
+- [Getting Started as an Azure Developer](Getting%20Started%20as%20an%20Azure%20Developer.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cloud Computing]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cloud Computing](../../../Topics/Cloud%20Computing.md)

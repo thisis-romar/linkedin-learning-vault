@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)]] — Intermediate · 1h 55m · 58,597 learners
+- [Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)](../../Courses/Cloud%20Computing/Office%20365%20for%20Administrators-%20Troubleshooting%20Issues%20for%20Users%20(Office%20365-Microsoft%20365).md) — Intermediate · 1h 55m · 58,597 learners
 
 ## Related Skills
 
-- [[Office 365 Administration]] — 1 shared course
+- [Office 365 Administration](Office%20365%20Administration.md) — 1 shared course

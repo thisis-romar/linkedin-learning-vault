@@ -32,5 +32,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python Quick Start]]
-- [[Introduction to Data Science]]
+- [Python Quick Start](../../Courses/Database%20Management/Python%20Quick%20Start.md)
+- [Introduction to Data Science](../../Courses/Data%20Science/Introduction%20to%20Data%20Science.md)

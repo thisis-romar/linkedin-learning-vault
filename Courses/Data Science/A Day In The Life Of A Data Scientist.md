@@ -16,9 +16,9 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQHAWiSGH-Xj2Q/learning-public-crop_675_1200/B4EZp_FpkzGoAY-/0/1763068779676?e=2147483647&amp;v=beta&amp;t=1W_6STZWkGSc8BDvPTg6MCnlDmG0RcPeRYo2EALgHKE"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Become a Data Scientist]]'
+  - '[Become a Data Scientist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Scientist.md)'
 next_courses:
-  - '[[The Non Technical Skills Of Effective Data Scientists]]'
+  - '[The Non Technical Skills Of Effective Data Scientists](The%20Non%20Technical%20Skills%20Of%20Effective%20Data%20Scientists.md)'
 path_nav: '[{"path":"Become a Data Scientist","position":1,"total":11,"prev":null,"next":"The Non Technical Skills Of Effective Data Scientists"}]'
 path_count: 1
 tags:
@@ -75,11 +75,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=0)** Your degree taught on how to train a model... but your job will teach you how to read the room. Hey, I'm Lorenzo. I’m a data analytics lead with over seven years of experience working in the [[Data Science]] space. Many new data scientists assume success comes from technical depth, but early on, it's not about how unbalanced your model is, it's about whether anyone uses it. You won't always be writing code. Some days you will spend more time in meetings than in Jupyter. You will align with stakeholders, clarify vague requests, and explain results to people who don't speak in P-Values or pipelines. So what actually matters? There are three things. The first one is prioritizing the right problems. The second one is delivering useful answers. And the third one is communicating clearly with humans and not just with data. And yes, you will still write [[SQL]], build [[Dashboards]], and maybe train the occasional model. But those tasks are only effective if they help someone make a better decision faster. And so this little course will not be a deep dive into machine learning; it's a look on how real data scientists structure their day, manage competing requests, and make sure their work actually lands. You will hear practical lessons that people wish they would learn earlier—how to start your day, when to stop tweaking an analysis, and how to explain results without over-explaining. If you’re looking to get better at the parts of the job that don't show up in textbooks, this is the place to start.
+> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=0)** Your degree taught on how to train a model... but your job will teach you how to read the room. Hey, I'm Lorenzo. I’m a data analytics lead with over seven years of experience working in the [Data Science](../../Topics/Data%20Science.md) space. Many new data scientists assume success comes from technical depth, but early on, it's not about how unbalanced your model is, it's about whether anyone uses it. You won't always be writing code. Some days you will spend more time in meetings than in Jupyter. You will align with stakeholders, clarify vague requests, and explain results to people who don't speak in P-Values or pipelines. So what actually matters? There are three things. The first one is prioritizing the right problems. The second one is delivering useful answers. And the third one is communicating clearly with humans and not just with data. And yes, you will still write [SQL](../../Skills/Data%20Science/SQL.md), build [Dashboards](../../Skills/Data%20Science/Dashboards.md), and maybe train the occasional model. But those tasks are only effective if they help someone make a better decision faster. And so this little course will not be a deep dive into machine learning; it's a look on how real data scientists structure their day, manage competing requests, and make sure their work actually lands. You will hear practical lessons that people wish they would learn earlier—how to start your day, when to stop tweaking an analysis, and how to explain results without over-explaining. If you’re looking to get better at the parts of the job that don't show up in textbooks, this is the place to start.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (1), [[SQL]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [Data Science](../../Topics/Data%20Science.md) (1), [SQL](../../Skills/Data%20Science/SQL.md) (1), [Dashboards](../../Skills/Data%20Science/Dashboards.md) (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1)
 > **Tools:** jupyter (1)
@@ -93,11 +93,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980&t=0)** What you do in your first hour doesn't just set the tone. It shapes what actually gets done. Most new data scientists start the day by checking [[Slack]], scrolling through emails, and getting pulled into threads. Suddenly, it's noon and you haven't touched the real work. Here's a better approach: block the first hour for thinking and not reacting. Before opening your inbox, look at your task list and ask yourself, “What's the one thing that I need to do to move forward today? What is urgent versus what’s just noise? And what do I need to input before I can proceed?” Write it down. Not in your head-- not scattered across stamps-- but one clear list. This reduces context switching and helps you focus before everyone else priorities become yours. And here's a real example. One analyst I worked with spent 15 minutes every morning reviewing her active projects and jotting down one goal per project. Just one. She never looked busy, but she always delivered what mattered. And that habit made her the person leadership trusted when it counted. A pro tip is keeping a “waiting on” list. If you’re blocked, track who or what you're waiting for. It keeps you proactive instead of stuck in a limbo. So the first hour is not about getting everything done. It's about deciding what's worth doing today and starting with that.
+> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980&t=0)** What you do in your first hour doesn't just set the tone. It shapes what actually gets done. Most new data scientists start the day by checking [Slack](../../Skills/Software%20Development/Slack.md), scrolling through emails, and getting pulled into threads. Suddenly, it's noon and you haven't touched the real work. Here's a better approach: block the first hour for thinking and not reacting. Before opening your inbox, look at your task list and ask yourself, “What's the one thing that I need to do to move forward today? What is urgent versus what’s just noise? And what do I need to input before I can proceed?” Write it down. Not in your head-- not scattered across stamps-- but one clear list. This reduces context switching and helps you focus before everyone else priorities become yours. And here's a real example. One analyst I worked with spent 15 minutes every morning reviewing her active projects and jotting down one goal per project. Just one. She never looked busy, but she always delivered what mattered. And that habit made her the person leadership trusted when it counted. A pro tip is keeping a “waiting on” list. If you’re blocked, track who or what you're waiting for. It keeps you proactive instead of stuck in a limbo. So the first hour is not about getting everything done. It's about deciding what's worth doing today and starting with that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (1)
+> **Frameworks & Libraries:** [Slack](../../Skills/Software%20Development/Slack.md) (1)
 > **Tools:** slack (1)
 > **Best Practices:** pro tip (1)
 
@@ -199,11 +199,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980&t=0)** The best analysis means nothing if no one understand it. [[Data Science]] is a team sport who will work with product managers, marketers, designers, engineers, and most of them won’t think in [[SQL]], let alone model assumptions. That's not a problem. But it does mean you'll have to adjust how you speak. The goal isn't to simplify the work; it’s to clarify the message. Start by understanding your audience. What do they need from you? What decisions are they trying to make? And what context do they already have? For example, a product manager might care about user trends and next steps, not how you handle outliers. A marketer might need to know which campaign worked and not the confidence interval behind it. When I'm preparing to share results, I ask, “What's the one thing this person needs to walk away with? What language will make it clear without needing a technical deep dive?” So avoid jargon unless you are sure they speak the same language. Dropoff rate might be fine, but precision recall tradeoff-- probably not. One practical habit: Keep a version of your findings for internal use and a cleaned-up version for stakeholders. That lets you stay accurate without overwhelming your audience. Good communication is not about dumbing things down. It’s choosing the right level of detail so everyone can move forward together.
+> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980&t=0)** The best analysis means nothing if no one understand it. [Data Science](../../Topics/Data%20Science.md) is a team sport who will work with product managers, marketers, designers, engineers, and most of them won’t think in [SQL](../../Skills/Data%20Science/SQL.md), let alone model assumptions. That's not a problem. But it does mean you'll have to adjust how you speak. The goal isn't to simplify the work; it’s to clarify the message. Start by understanding your audience. What do they need from you? What decisions are they trying to make? And what context do they already have? For example, a product manager might care about user trends and next steps, not how you handle outliers. A marketer might need to know which campaign worked and not the confidence interval behind it. When I'm preparing to share results, I ask, “What's the one thing this person needs to walk away with? What language will make it clear without needing a technical deep dive?” So avoid jargon unless you are sure they speak the same language. Dropoff rate might be fine, but precision recall tradeoff-- probably not. One practical habit: Keep a version of your findings for internal use and a cleaned-up version for stakeholders. That lets you stay accurate without overwhelming your audience. Good communication is not about dumbing things down. It’s choosing the right level of detail so everyone can move forward together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [Data Science](../../Topics/Data%20Science.md) (1), [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
@@ -213,7 +213,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/incorporate-feedback-to-improve?u=76281980&t=0)** Feedback is part of the job, but it doesn't always feel that way. As a data scientist, you spend hours on an analysis and think it's solid, and then someone says, “Can we simplify this?” or “This isn't quite what we needed.” It's easy to take that personally. I used to, but here's what shifted for me. Feedback is not a judgment, it's an input. Just like data, it helps improve the output. Start by listening without offending. When someone gives feedback, don't rush to explain your reasoning. Let them finish. Focus on what they need and not what you already did. And then separate the feedback into two buckets. Number one is things that improve clarity, relevance, and usefulness. And number two are things that ask for changes that conflict with [[Data Integrity]] or misinterpret the work. You should always act on the first. For the second, pushback but do it clearly and constructively. Say, “Here's why I took this approach. Let me walk you through the trade-off.” And here's a practical example. I once built a dashboard with 15 filters, fully flexible, technically solid, and the stakeholders said it was overwhelming. We cut it down to three views with preset options. Same data, but much more usable. And feedbacks here made it better. You're not just delivering analysis-- you're building tools for others, so let them help you shape it. That's not a compromise. It's a real collaboration.
+> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/incorporate-feedback-to-improve?u=76281980&t=0)** Feedback is part of the job, but it doesn't always feel that way. As a data scientist, you spend hours on an analysis and think it's solid, and then someone says, “Can we simplify this?” or “This isn't quite what we needed.” It's easy to take that personally. I used to, but here's what shifted for me. Feedback is not a judgment, it's an input. Just like data, it helps improve the output. Start by listening without offending. When someone gives feedback, don't rush to explain your reasoning. Let them finish. Focus on what they need and not what you already did. And then separate the feedback into two buckets. Number one is things that improve clarity, relevance, and usefulness. And number two are things that ask for changes that conflict with [Data Integrity](../../Skills/Cybersecurity/Data%20Integrity.md) or misinterpret the work. You should always act on the first. For the second, pushback but do it clearly and constructively. Say, “Here's why I took this approach. Let me walk you through the trade-off.” And here's a practical example. I once built a dashboard with 15 filters, fully flexible, technically solid, and the stakeholders said it was overwhelming. We cut it down to three views with preset options. Same data, but much more usable. And feedbacks here made it better. You're not just delivering analysis-- you're building tools for others, so let them help you shape it. That's not a compromise. It's a real collaboration.
 
 > [!info]- Semantic Content
 >
@@ -224,11 +224,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980&t=0)** You can have the best insight in the room, but if you deliver it with hesitation or you overload your audience, it won’t land. As a data scientist, presenting is not about confidence. It's about making people feel they are in good hands. That starts with knowing your material and, just as importantly, knowing your audience. When you present insights, lead with a takeaway, then walk through the why step by step using plain language. Avoid over-explaining unless someone asks for it. But don't just talk at people. Watch how they respond. Are they nodding? Are they confused? Are they silent? Invite questions early-- not with “Any questions?”-- but with something more specific like “Is this matching what you've been seeing on your end?” I've learned that the most effective presentation don't feel like lectures. They feel like conversations. And when pushback comes, you have to assume there is good intent. Sometimes people are skeptical because they have been burned by bad data before. So you have to acknowledge that. You have to walk them from your process, show how you handle edge cases, and where the limits are. Presenting with confidence doesn't mean having all the answers. It means being prepared, clear, and open to discussion. The goal is not just to inform, it's to be trusted. And so that's what turns a good presentation into a [[Decision-Making]] moment.
+> **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980&t=0)** You can have the best insight in the room, but if you deliver it with hesitation or you overload your audience, it won’t land. As a data scientist, presenting is not about confidence. It's about making people feel they are in good hands. That starts with knowing your material and, just as importantly, knowing your audience. When you present insights, lead with a takeaway, then walk through the why step by step using plain language. Avoid over-explaining unless someone asks for it. But don't just talk at people. Watch how they respond. Are they nodding? Are they confused? Are they silent? Invite questions early-- not with “Any questions?”-- but with something more specific like “Is this matching what you've been seeing on your end?” I've learned that the most effective presentation don't feel like lectures. They feel like conversations. And when pushback comes, you have to assume there is good intent. Sometimes people are skeptical because they have been burned by bad data before. So you have to acknowledge that. You have to walk them from your process, show how you handle edge cases, and where the limits are. Presenting with confidence doesn't mean having all the answers. It means being prepared, clear, and open to discussion. The goal is not just to inform, it's to be trusted. And so that's what turns a good presentation into a [Decision-Making](../../Skills/Data%20Science/Decision-Making.md) moment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [Decision-Making](../../Skills/Data%20Science/Decision-Making.md) (1)
 
 
 ### Conclusion
@@ -254,22 +254,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Become a Data Scientist]]
-**1 of 11** | [[The Non Technical Skills Of Effective Data Scientists]] →
+### In [Become a Data Scientist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Scientist.md)
+**1 of 11** | [The Non Technical Skills Of Effective Data Scientists](The%20Non%20Technical%20Skills%20Of%20Effective%20Data%20Scientists.md) →
 
 ## Appears In
 
-- [[Become a Data Scientist]]
+- [Become a Data Scientist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Scientist.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Lessons from Data Scientists]] — Tech Career Skills, Career Management, Data Science
-- [[Future Proofing Your Data Science Career]] — Tech Career Skills, Data Science
-- [[15 Tips for Landing a Data Science Job]] — Career Management, Data Science
-- [[Data Science and Analytics Career Paths and Certifications- First Steps]] — Tech Career Skills, Data Science
-- [[Developer Career Paths and Certifications]] — Tech Career Skills, Career Management
+- [Lessons from Data Scientists](Lessons%20from%20Data%20Scientists.md) — Tech Career Skills, Career Management, Data Science
+- [Future Proofing Your Data Science Career](../Cloud%20Computing/Future%20Proofing%20Your%20Data%20Science%20Career.md) — Tech Career Skills, Data Science
+- [15 Tips for Landing a Data Science Job](../Cloud%20Computing/15%20Tips%20for%20Landing%20a%20Data%20Science%20Job.md) — Career Management, Data Science
+- [Data Science and Analytics Career Paths and Certifications- First Steps](Data%20Science%20and%20Analytics%20Career%20Paths%20and%20Certifications-%20First%20Steps.md) — Tech Career Skills, Data Science
+- [Developer Career Paths and Certifications](../Software%20Development/Developer%20Career%20Paths%20and%20Certifications.md) — Tech Career Skills, Career Management
 
 ---
 

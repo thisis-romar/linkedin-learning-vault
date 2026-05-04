@@ -17,15 +17,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Learning Jenkins Automating Software Development And System Administration]]'
+  - course: '[Learning Jenkins Automating Software Development And System Administration](../../../Courses/DevOps/Learning%20Jenkins%20Automating%20Software%20Development%20And%20System%20Administration.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Jenkins Essential Training]]'
+  - course: '[Jenkins Essential Training](../../../Courses/DevOps/Jenkins%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure]]'
+  - course: '[Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure](../../../Courses/DevOps/Running%20Jenkins%20on%20AWS-%20Deploying%20and%20Managing%20Jenkins%20on%20Cloud%20Infrastructure.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -40,18 +40,18 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Learning Jenkins Automating Software Development And System Administration]]
-2. [[Jenkins Essential Training]] _(2h 35m)_
-3. [[Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure]] _(1h 38m)_
+1. [Learning Jenkins Automating Software Development And System Administration](../../../Courses/DevOps/Learning%20Jenkins%20Automating%20Software%20Development%20And%20System%20Administration.md)
+2. [Jenkins Essential Training](../../../Courses/DevOps/Jenkins%20Essential%20Training.md) _(2h 35m)_
+3. [Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure](../../../Courses/DevOps/Running%20Jenkins%20on%20AWS-%20Deploying%20and%20Managing%20Jenkins%20on%20Cloud%20Infrastructure.md) _(1h 38m)_
 
 ## Course Flow
 
-1. [[Learning Jenkins Automating Software Development And System Administration]] → 2. [[Jenkins Essential Training]] → 3. [[Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure]]
+1. [Learning Jenkins Automating Software Development And System Administration](../../../Courses/DevOps/Learning%20Jenkins%20Automating%20Software%20Development%20And%20System%20Administration.md) → 2. [Jenkins Essential Training](../../../Courses/DevOps/Jenkins%20Essential%20Training.md) → 3. [Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure](../../../Courses/DevOps/Running%20Jenkins%20on%20AWS-%20Deploying%20and%20Managing%20Jenkins%20on%20Cloud%20Infrastructure.md)
 
 ## Topics
 
-- [[DevOps]]
+- [DevOps](../../../Topics/DevOps.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[DevOps]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [DevOps](../../../Topics/DevOps.md)

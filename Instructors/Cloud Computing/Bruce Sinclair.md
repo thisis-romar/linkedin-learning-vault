@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[IoT Foundations- Fundamentals]]
+- [IoT Foundations- Fundamentals](../../Courses/Cloud%20Computing/IoT%20Foundations-%20Fundamentals.md)

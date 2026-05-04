@@ -18,11 +18,11 @@ github: "https://github.com/LinkedInLearning/c-design-patterns-part-2-2873342"
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGZvQHGYeZ0Nw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1618509686303?e=2147483647&amp;v=beta&amp;t=-V2x7OIgWecnWnjKybTAgqbBAuCo0DAfpNvn0dk2DW0"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[Getting Started as a C- Developer]]'
+  - '[Getting Started as a C- Developer](../../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20as%20a%20C-%20Developer.md)'
 prev_courses:
-  - '[[C- Design Patterns Part 1]]'
+  - '[C- Design Patterns Part 1](C-%20Design%20Patterns%20Part%201.md)'
 next_courses:
-  - '[[Nail Your C- Interview]]'
+  - '[Nail Your C- Interview](Nail%20Your%20C-%20Interview.md)'
 path_nav: '[{"path":"Getting Started as a C- Developer","position":8,"total":9,"prev":"C- Design Patterns Part 1","next":"Nail Your C- Interview"}]'
 path_count: 1
 tags:
@@ -184,7 +184,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Richard Goforth]]
+- [Richard Goforth](../../Instructors/Software%20Development/Richard%20Goforth.md)
 
 ## Resources
 
@@ -198,22 +198,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Getting Started as a C- Developer]]
-← [[C- Design Patterns Part 1]] | **8 of 9** | [[Nail Your C- Interview]] →
+### In [Getting Started as a C- Developer](../../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20as%20a%20C-%20Developer.md)
+← [C- Design Patterns Part 1](C-%20Design%20Patterns%20Part%201.md) | **8 of 9** | [Nail Your C- Interview](Nail%20Your%20C-%20Interview.md) →
 
 ## Appears In
 
-- [[Getting Started as a C- Developer]]
+- [Getting Started as a C- Developer](../../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20as%20a%20C-%20Developer.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[C- Design Patterns Part 1]] — C#, Software Design Patterns
-- [[Learning C-]] — C#
-- [[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]] — C#
-- [[JavaScript- Patterns]] — Software Design Patterns
-- [[C++ Design Patterns- Structural]] — Software Design Patterns
+- [C- Design Patterns Part 1](C-%20Design%20Patterns%20Part%201.md) — C#, Software Design Patterns
+- [Learning C-](Learning%20C-.md) — C#
+- [Cert Prep- Unity Certified Associate Game Developer Scripting with C-](Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Scripting%20with%20C-.md) — C#
+- [JavaScript- Patterns](JavaScript-%20Patterns.md) — Software Design Patterns
+- [C++ Design Patterns- Structural](../Data%20Science/C%2B%2B%20Design%20Patterns-%20Structural.md) — Software Design Patterns
 
 ---
 

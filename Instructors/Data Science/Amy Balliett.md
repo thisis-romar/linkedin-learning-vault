@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Visualization- Best Practices]]
-- [[Visualizing Advanced Charts and Graphs]]
+- [Data Visualization- Best Practices](../../Courses/Data%20Science/Data%20Visualization-%20Best%20Practices.md)
+- [Visualizing Advanced Charts and Graphs](../../Courses/Data%20Science/Visualizing%20Advanced%20Charts%20and%20Graphs.md)

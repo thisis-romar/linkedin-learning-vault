@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Full-Stack JavaScript Development- MongoDB, Node, and React]]
+- [Learning Full-Stack JavaScript Development- MongoDB, Node, and React](../../Courses/Database%20Management/Learning%20Full-Stack%20JavaScript%20Development-%20MongoDB%2C%20Node%2C%20and%20React.md)

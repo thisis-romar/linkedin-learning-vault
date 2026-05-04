@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Pipeline Automation with GitHub Actions Using R and Python]]
+- [Data Pipeline Automation with GitHub Actions Using R and Python](../../Courses/Data%20Science/Data%20Pipeline%20Automation%20with%20GitHub%20Actions%20Using%20R%20and%20Python.md)

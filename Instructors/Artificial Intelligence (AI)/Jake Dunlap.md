@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Better Relationships and More Sales- Using ChatGPT to Sell]]
+- [Better Relationships and More Sales- Using ChatGPT to Sell](../../Courses/Artificial%20Intelligence%20(AI)/Better%20Relationships%20and%20More%20Sales-%20Using%20ChatGPT%20to%20Sell.md)

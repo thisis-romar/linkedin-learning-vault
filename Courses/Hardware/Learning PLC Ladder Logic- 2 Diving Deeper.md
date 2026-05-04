@@ -16,11 +16,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHX0LhQJAamxw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571761946936?e=2147483647&amp;v=beta&amp;t=-TJ7yoH2gA_OOIhjkmkT0Fd3Afs4IT6arfCAyOSNhjQ"
 linkedin_topic: Hardware
 learning_paths:
-  - '[[Become a PLC Developer]]'
+  - '[Become a PLC Developer](../../Paths/Hardware/Learning%20Paths/Become%20a%20PLC%20Developer.md)'
 prev_courses:
-  - '[[Learning PLC Ladder Logic- 1 The Basics]]'
+  - '[Learning PLC Ladder Logic- 1 The Basics](Learning%20PLC%20Ladder%20Logic-%201%20The%20Basics.md)'
 next_courses:
-  - '[[PLC Memory Organization]]'
+  - '[PLC Memory Organization](PLC%20Memory%20Organization.md)'
 path_nav: '[{"path":"Become a PLC Developer","position":3,"total":7,"prev":"Learning PLC Ladder Logic- 1 The Basics","next":"PLC Memory Organization"}]'
 path_count: 1
 tags:
@@ -112,11 +112,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=1)** - Everyday [[Microsoft Products|products]] that you use are built according to specific requirements. In manufacturing and industrial settings, robotic arms, conveyor belts, sensors and the process sequence itself are programmed to perform task to meet those requirements. [[PLC Ladder Logic]] programming is one of the common languages used to program industrial and manufacturing processes. Although there are many types of [[PLC]] devices, the concepts of the language are the same. In this [[LinkedIn]] Learning course, I'll explain the basics of PLC Ladder Logic programming like math, compare and some of the data transfer instructions. I will show you sequence logic and how to use state diagrams in programming PLC processes. I'll explore each instruction separately and go through examples, step by step, to better understand each concept. You will also see the examples in the [[Simulation Software]]. Hello, I'm Zaharaa Khalil. I am an engineering instructor and I love teaching students just like you. Join me in my LinkedIn Learning course to explore the world of PLC Ladder Logic programming.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=1)** - Everyday [products](../../Skills/Software%20Development/Microsoft%20Products.md) that you use are built according to specific requirements. In manufacturing and industrial settings, robotic arms, conveyor belts, sensors and the process sequence itself are programmed to perform task to meet those requirements. [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) programming is one of the common languages used to program industrial and manufacturing processes. Although there are many types of [PLC](../../Glossary/Tool/PLC.md) devices, the concepts of the language are the same. In this [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course, I'll explain the basics of PLC Ladder Logic programming like math, compare and some of the data transfer instructions. I will show you sequence logic and how to use state diagrams in programming PLC processes. I'll explore each instruction separately and go through examples, step by step, to better understand each concept. You will also see the examples in the [Simulation Software](../../Skills/Hardware/Simulation%20Software.md). Hello, I'm Zaharaa Khalil. I am an engineering instructor and I love teaching students just like you. Join me in my LinkedIn Learning course to explore the world of PLC Ladder Logic programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (3), [[PLC]] (2), [[LinkedIn]] (2), [[Microsoft Products|Products]] (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (3), [PLC](../../Glossary/Tool/PLC.md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2), [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1), [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1)
 > **Env Vars:** plc (5)
 > **Analogies:** just like (1)
 > **Speakers:** - everyday (1)
@@ -125,11 +125,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=1)** - Before you start this course, you should be able to understand a simple ladder logic program. You should be familiar with how ladder logic programming works using the basics instructions, like how to use input and output instructions, and how timer and counter instructions work. I'll focus on the concept of ladder logic programming in this course, including math instructions, compare instructions, some data transfer instructions, and learning about sequenced logic. I'll be using LogixPro [[PLC]] Simulator from LearningPit. This [[Simulation Software]] mimics Allen-Bradley Rockwell RSLogix 500. I will only use this software to demo the examples and show you how the programs work. This course does not teach the software, because you will be able to apply the knowledge to any PLC software that uses ladder logic. This course is designed as a continuation of Learning [[PLC Ladder Logic]]. If you need a refresher on the basics of programming ladder logic, I recommend that you check it out first.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=1)** - Before you start this course, you should be able to understand a simple ladder logic program. You should be familiar with how ladder logic programming works using the basics instructions, like how to use input and output instructions, and how timer and counter instructions work. I'll focus on the concept of ladder logic programming in this course, including math instructions, compare instructions, some data transfer instructions, and learning about sequenced logic. I'll be using LogixPro [PLC](../../Glossary/Tool/PLC.md) Simulator from LearningPit. This [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) mimics Allen-Bradley Rockwell RSLogix 500. I will only use this software to demo the examples and show you how the programs work. This course does not teach the software, because you will be able to apply the knowledge to any PLC software that uses ladder logic. This course is designed as a continuation of Learning [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md). If you need a refresher on the basics of programming ladder logic, I recommend that you check it out first.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (2), [[Simulation Software]] (1), [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (2), [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1), [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1)
 > **Env Vars:** plc (3)
 > **Speakers:** - before (1)
 
@@ -137,11 +137,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/using-logixpro-plc-software-simulation?u=76281980&t=1)** - [Instructor] For this course, I'll be using LogixPro [[PLC]] simulator from Learning Pit. This [[Simulation Software]] mimics Allen-Bradley Rockwell RSLogix 500. Please refer to this video, LogixPro PLC Simulation Software, where I go through the software and how to download it. The simulation software is used to only demo the examples and show how the programs work. This course does not teach the software, as you can apply the knowledge to any PLC software that uses ladder logic.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/using-logixpro-plc-software-simulation?u=76281980&t=1)** - [Instructor] For this course, I'll be using LogixPro [PLC](../../Glossary/Tool/PLC.md) simulator from Learning Pit. This [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) mimics Allen-Bradley Rockwell RSLogix 500. Please refer to this video, LogixPro PLC Simulation Software, where I go through the software and how to download it. The simulation software is used to only demo the examples and show how the programs work. This course does not teach the software, as you can apply the knowledge to any PLC software that uses ladder logic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (3), [[Simulation Software]] (3)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (3), [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (3)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
@@ -154,13 +154,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-binary-coded-decimal?u=76281980&t=1)** - [Female Instructor] For a [[PLC]] to control any process or application it must be able to receive signals from outside devices. As humans, we prefer to work with decimal numbers, while the PLC only understands binary information. Thumbwheels are used to allow us to input numerical data into the programmable controller. And, in the PLC, they are being read as BCD, Binary Coded Decimal. The Binary Coded Decimal System provides a means of converting a number used by humans in decimal to a number understood by the controller in binary. The BCD System uses four bits to represent each decimal digits. The four bits used are the binary equivalents of the numbers from zero to nine. Let's fresh up on the concepts of binary weightings to understand how BCD numbers are represented. A binary number means that each bit has a power of two assigned to it. The least significant bit is giving weighting of two to the power zero, that gives number one. The next bit is giving a weighting of two to the power one, which gives number two and it continues for all the remaining bits. Here's and example of a decimal number one. The binary equivalent is zero zero zero one. Another example, number three, the binary equivalent output is
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-binary-coded-decimal?u=76281980&t=1)** - [Female Instructor] For a [PLC](../../Glossary/Tool/PLC.md) to control any process or application it must be able to receive signals from outside devices. As humans, we prefer to work with decimal numbers, while the PLC only understands binary information. Thumbwheels are used to allow us to input numerical data into the programmable controller. And, in the PLC, they are being read as BCD, Binary Coded Decimal. The Binary Coded Decimal System provides a means of converting a number used by humans in decimal to a number understood by the controller in binary. The BCD System uses four bits to represent each decimal digits. The four bits used are the binary equivalents of the numbers from zero to nine. Let's fresh up on the concepts of binary weightings to understand how BCD numbers are represented. A binary number means that each bit has a power of two assigned to it. The least significant bit is giving weighting of two to the power zero, that gives number one. The next bit is giving a weighting of two to the power one, which gives number two and it continues for all the remaining bits. Here's and example of a decimal number one. The binary equivalent is zero zero zero one. Another example, number three, the binary equivalent output is
 >
 > **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-binary-coded-decimal?u=76281980&t=95)** zero zero one one. Remember, that we place one for each binary weighting so the total is equal to the decimal representation of three. So we place one under the weighting for number one and place one for number two, that gives a total of three. In the BCD system the largest decimal number that can be displayed by any four digits is nine. So if we have a decimal number that has three digits the BCD representation of that decimal number is obtained by replacing each decimal digit by its BCD equivalent. To distinguish the BCD numbering system from the binary system, a BCD designation is placed to the right of the unit digits. Here is the BCD equivalent for number eight hundred sixty three, and the binary equivalent for the same number. Binary and BCD have the same representation in terms of zeros and ones when you look at them. But BCD uses four bits to represent each decimal digits. So you can see that BCD is different than binary.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (3)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (3)
 > **Env Vars:** bcd (12), plc (3)
 > **Definitions:** means that (1)
 > **Speakers:** - [female (1)
@@ -169,11 +169,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/thumbwheel-in-plc?u=76281980&t=1)** - [Instructor] A thumbwheel switch is one example of an input device that uses BCD system. Thumbwheel has four output connections and a common output. Each of the four connections, the first, second, fourth, and eight, represent the binary weighing of that number. And they are individually wired to the [[PLC]] input. So for number seven, the PLC sees it as a BCD 0111, representing the decimal number. The thumbwheel, or any other input devices, are connected to the input model of the PLC. Then, within PLC, there is a BCD to binary conversion for that input. Now if we want to enter a two-digits number, then thumbwheel switches can be grouped together to support multiple digits. Now this brings us to an issue that need to be addressed. When using two thumbwheel switches, the software wrongly sees the digits as one long number. So instead of showing a binary number, a presentation of 87, the PLC wrongly interprets that as one number. The binary now shows 135 instead of 87. In order to tell the software to read each four-bit separately, the BCD number, [[PLC Programming]] uses an instruction called FRD, that looks for each four bits as one number.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/thumbwheel-in-plc?u=76281980&t=1)** - [Instructor] A thumbwheel switch is one example of an input device that uses BCD system. Thumbwheel has four output connections and a common output. Each of the four connections, the first, second, fourth, and eight, represent the binary weighing of that number. And they are individually wired to the [PLC](../../Glossary/Tool/PLC.md) input. So for number seven, the PLC sees it as a BCD 0111, representing the decimal number. The thumbwheel, or any other input devices, are connected to the input model of the PLC. Then, within PLC, there is a BCD to binary conversion for that input. Now if we want to enter a two-digits number, then thumbwheel switches can be grouped together to support multiple digits. Now this brings us to an issue that need to be addressed. When using two thumbwheel switches, the software wrongly sees the digits as one long number. So instead of showing a binary number, a presentation of 87, the PLC wrongly interprets that as one number. The binary now shows 135 instead of 87. In order to tell the software to read each four-bit separately, the BCD number, [PLC Programming](../../Skills/Hardware/PLC%20Programming.md) uses an instruction called FRD, that looks for each four bits as one number.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (5), [[PLC Programming]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (5), [PLC Programming](../../Skills/Hardware/PLC%20Programming.md) (1)
 > **Env Vars:** plc (6), bcd (4), frd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -182,15 +182,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980&t=1)** - [Instructor] A decimal number is sent to the [[PLC]] as BCD equivalent. And the PLC software uses an instruction to convert it to a binary value that matches the decimal number. The definition of the FRD instruction is an instruction that is used to convert the binary coded decimal, BCD, source value to an integer data and then place the results in the destination. That integer number is stored as a binary number inside the software. So, FRD can be named as BCD to binary number equivalent to the source decimal value or BCD to integer number that is equivalent to the source decimal value. You can find the two names in the documentation. FRD is a block type instruction and it has two parameters, source and destination. It is an output instruction, so we put it to the right-hand side of the Ladder Logic. The address of the source is the entire input model address. In case of the thumb wheel switch, it is the entire input model that the thumb wheel switch is connected to. And the destination is the address to where to store the data, for example, to set up a time preset
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980&t=1)** - [Instructor] A decimal number is sent to the [PLC](../../Glossary/Tool/PLC.md) as BCD equivalent. And the PLC software uses an instruction to convert it to a binary value that matches the decimal number. The definition of the FRD instruction is an instruction that is used to convert the binary coded decimal, BCD, source value to an integer data and then place the results in the destination. That integer number is stored as a binary number inside the software. So, FRD can be named as BCD to binary number equivalent to the source decimal value or BCD to integer number that is equivalent to the source decimal value. You can find the two names in the documentation. FRD is a block type instruction and it has two parameters, source and destination. It is an output instruction, so we put it to the right-hand side of the Ladder Logic. The address of the source is the entire input model address. In case of the thumb wheel switch, it is the entire input model that the thumb wheel switch is connected to. And the destination is the address to where to store the data, for example, to set up a time preset
 >
-> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980&t=95)** or a counter preset. For the rung control, this instruction operates continuously if there is no input. If we add an input to the rung, the instruction operates when the rung is true. So here's an example of having two-digit decimal number 18. It gets sent to the PLC as a BCD value. Software reads it as a binary which shows 24 instead of 18, so to ensure the proper conversion, FRD instruction is used to convert it to a binary equivalent of 18. In this one rung program, a decimal number 18 is read from the thumb wheel switch on inputs five I:5 and placed in I:5 as a BCD value. Then FRD instruction converts it to a binary equivalent and place it on a discreet output model O:2. So here we have the program and the [[Simulation Software]]. I'm going to go ahead and download the program to PLC. Click to go online. And then I click on Run. So now notice here, nothing happens. If I go use the thumbnail, even if I go to the number that I want which is 18, notice here in rung zero, the FRD instruction only takes a number,
+> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980&t=95)** or a counter preset. For the rung control, this instruction operates continuously if there is no input. If we add an input to the rung, the instruction operates when the rung is true. So here's an example of having two-digit decimal number 18. It gets sent to the PLC as a BCD value. Software reads it as a binary which shows 24 instead of 18, so to ensure the proper conversion, FRD instruction is used to convert it to a binary equivalent of 18. In this one rung program, a decimal number 18 is read from the thumb wheel switch on inputs five I:5 and placed in I:5 as a BCD value. Then FRD instruction converts it to a binary equivalent and place it on a discreet output model O:2. So here we have the program and the [Simulation Software](../../Skills/Hardware/Simulation%20Software.md). I'm going to go ahead and download the program to PLC. Click to go online. And then I click on Run. So now notice here, nothing happens. If I go use the thumbnail, even if I go to the number that I want which is 18, notice here in rung zero, the FRD instruction only takes a number,
 >
 > **[3:07](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980&t=187)** it does not give it to the destination because we have a push button here that needs to be active for the FRD instruction to convert the number to the proper decimal equivalent. So I'll go ahead, I'll press on the start push button and now if you look back to the FRD instruction, so here you see the source that's coming from I:5 which is our thumb wheel, it reads the decimal number as 24 and then when it's sent back to the destination, it converts it back to the proper equivalent of the decimal number. Now the same thing if we have three thumb wheel switches representing three-digit number. FRD instruction tells the software to read each four bits separately. So this will solve the problem of wrongly interpreting the binary number as one whole number.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (4), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (4), [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1)
 > **Env Vars:** frd (9), bcd (6), plc (4)
 > **Definitions:** is an  (2), is a  (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -203,11 +203,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-frd?u=76281980&t=1)** - [Instructor] Here's a simple example that uses a thumbwheel switch. Let's say, in a factory setting, we need to use the thumbwheel to preset a timer. The timer is used to keep track of heating a product. The timer can be an internal virtual device or an external device. So, simply using the thumbwheel switch to set the timer to a specific time as required and press on the start switch to start the timer. The thumbwheel switch is connected to input five module, and the start switch is connected to input one module in the [[PLC]].
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-frd?u=76281980&t=1)** - [Instructor] Here's a simple example that uses a thumbwheel switch. Let's say, in a factory setting, we need to use the thumbwheel to preset a timer. The timer is used to keep track of heating a product. The timer can be an internal virtual device or an external device. So, simply using the thumbwheel switch to set the timer to a specific time as required and press on the start switch to start the timer. The thumbwheel switch is connected to input five module, and the start switch is connected to input one module in the [PLC](../../Glossary/Tool/PLC.md).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (1)
 > **Env Vars:** plc (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -216,11 +216,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd?u=76281980&t=1)** - [Instructor] For programming this scenario, the first rung is to having the FRD instruction. The source we need to use the whole input address, so it's local five for input and five is the input module address. Note that for the first rung, no input is placed prior to the FRD instruction. This means the FRD instruction is operating continuously. The second rung is the timer and the destination from the FRD instruction is the timer preset. We put the input switch ahead of the timer so the timer will start when the switch is on and we can control the reset of the timer when needed. Please refer to the timer section from [[PLC Ladder Logic]] Programming course to understand more about the timer operation. If we use a push button instead, we can simply use the timer timing bit as as a seal-in instruction to keep the timer working. So let's see how this program works. I'm going to go to the rung. I'll select the preset for the timer, so let's use 20, for example, and then I'll press on the switch. You can see the timer is timing up to number 20 and notice here, if we want to select another time, I can simply just go to the thumb wheel and select another preset value and press on the start switch again and the timer will start timing to the preset value selected.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd?u=76281980&t=1)** - [Instructor] For programming this scenario, the first rung is to having the FRD instruction. The source we need to use the whole input address, so it's local five for input and five is the input module address. Note that for the first rung, no input is placed prior to the FRD instruction. This means the FRD instruction is operating continuously. The second rung is the timer and the destination from the FRD instruction is the timer preset. We put the input switch ahead of the timer so the timer will start when the switch is on and we can control the reset of the timer when needed. Please refer to the timer section from [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) Programming course to understand more about the timer operation. If we use a push button instead, we can simply use the timer timing bit as as a seal-in instruction to keep the timer working. So let's see how this program works. I'm going to go to the rung. I'll select the preset for the timer, so let's use 20, for example, and then I'll press on the switch. You can see the timer is timing up to number 20 and notice here, if we want to select another time, I can simply just go to the thumb wheel and select another preset value and press on the start switch again and the timer will start timing to the preset value selected.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1)
 > **Env Vars:** frd (4), plc (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** for example (1)
@@ -231,11 +231,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/led-displays-in-plc?u=76281980&t=1)** - [Instructor] One of the devices that are used with [[PLC]] as an output is LED display. LED displays are example of PLC devices that use BCD numbering system. They display values from zero to nine and in order to show a certain number, very similar to a thumb wheel concept, LED display show the values that are based on the BCD values received using a binary weighing. So to show a number eight, then the values to be sent to the LED display are one, zero, zero, zero. This is how it works. The binary number that needed to be shown on the LED display gets converted to a BCD value then sent out to the display that shows the number in decimal. And to do so, PLC software uses an instruction called TOD. TOD behaves similarly to FRD that it converts the BCD value to a decimal number. So when the numbering needs to be shown as two digits, it looks to each four bits separately.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/led-displays-in-plc?u=76281980&t=1)** - [Instructor] One of the devices that are used with [PLC](../../Glossary/Tool/PLC.md) as an output is LED display. LED displays are example of PLC devices that use BCD numbering system. They display values from zero to nine and in order to show a certain number, very similar to a thumb wheel concept, LED display show the values that are based on the BCD values received using a binary weighing. So to show a number eight, then the values to be sent to the LED display are one, zero, zero, zero. This is how it works. The binary number that needed to be shown on the LED display gets converted to a BCD value then sent out to the display that shows the number in decimal. And to do so, PLC software uses an instruction called TOD. TOD behaves similarly to FRD that it converts the BCD value to a decimal number. So when the numbering needs to be shown as two digits, it looks to each four bits separately.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (3)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (3)
 > **Env Vars:** led (5), bcd (4), plc (3), tod (2), frd (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -244,13 +244,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/tod-instruction?u=76281980&t=1)** - [Instructor] [[PLC]] sends out BCD number equivalent to a binary number, and it gets displayed as decimal number on the LED display. The TOD instruction is used to convert a binary value of a decimal number to its equivalent BCD value and place the results in the destination. So TOD can be named as binary to BCD conversion, or you may read it in some documentation as integer or decimal to BCD. It simply means that it converts the binary number of a decimal value to a BCD equivalent. The instruction has two parameters, source and destination, very similar to FRD. It is a block type output instruction. The source is where the incoming BCD value is coming from, and the destination is where the outgoing BCD value is going to. Here is an example of a source when using LED display. If we want to show the current time of a timer, then the source is the timer timing bit, and the destination is the entire output module. Now in order to know when to use each instruction, think about them as TOD is two. You are sending out to something.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/tod-instruction?u=76281980&t=1)** - [Instructor] [PLC](../../Glossary/Tool/PLC.md) sends out BCD number equivalent to a binary number, and it gets displayed as decimal number on the LED display. The TOD instruction is used to convert a binary value of a decimal number to its equivalent BCD value and place the results in the destination. So TOD can be named as binary to BCD conversion, or you may read it in some documentation as integer or decimal to BCD. It simply means that it converts the binary number of a decimal value to a BCD equivalent. The instruction has two parameters, source and destination, very similar to FRD. It is a block type output instruction. The source is where the incoming BCD value is coming from, and the destination is where the outgoing BCD value is going to. Here is an example of a source when using LED display. If we want to show the current time of a timer, then the source is the timer timing bit, and the destination is the entire output module. Now in order to know when to use each instruction, think about them as TOD is two. You are sending out to something.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/tod-instruction?u=76281980&t=94)** And RFD is from, so you are receiving from an output device.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (1)
 > **Env Vars:** bcd (7), tod (3), led (2), plc (1), frd (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Analogies:** similar to (1)
@@ -271,13 +271,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-tod?u=76281980&t=1)** - [Instructor] Now to program this example, we are going to use counter up, to count the current number of finished boxes. The first thing is to have the box push button, so every time the operator presses on the push button, after the box is finished, the counter counts up. The preset is four because we need four boxes. Please refer to the counter section from [[PLC Ladder Logic]] programming course to understand more about the counter operation. Next is to send the data to the LED display. So we use TOD instruction in the next round. The source is the counter accumulator value, because we want to see the current number of finished boxes. And the destination is the output six. Now the LED display will show whatever number shown in the counter accumulated value. The third step is to program the green pilot light to turn on when four boxes are done. So simply adding an XIC instruction with using the counter done bit and the output instruction using the address of the green pilot light. Now remember that for the counter we need to have a counter reset. So we are going to use the reset push button to reset the counter using a reset instruction and linking that to the counter address.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-tod?u=76281980&t=1)** - [Instructor] Now to program this example, we are going to use counter up, to count the current number of finished boxes. The first thing is to have the box push button, so every time the operator presses on the push button, after the box is finished, the counter counts up. The preset is four because we need four boxes. Please refer to the counter section from [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) programming course to understand more about the counter operation. Next is to send the data to the LED display. So we use TOD instruction in the next round. The source is the counter accumulator value, because we want to see the current number of finished boxes. And the destination is the output six. Now the LED display will show whatever number shown in the counter accumulated value. The third step is to program the green pilot light to turn on when four boxes are done. So simply adding an XIC instruction with using the counter done bit and the output instruction using the address of the green pilot light. Now remember that for the counter we need to have a counter reset. So we are going to use the reset push button to reset the counter using a reset instruction and linking that to the counter address.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-tod?u=76281980&t=97)** In order to not exceed the preset value of the counter, we are going to add an XIO instruction in the first strike to disable the counter from counting beyond the preset value. And this is how the final program looks like. Let's see how the program behaves. So download the program. And then I'll hit on run. Now, I'm going to use the push button to represent the finished boxes. The first one, the second, the third, and then when the fourth is done, a green pilot light turns on. The second push button is to reset the counter. And once I press on the reset push button, the LED display goes back to zero.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1)
 > **Env Vars:** led (3), plc (1), tod (1), xic (1), xio (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
@@ -320,11 +320,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-math-instructions?u=76281980&t=1)** - [Instructor] Math instructions are one of the common instructions used in [[PLC]]. They are used within the program to perform mathematical operations on values stored in memory words or registers. All math instructions have a similar layout. They are block instructions with two sources and one destination. Math instructions are output instructions, so we add them to the right hand side of the rung. They all work the same way. The calculation is done as destination equals source A and whatever operation is selected and then source B. So they use the content of two words or registers and perform the desired operation. The source values are simply read only, we don't change them, and the destination values are changed according to the operation used. Math instructions operation can be conditional and unconditional. With conditional arithmatic instruction, the input logic determines when the instruction executes and for unconditional, the instruction executes with every scan.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-math-instructions?u=76281980&t=1)** - [Instructor] Math instructions are one of the common instructions used in [PLC](../../Glossary/Tool/PLC.md). They are used within the program to perform mathematical operations on values stored in memory words or registers. All math instructions have a similar layout. They are block instructions with two sources and one destination. Math instructions are output instructions, so we add them to the right hand side of the rung. They all work the same way. The calculation is done as destination equals source A and whatever operation is selected and then source B. So they use the content of two words or registers and perform the desired operation. The source values are simply read only, we don't change them, and the destination values are changed according to the operation used. Math instructions operation can be conditional and unconditional. With conditional arithmatic instruction, the input logic determines when the instruction executes and for unconditional, the instruction executes with every scan.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -332,13 +332,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/types-of-math-instructions?u=76281980&t=1)** - [Instructor] The type of operation is usually written at the top of the block to indicate what type of operation is currently used. For source A and source B fields, it can be an input rack location, file address, instruction field, or a constant. For the destination field, it can be an output location, file address, or an instruction field. In terms of operation of the math instruction, it happens every scan when the rung is true. So if we have addition, then it adds every scan when the rung is true. If there is an input in the rung, then as long as the input is true, the add operation works. These are the basic four mathematical functions performed by [[PLC]]. The operation of each math instruction is the same. They all have two sources and one destination, only depending on what is selected, the instruction works accordingly. In subtraction, the order of the two sources' value becomes important here. Source B is always subtracted from source A. One of the special cases is division by zero, and this results in infinity. In this case, the division instruction refuses to operate, and the destination is unchanged. So you might need to keep it in mind
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/types-of-math-instructions?u=76281980&t=1)** - [Instructor] The type of operation is usually written at the top of the block to indicate what type of operation is currently used. For source A and source B fields, it can be an input rack location, file address, instruction field, or a constant. For the destination field, it can be an output location, file address, or an instruction field. In terms of operation of the math instruction, it happens every scan when the rung is true. So if we have addition, then it adds every scan when the rung is true. If there is an input in the rung, then as long as the input is true, the add operation works. These are the basic four mathematical functions performed by [PLC](../../Glossary/Tool/PLC.md). The operation of each math instruction is the same. They all have two sources and one destination, only depending on what is selected, the instruction works accordingly. In subtraction, the order of the two sources' value becomes important here. Source B is always subtracted from source A. One of the special cases is division by zero, and this results in infinity. In this case, the division instruction refuses to operate, and the destination is unchanged. So you might need to keep it in mind
 >
 > **[1:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/types-of-math-instructions?u=76281980&t=94)** to not run into this situation, or remember that when debugging.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (1)
 > **Env Vars:** plc (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -349,11 +349,11 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/considerations-with-math-instructions?u=76281980&t=1)** - [Instructor] There are a couple of things I want to point out about the math instructions. For the sources and destination, one recommendation is to use different tag names for each one, otherwise it keeps adding to itself. If you have to use the same tag name we will learn how to overcome this later when we discuss the one shot instruction. Here's a demo of how fast the addition happens when adding to the same tag name. I'll click on the data table so we can see how fast the addition happens. I'll reset it back to zero so we start from zero. And then I selected the integer value, it's the value that I'm choosing for my addition instruction. So as soon as I hit on the RUN button you can see the addition happens very fast. One of the recommendations, if we want to control when the rung is true, is to add an XIC instruction before the math instruction. The input instruction can be switch address, the done bit of the timer, et cetera. Add instruction will still work the same way, keeps adding as long as the rung is true. So I'll use the same example here. I'll set it back to zero, I'll go offline, and then I will add an input instruction here for the first push button.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/considerations-with-math-instructions?u=76281980&t=94)** So the address is I:1/0 which is the start push button. Download the program to the [[PLC]] and go online. I'll click on the data table again, so we can see the addition, and then I'll hit RUN. Notice here nothing happens because we need the start push button in order to start addition. So I'll click on the start push button and notice here the addition only happens as long as the start push button is true. As soon as I let it go the addition stops. You certainly don't need to add it to your PLC program if your program does not require that. But it is a suggestion to have more control when the add operation happens. Also another thing that has to do with using the same tag address for the two sources, and saving it back to the same address, you might run into an overflow for the results, because in this case, the addition will increase as a power of two, one, two, four, eight, 16, and so on. And this applies to all the arithmetic operations.
+> **[1:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/considerations-with-math-instructions?u=76281980&t=94)** So the address is I:1/0 which is the start push button. Download the program to the [PLC](../../Glossary/Tool/PLC.md) and go online. I'll click on the data table again, so we can see the addition, and then I'll hit RUN. Notice here nothing happens because we need the start push button in order to start addition. So I'll click on the start push button and notice here the addition only happens as long as the start push button is true. As soon as I let it go the addition stops. You certainly don't need to add it to your PLC program if your program does not require that. But it is a suggestion to have more control when the add operation happens. Also another thing that has to do with using the same tag address for the two sources, and saving it back to the same address, you might run into an overflow for the results, because in this case, the addition will increase as a power of two, one, two, four, eight, 16, and so on. And this applies to all the arithmetic operations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (2)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (2)
 > **Env Vars:** run (2), plc (2), xic (1)
 > **UI Navigation:** click on (3)
 > **Exercise Files:** download the (1)
@@ -390,11 +390,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-use-arithmetic-instructions?u=76281980&t=1)** - [Instructor] In manufacturing process, the scenario goes this way. We need to leave the fan on for a certain time to cool down the finished [[Microsoft Products|products]] and we want to keep track of the remaining time. A technician sets the time, the thumbwheel switch is used to enter the value for the timer, and a press on the start push button to start timing. Then LED display is used to show the countdown of the remaining time in minutes or seconds depending on the program preference. During that time, a yellow pilot light is on so the yellow LED is used to show when the fan is on and when the timer is done timing, a red pilot light turns on. The start push button is connected to input one, the pilot lights, red and yellow, are connected to output two. The same thing with the fan. The thumbwheel switch is connected to input five and the LED display is connected to output six.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-use-arithmetic-instructions?u=76281980&t=1)** - [Instructor] In manufacturing process, the scenario goes this way. We need to leave the fan on for a certain time to cool down the finished [products](../../Skills/Software%20Development/Microsoft%20Products.md) and we want to keep track of the remaining time. A technician sets the time, the thumbwheel switch is used to enter the value for the timer, and a press on the start push button to start timing. Then LED display is used to show the countdown of the remaining time in minutes or seconds depending on the program preference. During that time, a yellow pilot light is on so the yellow LED is used to show when the fan is on and when the timer is done timing, a red pilot light turns on. The start push button is connected to input one, the pilot lights, red and yellow, are connected to output two. The same thing with the fan. The thumbwheel switch is connected to input five and the LED display is connected to output six.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1)
 > **Env Vars:** led (3)
 > **Speakers:** - [instructor] (1)
 
@@ -402,13 +402,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-use-arithmetic-instructions?u=76281980&t=1)** - [Instructor] For the solution, the first step is using FRD to get the values from the thumbwheel switch. This number is actually the time limit we have. Now, since the timer has the time base of 0.1, so for 10 seconds, for example, we need to multiply any number we enter using the thumbwheel switch by 100, and then take the number and put it in the timer preset. For one second, we multiply by 10. For 10 seconds, we multiply by 100. Please refer to the timer section in the Learning [[PLC Ladder Logic]] course if you want to learn more about the timer base. So we are going to add a multiply math instruction, multiplying by 10 or 100 depending on what you want to show in the timer. I use 10 to see the timer faster. And the destination is actually the timer presets. Now we need to focus little bit on this rung that has the timer. Since the timer starts timing when the push button is pressed, so we need to add an XIC instruction for the start push button. And in order to reset the timer, an XIO instruction is added using the timer done bit. Now to keep the timer active during the timer timing, we add a seal-in instruction
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-use-arithmetic-instructions?u=76281980&t=1)** - [Instructor] For the solution, the first step is using FRD to get the values from the thumbwheel switch. This number is actually the time limit we have. Now, since the timer has the time base of 0.1, so for 10 seconds, for example, we need to multiply any number we enter using the thumbwheel switch by 100, and then take the number and put it in the timer preset. For one second, we multiply by 10. For 10 seconds, we multiply by 100. Please refer to the timer section in the Learning [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) course if you want to learn more about the timer base. So we are going to add a multiply math instruction, multiplying by 10 or 100 depending on what you want to show in the timer. I use 10 to see the timer faster. And the destination is actually the timer presets. Now we need to focus little bit on this rung that has the timer. Since the timer starts timing when the push button is pressed, so we need to add an XIC instruction for the start push button. And in order to reset the timer, an XIO instruction is added using the timer done bit. Now to keep the timer active during the timer timing, we add a seal-in instruction
 >
 > **[1:33](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-use-arithmetic-instructions?u=76281980&t=93)** using the timer enable bit to keep the rung activated during the time selected. The reason that I selected the enable bit, not the timer timing bit, because I want to use the timer done bit when it's done timing. And during the timer timing, a yellow pilot light is on, so we add that as another output. The same thing applies for the fan. And this is how the program looks like so far. Now adding the time done bit to activate the red pilot light when the timer is done timing. And to keep it on as long as the timer is not enabled, we add a seal-in instruction of an XIO instruction for the timer enabled bits. And this is how the program looks like so far.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1)
 > **Env Vars:** xio (2), frd (1), plc (1), xic (1)
 > **Versions:** 0.1 (1)
 > **Analogies:** for example (1)
@@ -420,11 +420,11 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-use-arithmetic-instructions?u=76281980&t=1)** - [Instructor] Now for the next step in order to show the time remaining, I'll explain what I'm going to do using this simple visualization. Think about it this way: if I ask you to count from one to 10, 10 being the preset value here, you would start counting from one, two, three until you reach 10, right? Now, if I want you to count backwards, 10, nine, eight and so on, notice here that going backwards is simply subtracting 10 minus the number I was counting up to. So 10 minus one equals nine. 10 minus two equals eight and so on. So I can use the 10 which is my preset value minus the accumulated value in order to show the remaining time. Simply the time remaining equals timer preset minus timer accumulator. For that, we are going to use a subtraction instruction in the run subtracting the preset minus the accumulated value and saving the results in address N7 bit one. And then finally, to send the values to the LED display, we need to divide it back to the original number. So dividing by 10. The same number we used to multiply it in the beginning. So if you use 100, you need to divide by 100. And then using the TOD instruction to send it to the LED display.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-use-arithmetic-instructions?u=76281980&t=95)** And this how the program looks like at the end. So this is the program in the [[Simulation Software]]. You can see in rung two that I used the yellow pilot light for output 2/0. And for the fan, I used another pilot light to show demonstration of the fan working which is output 2/1 and then finally, for the red pilot light in rung three, I have it on output 2/2. So I'm going to go ahead and run the program. Notice here there is a red light right away. It shows that there's no timer is timing. So I'm going to go ahead and select the time that I want to leave it on. I'll select 30 second, for example, and then I'm pressing on the Start Push button. Notice on the left-hand side, you have the yellow pilot lights is on as well as the fan. And you can see in the LED display over here that it's counting down the time remaining for the fan to be on. Once the time is up, a red pilot light turns on.
+> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-use-arithmetic-instructions?u=76281980&t=95)** And this how the program looks like at the end. So this is the program in the [Simulation Software](../../Skills/Hardware/Simulation%20Software.md). You can see in rung two that I used the yellow pilot light for output 2/0. And for the fan, I used another pilot light to show demonstration of the fan working which is output 2/1 and then finally, for the red pilot light in rung three, I have it on output 2/2. So I'm going to go ahead and run the program. Notice here there is a red light right away. It shows that there's no timer is timing. So I'm going to go ahead and select the time that I want to leave it on. I'll select 30 second, for example, and then I'm pressing on the Start Push button. Notice on the left-hand side, you have the yellow pilot lights is on as well as the fan. And you can see in the LED display over here that it's counting down the time remaining for the fan to be on. Once the time is up, a red pilot light turns on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1)
 > **Env Vars:** led (3), tod (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -449,7 +449,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-ons-with-math-instructions?u=76281980&t=1)** - [Instructor] Now let's try to see how the one shot instruction comes in handy when working with math instructions. Whenever we use math instructions, and the result is placed back to the same initial address, you can get multiple iteration of the same compounding. So in our example, this causes the instruction to keep adding two to the same tag and will increment many times per second whenever the input is true. To solve this problem, we use one shot instruction. This will ensure that we have the addition happening only one time per scan. Let's take this example. This is a very simple Ladder Logic code. I use a Start Pushbutton that is connected to an addition instruction and I'm going to use N7 address which is the integer in the data table for the [[Simulation Software]]. So in order to see the data table, you click over here and then I'll just drag it so you can see it and then you can select the type of address that you want to see. And I want to look into the N7, so it's N7 integer and then you have an option of seeing it in binary, octa or decimal and I'll select decimal. Now, please pay attention to the N70, the value of the N70. So the value will be changing as soon as the input is true.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-ons-with-math-instructions?u=76281980&t=1)** - [Instructor] Now let's try to see how the one shot instruction comes in handy when working with math instructions. Whenever we use math instructions, and the result is placed back to the same initial address, you can get multiple iteration of the same compounding. So in our example, this causes the instruction to keep adding two to the same tag and will increment many times per second whenever the input is true. To solve this problem, we use one shot instruction. This will ensure that we have the addition happening only one time per scan. Let's take this example. This is a very simple Ladder Logic code. I use a Start Pushbutton that is connected to an addition instruction and I'm going to use N7 address which is the integer in the data table for the [Simulation Software](../../Skills/Hardware/Simulation%20Software.md). So in order to see the data table, you click over here and then I'll just drag it so you can see it and then you can select the type of address that you want to see. And I want to look into the N7, so it's N7 integer and then you have an option of seeing it in binary, octa or decimal and I'll select decimal. Now, please pay attention to the N70, the value of the N70. So the value will be changing as soon as the input is true.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-ons-with-math-instructions?u=76281980&t=94)** I'll go ahead and I'll run the program. And then as soon as I press on the Start Pushbutton, notice how fast addition happens. As soon as I let go, it stops. Now, after adding the one shot instruction, which is a Boolean type, so the address for the one shot will be B3:0 bit zero. So I'll go ahead to the same program that we had and then I'll add a one shot instruction. I'll close that, go offline. You can find the one shot under the tab User and it's over here, so I'll just drag it and then I'll use the binary address. B3 0/0. And if you want to know exactly where this address is, I'll go to the data table again, I'll reset this back to zero because we need to see it from the beginning and then you can go that binary B3 and then show it in binary and it's this bit over here. So it's a bit 30/0. I'll go again to the integer, choose it as a decimal and let's see now what difference does it make when adding the one shot instruction. So again, you need to go online, download the program and then see what happens when I press on the Start Pushbutton, we need to run the program,
 >
@@ -457,7 +457,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** n70 (2)
 > **UI Navigation:** select the (1), go to (1)
@@ -485,11 +485,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/common-comparison-instructions?u=76281980&t=1)** - [Instructor] The common conversion instructions that are used in [[PLC Ladder Logic]] programming are equal, not equal, greater than, greater than or equal, less than, less than or equal. The name of the instruction is written on the top of the block. An equal instruction is true whenever the source values for A and B are equal. Then the rung is true and the output turns on. An example is if the temperature reaches 50 degrees, a light turns on indicating that. Since compare instructions are input, so we can have as many other inputs required by the logic. For example, we can have a start push button. In this case, the red pilot light turns on only when the start push button is pressed, and the temperature equals 50. Both inputs need to be true. The not equal instruction is true whenever the source values are not equal. So in this case, whenever the temperature does not equal 50 degrees, the green pilot light turns on. If the temperature reaches 50 or it equals 50, in this case, the light turns off. The same applies, depending on the instruction type. For example, when you use greater than, less than, and the same for all other conversion instructions.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/common-comparison-instructions?u=76281980&t=1)** - [Instructor] The common conversion instructions that are used in [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) programming are equal, not equal, greater than, greater than or equal, less than, less than or equal. The name of the instruction is written on the top of the block. An equal instruction is true whenever the source values for A and B are equal. Then the rung is true and the output turns on. An example is if the temperature reaches 50 degrees, a light turns on indicating that. Since compare instructions are input, so we can have as many other inputs required by the logic. For example, we can have a start push button. In this case, the red pilot light turns on only when the start push button is pressed, and the temperature equals 50. Both inputs need to be true. The not equal instruction is true whenever the source values are not equal. So in this case, whenever the temperature does not equal 50 degrees, the green pilot light turns on. If the temperature reaches 50 or it equals 50, in this case, the light turns off. The same applies, depending on the instruction type. For example, when you use greater than, less than, and the same for all other conversion instructions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1)
 > **Analogies:** for example (2)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
@@ -510,13 +510,13 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980&t=1)** - [Instructor] For the first rung, we are going to use a counter up to count the number of parts. And the proximity sensor is an input. Every time a part passes by the quality control line, the counter counts up. Now, the tag we are going to use in the compare instruction is the counter accumulated value, because we want to use the current number of parts. If the accumulated value is less than eight, then a green pilot light turns on. If the accumulated value equals eight, then a red pilot light turns on. Now, we need to add the reset pushbutton for the counter. Remember that counter needs a reset instruction to reset it back to zero. We can also add another compare instruction, less than, in the first rung. This is used to prevent the counter from exceeding the preset value. So, as long as the accumulated value is less than the preset, the counter keeps counting. As soon as the accumulated value equals the preset, eight parts have been detected, now no matter how many times the proximity sensor is activated, the counter won't count up. We need both instructions to be true for the logic to work. And this is how the complete program looks like at the end.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980&t=95)** So, here we have the program in the [[Simulation Software]]. I'll go ahead and run the program. Notice here, as soon as I run the program, a green pilot light turns on, indicating we have less than eight parts detected. I'll use the pushbutton to mimic the proximity sensor, and I will count to eight to see if a red light turns on.
+> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980&t=95)** So, here we have the program in the [Simulation Software](../../Skills/Hardware/Simulation%20Software.md). I'll go ahead and run the program. Notice here, as soon as I run the program, a green pilot light turns on, indicating we have less than eight parts detected. I'll use the pushbutton to mimic the proximity sensor, and I will count to eight to see if a red light turns on.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980&t=126)** So, as soon as the accumulated value equals eight, the red pilot light turns on, and I can reset it back to zero. Notice here that the green pilot light turns on again, and then we can start the counting again.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -524,11 +524,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/limit-comparison-instruction?u=76281980&t=1)** - [Instructor] There is a special instruction that we can use to replace two comparison instructions, which is limit comparison instruction. The limit comparison instruction is used to test for values if they are within or outside of a specific range. The instruction has three parameters, low limit, test, and high limit. And the instruction uses the test to compare it to the limits. Limits and the test can be [[Microsoft Word|word]] addresses or constants. The instruction goes true if the value of the test is equal to or greater than the low limit and the test is less than or equal to the high limit. So instead of using two compare instructions limit instruction is used. The limit instruction can work in two different ways depending on what is selected for low and high limits.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/limit-comparison-instruction?u=76281980&t=1)** - [Instructor] There is a special instruction that we can use to replace two comparison instructions, which is limit comparison instruction. The limit comparison instruction is used to test for values if they are within or outside of a specific range. The instruction has three parameters, low limit, test, and high limit. And the instruction uses the test to compare it to the limits. Limits and the test can be [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) addresses or constants. The instruction goes true if the value of the test is equal to or greater than the low limit and the test is less than or equal to the high limit. So instead of using two compare instructions limit instruction is used. The limit instruction can work in two different ways depending on what is selected for low and high limits.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -553,11 +553,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-2-lim?u=76281980&t=0)** - [Instructor] Here is how to use the limit instruction differently. Let's say we want to look at the temperature value and determine if it's outside a desired range. If the value is outside the limit, a yellow pilot light turns on, indicating it's outside the limits. We are going to use a thumbwheel to enter the temperature value. Think about it this way, if we want to test for a value between two limits, zero and 100, the low limit is zero, and the high is 100. Now, using the limits instruction is pretty straightforward, right? Now, what happens if I want to test outside the limits? The value could be more than the high limits or less than the low limits. So the way to include all the values below the low limits and above the high limits is to switch them. Switch the low and high limits. So the high limit is zero and the low limit is 100. In this case, if the temperature is anything outside the range of low limit 100 and high limit of zero, the instruction will be true. The LED is on, indicating we're outside the limits. A temperature value within zero and 100 degrees will make the instruction false and the LED will not turn on. And for that purpose, we're using the thermal switch
 >
-> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-2-lim?u=76281980&t=95)** to enter the value of the temperature, so we need to add an FRD instruction in the first rung. So this is the program that we have in the [[Simulation Software]] and we're going to go ahead and download it to the [[PLC]]. And then go online and then the program. So see here, because you're within the limit, the LED does not turn on. As soon as I go above the limit, the red LED or the yellow LED, whatever you select, will turn on. So if you're outside the limit, zero and 100, the LED is on, as soon as I go back within the limit, the LED is off again.
+> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-2-lim?u=76281980&t=95)** to enter the value of the temperature, so we need to add an FRD instruction in the first rung. So this is the program that we have in the [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) and we're going to go ahead and download it to the [PLC](../../Glossary/Tool/PLC.md). And then go online and then the program. So see here, because you're within the limit, the LED does not turn on. As soon as I go above the limit, the red LED or the yellow LED, whatever you select, will turn on. So if you're outside the limit, zero and 100, the LED is on, as soon as I go back within the limit, the LED is off again.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1), [[PLC]] (1)
+> **Frameworks & Libraries:** [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1), [PLC](../../Glossary/Tool/PLC.md) (1)
 > **Env Vars:** led (7), frd (1), plc (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -571,11 +571,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980&t=1)** - [Instructor] The MOV instruction is considered one of the data transfer instructions. Data transfer instructions simply involve the transfer of the content from one [[Microsoft Word|word]] or register to another. A MOV instruction comes in a block format with both a source and a destination parameter. The MOV instruction moves a copy of one data file word to a specific destination. This instruction only copies the data, although the name says move, but it moves a copy of the data from the source to the destination. It does not convert or manipulate the data in any way. The source and the destination tags should be of the same data type. They both can be tag addresses, or you can move a constant into a tag. So it can either be a variable value stored in a word with changes during the program execution, or a fixed constant value, which is entered during the programming. It is a block output instruction, so we add it to the right-hand side, and it performs whenever the input is true.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980&t=1)** - [Instructor] The MOV instruction is considered one of the data transfer instructions. Data transfer instructions simply involve the transfer of the content from one [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) or register to another. A MOV instruction comes in a block format with both a source and a destination parameter. The MOV instruction moves a copy of one data file word to a specific destination. This instruction only copies the data, although the name says move, but it moves a copy of the data from the source to the destination. It does not convert or manipulate the data in any way. The source and the destination tags should be of the same data type. They both can be tag addresses, or you can move a constant into a tag. So it can either be a variable value stored in a word with changes during the program execution, or a fixed constant value, which is entered during the programming. It is a block output instruction, so we add it to the right-hand side, and it performs whenever the input is true.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (3)
 > **Env Vars:** mov (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -584,11 +584,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mov-instruction?u=76281980&t=1)** - [Instructor] Here is an example that we are going to use move instruction to move a value. Let's say we have 10 desks that operators can leave [[Microsoft Products|products]] to air dry them while in the production floor. Every time a station gets used, a push button is pressed to start counting. If less than 10 stations are occupied, then we will show the number of the current station used on the LED display. When all 10 stations are used, then a red pilot light will turn on and someone needs to come to press on a push button to reset the counter. Station Count push button and the Reset push button are connected to Input 1, the red pilot light for indicating stations are full is connected to Output 2 and the LED display is connected to Output 6.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mov-instruction?u=76281980&t=1)** - [Instructor] Here is an example that we are going to use move instruction to move a value. Let's say we have 10 desks that operators can leave [products](../../Skills/Software%20Development/Microsoft%20Products.md) to air dry them while in the production floor. Every time a station gets used, a push button is pressed to start counting. If less than 10 stations are occupied, then we will show the number of the current station used on the LED display. When all 10 stations are used, then a red pilot light will turn on and someone needs to come to press on a push button to reset the counter. Station Count push button and the Reset push button are connected to Input 1, the red pilot light for indicating stations are full is connected to Output 2 and the LED display is connected to Output 6.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1)
 > **Env Vars:** led (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -599,11 +599,11 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mov-instruction?u=76281980&t=1)** - [Instructor] For the first rung, adding the station count push button and the counter up with a preset value of 10. Now to not exceed more than 10, we are going to add an XIO input instruction using the done bit of the counter. Then we use a compare instruction. If the counter accumulated value is less than or equal to 10, we need to show that on the LED display, so we use less than or equal instruction, then we use a move instruction and move the accumulated value to an internal integer N7 bit zero that eventually will be sent to the LED display. The next rung is where we want to show it on the LED display, so we use TOD instruction. The source is the N7 bit zero where we saved the data of the accumulator value and the output is output six. And once the accumulator value reaches 10, the red pilot light turns on, indicating that no more spaces are available. In this case, we use equal compare instruction and the output is the red LED. And finally, adding a reset and push button to reset the counter. So here we have the program
 >
-> **[1:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mov-instruction?u=76281980&t=94)** in the [[Simulation Software]]. I'm going to go ahead and run the program and notice here, no pilot light is on because we're less than 10 stations. I'm going to use the push button to count for the station. Notice here that the counter is counting up in rung zero. And then you can also see the current number of station occupied on the LED display. So until we reach 10 stations, once 10 stations are on, a pilot light turns on. I'll change it to red pilot light to match our example. And then once we can click on the reset push button, the counter resets and then I can go ahead and count for another 10 stations.
+> **[1:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mov-instruction?u=76281980&t=94)** in the [Simulation Software](../../Skills/Hardware/Simulation%20Software.md). I'm going to go ahead and run the program and notice here, no pilot light is on because we're less than 10 stations. I'm going to use the push button to count for the station. Notice here that the counter is counting up in rung zero. And then you can also see the current number of station occupied on the LED display. So until we reach 10 stations, once 10 stations are on, a pilot light turns on. I'll change it to red pilot light to match our example. And then once we can click on the reset push button, the counter resets and then I can go ahead and count for another 10 stations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1)
 > **Env Vars:** led (5), xio (1), tod (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -612,11 +612,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/masked-move-instruction?u=76281980&t=1)** - [Instructor] Another instruction that is part of the data transfer instructions is masked move instruction. It is an instruction that is similar to the move instruction, that it moves a copy of a value from a source to a desired destination. The difference is that the masked move instruction allows portion of the source data to pass through a mask to the destination address. The source value is unchanged. A mask is used to filter out source bits that are not required to be transferred to the destination. The masked move instruction is an output instruction, so we add it to the right hand side of the rung. And it moves the values during each scan, providing the rung conditions are true. Masked move instruction is considered one of the advanced instructions. The instruction has three parameters, source, mask, and destination. The source can be a constant, or the address of [[Microsoft Word|word]] of the data you want to move. Example could be inputs one or internal tag n seven zero, or values from timer or counter. The destination is the specific address of word where the data is to be moved to.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/masked-move-instruction?u=76281980&t=1)** - [Instructor] Another instruction that is part of the data transfer instructions is masked move instruction. It is an instruction that is similar to the move instruction, that it moves a copy of a value from a source to a desired destination. The difference is that the masked move instruction allows portion of the source data to pass through a mask to the destination address. The source value is unchanged. A mask is used to filter out source bits that are not required to be transferred to the destination. The masked move instruction is an output instruction, so we add it to the right hand side of the rung. And it moves the values during each scan, providing the rung conditions are true. Masked move instruction is considered one of the advanced instructions. The instruction has three parameters, source, mask, and destination. The source can be a constant, or the address of [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) of the data you want to move. Example could be inputs one or internal tag n seven zero, or values from timer or counter. The destination is the specific address of word where the data is to be moved to.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2)
 > **Definitions:** is an  (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -625,11 +625,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/mask-parameter?u=76281980&t=1)** - [Instructor] In the mask parameter, we put the value that is used to mask, or filter, the source data. The mask is a hexadecimal value. Mask bits can be either a constant or the address where the mask will be found. Data is passed through the mask bit by bit. The mask bit in the same position as the source bit determines if the data is to pass or not. To pass data through the mask, we set the bit to be equal to one in order to make the data pass through. To mask data from passing from the source to the destination, we set the bit to be equal to zero. So here's how it works. If the source data is this 16 bit [[Microsoft Word|word]] binary number and the mask is this 16 bit word binary number, now the values that are going to be moved to the destination are the ones with one. Remember, to pass data is to make the mask one and to block the passing is to make it equal to zero. So the first eight bits of this 16 bit word source will only be allowed to pass from the source to the destination.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/mask-parameter?u=76281980&t=1)** - [Instructor] In the mask parameter, we put the value that is used to mask, or filter, the source data. The mask is a hexadecimal value. Mask bits can be either a constant or the address where the mask will be found. Data is passed through the mask bit by bit. The mask bit in the same position as the source bit determines if the data is to pass or not. To pass data through the mask, we set the bit to be equal to one in order to make the data pass through. To mask data from passing from the source to the destination, we set the bit to be equal to zero. So here's how it works. If the source data is this 16 bit [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) binary number and the mask is this 16 bit word binary number, now the values that are going to be moved to the destination are the ones with one. Remember, to pass data is to make the mask one and to block the passing is to make it equal to zero. So the first eight bits of this 16 bit word source will only be allowed to pass from the source to the destination.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -654,7 +654,7 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=1)** - [Instructor] Now for the solution, and in order to show the values together, and only for demonstration purposes, let's move accumulative value to an internal integer, N7:7. And then use the Masked Move Instruction to move the masked values to the destination of N7:8.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=26)** So you will see it similar to what you see now on the screen. You will see the source value, and you can see the bits that get passed using the Masked Move Instruction which is only the least bit. As for the yellow pilot light, we will use a compare instruction. If the value of the masked is one, then turn on the LED. The [[Representational State Transfer (REST)|rest]] of the program is the same. I did however just remove the previous move instruction from the previous solution. And I passed the values that I want to show on the LED display using the TOD instruction right away, as you can see now on the screen for this rung. Both styles work the same way. You can certainly keep it as it is if you prefer it that way. So this is the program, it is [[Simulation Software]]. You can see in rung one that I moved the accumulative value to N7:7 and I used Masked Move Instruction to mask the D.O. And move the values to N7:8. And to see the data, I'm going to click on the data table over here and I'll drag it to the side. Now we want to see the data in integer N7. I'll change them to binary so we can visualize the bits easier. So I want you not to pay attention to the values
+> **[0:26](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=26)** So you will see it similar to what you see now on the screen. You will see the source value, and you can see the bits that get passed using the Masked Move Instruction which is only the least bit. As for the yellow pilot light, we will use a compare instruction. If the value of the masked is one, then turn on the LED. The [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the program is the same. I did however just remove the previous move instruction from the previous solution. And I passed the values that I want to show on the LED display using the TOD instruction right away, as you can see now on the screen for this rung. Both styles work the same way. You can certainly keep it as it is if you prefer it that way. So this is the program, it is [Simulation Software](../../Skills/Hardware/Simulation%20Software.md). You can see in rung one that I moved the accumulative value to N7:7 and I used Masked Move Instruction to mask the D.O. And move the values to N7:8. And to see the data, I'm going to click on the data table over here and I'll drag it to the side. Now we want to see the data in integer N7. I'll change them to binary so we can visualize the bits easier. So I want you not to pay attention to the values
 >
 > **[1:59](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=119)** that you see in N7:7 and N7:8. So I'm going to go ahead and run the program and then the first thing, nothing happens because we only have zero. Once I press for the first station, look at the values in N7:7 and N7:0 and then you could also see that the yellow pilot light is on because the mask value is already one in N7 8. Now I'll press for the second station. Once I press for the second station notice here for N7:7 and N7:8 that it has a zero in the least bit.
 >
@@ -662,7 +662,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (2), [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (1)
 > **Env Vars:** led (3), tod (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -676,11 +676,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-sequence-logic?u=76281980&t=1)** - [Instructor] Many [[PLC]] applications are usually done for operations that require a specific sequence. Here's a simple sequence for an operation. We load a part, cut it, paint it, and then unload it into a box. These steps repeat multiple times according to a preset plan and each step depends on the previous one. Now each of these steps would have various outputs to be On in order to do that specific step and various inputs would have to be True in order to move from step to another. In order to make it easier for programmers to follow a generic form to program a sequence operation, a state diagram is used.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-sequence-logic?u=76281980&t=1)** - [Instructor] Many [PLC](../../Glossary/Tool/PLC.md) applications are usually done for operations that require a specific sequence. Here's a simple sequence for an operation. We load a part, cut it, paint it, and then unload it into a box. These steps repeat multiple times according to a preset plan and each step depends on the previous one. Now each of these steps would have various outputs to be On in order to do that specific step and various inputs would have to be True in order to move from step to another. In order to make it easier for programmers to follow a generic form to program a sequence operation, a state diagram is used.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
@@ -728,11 +728,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/understand-bottle-style-logic?u=76281980&t=0)** - [Instructor] When it comes to [[PLC Ladder Logic]] programming there is a general format for the rungs for the sequential logic. And the format is called the bottle logic. It is named after the shape of the control rung which have a bottle like shape. Each state in the state diagram will have one bottle control rung in the control section. So if we have three states then we will have three rungs off the bottle logic in the control section. This is the general format. The rung has the following. Three input instructions, and a second rung, a CLN instruction, for the fourth input instruction. And one output. And we call this the control section. This is how the control section looks like. As the name says it. It only programs the control part of the logic. The outputs are in the output section. So the ladder logic will look like this, with two main sections. Control and output sections.
+> **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/understand-bottle-style-logic?u=76281980&t=0)** - [Instructor] When it comes to [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) programming there is a general format for the rungs for the sequential logic. And the format is called the bottle logic. It is named after the shape of the control rung which have a bottle like shape. Each state in the state diagram will have one bottle control rung in the control section. So if we have three states then we will have three rungs off the bottle logic in the control section. This is the general format. The rung has the following. Three input instructions, and a second rung, a CLN instruction, for the fourth input instruction. And one output. And we call this the control section. This is how the control section looks like. As the name says it. It only programs the control part of the logic. The outputs are in the output section. So the ladder logic will look like this, with two main sections. Control and output sections.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1)
 > **Definitions:** is a  (1), is called (1), we call this (1)
 > **Env Vars:** plc (1), cln (1)
 > **Speakers:** - [instructor] (1)
@@ -743,11 +743,11 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-sequential-process?u=76281980&t=1)** - [Instructor] Let's take this sequence example and create a state diagram for it, and then, programming it using the sequential method ladder logic. So, here we have a sequence process where we need to paint a part and load it into a box. The process goes this way. First, we put the part, and then press on the start pushbutton to start the conveyor. Then, a sensor detects a part in the middle, and the conveyor stops. A paint is turned on for three seconds. After three seconds are done, the conveyor is on again. A box sensor detects the part when it reaches the end, and finally, place it in a box. The sequence repeats until 10 parts are painted. These are the steps for the sequence. The first thing we need to do is to identify the inputs and outputs, which makes it easier when developing a state diagram. As for the inputs, we have a start pushbutton, sensor that detects the parts, and the box sensor. As for the outputs, we have the conveyor that turns on or off, paint valve, the timer that times for three seconds, and finally, the counter that counts the 10 parts.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-sequential-process?u=76281980&t=98)** So, here are the inputs and outputs for our example. And this is the schematic of the wiring to the [[PLC]].
+> **[1:38](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-sequential-process?u=76281980&t=98)** So, here are the inputs and outputs for our example. And this is the schematic of the wiring to the [PLC](../../Glossary/Tool/PLC.md).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC]] (1)
+> **Frameworks & Libraries:** [PLC](../../Glossary/Tool/PLC.md) (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -771,13 +771,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-bottle-logic-for-state-1?u=76281980&t=1)** - [Instructor] So now we'll take the complete state diagram and convert it to a [[PLC Ladder Logic]] program. The first part is to develop the control section using the bottle logic format. And this is the general format for a bottle logic. Let's get started by going through the first state. I will start with state one. I'll go back to state zero later, and I will follow the format as it is. So according to the bottle logic format, I'm currently in state one. So the current step is step one. Notice here, in the bottle format, I renamed them as steps for simplicity, but you can keep them as state if that what you prefer. So what I do is I replace that whenever it mentions the current step. So it's mentioned here and here. And I simply rename them as step one. Now the previous step is a step zero, the next step is step two, so simply writing that down, following the format of the bottle logic. Now the input condition to go to step one is by pressing on the start push button, and replace it where the input condition is. You take the input condition from the writing above the arrow leading to step one.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-bottle-logic-for-state-1?u=76281980&t=1)** - [Instructor] So now we'll take the complete state diagram and convert it to a [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) program. The first part is to develop the control section using the bottle logic format. And this is the general format for a bottle logic. Let's get started by going through the first state. I will start with state one. I'll go back to state zero later, and I will follow the format as it is. So according to the bottle logic format, I'm currently in state one. So the current step is step one. Notice here, in the bottle format, I renamed them as steps for simplicity, but you can keep them as state if that what you prefer. So what I do is I replace that whenever it mentions the current step. So it's mentioned here and here. And I simply rename them as step one. Now the previous step is a step zero, the next step is step two, so simply writing that down, following the format of the bottle logic. Now the input condition to go to step one is by pressing on the start push button, and replace it where the input condition is. You take the input condition from the writing above the arrow leading to step one.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-bottle-logic-for-state-1?u=76281980&t=97)** And this is the complete bottle logic rung for state one. And I take that and place it in the beginning of the ladder logic for the control section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1)
 > **Env Vars:** plc (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -801,13 +801,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=1)** - [Instructor] Now for the output section we will focus on the outputs as indicated by its name. Now for the output section we need to look back at the outputs inside the state diagram. Remember, that outputs are inside the circles. So the first output is the conveyor. And looking into the state diagram the conveyor is on in step one and step three. And remember that for the outputs only use a particular output one time in your program. And this is the first part of the output section. And then we go again to the state diagram and see step two, to check what outputs are currently on. In step two only the paint and the timer are on. Notice here that the paint and the timer are only on in step two, no other step require any of them. And this part gets added to the output section too in the ladder logic. Now back again to the state diagram, the conveyor in step three was already covered. Remember that we use the output only once in the program for multiple inputs. Please refer to this video to learn more about outputs in [[PLC Ladder Logic]]. Finally for the counter, it is on in step four only. Now remember the counter needs a reset
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=1)** - [Instructor] Now for the output section we will focus on the outputs as indicated by its name. Now for the output section we need to look back at the outputs inside the state diagram. Remember, that outputs are inside the circles. So the first output is the conveyor. And looking into the state diagram the conveyor is on in step one and step three. And remember that for the outputs only use a particular output one time in your program. And this is the first part of the output section. And then we go again to the state diagram and see step two, to check what outputs are currently on. In step two only the paint and the timer are on. Notice here that the paint and the timer are only on in step two, no other step require any of them. And this part gets added to the output section too in the ladder logic. Now back again to the state diagram, the conveyor in step three was already covered. Remember that we use the output only once in the program for multiple inputs. Please refer to this video to learn more about outputs in [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md). Finally for the counter, it is on in step four only. Now remember the counter needs a reset
 >
-> **[1:38](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=98)** in order to go back to zero when it's complete. And to reset the counter is when we repeat the sequence. So when the start push button is pressed and the counter done is activated. Another way to reset the counter is using step zero and counter done bits. Here it comes your kind of [[PLC Programming]] style, both methods work. And this is how the complete output section looks like for our example. Notice here in the output section we cover all the outputs of example. And finally, this is how the complete program looks like for our example. The control section and the output section.
+> **[1:38](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=98)** in order to go back to zero when it's complete. And to reset the counter is when we repeat the sequence. So when the start push button is pressed and the counter done is activated. Another way to reset the counter is using step zero and counter done bits. Here it comes your kind of [PLC Programming](../../Skills/Hardware/PLC%20Programming.md) style, both methods work. And this is how the complete output section looks like for our example. Notice here in the output section we cover all the outputs of example. And finally, this is how the complete program looks like for our example. The control section and the output section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1), [[PLC Programming]] (1)
+> **Frameworks & Libraries:** [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (1), [PLC Programming](../../Skills/Hardware/PLC%20Programming.md) (1)
 > **Env Vars:** plc (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -816,9 +816,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980&t=1)** - [Instructor] So before we see the demo using the [[Simulation Software]], let's just recall the process. So first of all, we have a part that we put on the conveyor. I'm pressing the Start Push button, the conveyor starts until it reaches the middle where it can be our steps, the paint is on for a couple of seconds. After the timer is done, the conveyor starts again until it gets to the box sensor where it gets loaded to a box until 10 parts are done. So this is how the program in the simulation software, you can see that starting from rung zero all the way to rung four is the control section. And then if I scroll down a little bit to the bottom, starting from rung five, all the way to the end which is rung eight is the output section. So I have them all as one program in one Ladder Logic. Now I'll scroll up a little bit more to the top and I would like to point out something regarding to the steps. You can see the steps on the right-hand side, step zero, one, two, three and four. Steps are meant to be in internal tags so they're Booleans here on one. But for demonstration purposes and for you to see what is the current step that we're currently in, I linked the steps to LEDs. So you can see for step zero, it is linked to the output 2/0. So I'm using the LED on the left-hand side,
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980&t=1)** - [Instructor] So before we see the demo using the [Simulation Software](../../Skills/Hardware/Simulation%20Software.md), let's just recall the process. So first of all, we have a part that we put on the conveyor. I'm pressing the Start Push button, the conveyor starts until it reaches the middle where it can be our steps, the paint is on for a couple of seconds. After the timer is done, the conveyor starts again until it gets to the box sensor where it gets loaded to a box until 10 parts are done. So this is how the program in the simulation software, you can see that starting from rung zero all the way to rung four is the control section. And then if I scroll down a little bit to the bottom, starting from rung five, all the way to the end which is rung eight is the output section. So I have them all as one program in one Ladder Logic. Now I'll scroll up a little bit more to the top and I would like to point out something regarding to the steps. You can see the steps on the right-hand side, step zero, one, two, three and four. Steps are meant to be in internal tags so they're Booleans here on one. But for demonstration purposes and for you to see what is the current step that we're currently in, I linked the steps to LEDs. So you can see for step zero, it is linked to the output 2/0. So I'm using the LED on the left-hand side,
 >
-> **[1:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980&t=94)** starting from zero all the way to four. So I'll scroll down more to the output section. You can see here in rung five, I have the conveyor connected again to an LED for you to see when the conveyor is on. So it's linked to output 2/6 and I selected the LED to be green and for rung six, I have the paint linked to another LED in output 2/7 and I selected a yellow LED. So for you to visualize when the conveyor is on, when the paint is on and so on and so forth. So for rung six where we have the timer, I change the preset value for us to be able to visualize the timer's timing, again only for demonstration purposes and for rung seven, this is the counter where we count the number of parts when we need to put them in the box. Again, I change the preset to be two to make it a little bit shorter when we do the demo. I'll go ahead, I'll download the program to the [[PLC]]. Go online and then I'll run the program. The first thing you see, the LED that's connected to 0/0, so this LED indicating we're in step zero where everything is off. So the very first thing we need to do now is to press on the start push button to start the process. So I'll go ahead and I'll press on the start push button. As soon as a press on the start push button, you can see that I'm currently in step one
+> **[1:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980&t=94)** starting from zero all the way to four. So I'll scroll down more to the output section. You can see here in rung five, I have the conveyor connected again to an LED for you to see when the conveyor is on. So it's linked to output 2/6 and I selected the LED to be green and for rung six, I have the paint linked to another LED in output 2/7 and I selected a yellow LED. So for you to visualize when the conveyor is on, when the paint is on and so on and so forth. So for rung six where we have the timer, I change the preset value for us to be able to visualize the timer's timing, again only for demonstration purposes and for rung seven, this is the counter where we count the number of parts when we need to put them in the box. Again, I change the preset to be two to make it a little bit shorter when we do the demo. I'll go ahead, I'll download the program to the [PLC](../../Glossary/Tool/PLC.md). Go online and then I'll run the program. The first thing you see, the LED that's connected to 0/0, so this LED indicating we're in step zero where everything is off. So the very first thing we need to do now is to press on the start push button to start the process. So I'll go ahead and I'll press on the start push button. As soon as a press on the start push button, you can see that I'm currently in step one
 >
 > **[3:08](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980&t=188)** and the conveyor is on and then I'll scroll down a little bit to the bottom for you to see that the conveyor is on as well. Now the conveyor is on until the parts inside, the text to the part in the middle, as soon as the parts inside the text part, the conveyor stops, the paint is on for a certain time. So I'll scroll down a little bit for you to see timer timing and the paint is on during this step. So this is the push button for the part sensor. As soon as I press on the part sensor, you can see that we're in step two. The paint is on and the timer is timing for a certain amount of seconds. Once the timer is done, we automatically go to step three where the conveyor starts again for the part to be going to the box. Now, we need to go to step four so in order to go to step four, the box sensor detects the part, so I'm going to go ahead and notice here that it have the box sensor connected to input 1/4 and as soon as I press on the push button, you see that the conveyor starts again and then we go to step one. Notice here in rung seven that the counter went up. So we have one part done inside the box. Now the process starts again. We have another part moving on the conveyor until the part sensor detects the part for the paint to happen,
 >
@@ -826,7 +826,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (2), [[PLC]] (1)
+> **Frameworks & Libraries:** [Simulation Software](../../Skills/Hardware/Simulation%20Software.md) (2), [PLC](../../Glossary/Tool/PLC.md) (1)
 > **UI Navigation:** go to (5), scroll down (4), scroll up (1), click on (1)
 > **Env Vars:** led (7), plc (1)
 > **CLI Commands:** make (1)
@@ -842,11 +842,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980&t=1)** - Thank you for taking the time to join me in this course. If you would like to learn more, I encourage you to dive into the documentation for each manufacturer of the specific [[PLC]] device you're currently working with. While the foundations of ladder logic are the same, each manufacturer has differences in their implementations. If you're interested in understanding more about PLCs and how they fit within the field of industrial automation, check out this course, Learn Industrial Automation, which walks through each level of the industrial automation field. I hope this course gave you an opportunity to learn more about [[PLC Ladder Logic]], and to dive into the world of PLC ladder logic programming.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980&t=1)** - Thank you for taking the time to join me in this course. If you would like to learn more, I encourage you to dive into the documentation for each manufacturer of the specific [PLC](../../Glossary/Tool/PLC.md) device you're currently working with. While the foundations of ladder logic are the same, each manufacturer has differences in their implementations. If you're interested in understanding more about PLCs and how they fit within the field of industrial automation, check out this course, Learn Industrial Automation, which walks through each level of the industrial automation field. I hope this course gave you an opportunity to learn more about [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md), and to dive into the world of PLC ladder logic programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (2), [[PLC]] (1)
+> **Frameworks & Libraries:** [PLC Ladder Logic](../../Skills/Hardware/PLC%20Ladder%20Logic.md) (2), [PLC](../../Glossary/Tool/PLC.md) (1)
 > **Env Vars:** plc (3)
 > **Documentation:** the documentation (1)
 > **Speakers:** - thank (1)
@@ -854,7 +854,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Zahraa Khalil]]
+- [Zahraa Khalil](../../Instructors/Hardware/Zahraa%20Khalil.md)
 
 ## Resources
 
@@ -866,18 +866,18 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Become a PLC Developer]]
-← [[Learning PLC Ladder Logic- 1 The Basics]] | **3 of 7** | [[PLC Memory Organization]] →
+### In [Become a PLC Developer](../../Paths/Hardware/Learning%20Paths/Become%20a%20PLC%20Developer.md)
+← [Learning PLC Ladder Logic- 1 The Basics](Learning%20PLC%20Ladder%20Logic-%201%20The%20Basics.md) | **3 of 7** | [PLC Memory Organization](PLC%20Memory%20Organization.md) →
 
 ## Appears In
 
-- [[Become a PLC Developer]]
+- [Become a PLC Developer](../../Paths/Hardware/Learning%20Paths/Become%20a%20PLC%20Developer.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[PLC Memory Organization]] — Programmable Logic Controller (PLC)
+- [PLC Memory Organization](PLC%20Memory%20Organization.md) — Programmable Logic Controller (PLC)
 
 ---
 

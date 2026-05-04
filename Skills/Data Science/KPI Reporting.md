@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Marketing Analytics- Setting and Measuring KPIs]] — 46m · 30,955 learners
+- [Marketing Analytics- Setting and Measuring KPIs](../../Courses/Data%20Science/Marketing%20Analytics-%20Setting%20and%20Measuring%20KPIs.md) — 46m · 30,955 learners
 
 ## Related Skills
 
-- [[Marketing Analytics]] — 1 shared course
+- [Marketing Analytics](Marketing%20Analytics.md) — 1 shared course

@@ -17,15 +17,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Making A Case For Accessibility In Your Organization]]'
+  - course: '[Making A Case For Accessibility In Your Organization](../../../Courses/Web%20Development/Making%20A%20Case%20For%20Accessibility%20In%20Your%20Organization.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Supporting Accessibility in a Hybrid Workplace]]'
+  - course: '[Supporting Accessibility in a Hybrid Workplace](../../../Courses/Web%20Development/Supporting%20Accessibility%20in%20a%20Hybrid%20Workplace.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Auditing Design Systems for Accessibility]]'
+  - course: '[Auditing Design Systems for Accessibility](../../../Courses/Web%20Development/Auditing%20Design%20Systems%20for%20Accessibility.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -40,18 +40,18 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Making A Case For Accessibility In Your Organization]]
-2. [[Supporting Accessibility in a Hybrid Workplace]] _(50m)_
-3. [[Auditing Design Systems for Accessibility]] _(1h 31m)_
+1. [Making A Case For Accessibility In Your Organization](../../../Courses/Web%20Development/Making%20A%20Case%20For%20Accessibility%20In%20Your%20Organization.md)
+2. [Supporting Accessibility in a Hybrid Workplace](../../../Courses/Web%20Development/Supporting%20Accessibility%20in%20a%20Hybrid%20Workplace.md) _(50m)_
+3. [Auditing Design Systems for Accessibility](../../../Courses/Web%20Development/Auditing%20Design%20Systems%20for%20Accessibility.md) _(1h 31m)_
 
 ## Course Flow
 
-1. [[Making A Case For Accessibility In Your Organization]] → 2. [[Supporting Accessibility in a Hybrid Workplace]] → 3. [[Auditing Design Systems for Accessibility]]
+1. [Making A Case For Accessibility In Your Organization](../../../Courses/Web%20Development/Making%20A%20Case%20For%20Accessibility%20In%20Your%20Organization.md) → 2. [Supporting Accessibility in a Hybrid Workplace](../../../Courses/Web%20Development/Supporting%20Accessibility%20in%20a%20Hybrid%20Workplace.md) → 3. [Auditing Design Systems for Accessibility](../../../Courses/Web%20Development/Auditing%20Design%20Systems%20for%20Accessibility.md)
 
 ## Topics
 
-- [[Web Development]]
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Web Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Web Development](../../../Topics/Web%20Development.md)

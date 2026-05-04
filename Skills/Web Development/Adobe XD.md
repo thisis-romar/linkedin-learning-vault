@@ -22,19 +22,19 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Adobe XD Essential Training- Prototype]] — 1h 17m · 101,046 learners
+- [Adobe XD Essential Training- Prototype](../../Courses/Web%20Development/Adobe%20XD%20Essential%20Training-%20Prototype.md) — 1h 17m · 101,046 learners
 
 ## Related Skills
 
-- [[User Interface Prototyping]] — 1 shared course
+- [User Interface Prototyping](User%20Interface%20Prototyping.md) — 1 shared course
 
 ## Mentioned In Transcripts _(16 total mentions)_
 
-1. [[Adobe XD Essential Training- Prototype]] — 5 mentions
-2. [[ProtoPie for UX Design]] — 3 mentions
-3. [[Figma For Ux Design]] — 2 mentions
-4. [[Introduction To Web Design And Development]] — 2 mentions
-5. [[Using Stark for Accessible Design Projects]] — 1 mentions
-6. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
-7. [[Lo-Fi to Hi-Fi- Prototyping in Figma]] — 1 mentions
-8. [[Principle for UX Design]] — 1 mentions
+1. [Adobe XD Essential Training- Prototype](../../Courses/Web%20Development/Adobe%20XD%20Essential%20Training-%20Prototype.md) — 5 mentions
+2. [ProtoPie for UX Design](../../Courses/Web%20Development/ProtoPie%20for%20UX%20Design.md) — 3 mentions
+3. [Figma For Ux Design](../../Courses/Web%20Development/Figma%20For%20Ux%20Design.md) — 2 mentions
+4. [Introduction To Web Design And Development](../../Courses/Web%20Development/Introduction%20To%20Web%20Design%20And%20Development.md) — 2 mentions
+5. [Using Stark for Accessible Design Projects](../../Courses/Web%20Development/Using%20Stark%20for%20Accessible%20Design%20Projects.md) — 1 mentions
+6. [AI Product Development- Technical Feasibility and Prototyping](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Development-%20Technical%20Feasibility%20and%20Prototyping.md) — 1 mentions
+7. [Lo-Fi to Hi-Fi- Prototyping in Figma](../../Courses/Web%20Development/Lo-Fi%20to%20Hi-Fi-%20Prototyping%20in%20Figma.md) — 1 mentions
+8. [Principle for UX Design](../../Courses/Web%20Development/Principle%20for%20UX%20Design.md) — 1 mentions

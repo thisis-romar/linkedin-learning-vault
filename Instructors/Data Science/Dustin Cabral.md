@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced Tableau Desktop]]
+- [Advanced Tableau Desktop](../../Courses/Data%20Science/Advanced%20Tableau%20Desktop.md)

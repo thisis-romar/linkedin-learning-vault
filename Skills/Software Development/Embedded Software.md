@@ -22,16 +22,16 @@ created: 2026-05-03
 
 ## Courses
 
-- [[OpenAI API- Embeddings]] — Intermediate · 27m · 58,414 learners
+- [OpenAI API- Embeddings](../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Embeddings.md) — Intermediate · 27m · 58,414 learners
 
 ## Related Skills
 
-- [[OpenAI API]] — 1 shared course
-- [[OpenAI Products]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [OpenAI API](../Artificial%20Intelligence%20(AI)/OpenAI%20API.md) — 1 shared course
+- [OpenAI Products](../Artificial%20Intelligence%20(AI)/OpenAI%20Products.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[MLOps Essentials- Model Development and Integration]] — 2 mentions
-2. [[Programming Foundations- Secure Coding (2018)]] — 1 mentions
-3. [[Python Data Structures- Linked Lists]] — 1 mentions
+1. [MLOps Essentials- Model Development and Integration](../../Courses/Artificial%20Intelligence%20(AI)/MLOps%20Essentials-%20Model%20Development%20and%20Integration.md) — 2 mentions
+2. [Programming Foundations- Secure Coding (2018)](../../Courses/Software%20Development/Programming%20Foundations-%20Secure%20Coding%20(2018).md) — 1 mentions
+3. [Python Data Structures- Linked Lists](../../Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md) — 1 mentions

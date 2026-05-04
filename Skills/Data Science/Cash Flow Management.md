@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Running a Profitable Business- Understanding Cash Flow]] — Beginner · 1h 49m · 170,721 learners
+- [Running a Profitable Business- Understanding Cash Flow](../../Courses/Data%20Science/Running%20a%20Profitable%20Business-%20Understanding%20Cash%20Flow.md) — Beginner · 1h 49m · 170,721 learners
 
 ## Mentioned In Transcripts _(3 total mentions)_
 
-1. [[Running a Profitable Business- Understanding Cash Flow]] — 2 mentions
-2. [[Strategic Financial Management in Corporations]] — 1 mentions
+1. [Running a Profitable Business- Understanding Cash Flow](../../Courses/Data%20Science/Running%20a%20Profitable%20Business-%20Understanding%20Cash%20Flow.md) — 2 mentions
+2. [Strategic Financial Management in Corporations](../../Courses/Data%20Science/Strategic%20Financial%20Management%20in%20Corporations.md) — 1 mentions

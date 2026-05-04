@@ -17,39 +17,39 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Building Modern Uis With React Router V6]]'
+  - course: '[Building Modern Uis With React Router V6](../../../Courses/Web%20Development/Building%20Modern%20Uis%20With%20React%20Router%20V6.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[React- Building Styles with CSS Modules]]'
+  - course: '[React- Building Styles with CSS Modules](../../../Courses/Web%20Development/React-%20Building%20Styles%20with%20CSS%20Modules.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[React- Securing Applications]]'
+  - course: '[React- Securing Applications](../../../Courses/Web%20Development/React-%20Securing%20Applications.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building Modern Projects with React]]'
+  - course: '[Building Modern Projects with React](../../../Courses/Web%20Development/Building%20Modern%20Projects%20with%20React.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[React- Testing and Debugging]]'
+  - course: '[React- Testing and Debugging](../../../Courses/Web%20Development/React-%20Testing%20and%20Debugging.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[React- Authentication]]'
+  - course: '[React- Authentication](../../../Courses/Web%20Development/React-%20Authentication.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[React- Software Architecture]]'
+  - course: '[React- Software Architecture](../../../Courses/Web%20Development/React-%20Software%20Architecture.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building a GraphQL Project with React.js]]'
+  - course: '[Building a GraphQL Project with React.js](../../../Courses/Web%20Development/Building%20a%20GraphQL%20Project%20with%20React.js.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[React- Cloud-Powered Apps with Firebase]]'
+  - course: '[React- Cloud-Powered Apps with Firebase](../../../Courses/Web%20Development/React-%20Cloud-Powered%20Apps%20with%20Firebase.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -64,31 +64,31 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Building Modern Uis With React Router V6]]
-2. [[React- Building Styles with CSS Modules]] _(1h 34m)_
-3. [[React- Securing Applications]] _(1h 5m)_
-4. [[Building Modern Projects with React]] _(3h 50m)_
-5. [[React- Testing and Debugging]] _(1h 33m)_
-6. [[React- Authentication]] _(4h 15m)_
-7. [[React- Software Architecture]] _(2h 43m)_
-8. [[Building a GraphQL Project with React.js]] _(2h 16m)_
-9. [[React- Cloud-Powered Apps with Firebase]] _(2h 29m)_
+1. [Building Modern Uis With React Router V6](../../../Courses/Web%20Development/Building%20Modern%20Uis%20With%20React%20Router%20V6.md)
+2. [React- Building Styles with CSS Modules](../../../Courses/Web%20Development/React-%20Building%20Styles%20with%20CSS%20Modules.md) _(1h 34m)_
+3. [React- Securing Applications](../../../Courses/Web%20Development/React-%20Securing%20Applications.md) _(1h 5m)_
+4. [Building Modern Projects with React](../../../Courses/Web%20Development/Building%20Modern%20Projects%20with%20React.md) _(3h 50m)_
+5. [React- Testing and Debugging](../../../Courses/Web%20Development/React-%20Testing%20and%20Debugging.md) _(1h 33m)_
+6. [React- Authentication](../../../Courses/Web%20Development/React-%20Authentication.md) _(4h 15m)_
+7. [React- Software Architecture](../../../Courses/Web%20Development/React-%20Software%20Architecture.md) _(2h 43m)_
+8. [Building a GraphQL Project with React.js](../../../Courses/Web%20Development/Building%20a%20GraphQL%20Project%20with%20React.js.md) _(2h 16m)_
+9. [React- Cloud-Powered Apps with Firebase](../../../Courses/Web%20Development/React-%20Cloud-Powered%20Apps%20with%20Firebase.md) _(2h 29m)_
 
 ## Course Flow
 
-1. [[Building Modern Uis With React Router V6]] → 2. [[React- Building Styles with CSS Modules]] → 3. [[React- Securing Applications]] → 4. [[Building Modern Projects with React]] → 5. [[React- Testing and Debugging]] → 6. [[React- Authentication]] → 7. [[React- Software Architecture]] → 8. [[Building a GraphQL Project with React.js]] → 9. [[React- Cloud-Powered Apps with Firebase]]
+1. [Building Modern Uis With React Router V6](../../../Courses/Web%20Development/Building%20Modern%20Uis%20With%20React%20Router%20V6.md) → 2. [React- Building Styles with CSS Modules](../../../Courses/Web%20Development/React-%20Building%20Styles%20with%20CSS%20Modules.md) → 3. [React- Securing Applications](../../../Courses/Web%20Development/React-%20Securing%20Applications.md) → 4. [Building Modern Projects with React](../../../Courses/Web%20Development/Building%20Modern%20Projects%20with%20React.md) → 5. [React- Testing and Debugging](../../../Courses/Web%20Development/React-%20Testing%20and%20Debugging.md) → 6. [React- Authentication](../../../Courses/Web%20Development/React-%20Authentication.md) → 7. [React- Software Architecture](../../../Courses/Web%20Development/React-%20Software%20Architecture.md) → 8. [Building a GraphQL Project with React.js](../../../Courses/Web%20Development/Building%20a%20GraphQL%20Project%20with%20React.js.md) → 9. [React- Cloud-Powered Apps with Firebase](../../../Courses/Web%20Development/React-%20Cloud-Powered%20Apps%20with%20Firebase.md)
 
 ## Topics
 
-- [[Web Development]]
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Explore React.js Development]] (2 shared courses)
-- [[Explore App Development with the MERN Stack]] (2 shared courses)
+- [Explore React.js Development](../../Software%20Development/Learning%20Paths/Explore%20React.js%20Development.md) (2 shared courses)
+- [Explore App Development with the MERN Stack](../../Database%20Management/Learning%20Paths/Explore%20App%20Development%20with%20the%20MERN%20Stack.md) (2 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Web Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Web Development](../../../Topics/Web%20Development.md)

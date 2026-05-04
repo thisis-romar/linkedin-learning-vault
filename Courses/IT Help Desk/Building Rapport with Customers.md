@@ -17,11 +17,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQESfBoGiAHUmQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1716227353597?e=2147483647&amp;v=beta&amp;t=H5HEhARw04KD8YLxLeiDaFxbiptwf5PCwLCphQ4Rwq0"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - '[[Build Your Skills In Customer Service]]'
+  - '[Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)'
 prev_courses:
-  - '[[Customer Service- Problem-Solving and Troubleshooting]]'
+  - '[Customer Service- Problem-Solving and Troubleshooting](Customer%20Service-%20Problem-Solving%20and%20Troubleshooting.md)'
 next_courses:
-  - '[[Customer Service- Call Control Strategies]]'
+  - '[Customer Service- Call Control Strategies](Customer%20Service-%20Call%20Control%20Strategies.md)'
 path_nav: '[{"path":"Build Your Skills In Customer Service","position":3,"total":8,"prev":"Customer Service- Problem-Solving and Troubleshooting","next":"Customer Service- Call Control Strategies"}]'
 path_count: 1
 tags:
@@ -73,11 +73,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980&t=0)** I had a contractor in my home who seemed grumpy, so I broke the ice with conversation. We ended up talking about a movie we'd both seen, and the man cried when we discussed a touching scene. I instantly built rapport by finding common ground discussing the movie we both watched. You can create rapport with your customers this quickly. When you have rapport, customers vent less, are less likely to escalate, and you improve customer satisfaction. My name is Myra Golden. Join me in this [[LinkedIn]] Learning course and discover how you can create better customer experiences simply by creating rapport.
+> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980&t=0)** I had a contractor in my home who seemed grumpy, so I broke the ice with conversation. We ended up talking about a movie we'd both seen, and the man cried when we discussed a touching scene. I instantly built rapport by finding common ground discussing the movie we both watched. You can create rapport with your customers this quickly. When you have rapport, customers vent less, are less likely to escalate, and you improve customer satisfaction. My name is Myra Golden. Join me in this [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course and discover how you can create better customer experiences simply by creating rapport.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Cross-References:** we discussed (1)
 
 
@@ -105,11 +105,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/validate-your-customer-s-experience?u=76281980&t=0)** Imagine a friend text, "Hey, how are you?" And you reply, "Not so good. We just had to put my dog down last week and I've got anxiety over midterms next week. How are you?" And your friend text back, "I'm anxiously awaiting my Las Vegas trip next week. Wish you could join." You might hold your phone a little closer to reread your text and you'd think, what? What just happened here? What happened is your friend didn't validate your experience. They made it all about them. And that doesn't feel good, does it? Sometimes customers give us their story of the challenge they've had with our company and we say, claim number or can I get you to verify your address for me? You need to validate your customer's experience so they feel heard. Customers vent more when you don't validate because they don't feel understood. Validation is acknowledging a customer's feelings without necessarily agreeing or disagreeing with them. Your goal is to demonstrate that you're listening to the customer, understand their perspective, and can help them resolve the issue. Here are some key phrases for validating. Acknowledgement: "I realize this whole thing has been frustrating." Support:
 >
-> **[1:35](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/validate-your-customer-s-experience?u=76281980&t=95)** "I'm sorry you've had such a frustrating time. I'm here to help you sort this out." You'll notice I use the [[Microsoft Word|word]] frustrating twice here. I love the word frustrate for validating customer's experiences. It's not as charged as "I know you're angry" and it doesn't minimize the customer's experience. I want you to use frustrate often to acknowledge your customer's concerns. Affirmation: "I can see your point on that." Or "We want to get to the bottom of this as much as you do." Assurance: When you're certain you can help, you can say something like, "I'll get to the bottom of this for you and get you quickly on your way." When you acknowledge the customer's feelings, you create rapport and show confidence and capability. Try this. Go to the notebook feature and write out your favorite one or two key phrases from this video, then take a few seconds to write out your own validation phrase.
+> **[1:35](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/validate-your-customer-s-experience?u=76281980&t=95)** "I'm sorry you've had such a frustrating time. I'm here to help you sort this out." You'll notice I use the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) frustrating twice here. I love the word frustrate for validating customer's experiences. It's not as charged as "I know you're angry" and it doesn't minimize the customer's experience. I want you to use frustrate often to acknowledge your customer's concerns. Affirmation: "I can see your point on that." Or "We want to get to the bottom of this as much as you do." Assurance: When you're certain you can help, you can say something like, "I'll get to the bottom of this for you and get you quickly on your way." When you acknowledge the customer's feelings, you create rapport and show confidence and capability. Try this. Go to the notebook feature and write out your favorite one or two key phrases from this video, then take a few seconds to write out your own validation phrase.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 
@@ -122,13 +122,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980&t=0)** When I watch my daughter and her friends together, they tend to talk alike, using the same words and expressions and similar body language. What they're doing without even realizing it is pacing. Pacing mirrors your customer's verbal and nonverbal cues, emotional state, or communication style. In [[Customer Support]], pacing does two things. First, it builds rapport. Pacing creates a connection by demonstrating that you're fully present and engaged. People who sense your attentiveness are more likely to open up, trust, and cooperate. Second, pacing reduces resistance. You can actually reduce your customer's resistance by aligning with their current emotional state. Remember when we talked about validation? Pacing is a form of validation that helps people work through or release negative feelings. But if a person feels rushed, misunderstood, or not listened to, they're likely to become even more defensive. Here are three ways you can pace your customers. Verbal pacing: And verbal pacing, you match your customer's rate, volume, or language. People who speak slowly or softly feel more comfortable if you speak in a similar manner. Use your customer's words as much as possible and do this in both verbal and written interactions.
+> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980&t=0)** When I watch my daughter and her friends together, they tend to talk alike, using the same words and expressions and similar body language. What they're doing without even realizing it is pacing. Pacing mirrors your customer's verbal and nonverbal cues, emotional state, or communication style. In [Customer Support](../../Skills/IT%20Help%20Desk/Customer%20Support.md), pacing does two things. First, it builds rapport. Pacing creates a connection by demonstrating that you're fully present and engaged. People who sense your attentiveness are more likely to open up, trust, and cooperate. Second, pacing reduces resistance. You can actually reduce your customer's resistance by aligning with their current emotional state. Remember when we talked about validation? Pacing is a form of validation that helps people work through or release negative feelings. But if a person feels rushed, misunderstood, or not listened to, they're likely to become even more defensive. Here are three ways you can pace your customers. Verbal pacing: And verbal pacing, you match your customer's rate, volume, or language. People who speak slowly or softly feel more comfortable if you speak in a similar manner. Use your customer's words as much as possible and do this in both verbal and written interactions.
 >
 > **[1:36](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980&t=96)** For example, if the customer calls your product a thumb drive but your company list it as a flash drive, you could use the customer's exact words, thumb drive, to pace. Emotional pacing: If your customer calls to file a claim after an auto accident, for example, you could pace them by showing concern for what they've been through. For example, "I'm glad you're okay but still, I'm sorry this happened." That's pacing the customer's emotion. Body language pacing: Pay attention to your customer's facial expressions, hand gestures, and overall body movements. For instance, if they lean forward slightly, you can follow suit after a few moments. Be careful with this. Don't make it obvious that you are mimicking their language or gestures, the idea is to be subtle. A good place to start with pacing is emotional pacing. Emotional pacing builds instant connection and stops venting. Share in your customer's excitement when appropriate and offer empathy when it makes sense.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (1)
+> **Frameworks & Libraries:** [Customer Support](../../Skills/IT%20Help%20Desk/Customer%20Support.md) (1)
 > **Analogies:** for example (3), for instance (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
@@ -170,13 +170,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980&t=0)** Recently, my team enrolled a new client in our [[De-escalation]] Academy. After registering their students, we sent out a welcome email with login details. Something went wrong and everyone on my client's team received dozens of emails from us, the same email repeatedly. My client wasn't happy. Using this example, I'll show you how to respond to a customer complaint over email, applying three components of rapport building in problem situations. Building rapport in response to a complaint email is about three things: Saying "I'm sorry" when appropriate, acknowledging the customer's concerns, speak directly to your customer's pain point, and resolving the problem or guiding the customer to the next steps. Here's my email to my client, focusing on the three points for building rapport. "I'm sorry and embarrassed. Last week, we sent you dozens of emails welcoming you to our De-escalation Academy. Many of you were in meetings, focused on work, driving, or on crucial phone calls when our emails kept pinging. We are taking immediate corrective measures to regain your trust. We are now focusing on how to test, spot, and prevent coding errors.
+> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980&t=0)** Recently, my team enrolled a new client in our [De-escalation](../../Skills/IT%20Help%20Desk/De-escalation.md) Academy. After registering their students, we sent out a welcome email with login details. Something went wrong and everyone on my client's team received dozens of emails from us, the same email repeatedly. My client wasn't happy. Using this example, I'll show you how to respond to a customer complaint over email, applying three components of rapport building in problem situations. Building rapport in response to a complaint email is about three things: Saying "I'm sorry" when appropriate, acknowledging the customer's concerns, speak directly to your customer's pain point, and resolving the problem or guiding the customer to the next steps. Here's my email to my client, focusing on the three points for building rapport. "I'm sorry and embarrassed. Last week, we sent you dozens of emails welcoming you to our De-escalation Academy. Many of you were in meetings, focused on work, driving, or on crucial phone calls when our emails kept pinging. We are taking immediate corrective measures to regain your trust. We are now focusing on how to test, spot, and prevent coding errors.
 >
 > **[1:35](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980&t=95)** The most important thing to me is to regain your trust and give you the learning experience you deserve." Is there a customer in your queue with a poor experience you need to respond to now? Take some time now to craft a response using these three components of rapport building, and you'll restore their confidence in no time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[De-escalation]] (2)
+> **Frameworks & Libraries:** [De-escalation](../../Skills/IT%20Help%20Desk/De-escalation.md) (2)
 
 #### [Create rapport in a live customer chat interaction](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980)
 
@@ -184,11 +184,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980&t=0)** About 41 percent of customers prefer live chat support over other methods, such as email or phone support, and this preference is expected to grow in the coming years. Offering chat as a customer service option meets your customers where they are, but it's not enough to just have chat. Your chat interactions have to create rapport. Here are three things you can do to make your chat interactions more personal and friendly. First, use personal pronouns, I, we, me, you to make written communication sound more personal and warm. Pronouns, especially I and you, establish the identities of you, the employee, and the customer, and they bring a human tone to a chat exchange. Here's an example of how to include personal pronouns in your chat. You'd want to write this. "We have received your return, and your replacement is on its way to you." And not this, "ABC company has received order number 4026, and a replacement will be sent." Second, use positive language. Positive language helps create a welcoming atmosphere. Phrases like great question or absolutely create a positive impression. Your choice of words and punctuation convey the
 >
-> **[1:35](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980&t=95)** tone in live chat, so choose them wisely. Okay. Lastly, acknowledge your customer's concern. What is your customer's pain point? Identify what that is and then respond to it. After the customer has told you their issue, write one sentence right away that acknowledges their concern. For example, if the first line of your customer's message is, "My tablet isn't charging," you could reply, "I'm sorry to hear your device isn't charging." I once chatted with a company about the status of a return. This is how the employee responded to my request. "Ms. Golden, I'm so sorry your return hasn't been processed yet. I know you're anxious to have this completed. Our return processing time can take up to 17 days from when an order is returned to us. I hope your item is processed soon." The agent built rapport by using each of these three steps. So take a few seconds right now to jot these three tips down on a Post-it note so you can have them in view as you answer your customer chats. If you need more help with chat support, check out my [[LinkedIn]] Learning course on Delivering Exceptional Live Chat.
+> **[1:35](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980&t=95)** tone in live chat, so choose them wisely. Okay. Lastly, acknowledge your customer's concern. What is your customer's pain point? Identify what that is and then respond to it. After the customer has told you their issue, write one sentence right away that acknowledges their concern. For example, if the first line of your customer's message is, "My tablet isn't charging," you could reply, "I'm sorry to hear your device isn't charging." I once chatted with a company about the status of a return. This is how the employee responded to my request. "Ms. Golden, I'm so sorry your return hasn't been processed yet. I know you're anxious to have this completed. Our return processing time can take up to 17 days from when an order is returned to us. I hope your item is processed soon." The agent built rapport by using each of these three steps. So take a few seconds right now to jot these three tips down on a Post-it note so you can have them in view as you answer your customer chats. If you need more help with chat support, check out my [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course on Delivering Exceptional Live Chat.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** abc (1)
@@ -199,11 +199,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980&t=0)** When customers like you and feel like you're in their corner, they're more likely to let you fix their issue without going over your head and talking to a supervisor. Let's look at a scenario with an upset customer and see the impact of rapport on the outcome. First, we'll look at the conversation without rapport. I'll play the agent. "My package was supposed to arrive two days ago and it's still not here. What's going on?" "Let me check the status for you. It appears your package is delayed due to unforeseen circumstances. Please wait a few more days and call us back if you don't receive it by the end of the week." "I have to wait a few more days. This is ridiculous. I needed it today. I want to speak to a manager." Now, I answered the customer's question, but my response needed more empathy and it needed to be more specific. Let's flip the script and apply empathy. "I understand how important timely deliveries are. I'm here to help. May I have your name and order number, please, so I can check the status of your order?" "It's James and the order number is 12717. I'm really upset because my order is a birthday gift for my daughter, and I need it by Thursday." "I'm sorry to hear that, James. I can only imagine how inconvenient this must be, especially since this is a birthday gift for your daughter.
 >
-> **[1:36](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980&t=96)** Let me quickly check on this for you. Ah, I see the delay here. There's been a holdup due to weather in Memphis. You may have heard about the winter storm that's slamming the Midwest. I do show your order is being prepared for delivery, and the carrier will pick it up today." "So when will it get here?" "I'm going to prioritize your shipment and add a note for overnight delivery, which will get the order to you by tomorrow at noon on your daughter's birthday. I'm also going to email you a discount code for $20 off your next order with us." "As long as it gets here before my daughter's birthday." "Let me say again. I'm so sorry for the delay, James. I look forward to your order arriving tomorrow in time for your daughter's birthday. Thanks for letting me help you with this. Have a fantastic afternoon." Did you see how I preempted an escalation by showing interest in the customer's birthday urgency, and by giving a specific explanation? That's how to preempt an escalation. For more help de-escalating angry customers, check out my [[LinkedIn]] Learning course, [[De-Escalating Conversations for Customer Service]]. In this course, I break down my powerful three-hour [[De-escalation]] method.
+> **[1:36](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980&t=96)** Let me quickly check on this for you. Ah, I see the delay here. There's been a holdup due to weather in Memphis. You may have heard about the winter storm that's slamming the Midwest. I do show your order is being prepared for delivery, and the carrier will pick it up today." "So when will it get here?" "I'm going to prioritize your shipment and add a note for overnight delivery, which will get the order to you by tomorrow at noon on your daughter's birthday. I'm also going to email you a discount code for $20 off your next order with us." "As long as it gets here before my daughter's birthday." "Let me say again. I'm so sorry for the delay, James. I look forward to your order arriving tomorrow in time for your daughter's birthday. Thanks for letting me help you with this. Have a fantastic afternoon." Did you see how I preempted an escalation by showing interest in the customer's birthday urgency, and by giving a specific explanation? That's how to preempt an escalation. For more help de-escalating angry customers, check out my [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course, [De-Escalating Conversations for Customer Service](De-Escalating%20Conversations%20for%20Customer%20Service.md). In this course, I break down my powerful three-hour [De-escalation](../../Skills/IT%20Help%20Desk/De-escalation.md) method.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[De-escalation]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1), [De-escalation](../../Skills/IT%20Help%20Desk/De-escalation.md) (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 
@@ -211,13 +211,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=0)** No one likes getting bad news, but if you work in customer service, you know customers really don't like getting bad news. Any time you tell a customer what they don't want to hear, you can get pushback or an escalation. But if you fold bad news into empathy and rapport, getting the customer to accept your [[Microsoft Word|word]] as final is much easier. Let's look at how not to give a customer bad news. I'll play the agent again. "Hello, thank you for calling. How can I help you today?" "I'm just calling to check on my refund. It's taking a really long time." "I see. After checking your account, I found that your refund request was denied because it was past the allowable return period." "That's ridiculous. I wasn't told anything about an allowable return window." The customer feels blindsided and frustrated. There's no empathy. Giving a customer bad news is hard enough. And when you don't foster rapport, you make it even harder for your customer to accept the news. Let's try the scenario again, this time focusing on empathy and rapport. "Hello. Thank you for reaching out to us today. How may I assist you?" "Hi, I'm calling to check on the status of my refund. It's been over a month." "I know waiting for a refund can be frustrating. Let me take a moment to check on that for you.
+> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=0)** No one likes getting bad news, but if you work in customer service, you know customers really don't like getting bad news. Any time you tell a customer what they don't want to hear, you can get pushback or an escalation. But if you fold bad news into empathy and rapport, getting the customer to accept your [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) as final is much easier. Let's look at how not to give a customer bad news. I'll play the agent again. "Hello, thank you for calling. How can I help you today?" "I'm just calling to check on my refund. It's taking a really long time." "I see. After checking your account, I found that your refund request was denied because it was past the allowable return period." "That's ridiculous. I wasn't told anything about an allowable return window." The customer feels blindsided and frustrated. There's no empathy. Giving a customer bad news is hard enough. And when you don't foster rapport, you make it even harder for your customer to accept the news. Let's try the scenario again, this time focusing on empathy and rapport. "Hello. Thank you for reaching out to us today. How may I assist you?" "Hi, I'm calling to check on the status of my refund. It's been over a month." "I know waiting for a refund can be frustrating. Let me take a moment to check on that for you.
 >
-> **[1:38](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=98)** Thank you for your patience. I've looked into it and see your request was denied because it's outside our 30-day return window. I can only imagine how disappointing this news must be, and I genuinely wish we had a different answer for you. Our warehouse has sent your item back to you with a delivery date of March 30th." By establishing rapport and showing empathy, the agent softens the blow of the bad news, leading to a less negative reaction from the customer. The customer won't love the bad news, but they're more likely to accept your words as final when you fold the bad news into empathy and give a solid reason for the denial. Giving bad news to customers isn't easy, you know that. But I do have a course dedicated to preparing you to give bad news with confidence and in such a way that you get customers to accept your response as the final answer. Check out my Delivering Bad News to Customers [[LinkedIn]] Learning course, where I give you my four keys to giving bad news.
+> **[1:38](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=98)** Thank you for your patience. I've looked into it and see your request was denied because it's outside our 30-day return window. I can only imagine how disappointing this news must be, and I genuinely wish we had a different answer for you. Our warehouse has sent your item back to you with a delivery date of March 30th." By establishing rapport and showing empathy, the agent softens the blow of the bad news, leading to a less negative reaction from the customer. The customer won't love the bad news, but they're more likely to accept your words as final when you fold the bad news into empathy and give a solid reason for the denial. Giving bad news to customers isn't easy, you know that. But I do have a course dedicated to preparing you to give bad news with confidence and in such a way that you get customers to accept your response as the final answer. Check out my Delivering Bad News to Customers [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course, where I give you my four keys to giving bad news.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 
@@ -242,7 +242,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Myra Golden]]
+- [Myra Golden](../../Instructors/IT%20Help%20Desk/Myra%20Golden.md)
 
 ## Skills Covered
 
@@ -251,22 +251,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Build Your Skills In Customer Service]]
-← [[Customer Service- Problem-Solving and Troubleshooting]] | **3 of 8** | [[Customer Service- Call Control Strategies]] →
+### In [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
+← [Customer Service- Problem-Solving and Troubleshooting](Customer%20Service-%20Problem-Solving%20and%20Troubleshooting.md) | **3 of 8** | [Customer Service- Call Control Strategies](Customer%20Service-%20Call%20Control%20Strategies.md) →
 
 ## Appears In
 
-- [[Build Your Skills In Customer Service]]
+- [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Innovative Customer Service Techniques]] — Customer Service
-- [[Working with Upset Customers]] — Customer Service
-- [[Phone-Based Customer Service]] — Customer Service
-- [[Writing Customer Service Emails]] — Customer Service
-- [[Building Rapport with Customers (2022)]] — Customer Service
+- [Innovative Customer Service Techniques](Innovative%20Customer%20Service%20Techniques.md) — Customer Service
+- [Working with Upset Customers](Working%20with%20Upset%20Customers.md) — Customer Service
+- [Phone-Based Customer Service](Phone-Based%20Customer%20Service.md) — Customer Service
+- [Writing Customer Service Emails](Writing%20Customer%20Service%20Emails.md) — Customer Service
+- [Building Rapport with Customers (2022)](Building%20Rapport%20with%20Customers%20(2022).md) — Customer Service
 
 ---
 

@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Product Development- Secure by Design]]
-- [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]]
-- [[AI Product Security- Foundations and Proactive Security for AI]]
+- [AI Product Development- Secure by Design](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Development-%20Secure%20by%20Design.md)
+- [The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview](../../Courses/Artificial%20Intelligence%20(AI)/The%20OWASP%20Top%2010%20for%20Large%20Language%20Model%20(LLM)%20Applications-%20An%20Overview.md)
+- [AI Product Security- Foundations and Proactive Security for AI](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Foundations%20and%20Proactive%20Security%20for%20AI.md)

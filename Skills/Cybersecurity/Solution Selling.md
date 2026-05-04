@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Solution Sales]] — Intermediate · 55m · 74,559 learners
+- [Solution Sales](../../Courses/Cybersecurity/Solution%20Sales.md) — Intermediate · 55m · 74,559 learners
 
 ## Mentioned In Transcripts _(11 total mentions)_
 
-1. [[Solution Sales]] — 11 mentions
+1. [Solution Sales](../../Courses/Cybersecurity/Solution%20Sales.md) — 11 mentions

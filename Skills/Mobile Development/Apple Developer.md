@@ -22,15 +22,15 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Xcode 15 Essential Training]] — Beginner · 1h 29m · 10,844 learners
+- [Xcode 15 Essential Training](../../Courses/Mobile%20Development/Xcode%2015%20Essential%20Training.md) — Beginner · 1h 29m · 10,844 learners
 
 ## Related Skills
 
-- [[iOS Development]] — 1 shared course
-- [[Xcode]] — 1 shared course
+- [iOS Development](iOS%20Development.md) — 1 shared course
+- [Xcode](Xcode.md) — 1 shared course
 
 ## Mentioned In Transcripts _(6 total mentions)_
 
-1. [[React Native Essential Training]] — 3 mentions
-2. [[Learning React Native]] — 2 mentions
-3. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
+1. [React Native Essential Training](../../Courses/Mobile%20Development/React%20Native%20Essential%20Training.md) — 3 mentions
+2. [Learning React Native](../../Courses/Mobile%20Development/Learning%20React%20Native.md) — 2 mentions
+3. [Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness](../../Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Design%2C%20Production%2C%20and%20Industry%20Awareness.md) — 1 mentions

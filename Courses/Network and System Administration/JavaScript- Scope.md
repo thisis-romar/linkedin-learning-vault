@@ -16,11 +16,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGZbTfGk5Crsw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1711387718548?e=2147483647&amp;v=beta&amp;t=oBAlaEyekf198M3OTXjIjPmF6lur_jQUzcxIZPDzU_g"
 linkedin_topic: Network and System Administration
 learning_paths:
-  - '[[Become a JavaScript Developer]]'
+  - '[Become a JavaScript Developer](../../Paths/Network%20and%20System%20Administration/Learning%20Paths/Become%20a%20JavaScript%20Developer.md)'
 prev_courses:
-  - '[[Learning ECMAScript 6+ (ES6+)]]'
+  - '[Learning ECMAScript 6+ (ES6+)](../Web%20Development/Learning%20ECMAScript%206%2B%20(ES6%2B).md)'
 next_courses:
-  - '[[JavaScript- Prototypes]]'
+  - '[JavaScript- Prototypes](JavaScript-%20Prototypes.md)'
 path_nav: '[{"path":"Become a JavaScript Developer","position":4,"total":13,"prev":"Learning ECMAScript 6+ (ES6+)","next":"JavaScript- Prototypes"}]'
 path_count: 1
 tags:
@@ -77,22 +77,22 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980&t=0)** - [Emmanuel] Have you heard about local, global, and block scope variables, and don't know how they work or what they mean? Are you coming from another language, and are trying to understand how variable scopes are used in [[JavaScript]]? If you've answered yes to any of these questions, you've come to the right place. In this course, we'll introduce JavaScript variable scopes, and how they work, how to define them, all their related terminology, and more. Hi, I'm Manny Henri, and I've been using JavaScript for a long time. And it is my pleasure to introduce you to this often overlooked subject that is variable scope. We'll first go through an overview of what are variable scopes, the different types, and hoisting. Then, we'll explore in depth what are global variables, and put it in practice. Next, we'll do the same for local, and finally, for block scope variables. So if you're ready to deepen your knowledge of JavaScript by exploring variable scopes, open up your favorite editor, and let's get started.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980&t=0)** - [Emmanuel] Have you heard about local, global, and block scope variables, and don't know how they work or what they mean? Are you coming from another language, and are trying to understand how variable scopes are used in [JavaScript](../../Skills/Software%20Development/JavaScript.md)? If you've answered yes to any of these questions, you've come to the right place. In this course, we'll introduce JavaScript variable scopes, and how they work, how to define them, all their related terminology, and more. Hi, I'm Manny Henri, and I've been using JavaScript for a long time. And it is my pleasure to introduce you to this often overlooked subject that is variable scope. We'll first go through an overview of what are variable scopes, the different types, and hoisting. Then, we'll explore in depth what are global variables, and put it in practice. Next, we'll do the same for local, and finally, for block scope variables. So if you're ready to deepen your knowledge of JavaScript by exploring variable scopes, open up your favorite editor, and let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (4)
 > **Speakers:** - [emmanuel] (1)
 
 #### [Course prerequisites](https://www.linkedin.com/learning/javascript-scope/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/course-prerequisites?u=76281980&t=0)** - [Instructor] This course is considered an intermediate to advanced course. We won't go over any basics of the language or syntax use, therefore, prior [[JavaScript]] knowledge, or at least a good understanding of functions, variables, types, object literals, and most of the basic syntax use is important to be able to follow along. If you've never done any JavaScript or would like to learn more on the subject, take a look at our library for the Essentials course.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/course-prerequisites?u=76281980&t=0)** - [Instructor] This course is considered an intermediate to advanced course. We won't go over any basics of the language or syntax use, therefore, prior [JavaScript](../../Skills/Software%20Development/JavaScript.md) knowledge, or at least a good understanding of functions, variables, types, object literals, and most of the basic syntax use is important to be able to follow along. If you've never done any JavaScript or would like to learn more on the subject, take a look at our library for the Essentials course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -104,15 +104,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=0)** - [Instructor] As we work through our examples, we'll need to test our code on the browser and see it in action. If you're using VS Code, and would like to have the same tools I'm using, follow along. Otherwise, feel free to skip this video or install similar tools in your editor of choice. Open up Visual Studio Code and go to the extensions tab. Find the extension Live Server. This is the one we need to install. When you have the extension Live Server all you have to do is click on the little button at the bottom of your screen here to start a Live Server right away, without doing anything like [[npm]] servers and stuff like that. It will start your server directly from VS Code. Let's go ahead and install this and then reload. That's going to create a new folder on our desktop so let's get out of VS Code, create a new folder and we'll call this scope. We'll open that inside VS Code, so let's go back to VS Code go to Explorer, click on Open Folder, go to Desktop and open scope. Inside of that directory we'll create two new files. One will be the index.[[HTML]] and the second one will be a [[JavaScript]] file, so let's call this the index.js. Let's call this welcome. What we'll do inside of the index we'll create a new HTML document and we can use the Emmet shortcut doing doc, and then do a tab, and we'll get our HTML template completely done for us.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=0)** - [Instructor] As we work through our examples, we'll need to test our code on the browser and see it in action. If you're using VS Code, and would like to have the same tools I'm using, follow along. Otherwise, feel free to skip this video or install similar tools in your editor of choice. Open up Visual Studio Code and go to the extensions tab. Find the extension Live Server. This is the one we need to install. When you have the extension Live Server all you have to do is click on the little button at the bottom of your screen here to start a Live Server right away, without doing anything like [npm](../../Skills/Web%20Development/npm.md) servers and stuff like that. It will start your server directly from VS Code. Let's go ahead and install this and then reload. That's going to create a new folder on our desktop so let's get out of VS Code, create a new folder and we'll call this scope. We'll open that inside VS Code, so let's go back to VS Code go to Explorer, click on Open Folder, go to Desktop and open scope. Inside of that directory we'll create two new files. One will be the index.[HTML](../../Skills/Web%20Development/HTML.md) and the second one will be a [JavaScript](../../Skills/Software%20Development/JavaScript.md) file, so let's call this the index.js. Let's call this welcome. What we'll do inside of the index we'll create a new HTML document and we can use the Emmet shortcut doing doc, and then do a tab, and we'll get our HTML template completely done for us.
 >
 > **[1:37](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=97)** What we could do after that is at a script tag, right here, inside of the body, you can add a script tag like that and leverage Emmet one more time. What we'll do is put the source as the index.js
 >
-> **[1:58](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=118)** and let's put a little title here so Javascript scope. And save all this and then let's do a console.log to validate that everything is working fine. Inside of our index, we'll do, Hello. Let's save that. Let's go to the index and do Shift + Command + p and type live, and click on Open Live Server. To bring up the developer tools in Chrome for Mac it's Command + Shift + i, and for [[Windows]] it's it's Control + Shift + i. Once you have that, let's take a look at the console, that's okay. Them we have our Hello, so this means that our server is working. If you wanna close the server all we have to do is click on the port below, here. If you wanna start it, usually you should have something to start it here. So let's stop it, now you have the go live. The first time you install the Live Server, it's a possibility that you're not going to see this here if you don't, simply do Shift + Command + p to bring up the commands inside of VS Code and then look for live and then open with Live Server and it's going to start your server again. Awesome, so now we're fully set up with Live Server and ready to learn how JavaScript scoping works.
+> **[1:58](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=118)** and let's put a little title here so Javascript scope. And save all this and then let's do a console.log to validate that everything is working fine. Inside of our index, we'll do, Hello. Let's save that. Let's go to the index and do Shift + Command + p and type live, and click on Open Live Server. To bring up the developer tools in Chrome for Mac it's Command + Shift + i, and for [Windows](../../Glossary/Service/Windows.md) it's it's Control + Shift + i. Once you have that, let's take a look at the console, that's okay. Them we have our Hello, so this means that our server is working. If you wanna close the server all we have to do is click on the port below, here. If you wanna start it, usually you should have something to start it here. So let's stop it, now you have the go live. The first time you install the Live Server, it's a possibility that you're not going to see this here if you don't, simply do Shift + Command + p to bring up the commands inside of VS Code and then look for live and then open with Live Server and it's going to start your server again. Awesome, so now we're fully set up with Live Server and ready to learn how JavaScript scoping works.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3), [[npm]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [HTML](../../Skills/Web%20Development/HTML.md) (3), [JavaScript](../../Skills/Software%20Development/JavaScript.md) (3), [npm](../../Skills/Web%20Development/npm.md) (1), [Windows](../../Glossary/Service/Windows.md) (1)
 > **UI Navigation:** go to (4), click on (4)
 > **Tools:** vs code (6), visual studio (1)
 > **Prerequisites:** install (4), set up (1)
@@ -125,7 +125,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/what-is-scope-in-javascript?u=76281980&t=0)** - [Instructor] For some, [[JavaScript]]'s code can be a bit intimidating but it's very simple. Put in its simplest terms, scope determines accessibility or visibility of the variable. Depending where and what type of scope we are using it will determine if your variable is available when you call it. Let's type some code to visualize what scope is. Let's remove the console log here and let's add a warrior, so var warrior = Ninja.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/what-is-scope-in-javascript?u=76281980&t=0)** - [Instructor] For some, [JavaScript](../../Skills/Software%20Development/JavaScript.md)'s code can be a bit intimidating but it's very simple. Put in its simplest terms, scope determines accessibility or visibility of the variable. Depending where and what type of scope we are using it will determine if your variable is available when you call it. Let's type some code to visualize what scope is. Let's remove the console log here and let's add a warrior, so var warrior = Ninja.
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-scope/what-is-scope-in-javascript?u=76281980&t=32)** Then let's create a function. We'll create a function with a const this time, and we'll call this one screamWarrior and we won't take any parameters. Inside of that function, we'll define another variable, warrior2 = Samurai. Then inside of the function, we'll console.log warrior and warrior2 and outside of the function definition we'll run the function and then we'll console.log the warrior1 or the warrior and warrior2 and you can save this. When you look into this code here, you have the warrior and the warrior2 variables defined, but because they are defined with different types, but also in different places, their scope or accessibility is different. I'm also using var in this example and we'll explore the differences between var, let and const in this course. But if you've been following most of my courses, and also using the latest JS syntax you've been using let and const and var is rarely used. Let and const are part of the block scope variables and we're introducing ES6, it is what most JS developers use nowadays. But it's important to get a glimpse in the past as well, as there is still lots of legacy code using var, and you need to understand their nuances. Related to scope, we'll also explore what closures are
 >
@@ -133,7 +133,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (1)
 > **Code Identifiers:** screamwarrior (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
@@ -157,11 +157,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/the-different-types-of-scope?u=76281980&t=0)** - [Instructor] In [[JavaScript]] there are a few different types of scope, local, global and block scope. We'll explore each one in depth with code examples but, in short, local scope is when a variable object or function is only available locally to a function, like the warrior2 variable. Like here. Then you have global scope. When variables, objects or functions are available to all. For example, our variable warrior1 or the function screamWarrior is defined and available in the global scope. Like this one here and the actual function here. Then you have blocks scope variables. Declare with let and const which are available within the innermost block they are surrounded by. So if we look at our current code, the warrior2 and newWarrior are block scope variables and are accessible in the block they are surrounded by. Like this one here. This one here and also this one here. This one is available in this block. This one is available in this block, so, in the whole file and the same for this one here. We'll cover later on what is the difference between the let and the const variable. We'll also explore all the types in depth over the course of the following chapters. We drive the point home and make sure you are absolutely comfortable with all these types.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/the-different-types-of-scope?u=76281980&t=0)** - [Instructor] In [JavaScript](../../Skills/Software%20Development/JavaScript.md) there are a few different types of scope, local, global and block scope. We'll explore each one in depth with code examples but, in short, local scope is when a variable object or function is only available locally to a function, like the warrior2 variable. Like here. Then you have global scope. When variables, objects or functions are available to all. For example, our variable warrior1 or the function screamWarrior is defined and available in the global scope. Like this one here and the actual function here. Then you have blocks scope variables. Declare with let and const which are available within the innermost block they are surrounded by. So if we look at our current code, the warrior2 and newWarrior are block scope variables and are accessible in the block they are surrounded by. Like this one here. This one here and also this one here. This one is available in this block. This one is available in this block, so, in the whole file and the same for this one here. We'll cover later on what is the difference between the let and the const variable. We'll also explore all the types in depth over the course of the following chapters. We drive the point home and make sure you are absolutely comfortable with all these types.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (1)
 > **Code Identifiers:** screamwarrior (1), newwarrior (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -171,7 +171,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980&t=0)** - [Instructor] Hoisting is often misunderstood so let's focus some time on this mysterious [[Microsoft Word|word]] and what does it mean. In short, hoisting is [[JavaScript]]'s behavior of moving all declarations to the top of its scope. When you declare a variable at the bottom of your file it will be hosted or moved to the top of its scope when the code is compiled. Let me demonstrate with some code. I'm gonna put some notes here so you understand what's happening. Let's remove the declaration here and simply define what warrior is here. We need to declare it somewhere. Warrior is defined here. Then, let's put a note here. And this is for closure, so I'm gonna write a note here for you guys. Wrap in a function now is a closure, there you go.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980&t=0)** - [Instructor] Hoisting is often misunderstood so let's focus some time on this mysterious [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) and what does it mean. In short, hoisting is [JavaScript](../../Skills/Software%20Development/JavaScript.md)'s behavior of moving all declarations to the top of its scope. When you declare a variable at the bottom of your file it will be hosted or moved to the top of its scope when the code is compiled. Let me demonstrate with some code. I'm gonna put some notes here so you understand what's happening. Let's remove the declaration here and simply define what warrior is here. We need to declare it somewhere. Warrior is defined here. Then, let's put a note here. And this is for closure, so I'm gonna write a note here for you guys. Wrap in a function now is a closure, there you go.
 >
 > **[0:56](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980&t=56)** Let's declare our warrior way below, down here. What I'm gonna do is leave those two here and then do a console.log for warrior and warrior3.
 >
@@ -181,7 +181,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (2), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -198,7 +198,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=0)** - [Narrator] Global variables are any functions, objects, variables that are declared outside of functions. And when we say global, we mean they are accessible throughout your file. And this is a good time to introduce the variable, lifetime. A term you may hear from time to time. The variable lifetime is when the variable is deleted after it has been declared. In the case of global variables, it is available when declared and deleted when the application is closed, in most case when the browser is closed. And for that reason, it is often not recommended to use global variables. Let's say for example you initialize a global variable with user data. This can be a [[Privacy]] or security issue. As someone could literally pull data from this variable in the browser. Two nuances to global variables. If you don't declare a variable and you assign a value to a variable inside of a function, it automatically becomes globally available. Another danger, it is always better to declare your variables. But if you use strict mode in [[JavaScript]], they won't be automatically global. Let's take a look at all this in code. Let's create a new variable that we'll call a warrior. And this one we'll use a const, and we'll create an object, that will hold properties for this warrior. So a name, Jujin Take. Let's give him a type. He's a ninja. Let's give him a weapon.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=0)** - [Narrator] Global variables are any functions, objects, variables that are declared outside of functions. And when we say global, we mean they are accessible throughout your file. And this is a good time to introduce the variable, lifetime. A term you may hear from time to time. The variable lifetime is when the variable is deleted after it has been declared. In the case of global variables, it is available when declared and deleted when the application is closed, in most case when the browser is closed. And for that reason, it is often not recommended to use global variables. Let's say for example you initialize a global variable with user data. This can be a [Privacy](../../Skills/Data%20Science/Privacy.md) or security issue. As someone could literally pull data from this variable in the browser. Two nuances to global variables. If you don't declare a variable and you assign a value to a variable inside of a function, it automatically becomes globally available. Another danger, it is always better to declare your variables. But if you use strict mode in [JavaScript](../../Skills/Software%20Development/JavaScript.md), they won't be automatically global. Let's take a look at all this in code. Let's create a new variable that we'll call a warrior. And this one we'll use a const, and we'll create an object, that will hold properties for this warrior. So a name, Jujin Take. Let's give him a type. He's a ninja. Let's give him a weapon.
 >
 > **[1:36](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=96)** And let's give him a shuriken. And finally let's give him some agility. And let's do 79. And let's correct a little typo we have here on the weapon. Awesome. Right now if we look at this guy here, well this guy is globally scoped. So it means that it is available all throughout this file, or the global scope. Now if we actually go to the function, this function is also global in scope. Because it is declared in the global scope here. It's not declared inside of a function, so this is global as well. Now let's remove that comment here. Let's define a variable without declaring it. We'll do warrior three, and put viking to it. If you look at this, this is the nuance of global scope. If we declare a variable here, if we do const, let, or var warrior two. This is locally scoped. But this is the nuance of global scope. If we actually do not use let, or const or var, when we're declaring this variable inside, it will automatically be globally scoped. So be very very careful with that and always declare your variables.
 >
@@ -208,7 +208,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (2), [Privacy](../../Skills/Data%20Science/Privacy.md) (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), means that (1)
@@ -291,13 +291,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980&t=0)** - [Instructor] Let's delve into [[JavaScript]] strict mode. This feature allows you to place your entire script or individual functions in a strict operating context. Let's find out what that means. Strict mode is a way to catch common coding issues and enforce stricter parsing and error handling in your JavaScript. By opting into strict mode, you can avoid silent errors and ensure you coded the errors to best practices. Using strict mode helps in multiple ways. It catches common coding mistakes and unsafe actions, such as assigning to undeclared variables. It prevents the use of keywords reserved for future JavaScript versions, and stop you from doing things that are generally considered bad practices. To enable strict mode, simply add use strict. So for example, in this function here, what will you need to do is add use strict like so. And then all these errors here would essentially be bad and would actually be notified. So if you create an unintendedGlobal, you would actually get an error here. If you console this, which basically refers to the window, it would get you an error. Or if you are deleting a variable, not allowed in strict mode, you would get an error here. Or if you're duplicating a parameter name, you would actually get these errors. So here, so param, param, and then you're using it,
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980&t=0)** - [Instructor] Let's delve into [JavaScript](../../Skills/Software%20Development/JavaScript.md) strict mode. This feature allows you to place your entire script or individual functions in a strict operating context. Let's find out what that means. Strict mode is a way to catch common coding issues and enforce stricter parsing and error handling in your JavaScript. By opting into strict mode, you can avoid silent errors and ensure you coded the errors to best practices. Using strict mode helps in multiple ways. It catches common coding mistakes and unsafe actions, such as assigning to undeclared variables. It prevents the use of keywords reserved for future JavaScript versions, and stop you from doing things that are generally considered bad practices. To enable strict mode, simply add use strict. So for example, in this function here, what will you need to do is add use strict like so. And then all these errors here would essentially be bad and would actually be notified. So if you create an unintendedGlobal, you would actually get an error here. If you console this, which basically refers to the window, it would get you an error. Or if you are deleting a variable, not allowed in strict mode, you would get an error here. Or if you're duplicating a parameter name, you would actually get these errors. So here, so param, param, and then you're using it,
 >
 > **[1:35](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980&t=95)** it would return something else. So in just a few minutes, you've learned how strict mode can make your JavaScript cleaner, more reliable, and more secure. Start using it today to avoid common pitfalls and enhance your coding standards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
@@ -308,17 +308,17 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/next-steps?u=76281980&t=0)** - [Emmanuel] Hopefully you've gained a bit more knowledge on what are [[JavaScript]] globals, local, and lexical variables and how to define and use them. Considering this subject has been an advanced one, the next step could be any JavaScript knowledge you may not have at this point. If you need more knowledge on any advanced JavaScript subjects, look for those subjects in our library. Thanks for taking my course, and I'll see you in a bit!
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/next-steps?u=76281980&t=0)** - [Emmanuel] Hopefully you've gained a bit more knowledge on what are [JavaScript](../../Skills/Software%20Development/JavaScript.md) globals, local, and lexical variables and how to define and use them. Considering this subject has been an advanced one, the next step could be any JavaScript knowledge you may not have at this point. If you need more knowledge on any advanced JavaScript subjects, look for those subjects in our library. Thanks for taking my course, and I'll see you in a bit!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (3)
 > **Speakers:** - [emmanuel] (1)
 
 
 ## Instructor
 
-- [[Emmanuel Henri]]
+- [Emmanuel Henri](../../Instructors/Web%20Development/Emmanuel%20Henri.md)
 
 ## Resources
 
@@ -330,22 +330,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Become a JavaScript Developer]]
-← [[Learning ECMAScript 6+ (ES6+)]] | **4 of 13** | [[JavaScript- Prototypes]] →
+### In [Become a JavaScript Developer](../../Paths/Network%20and%20System%20Administration/Learning%20Paths/Become%20a%20JavaScript%20Developer.md)
+← [Learning ECMAScript 6+ (ES6+)](../Web%20Development/Learning%20ECMAScript%206%2B%20(ES6%2B).md) | **4 of 13** | [JavaScript- Prototypes](JavaScript-%20Prototypes.md) →
 
 ## Appears In
 
-- [[Become a JavaScript Developer]]
+- [Become a JavaScript Developer](../../Paths/Network%20and%20System%20Administration/Learning%20Paths/Become%20a%20JavaScript%20Developer.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[End-to-End JavaScript Testing with Cypress.io]] — JavaScript
-- [[Learning JavaScript Debugging]] — JavaScript
-- [[Foundational JavaScript Security]] — JavaScript
-- [[JavaScript- Test-Driven Development (ES6)]] — JavaScript
-- [[JavaScript- Best Practices for Data]] — JavaScript
+- [End-to-End JavaScript Testing with Cypress.io](../Software%20Development/End-to-End%20JavaScript%20Testing%20with%20Cypress.io.md) — JavaScript
+- [Learning JavaScript Debugging](../Software%20Development/Learning%20JavaScript%20Debugging.md) — JavaScript
+- [Foundational JavaScript Security](../Software%20Development/Foundational%20JavaScript%20Security.md) — JavaScript
+- [JavaScript- Test-Driven Development (ES6)](../Software%20Development/JavaScript-%20Test-Driven%20Development%20(ES6).md) — JavaScript
+- [JavaScript- Best Practices for Data](../Software%20Development/JavaScript-%20Best%20Practices%20for%20Data.md) — JavaScript
 
 ---
 

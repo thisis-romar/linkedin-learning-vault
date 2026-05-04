@@ -20,6 +20,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Accessibility and Inclusion with Figma]]
-- [[Using Stark for Accessible Design Projects]]
-- [[Principle for UX Design]]
+- [Accessibility and Inclusion with Figma](../../Courses/Web%20Development/Accessibility%20and%20Inclusion%20with%20Figma.md)
+- [Using Stark for Accessible Design Projects](../../Courses/Web%20Development/Using%20Stark%20for%20Accessible%20Design%20Projects.md)
+- [Principle for UX Design](../../Courses/Web%20Development/Principle%20for%20UX%20Design.md)

@@ -15,11 +15,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGlG0YgmwssAg/learning-public-crop_675_1200/B4EZekETDxG4Ac-/0/1750804279820?e=2147483647&amp;v=beta&amp;t=zlceYtdAny40Zw3Ul1-XoOOMnh1E8G0YfJRICgHA4Yw"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+  - '[LinkedIn’s 2025 Top MBA Programs Learning Path](../../Paths/Data%20Science/Learning%20Paths/LinkedIn%E2%80%99s%202025%20Top%20MBA%20Programs%20Learning%20Path.md)'
 prev_courses:
-  - '[[Interpersonal Communication]]'
+  - '[Interpersonal Communication](../../Skills/Data%20Science/Interpersonal%20Communication.md)'
 next_courses:
-  - '[[Strategic Thinking]]'
+  - '[Strategic Thinking](../../Skills/Data%20Science/Strategic%20Thinking.md)'
 path_nav: '[{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":3,"total":10,"prev":"Interpersonal Communication","next":"Strategic Thinking"}]'
 path_count: 1
 tags:
@@ -58,7 +58,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[LinkedIn News]]
+- [LinkedIn News](../../Instructors/Data%20Science/LinkedIn%20News.md)
 
 ## Skills Covered
 
@@ -67,12 +67,12 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[LinkedIn’s 2025 Top MBA Programs Learning Path]]
-← [[Interpersonal Communication]] | **3 of 10** | [[Strategic Thinking]] →
+### In [LinkedIn’s 2025 Top MBA Programs Learning Path](../../Paths/Data%20Science/Learning%20Paths/LinkedIn%E2%80%99s%202025%20Top%20MBA%20Programs%20Learning%20Path.md)
+← [Interpersonal Communication](../../Skills/Data%20Science/Interpersonal%20Communication.md) | **3 of 10** | [Strategic Thinking](../../Skills/Data%20Science/Strategic%20Thinking.md) →
 
 ## Appears In
 
-- [[LinkedIn’s 2025 Top MBA Programs Learning Path]]
+- [LinkedIn’s 2025 Top MBA Programs Learning Path](../../Paths/Data%20Science/Learning%20Paths/LinkedIn%E2%80%99s%202025%20Top%20MBA%20Programs%20Learning%20Path.md)
 
 ---
 

@@ -15,11 +15,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGRLaOVaDrWFw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1593630205638?e=2147483647&amp;v=beta&amp;t=W8ok__3wON_o0CPpwslnQokOxWQmnNu_EWsx-3Pkr0w"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - '[[Managing your Career as a Developer]]'
+  - '[Managing your Career as a Developer](../../Paths/Cloud%20Computing/Learning%20Paths/Managing%20your%20Career%20as%20a%20Developer.md)'
 prev_courses:
-  - '[[Effective Listening (2019)]]'
+  - '[Effective Listening (2019)](Effective%20Listening%20(2019).md)'
 next_courses:
-  - '[[Building Resilience]]'
+  - '[Building Resilience](Building%20Resilience.md)'
 path_nav: '[{"path":"Managing your Career as a Developer","position":7,"total":8,"prev":"Effective Listening (2019)","next":"Building Resilience"}]'
 path_count: 1
 tags:
@@ -237,7 +237,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980&t=1)** - When you go to generate new ideas to run things better, you need to think critically about the way your business runs. I like to look at three things: a business model blowup, a revenue blowup, and a cost blowup. On the business model blowup, fundamentally rethink about how you go to market, even rethink what your market actually is. You're going to challenge the entire business model for the way you deliver [[Microsoft Products|products]] and services. On the revenue blowup side, how do you dramatically expand the products, your pricing, the geography, the reach of your business? And on the cost blowup, how do you fundamentally eliminate drag from the business, to become much more efficient? One company I hold up as an example of one that fundamentally blew up the business, blew up the cost, blew up the revenues is Skybus Airlines. If you think back several years ago, the way the airline industry functioned, everybody was the same. Tickets were all bundled. They had a similar operational model, and prices were pretty predictable. Along came Skybus and they said, "We're going to blow up the way all of this works." From now on, all meals were going to be paid for it individually. And people were going to stop subsidizing the meals of other passengers by paying for a bundled ticket. They said, "Don't call us. We're not going to have a call center." Call centers are very expensive to run. Skybus said, "We're going to do everything online."
+> **[0:01](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980&t=1)** - When you go to generate new ideas to run things better, you need to think critically about the way your business runs. I like to look at three things: a business model blowup, a revenue blowup, and a cost blowup. On the business model blowup, fundamentally rethink about how you go to market, even rethink what your market actually is. You're going to challenge the entire business model for the way you deliver [products](../../Skills/Software%20Development/Microsoft%20Products.md) and services. On the revenue blowup side, how do you dramatically expand the products, your pricing, the geography, the reach of your business? And on the cost blowup, how do you fundamentally eliminate drag from the business, to become much more efficient? One company I hold up as an example of one that fundamentally blew up the business, blew up the cost, blew up the revenues is Skybus Airlines. If you think back several years ago, the way the airline industry functioned, everybody was the same. Tickets were all bundled. They had a similar operational model, and prices were pretty predictable. Along came Skybus and they said, "We're going to blow up the way all of this works." From now on, all meals were going to be paid for it individually. And people were going to stop subsidizing the meals of other passengers by paying for a bundled ticket. They said, "Don't call us. We're not going to have a call center." Call centers are very expensive to run. Skybus said, "We're going to do everything online."
 >
 > **[1:35](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980&t=95)** It's a different customer service model. They said tickets aren't refundable. It costs a lot of money to rebook passengers. They said, "Once you buy it, it's done." The impact of all these changes Skybus made because they thought critically about the business model, was pretty tremendous. They were able to sell tickets for $10 or $20 each way. Sure, some of the tickets on the plane costs 200 as you got closer to the flight time, but their pricing model by unbundling everything, and by reducing their overall cost structure, allowed them to compete differently. I personally benefited. I took my entire family to California from Ohio for $200 total, each way. In the past, those tickets would have cost me thousands. Now, these changes that Skybus made were very radical and they were risky, and these risks won't always play out well for you. One day, I was teaching a class on how innovative Skybus was and I was talking about how great their business model was. When I got home that night, and I went to book some new tickets on Skybus, I was greeted by a splash screen that said they were out of business. Now, even though Skybus wasn't successful in the long-term, their critical thinking and looking at the business differently, altered the landscape. I'm sure if you fly today, you've noticed that pricing is unbundled.
 >
@@ -247,7 +247,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
@@ -312,7 +312,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/critical-thinking/consider-the-implications-of-answers-2?u=76281980&t=1)** - When you're trying to solve a problem, getting an answer isn't good enough. Think critically about the results of your analysis and what's coming back as far as your recommendations go. You should be looking for similarities or differences between the idea and the analytical answers that come out and other situations that you've been in. Are there common themes that you're seeing across multiple problems that you're trying to solve? Are some elements similar to other problems you've solved in the past? You should be asking about the relative size of the recommendation, once you've completed your analysis, does this even matter? If we solve this problem, will it have a big enough impact on the business for us to even care? And if not, even though it's a great idea, we should push it off to the side and focus on things that are more meaningful. You should also explore connections to other problems that you've had or other situations you've been in because that connection between two things that are seemingly unrelated may unlock a tremendous insight and give you an opportunity to take learnings from the past and apply them to a situation that seems very different, but is actually quite similar. Let me offer an example. At one point, I did some corporate strategy work and we were trying to figure out where should we take the business for the next 10 years. We were looking at things like, what new [[Microsoft Products|products]] should we launch?
+> **[0:01](https://www.linkedin.com/learning/critical-thinking/consider-the-implications-of-answers-2?u=76281980&t=1)** - When you're trying to solve a problem, getting an answer isn't good enough. Think critically about the results of your analysis and what's coming back as far as your recommendations go. You should be looking for similarities or differences between the idea and the analytical answers that come out and other situations that you've been in. Are there common themes that you're seeing across multiple problems that you're trying to solve? Are some elements similar to other problems you've solved in the past? You should be asking about the relative size of the recommendation, once you've completed your analysis, does this even matter? If we solve this problem, will it have a big enough impact on the business for us to even care? And if not, even though it's a great idea, we should push it off to the side and focus on things that are more meaningful. You should also explore connections to other problems that you've had or other situations you've been in because that connection between two things that are seemingly unrelated may unlock a tremendous insight and give you an opportunity to take learnings from the past and apply them to a situation that seems very different, but is actually quite similar. Let me offer an example. At one point, I did some corporate strategy work and we were trying to figure out where should we take the business for the next 10 years. We were looking at things like, what new [products](../../Skills/Software%20Development/Microsoft%20Products.md) should we launch?
 >
 > **[1:33](https://www.linkedin.com/learning/critical-thinking/consider-the-implications-of-answers-2?u=76281980&t=93)** What new businesses should we enter? Which new market segments should we pursue? Are there acquisitions we should be going after? And what we were able to do through all of that analysis was come up with not just an answer to how we decided to prioritize our efforts, but we also generated a process for thinking about how we were going to prioritize our resources and how we were going to think about entering markets, launching products, conducting acquisitions. Now, several years later, I was working with a technology team and that technology team had the challenge of a lot of projects that were all really great, but they didn't have the time or the resources to pursue all of them. And when we dug into the problem, when we did the analysis and we found out they had 37 different projects that were rated high, and 54 that were medium, and 200 enhancements that they were supposed to be doing. And when we really understood that the analysis was telling us that we weren't good at prioritizing, a little light bulb went off and said, wait, this is a prioritization problem. That strategy work I did in the past was also about prioritization of scarce resources. Are there things that these problems have in common that I can take from the strategy work and apply to the technology prioritization? And what was great was I was able to just dust off my strategy process, think about how it could apply to the technology portfolio,
 >
@@ -320,7 +320,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -335,7 +335,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980&t=1)** - It's great if you start using more critical [[Thinking Skills]]. It's even better if you can get your team to use them. There's some simple practices that you can put into place to help your team think more critically. First, teach them these tools. Teach them the five whys, the seven so what's, teach them about blowing up the business. Help them understand how to properly scope a problem. The more effectively you convey these tools to them, the more they're going to use them on a daily basis. Second, create opportunities for them to practice these tools. Let them know if they're going out to solve a problem that you expect them to apply these methods and come back to you with deliverables reflecting the use of these tools. Third, you'll need to coach your people on how they're using these tools. Don't get too focused on the analytical answers they come to you with. Yes, those are important, but also talk to them about how they got to those answers. Were they using the 80/20? Were they efficient in getting to those insights? Once they got those insights, did they come back up to the high road? And forth, hold them accountable to using these methods. If somebody comes to you with an analysis and they haven't thought through the consequences of the recommendation, you need to send them away with the direction
+> **[0:01](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980&t=1)** - It's great if you start using more critical [Thinking Skills](../../Skills/Data%20Science/Thinking%20Skills.md). It's even better if you can get your team to use them. There's some simple practices that you can put into place to help your team think more critically. First, teach them these tools. Teach them the five whys, the seven so what's, teach them about blowing up the business. Help them understand how to properly scope a problem. The more effectively you convey these tools to them, the more they're going to use them on a daily basis. Second, create opportunities for them to practice these tools. Let them know if they're going out to solve a problem that you expect them to apply these methods and come back to you with deliverables reflecting the use of these tools. Third, you'll need to coach your people on how they're using these tools. Don't get too focused on the analytical answers they come to you with. Yes, those are important, but also talk to them about how they got to those answers. Were they using the 80/20? Were they efficient in getting to those insights? Once they got those insights, did they come back up to the high road? And forth, hold them accountable to using these methods. If somebody comes to you with an analysis and they haven't thought through the consequences of the recommendation, you need to send them away with the direction
 >
 > **[1:34](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980&t=94)** to go think through the consequences and come back to you when they've thought it through. It's not always easy holding people accountable to using new tools and methods, but the more you do so, the more you're going to find they're thinking critically on their own. I learned these skills the hard way. I had an engagement manager at one point who was really hard on me in terms of critical thinking skills. Every time I went off and did an analysis and I went to talk to Dave about it, he'd asked me, "Well, why did you do this analysis? "And how did you do the analysis? "Why did you run those numbers you ran? "Why are you making this recommendation? "How does this recommendation tie to your problem statement? "What are the consequences of this recommendation "down the road?" And if I couldn't answer those questions to his satisfaction, his direction was, "I want you to go think about this, "come back this afternoon "when you've thought about it some more, "and then we'll talk about it." Those weren't fun conversations for me, but in a very short period of time, and I'm talking about two months of working with Dave every single day, my critical thinking skills got so much better because he told me what I should be focusing on, not just generating the answer, but about how I was doing my work. His ability to teach me these tools, create opportunities for me to practice them, his coaching of me on these methods, and then holding me accountable to using them
 >
@@ -343,7 +343,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thinking Skills]] (4)
+> **Frameworks & Libraries:** [Thinking Skills](../../Skills/Data%20Science/Thinking%20Skills.md) (4)
 > **CLI Commands:** find (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
@@ -371,13 +371,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=1)** - As you go to apply these critical [[Thinking Skills]] to your daily work, let me offer some suggestions on how you can get started. First, identify a specific problem that you're working on. Then break that big problem down into smaller, more solvable ones. Once you've done that, document all those findings into a clear and compelling problem statement. You should then look for new solutions. Once you have some solutions, focus on the meaningful. Then go and do your analysis, but think critically about the results. You should also build these approaches into your and your team's daily life. Don't just take an issue and run with it. Understand that everybody on the team should stop at that moment when we've defined a problem and really think through what are the implications of how we're defining it. Remove constraints to your thinking. If you find yourself saying, "Well, that's the way we've always done it," or "We can't do this because," those should be flags that you're locked in to your current thought processes. That's when you should step back and challenge that thinking. If you'd like some more information about these critical thinking skills, I encourage you to take a look at a couple of my other courses. One is Solving Business Problems, where I get into more of the tools related to the problem solving approach. Also, [[Decision-Making]] Fundamentals, helping you think through how you make decisions
+> **[0:01](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=1)** - As you go to apply these critical [Thinking Skills](../../Skills/Data%20Science/Thinking%20Skills.md) to your daily work, let me offer some suggestions on how you can get started. First, identify a specific problem that you're working on. Then break that big problem down into smaller, more solvable ones. Once you've done that, document all those findings into a clear and compelling problem statement. You should then look for new solutions. Once you have some solutions, focus on the meaningful. Then go and do your analysis, but think critically about the results. You should also build these approaches into your and your team's daily life. Don't just take an issue and run with it. Understand that everybody on the team should stop at that moment when we've defined a problem and really think through what are the implications of how we're defining it. Remove constraints to your thinking. If you find yourself saying, "Well, that's the way we've always done it," or "We can't do this because," those should be flags that you're locked in to your current thought processes. That's when you should step back and challenge that thinking. If you'd like some more information about these critical thinking skills, I encourage you to take a look at a couple of my other courses. One is Solving Business Problems, where I get into more of the tools related to the problem solving approach. Also, [Decision-Making](../../Skills/Data%20Science/Decision-Making.md) Fundamentals, helping you think through how you make decisions
 >
 > **[1:36](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=96)** and what the implications of those decisions might be. Other resources that are available are my work on critical thinking. I encourage you to take a look at our website, where I've got plenty of blog posts and articles on some of these tools and how you can apply them, as well as information about classroom courses that I teach on these methods. I'd like to thank you for your time and I wish you the best of luck as you apply these critical thinking skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thinking Skills]] (3), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [Thinking Skills](../../Skills/Data%20Science/Thinking%20Skills.md) (3), [Decision-Making](../../Skills/Data%20Science/Decision-Making.md) (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - as (1)
@@ -385,7 +385,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Mike Figliuolo]]
+- [Mike Figliuolo](../../Instructors/Data%20Science/Mike%20Figliuolo.md)
 
 ## Resources
 
@@ -398,22 +398,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Managing your Career as a Developer]]
-← [[Effective Listening (2019)]] | **7 of 8** | [[Building Resilience]] →
+### In [Managing your Career as a Developer](../../Paths/Cloud%20Computing/Learning%20Paths/Managing%20your%20Career%20as%20a%20Developer.md)
+← [Effective Listening (2019)](Effective%20Listening%20(2019).md) | **7 of 8** | [Building Resilience](Building%20Resilience.md) →
 
 ## Appears In
 
-- [[Managing your Career as a Developer]]
+- [Managing your Career as a Developer](../../Paths/Cloud%20Computing/Learning%20Paths/Managing%20your%20Career%20as%20a%20Developer.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Sharpen Your Decision-Making with Nuanced Thinking Techniques]] — Decision-Making, Critical Thinking
-- [[Inside The Mind Of An Aspiring Data Scientist]] — Critical Thinking
-- [[Strengthen Your Decision-Making with Generative AI]] — Decision-Making
-- [[Investing in Human Skills in the Age of AI]] — Critical Thinking
-- [[Decision Intelligence]] — Decision-Making
+- [Sharpen Your Decision-Making with Nuanced Thinking Techniques](../Data%20Science/Sharpen%20Your%20Decision-Making%20with%20Nuanced%20Thinking%20Techniques.md) — Decision-Making, Critical Thinking
+- [Inside The Mind Of An Aspiring Data Scientist](Inside%20The%20Mind%20Of%20An%20Aspiring%20Data%20Scientist.md) — Critical Thinking
+- [Strengthen Your Decision-Making with Generative AI](../Data%20Science/Strengthen%20Your%20Decision-Making%20with%20Generative%20AI.md) — Decision-Making
+- [Investing in Human Skills in the Age of AI](../Artificial%20Intelligence%20(AI)/Investing%20in%20Human%20Skills%20in%20the%20Age%20of%20AI.md) — Critical Thinking
+- [Decision Intelligence](../Data%20Science/Decision%20Intelligence.md) — Decision-Making
 
 ---
 

@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Skills for Inclusive Conversations]]
+- [Skills for Inclusive Conversations](../../Courses/Cloud%20Computing/Skills%20for%20Inclusive%20Conversations.md)

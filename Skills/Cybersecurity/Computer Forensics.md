@@ -22,18 +22,18 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Wireshark- Malware and Forensics]] — Intermediate · 2h 9m · 28,073 learners
-- [[Operating System Forensics]] — Intermediate · 1h 41m · 8,826 learners
+- [Wireshark- Malware and Forensics](../../Courses/Cybersecurity/Wireshark-%20Malware%20and%20Forensics.md) — Intermediate · 2h 9m · 28,073 learners
+- [Operating System Forensics](../../Courses/Cybersecurity/Operating%20System%20Forensics.md) — Intermediate · 1h 41m · 8,826 learners
 
 ## Related Skills
 
-- [[Wireshark]] — 1 shared course
-- [[Malware Detection]] — 1 shared course
+- [Wireshark](Wireshark.md) — 1 shared course
+- [Malware Detection](Malware%20Detection.md) — 1 shared course
 
 ## Mentioned In Transcripts _(90 total mentions)_
 
-1. [[Cybersecurity Foundations- Computer Forensics]] — 80 mentions
-2. [[Network Forensics]] — 4 mentions
-3. [[Operating System Forensics]] — 3 mentions
-4. [[Cybersecurity Awareness- Cybersecurity Terminology]] — 2 mentions
-5. [[Linux- Files and Permissions]] — 1 mentions
+1. [Cybersecurity Foundations- Computer Forensics](../../Courses/Cybersecurity/Cybersecurity%20Foundations-%20Computer%20Forensics.md) — 80 mentions
+2. [Network Forensics](Network%20Forensics.md) — 4 mentions
+3. [Operating System Forensics](../../Courses/Cybersecurity/Operating%20System%20Forensics.md) — 3 mentions
+4. [Cybersecurity Awareness- Cybersecurity Terminology](../../Courses/Cybersecurity/Cybersecurity%20Awareness-%20Cybersecurity%20Terminology.md) — 2 mentions
+5. [Linux- Files and Permissions](../../Courses/Network%20and%20System%20Administration/Linux-%20Files%20and%20Permissions.md) — 1 mentions

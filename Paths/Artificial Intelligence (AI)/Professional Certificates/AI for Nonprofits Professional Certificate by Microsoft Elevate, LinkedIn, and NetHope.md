@@ -17,11 +17,11 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]]'
+  - course: '[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope](../../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Ai%20In%20Your%20Nonprofit%20Role%20By%20Microsoft%20And%20Nethope.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]]'
+  - course: '[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope](../../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -36,17 +36,17 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]]
-2. [[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]] _(1h 13m)_
+1. [Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope](../../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Ai%20In%20Your%20Nonprofit%20Role%20By%20Microsoft%20And%20Nethope.md)
+2. [Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope](../../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.md) _(1h 13m)_
 
 ## Course Flow
 
-1. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] → 2. [[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]]
+1. [Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope](../../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Ai%20In%20Your%20Nonprofit%20Role%20By%20Microsoft%20And%20Nethope.md) → 2. [Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope](../../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

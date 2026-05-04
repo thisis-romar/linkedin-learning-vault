@@ -22,7 +22,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning React Native]]
-- [[Node.js- Design Patterns]]
-- [[Advanced Node.js]]
-- [[Advanced Node.js- Scaling Applications]]
+- [Learning React Native](../../Courses/Mobile%20Development/Learning%20React%20Native.md)
+- [Node.js- Design Patterns](../../Courses/Web%20Development/Node.js-%20Design%20Patterns.md)
+- [Advanced Node.js](../../Courses/Web%20Development/Advanced%20Node.js.md)
+- [Advanced Node.js- Scaling Applications](../../Courses/Web%20Development/Advanced%20Node.js-%20Scaling%20Applications.md)

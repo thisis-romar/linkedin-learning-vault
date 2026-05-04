@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Lean Technology Strategy- Starting Your Business Transformation]]
+- [Lean Technology Strategy- Starting Your Business Transformation](../../Courses/DevOps/Lean%20Technology%20Strategy-%20Starting%20Your%20Business%20Transformation.md)

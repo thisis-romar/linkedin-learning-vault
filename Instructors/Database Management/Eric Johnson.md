@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL Server 2022 Administration]]
+- [SQL Server 2022 Administration](../../Courses/Database%20Management/SQL%20Server%202022%20Administration.md)

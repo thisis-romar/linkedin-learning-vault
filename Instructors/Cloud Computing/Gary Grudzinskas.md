@@ -28,6 +28,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Dependency Mapping for Cloud Migration]]
-- [[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]]
-- [[Azure for Architects- Security and Identity Management with Microsoft Entra]]
+- [Dependency Mapping for Cloud Migration](../../Courses/Cloud%20Computing/Dependency%20Mapping%20for%20Cloud%20Migration.md)
+- [Azure Management Basics- Portal, PowerShell, Bicep, and CLI](../../Courses/Cloud%20Computing/Azure%20Management%20Basics-%20Portal%2C%20PowerShell%2C%20Bicep%2C%20and%20CLI.md)
+- [Azure for Architects- Security and Identity Management with Microsoft Entra](../../Courses/Cloud%20Computing/Azure%20for%20Architects-%20Security%20and%20Identity%20Management%20with%20Microsoft%20Entra.md)

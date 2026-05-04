@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]]
-- [[Cloud Security Architecture for the Enterprise]]
+- [Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security](../../Courses/Cloud%20Computing/Azure%20Developer%20Associate%20(AZ-204)%20Cert%20Prep-%20Implement%20Azure%20Security.md)
+- [Cloud Security Architecture for the Enterprise](../../Courses/Cloud%20Computing/Cloud%20Security%20Architecture%20for%20the%20Enterprise.md)

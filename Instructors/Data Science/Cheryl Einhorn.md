@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strengthen Your Decision-Making with Generative AI]]
+- [Strengthen Your Decision-Making with Generative AI](../../Courses/Data%20Science/Strengthen%20Your%20Decision-Making%20with%20Generative%20AI.md)

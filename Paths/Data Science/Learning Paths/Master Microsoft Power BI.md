@@ -17,27 +17,27 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Power BI- Working Together with ChatGPT]]'
+  - course: '[Power BI- Working Together with ChatGPT](../../../Courses/Data%20Science/Power%20BI-%20Working%20Together%20with%20ChatGPT.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Power BI Data Methods]]'
+  - course: '[Power BI Data Methods](../../../Courses/Data%20Science/Power%20BI%20Data%20Methods.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Power BI Dataflows Essential Training]]'
+  - course: '[Power BI Dataflows Essential Training](../../../Courses/Data%20Science/Power%20BI%20Dataflows%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Power BI Top Skills]]'
+  - course: '[Power BI Top Skills](../../../Courses/Data%20Science/Power%20BI%20Top%20Skills.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Power BI- Integrating AI]]'
+  - course: '[Power BI- Integrating AI](../../../Courses/Data%20Science/Power%20BI-%20Integrating%20AI.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]]'
+  - course: '[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals](../../../Courses/Data%20Science/Power%20BI%20Challenges-%2015%20Skills-Building%20Analytics%20Exercises%20for%20Data%20Professionals.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -52,29 +52,29 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Power BI- Working Together with ChatGPT]] _(53m)_
-2. [[Power BI Data Methods]] _(3h 12m)_
-3. [[Power BI Dataflows Essential Training]] _(1h 28m)_
-4. [[Power BI Top Skills]] _(48m)_
-5. [[Power BI- Integrating AI]] _(3h 34m)_
-6. [[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]] _(2h 3m)_
+1. [Power BI- Working Together with ChatGPT](../../../Courses/Data%20Science/Power%20BI-%20Working%20Together%20with%20ChatGPT.md) _(53m)_
+2. [Power BI Data Methods](../../../Courses/Data%20Science/Power%20BI%20Data%20Methods.md) _(3h 12m)_
+3. [Power BI Dataflows Essential Training](../../../Courses/Data%20Science/Power%20BI%20Dataflows%20Essential%20Training.md) _(1h 28m)_
+4. [Power BI Top Skills](../../../Courses/Data%20Science/Power%20BI%20Top%20Skills.md) _(48m)_
+5. [Power BI- Integrating AI](../../../Courses/Data%20Science/Power%20BI-%20Integrating%20AI.md) _(3h 34m)_
+6. [Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals](../../../Courses/Data%20Science/Power%20BI%20Challenges-%2015%20Skills-Building%20Analytics%20Exercises%20for%20Data%20Professionals.md) _(2h 3m)_
 
 ## Course Flow
 
-1. [[Power BI- Working Together with ChatGPT]] → 2. [[Power BI Data Methods]] → 3. [[Power BI Dataflows Essential Training]] → 4. [[Power BI Top Skills]] → 5. [[Power BI- Integrating AI]] → 6. [[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]]
+1. [Power BI- Working Together with ChatGPT](../../../Courses/Data%20Science/Power%20BI-%20Working%20Together%20with%20ChatGPT.md) → 2. [Power BI Data Methods](../../../Courses/Data%20Science/Power%20BI%20Data%20Methods.md) → 3. [Power BI Dataflows Essential Training](../../../Courses/Data%20Science/Power%20BI%20Dataflows%20Essential%20Training.md) → 4. [Power BI Top Skills](../../../Courses/Data%20Science/Power%20BI%20Top%20Skills.md) → 5. [Power BI- Integrating AI](../../../Courses/Data%20Science/Power%20BI-%20Integrating%20AI.md) → 6. [Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals](../../../Courses/Data%20Science/Power%20BI%20Challenges-%2015%20Skills-Building%20Analytics%20Exercises%20for%20Data%20Professionals.md)
 
 ## Topics
 
-- [[Data Science]]
+- [Data Science](../../../Topics/Data%20Science.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Master Dashboards and Data Viz in Power BI]] (2 shared courses)
-- [[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]] (1 shared courses)
-- [[Become a Business Intelligence Specialist]] (1 shared courses)
+- [Master Dashboards and Data Viz in Power BI](Master%20Dashboards%20and%20Data%20Viz%20in%20Power%20BI.md) (2 shared courses)
+- [Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation](Introduction%20to%20Fundamental%20Skills%20for%20Data%20Work-%20Data%20Analysis%20and%20Interpretation.md) (1 shared courses)
+- [Become a Business Intelligence Specialist](Become%20a%20Business%20Intelligence%20Specialist.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

@@ -17,23 +17,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Cybersecurity Foundations]]'
+  - course: '[Cybersecurity Foundations](../../../Courses/Cybersecurity/Cybersecurity%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[The Cybersecurity Threat Landscape]]'
+  - course: '[The Cybersecurity Threat Landscape](../../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning the OWASP Top 10]]'
+  - course: '[Learning the OWASP Top 10](../../../Courses/Cybersecurity/Learning%20the%20OWASP%20Top%2010.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Cybersecurity Careers and Certifications]]'
+  - course: '[Cybersecurity Careers and Certifications](../../../Courses/Cybersecurity/Cybersecurity%20Careers%20and%20Certifications.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Land Your First Cybersecurity Job]]'
+  - course: '[Land Your First Cybersecurity Job](../../../Courses/Cybersecurity/Land%20Your%20First%20Cybersecurity%20Job.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -48,30 +48,30 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Cybersecurity Foundations]]
-2. [[The Cybersecurity Threat Landscape]]
-3. [[Learning the OWASP Top 10]] _(35m)_
-4. [[Cybersecurity Careers and Certifications]] _(2h 18m)_
-5. [[Land Your First Cybersecurity Job]] _(48m)_
+1. [Cybersecurity Foundations](../../../Courses/Cybersecurity/Cybersecurity%20Foundations.md)
+2. [The Cybersecurity Threat Landscape](../../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)
+3. [Learning the OWASP Top 10](../../../Courses/Cybersecurity/Learning%20the%20OWASP%20Top%2010.md) _(35m)_
+4. [Cybersecurity Careers and Certifications](../../../Courses/Cybersecurity/Cybersecurity%20Careers%20and%20Certifications.md) _(2h 18m)_
+5. [Land Your First Cybersecurity Job](../../../Courses/Cybersecurity/Land%20Your%20First%20Cybersecurity%20Job.md) _(48m)_
 
 ## Course Flow
 
-1. [[Cybersecurity Foundations]] → 2. [[The Cybersecurity Threat Landscape]] → 3. [[Learning the OWASP Top 10]] → 4. [[Cybersecurity Careers and Certifications]] → 5. [[Land Your First Cybersecurity Job]]
+1. [Cybersecurity Foundations](../../../Courses/Cybersecurity/Cybersecurity%20Foundations.md) → 2. [The Cybersecurity Threat Landscape](../../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md) → 3. [Learning the OWASP Top 10](../../../Courses/Cybersecurity/Learning%20the%20OWASP%20Top%2010.md) → 4. [Cybersecurity Careers and Certifications](../../../Courses/Cybersecurity/Cybersecurity%20Careers%20and%20Certifications.md) → 5. [Land Your First Cybersecurity Job](../../../Courses/Cybersecurity/Land%20Your%20First%20Cybersecurity%20Job.md)
 
 ## Topics
 
-- [[Cybersecurity]]
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Navigating the Cybersecurity Threat Landscape]] (2 shared courses)
-- [[Career Essentials in Cybersecurity by Microsoft and LinkedIn]] (2 shared courses)
-- [[Explore Cybersecurity Careers]] (2 shared courses)
-- [[Starting Your Career in Tech- Cybersecurity]] (2 shared courses)
-- [[Explore a Career in Application Security]] (1 shared courses)
+- [Navigating the Cybersecurity Threat Landscape](Navigating%20the%20Cybersecurity%20Threat%20Landscape.md) (2 shared courses)
+- [Career Essentials in Cybersecurity by Microsoft and LinkedIn](../Professional%20Certificates/Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.md) (2 shared courses)
+- [Explore Cybersecurity Careers](../../Cloud%20Computing/Learning%20Paths/Explore%20Cybersecurity%20Careers.md) (2 shared courses)
+- [Starting Your Career in Tech- Cybersecurity](../../Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20Cybersecurity.md) (2 shared courses)
+- [Explore a Career in Application Security](Explore%20a%20Career%20in%20Application%20Security.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cybersecurity]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cybersecurity](../../../Topics/Cybersecurity.md)

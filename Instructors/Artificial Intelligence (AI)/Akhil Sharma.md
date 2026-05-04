@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]]
+- [Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents](../../Courses/Artificial%20Intelligence%20(AI)/Fine-Tuning%20LLMs%20for%20Cybersecurity-%20Mistral%2C%20Llama%2C%20AutoTrain%2C%20AutoGen%2C%20and%20LLM%20Agents.md)

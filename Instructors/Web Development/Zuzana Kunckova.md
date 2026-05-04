@@ -20,6 +20,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building RESTful APIs in Laravel]]
-- [[Essential Jigsaw for PHP and Laravel Developers]]
-- [[Essential Statamic for PHP and Laravel Developers]]
+- [Building RESTful APIs in Laravel](../../Courses/Web%20Development/Building%20RESTful%20APIs%20in%20Laravel.md)
+- [Essential Jigsaw for PHP and Laravel Developers](../../Courses/Web%20Development/Essential%20Jigsaw%20for%20PHP%20and%20Laravel%20Developers.md)
+- [Essential Statamic for PHP and Laravel Developers](../../Courses/Web%20Development/Essential%20Statamic%20for%20PHP%20and%20Laravel%20Developers.md)

@@ -24,7 +24,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leading with Innovation in the Age of AI]]
-- [[Digital Strategy]]
-- [[Artificial Intelligence and Business Strategy]]
-- [[Artificial Intelligence Case Studies in Different Business Industries]]
+- [Leading with Innovation in the Age of AI](../../Courses/Artificial%20Intelligence%20(AI)/Leading%20with%20Innovation%20in%20the%20Age%20of%20AI.md)
+- [Digital Strategy](../../Courses/Cloud%20Computing/Digital%20Strategy.md)
+- [Artificial Intelligence and Business Strategy](../../Courses/Cloud%20Computing/Artificial%20Intelligence%20and%20Business%20Strategy.md)
+- [Artificial Intelligence Case Studies in Different Business Industries](../../Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Case%20Studies%20in%20Different%20Business%20Industries.md)

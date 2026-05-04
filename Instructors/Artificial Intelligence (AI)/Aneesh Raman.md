@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Investing in Human Skills in the Age of AI]]
+- [Investing in Human Skills in the Age of AI](../../Courses/Artificial%20Intelligence%20(AI)/Investing%20in%20Human%20Skills%20in%20the%20Age%20of%20AI.md)

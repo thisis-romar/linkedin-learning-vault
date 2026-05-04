@@ -19,14 +19,14 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF6IUEHzKfKnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696012674652?e=2147483647&amp;v=beta&amp;t=iJrbkmm8miD8Y602D7B4KgnjvnMk3PhOmyfSIhBEneA"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - '[[Understanding Generative AI for Tech Leaders]]'
-  - '[[Advance Your Skills in AI and Machine Learning]]'
+  - '[Understanding Generative AI for Tech Leaders](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Understanding%20Generative%20AI%20for%20Tech%20Leaders.md)'
+  - '[Advance Your Skills in AI and Machine Learning](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20Skills%20in%20AI%20and%20Machine%20Learning.md)'
 prev_courses:
-  - '[[Generative AI Approaches to Business Challenges]]'
-  - '[[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]]'
+  - '[Generative AI Approaches to Business Challenges](Generative%20AI%20Approaches%20to%20Business%20Challenges.md)'
+  - '[AI Workshop- Hands-on with GANs with Deep Convolutional Networks](AI%20Workshop-%20Hands-on%20with%20GANs%20with%20Deep%20Convolutional%20Networks.md)'
 next_courses:
-  - '[[Understanding Generative AI in Cloud Computing- Services and Use Cases]]'
-  - '[[MLOps Essentials- Model Development and Integration]]'
+  - '[Understanding Generative AI in Cloud Computing- Services and Use Cases](Understanding%20Generative%20AI%20in%20Cloud%20Computing-%20Services%20and%20Use%20Cases.md)'
+  - '[MLOps Essentials- Model Development and Integration](MLOps%20Essentials-%20Model%20Development%20and%20Integration.md)'
 path_nav: '[{"path":"Understanding Generative AI for Tech Leaders","position":8,"total":22,"prev":"Generative AI Approaches to Business Challenges","next":"Understanding Generative AI in Cloud Computing- Services and Use Cases"},{"path":"Advance Your Skills in AI and Machine Learning","position":9,"total":16,"prev":"AI Workshop- Hands-on with GANs with Deep Convolutional Networks","next":"MLOps Essentials- Model Development and Integration"}]'
 path_count: 2
 tags:
@@ -70,11 +70,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-aiops/exploring-aiops?u=76281980&t=0)** - [[AIOps]] is a [[Microsoft Word|word]] you'll start hearing a lot, both now and in the future, and for good reason. [[Artificial Intelligence (AI)|Artificial intelligence]] for ITOps will drastically change the IT operations landscape by adding new functionality to existing models and optimize all the computer systems we have around us today. For this course, I've invited two AIOps experts to help me explore what AI ops means, both in terms of definition and in terms of how it manifests in the real world. Let's get cracking.
+> **[0:00](https://www.linkedin.com/learning/exploring-aiops/exploring-aiops?u=76281980&t=0)** - [AIOps](../../Skills/Artificial%20Intelligence%20(AI)/AIOps.md) is a [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) you'll start hearing a lot, both now and in the future, and for good reason. [Artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) for ITOps will drastically change the IT operations landscape by adding new functionality to existing models and optimize all the computer systems we have around us today. For this course, I've invited two AIOps experts to help me explore what AI ops means, both in terms of definition and in terms of how it manifests in the real world. Let's get cracking.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AIOps]] (2), [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [AIOps](../../Skills/Artificial%20Intelligence%20(AI)/AIOps.md) (2), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1), [Artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - aiops (1)
 
@@ -87,7 +87,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-aiops/aiops-defined?u=76281980&t=0)** - Along with new technologies, we get new terms and definitions describing specific uses of that technology. AI is no different. And as new uses of AI come to the forefront, so do new names for those uses. Case in point, [[AIOps]], a term you'll hear in IT circles, if you haven't already. What is AIOps? Based on the established naming convention of [[DevOps]], ITOps, BizOps, et cetera, which translate to development operations, IT operations, and [[Business Operations]], respectively, you'd assume AIOps stood for AI operations, right? Not so much. AIOps as a term was originally introduced by Gartner and it has the following formal definition. AIOps combines [[Big Data]] and machine learning to automate IT operations processes, including event correlation, anomaly detection, and causality determination. So AIOps is short for AI, as in [[Artificial Intelligence (AI)|artificial intelligence]], for ITOps. What does that mean? Here's Priya Mohan with a useful analogy.
+> **[0:00](https://www.linkedin.com/learning/exploring-aiops/aiops-defined?u=76281980&t=0)** - Along with new technologies, we get new terms and definitions describing specific uses of that technology. AI is no different. And as new uses of AI come to the forefront, so do new names for those uses. Case in point, [AIOps](../../Skills/Artificial%20Intelligence%20(AI)/AIOps.md), a term you'll hear in IT circles, if you haven't already. What is AIOps? Based on the established naming convention of [DevOps](../../Topics/DevOps.md), ITOps, BizOps, et cetera, which translate to development operations, IT operations, and [Business Operations](../../Skills/Data%20Science/Business%20Operations.md), respectively, you'd assume AIOps stood for AI operations, right? Not so much. AIOps as a term was originally introduced by Gartner and it has the following formal definition. AIOps combines [Big Data](../../Skills/Data%20Science/Big%20Data.md) and machine learning to automate IT operations processes, including event correlation, anomaly detection, and causality determination. So AIOps is short for AI, as in [artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md), for ITOps. What does that mean? Here's Priya Mohan with a useful analogy.
 >
 > **[1:03](https://www.linkedin.com/learning/exploring-aiops/aiops-defined?u=76281980&t=63)** - Think about how you have these smart homes with those smart thermostats, right? Usually, smart homes have thermostats with auto option. What that does is that it would not go below a certain temperature and not go above a certain temperature. It's very similar to that.
 >
@@ -95,7 +95,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AIOps]] (9), [[DevOps]] (1), [[Business Operations]] (1), [[Big Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [AIOps](../../Skills/Artificial%20Intelligence%20(AI)/AIOps.md) (9), [DevOps](../../Topics/DevOps.md) (1), [Business Operations](../../Skills/Data%20Science/Business%20Operations.md) (1), [Big Data](../../Skills/Data%20Science/Big%20Data.md) (1), [Artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) (1)
 > **Speakers:** - along (1), - think (1), - in (1)
 > **Definitions:** short for (1)
 > **Analogies:** similar to (1)
@@ -104,7 +104,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=0)** - Having a definition is a good starting point, but with complex multi-domain concepts like [[AIOps]], it's useful to build our understanding on real-world examples. So I called up some experts.
+> **[0:00](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=0)** - Having a definition is a good starting point, but with complex multi-domain concepts like [AIOps](../../Skills/Artificial%20Intelligence%20(AI)/AIOps.md), it's useful to build our understanding on real-world examples. So I called up some experts.
 >
 > **[0:12](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=12)** - And the main goal of AIOps are to automate routine tasks.
 >
@@ -112,21 +112,21 @@ created: 2026-05-03
 >
 > **[0:24](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=24)** - This include automating tasks that are mundane operation tasks like freeing up IT personnel to focus on more strategic and high volume activities. It could also mean analyzing modern IT infrastructure that generate vast amount of data, and then AIOps can quickly sift through those data and find the relevant insights.
 >
-> **[0:45](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=45)** - So the idea of AIOps is to leverage the power of AI to do the kind of automation, monitoring, and [[Big Data]] evaluation tasks that humans technically can do, but are not the best at doing because it's repetitive or requires your undivided focused attention at all times or involves processing massive amounts of data and detecting patterns in that data on a continuous basis. Take Priya's earlier example of a smart home thermostat. While a standard thermostat monitors the temperature in the room and reacts in real time, a smart thermostat can monitor the temperature fluctuations in the room over time and then detect patterns like if the temperature rises steadily from 20 degrees Celsius to 22 degrees Celsius over a 30 minute period, it will continue to rise to the 24 degrees setting within the next hour, so the air conditioner should be turned on ahead of time at 22 degrees to keep the temperature at 24 degrees. This example translates directly to AIOps. Here's Priya again.
+> **[0:45](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=45)** - So the idea of AIOps is to leverage the power of AI to do the kind of automation, monitoring, and [Big Data](../../Skills/Data%20Science/Big%20Data.md) evaluation tasks that humans technically can do, but are not the best at doing because it's repetitive or requires your undivided focused attention at all times or involves processing massive amounts of data and detecting patterns in that data on a continuous basis. Take Priya's earlier example of a smart home thermostat. While a standard thermostat monitors the temperature in the room and reacts in real time, a smart thermostat can monitor the temperature fluctuations in the room over time and then detect patterns like if the temperature rises steadily from 20 degrees Celsius to 22 degrees Celsius over a 30 minute period, it will continue to rise to the 24 degrees setting within the next hour, so the air conditioner should be turned on ahead of time at 22 degrees to keep the temperature at 24 degrees. This example translates directly to AIOps. Here's Priya again.
 >
 > **[1:48](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=108)** - One of the scenarios would be energy-efficient data center management. So for example, let's say we have a data center, and it consumes vast amount of electricity, of course, right? You have all of these servers, switches, and routers and all of these things in a data center. Cooling these data centers is one of the significant challenges that it can be energy intensive. So reducing the energy consumption of data centers without compromising performance can significantly decrease the carbon footprint. So in order to achieve that, we would use AIOps. We would collect data sensors throughout the data centers, measure temperature, humidity, like server loads, energy consumption. And this data is collected. And what happens is that when we implement an AIOps tool, it detects anomalies. Machine learning basically monitors the data for anomalies, and if there's any server racks, for example, are overheating or using more energy than usual, then the system can automatically identify this.
 >
 > **[2:50](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=170)** - What Priya describes here is very much that scenario where an AI takes over the tasks humans have been doing and completes those tasks better and more efficiently than humans, which sounds concerning until you start looking at what that work actually entails. Here's Kumaran Ponnambalam, principal engineer for AI at Outshift by Cisco to elaborate.
 >
-> **[3:12](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=192)** - There are two areas you can look at it. One is essentially all the logging and tracing that happens across all services, [[Hardware]], software, and there's tons of logs that have been collected by the IT teams. So what essentially we can do, what AI does is look at these logs to identify if there are any possible issues happening, any anomalies happening, and this is with regard to both the system performance, as well as from the security aspect, and then create alerts that there is a problem that is possibly happening here. The second level is that it does as root cause analysis as to why the problem could be happening, trying to point out that the problem is happening because here might be a problem in this specific server or this specific instance. So the IT team can drill down pretty quickly and solve the problem.
+> **[3:12](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=192)** - There are two areas you can look at it. One is essentially all the logging and tracing that happens across all services, [Hardware](../../Topics/Hardware.md), software, and there's tons of logs that have been collected by the IT teams. So what essentially we can do, what AI does is look at these logs to identify if there are any possible issues happening, any anomalies happening, and this is with regard to both the system performance, as well as from the security aspect, and then create alerts that there is a problem that is possibly happening here. The second level is that it does as root cause analysis as to why the problem could be happening, trying to point out that the problem is happening because here might be a problem in this specific server or this specific instance. So the IT team can drill down pretty quickly and solve the problem.
 >
-> **[4:07](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=247)** - So AI isn't so much replacing IT people in their jobs as it is assisting them in their work and helping them perform tasks and analyze data in ways that would otherwise be time consuming, error-prone, even impossible. Another place AIOps can make a big difference is in the intersection between IT operations and the [[Representational State Transfer (REST)|rest]] of the enterprise.
+> **[4:07](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=247)** - So AI isn't so much replacing IT people in their jobs as it is assisting them in their work and helping them perform tasks and analyze data in ways that would otherwise be time consuming, error-prone, even impossible. Another place AIOps can make a big difference is in the intersection between IT operations and the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the enterprise.
 >
 > **[4:28](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=268)** - Another area it is pretty helpful is kind of where the IT team helps the other folks in a given enterprise, like, you know, in terms of providing knowledge basis or knowledge support. So rather than having an IT person helping you all the time, you can actually talk to like a chat bot to ask questions around, you know, I'm having this thing going on with my laptop or desktop, and that a chatbot can also help with, you know, in solving the problem before you get to a live agent.
 >
-> **[4:58](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=298)** - So think the assistance you can get right now from [[ChatGPT]] and Bing and Bard specifically trained and configured to help you with your enterprise system and your enterprise data. In other words, even if you don't work in IT, there's a good chance you'll be interfacing with AIOps in the near future through an AIOps support assistant. This type of AI assistance for ITOps is what's available right now today, which begs the question, what's next? What's on the AIOps horizon? Here's Kumaran with some projections.
+> **[4:58](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=298)** - So think the assistance you can get right now from [ChatGPT](../../Skills/Artificial%20Intelligence%20(AI)/ChatGPT.md) and Bing and Bard specifically trained and configured to help you with your enterprise system and your enterprise data. In other words, even if you don't work in IT, there's a good chance you'll be interfacing with AIOps in the near future through an AIOps support assistant. This type of AI assistance for ITOps is what's available right now today, which begs the question, what's next? What's on the AIOps horizon? Here's Kumaran with some projections.
 >
-> **[5:30](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=330)** - Where it is going to go to pretty soon is essentially with [[Generative AI]] coming in with the kind of [[Large Language Models (LLM)|large language models]] coming in. They have a lot more power in terms of reading all this complex information that is being generated and be able to like summarize information. Like I can look at the logs when an incident happens and create an incident report, or I can look at all the tickets that are going on, you know, on a ticketing application and be able to come up with, again. summaries, create knowledge basis out of it, when a new incident happened, look at the previous tickets and figure out if the solution already exists and pull it out and give it to the person who created the incident. Another area that's also coming up with automatic deployments and automatic configuration, can it actually configure a network router? Can it actually configure an application automatically without a lot of human intervention? So that's also in what we call today codepilots or copilots. So it's pretty much in the same area that it can create configuration for you based on your requirement.
+> **[5:30](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=330)** - Where it is going to go to pretty soon is essentially with [Generative AI](../../Skills/Artificial%20Intelligence%20(AI)/Generative%20AI.md) coming in with the kind of [large language models](../../Skills/Artificial%20Intelligence%20(AI)/Large%20Language%20Models%20(LLM).md) coming in. They have a lot more power in terms of reading all this complex information that is being generated and be able to like summarize information. Like I can look at the logs when an incident happens and create an incident report, or I can look at all the tickets that are going on, you know, on a ticketing application and be able to come up with, again. summaries, create knowledge basis out of it, when a new incident happened, look at the previous tickets and figure out if the solution already exists and pull it out and give it to the person who created the incident. Another area that's also coming up with automatic deployments and automatic configuration, can it actually configure a network router? Can it actually configure an application automatically without a lot of human intervention? So that's also in what we call today codepilots or copilots. So it's pretty much in the same area that it can create configuration for you based on your requirement.
 >
 > **[6:44](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=404)** - Based on this, one thing is pretty clear, AIOps is changing the world of IT professionals in significant ways. And as the wave of AI pushes forward, IT workers need to figure out ways to ride that wave, so they can stay ahead. A big part of that process is getting the whole organization on board and making the case for AIOps as an investment. Priya has some ideas on how to get that process started.
 >
@@ -148,11 +148,11 @@ created: 2026-05-03
 >
 > **[14:42](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=882)** in a different time zone, then it may cause unintentional bias that it may think that at a certain time, you know, these certain functions don't happen. So if they don't happen in a different country, that's because of the time difference, it may, you know, not detect them as anomalies. You want to make sure that the data that we feed into the system are representative of the entire population where we expect to deploy these AIOps systems. That's just a quick example. And of course, we could have all different sorts of biases like confirmation bias. IT teams may lean heavily on AIOps recommendations without even questioning them.
 >
-> **[15:27](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=927)** - So, as with all the other technology we surround ourselves with in our modern world, AIOps was invented to help us do the things a computer can do so we humans can do the things we humans are good at doing like building newer and better AIOps tools, add human judgment and business sense to critical decision making, and make sure the tools we use are ethical and enable us to build ethical IT and business practices, [[Artificial Intelligence (AI)|artificial intelligence]] for IT operations.
+> **[15:27](https://www.linkedin.com/learning/exploring-aiops/how-aiops-works-in-the-real-world?u=76281980&t=927)** - So, as with all the other technology we surround ourselves with in our modern world, AIOps was invented to help us do the things a computer can do so we humans can do the things we humans are good at doing like building newer and better AIOps tools, add human judgment and business sense to critical decision making, and make sure the tools we use are ethical and enable us to build ethical IT and business practices, [artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) for IT operations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AIOps]] (30), [[Big Data]] (1), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [AIOps](../../Skills/Artificial%20Intelligence%20(AI)/AIOps.md) (30), [Big Data](../../Skills/Data%20Science/Big%20Data.md) (1), [Hardware](../../Topics/Hardware.md) (1), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1), [ChatGPT](../../Skills/Artificial%20Intelligence%20(AI)/ChatGPT.md) (1)
 > **Speakers:** - so (4), - and (2), - this (2), - aiops (2), - having (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (4), in other words (1), is an  (1)
@@ -164,7 +164,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Morten Rand-Hendriksen]]
+- [Morten Rand-Hendriksen](../../Instructors/Web%20Development/Morten%20Rand-Hendriksen.md)
 
 ## Skills Covered
 
@@ -175,26 +175,26 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Understanding Generative AI for Tech Leaders]]
-← [[Generative AI Approaches to Business Challenges]] | **8 of 22** | [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] →
+### In [Understanding Generative AI for Tech Leaders](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Understanding%20Generative%20AI%20for%20Tech%20Leaders.md)
+← [Generative AI Approaches to Business Challenges](Generative%20AI%20Approaches%20to%20Business%20Challenges.md) | **8 of 22** | [Understanding Generative AI in Cloud Computing- Services and Use Cases](Understanding%20Generative%20AI%20in%20Cloud%20Computing-%20Services%20and%20Use%20Cases.md) →
 
-### In [[Advance Your Skills in AI and Machine Learning]]
-← [[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]] | **9 of 16** | [[MLOps Essentials- Model Development and Integration]] →
+### In [Advance Your Skills in AI and Machine Learning](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20Skills%20in%20AI%20and%20Machine%20Learning.md)
+← [AI Workshop- Hands-on with GANs with Deep Convolutional Networks](AI%20Workshop-%20Hands-on%20with%20GANs%20with%20Deep%20Convolutional%20Networks.md) | **9 of 16** | [MLOps Essentials- Model Development and Integration](MLOps%20Essentials-%20Model%20Development%20and%20Integration.md) →
 
 ## Appears In
 
-- [[Understanding Generative AI for Tech Leaders]]
-- [[Advance Your Skills in AI and Machine Learning]]
+- [Understanding Generative AI for Tech Leaders](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Understanding%20Generative%20AI%20for%20Tech%20Leaders.md)
+- [Advance Your Skills in AI and Machine Learning](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20Skills%20in%20AI%20and%20Machine%20Learning.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[GenAIOps Foundations]] — Artificial Intelligence (AI), AIOps
-- [[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]] — Artificial Intelligence (AI)
-- [[Exploring the Future of Development with GitHub Copilot Workspace]] — Artificial Intelligence (AI)
-- [[Big Data in the Age of AI]] — Artificial Intelligence (AI)
-- [[Complete Guide to Excel Statistics with Copilot]] — Artificial Intelligence (AI)
+- [GenAIOps Foundations](GenAIOps%20Foundations.md) — Artificial Intelligence (AI), AIOps
+- [Creating a Book Search Engine from Scratch Using Java and GitHub Copilot](Creating%20a%20Book%20Search%20Engine%20from%20Scratch%20Using%20Java%20and%20GitHub%20Copilot.md) — Artificial Intelligence (AI)
+- [Exploring the Future of Development with GitHub Copilot Workspace](Exploring%20the%20Future%20of%20Development%20with%20GitHub%20Copilot%20Workspace.md) — Artificial Intelligence (AI)
+- [Big Data in the Age of AI](../Data%20Science/Big%20Data%20in%20the%20Age%20of%20AI.md) — Artificial Intelligence (AI)
+- [Complete Guide to Excel Statistics with Copilot](../Data%20Science/Complete%20Guide%20to%20Excel%20Statistics%20with%20Copilot.md) — Artificial Intelligence (AI)
 
 ---
 

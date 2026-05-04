@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Use Your Strengths For Impact And Influence At Work]] — 75,265 learners
+- [Use Your Strengths For Impact And Influence At Work](../../Courses/Cloud%20Computing/Use%20Your%20Strengths%20For%20Impact%20And%20Influence%20At%20Work.md) — 75,265 learners
 
 ## Related Skills
 
-- [[Influencing Others]] — 1 shared course
+- [Influencing Others](../Data%20Science/Influencing%20Others.md) — 1 shared course

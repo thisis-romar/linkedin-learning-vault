@@ -28,6 +28,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Continuous Delivery for Cloud Native Java Apps]]
-- [[Microservices- Security]]
-- [[Learning Java Collections]]
+- [Continuous Delivery for Cloud Native Java Apps](../../Courses/Cloud%20Computing/Continuous%20Delivery%20for%20Cloud%20Native%20Java%20Apps.md)
+- [Microservices- Security](../../Courses/Cybersecurity/Microservices-%20Security.md)
+- [Learning Java Collections](../../Courses/Data%20Science/Learning%20Java%20Collections.md)

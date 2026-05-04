@@ -16,14 +16,14 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQEeekevgHLNKQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1648232416811?e=2147483647&amp;v=beta&amp;t=3d1GrCDeBd1uCR_OTTY1C9ZeRNk7dseBod8SHKkMlWQ"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Build Your Excel Skills]]'
-  - '[[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)]]'
+  - '[Build Your Excel Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Excel%20Skills.md)'
+  - '[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)](../../Paths/Data%20Science/Learning%20Paths/Prepare%20for%20the%20Excel%20Expert%20-%20Microsoft%20Office%20Specialist%20Exam%20for%20M365%20Apps%20(MO-211).md)'
 prev_courses:
-  - '[[Excel- Advanced Formulas and Functions (2023)]]'
-  - '[[Excel- Advanced Formulas and Functions (2023)]]'
+  - '[Excel- Advanced Formulas and Functions (2023)](Excel-%20Advanced%20Formulas%20and%20Functions%20(2023).md)'
+  - '[Excel- Advanced Formulas and Functions (2023)](Excel-%20Advanced%20Formulas%20and%20Functions%20(2023).md)'
 next_courses:
   - null
-  - '[[Excel- PivotTables in Depth]]'
+  - '[Excel- PivotTables in Depth](Excel-%20PivotTables%20in%20Depth.md)'
 path_nav: '[{"path":"Build Your Excel Skills","position":3,"total":3,"prev":"Excel- Advanced Formulas and Functions (2023)","next":null},{"path":"Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)","position":4,"total":7,"prev":"Excel- Advanced Formulas and Functions (2023)","next":"Excel- PivotTables in Depth"}]'
 path_count: 2
 tags:
@@ -104,11 +104,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980&t=0)** - [Oz du Soleil] [[Microsoft Excel|Excel]] is more than formulas and data. Excel comes with a lot of tools to help you control how your data looks and behaves, to make everything easier to read and visually interesting. In this course, I'm going to show you how to set and format time and date values, apply Excel styles and themes, control what gets printed, work with images, icons, charts, shapes, tables, and slicers. I'm going to show you how to apply conditional formatting in creative ways. And along the way, I'll offer various warnings and insights so that you have real skill with formatting your data and not just random tips and tricks. I'm Oz du Soleil. I've been working with Excel and data for over 20 years, and I've been a [[Microsoft Excel]] MVP since January, 2015. And I am excited about this opportunity to show you Excel's range of tools for robust formatting.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980&t=0)** - [Oz du Soleil] [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) is more than formulas and data. Excel comes with a lot of tools to help you control how your data looks and behaves, to make everything easier to read and visually interesting. In this course, I'm going to show you how to set and format time and date values, apply Excel styles and themes, control what gets printed, work with images, icons, charts, shapes, tables, and slicers. I'm going to show you how to apply conditional formatting in creative ways. And along the way, I'll offer various warnings and insights so that you have real skill with formatting your data and not just random tips and tricks. I'm Oz du Soleil. I've been working with Excel and data for over 20 years, and I've been a [Microsoft Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) MVP since January, 2015. And I am excited about this opportunity to show you Excel's range of tools for robust formatting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (5), [Microsoft Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [oz (1)
@@ -145,7 +145,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/center-across-a-selection-vs-merged-cells?u=76281980&t=0)** - [Instructor] Centering and merging cells is a controversial topic in the [[Microsoft Excel|Excel]] world. There are a lot of people who say don't ever, ever, ever use the feature Merge & Center. I say, be aware of the problems that can be created, and then use your own judgment. Here's this data about hours worked. Now, I'm looking at the text up top, Hours Worked Updated. It's kind of heavy toward the right side, and up top, we can see that it is left aligned. with E1 highlighted I could go to center, I could right align it, but what I want to do is go ahead, highlight from June to January, and then merge and center. That's what I want. That's fine. The problem with this gets to be in cell D13, where tab was on Disability Leave from February to May, I want that centered. Now watch what happens when I highlight, go over, merge and center. Okay. It's what I want. But now I want to sort June descending.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/center-across-a-selection-vs-merged-cells?u=76281980&t=0)** - [Instructor] Centering and merging cells is a controversial topic in the [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) world. There are a lot of people who say don't ever, ever, ever use the feature Merge & Center. I say, be aware of the problems that can be created, and then use your own judgment. Here's this data about hours worked. Now, I'm looking at the text up top, Hours Worked Updated. It's kind of heavy toward the right side, and up top, we can see that it is left aligned. with E1 highlighted I could go to center, I could right align it, but what I want to do is go ahead, highlight from June to January, and then merge and center. That's what I want. That's fine. The problem with this gets to be in cell D13, where tab was on Disability Leave from February to May, I want that centered. Now watch what happens when I highlight, go over, merge and center. Okay. It's what I want. But now I want to sort June descending.
 >
 > **[1:31](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/center-across-a-selection-vs-merged-cells?u=76281980&t=91)** I've clicked inside the June column, go to data, sort descending, click the Z to A. To do this, all the merged cells need to be the same size. See, Merge & Center will not allow me to sort.
 >
@@ -153,7 +153,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **UI Navigation:** go to (2), open the (1), dropdown (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Env Vars:** d13 (1)
@@ -238,7 +238,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980&t=0)** The topic of formatting dates can be a very deep rabbit hole. But we are not going to go down that far in this video. I want to show you enough to get started. In case you didn't know, [[Microsoft Excel|Excel]] counts the number of days from January 1st, 1900. So the value in cell B2 is the 44,700th day after the 1st of January, 1900. And let's get started with some formatting to prove that to you. Here, I'm going to go down to this number three, turn that into a long date. That was the 3rd of January, a Tuesday in the year 1900. I'm going to undo that. Something else we can do, we can highlight this column and go over to the number formatting in the Home tab. We can turn all of these into short dates. That value in B2 is the 19th of May, the year 2022. Now let's go deeper. If we don't like that format, we can go back here, and then More Number Formats. The category Date is already highlighted, and here are some dates that we can choose from. If I select 3-14, that's the format.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980&t=0)** The topic of formatting dates can be a very deep rabbit hole. But we are not going to go down that far in this video. I want to show you enough to get started. In case you didn't know, [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) counts the number of days from January 1st, 1900. So the value in cell B2 is the 44,700th day after the 1st of January, 1900. And let's get started with some formatting to prove that to you. Here, I'm going to go down to this number three, turn that into a long date. That was the 3rd of January, a Tuesday in the year 1900. I'm going to undo that. Something else we can do, we can highlight this column and go over to the number formatting in the Home tab. We can turn all of these into short dates. That value in B2 is the 19th of May, the year 2022. Now let's go deeper. If we don't like that format, we can go back here, and then More Number Formats. The category Date is already highlighted, and here are some dates that we can choose from. If I select 3-14, that's the format.
 >
 > **[1:38](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980&t=98)** It's telling us we are only going to get the month and the day, even though the year is there, and you can see in that sample. If I were to click Okay, let's do that. And then click here, the cell shows March 18th. But up in the formula bar, the full date is showing 2022. You can see it there. So it's not been clipped off. It's not disappeared. So I'm going to go back, highlight all of these, go back to Date, Number Formats, another format that I can choose. Let's take March 14, 2012. That's the example. But then in the sample, it is showing us May 19, 2022. Let's go with that. Okay. So now, what if I want to set a particular format for when I am typing in dates? So if I did something like 15oct20, and then I want 8/oct/2020.
 >
@@ -256,7 +256,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **UI Navigation:** go to (4), scroll down (2), click on (1)
 > **Versions:** 0.4 (1), 0.66 (1), 0.08 (1)
 > **Ports:** :30 (1), :12 (1)
@@ -268,7 +268,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/make-consistent-entries-with-find-and-replace?u=76281980&t=0)** - [Instructor] We've got a list of phone numbers and the formatting is all over the place. Austin and Lizbeth, they both have phone numbers that are just string of numbers. Sascha's phone number has decimal places. [[John the Ripper|John]], Kaye, and Kyara, they have hyphens, our goal is to get these consistent. There is no right or wrong way, we just need consistency and we need to make it easier for when more phone numbers come in, so let's try this. I'm going to highlight all of the phone numbers, go Home and then over here in this numbers group I'm going to open this general drop list, go to More Number Formats, Special, then here is a phone number formatting option. Okay, only Austin and Lizbeth's phone numbers changed.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/make-consistent-entries-with-find-and-replace?u=76281980&t=0)** - [Instructor] We've got a list of phone numbers and the formatting is all over the place. Austin and Lizbeth, they both have phone numbers that are just string of numbers. Sascha's phone number has decimal places. [John](../../Glossary/Tool/John%20the%20Ripper.md), Kaye, and Kyara, they have hyphens, our goal is to get these consistent. There is no right or wrong way, we just need consistency and we need to make it easier for when more phone numbers come in, so let's try this. I'm going to highlight all of the phone numbers, go Home and then over here in this numbers group I'm going to open this general drop list, go to More Number Formats, Special, then here is a phone number formatting option. Okay, only Austin and Lizbeth's phone numbers changed.
 >
 > **[1:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/make-consistent-entries-with-find-and-replace?u=76281980&t=60)** Okay, so that's not going to work, I'm going to undo. Next, my strategy is going to be to just burn everything down as far as the formatting and then create a formatting later. All right, with those still highlighted, I'm still on the Home tab, go to Find Select, Replace. We've got a hyphen here that we want to replace with nothing, replace all, okay, what else? We got a decimal place, replace all. What else? An open parentheses, replace all, a closed parentheses, replace all, okay? And then there are spaces, get rid of that, closed parentheses, hit a space, replace with nothing, replace all, okay, and close. Now we just have numbers. Now watch this. I'm going to click inside this data set and then I'm going to go to Format as Table. I'm doing this in anticipation of adding new phone numbers and making sure that future phone numbers take on the format that's about to be set. The table does have hitters, okay, get rid of the filter button. All right, highlight this data, Home, go back to General, bring this down, more number formats
 >
@@ -280,7 +280,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
+> **Frameworks & Libraries:** [John](../../Glossary/Tool/John%20the%20Ripper.md) (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
@@ -293,13 +293,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980&t=0)** - [Instructor] Sometimes we want our positive numbers, negative numbers, zeros to show up in different ways. We can control that by using custom number formats, and there's so many things that can be done here. But I'm going to show you a few things. Here we've got a list of friends. They had some goal and then there's the actual and the difference. To get the negative to stand out, let's look at this. I'm going to highlight 'em all, use this arrow in the numbers group to pop this out. Okay, go to number, and here are some options. Our negative numbers can show up just as a negative number, like they are already. We can have 'em show red or be in parentheses. But what if we want 'em to have parentheses and show the negative sign? Go down to custom. Now let's see. Now, there are four parts to custom formats. There's the positive numbers, then a semicolon, then the second part after the semicolon, that's going to be how you want the negative numbers formatted. Then the semicolon, then the third part will be how you want zeros and that last part, you'll put a semicolon and then text. We're not going to deal with text here.
 >
-> **[1:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980&t=94)** What I am going to do is say General. That's the positive numbers. Semicolon, square bracket, red. Close the square bracket. Negative. Open parentheses. General. Close parentheses. Semicolon. How would we want zero to show up? Let's go open bracket, cyan, close the square bracket, and then in double quote, I'm just going to put an X and double quote. Now click OK. And there is our format. Georgia has that light blue X or that cyan X because of the zero. Let's change it. Ah, Georgia actually did 15. Actually, that was 25. See? Everything is changing. And one last thing before we get out of here, I'll show you something really cool. I'm going to highlight these again. Pop this out and go back to the custom. Our custom portion is still here. I'm going to go to the end of the General up here where I can change it. And I'm going to put a double quote, space. In [[Windows]], I'm going to hold down the Windows key
+> **[1:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980&t=94)** What I am going to do is say General. That's the positive numbers. Semicolon, square bracket, red. Close the square bracket. Negative. Open parentheses. General. Close parentheses. Semicolon. How would we want zero to show up? Let's go open bracket, cyan, close the square bracket, and then in double quote, I'm just going to put an X and double quote. Now click OK. And there is our format. Georgia has that light blue X or that cyan X because of the zero. Let's change it. Ah, Georgia actually did 15. Actually, that was 25. See? Everything is changing. And one last thing before we get out of here, I'll show you something really cool. I'm going to highlight these again. Pop this out and go back to the custom. Our custom portion is still here. I'm going to go to the end of the General up here where I can change it. And I'm going to put a double quote, space. In [Windows](../../Glossary/Service/Windows.md), I'm going to hold down the Windows key
 >
 > **[3:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980&t=188)** and the decimal point to get that to pop up. And now I'm going to get the happy face with the star glasses, okay? And then double quote. OK. Look at that. Now let's check out one thing. I'm going to highlight here and we actually have a four right there. That emoji, that is not interrupting what we have. That is a four. So let me prove that to you. Equals this times four, Enter, 16. There you go. And that's how you can format positive numbers, negative numbers and your zero values.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2)
+> **Frameworks & Libraries:** [Windows](../../Glossary/Service/Windows.md) (2)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -309,7 +309,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-hours-minutes-and-seconds?u=76281980&t=0)** - [Instructor] Let's look at time formatting and this is one of those topics that can go really, really deep because of the way that [[Microsoft Excel|Excel]] works with time. So let me show you some time formatting. I can bring this up a bit. Here we go. A. Rosser started at 4:30 AM. Great. Took a break 7:15 AM. Ended the break 7:40 AM and headed out at 11:20 AM.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-hours-minutes-and-seconds?u=76281980&t=0)** - [Instructor] Let's look at time formatting and this is one of those topics that can go really, really deep because of the way that [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) works with time. So let me show you some time formatting. I can bring this up a bit. Here we go. A. Rosser started at 4:30 AM. Great. Took a break 7:15 AM. Ended the break 7:40 AM and headed out at 11:20 AM.
 >
 > **[0:49](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-hours-minutes-and-seconds?u=76281980&t=49)** Hey, now let's drag this formula down. Now we have some things to deal with. Our total times should not have AM or PM. And the total time is not one hour and 42 minutes. What's actually happening is Excel has gone over 24 hours and started again at zero and so it's an hour and 42 minutes into another day. We got to fix that. Let's do it. First of all, these total times don't need AM or PM. Highlight, up, more number formats, choose hours, minutes.
 >
@@ -323,7 +323,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (2)
 > **Ports:** :12 (3), :30 (1), :15 (1), :40 (1), :20 (1)
 > **Versions:** 0.34 (1), 8.25 (1), 25.7 (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -363,7 +363,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=0)** - [Instructor] It's time to show you [[Microsoft Power Query|Power Query]] and how Power Query can help you clean up formats and get 'em consistent. Now, I'm sorry that Mac users don't have Power Query yet. The [[Microsoft Excel|Excel]] engineers are working on that. At one time, Mac users couldn't even open a file that had Power Query in it. Now you can at least open it but that's all. So what I'm going to show you, you have to be on a full version of [[Windows]] Excel. We've got this data with IDs and the formatting is all over the place. The proper format is shown by Norma Danielson. The four digits, a hyphen and then two digits. It's shown again at Jodie Goldman. But let's see, Nalani Ward up top, there's a space in there. Vereena Heath has decimal places. There's slashes at Mami Dallman's name. And now one huge reason to do this with Power Query is because there's more data. Now, we got to pretend we didn't see this data at row 26 going down. This is going to be part of the automation thrills and excitement part of this event.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=0)** - [Instructor] It's time to show you [Power Query](../../Skills/Data%20Science/Microsoft%20Power%20Query.md) and how Power Query can help you clean up formats and get 'em consistent. Now, I'm sorry that Mac users don't have Power Query yet. The [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) engineers are working on that. At one time, Mac users couldn't even open a file that had Power Query in it. Now you can at least open it but that's all. So what I'm going to show you, you have to be on a full version of [Windows](../../Glossary/Service/Windows.md) Excel. We've got this data with IDs and the formatting is all over the place. The proper format is shown by Norma Danielson. The four digits, a hyphen and then two digits. It's shown again at Jodie Goldman. But let's see, Nalani Ward up top, there's a space in there. Vereena Heath has decimal places. There's slashes at Mami Dallman's name. And now one huge reason to do this with Power Query is because there's more data. Now, we got to pretend we didn't see this data at row 26 going down. This is going to be part of the automation thrills and excitement part of this event.
 >
 > **[1:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=94)** All right? Here we go. Cursor in the dataset and the data is in a table. Right click, Get Data From Selection. I'm going to make this a little bit smaller and boost it up so everybody can see, even the folks in the back. First of all, now the data's in Power Query and I'm going to format this as text. We aren't going to ever do math on an ID. So it's best to keep it as text. Now, I'm going to go through and replace values. With this column highlighted, replace values, the first thing to get rid of, let's get rid of all spaces, OK. What else? Get rid of say forward slashes. OK. Replace decimal places. OK. Let's get rid of the hyphens. OK. Anything else anybody might put in? Let's say an asterisk. OK. Now, to get this in the proper format. With this column still highlighted, I'm going to add column, column from examples, from selection. And I'm going to go over here. I have to feed it some examples of what I want.
 >
@@ -377,7 +377,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (9), [[Microsoft Excel|Excel]] (3), [[Windows]] (1), cursor (1)
+> **Frameworks & Libraries:** [Power query](../../Skills/Data%20Science/Microsoft%20Power%20Query.md) (9), [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (3), [Windows](../../Glossary/Service/Windows.md) (1), cursor (1)
 > **UI Navigation:** go to (2), scroll up (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
@@ -393,7 +393,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980&t=0)** - [Instructor] Somebody started this working with these objects and letting people know where they're supposed to sit when they come in. We've got to clean this up. And [[Microsoft Excel|Excel]] gives us a lot of options for working with shapes and objects. So I'm going to show you a few things that we can do to get this cleaned up, looking nicer and making sense. First, this row one is really wide. Let's close this up. Now, things are really moving around on us. First thing we have to do is stop everything from moving. I click one object. Now, hold down the Control key, click the other ones. I'm going to right click, Size and Properties. Don't move or size with cells. Okay. Now, if I move this down, it's not moving. If I widen the column, it's not moving. Good, so I can open this back up. Great, now what is one thing that we'd like to do? First of all, let's center it within that box. Okay. Now, move these down.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980&t=0)** - [Instructor] Somebody started this working with these objects and letting people know where they're supposed to sit when they come in. We've got to clean this up. And [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) gives us a lot of options for working with shapes and objects. So I'm going to show you a few things that we can do to get this cleaned up, looking nicer and making sense. First, this row one is really wide. Let's close this up. Now, things are really moving around on us. First thing we have to do is stop everything from moving. I click one object. Now, hold down the Control key, click the other ones. I'm going to right click, Size and Properties. Don't move or size with cells. Okay. Now, if I move this down, it's not moving. If I widen the column, it's not moving. Good, so I can open this back up. Great, now what is one thing that we'd like to do? First of all, let's center it within that box. Okay. Now, move these down.
 >
 > **[1:37](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980&t=97)** And I want to add another table. Go to Insert, Shape. Grab this one here. Down there. And then there is table five. Enter and Enter again. Andy, Coral, Bee, Stuart, Abel.
 >
@@ -407,7 +407,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -417,7 +417,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=0)** - [Instructor] We're going to talk about WordArt and spicing things up a bit in [[Microsoft Excel|Excel]]. And no, Excel is not a [[Graphic Design]] tool but depending on what you need, it could be good enough. I know that I use it for certain things, especially when I'm making up examples for students and I need something that looks nice and represents what we're trying to accomplish. So here is an invoice that I made up and the company is called Plenty-O-Light. That could look better, not just that [[Microsoft Word|word]] right there. So let's go over here, insert, go over here to the text area, WordArt. Let's grab this for now and call it plenty, space, O, space, light. All right, now what can we do with it? Let's go to text effects here. Let's do some 3D rotation. Let's see what that gets us. Do we like any of those? Let's tip it a bit like here. That's good. Let's go back, get some glow. All right.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=0)** - [Instructor] We're going to talk about WordArt and spicing things up a bit in [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md). And no, Excel is not a [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) tool but depending on what you need, it could be good enough. I know that I use it for certain things, especially when I'm making up examples for students and I need something that looks nice and represents what we're trying to accomplish. So here is an invoice that I made up and the company is called Plenty-O-Light. That could look better, not just that [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) right there. So let's go over here, insert, go over here to the text area, WordArt. Let's grab this for now and call it plenty, space, O, space, light. All right, now what can we do with it? Let's go to text effects here. Let's do some 3D rotation. Let's see what that gets us. Do we like any of those? Let's tip it a bit like here. That's good. Let's go back, get some glow. All right.
 >
 > **[1:32](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=92)** And then we can increase the font size. Go back to shape format, transformation. Okay, let's go with, let's see, there's a wavy one. Okay, let's go with this one. All right. And then here we have an option where we can change how the ends pinch in more or less. All right. And one other thing we want to do, we want to grab a light bulb. Go to insert, icons, illustrations. Scroll down, there is a light bulb in here. There it is. Insert. Get that. Okay. We can change the color of it. While it's highlighted, go to graphics format. Okay, right, we're already there. Graphics fill. Let's grab something that's similar to the text that we already have or we could go with a bright blue.
 >
@@ -429,7 +429,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Graphic Design]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (2), [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (1), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -440,7 +440,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/place-text-inside-a-shape?u=76281980&t=0)** - [Instructor] Sometimes when you're trying to get a workbook set up, it can be tough because of things like this. I've got text here that's pretty long in each cell and I don't want to do a [[Microsoft Word|word]] wrap. Hey, if I do that, now I've got to deal with this, widening the column and dealing with the height of the rows, let's undo that. Let's see, if I double click to widen, there we go again with some other problem. I could move, let me see, I'm going to grab this and move it, I could move it here, but you know if I put something else here, then I still have to worry about the columns getting real wide on me. It often helps to put the data into a text box or a shape. So I'm going to undo this. Go to Insert, Shapes. I'm going to grab this rectangle with the round edges.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/place-text-inside-a-shape?u=76281980&t=0)** - [Instructor] Sometimes when you're trying to get a workbook set up, it can be tough because of things like this. I've got text here that's pretty long in each cell and I don't want to do a [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) wrap. Hey, if I do that, now I've got to deal with this, widening the column and dealing with the height of the rows, let's undo that. Let's see, if I double click to widen, there we go again with some other problem. I could move, let me see, I'm going to grab this and move it, I could move it here, but you know if I put something else here, then I still have to worry about the columns getting real wide on me. It often helps to put the data into a text box or a shape. So I'm going to undo this. Go to Insert, Shapes. I'm going to grab this rectangle with the round edges.
 >
 > **[1:15](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/place-text-inside-a-shape?u=76281980&t=75)** Now, I want to grab this, cut and then I'm going to be real careful. V, all right, then I don't know why that does that but I hit Enter and it paste it again, so I'm going to hit Enter again. Okay. Copy, go back in and then Control + V, back and then I'm going to hit Enter, get rid of that. Now Enter, grab this, right click copy, go here, Enter. Okay, so it pasted when I entered. Now, I'm going to Enter again to get it on the next row. Good, and I want this header to be bold and underlined.
 >
@@ -450,7 +450,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
@@ -495,7 +495,7 @@ created: 2026-05-03
 >
 > **[2:37](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980&t=157)** I want use a formula to determine which cells to format. The first one we're going to do is the red, the 14 days away. Format values where this formula is is true. Now this is where conditional formatting can get tricky. I'm going to slide this over. What we're doing right here is those dates that are highlighted, that's where we want the conditional formatting to happen but it has to happen against criteria, and the criteria is in column G, the Days column. Highlight here and then highlight the dates. And we want less than the value in I1, okay?
 >
-> **[3:38](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980&t=218)** Now pay attention. I1 has absolute cell references, the $I$1, we'll lock it in place, but for G6 through G17, we need the rows to have relative references while the columns have absolute references. So I'm going to go over here and get rid of the dollar sign before the five, so we've got $G5. Now go over, get rid of the dollar sign in front of the 17. Don't use your arrow keys to do this because then you'll get some really wild cell references in here. A lot of us have complained to the [[Microsoft Excel|Excel]] engineers about it, but nothing's changed. Let's keep going. Now we have to format. Okay, we want the cell to be red. Go to Fill and let's see what More Colors has available to us. 'Cause we don't want anything that's too vivid because then the numbers will be too hard to see. Let's go with this. OK, OK, OK. And look at that, the 30th of September is red. Now let's go back to Conditional Formatting because we have to do the yellow rule. Manage Rule, see there's our rule
+> **[3:38](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980&t=218)** Now pay attention. I1 has absolute cell references, the $I$1, we'll lock it in place, but for G6 through G17, we need the rows to have relative references while the columns have absolute references. So I'm going to go over here and get rid of the dollar sign before the five, so we've got $G5. Now go over, get rid of the dollar sign in front of the 17. Don't use your arrow keys to do this because then you'll get some really wild cell references in here. A lot of us have complained to the [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) engineers about it, but nothing's changed. Let's keep going. Now we have to format. Okay, we want the cell to be red. Go to Fill and let's see what More Colors has available to us. 'Cause we don't want anything that's too vivid because then the numbers will be too hard to see. Let's go with this. OK, OK, OK. And look at that, the 30th of September is red. Now let's go back to Conditional Formatting because we have to do the yellow rule. Manage Rule, see there's our rule
 >
 > **[5:14](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980&t=314)** and a New Rule. Again, use a formula to determine which cells to format. We have to do the formula again. This arrow, highlight, <I2 and we have to get rid of those dollar signs.
 >
@@ -507,7 +507,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **Cross-References:** coming up (4), go back to (1)
 > **Env Vars:** ekg (1), g17 (1), today (1)
 > **UI Navigation:** go to (2)
@@ -577,7 +577,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/print-preview?u=76281980&t=0)** - [Instructor] Here, We've got a lot of data. We've got columns going out to column H down to row 58. We're going to talk about some things you have for setting up your sheet to be printed. Now you may notice this, you see those dash lines between column C and D, between columns F and G, and then all the way out there on the far side of K. And then we scroll down between rows 32 and 33 there's a dash line. Now you'd recognize this if you went to Print Preview and then came back to [[Microsoft Excel|Excel]] and then there's those dash lines. How do you get rid of 'em? All right, File, Options. Go to Advanced. Scroll down, Display Options for this Worksheet. Show Page Breaks, get rid of them. Okay, so now you can go to Print Preview and come back to the sheet back and forth and you won't see those dash lines anymore. Now, some of the things you have available to you in this Page Layout tab, you've got the page set up where you can adjust the orientation, the margins, the print area, background, print titles, and then here's a scale to fit where you can and set the scale. Maybe you want this to print out at 50%. Width, okay, one neat thing is to have one page wide
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/print-preview?u=76281980&t=0)** - [Instructor] Here, We've got a lot of data. We've got columns going out to column H down to row 58. We're going to talk about some things you have for setting up your sheet to be printed. Now you may notice this, you see those dash lines between column C and D, between columns F and G, and then all the way out there on the far side of K. And then we scroll down between rows 32 and 33 there's a dash line. Now you'd recognize this if you went to Print Preview and then came back to [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) and then there's those dash lines. How do you get rid of 'em? All right, File, Options. Go to Advanced. Scroll down, Display Options for this Worksheet. Show Page Breaks, get rid of them. Okay, so now you can go to Print Preview and come back to the sheet back and forth and you won't see those dash lines anymore. Now, some of the things you have available to you in this Page Layout tab, you've got the page set up where you can adjust the orientation, the margins, the print area, background, print titles, and then here's a scale to fit where you can and set the scale. Maybe you want this to print out at 50%. Width, okay, one neat thing is to have one page wide
 >
 > **[1:40](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/print-preview?u=76281980&t=100)** and then have the height automatic so that you have all of your columns on one page and then the document will print out however long it needs to be. We can also hit this arrow and bring out this dialogue box. Here again, we can change the orientation. Here we can go to margins, adjust our margins. Center on the page horizontally our vertically. We can create headers here. And then over on the sheet, we can set a print area, any rows to repeat at top, et cetera. We can go to Print Preview here, but let's cancel. And then go to File and Print. And this is where we can see how the document will print out and with one page wide and how many other pages long, it's going to be on one page and the font is going to be really small. So how about changing this to landscape? Okay, better and scroll down now it's on two pages. Also in this section you can adjust your margins if you like. So what would a one inch margin look like? Okay, a bit smaller, but still on two pages. And half inch margins. Okay, really big,
 >
@@ -585,7 +585,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **UI Navigation:** go to (5), scroll down (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -628,17 +628,17 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=0)** - [Instructor] There isn't a workbook associated with this video. What I want to show you is defaults that you can change if you like. Let's say that you have a specific number of sheets that you would like [[Microsoft Excel|Excel]] to automatically open with and you have a font and font size. Let's look at this. We're going to go to "File." Go to "Options." And here we are immediately at "General," over on the left side. And then we are looking at the section, "When creating new workbooks." Let's say that I wanted to open with Arial Black,
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=0)** - [Instructor] There isn't a workbook associated with this video. What I want to show you is defaults that you can change if you like. Let's say that you have a specific number of sheets that you would like [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) to automatically open with and you have a font and font size. Let's look at this. We're going to go to "File." Go to "Options." And here we are immediately at "General," over on the left side. And then we are looking at the section, "When creating new workbooks." Let's say that I wanted to open with Arial Black,
 >
 > **[0:46](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=46)** 18 point, and five sheets.
 >
-> **[0:55](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=55)** One other thing we can look at. "Personalize your copy of [[Microsoft Office]]." Mine is set to "Circuit" background, "Black" theme. Let's change this to "Dark Gray" and then change this to "Underwater." Okay. This alert is saying, "Please close and restart "[[Microsoft Excel]], so the font changes can take effect." Click "OK." And close, and then reopen Excel. And those column and row headers are huge. But look at the bottom. There are our five sheets. And notice up top in the font group, it says Arial Black, 18. Let's check that out.
+> **[0:55](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=55)** One other thing we can look at. "Personalize your copy of [Microsoft Office](../../Skills/Web%20Development/Microsoft%20Office.md)." Mine is set to "Circuit" background, "Black" theme. Let's change this to "Dark Gray" and then change this to "Underwater." Okay. This alert is saying, "Please close and restart "[Microsoft Excel](../../Skills/Data%20Science/Microsoft%20Excel.md), so the font changes can take effect." Click "OK." And close, and then reopen Excel. And those column and row headers are huge. But look at the bottom. There are our five sheets. And notice up top in the font group, it says Arial Black, 18. Let's check that out.
 >
 > **[1:51](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=111)** Ain't that the truth?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Office]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (2), [Microsoft Office](../../Skills/Web%20Development/Microsoft%20Office.md) (1), [Microsoft Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
@@ -651,7 +651,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=0)** - [Instructor] Here we have a lot of data and [[Microsoft Excel|Excel]] has a feature called tables and too few people use tables. They're so powerful. Also, we're going to look at the formatting of tables. Now, in order to do this, I need to have a contiguous set of data. No blank rows, no blank columns. So I'm going to scroll down, down to row 58, no blank rows or columns. In the home tab, go over to the style section, format as table. We've got a lot of choices here. Some of them are nice and clean. Some of them can be a bit garish. Do we want this one? The table does have headers. Okay. Oh, that's too much. But first of all, I don't like to filter buttons unless I need them. Okay, so let's try another format. Let's go with this green. It's cleaner. Okay, now notice with the cursor inside this data set or inside this table, up top we have a table design tab. I'm going to click away from the table data over here. All right, that tab went away and now it's back. Right, you saw the filter button.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=0)** - [Instructor] Here we have a lot of data and [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) has a feature called tables and too few people use tables. They're so powerful. Also, we're going to look at the formatting of tables. Now, in order to do this, I need to have a contiguous set of data. No blank rows, no blank columns. So I'm going to scroll down, down to row 58, no blank rows or columns. In the home tab, go over to the style section, format as table. We've got a lot of choices here. Some of them are nice and clean. Some of them can be a bit garish. Do we want this one? The table does have headers. Okay. Oh, that's too much. But first of all, I don't like to filter buttons unless I need them. Okay, so let's try another format. Let's go with this green. It's cleaner. Okay, now notice with the cursor inside this data set or inside this table, up top we have a table design tab. I'm going to click away from the table data over here. All right, that tab went away and now it's back. Right, you saw the filter button.
 >
 > **[1:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=94)** Okay, now let's look, if I click first column, that gives us a nice, bold, like row headers, actually. Beautiful. Last column, we don't need that highlighted. We might if we had some totals or something over there. Okay, get rid of that, but we do have a total row, which can be helpful. Let's scroll down there, okay, and row 59, it already says total and it is doing a count showing us that we have 57 records. But now let's go over to the donations column, open that dropdown list and click sum to get a sum of the donations. Great. Next, if we want to insert a row, now, if we go to the bottom and want to insert a row, we've got to get rid of the total row, so let's do that. And then I'm going to go to James Reed is a Libra and donated $55, lives in West Crimson, uses a PC and Sea2Sea, and is in the education field, 555 9000. Okay, and then we can bring the totals back. Go back inside the table data, table design, bring back the total row.
 >
@@ -659,7 +659,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cursor (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** cursor (2), [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **UI Navigation:** scroll down (3), go to (3), dropdown (1)
 > **Versions:** 0.5 (1)
 > **Definitions:** is a  (1)
@@ -688,15 +688,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=0)** - [Instructor] Let's talk about styles and themes in [[Microsoft Excel|Excel]]. And I think themes are drastically underused. But both styles and themes can, make your own work more pleasant for yourself to look at. And then, styles can help with consistency, say, if you share out workbooks, you would like to have your headers, all the same way, or maybe you have input sales. Having them consistent across workbooks, is desirable for some people, so let's get into it. We've got all of this data, and it's separated into three sections. There's members in the first section, and then volunteers, and then we have guests. Over on the right side is a graph, showing account of, all of the zodiac signs for the people in our data set. We've got four Pisces. Let's reformat some headers. I'm going to grab the members headers, hold down the Control key, and then the volunteers headers. I'm in the home tab. This style's group, open this dropdown, and let's go with heading one. Now, I'm going to it point out, you can right click, and then modify and make this your own, but I'm going to go with the default.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=0)** - [Instructor] Let's talk about styles and themes in [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md). And I think themes are drastically underused. But both styles and themes can, make your own work more pleasant for yourself to look at. And then, styles can help with consistency, say, if you share out workbooks, you would like to have your headers, all the same way, or maybe you have input sales. Having them consistent across workbooks, is desirable for some people, so let's get into it. We've got all of this data, and it's separated into three sections. There's members in the first section, and then volunteers, and then we have guests. Over on the right side is a graph, showing account of, all of the zodiac signs for the people in our data set. We've got four Pisces. Let's reformat some headers. I'm going to grab the members headers, hold down the Control key, and then the volunteers headers. I'm in the home tab. This style's group, open this dropdown, and let's go with heading one. Now, I'm going to it point out, you can right click, and then modify and make this your own, but I'm going to go with the default.
 >
-> **[1:32](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=92)** Okay. That default has a specific font, the font size, and that underlying border. And then, let's go down to the guests data set. Convert this into a table. Let's grab this orange. Table does have headers, okay. And get ready to filter buttons. Now let's look at themes in page layout. I'm going to go to themes, and you can see, that I am in the generic default [[Microsoft Office|office]] theme. Or we can pick another theme, let's go to gallery, and we get a preview. Notice, the graph changed. The header font changed. The table changed. Go to integral, and then organic, wisp, slice. This is all preference in, what works for you. and also notice, now that when the slice theme, the fonts are going out wider. Now, a part of our data is underneath the chart that didn't move. Okay. Back up in the theme section, we got colors. You can pick a color palette. Blue, blue two, yellow orange, yellow. Also,
+> **[1:32](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=92)** Okay. That default has a specific font, the font size, and that underlying border. And then, let's go down to the guests data set. Convert this into a table. Let's grab this orange. Table does have headers, okay. And get ready to filter buttons. Now let's look at themes in page layout. I'm going to go to themes, and you can see, that I am in the generic default [office](../../Skills/Web%20Development/Microsoft%20Office.md) theme. Or we can pick another theme, let's go to gallery, and we get a preview. Notice, the graph changed. The header font changed. The table changed. Go to integral, and then organic, wisp, slice. This is all preference in, what works for you. and also notice, now that when the slice theme, the fonts are going out wider. Now, a part of our data is underneath the chart that didn't move. Okay. Back up in the theme section, we got colors. You can pick a color palette. Blue, blue two, yellow orange, yellow. Also,
 >
 > **[3:09](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=189)** there's fonts, that you can change and see, they're all changing together. Okay, you didn't have to go highlight the whole workbook, and then change your fonts on your own. So I urge you to explore themes and styles. One, the styles, can help you keep, certain details consistent like, headers, and themes. If something is more pleasing to your eye, easier to look at. It can be easier for you to get your work done. But look at something like this. Some of these can be, really, too much. like this view, that's too much for me. Maybe you like it. If you do like that view theme, then you select it and be happy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1), [Office](../../Skills/Web%20Development/Microsoft%20Office.md) (1)
 > **UI Navigation:** go to (3), dropdown (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -756,7 +756,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980&t=0)** - [Instructor] Sometimes it is necessary to install a font. Maybe you've got some artistic vision and none of your available fonts fit that, or you might be dealing with an organization that's very particular about the fonts that they use. And that's something that I faced where working with an organization I knew that they had a special font, but the computer that I was at didn't have that font. And I suggested, "Hey, I got a few that are close. Can we pick from these?" No, no, no, they were not going for it. I had to wait for somebody to email me that font. Here is our data. It's all in Trebuchet 16 point. The required font is Calynda and 18 point. Also, we have to deal with the date format. The first date is showing Thursday, 23 January, 2020. What is needed is the day in two characters, the month spelled out, and then the full year, spaces in between, no commas, slashes, nothing. Now, I've got the Calynda font. I've unzipped it and everything, and now I'm looking in the folder. This Calynda font is not going to be provided to you because of copyright reasons, all right?
 >
-> **[1:36](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980&t=96)** We don't want to get in trouble. I'll get you in trouble. I just believe that it was important to show you this so that you know how to install and delete a font. To install it I could right-click, Install, or I can double-click it, look at the font, okay, and then install it this way. All right, it's installed. Now, I have to save everything and completely close all instances of [[Microsoft Excel|Excel]] before that font will show up. So, let me go ahead, Save, close Excel, reopen it,
+> **[1:36](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980&t=96)** We don't want to get in trouble. I'll get you in trouble. I just believe that it was important to show you this so that you know how to install and delete a font. To install it I could right-click, Install, or I can double-click it, look at the font, okay, and then install it this way. All right, it's installed. Now, I have to save everything and completely close all instances of [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) before that font will show up. So, let me go ahead, Save, close Excel, reopen it,
 >
 > **[2:27](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980&t=147)** Install Font, highlight this data. Now let's see if Calynda is here. Scroll down, there is Calynda, beautiful. Let's double-click here, and it needs to be 18-point font. Highlight these columns, boost it up, good. Slide this ribbon out of the way. Now to deal with the date font. Click the first date, Control + Shift + Down Arrow to highlight that whole column of dates, scroll up a bit so we can see the desired format, go here, More Number Formats, Custom. Get this out of here. We want day-day, d-d, space, m-m-m-m, space, y-y-y-y, OK.
 >
@@ -764,7 +764,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (3)
 > **UI Navigation:** double-click (3), right-click (2), scroll down (1), scroll up (1), go to (1)
 > **Prerequisites:** install (6)
 > **Speakers:** - [instructor] (1)
@@ -792,7 +792,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/manage-hyperlinks?u=76281980&t=0)** - [Instructor] Let's talk about hyperlinks. And this workbook is a URL to a fictitious company. First of all, let's make a hyperlink. (computer mouse clicking) I've clicked there on the sale. I'm on the Insert tab. Go to links and just click on that because I do want add a link. I'm going to highlight here where it says text to display. I'm going to copy and then go down to the address and then paste. And let's say, we just want to call it supplements. (computer keyboard clicking) Okay. (computer mouse clicking) Nice. And then let's look at the style. (computer mouse clicking) This is how the style has set the hyperlink to look. Okay. Now here is the website where I want to grab everything on the page. Lets go back to the supplements page. (computer mouse clicking) I'm going to hit Control + A in Firefox, right-click and copy. Go back to [[Microsoft Excel|Excel]], right-click and if I don't want the hyperlinks, I just need the text or maybe I want the images as well.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/manage-hyperlinks?u=76281980&t=0)** - [Instructor] Let's talk about hyperlinks. And this workbook is a URL to a fictitious company. First of all, let's make a hyperlink. (computer mouse clicking) I've clicked there on the sale. I'm on the Insert tab. Go to links and just click on that because I do want add a link. I'm going to highlight here where it says text to display. I'm going to copy and then go down to the address and then paste. And let's say, we just want to call it supplements. (computer keyboard clicking) Okay. (computer mouse clicking) Nice. And then let's look at the style. (computer mouse clicking) This is how the style has set the hyperlink to look. Okay. Now here is the website where I want to grab everything on the page. Lets go back to the supplements page. (computer mouse clicking) I'm going to hit Control + A in Firefox, right-click and copy. Go back to [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md), right-click and if I don't want the hyperlinks, I just need the text or maybe I want the images as well.
 >
 > **[1:36](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/manage-hyperlinks?u=76281980&t=96)** I would select match destination formatting. Just the text will come in, no hyperlinks. (computer mouse clicking) But let's say that we do have all of this stuff in here, somebody else brought it in. Now we've got all of these pictures, all of this text, all of these hyperlinks. And then I go over here to do something and look at that, the website opened. Then I scroll down here. These are all live links, as you can see by that hand. Okay. And then I accidentally hit this and the website is opening again. How can we deal with this? First of all, there are all of those objects. So you, I right-click it. Now I can select it. I can right-click it (computer mouse clicking) and remove link. Okay, so now it is just an image no longer attached to a web page. But what if I want to get rid of all of the objects? I'm still in the Home tab. I'm going to go over to Find Select and then selections pane. There are all of the objects. (computer mouse clicking) So that's 73. There is 73. Okay. I can delete them like this. I can highlight one and then hit Delete.
 >
@@ -800,7 +800,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **UI Navigation:** right-click (6), go to (2), click on (1), scroll down (1)
 > **Non-Speech:** (computer mouse clicking) (8), (computer keyboard clicking) (1)
 > **CLI Commands:** find (2), make (1)
@@ -813,7 +813,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/color-picker-and-rgb-code-for-colors?u=76281980&t=0)** - Let's work with some colors. We have to straighten out this chart that somebody else made because the gold color and the purple color aren't quite right. The colors in the graph need to match the colors in the company logo over on the right side. Unfortunately, [[Microsoft Excel|Excel]] does not have an eyedropper or color picker like [[Microsoft PowerPoint|PowerPoint]] and other softwares do. But, in the text box, we've been given the RGB code and the HEX code for both of the colors, orange burst and Grape Bubblegum. And one thing we have to do is insert an airplane icon and make that Grape Bubblegum. Let's get started. I am going to click one of the yellow columns. Right Click it. Fill, More Fill Colors. Slide this out a way a bit so we can see. The HEX code should be #FFC000.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/color-picker-and-rgb-code-for-colors?u=76281980&t=0)** - Let's work with some colors. We have to straighten out this chart that somebody else made because the gold color and the purple color aren't quite right. The colors in the graph need to match the colors in the company logo over on the right side. Unfortunately, [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) does not have an eyedropper or color picker like [PowerPoint](../../Skills/Cloud%20Computing/Microsoft%20PowerPoint.md) and other softwares do. But, in the text box, we've been given the RGB code and the HEX code for both of the colors, orange burst and Grape Bubblegum. And one thing we have to do is insert an airplane icon and make that Grape Bubblegum. Let's get started. I am going to click one of the yellow columns. Right Click it. Fill, More Fill Colors. Slide this out a way a bit so we can see. The HEX code should be #FFC000.
 >
 > **[1:21](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/color-picker-and-rgb-code-for-colors?u=76281980&t=81)** Okay, ah yes. So it'll change there. Now click the purple bars. Right click, Fill. Hit that arrow. More Fill Colors. This needs to be 142. And we could do either the RGB or the HEX. Let's say green should be five, blue 122.
 >
@@ -823,7 +823,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1), [Powerpoint](../../Skills/Cloud%20Computing/Microsoft%20PowerPoint.md) (1)
 > **Env Vars:** hex (3), rgb (2), ffc000 (1), ufo (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
@@ -851,18 +851,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=0)** - [Oz] Congratulations on completing this course on Advanced Formatting Techniques in [[Microsoft Excel]]. You now have skills to control how your data looks and performs. But remember, when you get into those 3D graphics options and start changing colors, and bevels, and whatnot you have to be really tasty with what you do. Also, there were a couple of things like formatting dates, and formatting times with so much more to cover. And if you want to go deeper into those, you can find more on those topics in the [[LinkedIn]] Learning library. And, of course, you can check out my other courses on the library, where I cover topics like [[Microsoft Power Query|Power Query]] and dynamic arrays. It's been a real pleasure to put this course together for you. And I really appreciate that you put this time in. And, again, congratulations. I'm Oz du Soleil, and you can find me on LinkedIn and at my YouTube channel, [[Microsoft Excel|Excel]] on Fire. And I wish you the best on getting the most from your data and Microsoft Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=0)** - [Oz] Congratulations on completing this course on Advanced Formatting Techniques in [Microsoft Excel](../../Skills/Data%20Science/Microsoft%20Excel.md). You now have skills to control how your data looks and performs. But remember, when you get into those 3D graphics options and start changing colors, and bevels, and whatnot you have to be really tasty with what you do. Also, there were a couple of things like formatting dates, and formatting times with so much more to cover. And if you want to go deeper into those, you can find more on those topics in the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning library. And, of course, you can check out my other courses on the library, where I cover topics like [Power Query](../../Skills/Data%20Science/Microsoft%20Power%20Query.md) and dynamic arrays. It's been a real pleasure to put this course together for you. And I really appreciate that you put this time in. And, again, congratulations. I'm Oz du Soleil, and you can find me on LinkedIn and at my YouTube channel, [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) on Fire. And I wish you the best on getting the most from your data and Microsoft Excel.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel]] (2), [[LinkedIn]] (2), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Microsoft Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2), [Power query](../../Skills/Data%20Science/Microsoft%20Power%20Query.md) (1), [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [oz] (1)
 
 
 ## Instructor
 
-- [[Oz du Soleil]]
+- [Oz du Soleil](../../Instructors/Data%20Science/Oz%20du%20Soleil.md)
 
 ## Resources
 
@@ -874,26 +874,26 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Build Your Excel Skills]]
-← [[Excel- Advanced Formulas and Functions (2023)]] | **3 of 3**
+### In [Build Your Excel Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Excel%20Skills.md)
+← [Excel- Advanced Formulas and Functions (2023)](Excel-%20Advanced%20Formulas%20and%20Functions%20(2023).md) | **3 of 3**
 
-### In [[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)]]
-← [[Excel- Advanced Formulas and Functions (2023)]] | **4 of 7** | [[Excel- PivotTables in Depth]] →
+### In [Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)](../../Paths/Data%20Science/Learning%20Paths/Prepare%20for%20the%20Excel%20Expert%20-%20Microsoft%20Office%20Specialist%20Exam%20for%20M365%20Apps%20(MO-211).md)
+← [Excel- Advanced Formulas and Functions (2023)](Excel-%20Advanced%20Formulas%20and%20Functions%20(2023).md) | **4 of 7** | [Excel- PivotTables in Depth](Excel-%20PivotTables%20in%20Depth.md) →
 
 ## Appears In
 
-- [[Build Your Excel Skills]]
-- [[Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)]]
+- [Build Your Excel Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Excel%20Skills.md)
+- [Prepare for the Excel Expert - Microsoft Office Specialist Exam for M365 Apps (MO-211)](../../Paths/Data%20Science/Learning%20Paths/Prepare%20for%20the%20Excel%20Expert%20-%20Microsoft%20Office%20Specialist%20Exam%20for%20M365%20Apps%20(MO-211).md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Excel- Power Query for Beginners]] — Microsoft Excel
-- [[Excel- Filtering Data for Beginners]] — Microsoft Excel
-- [[Excel- Tracking Data Easily and Efficiently]] — Microsoft Excel
-- [[Excel for Business Analysts]] — Microsoft Excel
-- [[Complete Guide to Excel Statistics with Copilot]] — Microsoft Excel
+- [Excel- Power Query for Beginners](Excel-%20Power%20Query%20for%20Beginners.md) — Microsoft Excel
+- [Excel- Filtering Data for Beginners](Excel-%20Filtering%20Data%20for%20Beginners.md) — Microsoft Excel
+- [Excel- Tracking Data Easily and Efficiently](Excel-%20Tracking%20Data%20Easily%20and%20Efficiently.md) — Microsoft Excel
+- [Excel for Business Analysts](Excel%20for%20Business%20Analysts.md) — Microsoft Excel
+- [Complete Guide to Excel Statistics with Copilot](Complete%20Guide%20to%20Excel%20Statistics%20with%20Copilot.md) — Microsoft Excel
 
 ---
 

@@ -26,7 +26,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Programming Foundations- Object-Oriented Design]]
-- [[Programming Concepts for Python]]
-- [[Quantum Computing Fundamentals]]
-- [[C++ Design Patterns- Creational]]
+- [Programming Foundations- Object-Oriented Design](../../Courses/Software%20Development/Programming%20Foundations-%20Object-Oriented%20Design.md)
+- [Programming Concepts for Python](../../Courses/Software%20Development/Programming%20Concepts%20for%20Python.md)
+- [Quantum Computing Fundamentals](../../Courses/Cloud%20Computing/Quantum%20Computing%20Fundamentals.md)
+- [C++ Design Patterns- Creational](../../Courses/DevOps/C%2B%2B%20Design%20Patterns-%20Creational.md)

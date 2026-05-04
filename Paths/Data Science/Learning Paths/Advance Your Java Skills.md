@@ -19,19 +19,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Java Advanced Concepts For High Performance Development]]'
+  - course: '[Java Advanced Concepts For High Performance Development](../../../Courses/Data%20Science/Java%20Advanced%20Concepts%20For%20High%20Performance%20Development.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Introduction to Docker for Java Developers]]'
+  - course: '[Introduction to Docker for Java Developers](../../../Courses/Data%20Science/Introduction%20to%20Docker%20for%20Java%20Developers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Data Science for Java Developers]]'
+  - course: '[Data Science for Java Developers](../../../Courses/Data%20Science/Data%20Science%20for%20Java%20Developers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More]]'
+  - course: '[Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More](../../../Courses/Data%20Science/Advanced%20Java-%20Hands-on%20with%20Streams%2C%20Lambda%20Expressions%2C%20Collections%2C%20Generics%20and%20More.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -46,20 +46,20 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Java Advanced Concepts For High Performance Development]]
-2. [[Introduction to Docker for Java Developers]] _(1h 22m)_
-3. [[Data Science for Java Developers]] _(3h 51m)_
-4. [[Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More]] _(50m)_
+1. [Java Advanced Concepts For High Performance Development](../../../Courses/Data%20Science/Java%20Advanced%20Concepts%20For%20High%20Performance%20Development.md)
+2. [Introduction to Docker for Java Developers](../../../Courses/Data%20Science/Introduction%20to%20Docker%20for%20Java%20Developers.md) _(1h 22m)_
+3. [Data Science for Java Developers](../../../Courses/Data%20Science/Data%20Science%20for%20Java%20Developers.md) _(3h 51m)_
+4. [Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More](../../../Courses/Data%20Science/Advanced%20Java-%20Hands-on%20with%20Streams%2C%20Lambda%20Expressions%2C%20Collections%2C%20Generics%20and%20More.md) _(50m)_
 
 ## Course Flow
 
-1. [[Java Advanced Concepts For High Performance Development]] → 2. [[Introduction to Docker for Java Developers]] → 3. [[Data Science for Java Developers]] → 4. [[Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More]]
+1. [Java Advanced Concepts For High Performance Development](../../../Courses/Data%20Science/Java%20Advanced%20Concepts%20For%20High%20Performance%20Development.md) → 2. [Introduction to Docker for Java Developers](../../../Courses/Data%20Science/Introduction%20to%20Docker%20for%20Java%20Developers.md) → 3. [Data Science for Java Developers](../../../Courses/Data%20Science/Data%20Science%20for%20Java%20Developers.md) → 4. [Advanced Java- Hands-on with Streams, Lambda Expressions, Collections, Generics and More](../../../Courses/Data%20Science/Advanced%20Java-%20Hands-on%20with%20Streams%2C%20Lambda%20Expressions%2C%20Collections%2C%20Generics%20and%20More.md)
 
 ## Topics
 
-- [[Data Science]]
-- [[Software Development]]
+- [Data Science](../../../Topics/Data%20Science.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

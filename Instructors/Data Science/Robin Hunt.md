@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Data Analytics- 1 Foundations]]
-- [[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]
+- [Learning Data Analytics- 1 Foundations](../../Courses/Data%20Science/Learning%20Data%20Analytics-%201%20Foundations.md)
+- [Learning Data Analytics Part 2- Extending and Applying Core Knowledge](../../Courses/Data%20Science/Learning%20Data%20Analytics%20Part%202-%20Extending%20and%20Applying%20Core%20Knowledge.md)

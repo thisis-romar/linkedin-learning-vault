@@ -25,59 +25,59 @@ created: 2026-05-03
 
 # Graphic Design
 
-> **Type:** Concept | **Courses:** 31 | **Topics:** [[Data Science]], [[Software Development]], [[Web Development]], [[Artificial Intelligence (AI)]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 31 | **Topics:** [Data Science](../../Topics/Data%20Science.md), [Software Development](../../Topics/Software%20Development.md), [Web Development](../../Topics/Web%20Development.md), [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md), [Cybersecurity](../../Topics/Cybersecurity.md)
 
 ## Courses
 
-1. [[Introduction to Graphic Design- Concepts]] — 14 mentions
-2. [[Introduction To Web Design And Development]] — 8 mentions
-3. [[Introduction to Neo4j]] — 6 mentions
-4. [[Leveraging AI in Adobe Photoshop and Creative Cloud (2023)]] — 4 mentions
-5. [[Interaction Design- Structure]] — 2 mentions
-6. [[OpenAI API- Vision]] — 2 mentions
-7. [[Rock Your LinkedIn Profile]] — 2 mentions
-8. [[Developer Career Paths and Certifications]] — 2 mentions
-9. [[Learning Graphic Design- Layouts]] — 1 mentions
-10. [[Canva- Designing Engaging, Accessible Presentations]] — 1 mentions
+1. [Introduction to Graphic Design- Concepts](../../Courses/Data%20Science/Introduction%20to%20Graphic%20Design-%20Concepts.md) — 14 mentions
+2. [Introduction To Web Design And Development](../../Courses/Web%20Development/Introduction%20To%20Web%20Design%20And%20Development.md) — 8 mentions
+3. [Introduction to Neo4j](../../Courses/Database%20Management/Introduction%20to%20Neo4j.md) — 6 mentions
+4. [Leveraging AI in Adobe Photoshop and Creative Cloud (2023)](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Adobe%20Photoshop%20and%20Creative%20Cloud%20(2023).md) — 4 mentions
+5. [Interaction Design- Structure](../../Courses/Software%20Development/Interaction%20Design-%20Structure.md) — 2 mentions
+6. [OpenAI API- Vision](../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Vision.md) — 2 mentions
+7. [Rock Your LinkedIn Profile](../../Courses/Cloud%20Computing/Rock%20Your%20LinkedIn%20Profile.md) — 2 mentions
+8. [Developer Career Paths and Certifications](../../Courses/Software%20Development/Developer%20Career%20Paths%20and%20Certifications.md) — 2 mentions
+9. [Learning Graphic Design- Layouts](../../Courses/Data%20Science/Learning%20Graphic%20Design-%20Layouts.md) — 1 mentions
+10. [Canva- Designing Engaging, Accessible Presentations](../../Courses/Web%20Development/Canva-%20Designing%20Engaging%2C%20Accessible%20Presentations.md) — 1 mentions
 
 > [!note]- See all 31 courses
-> 11. [[Tech Career Skills- Communication for Developers]] — 1 mentions
-> 12. [[Generative AI Imaging- What Creative Pros Need to Know]] — 1 mentions
-> 13. [[Midjourney- Tips and Techniques for Creating Images]] — 1 mentions
-> 14. [[Stable Diffusion- Tips, Tricks, and Techniques]] — 1 mentions
-> 15. [[Adobe Firefly Essential Training (2024)]] — 1 mentions
-> 16. [[Creating a Responsible Generative AI Use Policy]] — 1 mentions
-> 17. [[HTML Essential Training]] — 1 mentions
-> 18. [[Succeeding in Web Development- Full Stack and Front End]] — 1 mentions
-> 19. [[Building a Cybersecurity Awareness Program]] — 1 mentions
-> 20. [[Learning Linux Command Line]] — 1 mentions
-> 21. [[OpenAI API- Image Generation with DALL-E]] — 1 mentions
-> 22. [[HTML- Images and Figures]] — 1 mentions
-> 23. [[Database Foundations- Data Structures]] — 1 mentions
-> 24. [[Learning Linux Command Line (2023)]] — 1 mentions
-> 25. [[Excel- Advanced Formatting Techniques]] — 1 mentions
-> 26. [[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]] — 1 mentions
-> 27. [[Learning Jira Cloud Edition]] — 1 mentions
-> 28. [[Advanced Tableau Desktop]] — 1 mentions
-> 29. [[Preparing To Get A Job In Data Analytics]] — 1 mentions
-> 30. [[Prompt Engineering and AI Agents with ChatGPT]] — 1 mentions
-> 31. [[Advanced Django Project- Build High-Traffic Websites with Django]] — 1 mentions
+> 11. [Tech Career Skills- Communication for Developers](../../Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Communication%20for%20Developers.md) — 1 mentions
+> 12. [Generative AI Imaging- What Creative Pros Need to Know](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20Imaging-%20What%20Creative%20Pros%20Need%20to%20Know.md) — 1 mentions
+> 13. [Midjourney- Tips and Techniques for Creating Images](../../Courses/Artificial%20Intelligence%20(AI)/Midjourney-%20Tips%20and%20Techniques%20for%20Creating%20Images.md) — 1 mentions
+> 14. [Stable Diffusion- Tips, Tricks, and Techniques](../../Courses/Artificial%20Intelligence%20(AI)/Stable%20Diffusion-%20Tips%2C%20Tricks%2C%20and%20Techniques.md) — 1 mentions
+> 15. [Adobe Firefly Essential Training (2024)](../../Courses/Artificial%20Intelligence%20(AI)/Adobe%20Firefly%20Essential%20Training%20(2024).md) — 1 mentions
+> 16. [Creating a Responsible Generative AI Use Policy](../../Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Responsible%20Generative%20AI%20Use%20Policy.md) — 1 mentions
+> 17. [HTML Essential Training](../../Courses/Web%20Development/HTML%20Essential%20Training.md) — 1 mentions
+> 18. [Succeeding in Web Development- Full Stack and Front End](../../Courses/Software%20Development/Succeeding%20in%20Web%20Development-%20Full%20Stack%20and%20Front%20End.md) — 1 mentions
+> 19. [Building a Cybersecurity Awareness Program](../../Courses/Cybersecurity/Building%20a%20Cybersecurity%20Awareness%20Program.md) — 1 mentions
+> 20. [Learning Linux Command Line](../../Courses/DevOps/Learning%20Linux%20Command%20Line.md) — 1 mentions
+> 21. [OpenAI API- Image Generation with DALL-E](../../Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Image%20Generation%20with%20DALL-E.md) — 1 mentions
+> 22. [HTML- Images and Figures](../../Courses/Web%20Development/HTML-%20Images%20and%20Figures.md) — 1 mentions
+> 23. [Database Foundations- Data Structures](../../Courses/Data%20Science/Database%20Foundations-%20Data%20Structures.md) — 1 mentions
+> 24. [Learning Linux Command Line (2023)](../../Courses/Cybersecurity/Learning%20Linux%20Command%20Line%20(2023).md) — 1 mentions
+> 25. [Excel- Advanced Formatting Techniques](../../Courses/Data%20Science/Excel-%20Advanced%20Formatting%20Techniques.md) — 1 mentions
+> 26. [Learning Data Analytics Part 2- Extending and Applying Core Knowledge](../../Courses/Data%20Science/Learning%20Data%20Analytics%20Part%202-%20Extending%20and%20Applying%20Core%20Knowledge.md) — 1 mentions
+> 27. [Learning Jira Cloud Edition](../../Courses/DevOps/Learning%20Jira%20Cloud%20Edition.md) — 1 mentions
+> 28. [Advanced Tableau Desktop](../../Courses/Data%20Science/Advanced%20Tableau%20Desktop.md) — 1 mentions
+> 29. [Preparing To Get A Job In Data Analytics](../../Courses/Data%20Science/Preparing%20To%20Get%20A%20Job%20In%20Data%20Analytics.md) — 1 mentions
+> 30. [Prompt Engineering and AI Agents with ChatGPT](../../Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20and%20AI%20Agents%20with%20ChatGPT.md) — 1 mentions
+> 31. [Advanced Django Project- Build High-Traffic Websites with Django](../../Courses/Web%20Development/Advanced%20Django%20Project-%20Build%20High-Traffic%20Websites%20with%20Django.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Visual Communication for Business Professionals]] — 15 total mentions
-2. [[Become a Marketing Coordinator]] — 14 total mentions
-3. [[Explore a Career in Front-End Web Development]] — 9 total mentions
-4. [[Applying Generative AI as a Creative Professional]] — 8 total mentions
-5. [[Develop Your NoSQL Skills]] — 6 total mentions
-6. [[Starting Your Career in Tech- Software Development]] — 4 total mentions
-7. [[Develop Your Skills with the OpenAI API]] — 3 total mentions
-8. [[Software Development Fundamentals]] — 3 total mentions
-9. [[Exploring a Career in Interaction Design]] — 2 total mentions
-10. [[Advance Your Skills in HTML]] — 2 total mentions
+1. [Visual Communication for Business Professionals](../../Paths/Data%20Science/Learning%20Paths/Visual%20Communication%20for%20Business%20Professionals.md) — 15 total mentions
+2. [Become a Marketing Coordinator](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Marketing%20Coordinator.md) — 14 total mentions
+3. [Explore a Career in Front-End Web Development](../../Paths/Web%20Development/Learning%20Paths/Explore%20a%20Career%20in%20Front-End%20Web%20Development.md) — 9 total mentions
+4. [Applying Generative AI as a Creative Professional](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Applying%20Generative%20AI%20as%20a%20Creative%20Professional.md) — 8 total mentions
+5. [Develop Your NoSQL Skills](../../Paths/Database%20Management/Learning%20Paths/Develop%20Your%20NoSQL%20Skills.md) — 6 total mentions
+6. [Starting Your Career in Tech- Software Development](../../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20Software%20Development.md) — 4 total mentions
+7. [Develop Your Skills with the OpenAI API](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Develop%20Your%20Skills%20with%20the%20OpenAI%20API.md) — 3 total mentions
+8. [Software Development Fundamentals](../../Paths/Software%20Development/Learning%20Paths/Software%20Development%20Fundamentals.md) — 3 total mentions
+9. [Exploring a Career in Interaction Design](../../Paths/Software%20Development/Learning%20Paths/Exploring%20a%20Career%20in%20Interaction%20Design.md) — 2 total mentions
+10. [Advance Your Skills in HTML](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20HTML.md) — 2 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

@@ -20,7 +20,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Job Interview Tips for Marketing Managers]]
-- [[The Habits of Successful Marketers]]
-- [[Social Media Marketing Foundations]]
-- [[Content Marketing Foundations]]
+- [Job Interview Tips for Marketing Managers](../../Courses/Data%20Science/Job%20Interview%20Tips%20for%20Marketing%20Managers.md)
+- [The Habits of Successful Marketers](../../Courses/Data%20Science/The%20Habits%20of%20Successful%20Marketers.md)
+- [Social Media Marketing Foundations](../../Courses/Data%20Science/Social%20Media%20Marketing%20Foundations.md)
+- [Content Marketing Foundations](../../Courses/Data%20Science/Content%20Marketing%20Foundations.md)

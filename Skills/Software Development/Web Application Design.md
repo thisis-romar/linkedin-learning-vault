@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building a Web Application on Microsoft Azure]] — Intermediate · 1h 48m · 11,522 learners
+- [Building a Web Application on Microsoft Azure](../../Courses/Cloud%20Computing/Building%20a%20Web%20Application%20on%20Microsoft%20Azure.md) — Intermediate · 1h 48m · 11,522 learners
 
 ## Related Skills
 
-- [[Microsoft Azure]] — 1 shared course
+- [Microsoft Azure](../Cloud%20Computing/Microsoft%20Azure.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components]] — 1 mentions
+1. [OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components](../../Courses/Cybersecurity/OWASP%20Top%2010-%20-5%20Security%20Misconfiguration%20and%20-6%20Vulnerable%20and%20Outdated%20Components.md) — 1 mentions

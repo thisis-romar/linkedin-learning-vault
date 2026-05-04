@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building GraphQL Applications in Laravel]]
+- [Building GraphQL Applications in Laravel](../../Courses/Web%20Development/Building%20GraphQL%20Applications%20in%20Laravel.md)

@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin]]
+- [Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin](../../Courses/Artificial%20Intelligence%20(AI)/Ethical%20AI%20for%20Hiring%20and%20Talent%20Acquisition-%20A%20Conversation%20with%20Don%20Phin.md)

@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cisco Network Security- Cisco Firewall Technologies]] — Intermediate · 1h 45m · 46,310 learners
+- [Cisco Network Security- Cisco Firewall Technologies](../../Courses/Cybersecurity/Cisco%20Network%20Security-%20Cisco%20Firewall%20Technologies.md) — Intermediate · 1h 45m · 46,310 learners
 
 ## Related Skills
 
-- [[Network Security]] — 1 shared course
+- [Network Security](../Cybersecurity/Network%20Security.md) — 1 shared course

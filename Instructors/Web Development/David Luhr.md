@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Accessibility-First Design]]
+- [Accessibility-First Design](../../Courses/Web%20Development/Accessibility-First%20Design.md)

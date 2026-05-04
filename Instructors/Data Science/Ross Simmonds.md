@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Nano Tips for Using ChatGPT for Marketers with Ross Simmonds]]
+- [Nano Tips for Using ChatGPT for Marketers with Ross Simmonds](../../Courses/Data%20Science/Nano%20Tips%20for%20Using%20ChatGPT%20for%20Marketers%20with%20Ross%20Simmonds.md)

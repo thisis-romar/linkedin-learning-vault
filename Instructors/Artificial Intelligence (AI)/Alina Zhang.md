@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Responsible AI Framework for Your Enterprise AI Product]]
+- [Responsible AI Framework for Your Enterprise AI Product](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20Framework%20for%20Your%20Enterprise%20AI%20Product.md)

@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[GraphRAG Essential Training]] — Intermediate · 1h 39m · 29,611 learners
+- [GraphRAG Essential Training](../../Courses/Artificial%20Intelligence%20(AI)/GraphRAG%20Essential%20Training.md) — Intermediate · 1h 39m · 29,611 learners
 
 ## Related Skills
 
-- [[GraphRAG]] — 1 shared course
-- [[Knowledge Graphs]] — 1 shared course
-- [[Retrieval-Augmented Generation (RAG)]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [GraphRAG](GraphRAG.md) — 1 shared course
+- [Knowledge Graphs](../Artificial%20Intelligence%20(AI)/Knowledge%20Graphs.md) — 1 shared course
+- [Retrieval-Augmented Generation (RAG)](../Artificial%20Intelligence%20(AI)/Retrieval-Augmented%20Generation%20(RAG).md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

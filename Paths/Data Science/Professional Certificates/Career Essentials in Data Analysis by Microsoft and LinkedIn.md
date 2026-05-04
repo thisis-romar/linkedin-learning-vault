@@ -17,23 +17,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Introduction To Career Skills In Data Analytics]]'
+  - course: '[Introduction To Career Skills In Data Analytics](../../../Courses/Data%20Science/Introduction%20To%20Career%20Skills%20In%20Data%20Analytics.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning Data Analytics- 1 Foundations]]'
+  - course: '[Learning Data Analytics- 1 Foundations](../../../Courses/Data%20Science/Learning%20Data%20Analytics-%201%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]]'
+  - course: '[Learning Data Analytics Part 2- Extending and Applying Core Knowledge](../../../Courses/Data%20Science/Learning%20Data%20Analytics%20Part%202-%20Extending%20and%20Applying%20Core%20Knowledge.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Data Analytics for Business Professionals]]'
+  - course: '[Data Analytics for Business Professionals](../../../Courses/Data%20Science/Data%20Analytics%20for%20Business%20Professionals.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Data Visualization for Data Analysts and Analytics]]'
+  - course: '[Data Visualization for Data Analysts and Analytics](../../../Courses/Data%20Science/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -48,30 +48,30 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Introduction To Career Skills In Data Analytics]]
-2. [[Learning Data Analytics- 1 Foundations]] _(3h 29m)_
-3. [[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]] _(3h 22m)_
-4. [[Data Analytics for Business Professionals]] _(1h 20m)_
-5. [[Data Visualization for Data Analysts and Analytics]] _(1h 44m)_
+1. [Introduction To Career Skills In Data Analytics](../../../Courses/Data%20Science/Introduction%20To%20Career%20Skills%20In%20Data%20Analytics.md)
+2. [Learning Data Analytics- 1 Foundations](../../../Courses/Data%20Science/Learning%20Data%20Analytics-%201%20Foundations.md) _(3h 29m)_
+3. [Learning Data Analytics Part 2- Extending and Applying Core Knowledge](../../../Courses/Data%20Science/Learning%20Data%20Analytics%20Part%202-%20Extending%20and%20Applying%20Core%20Knowledge.md) _(3h 22m)_
+4. [Data Analytics for Business Professionals](../../../Courses/Data%20Science/Data%20Analytics%20for%20Business%20Professionals.md) _(1h 20m)_
+5. [Data Visualization for Data Analysts and Analytics](../../../Courses/Data%20Science/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics.md) _(1h 44m)_
 
 ## Course Flow
 
-1. [[Introduction To Career Skills In Data Analytics]] → 2. [[Learning Data Analytics- 1 Foundations]] → 3. [[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]] → 4. [[Data Analytics for Business Professionals]] → 5. [[Data Visualization for Data Analysts and Analytics]]
+1. [Introduction To Career Skills In Data Analytics](../../../Courses/Data%20Science/Introduction%20To%20Career%20Skills%20In%20Data%20Analytics.md) → 2. [Learning Data Analytics- 1 Foundations](../../../Courses/Data%20Science/Learning%20Data%20Analytics-%201%20Foundations.md) → 3. [Learning Data Analytics Part 2- Extending and Applying Core Knowledge](../../../Courses/Data%20Science/Learning%20Data%20Analytics%20Part%202-%20Extending%20and%20Applying%20Core%20Knowledge.md) → 4. [Data Analytics for Business Professionals](../../../Courses/Data%20Science/Data%20Analytics%20for%20Business%20Professionals.md) → 5. [Data Visualization for Data Analysts and Analytics](../../../Courses/Data%20Science/Data%20Visualization%20for%20Data%20Analysts%20and%20Analytics.md)
 
 ## Topics
 
-- [[Data Science]]
+- [Data Science](../../../Topics/Data%20Science.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Explore a Career in Data Analysis]] (3 shared courses)
-- [[Become a Business Intelligence Specialist]] (2 shared courses)
-- [[Become a Data Analytics Specialist]] (2 shared courses)
-- [[Become a Data Analyst]] (2 shared courses)
-- [[Advance Your Business Analytics Skills]] (2 shared courses)
+- [Explore a Career in Data Analysis](../Learning%20Paths/Explore%20a%20Career%20in%20Data%20Analysis.md) (3 shared courses)
+- [Become a Business Intelligence Specialist](../Learning%20Paths/Become%20a%20Business%20Intelligence%20Specialist.md) (2 shared courses)
+- [Become a Data Analytics Specialist](../Learning%20Paths/Become%20a%20Data%20Analytics%20Specialist.md) (2 shared courses)
+- [Become a Data Analyst](../Learning%20Paths/Become%20a%20Data%20Analyst.md) (2 shared courses)
+- [Advance Your Business Analytics Skills](../Learning%20Paths/Advance%20Your%20Business%20Analytics%20Skills.md) (2 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

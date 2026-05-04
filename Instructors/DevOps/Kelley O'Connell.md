@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Software Development- Transforming Your Organization]]
-- [[Scrum- The Basics]]
-- [[Scrum- Advanced]]
+- [Agile Software Development- Transforming Your Organization](../../Courses/DevOps/Agile%20Software%20Development-%20Transforming%20Your%20Organization.md)
+- [Scrum- The Basics](../../Courses/DevOps/Scrum-%20The%20Basics.md)
+- [Scrum- Advanced](../../Courses/DevOps/Scrum-%20Advanced.md)

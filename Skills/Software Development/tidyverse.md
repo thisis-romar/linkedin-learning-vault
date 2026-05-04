@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[R Tidyverse Applications]] — Intermediate · 4h 6m · 36,639 learners
-- [[Learning the R Tidyverse]] — Intermediate · 3h 18m · 9,413 learners
+- [R Tidyverse Applications](../../Courses/Data%20Science/R%20Tidyverse%20Applications.md) — Intermediate · 4h 6m · 36,639 learners
+- [Learning the R Tidyverse](../../Courses/Data%20Science/Learning%20the%20R%20Tidyverse.md) — Intermediate · 3h 18m · 9,413 learners
 
 ## Related Skills
 
-- [[R (Programming Language)]] — 2 shared courses
+- [R (Programming Language)](../Data%20Science/R%20(Programming%20Language).md) — 2 shared courses

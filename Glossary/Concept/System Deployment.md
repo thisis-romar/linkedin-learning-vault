@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # System Deployment
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[IT Help Desk]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [IT Help Desk](../../Topics/IT%20Help%20Desk.md)
 
 ## Courses
 
-1. [[Windows 10 Configure And Support Core Services]] — 1 mentions
+1. [Windows 10 Configure And Support Core Services](../../Courses/IT%20Help%20Desk/Windows%2010%20Configure%20And%20Support%20Core%20Services.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Advance Your Skills as an IT Help Desk Specialist]] — 1 total mentions
+1. [Advance Your Skills as an IT Help Desk Specialist](../../Paths/IT%20Help%20Desk/Learning%20Paths/Advance%20Your%20Skills%20as%20an%20IT%20Help%20Desk%20Specialist.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

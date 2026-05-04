@@ -26,7 +26,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Training Neural Networks in Python]]
-- [[Hands-On AI- Image Processing with Python]]
-- [[C Programming for Embedded Applications]]
-- [[Learning C++]]
+- [Training Neural Networks in Python](../../Courses/Artificial%20Intelligence%20(AI)/Training%20Neural%20Networks%20in%20Python.md)
+- [Hands-On AI- Image Processing with Python](../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Image%20Processing%20with%20Python.md)
+- [C Programming for Embedded Applications](../../Courses/Software%20Development/C%20Programming%20for%20Embedded%20Applications.md)
+- [Learning C++](../../Courses/Software%20Development/Learning%20C%2B%2B.md)

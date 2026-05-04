@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Foundations of Decentralized Finance (DeFi)]]
+- [Foundations of Decentralized Finance (DeFi)](../../Courses/Cybersecurity/Foundations%20of%20Decentralized%20Finance%20(DeFi).md)

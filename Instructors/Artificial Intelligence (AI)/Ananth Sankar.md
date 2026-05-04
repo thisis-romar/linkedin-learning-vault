@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[LinkedIn AI Academy AI-100- 2 Supervised Learning with Neural Networks]]
+- [LinkedIn AI Academy AI-100- 2 Supervised Learning with Neural Networks](../../Courses/Artificial%20Intelligence%20(AI)/LinkedIn%20AI%20Academy%20AI-100-%202%20Supervised%20Learning%20with%20Neural%20Networks.md)

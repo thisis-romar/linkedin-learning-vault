@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Stakeholder Management for Leaders and Managers]] — Intermediate · 54m · 77,217 learners
+- [Stakeholder Management for Leaders and Managers](../../Courses/Data%20Science/Stakeholder%20Management%20for%20Leaders%20and%20Managers.md) — Intermediate · 54m · 77,217 learners
 
 ## Related Skills
 
-- [[Team Management]] — 1 shared course
-- [[Objectives and Key Results (OKRs)]] — 1 shared course
+- [Team Management](Team%20Management.md) — 1 shared course
+- [Objectives and Key Results (OKRs)](Objectives%20and%20Key%20Results%20(OKRs).md) — 1 shared course
