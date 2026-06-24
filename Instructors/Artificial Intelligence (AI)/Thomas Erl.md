@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]]
+- [Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20and%20Predictive%20AI%20in%20the%20Cloud-%20Foundational%20Concepts%20and%20Scenarios.md)

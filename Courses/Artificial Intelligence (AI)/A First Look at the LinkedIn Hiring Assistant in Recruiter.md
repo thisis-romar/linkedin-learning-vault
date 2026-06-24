@@ -10,9 +10,9 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFcB9tpYRV8uQ/learning-public-crop_675_1200/B4EZmXCpRDKoAY-/0/1759175677295?e=2147483647&amp;v=beta&amp;t=JNmPs3LzI5Oox0CRrNM2O7jmpPFJgvt5r3TCq3VIBKI"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - '[[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]]'
+  - '[Generative AI for Recruiting Professional Certificate by LinkedIn Learning](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Generative%20AI%20for%20Recruiting%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)'
 prev_courses:
-  - '[[Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin]]'
+  - '[Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin](Ethical%20AI%20for%20Hiring%20and%20Talent%20Acquisition-%20A%20Conversation%20with%20Don%20Phin.md)'
 path_nav: '[{"path":"Generative AI for Recruiting Professional Certificate by LinkedIn Learning","position":6,"total":6,"prev":"Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin","next":null}]'
 path_count: 1
 tags:
@@ -55,11 +55,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980&t=0)** - [Narrator] Hiring can feel like juggling ten things at once, with roles to fill, stakeholders to align, candidates to track. That's where [[LinkedIn]]'s Hiring Assistant comes in. LinkedIn's Hiring Assistant keeps everything for a role in one place and saves you time from bouncing between spreadsheets, notes, and emails. In this course, we will walk through exactly how to spin up a new project. By the end, you'll know how to review candidate qualifications, fine-tune your strategy, as well as evaluate, manage, and pre-screen candidates. Hi, I'm Chris. I'm not just going to talk about what Hiring Assistant does here. I'm going to show you. So go ahead and open Recruiter, no install require, and think of a specific role that you're hiring for. Let's get into it.
+> **[0:00](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980&t=0)** - [Narrator] Hiring can feel like juggling ten things at once, with roles to fill, stakeholders to align, candidates to track. That's where [LinkedIn](../../Skills/Web%20Development/LinkedIn.md)'s Hiring Assistant comes in. LinkedIn's Hiring Assistant keeps everything for a role in one place and saves you time from bouncing between spreadsheets, notes, and emails. In this course, we will walk through exactly how to spin up a new project. By the end, you'll know how to review candidate qualifications, fine-tune your strategy, as well as evaluate, manage, and pre-screen candidates. Hi, I'm Chris. I'm not just going to talk about what Hiring Assistant does here. I'm going to show you. So go ahead and open Recruiter, no install require, and think of a specific role that you're hiring for. Let's get into it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
@@ -72,7 +72,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980&t=0)** - Alright, say you're Cameron. A recruiter who needs to hire a senior level software engineer and fast. You can first locate the Hiring Assistant icon top right. Clicking on it will open a sliding window with all of Hiring Assistant activity, including the previous Hiring Assistant project created, or start hiring for a new role. But this is our first project, right? So we're going for the faster route. From the recruiter homepage just clicking the central search bar and selecting the dropdown menu, create a new Hiring Assistant project. I will first make sure that Hiring Assistant is added to this project by turning this to on. I'm now ready to describe my ideal candidate. I can add qualifications, attach a job description, a PDF document extracted from my career site, mention an ideal profile or add a [[LinkedIn]] job post. But I just got out of the strategy meeting where we discuss this requirement. I'm just going to copy paste the discussion we had. We are looking for a senior level software engineer with at least eight years of experience. This is a hybrid role based in Bangalore. Of course, this is only the starting point of our discussion with the Hiring Assistant, but I'm satisfied for now, and I'll click on continue. Hiring Assistant will use these role details and qualifications to find top candidates. Let's focus on the role details. They have been extracted from my initial prompt, which is why the employment type is not specified.
+> **[0:00](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980&t=0)** - Alright, say you're Cameron. A recruiter who needs to hire a senior level software engineer and fast. You can first locate the Hiring Assistant icon top right. Clicking on it will open a sliding window with all of Hiring Assistant activity, including the previous Hiring Assistant project created, or start hiring for a new role. But this is our first project, right? So we're going for the faster route. From the recruiter homepage just clicking the central search bar and selecting the dropdown menu, create a new Hiring Assistant project. I will first make sure that Hiring Assistant is added to this project by turning this to on. I'm now ready to describe my ideal candidate. I can add qualifications, attach a job description, a PDF document extracted from my career site, mention an ideal profile or add a [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) job post. But I just got out of the strategy meeting where we discuss this requirement. I'm just going to copy paste the discussion we had. We are looking for a senior level software engineer with at least eight years of experience. This is a hybrid role based in Bangalore. Of course, this is only the starting point of our discussion with the Hiring Assistant, but I'm satisfied for now, and I'll click on continue. Hiring Assistant will use these role details and qualifications to find top candidates. Let's focus on the role details. They have been extracted from my initial prompt, which is why the employment type is not specified.
 >
 > **[1:35](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980&t=95)** I'm going to select full-time here. Of course, I can change the job title if I find those too restrictive. And because I made some modifications here, I need to click on apply edits. Hiring Assistant already has some suggestions for me. I can review candidates together. Sometimes it will tell me to review the qualifications already, or I can start sourcing now. We'll review qualifications and evaluation in the next video. So let's start sourcing now. The sourcing is in progress and the project is created. Hiring Assistant will add candidates to my pipeline automatically. I can now open the project. This is my project overview page. There is no Hiring Assistant activity just yet, but I can go and edit the requirements if I want. This is a familiar page. We can change the role details or modify the qualifications, but for now, I'm just going to click on the gear icon, top right, and edit my settings. The Hiring Assistant settings on this project are divided in between sourcing and evaluation and messaging and candidate engagement. If I click on edit, I can select the automated candidate sourcing. There are two targets I can select from. I can select the number of email accept, or I can select the number of candidates that Hiring Assistant will source at once. What about the messaging then? I can either select Hiring Assistant
 >
@@ -80,7 +80,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **UI Navigation:** click on (5), select the (3), dropdown (1), open the (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (2)
@@ -135,11 +135,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-with-smart-outreach?u=76281980&t=0)** - [Instructor] Now, let's see. All candidates are reviewed. I gave feedback to Hiring Assistant and some evaluation. I am now ready to engage with them. I can do so individually by clicking on the envelope icon or select all candidates in my pipeline and click the message icon. And because this is the outreach setting I selected earlier, messages have already been generated by AI. All I need to do right now is review these messages to ensure they feed the tone and brand guidelines and customize to my liking. I can highlight some text in bold or italic, add some hyperlink, bullet points, or attach some documents to the message. Each and every message sent to these 15 customers will be customized automatically. If I am satisfied with the message and its level of details, I can then scroll down to review if I want to set up some follow up, but more important and brand new with Hiring Assistant, you can save time with automated prescreening. If you select add for all, you're giving Hiring Assistant permission to start prescreening after candidate interest or when triggered manually. It means it uses your approved intro and questions and candidates can opt-out any time. You can monitor progress, take over at any time, and your summary after completion.
 >
-> **[1:33](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-with-smart-outreach?u=76281980&t=93)** All messages note that from the assistant [[LinkedIn]] may review conversations for improvement. Once that's set up, you can either send a message to that particular candidate or send to all. And that's it. It took me about 15 minutes to create a brand new project with Hiring Assistant leading to the stage when I'm contacting potential candidates already. Now I can keep up with Hiring Assistant notification, fine tune my qualifications or requirements, review more candidates, or evaluate them, or simply wait for these candidates I just contacted to get back to me. In the meantime, I can continue my learning journey on Hiring Assistant and LinkedIn's AI powered feature. I'll show you that in the next video.
+> **[1:33](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-with-smart-outreach?u=76281980&t=93)** All messages note that from the assistant [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) may review conversations for improvement. Once that's set up, you can either send a message to that particular candidate or send to all. And that's it. It took me about 15 minutes to create a brand new project with Hiring Assistant leading to the stage when I'm contacting potential candidates already. Now I can keep up with Hiring Assistant notification, fine tune my qualifications or requirements, review more candidates, or evaluate them, or simply wait for these candidates I just contacted to get back to me. In the meantime, I can continue my learning journey on Hiring Assistant and LinkedIn's AI powered feature. I'll show you that in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -168,13 +168,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-outreach-and-prescreening?u=76281980&t=0)** - [Trainer] Hiring assistant is a brand new adventure, and we're here to support you every step of the way. From anywhere in Recruiter, click on the question mark icon top right, and you'll see the range of all resources at your disposal to continue your learning journey on Hiring Assistant or any AI-powered features on [[LinkedIn]]. Starting with the Help Center, just type the keyword "hiring assistant," and you'll see all the pages on various topic related, connected to Hiring Assistant. There is also a virtual chat feature available 24/7 powered by AI. And then there's the Customer Learning Center with a large catalog of resources on Hiring Assistant, including live workshop sessions, recordings, videos, PDF cheat sheets, as we have added to the exercise file, covering a various range of topics related to Hiring Assistant. If you're more interested in the admin task, you can watch this recording or attend one of our live sessions of Admin Essentials webinar. If you want to know more about the user journey, open this series of videos and you'll know more about the features, benefit, how to hire, review, contact candidates, and integrate with job posts. And last but not least, the community, another great and engaging resource. Our Talent Solution Community is a collaborative platform built exclusively for lending, hiring,
+> **[0:00](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-outreach-and-prescreening?u=76281980&t=0)** - [Trainer] Hiring assistant is a brand new adventure, and we're here to support you every step of the way. From anywhere in Recruiter, click on the question mark icon top right, and you'll see the range of all resources at your disposal to continue your learning journey on Hiring Assistant or any AI-powered features on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md). Starting with the Help Center, just type the keyword "hiring assistant," and you'll see all the pages on various topic related, connected to Hiring Assistant. There is also a virtual chat feature available 24/7 powered by AI. And then there's the Customer Learning Center with a large catalog of resources on Hiring Assistant, including live workshop sessions, recordings, videos, PDF cheat sheets, as we have added to the exercise file, covering a various range of topics related to Hiring Assistant. If you're more interested in the admin task, you can watch this recording or attend one of our live sessions of Admin Essentials webinar. If you want to know more about the user journey, open this series of videos and you'll know more about the features, benefit, how to hire, review, contact candidates, and integrate with job posts. And last but not least, the community, another great and engaging resource. Our Talent Solution Community is a collaborative platform built exclusively for lending, hiring,
 >
 > **[1:35](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-outreach-and-prescreening?u=76281980&t=95)** and learning customers. This space is designed for you to network and engage with your peers, ask questions, discuss trends, and participate in exclusive events. Stay tuned for upcoming news, and this concludes our discovery of Hiring Assistant. I hope you now understand why we should all bet on hiring assistant from now on. I was very excited to share with you those videos, and I hope to see you in our next one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** click on (1)
@@ -184,20 +184,20 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Christophe Ait-Ouaret]]
+- [Christophe Ait-Ouaret](../../Instructors/Artificial%20Intelligence%20(AI)/Christophe%20Ait-Ouaret.md)
 
 ## Path Context
 
-### In [[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]]
-← [[Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin]] | **6 of 6**
+### In [Generative AI for Recruiting Professional Certificate by LinkedIn Learning](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Generative%20AI%20for%20Recruiting%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
+← [Ethical AI for Hiring and Talent Acquisition- A Conversation with Don Phin](Ethical%20AI%20for%20Hiring%20and%20Talent%20Acquisition-%20A%20Conversation%20with%20Don%20Phin.md) | **6 of 6**
 
 ## Part of
 
-- [[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]]
+- [Generative AI for Recruiting Professional Certificate by LinkedIn Learning](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Generative%20AI%20for%20Recruiting%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
 
 ## Appears In
 
-- [[Generative AI for Recruiting Professional Certificate by LinkedIn Learning]]
+- [Generative AI for Recruiting Professional Certificate by LinkedIn Learning](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Generative%20AI%20for%20Recruiting%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
 
 ---
 

@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL for Finance Professionals]]
+- [SQL for Finance Professionals](../../Courses/Data%20Science/SQL%20for%20Finance%20Professionals.md)

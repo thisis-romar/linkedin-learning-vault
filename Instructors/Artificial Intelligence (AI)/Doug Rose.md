@@ -32,10 +32,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Foundations]]
-- [[Generative AI vs. Traditional AI]]
-- [[Everyday AI Business Tools]]
-- [[Everyday Ai Concepts]]
-- [[Data Ethics- Watching Out for Data Misuse]]
-- [[Data Ethics- Making Data-Driven Decisions]]
-- [[Introduction To Artificial Intelligence]]
+- [Agile Foundations](../../Courses/DevOps/Agile%20Foundations.md)
+- [Generative AI vs. Traditional AI](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20vs.%20Traditional%20AI.md)
+- [Everyday AI Business Tools](../../Courses/Artificial%20Intelligence%20(AI)/Everyday%20AI%20Business%20Tools.md)
+- [Everyday Ai Concepts](../../Courses/Artificial%20Intelligence%20(AI)/Everyday%20Ai%20Concepts.md)
+- [Data Ethics- Watching Out for Data Misuse](../../Courses/Data%20Science/Data%20Ethics-%20Watching%20Out%20for%20Data%20Misuse.md)
+- [Data Ethics- Making Data-Driven Decisions](../../Courses/Data%20Science/Data%20Ethics-%20Making%20Data-Driven%20Decisions.md)
+- [Introduction To Artificial Intelligence](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Artificial%20Intelligence.md)

@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Marketing Foundations]] — Beginner · 1h 15m · 193,583 learners
-- [[The Habits of Successful Marketers]] — Beginner · 43m · 163,805 learners
+- [Marketing Foundations](../../Courses/Data%20Science/Marketing%20Foundations.md) — Beginner · 1h 15m · 193,583 learners
+- [The Habits of Successful Marketers](../../Courses/Data%20Science/The%20Habits%20of%20Successful%20Marketers.md) — Beginner · 43m · 163,805 learners

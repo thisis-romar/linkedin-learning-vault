@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Marketing Foundations- Customer Decision Journey]]
+- [Marketing Foundations- Customer Decision Journey](../../Courses/Data%20Science/Marketing%20Foundations-%20Customer%20Decision%20Journey.md)

@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced Accessible PDFs]] — Advanced · 6h 46m · 36,091 learners
-- [[Creating Accessible PDFs]] — Intermediate · 8h 16m · 11,891 learners
+- [Advanced Accessible PDFs](../../Courses/Web%20Development/Advanced%20Accessible%20PDFs.md) — Advanced · 6h 46m · 36,091 learners
+- [Creating Accessible PDFs](../../Courses/Web%20Development/Creating%20Accessible%20PDFs.md) — Intermediate · 8h 16m · 11,891 learners
 
 ## Related Skills
 
-- [[PDF Management]] — 2 shared courses
+- [PDF Management](PDF%20Management.md) — 2 shared courses
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 1 mentions
+1. [Choosing A Database Postgresql Mysql Mongo And Cloud](../../Courses/Data%20Science/Choosing%20A%20Database%20Postgresql%20Mysql%20Mongo%20And%20Cloud.md) — 1 mentions

@@ -17,19 +17,19 @@ created: 2026-05-03
 
 # Customer Marketing
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Data Science]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Data Science](../../Topics/Data%20Science.md)
 
 ## Courses
 
-1. [[Marketing Foundations]] — 2 mentions
+1. [Marketing Foundations](../../Courses/Data%20Science/Marketing%20Foundations.md) — 2 mentions
 
 ## Learning Paths
 
-1. [[Advance as a Digital Marketing Specialist]] — 2 total mentions
-2. [[Become a Marketing Coordinator]] — 2 total mentions
+1. [Advance as a Digital Marketing Specialist](../../Paths/Data%20Science/Learning%20Paths/Advance%20as%20a%20Digital%20Marketing%20Specialist.md) — 2 total mentions
+2. [Become a Marketing Coordinator](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Marketing%20Coordinator.md) — 2 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

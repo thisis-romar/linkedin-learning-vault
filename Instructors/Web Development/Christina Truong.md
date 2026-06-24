@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[HTML Essential Training]]
-- [[CSS Essential Training (2023)]]
-- [[CSS Layouts- From Float to Flexbox and Grid]]
+- [HTML Essential Training](../../Courses/Web%20Development/HTML%20Essential%20Training.md)
+- [CSS Essential Training (2023)](../../Courses/Web%20Development/CSS%20Essential%20Training%20(2023).md)
+- [CSS Layouts- From Float to Flexbox and Grid](../../Courses/Web%20Development/CSS%20Layouts-%20From%20Float%20to%20Flexbox%20and%20Grid.md)

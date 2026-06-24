@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[React- Accessibility]] — Intermediate · 34m · 39,736 learners
-- [[Supporting Accessibility in a Hybrid Workplace]] — 50m · 33,831 learners
+- [React- Accessibility](../../Courses/Software%20Development/React-%20Accessibility.md) — Intermediate · 34m · 39,736 learners
+- [Supporting Accessibility in a Hybrid Workplace](../../Courses/Web%20Development/Supporting%20Accessibility%20in%20a%20Hybrid%20Workplace.md) — 50m · 33,831 learners
 
 ## Related Skills
 
-- [[Workplace Organization]] — 1 shared course
-- [[Accessible Design]] — 1 shared course
-- [[Diversity, Equity, Inclusion and Belonging (DEIB)]] — 1 shared course
-- [[React.js]] — 1 shared course
+- [Workplace Organization](Workplace%20Organization.md) — 1 shared course
+- [Accessible Design](Accessible%20Design.md) — 1 shared course
+- [Diversity, Equity, Inclusion and Belonging (DEIB)](Diversity%2C%20Equity%2C%20Inclusion%20and%20Belonging%20(DEIB).md) — 1 shared course
+- [React.js](React.js.md) — 1 shared course

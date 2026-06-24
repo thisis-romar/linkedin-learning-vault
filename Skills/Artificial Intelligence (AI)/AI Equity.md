@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Understanding Ai S Global Impact Governance Equity And Responsibility]]
+- [Understanding Ai S Global Impact Governance Equity And Responsibility](../../Courses/Artificial%20Intelligence%20(AI)/Understanding%20Ai%20S%20Global%20Impact%20Governance%20Equity%20And%20Responsibility.md)
 
 ## Related Skills
 
-- [[AI Policy, Governance, and Regulation]] — 1 shared course
-- [[Responsible AI]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [AI Policy, Governance, and Regulation](AI%20Policy%2C%20Governance%2C%20and%20Regulation.md) — 1 shared course
+- [Responsible AI](Responsible%20AI.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

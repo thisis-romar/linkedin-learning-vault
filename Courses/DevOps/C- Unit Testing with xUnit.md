@@ -19,11 +19,11 @@ github: "https://github.com/LinkedInLearning/c-sharp-unit-testing-with-xunit-440
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFbkepEwSX3vA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691084155010?e=2147483647&amp;v=beta&amp;t=JCv0g-b98lkNnkBiom6gDHCI9YwS6YnMx-w5v4RYCug"
 linkedin_topic: DevOps
 learning_paths:
-  - '[[Elevating C- Skills- Building Robust Applications]]'
+  - '[Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)'
 prev_courses:
-  - '[[C- Cross-Platform Development]]'
+  - '[C- Cross-Platform Development](C-%20Cross-Platform%20Development.md)'
 next_courses:
-  - '[[C- Practice- Generic Collections]]'
+  - '[C- Practice- Generic Collections](C-%20Practice-%20Generic%20Collections.md)'
 path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":7,"total":8,"prev":"C- Cross-Platform Development","next":"C- Practice- Generic Collections"}]'
 path_count: 1
 tags:
@@ -81,11 +81,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=0)** - Hi, my name is Jesse Freeman. Welcome to this course, "C# [[Unit Testing]] with xUnit." In this course, I'll first introduce you to the foundational concepts of unit testing and the role xUnit plays in it. Then I'll guide you through a detailed setup process of xUnit for your development environment. We'll also dive deeper into the specifications of xUnit's function, benefits, and its core role in the [[Test-Driven Development]] cycle. Now let's get started.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980&t=0)** - Hi, my name is Jesse Freeman. Welcome to this course, "C# [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) with xUnit." In this course, I'll first introduce you to the foundational concepts of unit testing and the role xUnit plays in it. Then I'll guide you through a detailed setup process of xUnit for your development environment. We'll also dive deeper into the specifications of xUnit's function, benefits, and its core role in the [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md) cycle. Now let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (2), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) (2), [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md) (1)
 > **Code Identifiers:** xunit (4)
 > **Prerequisites:** setup (1)
 > **Speakers:** - hi (1)
@@ -95,11 +95,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is primarily targeted towards intermediate developers who have a basic understanding of [[Software Development]] practices. Before diving in, you should have some familiarity with coding and a grasp of fundamental programming principles. Knowing how to write code is a must, and a basic understanding of testing practices would be helpful, but is not required. I will walk you through every concept to ensure you have a firm understanding by the end of this course.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is primarily targeted towards intermediate developers who have a basic understanding of [Software Development](../../Topics/Software%20Development.md) practices. Before diving in, you should have some familiarity with coding and a grasp of fundamental programming principles. Knowing how to write code is a must, and a basic understanding of testing practices would be helpful, but is not required. I will walk you through every concept to ensure you have a firm understanding by the end of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1)
+> **Frameworks & Libraries:** [Software Development](../../Topics/Software%20Development.md) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -112,13 +112,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=0)** - [Instructor] The role of XUnit in [[Unit Testing]]. Let's explore the concepts of unit testing in [[Software Development]], its benefits, and the advantages of using [[Xcode]], which is a robust unit testing tool for the .NET Framework. First, let's start with an introduction to unit testing. Unit testing is a fundamental aspect of software development, serving to verify the functionality in individual units of source code. It's a critical first line of defense in finding and fixing bugs, facilitating changes, and ensuring overall software quality. Unit tests offer numerous benefits. They improve the quality of code, they make refactoring easier and safer, they can also serve as documentation, they speed up the development process, and they foster better design, among other advantages. Unit testing is a critical part of the software development life cycle, typically occurring after the implementation phase, but before [[Integration Testing]]. By catching issues early, unit tests save time and effort in later stages of development. What are the real-world impacts of unit testing? A lack of adequate unit testing could have serious real-world consequences, leading to software failures that cost time, money, and even lives. Now, in order for us to begin using unit tests in our project, we're going to need to use a library called XUnit. XUnit is a free, open-source, community-focused unit testing tool for the .NET Framework. It's designed to be a clear, concise, and user-friendly framework for writing tests in languages like C# and F#.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=0)** - [Instructor] The role of XUnit in [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md). Let's explore the concepts of unit testing in [Software Development](../../Topics/Software%20Development.md), its benefits, and the advantages of using [Xcode](../../Skills/Mobile%20Development/Xcode.md), which is a robust unit testing tool for the .NET Framework. First, let's start with an introduction to unit testing. Unit testing is a fundamental aspect of software development, serving to verify the functionality in individual units of source code. It's a critical first line of defense in finding and fixing bugs, facilitating changes, and ensuring overall software quality. Unit tests offer numerous benefits. They improve the quality of code, they make refactoring easier and safer, they can also serve as documentation, they speed up the development process, and they foster better design, among other advantages. Unit testing is a critical part of the software development life cycle, typically occurring after the implementation phase, but before [Integration Testing](../../Skills/Software%20Development/Integration%20Testing.md). By catching issues early, unit tests save time and effort in later stages of development. What are the real-world impacts of unit testing? A lack of adequate unit testing could have serious real-world consequences, leading to software failures that cost time, money, and even lives. Now, in order for us to begin using unit tests in our project, we're going to need to use a library called XUnit. XUnit is a free, open-source, community-focused unit testing tool for the .NET Framework. It's designed to be a clear, concise, and user-friendly framework for writing tests in languages like C# and F#.
 >
 > **[1:35](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980&t=95)** XUnit offers several notable features, including support for data-driven tests, easy integration with .NET Core, isolation of code through class level setup and teardown, and the ability to run parallel tests. These features make it a powerful tool for unit tests in .NET environments. Let's talk about XUnit versus other testing frameworks. XUnit stands out from other frameworks due to its focus on community, flexibility, and modern testing conventions. Here's how it compares to other popular frameworks like NUnit and MSTest. XUnit has more flexibility due to unique features like the theory attribute for data-driven tests. XUnit also has a strong community and is used in open-source projects and is open-source itself. And finally, XUnit has built-in support for parallel testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (9), [[Software Development]] (3), [[Xcode]] (1), [[Integration Testing]] (1)
+> **Frameworks & Libraries:** [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) (9), [Software Development](../../Topics/Software%20Development.md) (3), [Xcode](../../Skills/Mobile%20Development/Xcode.md) (1), [Integration Testing](../../Skills/Software%20Development/Integration%20Testing.md) (1)
 > **Env Vars:** net (4)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
@@ -130,13 +130,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980&t=0)** - [Narrator] Let's do a deep dive into the [[Test-Driven Development]] cycle, or TDD for short. We'll discuss where XUnit fits in, some important terminology used in XUnit, and each phase of the red, green, and refactor process. Test-driven development is a [[Software Development]] methodology where you write tests before writing the corresponding code. XUnit is a testing framework that'll provide us the structure and a way to create automated tests. Let's take a look at some of the terminology we'll need to know when using XUnit. A unit test is focused and tests a small unit of functionality. This allows us to verify the correctness of our code at a granular level. XUnit is a popular testing framework for .NET. It provides a structure for writing and running tests, making it easier to ensure our code behaves as expected. Assertions are the statements that test the logic of our code. For instance, if we have a method that adds two numbers, an assertion might check that the results of this method is the sum of those two numbers. Each test case is a scenario we want to test. For example, a test case might be the add method of a calculator class should return five when passed the numbers two and three. And finally, a test suite is a collection of test cases that are related. For example, you might have a test suite for all of the methods of your calculator class. Let's discuss the first part of the test-driven development cycle. We'll start with the red phase
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980&t=0)** - [Narrator] Let's do a deep dive into the [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md) cycle, or TDD for short. We'll discuss where XUnit fits in, some important terminology used in XUnit, and each phase of the red, green, and refactor process. Test-driven development is a [Software Development](../../Topics/Software%20Development.md) methodology where you write tests before writing the corresponding code. XUnit is a testing framework that'll provide us the structure and a way to create automated tests. Let's take a look at some of the terminology we'll need to know when using XUnit. A unit test is focused and tests a small unit of functionality. This allows us to verify the correctness of our code at a granular level. XUnit is a popular testing framework for .NET. It provides a structure for writing and running tests, making it easier to ensure our code behaves as expected. Assertions are the statements that test the logic of our code. For instance, if we have a method that adds two numbers, an assertion might check that the results of this method is the sum of those two numbers. Each test case is a scenario we want to test. For example, a test case might be the add method of a calculator class should return five when passed the numbers two and three. And finally, a test suite is a collection of test cases that are related. For example, you might have a test suite for all of the methods of your calculator class. Let's discuss the first part of the test-driven development cycle. We'll start with the red phase
 >
 > **[1:32](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/the-tdd-cycle?u=76281980&t=92)** by creating a new test that fails. We do this by creating a calculator instance, calling the add method with certain inputs, and checking that the result is as expected. Since we haven't written any code, this test would automatically fail. The next phase of the test-driven development cycle is the green phase. Now that we have a failing test, we'll write just enough code to pass the test. Here you can see we've created a method called add that accepts two integers and returns the sum of those two integers. And the final phase of the test-driven development cycle is refactor. In this phase, we improve the code while making sure the test suite still passes. For instance, we could refactor the add method to accept any number of arguments. Now that we've written the test, anytime that we change the underlying logic to the method, it should pass the test as expected. If not, we know that we've created a problem and we have to go back and continue to correct the code until it passes the test.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Software Development]] (1)
+> **Frameworks & Libraries:** [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md) (5), [Software Development](../../Topics/Software%20Development.md) (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for instance (2), for example (2)
 > **Env Vars:** tdd (1), net (1)
@@ -146,7 +146,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=0)** - [Instructor] Now, let's go through the process of setting up [[Xcode]] in your development environment. If you don't already have .NET installed, you can get the .NET Core SDK from the official website or you can use Visual Studio, like I'll be using, for the Mac. Simply download install Visual Studio from the official site. This IDE is a comprehensive [[Software Development]] environment tailored for creating .NET applications. This will also install the .NET Core SDK and any of the libraries and tools you'll need to develop applications and libraries. When you're ready, let's create a new solution. We'll select the Console Application from the template list and click Continue. We'll target .NET 7.0 and let's call the project HelloCalcApp. For the solution name, we'll simply delete the app so that it says HelloCalc. As you can see from the preview, we have a folder for the HelloCalc project with the solution in the route and a separate folder for the app along with its project file. Once you've decided on location for your project, click the Create button. Here you can see we've created a simple console application, which is a program that'll take input and display output at the command line or the terminal. Next, we need to add our tests. We can do this by right-clicking on the solution, go to Add, and select New Project.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=0)** - [Instructor] Now, let's go through the process of setting up [Xcode](../../Skills/Mobile%20Development/Xcode.md) in your development environment. If you don't already have .NET installed, you can get the .NET Core SDK from the official website or you can use Visual Studio, like I'll be using, for the Mac. Simply download install Visual Studio from the official site. This IDE is a comprehensive [Software Development](../../Topics/Software%20Development.md) environment tailored for creating .NET applications. This will also install the .NET Core SDK and any of the libraries and tools you'll need to develop applications and libraries. When you're ready, let's create a new solution. We'll select the Console Application from the template list and click Continue. We'll target .NET 7.0 and let's call the project HelloCalcApp. For the solution name, we'll simply delete the app so that it says HelloCalc. As you can see from the preview, we have a folder for the HelloCalc project with the solution in the route and a separate folder for the app along with its project file. Once you've decided on location for your project, click the Create button. Here you can see we've created a simple console application, which is a program that'll take input and display output at the command line or the terminal. Next, we need to add our tests. We can do this by right-clicking on the solution, go to Add, and select New Project.
 >
 > **[1:37](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/installing-xunit?u=76281980&t=97)** From here, we can go to our tests and select the xUnit Test Project. Then, hit Continue. Again, we'll use .NET 7.0 and we're going to name this HelloCalcTests. Click Create, and now you can see that our HelloCalc solution has two projects in it: our app and our tests. The xUnit Test Projects is can provide the structure format for creating the unit tests we need when testing our application. Before we do that, though, we need to link it to our application. So right-click on the Dependencies folder inside of our test project. Select Add Project Reference and check our HelloCalcApplication project. Linking projects allows one project to use the classes methods and other code elements defined in another project. As you can see, the project template already created our first test, so let's go and run all the tests in this project. We'll do this by opening up the test panel and pinning it so it always stays open. Since we haven't run any tests, we won't be able to explore and see the list of tests available to us. So, let's run the test for the first time. This will go through our test project, identify any tests that we've defined, run them, and give us a green check mark if they've passed. As you see, our Test1 has passed,
 >
@@ -154,7 +154,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [Xcode](../../Skills/Mobile%20Development/Xcode.md) (1), [Software Development](../../Topics/Software%20Development.md) (1)
 > **Env Vars:** net (6), sdk (2), ide (1)
 > **UI Navigation:** select the (2), go to (2), right-click (1)
 > **Tools:** visual studio (2), command line (1), terminal (1)
@@ -206,7 +206,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/understanding-the-core-unit-testing-workflow?u=76281980&t=0)** - [Instructor] Let's learn about the Arrange-Act-Assert pattern, a common methodology in [[Unit Testing]] that ensures your tests are well structured and understandable. The Arrange-Act-Assert pattern is a common way of writing and structuring unit tests. It divides the test into three distinct sections, arrange, act, and assert. This helps keep our test organized and understandable. This flow chart helps us understand the Arrange-Act-Assert pattern. In the Arrange phase, we set up the conditions for the test and prepare the inputs. In the Act phase, we execute the functionality we're testing. And in the Assert phase, we verify that the result is expected. Now that we have an understanding of this pattern, let's move on to writing some tests. Now let's go ahead and write a simple test using the AAA pattern. We're going to call our test CanAddNumbers.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/understanding-the-core-unit-testing-workflow?u=76281980&t=0)** - [Instructor] Let's learn about the Arrange-Act-Assert pattern, a common methodology in [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) that ensures your tests are well structured and understandable. The Arrange-Act-Assert pattern is a common way of writing and structuring unit tests. It divides the test into three distinct sections, arrange, act, and assert. This helps keep our test organized and understandable. This flow chart helps us understand the Arrange-Act-Assert pattern. In the Arrange phase, we set up the conditions for the test and prepare the inputs. In the Act phase, we execute the functionality we're testing. And in the Assert phase, we verify that the result is expected. Now that we have an understanding of this pattern, let's move on to writing some tests. Now let's go ahead and write a simple test using the AAA pattern. We're going to call our test CanAddNumbers.
 >
 > **[1:01](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/understanding-the-core-unit-testing-workflow?u=76281980&t=61)** Inside of our CanAddNumbers test, we're going to set up the Arrange phase. In this, we're going to create two variables that'll store the numbers two and three. This is where we initialize our objects and set the value that's going to be passed to the methods in our test. Next is the Act step. In this case, we're going to create a result variable by adding the number one and number two variables together. This is where we invoke the method under the test with the new parameters we're passing in. And finally, we're going to do the Assert step. Here we're going to do Assert dot Equals, and we're going to pass in the number five since that's what we want to test and we're going to compare it to the results that were calculated above. The Assert is going to verify the action of the method and make sure that it behaves as expected. Let's go ahead and run our test and see if it passes. As you can see, the test has passed and we've come up with a more consistent and standardized way for structuring the logic inside of the test itself. Let's take a look at a more complex AAA test.
 >
@@ -218,7 +218,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) (1)
 > **Env Vars:** aaa (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
@@ -258,13 +258,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980&t=0)** - In this video we're going to create a calculator. It's going to have an add and subtract function. In order to make sure that these functions work as expected we're going to leverage the arrange, act and assert pattern. As a reminder, arrange means that we prepare the test, act means that we execute the functionality we want to test and assert means that we compare the actual result with the expected result. Let's get started by creating a new test class. We can close out the old test class that we were using previously and right click on the project and create a new class. We're going to call this calcTests. Now we're going to start by adding a test for the ad function that doesn't exist yet. This fits with the red phase of the red, green refactor cycle where we write tests that initially fail. Let's call our first test AddTwoIntegers. In the arrange step, we're going to create a new reference to the calculator, which we've yet to create. In the act step, we're going to calculate the result of using the calculator to add one and two together. And finally, in the assert step, we're going to assert that three equals the result that we calculated before. Now we can't run this test just yet 'cause we haven't created our calculator class so let's go ahead and do that in order to get this test to pass. Since we've linked our test class project up with our application, we can go ahead
 >
-> **[1:35](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980&t=95)** and create the new class inside of the Hello Calculator application project. We're going to call this calculator. Inside of the calculator class we're going to create a new public method called Add. This method will accept two values, A and B and all the method does is return the value of A plus B. Now let's go back into our CalcTest file. As you can see the calculator class still isn't resolving itself and that's because our tests are in a different namespace than our calculator. Let's correct that by changing the namespace of HelloCalcTests to HelloCalcApp. Now when we save the file, we can go ahead and run the tests and see if this new test passes. Now when we look at our test panel if we expand the HelloCalcTests, we see that we now have tests for our app and we have our previous HelloCalcTests. Inside of here is the Unit Test one file and in the HelloCalcApp project we have our calc tests. If we expand this, we'll see that our first test, AddTwoIntegers has passed. Let's go ahead and hide the other tests and focus on the HelloCalcApp tests as we move forward. Now that we've finished the green phase, which is the second phase of [[Test-Driven Development]], we've written just enough code
+> **[1:35](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980&t=95)** and create the new class inside of the Hello Calculator application project. We're going to call this calculator. Inside of the calculator class we're going to create a new public method called Add. This method will accept two values, A and B and all the method does is return the value of A plus B. Now let's go back into our CalcTest file. As you can see the calculator class still isn't resolving itself and that's because our tests are in a different namespace than our calculator. Let's correct that by changing the namespace of HelloCalcTests to HelloCalcApp. Now when we save the file, we can go ahead and run the tests and see if this new test passes. Now when we look at our test panel if we expand the HelloCalcTests, we see that we now have tests for our app and we have our previous HelloCalcTests. Inside of here is the Unit Test one file and in the HelloCalcApp project we have our calc tests. If we expand this, we'll see that our first test, AddTwoIntegers has passed. Let's go ahead and hide the other tests and focus on the HelloCalcApp tests as we move forward. Now that we've finished the green phase, which is the second phase of [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md), we've written just enough code
 >
 > **[3:09](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980&t=189)** to satisfy the test condition. At this point, let's move on to our subtraction method. We'll start again in the red phase by creating a test that fails. Let's name our test, SubtractTwoIntegers. In the arrange step, we're going to create a new instance of the calculator, just like we did before. In the act step, we're going to calculate subtracting three minus two, and in the assert phase, we're going to test to see that one equals the result we calculated above. Again, you'll see that the subtract method is now throwing an error 'cause we haven't created it. So let's go into the green phase where we implement the subtract function for the calculator class and make our failing test pass. We'll create a new subtract method that accepts two values A and B, and we'll return the results of A minus B. If we go back into our test file, you'll see that the error is gone and we can now run our tests. Now we have two passing tests for our two methods, add and subtract. Next we'll take a look at how to implement the third part of test-driven development, which is refactoring.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (2)
+> **Frameworks & Libraries:** [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md) (2)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** calctests (1)
@@ -277,11 +277,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=0)** - [Instructor] In this video, we'll dive into the important role [[Unit Testing]] has during the modification and enhancement of existing code. Our focus will be on refactoring the add and subtract functions of our calculator to support multiple arguments. We'll verify these modifications work by writing corresponding unit tests. We'll start by writing a parameterized test for the enhanced add function that can accept multiple parameters, even though this functionality doesn't exist yet. (keyboard clicks) Let's start by creating a new theory. We'll use an inline data to pass in an array of integers as well as the value we expect them to be after we add them all up. We'll start with one, two, three, and six, and for the second test we'll create an inline data with an integer array containing 4, 5, 6 and 15. Now we'll create the new test called AddMultipleIntegers. We'll pass it in the array of numbers and an expected integer. For the arrange step we're going to create a new instance of the calculator. In the act step, we're going to calculate the results by passing the numbers into the calculator's Add method. As you can see, we're going to get an error because the existing Add method only accepts two numbers. In the assert step, we're going to assert that the expected value equals the result we just calculated.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=0)** - [Instructor] In this video, we'll dive into the important role [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) has during the modification and enhancement of existing code. Our focus will be on refactoring the add and subtract functions of our calculator to support multiple arguments. We'll verify these modifications work by writing corresponding unit tests. We'll start by writing a parameterized test for the enhanced add function that can accept multiple parameters, even though this functionality doesn't exist yet. (keyboard clicks) Let's start by creating a new theory. We'll use an inline data to pass in an array of integers as well as the value we expect them to be after we add them all up. We'll start with one, two, three, and six, and for the second test we'll create an inline data with an integer array containing 4, 5, 6 and 15. Now we'll create the new test called AddMultipleIntegers. We'll pass it in the array of numbers and an expected integer. For the arrange step we're going to create a new instance of the calculator. In the act step, we're going to calculate the results by passing the numbers into the calculator's Add method. As you can see, we're going to get an error because the existing Add method only accepts two numbers. In the assert step, we're going to assert that the expected value equals the result we just calculated.
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=93)** Now let's go into our calculator class and refactor our Add method to support multiple numbers.
 >
-> **[1:44](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=104)** (keyboard clicks) Now let's start by refactoring the Add method. We're going to use the params keyword in order to allow any number of numbers to be passed into the method. Let's delete the previous code and create the new logic that'll add all the numbers passed in together. We'll start by creating a variable called sum and set it equal to zero. Next, we're going to need to create a for loop that iterates over the total length of the numbers being passed in. Inside of this for loop we'll take the current sum and add the next number to it. We do this by writing out sum plus equals. Then we access the current i value in the for loop for the numbers array. And finally, when we're done, we can return the sum value. Let's go ahead and run our test and see if everything passes. As you can see, all three addition tests now work. The new test that we created that accept multiple parameters and the original test we created that adds two numbers together. This is how we know the refactoring has been successful because we haven't broken any previous tests. But there's a third step to [[Test-Driven Development]], this is the refactor phase. And even though we refactored this method there's still a way that we can simplify this and make it work even better. And since we already have the existing tests,
+> **[1:44](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=104)** (keyboard clicks) Now let's start by refactoring the Add method. We're going to use the params keyword in order to allow any number of numbers to be passed into the method. Let's delete the previous code and create the new logic that'll add all the numbers passed in together. We'll start by creating a variable called sum and set it equal to zero. Next, we're going to need to create a for loop that iterates over the total length of the numbers being passed in. Inside of this for loop we'll take the current sum and add the next number to it. We do this by writing out sum plus equals. Then we access the current i value in the for loop for the numbers array. And finally, when we're done, we can return the sum value. Let's go ahead and run our test and see if everything passes. As you can see, all three addition tests now work. The new test that we created that accept multiple parameters and the original test we created that adds two numbers together. This is how we know the refactoring has been successful because we haven't broken any previous tests. But there's a third step to [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md), this is the refactor phase. And even though we refactored this method there's still a way that we can simplify this and make it work even better. And since we already have the existing tests,
 >
 > **[3:19](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-assertions-and-refactoring?u=76281980&t=199)** whatever changes we make now inside of this method we'll be able to verify still pass all of our tests. In order to simplify this method we're going to use the Sum method from the link library which simplifies the addition of all the numbers in the array. Now let's go back into our add method and delete all the code inside. Now we're going to write return numbers.Sum.
 >
@@ -291,7 +291,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (1), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) (1), [Test-Driven Development](../../Skills/Software%20Development/Test-Driven%20Development.md) (1)
 > **CLI Commands:** make (5)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -350,18 +350,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980&t=1)** - Thank you so much for taking this course. I hope you've gained a wealth of knowledge on [[Unit Testing]] with xUnit. As you continue your journey in [[Software Testing]], I encourage you to dive deeper into more advanced concepts in unit testing. This could include learning about different testing techniques like integration and acceptance testing, as well as exploring other testing frameworks. Your continued practice and curiosity in the field will ultimately lead to you becoming a highly skilled and efficient developer. Good luck and happy testing.
+> **[0:01](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980&t=1)** - Thank you so much for taking this course. I hope you've gained a wealth of knowledge on [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) with xUnit. As you continue your journey in [Software Testing](../../Skills/Software%20Development/Software%20Testing.md), I encourage you to dive deeper into more advanced concepts in unit testing. This could include learning about different testing techniques like integration and acceptance testing, as well as exploring other testing frameworks. Your continued practice and curiosity in the field will ultimately lead to you becoming a highly skilled and efficient developer. Good luck and happy testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (2), [[Software Testing]] (1)
+> **Frameworks & Libraries:** [Unit Testing](../../Skills/Software%20Development/Unit%20Testing.md) (2), [Software Testing](../../Skills/Software%20Development/Software%20Testing.md) (1)
 > **Code Identifiers:** xunit (1)
 > **Speakers:** - thank (1)
 
 
 ## Instructor
 
-- [[Jesse Freeman]]
+- [Jesse Freeman](../../Instructors/Software%20Development/Jesse%20Freeman.md)
 
 ## Resources
 
@@ -376,22 +376,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Elevating C- Skills- Building Robust Applications]]
-← [[C- Cross-Platform Development]] | **7 of 8** | [[C- Practice- Generic Collections]] →
+### In [Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)
+← [C- Cross-Platform Development](C-%20Cross-Platform%20Development.md) | **7 of 8** | [C- Practice- Generic Collections](C-%20Practice-%20Generic%20Collections.md) →
 
 ## Appears In
 
-- [[Elevating C- Skills- Building Robust Applications]]
+- [Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Unit Testing in Python]] — Unit Testing
-- [[Learning C-]] — C#
-- [[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]] — C#
-- [[Nail Your C- Interview]] — C#
-- [[C- Design Patterns Part 2]] — C#
+- [Unit Testing in Python](../Software%20Development/Unit%20Testing%20in%20Python.md) — Unit Testing
+- [Learning C-](../Software%20Development/Learning%20C-.md) — C#
+- [Cert Prep- Unity Certified Associate Game Developer Scripting with C-](../Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Scripting%20with%20C-.md) — C#
+- [Nail Your C- Interview](../Software%20Development/Nail%20Your%20C-%20Interview.md) — C#
+- [C- Design Patterns Part 2](../Software%20Development/C-%20Design%20Patterns%20Part%202.md) — C#
 
 ---
 

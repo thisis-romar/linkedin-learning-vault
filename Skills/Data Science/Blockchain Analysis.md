@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Interacting with Blockchains in the Wolfram Language]] — Intermediate · 34m · 4,190 learners
+- [Interacting with Blockchains in the Wolfram Language](../../Courses/Data%20Science/Interacting%20with%20Blockchains%20in%20the%20Wolfram%20Language.md) — Intermediate · 34m · 4,190 learners
 
 ## Related Skills
 
-- [[Wolfram Language]] — 1 shared course
+- [Wolfram Language](Wolfram%20Language.md) — 1 shared course

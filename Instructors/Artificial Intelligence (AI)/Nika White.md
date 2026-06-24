@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Navigating AI Through an Intersectional DEI Lens]]
+- [Navigating AI Through an Intersectional DEI Lens](../../Courses/Artificial%20Intelligence%20(AI)/Navigating%20AI%20Through%20an%20Intersectional%20DEI%20Lens.md)

@@ -17,11 +17,11 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Lpic 1 Exam 101 Version 5 0 Cert Prep]]'
+  - course: '[Lpic 1 Exam 101 Version 5 0 Cert Prep](../../../Courses/Network%20and%20System%20Administration/Lpic%201%20Exam%20101%20Version%205%200%20Cert%20Prep.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[LPIC-1 Exam 102 (Version 5.0) Cert Prep]]'
+  - course: '[LPIC-1 Exam 102 (Version 5.0) Cert Prep](../../../Courses/Network%20and%20System%20Administration/LPIC-1%20Exam%20102%20(Version%205.0)%20Cert%20Prep.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -36,17 +36,17 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]]
-2. [[LPIC-1 Exam 102 (Version 5.0) Cert Prep]] _(5h 22m)_
+1. [Lpic 1 Exam 101 Version 5 0 Cert Prep](../../../Courses/Network%20and%20System%20Administration/Lpic%201%20Exam%20101%20Version%205%200%20Cert%20Prep.md)
+2. [LPIC-1 Exam 102 (Version 5.0) Cert Prep](../../../Courses/Network%20and%20System%20Administration/LPIC-1%20Exam%20102%20(Version%205.0)%20Cert%20Prep.md) _(5h 22m)_
 
 ## Course Flow
 
-1. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] → 2. [[LPIC-1 Exam 102 (Version 5.0) Cert Prep]]
+1. [Lpic 1 Exam 101 Version 5 0 Cert Prep](../../../Courses/Network%20and%20System%20Administration/Lpic%201%20Exam%20101%20Version%205%200%20Cert%20Prep.md) → 2. [LPIC-1 Exam 102 (Version 5.0) Cert Prep](../../../Courses/Network%20and%20System%20Administration/LPIC-1%20Exam%20102%20(Version%205.0)%20Cert%20Prep.md)
 
 ## Topics
 
-- [[Network and System Administration]]
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Network and System Administration]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)

@@ -14,11 +14,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF4OOGlHzEi2A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568064400111?e=2147483647&amp;v=beta&amp;t=d47fgiJZjrcx85fJJyGKzso5d5W3Gy6dJ8k6HWUBZ0k"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - '[[Advance as a Tech Leader]]'
+  - '[Advance as a Tech Leader](../../Paths/Cloud%20Computing/Learning%20Paths/Advance%20as%20a%20Tech%20Leader.md)'
 prev_courses:
-  - '[[Accelerate Your Developer Career]]'
+  - '[Accelerate Your Developer Career](Accelerate%20Your%20Developer%20Career.md)'
 next_courses:
-  - '[[Inclusive Tech- The Case for Inclusive Leadership]]'
+  - '[Inclusive Tech- The Case for Inclusive Leadership](Inclusive%20Tech-%20The%20Case%20for%20Inclusive%20Leadership.md)'
 path_nav: '[{"path":"Advance as a Tech Leader","position":6,"total":8,"prev":"Accelerate Your Developer Career","next":"Inclusive Tech- The Case for Inclusive Leadership"}]'
 path_count: 1
 tags:
@@ -73,11 +73,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980&t=0)** Hi, my name's Erica Lockheimer, and I just finished filming my course on leadership in tech. I had an amazing opportunity to bring in some of the leaders I've learned from across the valley throughout my career. There's a lot of folks from internal to [[LinkedIn]] and a few external. You'll be able to watch it on the feed on LinkedIn and LinkedIn Learning. So excited to share this with you, so check it out. (upbeat and pleasant rock music)
+> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980&t=0)** Hi, my name's Erica Lockheimer, and I just finished filming my course on leadership in tech. I had an amazing opportunity to bring in some of the leaders I've learned from across the valley throughout my career. There's a lot of folks from internal to [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) and a few external. You'll be able to watch it on the feed on LinkedIn and LinkedIn Learning. So excited to share this with you, so check it out. (upbeat and pleasant rock music)
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (3)
 > **Non-Speech:** (upbeat and pleasant rock music) (1)
 
 
@@ -135,7 +135,7 @@ created: 2026-05-03
 >
 > **[3:24](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980&t=204)** - Yeah. Everyone needs mentors along the way to the top. Everybody wants you at every single fireside chat that we have across the company because you're there and you have an element about you where you just inspire everyone around you. I wonder, how do you do that?
 >
-> **[3:41](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980&t=221)** - And that's the last of the three pillars is how you compel others to take action. For me, the definition of leadership is the ability to inspire others to achieve shared objectives. And inspiration is by far and away the most important [[Microsoft Word|word]] in that definition. And to me, inspiration is what separates leaders from managers. Managers tell people what to do. Leaders inspire them to do it. I think inspiration comes from three qualities, three dimensions. One is the clarity of one's vision. The second is the courage of one's convictions. And the third is to effectively communicate both of those things. It starts with the clarity of your vision because if you are going to try to tackle something that hasn't been done before, it's important that you are able to articulate that in a way that other people can internalize and other people can act upon it. Beyond the clarity of one's vision is the courage of your conviction, because if it's truly visionary, if you're trying to do something that hasn't been done before, there's going to be a lot of people standing in your way. They're going to feel threatened. They're not going to understand. They're going to be skeptical. You have to believe with every fiber of your being.
+> **[3:41](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980&t=221)** - And that's the last of the three pillars is how you compel others to take action. For me, the definition of leadership is the ability to inspire others to achieve shared objectives. And inspiration is by far and away the most important [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) in that definition. And to me, inspiration is what separates leaders from managers. Managers tell people what to do. Leaders inspire them to do it. I think inspiration comes from three qualities, three dimensions. One is the clarity of one's vision. The second is the courage of one's convictions. And the third is to effectively communicate both of those things. It starts with the clarity of your vision because if you are going to try to tackle something that hasn't been done before, it's important that you are able to articulate that in a way that other people can internalize and other people can act upon it. Beyond the clarity of one's vision is the courage of your conviction, because if it's truly visionary, if you're trying to do something that hasn't been done before, there's going to be a lot of people standing in your way. They're going to feel threatened. They're not going to understand. They're going to be skeptical. You have to believe with every fiber of your being.
 >
 > **[4:51](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980&t=291)** - [Erica] Mmm-hmm.
 >
@@ -157,7 +157,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Speakers:** - [erica] (7), - and (3), - i (2), - no (2), - you (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1), it's like (1)
@@ -168,7 +168,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=0)** - What's cool about Mohak Shroff is that he started here at [[LinkedIn]] as an engineer, and I've learned so much from him throughout the years. He's helped me grow my career, and truly cares about the diversity of thought and representation of multiple perspectives. He knows this will create a better product, and that's what we're going to talk about right now. You started here at LinkedIn as an engineer, and now you're running all of engineering. How do you think about talent and how you're building the team?
+> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=0)** - What's cool about Mohak Shroff is that he started here at [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) as an engineer, and I've learned so much from him throughout the years. He's helped me grow my career, and truly cares about the diversity of thought and representation of multiple perspectives. He knows this will create a better product, and that's what we're going to talk about right now. You started here at LinkedIn as an engineer, and now you're running all of engineering. How do you think about talent and how you're building the team?
 >
 > **[0:30](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=30)** - So I think it's actually two things. I think there's hiring, and then there's kind of investing your own talent. So there's mentorship and coaching, and we'll talk about both. Hiring should never be about quotas, and like I must have blank. It's about hiring the best person for the job. And the problem that we all have when it comes to hiring is we don't necessarily hire the best person for the job. We hire the first good enough person for the job. And the problem with hiring the first good enough person for the job is we have a systematic problem in educational institutions that are graduating a majority of people with a very homogenous background, you end up hiring a lot of people, or you end up encountering a lot of people with the same background. And then you aren't really hiring the best person, you're tending to hire just the first good person.
 >
@@ -180,9 +180,9 @@ created: 2026-05-03
 >
 > **[2:53](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=173)** - And magic, here they are, spectacular.
 >
-> **[2:57](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=177)** - Does diversity impact [[Decision-Making]] and execution? Raise the bar by empowering others to share diverse ideas. Can you explain to me, I know how it feels, I would love to know from your lens of where you think the conversation has changed here at LinkedIn.
+> **[2:57](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=177)** - Does diversity impact [Decision-Making](../../Skills/Data%20Science/Decision-Making.md) and execution? Raise the bar by empowering others to share diverse ideas. Can you explain to me, I know how it feels, I would love to know from your lens of where you think the conversation has changed here at LinkedIn.
 >
-> **[3:12](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=192)** - So first off, a testament to the importance of building diverse, inclusive teams is the topics around [[Diversity and Inclusion]] actually start to rise when we had diverse and [[Inclusive Leadership]]. So I remember back to when you joined the team and started pounding your fist on the table very nicely.
+> **[3:12](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=192)** - So first off, a testament to the importance of building diverse, inclusive teams is the topics around [Diversity and Inclusion](../../Skills/Software%20Development/Diversity%20and%20Inclusion.md) actually start to rise when we had diverse and [Inclusive Leadership](../../Skills/Software%20Development/Inclusive%20Leadership.md). So I remember back to when you joined the team and started pounding your fist on the table very nicely.
 >
 > **[3:33](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=213)** - Very nicely. (laughs)
 >
@@ -190,11 +190,11 @@ created: 2026-05-03
 >
 > **[4:10](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=250)** - Yes, unfortunately, but it's changing slightly.
 >
-> **[4:11](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=251)** - It's changing, and thank goodness it's changing. But it was a room full of men with one woman leader. The men, myself included, were essentially in an escalating screaming match. So it starts off as a pretty reasonable conversation and it just keeps getting louder, and I want to make sure you hear my voice. And so it starts to get really, really loud. This woman essentially never had a chance to get her voice, you know, just get a [[Microsoft Word|word]] in.
+> **[4:11](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=251)** - It's changing, and thank goodness it's changing. But it was a room full of men with one woman leader. The men, myself included, were essentially in an escalating screaming match. So it starts off as a pretty reasonable conversation and it just keeps getting louder, and I want to make sure you hear my voice. And so it starts to get really, really loud. This woman essentially never had a chance to get her voice, you know, just get a [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) in.
 >
 > **[4:34](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=274)** - Yeah, try and intercept into that.
 >
-> **[4:36](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=276)** - Could not at all. And so she was kind of leaned back, sort of the classic picture of disengagement, leaned back, and the leader in the room, incredibly thoughtful, mindful, inclusive individual, in this act of inclusion, leaned in, almost literally leaned in and said, do you have anything to add? Essentially quieted the [[Representational State Transfer (REST)|rest]] of us down and asked her if she had anything to add. She said her piece, it was about two or three minutes of a point she was trying to make, and in this hour-long meeting the only valuable thing that was said was by her in those two or three minutes. The entire meeting would have been a colossal waste of time if not for letting her speak or pulling her into the conversation. And that act of inclusion had such tremendous power, because it really did three things. One, it made her feel included. I'm positive, prior to that incident, she felt deeply excluded. She felt like she didn't belong. She probably felt a strong imposter syndrome of I can't, I don't know...
+> **[4:36](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=276)** - Could not at all. And so she was kind of leaned back, sort of the classic picture of disengagement, leaned back, and the leader in the room, incredibly thoughtful, mindful, inclusive individual, in this act of inclusion, leaned in, almost literally leaned in and said, do you have anything to add? Essentially quieted the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of us down and asked her if she had anything to add. She said her piece, it was about two or three minutes of a point she was trying to make, and in this hour-long meeting the only valuable thing that was said was by her in those two or three minutes. The entire meeting would have been a colossal waste of time if not for letting her speak or pulling her into the conversation. And that act of inclusion had such tremendous power, because it really did three things. One, it made her feel included. I'm positive, prior to that incident, she felt deeply excluded. She felt like she didn't belong. She probably felt a strong imposter syndrome of I can't, I don't know...
 >
 > **[5:37](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=337)** - I can imagine the war zone going on in her head. And it's not just her, back to the point that it's not just gender, it's more introverts, you know, very different, and extroverts, try and get an introvert into the conversation.
 >
@@ -204,7 +204,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Decision-Making]] (1), [[Diversity and Inclusion]] (1), [[Inclusive Leadership]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (4), [Decision-Making](../../Skills/Data%20Science/Decision-Making.md) (1), [Diversity and Inclusion](../../Skills/Software%20Development/Diversity%20and%20Inclusion.md) (1), [Inclusive Leadership](../../Skills/Software%20Development/Inclusive%20Leadership.md) (1), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Speakers:** - so (2), - and (2), - yeah (2), - it (2), - yes (2)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), imagine (1)
@@ -265,7 +265,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=2)** - Igor Perisic is the Chief Data Officer at [[LinkedIn]]. The data [[Microsoft Products|products]] created by his team power the personalized experiences for hundreds of millions of LinkedIn members around the world. Not only is he one of the top executives, he's an amazing mentor, who's an awesome listener and helps elevate people's voices so everyone is heard. That is his character. And now, you're Chief Data Officer. I mean that's like a big responsibility. - You tell me.
+> **[0:02](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=2)** - Igor Perisic is the Chief Data Officer at [LinkedIn](../../Skills/Web%20Development/LinkedIn.md). The data [products](../../Skills/Software%20Development/Microsoft%20Products.md) created by his team power the personalized experiences for hundreds of millions of LinkedIn members around the world. Not only is he one of the top executives, he's an amazing mentor, who's an awesome listener and helps elevate people's voices so everyone is heard. That is his character. And now, you're Chief Data Officer. I mean that's like a big responsibility. - You tell me.
 >
 > **[0:30](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=30)** - How are you doing at this job? Are you nervous? You always had that sense of responsibility in your work, but now your organization is responsible for that. How does that feel?
 >
@@ -295,7 +295,7 @@ created: 2026-05-03
 >
 > **[2:15](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=135)** - Exactly. And to give them the support to do so.
 >
-> **[2:18](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=138)** - When you have a foundation in technology your career can take many paths. Your background is [[Statistics]].
+> **[2:18](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=138)** - When you have a foundation in technology your career can take many paths. Your background is [Statistics](../../Skills/Data%20Science/Statistics.md).
 >
 > **[2:26](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=146)** - It is indeed.
 >
@@ -335,7 +335,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Products|Products]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (3), [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1), [Statistics](../../Skills/Data%20Science/Statistics.md) (1)
 > **Speakers:** - and (5), - you (4), - i (4), - how (2), - it (2)
 > **Analogies:** it's like (3), just like (2), for example (1)
 > **CLI Commands:** make (2)
@@ -346,7 +346,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=0)** - So establishing a work-life balance is not easy, right? It's often talked about, but what does it really look like? I caught up with Tanya Staples, Vice President of Product at [[LinkedIn]] Learning. Over the last year I've gotten to know Tanya, and I think she's got some great ideas. Now I'm going to find out what her secrets are. Okay, I'm going to find out some secrets about you. No, I'm honestly really curious about when you first, you know, had your child. Like, how did you figure out, what did you do? Did you take time off, I just, I have a million questions, I'd love to know.
+> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=0)** - So establishing a work-life balance is not easy, right? It's often talked about, but what does it really look like? I caught up with Tanya Staples, Vice President of Product at [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning. Over the last year I've gotten to know Tanya, and I think she's got some great ideas. Now I'm going to find out what her secrets are. Okay, I'm going to find out some secrets about you. No, I'm honestly really curious about when you first, you know, had your child. Like, how did you figure out, what did you do? Did you take time off, I just, I have a million questions, I'd love to know.
 >
 > **[0:29](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=29)** - I think that really what I learned, kind of in the first year or two of having, you know, being a mom, right, is you sort of have to balance yourself as a mom. Like we all feel this tremendous sense of guilt about working. - Exactly, yep.
 >
@@ -364,7 +364,7 @@ created: 2026-05-03
 >
 > **[1:10](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=70)** - And I think what I've learned is that it's about having balance, you know, of like, I have to be an interesting human being, not just a crazy work person.
 >
-> **[1:18](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=78)** - Yep. One thing that I remembered earlier being an engineer and just coding all the time, is we were just working around the clock. Like, there was times I'd be up until one or two in the morning cause you kind of need those blocks of time, and I remember still doing that in my early days of LinkedIn, but, and then you have a baby, right? And it's like, how do you, like, shift your hours and make sure that, okay, I still have those blocks of time and then setting those boundaries like no, I got to leave at this time to pick up my child from daycare, right? But then you have this, again that guilt sets in in a different way, well, you know, lot of engineers are in the [[Microsoft Office|office]] and they're staying out their time but I got to go, my life is in a different stage right now, but I began to embrace that because I figured hey, that's the time that I need. It's kind of like software, you AB test everything that you do in your life, it's like at that time, that worked, at this time, it no longer works, and so I've been able to say no, I'm leaving, and that's the boundary that I need to set for myself. And I think that we all have to get used to understanding what works for you may not work for me.
+> **[1:18](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=78)** - Yep. One thing that I remembered earlier being an engineer and just coding all the time, is we were just working around the clock. Like, there was times I'd be up until one or two in the morning cause you kind of need those blocks of time, and I remember still doing that in my early days of LinkedIn, but, and then you have a baby, right? And it's like, how do you, like, shift your hours and make sure that, okay, I still have those blocks of time and then setting those boundaries like no, I got to leave at this time to pick up my child from daycare, right? But then you have this, again that guilt sets in in a different way, well, you know, lot of engineers are in the [office](../../Skills/Web%20Development/Microsoft%20Office.md) and they're staying out their time but I got to go, my life is in a different stage right now, but I began to embrace that because I figured hey, that's the time that I need. It's kind of like software, you AB test everything that you do in your life, it's like at that time, that worked, at this time, it no longer works, and so I've been able to say no, I'm leaving, and that's the boundary that I need to set for myself. And I think that we all have to get used to understanding what works for you may not work for me.
 >
 > **[2:15](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=135)** - Yeah, well I mean life changes, I mean, what our kids need from us, what our marriage needs from us, what our other family commitments need from us, change on a very regular basis, and so it's about understanding the ingredients, I think, that work.
 >
@@ -422,7 +422,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2), [Office](../../Skills/Web%20Development/Microsoft%20Office.md) (1)
 > **Speakers:** - i (6), - yeah (6), - [erica] (4), - and (4), - right (3)
 > **Analogies:** it's like (5), kind of like (1)
 > **CLI Commands:** find (2), make (2)
@@ -436,7 +436,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=0)** (upbeat pop music)
 >
-> **[0:01](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=1)** - Leadership, execution, and craftsmanship is how we measure technical talent at [[LinkedIn]]. To explore these concepts, I'm going to sit down with Erran Berger, one of the top executives for engineering at LinkedIn. What does leadership mean to you when you look at talent and you're trying to make sure that someone is excelling?
+> **[0:01](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=1)** - Leadership, execution, and craftsmanship is how we measure technical talent at [LinkedIn](../../Skills/Web%20Development/LinkedIn.md). To explore these concepts, I'm going to sit down with Erran Berger, one of the top executives for engineering at LinkedIn. What does leadership mean to you when you look at talent and you're trying to make sure that someone is excelling?
 >
 > **[0:18](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=18)** - Yeah, for me there are couple really important things in leadership and maybe we can talk about some stories or examples to really bring this to life. So, the first one, development of talent.
 >
@@ -456,7 +456,7 @@ created: 2026-05-03
 >
 > **[1:01](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=61)** - Who am I coaching and mentoring developing outside of my immediate team?
 >
-> **[1:04](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=64)** - But I think on the leadership sometimes that [[Microsoft Word|word]] can just be like oh I'm a manager, I'm a leader, I'm you know. It's not about telling people what to do and I think you just touched on it a bit. It's about having that influence. We're only the best, we're only as good as the stories we tell we have to paint that vision. It's not about being a leader, you need to do this and dictate all these things. It's about painting that vision and that strategy so I think that that is really key. What is key to execution?
+> **[1:04](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=64)** - But I think on the leadership sometimes that [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) can just be like oh I'm a manager, I'm a leader, I'm you know. It's not about telling people what to do and I think you just touched on it a bit. It's about having that influence. We're only the best, we're only as good as the stories we tell we have to paint that vision. It's not about being a leader, you need to do this and dictate all these things. It's about painting that vision and that strategy so I think that that is really key. What is key to execution?
 >
 > **[1:31](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=91)** - So I know another thing that's really near and dear to both of our hearts. Just being people that are action oriented as execution right--
 >
@@ -484,7 +484,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (3), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Speakers:** - yeah (4), - yes (2), - and (2), - leadership (1), - outside (1)
 > **CLI Commands:** make (4)
 > **Tools:** notion (2)
@@ -495,7 +495,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=0)** - Early in my career, I was often scared to give feedback 'cause feedback can be scary. It's not always positive. I met up with Fiona Trayler, She is the senior director for content production at [[LinkedIn]] Learning. She has experience working with huge teams in high-pressure environments, in both the feature film world and in high-quality educational video. And so that's why I'm super excited to sit down with Fiona and see how she handled feedback early in her career and how she's doing it now. Fiona, I heard you have a non-traditional background. I want to hear more about it.
+> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=0)** - Early in my career, I was often scared to give feedback 'cause feedback can be scary. It's not always positive. I met up with Fiona Trayler, She is the senior director for content production at [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning. She has experience working with huge teams in high-pressure environments, in both the feature film world and in high-quality educational video. And so that's why I'm super excited to sit down with Fiona and see how she handled feedback early in her career and how she's doing it now. Fiona, I heard you have a non-traditional background. I want to hear more about it.
 >
 > **[0:30](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=30)** - I definitely don't have the background that most people would expect me to have, considering the resume. I actually started off more on an apprenticeship, as opposed to actually going through the academic college/university path. I started off as a dialogue editor, then went to be sound effects editor, then a video editor, and then a film editor, which encompasses being responsible for all of those crafts coming together in the final product. So it was layers of knowing the business and with knowing the business, you start actually adding layers to the craft.
 >
@@ -531,13 +531,13 @@ created: 2026-05-03
 >
 > **[4:25](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=265)** - Be really specific.
 >
-> **[4:25](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=265)** - And I want to know if I'm connecting in the way that I want to connect. Otherwise, you might start getting feedback about things which are not necessarily valuable and you can build on them, but it's not going to get you where you want to go. And they should also be action things too, as well. It shouldn't just be feedback which just sits there passively. It's this is what I saw. These are areas to actually build on. When you can apply it again? The whole thing is, any kind of career, you're the driver or you're giving the wheel to somebody else. Where is it? So if you're the driver, it means you've got both hands on those wheels. You're the one with the gas pedal. You're the one with the brake. And you're looking from a [[Microsoft Copilot|copilot]] about where should we be going and getting advice on the way. If you give up, that part and you're passive, you're sitting in a parking lot.
+> **[4:25](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=265)** - And I want to know if I'm connecting in the way that I want to connect. Otherwise, you might start getting feedback about things which are not necessarily valuable and you can build on them, but it's not going to get you where you want to go. And they should also be action things too, as well. It shouldn't just be feedback which just sits there passively. It's this is what I saw. These are areas to actually build on. When you can apply it again? The whole thing is, any kind of career, you're the driver or you're giving the wheel to somebody else. Where is it? So if you're the driver, it means you've got both hands on those wheels. You're the one with the gas pedal. You're the one with the brake. And you're looking from a [copilot](../../Skills/Cloud%20Computing/Microsoft%20Copilot.md) about where should we be going and getting advice on the way. If you give up, that part and you're passive, you're sitting in a parking lot.
 >
 > **[5:11](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=311)** - I love this analogy; that is awesome. I'm going to write this stuff down (laughs). We have it recorded hopefully, somewhere, right? Feedback is a gift. It's really about creating the next version of yourself, really your version 2.0. So be proactive, go out there and ask for it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1), [Copilot](../../Skills/Cloud%20Computing/Microsoft%20Copilot.md) (1)
 > **Speakers:** - i (3), - yeah (2), - early (1), - got (1), - never (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -548,7 +548,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=0)** - Having a growth mindset about your career and getting honest feedback is critical for anyone to grow. My colleague Chris Pruett, he's the VP of Engineering for [LinkedIn.com](https://LinkedIn.com) for our consumer business, and we met each other seven years ago. We built trust and a relationship together where we can give that honest feedback to one another. And I'm super excited to sit down with him and share some of our advice together. I think we should probably reflect a little bit about how we got to where we're at, but then also maybe how we've changed through our careers, even before [[LinkedIn]].
+> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=0)** - Having a growth mindset about your career and getting honest feedback is critical for anyone to grow. My colleague Chris Pruett, he's the VP of Engineering for [LinkedIn.com](https://LinkedIn.com) for our consumer business, and we met each other seven years ago. We built trust and a relationship together where we can give that honest feedback to one another. And I'm super excited to sit down with him and share some of our advice together. I think we should probably reflect a little bit about how we got to where we're at, but then also maybe how we've changed through our careers, even before [LinkedIn](../../Skills/Web%20Development/LinkedIn.md).
 >
 > **[0:32](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=32)** - You know, early in my career, I was certainly, I think I've always been someone that is always looking to do, you know, stay excited about what I'm doing. I operate best when I'm sort of outside of my comfort zone a little bit. You know, it's like I know what I like, but I want to just like kind of keep pushing myself. And until I got to LinkedIn, and probably for my first year or two at LinkedIn, it was all kind of not intentional, sort of accidental, right, I was very curious. Even to this date, if you ask me what do I look for in engineers, one of the top two things I'll say is curiosity. Like I want people that are intellectually curious and that they're going to learn, and I think that's a really important part of having a growth mindset is actually being curious about things and being willing to sort of go from the point of view that you don't know everything, right, there's-- - No, you don't have all the answers.
 >
@@ -590,7 +590,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (4)
 > **Speakers:** - you (3), - i (2), - having (1), - exactly (1), - [chris] (1)
 > **Analogies:** it's like (5), for example (2), just like (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
@@ -601,7 +601,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=0)** - Finding the right talent is the key to building successful teams for all companies of any size, today I'm talking to Jennifer Shappley. Who is the senior director for recruiting the best engineering talent for all of [[LinkedIn]]. I am so thrilled to have her expertise working for us, because Jennifer loves finding the best talent and building highly engaged teams. So Jennifer, you've been at this for quite awhile. You are head of recruiting for all of LinkedIn's engineering which is amazing! I would love to know how did you get to where you're at, how did you start off and what are you doing today?
+> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=0)** - Finding the right talent is the key to building successful teams for all companies of any size, today I'm talking to Jennifer Shappley. Who is the senior director for recruiting the best engineering talent for all of [LinkedIn](../../Skills/Web%20Development/LinkedIn.md). I am so thrilled to have her expertise working for us, because Jennifer loves finding the best talent and building highly engaged teams. So Jennifer, you've been at this for quite awhile. You are head of recruiting for all of LinkedIn's engineering which is amazing! I would love to know how did you get to where you're at, how did you start off and what are you doing today?
 >
 > **[0:38](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=38)** - Yeah so I've been in recruiting about 15 years but the first two years before I got into recruiting I was in just kind of a general HR role. I did everything from 401k administration to benefits and onboarding new employees, and through that figured out recruiting was actually what I was really interested in. The head of recruiting for the company I worked for at the time happened to be in town and offered to let me spend a week with his recruiters. Got the bug and really never looked back. But that time doing other pieces of HR did give me an appreciation for what all of our partners do in HR and how within recruiting it's really important we all work together. - What makes a great interview?
 >
@@ -609,7 +609,7 @@ created: 2026-05-03
 >
 > **[1:40](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=100)** - Very true.
 >
-> **[1:41](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=101)** - And the time that you are [[Interviewing]] should be of the utmost importance but there are a lot of other things that are going through somebody's mind. They go to an interview they go to another meeting et cetera and so what I think is so important for candidates to know is anything you can do to be memorable is important and will turn that into a great interview. So how you answer questions, how you share information doing it in a way that is unique to you, so that that interviewer remembers you really is the hallmark of a great interview.
+> **[1:41](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=101)** - And the time that you are [Interviewing](../../Skills/Data%20Science/Interviewing.md) should be of the utmost importance but there are a lot of other things that are going through somebody's mind. They go to an interview they go to another meeting et cetera and so what I think is so important for candidates to know is anything you can do to be memorable is important and will turn that into a great interview. So how you answer questions, how you share information doing it in a way that is unique to you, so that that interviewer remembers you really is the hallmark of a great interview.
 >
 > **[2:08](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=128)** - Give me some examples of maybe an exchange of why would it be memorable for somebody? What does that look like?
 >
@@ -639,7 +639,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (4), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [Interviewing](../../Skills/Data%20Science/Interviewing.md) (4), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2)
 > **Speakers:** - yeah (3), - and (3), - i (2), - no (2), - finding (1)
 > **CLI Commands:** make (6)
 > **Non-Speech:** (upbeat music) (4)
@@ -683,13 +683,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/paying-it-forward-erica-lockheimer?u=76281980&t=0)** - Early on in my career, I remember someone had reached out to me and truly invested in me and wanting to help me progress in my career. I'll never forget it, his name's Frank, I'll never forget Frank, he's absolutely amazing and I think about those moments because I didn't ask for his help, he just saw that I needed help, which makes a huge difference. And I think if we can always have some awareness and recognize the people in the room that need that help and just go after it, it'd make a world of difference. And when he did it, I mean mentoring, sponsorship, that was not even in our dialogue, it wasn't something that we talked about, but I knew looking back in that moment, that's exactly what it was. When I was asked to be a mentor, you know you think about do I have the time, you know can I make this part of my life, and it was one of those moments that I just kept on saying, yes I need to, and I started diving in, stepping in, and it's been one of the most rewarding experiences for me and just feeling that you can help people, it feels great. I started volunteering my time quite a bit, I'm actually volunteering my time this weekend at a conference on a panel, and those are some of the most valuable conversations that I have had. I, I'm am also in a unique position where I get to lead Women in Tech at [[LinkedIn]]. It's it's so impactful on on so many ways, where I can now influence change, I can create change, I can innovate change, and I could bring the community together to help people working at LinkedIn and outside of LinkedIn. I'm truly in the best part of my career right now and I can bring those two worlds together.
+> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/paying-it-forward-erica-lockheimer?u=76281980&t=0)** - Early on in my career, I remember someone had reached out to me and truly invested in me and wanting to help me progress in my career. I'll never forget it, his name's Frank, I'll never forget Frank, he's absolutely amazing and I think about those moments because I didn't ask for his help, he just saw that I needed help, which makes a huge difference. And I think if we can always have some awareness and recognize the people in the room that need that help and just go after it, it'd make a world of difference. And when he did it, I mean mentoring, sponsorship, that was not even in our dialogue, it wasn't something that we talked about, but I knew looking back in that moment, that's exactly what it was. When I was asked to be a mentor, you know you think about do I have the time, you know can I make this part of my life, and it was one of those moments that I just kept on saying, yes I need to, and I started diving in, stepping in, and it's been one of the most rewarding experiences for me and just feeling that you can help people, it feels great. I started volunteering my time quite a bit, I'm actually volunteering my time this weekend at a conference on a panel, and those are some of the most valuable conversations that I have had. I, I'm am also in a unique position where I get to lead Women in Tech at [LinkedIn](../../Skills/Web%20Development/LinkedIn.md). It's it's so impactful on on so many ways, where I can now influence change, I can create change, I can innovate change, and I could bring the community together to help people working at LinkedIn and outside of LinkedIn. I'm truly in the best part of my career right now and I can bring those two worlds together.
 >
 > **[1:34](https://www.linkedin.com/learning/leadership-in-tech/paying-it-forward-erica-lockheimer?u=76281980&t=94)** One of the best pieces of advice that I've heard is from a great leader at LinkedIn, and that was to use the voice that you have earned. Sometimes when you're growing and you're realizing that you're growing in your career and you almost don't realize this voice that you, that you now have that is in your control, you have to use it, you've earned it, and you're in a position to actually make a larger impact than you think. So again, use the voice that you've earned. I think the best advice that I can give is for you to think about how you can step in and help someone and truly pay it forward. We're all busy, hundred percent get it, but there is moments in your, in your life and some daily thing that you can do that you can just take that and say, "hey this is where I'm going to reach and help someone." It doesn't actually take a long time to do, and it doesn't have to be this massive investment, it could just be a small moment of just reaching out and lending a hand in your day-to-day life. So I think, think about it, think about your space, and see how you can give back and pay it forward.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - early (1)
@@ -698,7 +698,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/new-leader-or-new-team-ya-xu?u=76281980&t=0)** - Ya Xu is an amazing woman. She has a PhD in [[Statistics]], she was formerly an applied researcher at [[Microsoft]], and for the last six years, she has been right here at [[LinkedIn]] as one of our lead data scientists. How do you step into the leadership position of a team and build the trust of your team? Another thing that I think is super, super core is trust. You could say, hey, this is my style, but if nobody trusts each other at the end of the day, I mean, that is the core part of it for you to accelerate your strategy, how fast you move, discussions, decisions, everything. Trust is so important. I would love to understand what your perspective is on trust.
+> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/new-leader-or-new-team-ya-xu?u=76281980&t=0)** - Ya Xu is an amazing woman. She has a PhD in [Statistics](../../Skills/Data%20Science/Statistics.md), she was formerly an applied researcher at [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md), and for the last six years, she has been right here at [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) as one of our lead data scientists. How do you step into the leadership position of a team and build the trust of your team? Another thing that I think is super, super core is trust. You could say, hey, this is my style, but if nobody trusts each other at the end of the day, I mean, that is the core part of it for you to accelerate your strategy, how fast you move, discussions, decisions, everything. Trust is so important. I would love to understand what your perspective is on trust.
 >
 > **[0:43](https://www.linkedin.com/learning/leadership-in-tech/new-leader-or-new-team-ya-xu?u=76281980&t=43)** - Absolutely, I want to say trust is number one. Trust is the moment where you are able to push each other more, and that is a foundation to everything, that you can do it together, right? And I remember that Reid was the one who said trust is consistency over time.
 >
@@ -728,7 +728,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Statistics](../../Skills/Data%20Science/Statistics.md) (1), [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Speakers:** - and (3), - a (2), - ya (1), - absolutely (1), - definitely (1)
 > **Non-Speech:** (upbeat music) (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -792,7 +792,7 @@ created: 2026-05-03
 >
 > **[0:33](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980&t=33)** - What is their next play, what do you want to do next? As they start.
 >
-> **[0:36](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980&t=36)** - And for a lot of people, it's a little bit of a shocker that that's the first conversation that we have. But because somehow it's become taboo to even, for a manager to have a conversation with our employee. Like as a manager, I've got to hold onto my employees and if I ever talk to them about the fact that they might leave [[LinkedIn]], well then it'll spark this idea in their heads that maybe they should, when the reality is, people all the time are thinking about their careers and applying for jobs and everything else. Let's have an open conversation about this. And inevitably, those people stay longer because you have open conversations about, they feel like they've stopped learning. They work harder.
+> **[0:36](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980&t=36)** - And for a lot of people, it's a little bit of a shocker that that's the first conversation that we have. But because somehow it's become taboo to even, for a manager to have a conversation with our employee. Like as a manager, I've got to hold onto my employees and if I ever talk to them about the fact that they might leave [LinkedIn](../../Skills/Web%20Development/LinkedIn.md), well then it'll spark this idea in their heads that maybe they should, when the reality is, people all the time are thinking about their careers and applying for jobs and everything else. Let's have an open conversation about this. And inevitably, those people stay longer because you have open conversations about, they feel like they've stopped learning. They work harder.
 >
 > **[1:11](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980&t=71)** - I think they get the job done so much better.
 >
@@ -806,14 +806,14 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Speakers:** - i (3), - how (1), - on (1), - what (1), - and (1)
 > **Non-Speech:** (upbeat drum music) (1)
 
 
 ## Instructor
 
-- [[Erica Lockheimer]]
+- [Erica Lockheimer](../../Instructors/Cloud%20Computing/Erica%20Lockheimer.md)
 
 ## Skills Covered
 
@@ -821,20 +821,20 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Advance as a Tech Leader]]
-← [[Accelerate Your Developer Career]] | **6 of 8** | [[Inclusive Tech- The Case for Inclusive Leadership]] →
+### In [Advance as a Tech Leader](../../Paths/Cloud%20Computing/Learning%20Paths/Advance%20as%20a%20Tech%20Leader.md)
+← [Accelerate Your Developer Career](Accelerate%20Your%20Developer%20Career.md) | **6 of 8** | [Inclusive Tech- The Case for Inclusive Leadership](Inclusive%20Tech-%20The%20Case%20for%20Inclusive%20Leadership.md) →
 
 ## Appears In
 
-- [[Advance as a Tech Leader]]
+- [Advance as a Tech Leader](../../Paths/Cloud%20Computing/Learning%20Paths/Advance%20as%20a%20Tech%20Leader.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Influence Skills for Leaders and Managers]] — Leadership
-- [[Leadership Foundations]] — Leadership
-- [[Leading with Innovation in the Age of AI]] — Leadership
+- [Influence Skills for Leaders and Managers](../Data%20Science/Influence%20Skills%20for%20Leaders%20and%20Managers.md) — Leadership
+- [Leadership Foundations](../Data%20Science/Leadership%20Foundations.md) — Leadership
+- [Leading with Innovation in the Age of AI](../Artificial%20Intelligence%20(AI)/Leading%20with%20Innovation%20in%20the%20Age%20of%20AI.md) — Leadership
 
 ---
 

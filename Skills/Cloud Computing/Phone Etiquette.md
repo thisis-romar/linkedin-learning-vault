@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Business Etiquette- Phone, Email, and Text]] — Beginner · 1h 3m · 28,902 learners
+- [Business Etiquette- Phone, Email, and Text](../../Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md) — Beginner · 1h 3m · 28,902 learners
 
 ## Related Skills
 
-- [[Email Etiquette]] — 1 shared course
-- [[Professional Communication]] — 1 shared course
+- [Email Etiquette](Email%20Etiquette.md) — 1 shared course
+- [Professional Communication](Professional%20Communication.md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[Business Etiquette- Phone, Email, and Text]] — 4 mentions
+1. [Business Etiquette- Phone, Email, and Text](../../Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md) — 4 mentions

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Digital Transformation for Leaders in the AI Era]]
+- [Digital Transformation for Leaders in the AI Era](../../Courses/Cloud%20Computing/Digital%20Transformation%20for%20Leaders%20in%20the%20AI%20Era.md)

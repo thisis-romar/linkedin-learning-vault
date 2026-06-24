@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[ASP.NET Core in .NET 6- Dependency Injection]]
+- [ASP.NET Core in .NET 6- Dependency Injection](../../Courses/Web%20Development/ASP.NET%20Core%20in%20.NET%206-%20Dependency%20Injection.md)

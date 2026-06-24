@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI Approaches to Business Challenges]]
+- [Generative AI Approaches to Business Challenges](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20Approaches%20to%20Business%20Challenges.md)

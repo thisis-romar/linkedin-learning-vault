@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Digital Accessibility for the Modern Workplace (with Audio Descriptions)]]
-- [[Digital Accessibility for the Modern Workplace]]
+- [Digital Accessibility for the Modern Workplace (with Audio Descriptions)](../../Courses/Cloud%20Computing/Digital%20Accessibility%20for%20the%20Modern%20Workplace%20(with%20Audio%20Descriptions).md)
+- [Digital Accessibility for the Modern Workplace](../../Courses/Cloud%20Computing/Digital%20Accessibility%20for%20the%20Modern%20Workplace.md)

@@ -16,11 +16,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQElLaw9B93Uvw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568669851419?e=2147483647&amp;v=beta&amp;t=EPO1hmQqc6xKpVhB-XitnkQtTJ5GsKUiiliU9h81bVY"
 linkedin_topic: Hardware
 learning_paths:
-  - '[[Become an Arduino Developer]]'
+  - '[Become an Arduino Developer](../../Paths/Hardware/Learning%20Paths/Become%20an%20Arduino%20Developer.md)'
 prev_courses:
-  - '[[Electronics Foundations- Basic Circuits]]'
+  - '[Electronics Foundations- Basic Circuits](Electronics%20Foundations-%20Basic%20Circuits.md)'
 next_courses:
-  - '[[Electronics Foundations- Semiconductor Devices]]'
+  - '[Electronics Foundations- Semiconductor Devices](Electronics%20Foundations-%20Semiconductor%20Devices.md)'
 path_nav: '[{"path":"Become an Arduino Developer","position":4,"total":11,"prev":"Electronics Foundations- Basic Circuits","next":"Electronics Foundations- Semiconductor Devices"}]'
 path_count: 1
 tags:
@@ -101,11 +101,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980&t=0)** - When you learn about [[Arduino]], 2 you may want to bring your Arduino projects 3 to the next level by connecting different [[Hardware]], 4 displays, and interactive interfaces. 5 In this course, I'll show you how 6 to connect the Arduino board 7 to three common hardware components, 8 LCD screen, seven-segment LED, and a keypad. 9 I'll explore each component separately 10 and go through the wiring and the coding 11 to get them working, like displaying randomized numbers, 12 looping through an LED pattern, 13 and accepting input from the keypad. 14 At the end, we'll combine the three components together, 15 where we apply all the knowledge learned within the course. 16 I'm Zara Khalil, I am an engineering instructor, 17 and I enjoy teaching courses covering engineering topics, 18 so let's get started.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980&t=0)** - When you learn about [Arduino](../../Skills/Software%20Development/Arduino.md), 2 you may want to bring your Arduino projects 3 to the next level by connecting different [Hardware](../../Topics/Hardware.md), 4 displays, and interactive interfaces. 5 In this course, I'll show you how 6 to connect the Arduino board 7 to three common hardware components, 8 LCD screen, seven-segment LED, and a keypad. 9 I'll explore each component separately 10 and go through the wiring and the coding 11 to get them working, like displaying randomized numbers, 12 looping through an LED pattern, 13 and accepting input from the keypad. 14 At the end, we'll combine the three components together, 15 where we apply all the knowledge learned within the course. 16 I'm Zara Khalil, I am an engineering instructor, 17 and I enjoy teaching courses covering engineering topics, 18 so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (3), [Hardware](../../Topics/Hardware.md) (2)
 > **Env Vars:** led (2), lcd (1)
 > **Speakers:** - when (1)
 
@@ -113,11 +113,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=0)** - [Instructor] Before you start this course, you should be a little familiar with how [[Arduino]] works, using the digital I/O pins, and the basics commands, like, for example, programming a simple LED output. I'm going to use an Arduino MEGA 2560 board, but you can use any other board that you have. You just need to make sure to select it when programming. If you need to know on how to do so, you can check the troubleshooting video in the Learning Arduino course. You can check out the Learning Arduino course in the library to get you prepared for this course if needed. I'll cover the wiring needed for this course, but if you'd like a refresher on [[Hardware]] components throughout this course, I would recommend referring to the [[Electronics Foundations- Fundamentals]]. During this course, I'll cover some [[Programming Concepts]] like for loops, if statements, and arrays. I'll go briefly through each one as we do the coding. So, let's get started.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/what-you-should-know-before-watching?u=76281980&t=0)** - [Instructor] Before you start this course, you should be a little familiar with how [Arduino](../../Skills/Software%20Development/Arduino.md) works, using the digital I/O pins, and the basics commands, like, for example, programming a simple LED output. I'm going to use an Arduino MEGA 2560 board, but you can use any other board that you have. You just need to make sure to select it when programming. If you need to know on how to do so, you can check the troubleshooting video in the Learning Arduino course. You can check out the Learning Arduino course in the library to get you prepared for this course if needed. I'll cover the wiring needed for this course, but if you'd like a refresher on [Hardware](../../Topics/Hardware.md) components throughout this course, I would recommend referring to the [Electronics Foundations- Fundamentals](Electronics%20Foundations-%20Fundamentals.md). During this course, I'll cover some [Programming Concepts](../../Skills/Software%20Development/Programming%20Concepts.md) like for loops, if statements, and arrays. I'll go briefly through each one as we do the coding. So, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), [[Hardware]] (1), [[Electronics]] (1), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (4), [Hardware](../../Topics/Hardware.md) (1), [Electronics](../../Skills/Software%20Development/Electronics.md) (1), [Programming Concepts](../../Skills/Software%20Development/Programming%20Concepts.md) (1)
 > **Env Vars:** led (1), mega (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -128,11 +128,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-devices-used?u=76281980&t=0)** - [Instructor] The components we are going to use in this course are a Common Anode 7 Segment LED, a Shift Register. 16x2 LCD. Potentiometer. Keypad. Resistors, and you are going to use six of them. And the value is 330. Connecting wires. And finally, the [[Arduino]] Board.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-devices-used?u=76281980&t=0)** - [Instructor] The components we are going to use in this course are a Common Anode 7 Segment LED, a Shift Register. 16x2 LCD. Potentiometer. Keypad. Resistors, and you are going to use six of them. And the value is 330. Connecting wires. And finally, the [Arduino](../../Skills/Software%20Development/Arduino.md) Board.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (1)
 > **Env Vars:** led (1), lcd (1)
 > **Speakers:** - [instructor] (1)
 
@@ -145,11 +145,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980&t=0)** - [Instructor] LCD stands for liquid-crystal display. LCD is one of the components that can be used with [[Arduino]] board to show text or graphics. The principle behind LCD is to energize a series of crystals to appear either opaque or transparent against a lighted background. The two major types are alphanumeric LCD and graphical LCD. The most common alphanumeric LCD device is 16 by two LCD. It can display two lines of 16 characters. A 16 by two LCD simply means having two rows and 16 columns, so basically two lines to show the text. And the same thing applies if you have any other type. Eight by two. Five by two. The first one is reserved for columns and the second one is for rows. The second common type is graphical LCD. The graphical LCD device use a single larger grid of individual lights to display information, instead of a separate grid for each character. The most common graphical layout is 128 by 64 LCD. The benefit of using that layout is that you can display any character at any resolution you prefer, and you're not only limited to the five by eight resolution in the alphanumeric device.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980&t=0)** - [Instructor] LCD stands for liquid-crystal display. LCD is one of the components that can be used with [Arduino](../../Skills/Software%20Development/Arduino.md) board to show text or graphics. The principle behind LCD is to energize a series of crystals to appear either opaque or transparent against a lighted background. The two major types are alphanumeric LCD and graphical LCD. The most common alphanumeric LCD device is 16 by two LCD. It can display two lines of 16 characters. A 16 by two LCD simply means having two rows and 16 columns, so basically two lines to show the text. And the same thing applies if you have any other type. Eight by two. Five by two. The first one is reserved for columns and the second one is for rows. The second common type is graphical LCD. The graphical LCD device use a single larger grid of individual lights to display information, instead of a separate grid for each character. The most common graphical layout is 128 by 64 LCD. The benefit of using that layout is that you can display any character at any resolution you prefer, and you're not only limited to the five by eight resolution in the alphanumeric device.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (1)
 > **Env Vars:** lcd (11)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -158,13 +158,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-hd4470-controller?u=76281980&t=0)** - [Instructor] So now let's try to understand how LCD works. Most LCD's that are compatible with [[Arduino]] uses the HD Controller to manage the LCD. The HD44780, is referred to as dot matrix, liquid crystal display controller and driver. So, each dot matrix inside the LCD has five columns, and eight rows, as you can see in the picture. Each of the dot matrix within the 16 characters has a five by eight matrix. This is used to show letters and numbers when using the LCD. So, if letter A is showing in the first dot matrix then these are the dots that are highlighted. Most LCD are supported by this type of controller and it shows up to 27 characters for each line. Now, it depends on the LCD type. It shows a certain number of columns. So, if we're using an 8 x 2 LCD then we can only see eight columns out of the 27 columns. If we're using 16 x 2 then we only see 16 out of 27. Now, if we wanted to display a sentence, we need to know how many characters are in it by counting the number of letters. So, if the sentence is Learning Arduino, Learning Arduino has 15 letters and one space. If we're using 16 x 2 LCD then we can see the whole sentence, but if we're using 8 x 2, we can only see half of it.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-hd4470-controller?u=76281980&t=0)** - [Instructor] So now let's try to understand how LCD works. Most LCD's that are compatible with [Arduino](../../Skills/Software%20Development/Arduino.md) uses the HD Controller to manage the LCD. The HD44780, is referred to as dot matrix, liquid crystal display controller and driver. So, each dot matrix inside the LCD has five columns, and eight rows, as you can see in the picture. Each of the dot matrix within the 16 characters has a five by eight matrix. This is used to show letters and numbers when using the LCD. So, if letter A is showing in the first dot matrix then these are the dots that are highlighted. Most LCD are supported by this type of controller and it shows up to 27 characters for each line. Now, it depends on the LCD type. It shows a certain number of columns. So, if we're using an 8 x 2 LCD then we can only see eight columns out of the 27 columns. If we're using 16 x 2 then we only see 16 out of 27. Now, if we wanted to display a sentence, we need to know how many characters are in it by counting the number of letters. So, if the sentence is Learning Arduino, Learning Arduino has 15 letters and one space. If we're using 16 x 2 LCD then we can see the whole sentence, but if we're using 8 x 2, we can only see half of it.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-hd4470-controller?u=76281980&t=92)** Even though all the characters are stored in the memory because we can only see eight columns. In this case, we can use scroll left or scroll right functions within the software to scroll through the whole sentence within the same row. If you wanted to hear more about how the controller works, you can check the data sheet that is provided by HITACHI in order to understand how this controller works.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (3)
 > **Env Vars:** lcd (9), hd44780 (1), hitachi (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -173,13 +173,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-lcd-interface?u=76281980&t=0)** - [Narrator] Now let's take a look at how to interface the 16x2 LCD with [[Arduino]] board. So as mentioned previously, the HD controller chip uses a series of 16 interface pins. Now, let's take a closer look at each of the pins. The first two pins are VSS, which is the ground, you need to connect this to Arduino, in order to keep a common ground. The second pin is VDD, which is the source power. And you are going to connect it, to the five volt Arduino board. So pin one and pin two are the power supply pins. Pin three is the Display Contrast pin. You are going to connect it to a potentiometer. This pin, is used for controlling the brightness of the screen. This is accomplished by adjusting the power supply voltage to the LCD. Pin four, which is RS, that refers to Register Select pin. This controls where in the the LCD memory you're writing the data to. And we have two modes for it, Low and High. So for this specific LCD, we send a single Low to send commands and instruction, and High, to send data. Pin five is Read and Write. Read and Write is used to specify if we are reading from the LCD, or if we're writing to the LCD. And it has two modes, Low if we write, and High, if we are reading from the LCD. Since we are only going to write to the LCD
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-lcd-interface?u=76281980&t=0)** - [Narrator] Now let's take a look at how to interface the 16x2 LCD with [Arduino](../../Skills/Software%20Development/Arduino.md) board. So as mentioned previously, the HD controller chip uses a series of 16 interface pins. Now, let's take a closer look at each of the pins. The first two pins are VSS, which is the ground, you need to connect this to Arduino, in order to keep a common ground. The second pin is VDD, which is the source power. And you are going to connect it, to the five volt Arduino board. So pin one and pin two are the power supply pins. Pin three is the Display Contrast pin. You are going to connect it to a potentiometer. This pin, is used for controlling the brightness of the screen. This is accomplished by adjusting the power supply voltage to the LCD. Pin four, which is RS, that refers to Register Select pin. This controls where in the the LCD memory you're writing the data to. And we have two modes for it, Low and High. So for this specific LCD, we send a single Low to send commands and instruction, and High, to send data. Pin five is Read and Write. Read and Write is used to specify if we are reading from the LCD, or if we're writing to the LCD. And it has two modes, Low if we write, and High, if we are reading from the LCD. Since we are only going to write to the LCD
 >
 > **[1:35](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-lcd-interface?u=76281980&t=95)** for our demonstration, we will connect this to ground in order to keep it low. Pin six is the Enable pin. This pin enables the writing operation to the register. Now pins from pin seven all the way to pin fourteen are the digital pins. So, a total of eight pins. You can use all the eight pins for the eight-bit mode if you're interested in showing ASCII characters, or use half of them as a four-bit mode if you're interested only in showing numbers and letters. The states of these pins, either high or low, are the bits that you are writing to the register indicated by the Register Select pin. Finally, the last two pins are for the LED backlight. Pin number 15 is connected to an anode, so we are going to connect it to the five volt. And pin number 16 is connected to ground, and we are going to use a resistor, in order to connect it to ground. We've included a handout with exercise files that has a summary of the LCD pin description, so you can go and check that out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (3)
 > **Env Vars:** lcd (9), vss (1), vdd (1), ascii (1), led (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** refers to (1)
@@ -189,7 +189,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-lcd?u=76281980&t=0)** - [Narrator] I'm going to do the wiring of the LCD, according to this table. So here is the LCD pin numbers and the corresponding [[Arduino]] pins that I'm going to connect them too. So let's go ahead and do the wiring for each pin. The first one is the ground and the vcc. Okay so I'm going to use this as a ground and the second one as the voltage supply. So the very first one is going to be connected to ground. Now the second pin is going to voltage supply.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-lcd?u=76281980&t=0)** - [Narrator] I'm going to do the wiring of the LCD, according to this table. So here is the LCD pin numbers and the corresponding [Arduino](../../Skills/Software%20Development/Arduino.md) pins that I'm going to connect them too. So let's go ahead and do the wiring for each pin. The first one is the ground and the vcc. Okay so I'm going to use this as a ground and the second one as the voltage supply. So the very first one is going to be connected to ground. Now the second pin is going to voltage supply.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-lcd?u=76281980&t=48)** So now the third pin is going to be connected to potentiometer. There are different types of potentiometers. However, the wiring is acquired similar. You can see the left pin is the ground. The middle one is going to be connected to a zero which is pin three in the LCD. And the right pin is for the five bolt. Here are the types that you could use with the LCD. So for our example, I'm going to use the blue one. Or it's I'm going to go ahead and place it on the beardboard. Now I'm going to connect the third pin to the middle pin of the potentiometer.
 >
@@ -217,7 +217,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (6)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (6)
 > **Env Vars:** lcd (9)
 > **Speakers:** - [narrator] (1)
 
@@ -229,11 +229,11 @@ created: 2026-05-03
 >
 > **[1:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=94)** and then finally d seven is connected to two. So there are two methods if you wanna use this, so you can either identify the pins and as you can see in line three or you can actually write down the numbers within the LiquidCrystal. So, for example, if you want to do it, LiquidCrystal LCD and then you just identify the pins over here. You just need to be careful that when you do that, you need to keep the same order, otherwise the LCD will not be able to show the text that you're showing. So I'm going to keep the previous one for our demonstration purposes. Now in the void setup, we need to use another command that's called LCD begin. This command is actually identifying how many columns and how many rows. So depending on the type that you're using, the one we're using is 16 by two, so the very first one is for the column, the second one is for row. For the LCD type that we're using, we have two rows and 16 column. The way we number them is a zero for the first row and one for the second row, and the numbers for the column goes from zero to 15. So if you want to show a sentence and you want to start from the first row then you need to set the cursor to be in a position zero, zero. The same thing if you wanna show it in the second row then the set cursor to be in a zero, one. So the first one is for the column and the second is for the rows. So for our program I'm going to set the cursor to LCD,
 >
-> **[3:13](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=193)** set cursor to be in the first column and the first row. So zero zero for our example. Now the other command in order to show the sentence or show anything on this screen, we are going to use an LCD print. And then I place any sentence I would like to see it on the LCD. So here I'm going to use [[Arduino]] is fun. Okay, we use a quotation mark when we want to place the sentence. And then I'm going to add a delay at the end, just to make things a little bit clear. Alright, so this is the code for the LCD, so go ahead and upload the program. Alright so you can see that the sentence is showing in the first row. Alright so I'm going to give it a try, to see it in the second row, so the only thing you need to change is the set cursor code. So instead of having a zero zero, I'll have a zero one and then I'll upload the program again to see that. Okay so we can see that the sentence is showing in the second row. Alright so done the first coding for the LCD.
+> **[3:13](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/coding-the-lcd-interface?u=76281980&t=193)** set cursor to be in the first column and the first row. So zero zero for our example. Now the other command in order to show the sentence or show anything on this screen, we are going to use an LCD print. And then I place any sentence I would like to see it on the LCD. So here I'm going to use [Arduino](../../Skills/Software%20Development/Arduino.md) is fun. Okay, we use a quotation mark when we want to place the sentence. And then I'm going to add a delay at the end, just to make things a little bit clear. Alright, so this is the code for the LCD, so go ahead and upload the program. Alright so you can see that the sentence is showing in the first row. Alright so I'm going to give it a try, to see it in the second row, so the only thing you need to change is the set cursor code. So instead of having a zero zero, I'll have a zero one and then I'll upload the program again to see that. Okay so we can see that the sentence is showing in the second row. Alright so done the first coding for the LCD.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cursor (5), [[Arduino]] (1)
+> **Frameworks & Libraries:** cursor (5), [Arduino](../../Skills/Software%20Development/Arduino.md) (1)
 > **Env Vars:** lcd (15)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
@@ -268,11 +268,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-arrays?u=76281980&t=0)** - So for the next example using the LCD, I'm going to use an Array in order to demonstrate how to populate the data. If you're familiar with arrays, feel free to skip this video, but if you want to refresh your memory about what an array is, I'm going to go through the basics. An array stores multiple data values for the same data type in a block of memory, allowing you to access the elements within the array by referring to the variable name. So you can think about it as a drawer with a certain number of sections, and inside each section is an array element. The drawer has a name, which is the array name. So now let's go through how to declare an array. The way to declare an array is by specifying the type of the element, which can be double, integer, whatever the type is, and then specifying the array name, and finally the array size. The array size should be an integer above zero. So this is an example that declares an array variable called myArray that stores up to 10 integer values. Initializing an array is by assigning the element depending on the array size, so basically identifying where are the elements within this array? So here's an example of an array that stores up to five values, five elements. The number of elements within the array can not be larger than the size. So here, since we identify the array to be an integer, then the elements within the array are Integer type.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-arrays?u=76281980&t=95)** The way the variables, or elements are numbered by indicating an array index. The first element has an array index of zero, the second one has an array index of one, and so on. So the array element is different than the array index. So if you'd like to learn more about the array and how to access the array, you can check the website that's provided by [[Arduino]].
+> **[1:35](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-understanding-arrays?u=76281980&t=95)** The way the variables, or elements are numbered by indicating an array index. The first element has an array index of zero, the second one has an array index of one, and so on. So the array element is different than the array index. So if you'd like to learn more about the array and how to access the array, you can check the website that's provided by [Arduino](../../Skills/Software%20Development/Arduino.md).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (1)
 > **Definitions:** is an  (2)
 > **Code Identifiers:** myarray (1)
 > **Env Vars:** lcd (1)
@@ -286,11 +286,11 @@ created: 2026-05-03
 >
 > **[1:15](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/displaying-random-numbers-and-scrolling?u=76281980&t=75)** Alright, so for the for loop I'll have an int value i starting from zero. Now i is less than 27 because we want to show the characters from zero to 27. And then i is incrementing by one. Alright, so in order to generate a random number, the way we do that is random and then I specify that I want the numbers to be from zero to nine. And I'm gonna take this and save it an array. So the array type that we specified is random number array and I want that to be selected any time I use the for loop. Okay, so this line basically does a random number gets generated that's between zero and nine and it gets saved in an array index. Alright, so I'll take that and try to see it on the screen. So lcd print. And I wanna print the random number that we just got.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/displaying-random-numbers-and-scrolling?u=76281980&t=152)** Okay, I'm gonna add another code just to make it a little bit clean when we see that on the screen. So I'll add a space between the numbers as we go through it. And I'll add a delay of 250. So go ahead and upload the program and see how this code behaves. So as you can see now, random numbers are getting generated starting from the first row and the [[Representational State Transfer (REST)|rest]] of them are showing in the second row. Notice here that we can only see up to 16 characters. One of the ways if we want to see all the numbers that are in the 27 characters is using a scroll display function. So let's go back in the code and add this right in here where we have an lcd scroll display and we have an option of either scroll to the left or right. So I'm gonna use left, for example. So the code that you can see in line 22, so it scrolls through the 27 characters that we have in each line of the lcd that we're using. So go ahead and upload the program. Alright, so now we can see that we are scrolling through the characters that we have in all the 27 spots in each line. Okay, so we've used the for loop in order to populate the array with random numbers. And we used lcd print in order to see them on the lcd screen.
+> **[2:32](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/displaying-random-numbers-and-scrolling?u=76281980&t=152)** Okay, I'm gonna add another code just to make it a little bit clean when we see that on the screen. So I'll add a space between the numbers as we go through it. And I'll add a delay of 250. So go ahead and upload the program and see how this code behaves. So as you can see now, random numbers are getting generated starting from the first row and the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of them are showing in the second row. Notice here that we can only see up to 16 characters. One of the ways if we want to see all the numbers that are in the 27 characters is using a scroll display function. So let's go back in the code and add this right in here where we have an lcd scroll display and we have an option of either scroll to the left or right. So I'm gonna use left, for example. So the code that you can see in line 22, so it scrolls through the 27 characters that we have in each line of the lcd that we're using. So go ahead and upload the program. Alright, so now we can see that we are scrolling through the characters that we have in all the 27 spots in each line. Okay, so we've used the for loop in order to populate the array with random numbers. And we used lcd print in order to see them on the lcd screen.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Exercise Files:** starter project (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -306,11 +306,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980&t=0)** - [Instructor] Now, in this part of the course, I'm going to use the seven-segment LED with [[Arduino]]. I'll be doing this in three parts. First, just introducing the seven-segment LED and connecting it to Arduino in order to see how it works. Second, using the software in order to show numbers and letters by understanding the truth table of the seven-segment LED. Finally, we're going to use the seven-segment LED with the shift register. We'll be covering some [[Programming Concepts]] like loops and arrays and when we are using the shift register.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980&t=0)** - [Instructor] Now, in this part of the course, I'm going to use the seven-segment LED with [Arduino](../../Skills/Software%20Development/Arduino.md). I'll be doing this in three parts. First, just introducing the seven-segment LED and connecting it to Arduino in order to see how it works. Second, using the software in order to show numbers and letters by understanding the truth table of the seven-segment LED. Finally, we're going to use the seven-segment LED with the shift register. We'll be covering some [Programming Concepts](../../Skills/Software%20Development/Programming%20Concepts.md) like loops and arrays and when we are using the shift register.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (2), [Programming Concepts](../../Skills/Software%20Development/Programming%20Concepts.md) (1)
 > **Env Vars:** led (4)
 > **Speakers:** - [instructor] (1)
 
@@ -358,7 +358,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=0)** - [Narrator] So now in this section, we're going to go through the wiring of the seven segment LED to the [[Arduino]] board. Since the seven segment LED has seven LEDs so we need the resistor when we connect the seven segment LED to Arduino. Again, the only difference between having a common anode and a common cathode is that the common pin within the seven segment LED is connected to five volt if we're using a common anode, and is connected to ground if we're using a common cathode. We're going to use a common anode for our example, so let's see how we do the wiring. So for the wiring part we are going to follow the table that's shown in the screen. So for example, for the seven segment LED pin a, which is pin seven, is going to be connected to pin two, to the digital IO in the Arduino board. Pin b, which is pin six in the seven segment LED, is going to be connected to pin three, and so on for the [[Representational State Transfer (REST)|rest]] of them. So let's go ahead and do the wiring for the seven segment. So I've included a picture of the wiring diagram in the exercise file if you wanna check it out for the complete wiring of the seven segment LED to the Arduino board. So the very first thing that I usually try to do is I try to connect the common pins. The way to know the numbers is that, using the dot in here, So this is the bottom pins and this is the top one. Let's go ahead and start to do the common pin. So this is the middle that goes to the five volt. The same thing with the top.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=0)** - [Narrator] So now in this section, we're going to go through the wiring of the seven segment LED to the [Arduino](../../Skills/Software%20Development/Arduino.md) board. Since the seven segment LED has seven LEDs so we need the resistor when we connect the seven segment LED to Arduino. Again, the only difference between having a common anode and a common cathode is that the common pin within the seven segment LED is connected to five volt if we're using a common anode, and is connected to ground if we're using a common cathode. We're going to use a common anode for our example, so let's see how we do the wiring. So for the wiring part we are going to follow the table that's shown in the screen. So for example, for the seven segment LED pin a, which is pin seven, is going to be connected to pin two, to the digital IO in the Arduino board. Pin b, which is pin six in the seven segment LED, is going to be connected to pin three, and so on for the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of them. So let's go ahead and do the wiring for the seven segment. So I've included a picture of the wiring diagram in the exercise file if you wanna check it out for the complete wiring of the seven segment LED to the Arduino board. So the very first thing that I usually try to do is I try to connect the common pins. The way to know the numbers is that, using the dot in here, So this is the bottom pins and this is the top one. Let's go ahead and start to do the common pin. So this is the middle that goes to the five volt. The same thing with the top.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-7-segment-led?u=76281980&t=104)** So now I'm going to use the resistor in order to connect pin a in pin seven in the seven segment LED. So one side of the resistor goes to the pin a. The other side goes anywhere in the breadboard. And I'm using a 270 resistor for the seven segment LED. You can use any other resistor, the common ones is a 330 ohm, but you can use any values between 200 and 500 ohm. Alright, so we got the resistor, now we connect that to pin 2 in the Arduino board.
 >
@@ -376,7 +376,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (10), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (10), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (2)
 > **Env Vars:** led (13), vcc (1)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
@@ -388,9 +388,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=0)** - [Instructor] Okay, so the very first thing when we do the coding for the seven segment LED is to identify the pins. So I'll go ahead and start the Pin A. So in the Pin A I'll add it as a constant integer. And then I'll name it as ledPinA, and this one is connected to Pin 2 in the [[Arduino]] board. I'll do the same thing for the other pin, so constant integer ledPinB, and it's connected to Pin 3 in the Arduino board. So I'm going to go ahead and copy the other pins.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=0)** - [Instructor] Okay, so the very first thing when we do the coding for the seven segment LED is to identify the pins. So I'll go ahead and start the Pin A. So in the Pin A I'll add it as a constant integer. And then I'll name it as ledPinA, and this one is connected to Pin 2 in the [Arduino](../../Skills/Software%20Development/Arduino.md) board. I'll do the same thing for the other pin, so constant integer ledPinB, and it's connected to Pin 3 in the Arduino board. So I'm going to go ahead and copy the other pins.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=43)** So C is connected to 4. D is connected to 5. E to 6. G to 7. And finally, F to 8. So here we've identified what are the pins that's connected to each one of the LED. The second step is setting up the pins to be an output. So we do this in the void setup by setting up the pinMode. So now since we have identified the pins at the beginning, so I can just go ahead and write down the name for Pin 2. And then I identify this as an OUTPUT. So I'll do the same thing for the [[Representational State Transfer (REST)|rest]] of the pins. Okay, and then just change the pin. So one thing that I want you to make sure is that you use the same name that you selected in here. So I'll go ahead and continue for the rest of them.
+> **[0:43](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=43)** So C is connected to 4. D is connected to 5. E to 6. G to 7. And finally, F to 8. So here we've identified what are the pins that's connected to each one of the LED. The second step is setting up the pins to be an output. So we do this in the void setup by setting up the pinMode. So now since we have identified the pins at the beginning, so I can just go ahead and write down the name for Pin 2. And then I identify this as an OUTPUT. So I'll do the same thing for the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the pins. Okay, and then just change the pin. So one thing that I want you to make sure is that you use the same name that you selected in here. So I'll go ahead and continue for the rest of them.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-each-led-directly?u=76281980&t=129)** Alright, so we got this part done, so now each LED is set to be an output from the digital output of the Arduino board. The main program is happening in the void loop. So now since we're using a common anode, remember that the individual LEDS within a common anode are illuminated by sending a LOW signal. So when we do the programming, if we want to turn on each LED, the way we do it is we write a digitalWrite because we are connecting to the IO as a digital output. Then we specify the LED that we want to turn it on. And sending a LOW signal in order to turn it on. So this code to turn on the LED. And in order to turn off the LED, we write digitalWrite, again, the same name.
 >
@@ -404,7 +404,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Arduino]] (3)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (4), [Arduino](../../Skills/Software%20Development/Arduino.md) (3)
 > **Env Vars:** led (14), low (2), output (1), leds (1), high (1)
 > **Code Identifiers:** digitalwrite (2), ledpina (1), ledpinb (1), pinmode (1), ledpin (1)
 > **CLI Commands:** make (2)
@@ -417,13 +417,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-leds-with-a-for-loop?u=76281980&t=0)** - So in the previous video, we kind of copy and paste a lot of the code so let's try to use a for loop in order to reduce the code that we tried in the previous example. Since we did the wiring for the [[Arduino]] board, from two all the way to eight, so we can take advantage of using a for loop where we can start from two all the way to eight. So let's see how we can do that in the coding parts. So I'll give it a start in here. On line 13 all the way to line 19, the only thing that's being changed is the LED parts. So you notice here it's A, B, C, D. So since we do the wiring from two all the way to eight, so we can use a for loop. So in the for loop, I'm going to go ahead and initialize a starting point. I'll name it equals to two because the pins are connected from two. And then I is less than nine because I want the number to stop at eight. And then finally the increment would be just one. Now inside the for loop, I write down the pin mode. And then place i here, the one that keep changes, and then add it as an output. So this for loop is at a placement for everything we have in here. Okay.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-leds-with-a-for-loop?u=76281980&t=0)** - So in the previous video, we kind of copy and paste a lot of the code so let's try to use a for loop in order to reduce the code that we tried in the previous example. Since we did the wiring for the [Arduino](../../Skills/Software%20Development/Arduino.md) board, from two all the way to eight, so we can take advantage of using a for loop where we can start from two all the way to eight. So let's see how we can do that in the coding parts. So I'll give it a start in here. On line 13 all the way to line 19, the only thing that's being changed is the LED parts. So you notice here it's A, B, C, D. So since we do the wiring from two all the way to eight, so we can use a for loop. So in the for loop, I'm going to go ahead and initialize a starting point. I'll name it equals to two because the pins are connected from two. And then I is less than nine because I want the number to stop at eight. And then finally the increment would be just one. Now inside the for loop, I write down the pin mode. And then place i here, the one that keep changes, and then add it as an output. So this for loop is at a placement for everything we have in here. Okay.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/cycle-through-leds-with-a-for-loop?u=76281980&t=92)** So we can do the same thing for turning off all the LEDs. A for loop. Okay. And now the thing that we need to place inside the loop is digitalWrite. And i is the number that keeps changing. And we want to set everything off. And this will replace all the code that we have. So now this code works exactly the same way as the previous example. So you can download it and test it on your device. We usually try to use a for loop when it's possible. It's the preferred way than just copying and pasting a large chunk of code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (1)
 > **Code Identifiers:** digitalwrite (1)
 > **Env Vars:** led (1)
 > **Cross-References:** previous video (1)
@@ -433,13 +433,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-7-segment-led-truth-table?u=76281980&t=0)** - [Narrator] Alright, so we've learned how to turn on or off the individual LEDs for the 7-Segment Display. Next, let's see how to display numbers and letters. In order to do so, let's generate the truth table for the 7-segment LED. For a common cathode, as mentioned previously, all pins are connected to ground, so their normal state is zero, low. If we want to make one of the LEDs turn on, then we need to set the anode side to one, high. So for example, if we want to show one, then the LED, the segments B and C, need to be on and the [[Representational State Transfer (REST)|rest]] of the LEDs should be off. The same thing applies if you want to show number 2. Then LED A, B, G, E, D need to be on. And the same thing applies for the rest of the numbers. Since this is a common cathode device, we need to send high, a logic one, and everything else is zero. And this is what we call the truth table for our common cathode LED. So now let's examine the truth table for the common anode. For a common anode device, the anodes of LEDs are connected to VCC and their normal state is one, high. So it works the opposite way. So if we want to turn on any of the LEDs, then we need to make the state zero, low. An example, if we want to show a number one,
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-7-segment-led-truth-table?u=76281980&t=0)** - [Narrator] Alright, so we've learned how to turn on or off the individual LEDs for the 7-Segment Display. Next, let's see how to display numbers and letters. In order to do so, let's generate the truth table for the 7-segment LED. For a common cathode, as mentioned previously, all pins are connected to ground, so their normal state is zero, low. If we want to make one of the LEDs turn on, then we need to set the anode side to one, high. So for example, if we want to show one, then the LED, the segments B and C, need to be on and the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the LEDs should be off. The same thing applies if you want to show number 2. Then LED A, B, G, E, D need to be on. And the same thing applies for the rest of the numbers. Since this is a common cathode device, we need to send high, a logic one, and everything else is zero. And this is what we call the truth table for our common cathode LED. So now let's examine the truth table for the common anode. For a common anode device, the anodes of LEDs are connected to VCC and their normal state is one, high. So it works the opposite way. So if we want to turn on any of the LEDs, then we need to make the state zero, low. An example, if we want to show a number one,
 >
 > **[1:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-7-segment-led-truth-table?u=76281980&t=94)** then LED B and C receive a low value. And the same thing applies for any other number. The specific segments are zero and the rest are 1. So the truth tables for the common anode and common cathode devices are the same, but the difference is that for the common cathode we send high and for common anode we send low. You can use the same concept if you want to show letters. So you just need to figure out the truth table for each letter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (3)
 > **Env Vars:** led (5), vcc (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -475,13 +475,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980&t=0)** - [Narrator] In the previous example, we used seven digital pins for the seven-segment LED. As you can imagine, this may lead to you running out of pins on your [[Arduino]] board. One of the ways you can deal with this is by using a shift register. There are many types of shift registers. Each is used for a certain application. I'm going to use a serial in - parallel out shift register. So, in this example, I'm using a 4-bit shift register. You can think about it like four drawers. Each drawer contains one bit. So, in this example, I have a binary number that's a one-zero-one-one. The shift register takes each bit, one at a time, and moves it in between the drawers. At the first clock cycle, the least significant bit enters the shift register. The second clock cycle, the bit moves into the second drawer, and the next bit enters. And then, the third, and the fourth. Note here that the order of the most significant bit and the least significant bit stays the same. Now, the shift register takes the bits as a serial input, and output them in parallel. But you cannot do this instantaneously. It takes time. This is a clock diagram to better visualize how bits are loaded into the register. We see at the top, our clock signal, with the times t0 through t5 as the rising edges.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980&t=0)** - [Narrator] In the previous example, we used seven digital pins for the seven-segment LED. As you can imagine, this may lead to you running out of pins on your [Arduino](../../Skills/Software%20Development/Arduino.md) board. One of the ways you can deal with this is by using a shift register. There are many types of shift registers. Each is used for a certain application. I'm going to use a serial in - parallel out shift register. So, in this example, I'm using a 4-bit shift register. You can think about it like four drawers. Each drawer contains one bit. So, in this example, I have a binary number that's a one-zero-one-one. The shift register takes each bit, one at a time, and moves it in between the drawers. At the first clock cycle, the least significant bit enters the shift register. The second clock cycle, the bit moves into the second drawer, and the next bit enters. And then, the third, and the fourth. Note here that the order of the most significant bit and the least significant bit stays the same. Now, the shift register takes the bits as a serial input, and output them in parallel. But you cannot do this instantaneously. It takes time. This is a clock diagram to better visualize how bits are loaded into the register. We see at the top, our clock signal, with the times t0 through t5 as the rising edges.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980&t=97)** Loading the bit happens on the rising edge. So, on the first clock cycle, at t0, the least significant bit moves into drawer A. Then, at the second clock cycle, at t1, the bit moves into drawer B, and the next bit is loaded into the shift register. And the same thing happens in t2 and t3. At the end of the four clock cycles, the bits are shifted, keeping the same order, the least significant bit and the most significant bit. So, for our 4-bit shift register, it takes four clock cycles. And if we had an 8-bit shift register, it would take eight clock cycles to load the eight bits of data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (1)
 > **Env Vars:** led (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -491,11 +491,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/mc74hc595a-shift-register-overview?u=76281980&t=0)** - [Instructor] Let's take a look at how to wire up our shift register to [[Arduino]] board. The shift register we're using is MC74HC595A, which is a serial-in, parallel-out shift register. The MC shift register consists of eight-bit shift register. The eight output bits are referred to as QA through QH. And sometimes we refer to them as Q zero up to Q seven, depends on the type. The serial data is loaded in at pin A Data Serial In, and the parallel data is available at pins QA all the way through QH. If we only have four bits in, the shift register will shift only four bits out. And we can control the state of our LEDs by connecting them to the output pins of the shift register. Let's get started by wiring up our data and clock signals to the Arduino board.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/mc74hc595a-shift-register-overview?u=76281980&t=0)** - [Instructor] Let's take a look at how to wire up our shift register to [Arduino](../../Skills/Software%20Development/Arduino.md) board. The shift register we're using is MC74HC595A, which is a serial-in, parallel-out shift register. The MC shift register consists of eight-bit shift register. The eight output bits are referred to as QA through QH. And sometimes we refer to them as Q zero up to Q seven, depends on the type. The serial data is loaded in at pin A Data Serial In, and the parallel data is available at pins QA all the way through QH. If we only have four bits in, the shift register will shift only four bits out. And we can control the state of our LEDs by connecting them to the output pins of the shift register. Let's get started by wiring up our data and clock signals to the Arduino board.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (2)
 > **Env Vars:** mc74hc595a (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -504,7 +504,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-input-and-clock-signals?u=76281980&t=0)** - Okay, so let's give it a start. Let's start connecting pin number 14 in the shift register, which is the data serial in, and you are going to connect it to the [[Arduino]] board pin number eight. Alright so the way to note the numbers within the shift register is by using the indication, the dot over here. So you start from number one, two, three, all the way to eight, and then the other side, nine all the way to 16. So we're using pin number 14, over here, and this one goes to pin number 8. Now we'll talk about how to control the inputs. We're using two essential pins. First is the shift clock, which is pin number 11 in the shift register. Data is shifted on a low-to-high transition of the shift register clock input. And we're going to connect this to pin 11 in the Arduino board.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-input-and-clock-signals?u=76281980&t=0)** - Okay, so let's give it a start. Let's start connecting pin number 14 in the shift register, which is the data serial in, and you are going to connect it to the [Arduino](../../Skills/Software%20Development/Arduino.md) board pin number eight. Alright so the way to note the numbers within the shift register is by using the indication, the dot over here. So you start from number one, two, three, all the way to eight, and then the other side, nine all the way to 16. So we're using pin number 14, over here, and this one goes to pin number 8. Now we'll talk about how to control the inputs. We're using two essential pins. First is the shift clock, which is pin number 11 in the shift register. Data is shifted on a low-to-high transition of the shift register clock input. And we're going to connect this to pin 11 in the Arduino board.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-input-and-clock-signals?u=76281980&t=81)** The second clock is the latch clock, which is pin number 12 in the shift register. This input latches the shift register data. The data in the shift register is transferred to the storage register on a low-to-high transition of the storage latch input. And we're connecting this to pin 10 in the Arduino board.
 >
@@ -512,7 +512,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (4)
 > **Speakers:** - okay (1)
 
 #### [Wire up the signals for VCC and GND](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-signals-for-vcc-and-gnd?u=76281980)
@@ -537,7 +537,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-7-segment-led?u=76281980&t=0)** - [Narrator] Alright, so now let's go through the wiring of the shift register to the seven-segment LED. I'm going to follow the wiring according to this table. So on top, you can see the pin letter and the pin number of the shift register and the corresponding pin letter and the pin number of the seven-segment LED on the bottom. So you can choose to connect the seven segment differently but you need to consider this, in programming the [[Arduino]] board, so the most significant bit and the least significant bit. This wiring is for the most significant bit first. Alright, so the first one, we need to connect pin number seven from the shift register to pin number seven and the seven-segment LED. Okay, so the very first thing that I'd like to do is to make sure that since we're using a common anno disk to get the common pins connected. So the middle one goes to five volts DCC and the bottom common pin goes to five volt as well. Alright, so the very first pin that I'm going to connect is pin number seven which is Qh in the shift register to pin number seven in the seven-segment LED. So this is Qh and I need it to go to pin a.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-7-segment-led?u=76281980&t=0)** - [Narrator] Alright, so now let's go through the wiring of the shift register to the seven-segment LED. I'm going to follow the wiring according to this table. So on top, you can see the pin letter and the pin number of the shift register and the corresponding pin letter and the pin number of the seven-segment LED on the bottom. So you can choose to connect the seven segment differently but you need to consider this, in programming the [Arduino](../../Skills/Software%20Development/Arduino.md) board, so the most significant bit and the least significant bit. This wiring is for the most significant bit first. Alright, so the first one, we need to connect pin number seven from the shift register to pin number seven and the seven-segment LED. Okay, so the very first thing that I'd like to do is to make sure that since we're using a common anno disk to get the common pins connected. So the middle one goes to five volts DCC and the bottom common pin goes to five volt as well. Alright, so the very first pin that I'm going to connect is pin number seven which is Qh in the shift register to pin number seven in the seven-segment LED. So this is Qh and I need it to go to pin a.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wire-up-the-7-segment-led?u=76281980&t=96)** And then Qg from the shift register goes to pin b which is pin number six in the seven-segment LED. So let's do the wiring.
 >
@@ -545,7 +545,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (1)
 > **Env Vars:** led (6), dcc (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -555,15 +555,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=0)** - [Instructor] Okay so to start the coding for this part I've provided you with a starter project for this section. So go ahead and open 03_06_starter_project file from the exercise files. So, the exercise file looks like this one. So, the very first thing that we need to do, is we need to identify the three pins that we connected to the shift register. So, the very first one is constant integer, is the dataPin and we connected that to pin number eight in our [[Arduino]] board. The second one is constant int, the latchPin that lives in pin number 10. And finally, the shift clock pin, and I will name it as constant int clockPin, and that one's connected to pin 11. Okay, so the next part now, is trying to get the combination in order to show the numbers. So, this is the truth table for the common added LED that we are using. So, in order to get the binary number, you simply take each of the combination and place a zero B in front of it. You can check the website, the Arduino website, if you would like to know how to enter it in a different format let's say a hexadecimal or numbers. So, for the binary number, we are going to take the numbers and put them in an array. In the starting project file,
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=0)** - [Instructor] Okay so to start the coding for this part I've provided you with a starter project for this section. So go ahead and open 03_06_starter_project file from the exercise files. So, the exercise file looks like this one. So, the very first thing that we need to do, is we need to identify the three pins that we connected to the shift register. So, the very first one is constant integer, is the dataPin and we connected that to pin number eight in our [Arduino](../../Skills/Software%20Development/Arduino.md) board. The second one is constant int, the latchPin that lives in pin number 10. And finally, the shift clock pin, and I will name it as constant int clockPin, and that one's connected to pin 11. Okay, so the next part now, is trying to get the combination in order to show the numbers. So, this is the truth table for the common added LED that we are using. So, in order to get the binary number, you simply take each of the combination and place a zero B in front of it. You can check the website, the Arduino website, if you would like to know how to enter it in a different format let's say a hexadecimal or numbers. So, for the binary number, we are going to take the numbers and put them in an array. In the starting project file,
 >
-> **[1:32](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=92)** I already added the numbers, so here is the combination for number zero. The second one is a combination for number one, and so on. Try to keep them in order, because this will make sure that the numbers will show in orders when we use the seven segment LED. Okay, so now we got the pins identified, lines three to five, we got an array that's giving to it a data array, and it's a size of 10 because we are using numbers from zero to nine. So, let's continue coding, so, now the next part, is we need to identify the pin mode. So, the pin mode is for the three pins we're using, we consider them as an output. So, pinMode latchpin and it's an output. And I'll do the same for the [[Representational State Transfer (REST)|rest]] of the pins.
+> **[1:32](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=92)** I already added the numbers, so here is the combination for number zero. The second one is a combination for number one, and so on. Try to keep them in order, because this will make sure that the numbers will show in orders when we use the seven segment LED. Okay, so now we got the pins identified, lines three to five, we got an array that's giving to it a data array, and it's a size of 10 because we are using numbers from zero to nine. So, let's continue coding, so, now the next part, is we need to identify the pin mode. So, the pin mode is for the three pins we're using, we consider them as an output. So, pinMode latchpin and it's an output. And I'll do the same for the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the pins.
 >
 > **[2:43](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/initializing-pins-for-the-shift-register?u=76281980&t=163)** Alright, so, we've got the pins initialized, the array including the numbers tat we want to show, and then we set up the pin modes. So, next, we are going to program the shifters in order to show the numbers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (2), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Code Identifiers:** datapin (1), latchpin (1), clockpin (1), pinmode (1)
 > **Exercise Files:** starter project (1), exercise files (1), exercise file (1)
 > **Env Vars:** led (2)
@@ -580,11 +580,11 @@ created: 2026-05-03
 >
 > **[1:35](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-shiftout-command?u=76281980&t=95)** and we're starting from zero, and index value is less than 10. And then finally, the way we increment it is by adding one to it. Okay, so now we started the for-loop. Now we need to make sure that we add the value of the index within the array. So here, I'm going to add an index. So this line, line 25, simply shift out the bit that we have in the array to get them out starting from the most significant bit. Alright, so when using a shiftOut command with the shift register, we need to make sure that the clock latch bin is called 'low' before using the shiftOut command, and then 'high' after using the shiftOut command. So in order to do so, I'm going to use a digitalWrite, and then specify the latchPin to 'low' before the command, and then call it 'high' after the command. Okay, so you're gonna do the same thing, but after the shiftOut command, but this time we are going to call it to 'high'. And then I usually like to add a delay at the end just to make it a little bit nicer when you see the numbers showing in the seven segment LED. And then that's it. We've done the coding for the shift register, so go ahead and download the program
 >
-> **[3:08](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-shiftout-command?u=76281980&t=188)** to [[Arduino]] board and see how it works. Okay, so you can see the number showing on the seven segment LED and using only three output from the Arduino board.
+> **[3:08](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/the-shiftout-command?u=76281980&t=188)** to [Arduino](../../Skills/Software%20Development/Arduino.md) board and see how it works. Okay, so you can see the number showing on the seven segment LED and using only three output from the Arduino board.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (2)
 > **Code Identifiers:** shiftout (6), datapin (2), clockpin (2), bitorder (1), digitalwrite (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** led (2)
@@ -601,13 +601,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980&t=0)** - [Narrator] A keypad is a common [[Hardware]] interface so let's see how we can set up one with our [[Arduino]] board. The keypad type we're using is four by three which means four rows and three columns. Each point is a pushbutton arranged this way. Each pushbutton is an active low type. This is the arrangement for an active low pushbutton. We have a voltage source, VCC, and a resistor. We call the resistor a pull-up resistor, then a pushbutton connected to ground. And in order to read the value of the active low pushbutton we connect the controller pin between the pull-up resistor and the pushbutton. Active low simply means when the switch or the pushbutton is closed or pressed, it sends a low signal to the microcontroller. So as the name says it, when it's active, it sends a low signal. When the switch is not pressed, it sends a high signal. An active low pushbutton uses a pull-up resistor. It pulls up the value to high when it's not pressed. The keypad is separated into rows and columns. All columns and rows are active low. So when they are not pressed, they send a high signal to the microcontroller. So when pressing the specific button on the keypad, the program, Arduino, receives a two low signals. And this how the program knows exactly what number
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980&t=0)** - [Narrator] A keypad is a common [Hardware](../../Topics/Hardware.md) interface so let's see how we can set up one with our [Arduino](../../Skills/Software%20Development/Arduino.md) board. The keypad type we're using is four by three which means four rows and three columns. Each point is a pushbutton arranged this way. Each pushbutton is an active low type. This is the arrangement for an active low pushbutton. We have a voltage source, VCC, and a resistor. We call the resistor a pull-up resistor, then a pushbutton connected to ground. And in order to read the value of the active low pushbutton we connect the controller pin between the pull-up resistor and the pushbutton. Active low simply means when the switch or the pushbutton is closed or pressed, it sends a low signal to the microcontroller. So as the name says it, when it's active, it sends a low signal. When the switch is not pressed, it sends a high signal. An active low pushbutton uses a pull-up resistor. It pulls up the value to high when it's not pressed. The keypad is separated into rows and columns. All columns and rows are active low. So when they are not pressed, they send a high signal to the microcontroller. So when pressing the specific button on the keypad, the program, Arduino, receives a two low signals. And this how the program knows exactly what number
 >
 > **[1:35](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980&t=95)** is pressed. So in this case, row two and column two receive a low signal. And this is how the Arduino knows that we've pressed number five. Our keypad is wired this way. The right hand side of the connecting ribbon is reserved for the columns. So column one, two and three. The left hand side is reserved for the rows. Row one, two, three and four.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (3), [Hardware](../../Topics/Hardware.md) (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** vcc (1)
 > **Prerequisites:** set up (1)
@@ -617,7 +617,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-keypad?u=76281980&t=0)** - [Instructor] Alright, so let's do the wiring of the keypad to [[Arduino]] board. So, we are going to use the pins, two to five, in order to reserve for the rows, and then six, seven, eight, for the columns. So, this is the keypad we are using. And then I'm going to use pins two, all the way to eight.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-keypad?u=76281980&t=0)** - [Instructor] Alright, so let's do the wiring of the keypad to [Arduino](../../Skills/Software%20Development/Arduino.md) board. So, we are going to use the pins, two to five, in order to reserve for the rows, and then six, seven, eight, for the columns. So, this is the keypad we are using. And then I'm going to use pins two, all the way to eight.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/wiring-up-the-keypad?u=76281980&t=30)** For the second part, we are going to use three LEDs, and we are going to use a keypad to control each one of them. So I'm going to connect the LEDs for pin nine, 10, and 11. So for the LEDs I'm going to use a resistor and the value that I am going to use is 330 ohm. You can use any values between 200 and 500 if you don't have this specific one. So the red LED is going to be connected to pin nine.
 >
@@ -629,7 +629,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (2)
 > **Env Vars:** led (2)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
@@ -651,13 +651,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-the-switch-case-statement?u=76281980&t=0)** - [Instructor] All right, so I'm going to go through the switch...case statement. If you are familiar with the concept, you can skip this video, but if you want to refresh your memory about what the concept is, I'm going to go through the concept briefly. So one of the structure commands used within [[Arduino]] is a switch...case statement. Oftentimes, we might need to compare a variable against several possible values. For example, the keypad we're using, so we might need to have an assorted output to be associated when we press certain numbers on the keypad. The switch statement uses a standard if...then style condition to evaluate for results. The Arduino jumps to the matching case statement in the code, skipping over the other case statements. You can have a default statement at the end of the switch statement code block. The Arduino software jumps to the default statement when none of the cases matches the results. So we use switch...case statement if we want to control the flow of the program, or if we want to switch between different states. So if case one is true, then the program executes statement under case one. The same thing applies for any other cases. So instead of writing a long series of else...if statement, we can just use a switch...case statement. You need to add a break at the end of each case. Otherwise, the Arduino software continues to process any code that appears after the case, including the other case statements. Adding a break will cause the Arduino software
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-the-switch-case-statement?u=76281980&t=0)** - [Instructor] All right, so I'm going to go through the switch...case statement. If you are familiar with the concept, you can skip this video, but if you want to refresh your memory about what the concept is, I'm going to go through the concept briefly. So one of the structure commands used within [Arduino](../../Skills/Software%20Development/Arduino.md) is a switch...case statement. Oftentimes, we might need to compare a variable against several possible values. For example, the keypad we're using, so we might need to have an assorted output to be associated when we press certain numbers on the keypad. The switch statement uses a standard if...then style condition to evaluate for results. The Arduino jumps to the matching case statement in the code, skipping over the other case statements. You can have a default statement at the end of the switch statement code block. The Arduino software jumps to the default statement when none of the cases matches the results. So we use switch...case statement if we want to control the flow of the program, or if we want to switch between different states. So if case one is true, then the program executes statement under case one. The same thing applies for any other cases. So instead of writing a long series of else...if statement, we can just use a switch...case statement. You need to add a break at the end of each case. Otherwise, the Arduino software continues to process any code that appears after the case, including the other case statements. Adding a break will cause the Arduino software
 >
 > **[1:34](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/optional-review-the-switch-case-statement?u=76281980&t=94)** to jump out of that switch statement after each specific case is done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (5)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (5)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -679,13 +679,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/setup-the-keypad-library?u=76281980&t=0)** - [Instructor] Often times when you use the keypad component, you need to include the library in the [[Arduino]] software. In order to check if you have the library or not, you go to Sketch, Include Library, and then look around if you see the keypad library. If you don't see it around, then you need to download it from the website. To do so, you need to go to this website, so you need to download this zip file. And then once downloaded, you go to Download, then unzip the file. Alright, so once you have the folder, you need to move it to the libraries within the Arduino software. So you go where is Arduino, Libraries, and then you place it in here. Alright, so let's go back and check if we have the library within the software. You might need to restart the software again, so just open a new one.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/setup-the-keypad-library?u=76281980&t=0)** - [Instructor] Often times when you use the keypad component, you need to include the library in the [Arduino](../../Skills/Software%20Development/Arduino.md) software. In order to check if you have the library or not, you go to Sketch, Include Library, and then look around if you see the keypad library. If you don't see it around, then you need to download it from the website. To do so, you need to go to this website, so you need to download this zip file. And then once downloaded, you go to Download, then unzip the file. Alright, so once you have the folder, you need to move it to the libraries within the Arduino software. So you go where is Arduino, Libraries, and then you place it in here. Alright, so let's go back and check if we have the library within the software. You might need to restart the software again, so just open a new one.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/setup-the-keypad-library?u=76281980&t=75)** Alright, so you go and check if you have the library now. See, we have the keypad now. Sometimes, if cannot even see it in here, the way to do it is you go to Manage Libraries, and then simply search for the keypad. And then download any of the libraries available. I usually go with this one, and then I install it. And then once you do this step, you'll have the library included in the software, so to include the library, you go here, move all the way to keypad. So you go to Sketch, Include Library, Keypad, and then you'll see the library included. Okay, so now the software is ready, let's start to do some coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (3)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** unzip (1)
 > **Exercise Files:** zip file (1)
@@ -696,7 +696,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/hellokeypad?u=76281980&t=0)** - [Instructor] So once you download the keypad library, you will have an example that comes in within the library itself. So in order to access the examples, you go to file, examples, and then scroll down all the way to the keypad. I'll select Hello Keypad for our example here. So we're using this example for our keypad. I just need to make some changes along the way according to the wiring that we did. All right, so I'm going to explain the code of this example in order to understand how the keypad function works. So, in line 10, we see that we need to include the library when we deal with the keypad. It's included in here. Line 12 and line 13 is initializing rows and columns of timed bytes. The rows and columns are for the keypad, so we're using 4 by 3 Key pad, so four rows and three columns. So, both rows and columns are tad bytes. The reason for selecting tad byte is that byte is unassigned integer that has a value of 0 to 255. The reason why we select the byte is that we know that the rows and columns values will be between zero and 255. There is a way to minimize their memory usage within the [[Arduino]] software. On line 14 is where we're identifying the two dimensional array of the key pad we are using. So, the two dimensional array is that character, the name for the array is keys,
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/hellokeypad?u=76281980&t=0)** - [Instructor] So once you download the keypad library, you will have an example that comes in within the library itself. So in order to access the examples, you go to file, examples, and then scroll down all the way to the keypad. I'll select Hello Keypad for our example here. So we're using this example for our keypad. I just need to make some changes along the way according to the wiring that we did. All right, so I'm going to explain the code of this example in order to understand how the keypad function works. So, in line 10, we see that we need to include the library when we deal with the keypad. It's included in here. Line 12 and line 13 is initializing rows and columns of timed bytes. The rows and columns are for the keypad, so we're using 4 by 3 Key pad, so four rows and three columns. So, both rows and columns are tad bytes. The reason for selecting tad byte is that byte is unassigned integer that has a value of 0 to 255. The reason why we select the byte is that we know that the rows and columns values will be between zero and 255. There is a way to minimize their memory usage within the [Arduino](../../Skills/Software%20Development/Arduino.md) software. On line 14 is where we're identifying the two dimensional array of the key pad we are using. So, the two dimensional array is that character, the name for the array is keys,
 >
 > **[1:32](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/hellokeypad?u=76281980&t=92)** and then we have rows and columns. In line 20, we're now identifying the wiring of the rows. So, go ahead and make the changes according to the one that we did. So, for the rows, we use two to five. So two, three, four, and five. Again, you need to keep it in order. And then for line 21, we need to identify the columns, so I'm going to go ahead and 1 to 5 according to our wiring. All right. In line 23, this is the main key pad function. So, the key pad function starts from here. This is identifying a name for that key pad. So, the name that you find here after make key map should correspond to the same array name that we are going to find here. So, if we make any changes, then, the name should change accordingly. Here is the rowPins array, the one that we have in line 20. For column pins, it's whatever we have in line 21. And finally, rows and columns corresponding to whatever we have in line 12 and 13. Now in line 26, we initialize the communication between the Arduino board and the serial monitor. Notice here that once we use the serial monitor, once we initialize the communication, we can not use pins zero and one within
 >
@@ -706,7 +706,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (4)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** go to (1), scroll down (1), select the (1), click on (1)
 > **Code Identifiers:** rowpins (1), getkey (1)
@@ -762,11 +762,11 @@ created: 2026-05-03
 >
 > **[4:39](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-the-keypad-and-7-segment-led?u=76281980&t=279)** and since we're using the same wiring, so it's in most significant bit first. And then finally, the data that we are going to shift out using the shift register is the keycode. Okay? And just set the large pin to pi after the shiftOut command.
 >
-> **[5:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-the-keypad-and-7-segment-led?u=76281980&t=307)** So now we've done the coding part, so go ahead and upload this into the [[Arduino]] board in order to see how the program works. Okay, so let's give it a start. So I'm going to press on number four. I notice here that it shows on the seven segment LED, so you press any number, I'm going to press five, two. And if I press on the star symbol or the hashtag, then we're using the two int command, and the two int command that converts everything to zero if we're not pressing any of the numbers. Okay, so we've done this part, and let's go into the next example.
+> **[5:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-the-keypad-and-7-segment-led?u=76281980&t=307)** So now we've done the coding part, so go ahead and upload this into the [Arduino](../../Skills/Software%20Development/Arduino.md) board in order to see how the program works. Okay, so let's give it a start. So I'm going to press on number four. I notice here that it shows on the seven segment LED, so you press any number, I'm going to press five, two. And if I press on the star symbol or the hashtag, then we're using the two int command, and the two int command that converts everything to zero if we're not pressing any of the numbers. Okay, so we've done this part, and let's go into the next example.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (1)
 > **Code Identifiers:** shiftout (3), toint (1), dataarray (1), digitalwrite (1), latchpin (1)
 > **Env Vars:** led (3), low (1)
 > **UI Navigation:** open the (1), toggle (1)
@@ -779,7 +779,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=0)** - [Instructor] All right, so we've went through the three components, so now we are going to include the seven-segment LED with the LCD and the keypad. So, we are going to keep the same wiring for the seven-segment LED, the same wiring for the LCD, and the same wiring for the keypad. The only difference, however, is that so the shift clock, which is in pin eleven, the shift register, is going to be connected in pin nine in the [[Arduino]] board over here. And it was previously connected to pin eleven, but I used pin eleven to connect it to the LCD. So, if you are going to use two bread boards, exactly what I'm doing, so you need to keep the connection between the two bread boards, so the positive to the positive, and then key brand common.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=0)** - [Instructor] All right, so we've went through the three components, so now we are going to include the seven-segment LED with the LCD and the keypad. So, we are going to keep the same wiring for the seven-segment LED, the same wiring for the LCD, and the same wiring for the keypad. The only difference, however, is that so the shift clock, which is in pin eleven, the shift register, is going to be connected in pin nine in the [Arduino](../../Skills/Software%20Development/Arduino.md) board over here. And it was previously connected to pin eleven, but I used pin eleven to connect it to the LCD. So, if you are going to use two bread boards, exactly what I'm doing, so you need to keep the connection between the two bread boards, so the positive to the positive, and then key brand common.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/combine-them-all-lcd-keypad-led?u=76281980&t=54)** So now, the last piece is connecting the five volt here and then ground to ground. All right, so now we have the three components together connected to the Arduino board. All right, so to start the coding, why don't you go ahead and open the file 0410 Keypad 7 segment LED LCD start project. So in the code, you notice that line one and two including the two libraries that we need for the keypad and LCD, line five all the way to line 18 is for the initializing the keypad as we mentioned previously. For line 21, 22, and 23, are for the shift register, so you'll notice here that the only change is that in line 23, that we're connecting to pin 9. Line 25 is initializing the array, and line 29 is for the LCD. Now, in the voice setup, we have to initial the pins as an output in line 33 all the way to 35. And then for the LCD in line 37, it's a 16 by 2 LCD. We're using the same tab, so we do not change anything in here. And then, I set the cursor to start from the first line as you can see that in line 39. Line 40 is that I have a simple sentence saying that enter the keypad number and then line 41, I sent the cursor to go to the 2nd row in order to show the numbers.
 >
@@ -789,7 +789,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), cursor (2)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (3), cursor (2)
 > **Env Vars:** lcd (14), led (8)
 > **Prerequisites:** setup (2), set up (1)
 > **Cross-References:** we mentioned (1), we covered (1)
@@ -807,16 +807,16 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980&t=3)** If you want to learn more about [[Arduino]] you can check out the library for my other Arduino courses like [[Learning Arduino- Interfacing with Analog Devices]],
+> **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980&t=3)** If you want to learn more about [Arduino](../../Skills/Software%20Development/Arduino.md) you can check out the library for my other Arduino courses like [Learning Arduino- Interfacing with Analog Devices](Learning%20Arduino-%20Interfacing%20with%20Analog%20Devices.md),
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3)
+> **Frameworks & Libraries:** [Arduino](../../Skills/Software%20Development/Arduino.md) (3)
 
 
 ## Instructor
 
-- [[Zahraa Khalil]]
+- [Zahraa Khalil](../../Instructors/Hardware/Zahraa%20Khalil.md)
 
 ## Resources
 
@@ -828,21 +828,21 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Become an Arduino Developer]]
-← [[Electronics Foundations- Basic Circuits]] | **4 of 11** | [[Electronics Foundations- Semiconductor Devices]] →
+### In [Become an Arduino Developer](../../Paths/Hardware/Learning%20Paths/Become%20an%20Arduino%20Developer.md)
+← [Electronics Foundations- Basic Circuits](Electronics%20Foundations-%20Basic%20Circuits.md) | **4 of 11** | [Electronics Foundations- Semiconductor Devices](Electronics%20Foundations-%20Semiconductor%20Devices.md) →
 
 ## Appears In
 
-- [[Become an Arduino Developer]]
+- [Become an Arduino Developer](../../Paths/Hardware/Learning%20Paths/Become%20an%20Arduino%20Developer.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Arduino- Prototyping]] — Arduino
-- [[Learning Arduino- Pulse Width Modulation]] — Arduino
-- [[Learning Arduino- Interfacing with Analog Devices]] — Arduino
-- [[Learning Arduino Foundations]] — Arduino
+- [Arduino- Prototyping](Arduino-%20Prototyping.md) — Arduino
+- [Learning Arduino- Pulse Width Modulation](Learning%20Arduino-%20Pulse%20Width%20Modulation.md) — Arduino
+- [Learning Arduino- Interfacing with Analog Devices](Learning%20Arduino-%20Interfacing%20with%20Analog%20Devices.md) — Arduino
+- [Learning Arduino Foundations](Learning%20Arduino%20Foundations.md) — Arduino
 
 ---
 

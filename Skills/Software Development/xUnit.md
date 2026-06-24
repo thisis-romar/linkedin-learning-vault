@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[C- Unit Testing with xUnit]] — Intermediate · 49m · 45,099 learners
+- [C- Unit Testing with xUnit](../../Courses/DevOps/C-%20Unit%20Testing%20with%20xUnit.md) — Intermediate · 49m · 45,099 learners
 
 ## Related Skills
 
-- [[Unit Testing]] — 1 shared course
-- [[C#]] — 1 shared course
+- [Unit Testing](Unit%20Testing.md) — 1 shared course
+- [C#](../../Glossary/Language/C%23.md) — 1 shared course

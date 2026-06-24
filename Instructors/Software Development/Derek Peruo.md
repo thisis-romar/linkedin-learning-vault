@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Angular- Testing and Debugging]]
+- [Angular- Testing and Debugging](../../Courses/Software%20Development/Angular-%20Testing%20and%20Debugging.md)

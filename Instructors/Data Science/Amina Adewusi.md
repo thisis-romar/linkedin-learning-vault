@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Hands-On Introduction- Scala]]
+- [Hands-On Introduction- Scala](../../Courses/Data%20Science/Hands-On%20Introduction-%20Scala.md)

@@ -18,17 +18,17 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQHWXzP1EhG6xw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1611181236412?e=2147483647&amp;v=beta&amp;t=95vksPogY88U7T5Qa5Ic1FSbmji1q24X4xfQNaSLJ_8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - '[[Fundamentals to Become a Machine Learning Engineer]]'
-  - '[[Advance Your Skills in AI and Machine Learning]]'
-  - '[[Getting Started with AI and Machine Learning]]'
+  - '[Fundamentals to Become a Machine Learning Engineer](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Fundamentals%20to%20Become%20a%20Machine%20Learning%20Engineer.md)'
+  - '[Advance Your Skills in AI and Machine Learning](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20Skills%20in%20AI%20and%20Machine%20Learning.md)'
+  - '[Getting Started with AI and Machine Learning](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Getting%20Started%20with%20AI%20and%20Machine%20Learning.md)'
 prev_courses:
-  - '[[Deep Learning- Model Optimization and Tuning (2022)]]'
-  - '[[Deep Learning- Model Optimization and Tuning (2022)]]'
-  - '[[Hands-On AI- Image Processing with Python]]'
+  - '[Deep Learning- Model Optimization and Tuning (2022)](Deep%20Learning-%20Model%20Optimization%20and%20Tuning%20(2022).md)'
+  - '[Deep Learning- Model Optimization and Tuning (2022)](Deep%20Learning-%20Model%20Optimization%20and%20Tuning%20(2022).md)'
+  - '[Hands-On AI- Image Processing with Python](Hands-On%20AI-%20Image%20Processing%20with%20Python.md)'
 next_courses:
-  - '[[Training Neural Networks in Python]]'
-  - '[[Introduction to Attention-Based Neural Networks]]'
-  - '[[Hands-On PyTorch Machine Learning]]'
+  - '[Training Neural Networks in Python](Training%20Neural%20Networks%20in%20Python.md)'
+  - '[Introduction to Attention-Based Neural Networks](Introduction%20to%20Attention-Based%20Neural%20Networks.md)'
+  - '[Hands-On PyTorch Machine Learning](Hands-On%20PyTorch%20Machine%20Learning.md)'
 path_nav: '[{"path":"Fundamentals to Become a Machine Learning Engineer","position":6,"total":7,"prev":"Deep Learning- Model Optimization and Tuning (2022)","next":"Training Neural Networks in Python"},{"path":"Advance Your Skills in AI and Machine Learning","position":3,"total":16,"prev":"Deep Learning- Model Optimization and Tuning (2022)","next":"Introduction to Attention-Based Neural Networks"},{"path":"Getting Started with AI and Machine Learning","position":5,"total":7,"prev":"Hands-On AI- Image Processing with Python","next":"Hands-On PyTorch Machine Learning"}]'
 path_count: 3
 tags:
@@ -94,11 +94,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980&t=0)** - Picture this. An algorithm mastering the game of chess through trial and error, gradually improving its strategies with every move. That is the essence of [[Reinforcement Learning]], a dynamic process where machines learn by interacting with the world, receiving feedback and refining their actions. In this course, we'll delve into the foundations of reinforcement learning, unraveling core concepts that drive machines to explore their environment, learn from experiences and make intelligent decisions. I'm Khaulat, the founder of DiverseK where we're passionate about bridging the gap between tech talent and companies. We'll delve into the key methods like the Monte Carlo method and the temporal-difference methods including SARSA, Q-learning and Expected SARSA. Let's dive right in.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980&t=0)** - Picture this. An algorithm mastering the game of chess through trial and error, gradually improving its strategies with every move. That is the essence of [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md), a dynamic process where machines learn by interacting with the world, receiving feedback and refining their actions. In this course, we'll delve into the foundations of reinforcement learning, unraveling core concepts that drive machines to explore their environment, learn from experiences and make intelligent decisions. I'm Khaulat, the founder of DiverseK where we're passionate about bridging the gap between tech talent and companies. We'll delve into the key methods like the Monte Carlo method and the temporal-difference methods including SARSA, Q-learning and Expected SARSA. Let's dive right in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (2)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (2)
 > **Env Vars:** sarsa (2)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -113,13 +113,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980&t=0)** - [Instructor] Before we get into the technical details, you first need to understand some very important terms that are common in [[Reinforcement Learning]]. This will give you a better foundation for the [[Representational State Transfer (REST)|rest]] of the course. First, let's talk about the agent. This is the main property of a reinforcement learning problem. For example, it could be a robot learning to walk, or an agent learning to drive. The agent is the artificially intelligence corrector that does the learning by exploring the environments and observing, just the way we do sometimes. The next term is the state. This is the position the agent is at a given period. It changes when the agent moves. Then the environment is the environment, literally, that the agent observes to learn. Different positions in the environment represent the state. This model of the environment is sometimes known by the agent, and in other cases, unknown. Next is the action. This is whatever step or act the agent decides to take after observing the environment. If this action taken by the agents is correct, it gets a positive reward. Now, reward, in this case, is the score an agent gets for taking an action. Correct actions lead to positive rewards, while wrong actions lead to negative rewards. When an agent fails and gets a negative reward, it learns from it and changes its actions
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980&t=0)** - [Instructor] Before we get into the technical details, you first need to understand some very important terms that are common in [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md). This will give you a better foundation for the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the course. First, let's talk about the agent. This is the main property of a reinforcement learning problem. For example, it could be a robot learning to walk, or an agent learning to drive. The agent is the artificially intelligence corrector that does the learning by exploring the environments and observing, just the way we do sometimes. The next term is the state. This is the position the agent is at a given period. It changes when the agent moves. Then the environment is the environment, literally, that the agent observes to learn. Different positions in the environment represent the state. This model of the environment is sometimes known by the agent, and in other cases, unknown. Next is the action. This is whatever step or act the agent decides to take after observing the environment. If this action taken by the agents is correct, it gets a positive reward. Now, reward, in this case, is the score an agent gets for taking an action. Correct actions lead to positive rewards, while wrong actions lead to negative rewards. When an agent fails and gets a negative reward, it learns from it and changes its actions
 >
 > **[1:35](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980&t=95)** with the aim of choosing the right action. Therefore, the agent tries to tilt from actions that lead to negative rewards to those that lead to positive rewards. Before selecting an action, the agent uses a strategy or method to decide on what action to take in a particular state. They're usually different strategies, and these strategists in reinforcement learning are known us policies. Finally, when the agents explores an environment, it has a mission; it has something it wants to learn and that's its goal. That's enough for now. You'll learn about some other terms as we progress through the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (3), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -127,7 +127,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-problem?u=76281980&t=0)** - [Presenter] Now, how do you recognize a [[Reinforcement Learning]] problem? It has to have some or all of the properties stated in the previous lesson. By some, I mean in cases where the model of the environment is unknown. In such cases, the agent is set to be performing a model free prediction. This means it's trying to predict its next action in a state without knowing what the environment looks like. The second way of learning by the agent is the model-based prediction method. Opposite of model free, where the agent learns with full knowledge of its environment. Let's assume you're the agent and you move to a new place could be for vacation or you're relocating. You don't know the location of any place or anything. You visit a few new places a day and learn more about your environment and learn new ways to navigate it. This way, if you take a new action you're learning in the model free environment. On the other hand, you just woke up from bed in a house that you've been living in for over two years, you know its size and where everything is. In this case, if you take any new action, you're learning in a model-based environment. In both cases, your every action leads to a reward which could be positive or negative. This reward helps you decide on your next action
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-problem?u=76281980&t=0)** - [Presenter] Now, how do you recognize a [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) problem? It has to have some or all of the properties stated in the previous lesson. By some, I mean in cases where the model of the environment is unknown. In such cases, the agent is set to be performing a model free prediction. This means it's trying to predict its next action in a state without knowing what the environment looks like. The second way of learning by the agent is the model-based prediction method. Opposite of model free, where the agent learns with full knowledge of its environment. Let's assume you're the agent and you move to a new place could be for vacation or you're relocating. You don't know the location of any place or anything. You visit a few new places a day and learn more about your environment and learn new ways to navigate it. This way, if you take a new action you're learning in the model free environment. On the other hand, you just woke up from bed in a house that you've been living in for over two years, you know its size and where everything is. In this case, if you take any new action, you're learning in a model-based environment. In both cases, your every action leads to a reward which could be positive or negative. This reward helps you decide on your next action
 >
 > **[1:35](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-problem?u=76281980&t=95)** and that's exactly how a reinforcement learning agent learns. Some agents have goals or missions to accomplish and once they're done accomplishing those missions they stop learning. These kinds of tasks are known as episodic task as they happen in an episode and have a final state. Some other tasks by the agents do not have an end and are known as continuing tasks. Most episodic tasks are solved via model-based methods because they are usually short which means a simpler environment to understand. While most continuing tasks are model-free because they have a larger environment space which cannot be totally understood by the agent. To not get confused later on, it's important that you know that the term episode could be used in a different context in reinforcement learning. Let's flash back to our understanding of rewards. The agent gets a reward after performing an action which could be right or wrong. In some types of reinforcement learning methods that we'll consider later and in the course, the reward doesn't come immediately after the action. But after a set of actions, this set of different actions in different states before a reward is known as an episode. So many episodes can occur before an agent reaches its goal and before getting its final reward which is the sum of all the rewards gotten
 >
@@ -135,7 +135,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (5)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (5)
 > **Definitions:** known as (3), is an  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
@@ -144,7 +144,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=0)** - [Instructor] One very important topic left to discuss when describing a [[Reinforcement Learning]] problem, is the Markov decision process. You might have been wondering how everything discussed in the previous lesson is even possible mathematically, or even in code. Markov decision process, MDP in short, is how reinforcement learning problems are represented mathematically. Its variables include states, actions, rewards, one step dynamics of the environment, which is the states transition [[Probability]], and the discount factor. I know, I didn't mention discount factor before, so I'll do justice to that. Let's go back to the race example, but this time around we are running forever, definitely not possible. We are assuming this is a continuing task, as opposed to the hundred meter sprint, which is an episodic task. Now, because we're running forever, we are not very sure what the future holds, or whether our future rewards will be any better than the present. Due to this, we favor and cherish our present rewards, as opposed to the ones we might or might not get. The discount factor helps us make this possible mathematically. So now that we understand the discount factor, which is also called the reward function, let's consider the Markov decision process, MDP as a whole. Like I mentioned earlier, it has a set of states,
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=0)** - [Instructor] One very important topic left to discuss when describing a [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) problem, is the Markov decision process. You might have been wondering how everything discussed in the previous lesson is even possible mathematically, or even in code. Markov decision process, MDP in short, is how reinforcement learning problems are represented mathematically. Its variables include states, actions, rewards, one step dynamics of the environment, which is the states transition [Probability](../../Skills/Data%20Science/Probability.md), and the discount factor. I know, I didn't mention discount factor before, so I'll do justice to that. Let's go back to the race example, but this time around we are running forever, definitely not possible. We are assuming this is a continuing task, as opposed to the hundred meter sprint, which is an episodic task. Now, because we're running forever, we are not very sure what the future holds, or whether our future rewards will be any better than the present. Due to this, we favor and cherish our present rewards, as opposed to the ones we might or might not get. The discount factor helps us make this possible mathematically. So now that we understand the discount factor, which is also called the reward function, let's consider the Markov decision process, MDP as a whole. Like I mentioned earlier, it has a set of states,
 >
 > **[1:36](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=96)** a set of actions, a discount factor, gamma, which is set to a value less than one. The closer it is to one, the more priority is given to the present reward. While the closer it is to zero, the more the agent considers future rewards, which is not very good in the long run. So the discount factor is normally set to 0.9. Then there is a set of rewards, which the agent doesn't know initially. And finally, the state transition probability, which is the probability that the agent moves from one state to another, also referred to as the one step dynamics of the environment. Now, how exactly does this work? You might ask. I'll use another simple example. Assume you're the agent, and you're in a dark room. This room is empty except it contains parts of something you currently want. Well, for me, maybe a fruit salad. So there is an apple, a pawpaw, some call it papaya, which could be different in different parts of the world, a water melon and a banana, scattered around the room. And I need to pick all of them up to make my fruit salad. We could assume again that the floors are tiled with square tiles, to be able to keep track of our state. My current state is the first tile at the entrance of the room. If I decide to move forward to the next tile in front of me, I have taken an action, forward, in this case, into another state.
 >
@@ -152,7 +152,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), [[Reinforcement Learning]] (2)
+> **Frameworks & Libraries:** [Probability](../../Skills/Data%20Science/Probability.md) (5), [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (2)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** mdp (2)
@@ -166,11 +166,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980&t=0)** - [Instructor] An equation called bellman equation is used to solve the markov decision process. Before we proceed you need to understand some new terms, the state value function and the actual value function. They both represent the same thing which is the bellman equation. The state value function is the expected value of the reward in a particular state. Did you get that? It is the total reward gained by the agent from its current state to the goal state. Let's go back to the room containing fruits for my fruit salad. I decided to move forward, left, forward and forward again and that policy takes me to my first fruit the banana that's one policy I can take. My cumulative reward from the first state to the fourth state is the state value of the four states because that's where I started. If I want to get the state value of the second state I would sum up my rewards from the second state to the fourth state and so on. Note that different policies or paths would result in different state values even if they have the same stats and end state. The actual value function
 >
-> **[1:32](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980&t=92)** is used to get more optimal policies as it takes both action and the states of the agents into account when calculating rewards as opposed to the state value function which considers only the state. Note in both cases, we want to find the best path that will give us the optimal rewards. This path is known as the optimal policy. Now let's look at various [[Forms]] of the bellman equation. Are there different ways to solve a [[Reinforcement Learning]] problem?
+> **[1:32](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980&t=92)** is used to get more optimal policies as it takes both action and the states of the agents into account when calculating rewards as opposed to the state value function which considers only the state. Note in both cases, we want to find the best path that will give us the optimal rewards. This path is known as the optimal policy. Now let's look at various [Forms](../../Skills/Web%20Development/Forms.md) of the bellman equation. Are there different ways to solve a [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) problem?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Reinforcement Learning]] (1)
+> **Frameworks & Libraries:** [Forms](../../Skills/Web%20Development/Forms.md) (1), [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Warnings:** note that (1)
@@ -199,11 +199,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980&t=0)** - [Instructor] Temporal difference methods are the second major category of ways in which [[Reinforcement Learning]] agents learn. Unlike the Monte Carlo method, temporary difference methods update the Q-table at every time step, instead of the end of every episode. There are more realistic ways of learning and solving tasks because real world tasks are mostly continuous. We need to know if we're taking the right action or wrong one at every time step instead of waiting over a long period of time when damages might have been caused. Note that this also works for episodic tasks. Considering a real world application of [[Artificial Intelligence (AI)|artificial intelligence]] systems like self-driving cars, the agent drive in the car needs to know if it's a slow down at the junction or maintain its speed. If it has to wait after an episode before knowing the right action to take, it might have crashed into another vehicle and caused an accident. This is the major difference between the Monte Carlo method and the temporal difference methods.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980&t=0)** - [Instructor] Temporal difference methods are the second major category of ways in which [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) agents learn. Unlike the Monte Carlo method, temporary difference methods update the Q-table at every time step, instead of the end of every episode. There are more realistic ways of learning and solving tasks because real world tasks are mostly continuous. We need to know if we're taking the right action or wrong one at every time step instead of waiting over a long period of time when damages might have been caused. Note that this also works for episodic tasks. Considering a real world application of [artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) systems like self-driving cars, the agent drive in the car needs to know if it's a slow down at the junction or maintain its speed. If it has to wait after an episode before knowing the right action to take, it might have crashed into another vehicle and caused an accident. This is the major difference between the Monte Carlo method and the temporal difference methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (1), [Artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
@@ -211,11 +211,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/other-rl-algorithms?u=76281980&t=0)** - [Instructor] The Monte Carlo and temporal difference methods form the baseline to the many advanced [[Reinforcement Learning]] [[Algorithms]], which are all modifications of the Bellman equation. They include better ways of storing the agent's rewards, states, and actions as in deep reinforcement learning, agents learning by imitating other [[AI Agents]] as in inverse reinforcement learning, or agents learning alongside other agents as in multi-agent reinforcement learning.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/other-rl-algorithms?u=76281980&t=0)** - [Instructor] The Monte Carlo and temporal difference methods form the baseline to the many advanced [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) [Algorithms](../../Skills/Software%20Development/Algorithms.md), which are all modifications of the Bellman equation. They include better ways of storing the agent's rewards, states, and actions as in deep reinforcement learning, agents learning by imitating other [AI Agents](../../Skills/Artificial%20Intelligence%20(AI)/AI%20Agents.md) as in inverse reinforcement learning, or agents learning alongside other agents as in multi-agent reinforcement learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (4), [[Algorithms]] (1), [[AI Agents]] (1)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (4), [Algorithms](../../Skills/Software%20Development/Algorithms.md) (1), [AI Agents](../../Skills/Artificial%20Intelligence%20(AI)/AI%20Agents.md) (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -240,13 +240,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=0)** - [Instructor] Exploration and exploitation are very important terms in [[Reinforcement Learning]]. When an agent explores an environment, it tries to understand as much of the environment as possible. It tries to reach many states and exploits information from them. By exploiting, it learns as much from the state as possible. Exploration and exploitation are two different but simultaneous activities performed by a reinforcement learning agent. They are most useful in model-free systems where the agent doesn't have any model of the environment and actively tries to understand it. They are also useful in model-based systems to help navigate the environment. As mentioned initially about learning optimal policies, the agent selects an action in the state that has resulted in the best cumulative reward over different episodes. However, this is not always correct because it's choosing actions at random and then action which led to a lesser cumulative reward now might actually be better if it's followed a different policy five seconds later. To avoid missing actions that will lead to better rewards, the agent would not only select the best action to follow as it sees in the Q-table. If the Q-table says action right would yield the highest reward, action right will be selected with a 70% [[Probability]] while other actions, left, forward and backwards
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=0)** - [Instructor] Exploration and exploitation are very important terms in [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md). When an agent explores an environment, it tries to understand as much of the environment as possible. It tries to reach many states and exploits information from them. By exploiting, it learns as much from the state as possible. Exploration and exploitation are two different but simultaneous activities performed by a reinforcement learning agent. They are most useful in model-free systems where the agent doesn't have any model of the environment and actively tries to understand it. They are also useful in model-based systems to help navigate the environment. As mentioned initially about learning optimal policies, the agent selects an action in the state that has resulted in the best cumulative reward over different episodes. However, this is not always correct because it's choosing actions at random and then action which led to a lesser cumulative reward now might actually be better if it's followed a different policy five seconds later. To avoid missing actions that will lead to better rewards, the agent would not only select the best action to follow as it sees in the Q-table. If the Q-table says action right would yield the highest reward, action right will be selected with a 70% [Probability](../../Skills/Data%20Science/Probability.md) while other actions, left, forward and backwards
 >
 > **[1:37](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=97)** will be selected with 10% probability each. This way, the agents is exploring those other actions in that state more, and it might end up learning something better that will lead to a higher reward. These new actions if they lead to a better cumulative reward would replace the previous best actions. A strategy for exploration and exploitation that has proved to give optimal results is when exploration is initially favored over exploitation and then leans towards exploitation. This is how exploring and exploiting new and previous states helps us get better rewards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Probability]] (2)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (2), [Probability](../../Skills/Data%20Science/Probability.md) (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -254,13 +254,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-prediction?u=76281980&t=0)** - [Instructor] Monte-Carlo predictions can be understood using the Q-table, which is used to start the state values of all actions performed by the agent. It answers the question, "Given a policy, how will the agents estimate "the value function or the expected cumulative reward?" The Monte-Carlo prediction is just the Monte Carlo method as explained in earlier lessons. It uses the Bellman equation to estimate the state and action value functions, otherwise known as the expected cumulative reward for following the policy. The Bellman equation for the Monte Carlo method is represented by this equation. In simple terms, the state value of a current state is the expected value of the reward of the next state plus the state value of the same next state. Where V pi S is the state value of a state following a policy pi, E here implies expectation. So the state value is an expected result not the actual. R represents the reward of moving to another state, while T plus one in place to be the next state. Gamma is the discount factor that we discussed earlier which helps us favor recent rewards, as opposed to older rewards. V pi S, T plus one, is the state value of the next state while ST is equal to S, implies that the whole equation is applicable to a current state S. This equation is used to solve a [[Reinforcement Learning]] problem
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-prediction?u=76281980&t=0)** - [Instructor] Monte-Carlo predictions can be understood using the Q-table, which is used to start the state values of all actions performed by the agent. It answers the question, "Given a policy, how will the agents estimate "the value function or the expected cumulative reward?" The Monte-Carlo prediction is just the Monte Carlo method as explained in earlier lessons. It uses the Bellman equation to estimate the state and action value functions, otherwise known as the expected cumulative reward for following the policy. The Bellman equation for the Monte Carlo method is represented by this equation. In simple terms, the state value of a current state is the expected value of the reward of the next state plus the state value of the same next state. Where V pi S is the state value of a state following a policy pi, E here implies expectation. So the state value is an expected result not the actual. R represents the reward of moving to another state, while T plus one in place to be the next state. Gamma is the discount factor that we discussed earlier which helps us favor recent rewards, as opposed to older rewards. V pi S, T plus one, is the state value of the next state while ST is equal to S, implies that the whole equation is applicable to a current state S. This equation is used to solve a [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) problem
 >
 > **[1:32](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-prediction?u=76281980&t=92)** using the mark of decision process and thus interpreted directly in code as you'll see later in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (1)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (1)
 > **Cross-References:** we discussed (1), later in (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -313,18 +313,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980&t=0)** - [Instructor] Temporal difference methods solve the action values of every state at every time step, so it doesn't wait until after an episode or multiple episodes. It has the same setting as the Monte Carlo method, having states, actions, rewards, and the environment. The difference is how frequently the policy is updated. Besides these obvious similarities, the Monte Carlo method has a high variance due to its randomness but isn't biased, while the temporal difference methods have low variance but are biased. This temporal difference methods exploit more of the Markov property, which holds when the conditional [[Probability]] of future states depend only on the immediate past states. By doing this, they seem to update the Q-table immediately only with information from the past state without waiting for a complete episode. In addition, notes that they are used mostly for continuing tasks, because they update the policies immediately. You'll learn more about them later on in this course.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980&t=0)** - [Instructor] Temporal difference methods solve the action values of every state at every time step, so it doesn't wait until after an episode or multiple episodes. It has the same setting as the Monte Carlo method, having states, actions, rewards, and the environment. The difference is how frequently the policy is updated. Besides these obvious similarities, the Monte Carlo method has a high variance due to its randomness but isn't biased, while the temporal difference methods have low variance but are biased. This temporal difference methods exploit more of the Markov property, which holds when the conditional [Probability](../../Skills/Data%20Science/Probability.md) of future states depend only on the immediate past states. By doing this, they seem to update the Q-table immediately only with information from the past state without waiting for a complete episode. In addition, notes that they are used mostly for continuing tasks, because they update the policies immediately. You'll learn more about them later on in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (1)
+> **Frameworks & Libraries:** [Probability](../../Skills/Data%20Science/Probability.md) (1)
 > **Speakers:** - [instructor] (1)
 
 #### [SARSA](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980&t=0)** - [Instructor] SARSA is the first form of temporary difference methods and is the acronym for, State Action Reward next State and next Action. Which is the process taken by the agent to update the queue table and also mix up a complete [[Reinforcement Learning]] cycle. Let's go back to the room with the orange fruits and see how the reward is updated in the queue table. This time around, you're the agents trying to reach your goal of getting the orange. With every step you take, you get a reward and because you wouldn't wait until the end of an episode before getting your reward, as this is temporary difference learning, your reward has to be updated immediately. Note that initially, you take random policies to update the queue table, which was originally empty at the very start. So for your new step or change in states, he gets a reward. This reward say negative one because you haven't reached your goal yet, together with the state action value of the new states you just stepped into, will contribute to updating the state action value of the state you just left. So let's say the state action value of the new state you just stepped into is positive six. Adding negative one to positive six would give us positive five. Assuming the state action value of the previous state you left is positive four,
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980&t=0)** - [Instructor] SARSA is the first form of temporary difference methods and is the acronym for, State Action Reward next State and next Action. Which is the process taken by the agent to update the queue table and also mix up a complete [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) cycle. Let's go back to the room with the orange fruits and see how the reward is updated in the queue table. This time around, you're the agents trying to reach your goal of getting the orange. With every step you take, you get a reward and because you wouldn't wait until the end of an episode before getting your reward, as this is temporary difference learning, your reward has to be updated immediately. Note that initially, you take random policies to update the queue table, which was originally empty at the very start. So for your new step or change in states, he gets a reward. This reward say negative one because you haven't reached your goal yet, together with the state action value of the new states you just stepped into, will contribute to updating the state action value of the state you just left. So let's say the state action value of the new state you just stepped into is positive six. Adding negative one to positive six would give us positive five. Assuming the state action value of the previous state you left is positive four,
 >
 > **[1:35](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980&t=95)** to update it, you move it closer to positive five. Because positive five is the expected reward of that previous state. So the new action value of the previous state is say, 4.2. That seems like a lot. You should go over it again a multiple times and make sure you understand the update process. I'll explain SARSA again, using the Bellman Equation. First, a quick recap of the Bellman Equation, where V pi S is the state value of a state following a policy pi, E implies expectation. So the state value is an expected result, not the actual. R represents the reward of moving to another state where t plus one implies that to be the next state. Gamma is the discount factor that helps us favor essential rewards as opposed to all the rewards. V pi S t plus one is the state value of the next state while St is equal to S, implies that the whole equation is applicable to the current state S. For the Temporal Difference method, the only difference or change, is in how frequently the reward is updated. Gt here is the total reward gotten at the end of an episode. While a different reward is used for temporal difference method, which is the sum of the reward of the next state
 >
@@ -332,7 +332,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (1)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (1)
 > **Env Vars:** sarsa (2)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
@@ -361,13 +361,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=0)** - [Instructor] The third form of the temporal difference method is the expected SARSA. This form has no major difference with SARSAMAX. Remember, with SARSAMAX, the greedy policy is used to select the action from the second state. However, in expected SARSA, it uses the expected value of the next state-action pair, where this expected value takes into account the [[Probability]] that the agent selects each possible action from the next state. That is, there is an equal probability of selecting every action in the next state. Expected SARSA also uses the same policy to select the action of a current state and that of the next state, which makes it similar to SARSA in this regard. All these temporal difference methods have different situations they favor, even though they all converged to the optimal action value function, leading to an optimal policy. SARSA and expected SARSA are both known as on-policy temporal difference [[Algorithms]] because they use the same policy to pick an action for the current and next state, while Q-learning, or SARSAMAX, is known as an off-policy temporal difference control method because it uses a different policy to select different actions. The on-policy methods are better for continuous tasks
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=0)** - [Instructor] The third form of the temporal difference method is the expected SARSA. This form has no major difference with SARSAMAX. Remember, with SARSAMAX, the greedy policy is used to select the action from the second state. However, in expected SARSA, it uses the expected value of the next state-action pair, where this expected value takes into account the [Probability](../../Skills/Data%20Science/Probability.md) that the agent selects each possible action from the next state. That is, there is an equal probability of selecting every action in the next state. Expected SARSA also uses the same policy to select the action of a current state and that of the next state, which makes it similar to SARSA in this regard. All these temporal difference methods have different situations they favor, even though they all converged to the optimal action value function, leading to an optimal policy. SARSA and expected SARSA are both known as on-policy temporal difference [Algorithms](../../Skills/Software%20Development/Algorithms.md) because they use the same policy to pick an action for the current and next state, while Q-learning, or SARSAMAX, is known as an off-policy temporal difference control method because it uses a different policy to select different actions. The on-policy methods are better for continuous tasks
 >
 > **[1:34](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=94)** and in general, while the off-policy method, Q-learning, works best for episodic tasks. These are tasks that have a defined goal or a short term.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [Probability](../../Skills/Data%20Science/Probability.md) (2), [Algorithms](../../Skills/Software%20Development/Algorithms.md) (1)
 > **Env Vars:** sarsa (6), sarsamax (3)
 > **Definitions:** known as (2), is an  (1)
 > **UI Navigation:** select the (2)
@@ -384,11 +384,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980&t=0)** - [Instructor] In the course so far, we have considered [[Reinforcement Learning]] in its most basic form, understanding how it all works, the way an agent learns in a state, how the action values for each action is taught in the Q-Table. We also know that for the agent to perform well and take better actions, it needs to have tried many many actions to have learned properly. Now think of this many actions that the agent needs to keep track of in the Q-Table. How big could the Q-Table possibly be? Yeah, very, very big. And that's where [[Deep Learning]] comes in, to help make reinforcement learning more effective, and makes it easier to handle the larger information space. The neural network takes as inputs the information that the agent has on the environment, and all possible actions that can be taken in the states, and predicts the reward for every possible action, before taking an action. This removes the trial and error stages, and frequent updates of the action values, as done in basic reinforcement learning with the Q-Table. This is one major improvement in reinforcement learning, that should be learnt, if you are an AI developer, or researcher who uses reinforcement learning.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980&t=0)** - [Instructor] In the course so far, we have considered [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) in its most basic form, understanding how it all works, the way an agent learns in a state, how the action values for each action is taught in the Q-Table. We also know that for the agent to perform well and take better actions, it needs to have tried many many actions to have learned properly. Now think of this many actions that the agent needs to keep track of in the Q-Table. How big could the Q-Table possibly be? Yeah, very, very big. And that's where [Deep Learning](../../Skills/Artificial%20Intelligence%20(AI)/Deep%20Learning.md) comes in, to help make reinforcement learning more effective, and makes it easier to handle the larger information space. The neural network takes as inputs the information that the agent has on the environment, and all possible actions that can be taken in the states, and predicts the reward for every possible action, before taking an action. This removes the trial and error stages, and frequent updates of the action values, as done in basic reinforcement learning with the Q-Table. This is one major improvement in reinforcement learning, that should be learnt, if you are an AI developer, or researcher who uses reinforcement learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (5), [Deep Learning](../../Skills/Artificial%20Intelligence%20(AI)/Deep%20Learning.md) (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -396,11 +396,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=0)** - [Instructor] So far, I've talked about the learning done by a single agent. How about the learning in a situation that is more realistic, with different agents? They can be trained using [[Reinforcement Learning]] to reach a common goal. This means they are cooperative, or they could have different goals, this makes them competitive. Or they could be general, neither cooperative, nor competitive. This makes us develop safe [[Artificial Intelligence (AI)|artificial intelligence]] systems, that learn in the same setting, as they are supposed to perform with others. For example, if you're training a group of reinforcement learning agents to play football, those on the same team will have to act cooperatively, to score goals, while agents in opposite teams will be competitive. Another typical example, is with autonomous vehicles. Multiple agents could be made to drive cars in [[Simulation]], and learn from each other.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=0)** - [Instructor] So far, I've talked about the learning done by a single agent. How about the learning in a situation that is more realistic, with different agents? They can be trained using [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) to reach a common goal. This means they are cooperative, or they could have different goals, this makes them competitive. Or they could be general, neither cooperative, nor competitive. This makes us develop safe [artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) systems, that learn in the same setting, as they are supposed to perform with others. For example, if you're training a group of reinforcement learning agents to play football, those on the same team will have to act cooperatively, to score goals, while agents in opposite teams will be competitive. Another typical example, is with autonomous vehicles. Multiple agents could be made to drive cars in [Simulation](../../Skills/Hardware/Simulation.md), and learn from each other.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (2), [Artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) (1), [Simulation](../../Skills/Hardware/Simulation.md) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -408,11 +408,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/inverse-reinforcement-learning?u=76281980&t=0)** - [Instructor] Imitation learning is another type of [[Reinforcement Learning]] that you should know about. One of the many ways it's achieved, is through inverse reinforcement learning. As the name portray, an agent tries to imitate the actions of humans directly. A good example of this is in a self-driving scenario, that has both human drivers and reinforcement learning agent drivers. If these reinforcement learning agents use imitation learning to learn from the human drivers, they observe the behavior of the human driver, and learns his objective, values, and rewards. They also learn what the goal of the human driver is, and how they can get there. The details of this method and authors mentioned in this section are above the scope of this course. Definitely read more about them. I would recommend for imitation learning, "The Survey of Inverse Reinforcement Learning" paper, which covers the challenges, methods, and progress of inverse reinforcement learning.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/inverse-reinforcement-learning?u=76281980&t=0)** - [Instructor] Imitation learning is another type of [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) that you should know about. One of the many ways it's achieved, is through inverse reinforcement learning. As the name portray, an agent tries to imitate the actions of humans directly. A good example of this is in a self-driving scenario, that has both human drivers and reinforcement learning agent drivers. If these reinforcement learning agents use imitation learning to learn from the human drivers, they observe the behavior of the human driver, and learns his objective, values, and rewards. They also learn what the goal of the human driver is, and how they can get there. The details of this method and authors mentioned in this section are above the scope of this course. Definitely read more about them. I would recommend for imitation learning, "The Survey of Inverse Reinforcement Learning" paper, which covers the challenges, methods, and progress of inverse reinforcement learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (6)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (6)
 > **Speakers:** - [instructor] (1)
 
 
@@ -424,13 +424,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=0)** - [Khaulat] Congratulations, and thank you for making it to the end of this course. Now that you understand [[Reinforcement Learning]], I believe let's do a quick test. Pause this video and take 30 seconds to answer the question, what is reinforcement learning, in the question and answer section. I believe you did that. So here's my own answer. Reinforcement learning is a form of machine learning, or basically one of the ways machines learn that involves interaction with the environment and learning from their own actions, as opposed to learning from history or previously recorded datasets. If you're a product manager, a machine learning developer, or a researcher, you already know what you want to do with your knowledge from this course. However, if you're new to the field of [[Artificial Intelligence (AI)|artificial intelligence]], I have some suggestions for you. First, learn about the other machine learning techniques for supervised and unsupervised learning, learn more about [[Neural Networks]] and deep neural networks, understand what [[Deep Learning]] is before you dive into deep reinforcement learning. There happens to be some great resources on [[LinkedIn]] Learning, so you don't have to go far. I also have some projects I've personally worked on with reinforcement learning at khaulat.[github.io](https://github.io). If you have any questions during your learning journey, you can always ask in the question and answer section.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=0)** - [Khaulat] Congratulations, and thank you for making it to the end of this course. Now that you understand [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md), I believe let's do a quick test. Pause this video and take 30 seconds to answer the question, what is reinforcement learning, in the question and answer section. I believe you did that. So here's my own answer. Reinforcement learning is a form of machine learning, or basically one of the ways machines learn that involves interaction with the environment and learning from their own actions, as opposed to learning from history or previously recorded datasets. If you're a product manager, a machine learning developer, or a researcher, you already know what you want to do with your knowledge from this course. However, if you're new to the field of [artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md), I have some suggestions for you. First, learn about the other machine learning techniques for supervised and unsupervised learning, learn more about [Neural Networks](../../Skills/Artificial%20Intelligence%20(AI)/Neural%20Networks.md) and deep neural networks, understand what [Deep Learning](../../Skills/Artificial%20Intelligence%20(AI)/Deep%20Learning.md) is before you dive into deep reinforcement learning. There happens to be some great resources on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning, so you don't have to go far. I also have some projects I've personally worked on with reinforcement learning at khaulat.[github.io](https://github.io). If you have any questions during your learning journey, you can always ask in the question and answer section.
 >
 > **[1:34](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=94)** Myself or someone else will be able to help you out. You're also welcome to connect with me on LinkedIn. Happy learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), [[Neural Networks]] (2), [[LinkedIn]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [Reinforcement Learning](../../Skills/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning.md) (5), [Neural Networks](../../Skills/Artificial%20Intelligence%20(AI)/Neural%20Networks.md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2), [Artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) (1), [Deep Learning](../../Skills/Artificial%20Intelligence%20(AI)/Deep%20Learning.md) (1)
 > **URLs:** [github.io](https://github.io) (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -439,7 +439,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Khaulat Abdulhakeem]]
+- [Khaulat Abdulhakeem](../../Instructors/Artificial%20Intelligence%20(AI)/Khaulat%20Abdulhakeem.md)
 
 ## Skills Covered
 
@@ -449,30 +449,30 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Fundamentals to Become a Machine Learning Engineer]]
-← [[Deep Learning- Model Optimization and Tuning (2022)]] | **6 of 7** | [[Training Neural Networks in Python]] →
+### In [Fundamentals to Become a Machine Learning Engineer](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Fundamentals%20to%20Become%20a%20Machine%20Learning%20Engineer.md)
+← [Deep Learning- Model Optimization and Tuning (2022)](Deep%20Learning-%20Model%20Optimization%20and%20Tuning%20(2022).md) | **6 of 7** | [Training Neural Networks in Python](Training%20Neural%20Networks%20in%20Python.md) →
 
-### In [[Advance Your Skills in AI and Machine Learning]]
-← [[Deep Learning- Model Optimization and Tuning (2022)]] | **3 of 16** | [[Introduction to Attention-Based Neural Networks]] →
+### In [Advance Your Skills in AI and Machine Learning](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20Skills%20in%20AI%20and%20Machine%20Learning.md)
+← [Deep Learning- Model Optimization and Tuning (2022)](Deep%20Learning-%20Model%20Optimization%20and%20Tuning%20(2022).md) | **3 of 16** | [Introduction to Attention-Based Neural Networks](Introduction%20to%20Attention-Based%20Neural%20Networks.md) →
 
-### In [[Getting Started with AI and Machine Learning]]
-← [[Hands-On AI- Image Processing with Python]] | **5 of 7** | [[Hands-On PyTorch Machine Learning]] →
+### In [Getting Started with AI and Machine Learning](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Getting%20Started%20with%20AI%20and%20Machine%20Learning.md)
+← [Hands-On AI- Image Processing with Python](Hands-On%20AI-%20Image%20Processing%20with%20Python.md) | **5 of 7** | [Hands-On PyTorch Machine Learning](Hands-On%20PyTorch%20Machine%20Learning.md) →
 
 ## Appears In
 
-- [[Fundamentals to Become a Machine Learning Engineer]]
-- [[Advance Your Skills in AI and Machine Learning]]
-- [[Getting Started with AI and Machine Learning]]
+- [Fundamentals to Become a Machine Learning Engineer](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Fundamentals%20to%20Become%20a%20Machine%20Learning%20Engineer.md)
+- [Advance Your Skills in AI and Machine Learning](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20Skills%20in%20AI%20and%20Machine%20Learning.md)
+- [Getting Started with AI and Machine Learning](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Getting%20Started%20with%20AI%20and%20Machine%20Learning.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Machine Learning and AI Foundations- Clustering and Association]] — Artificial Intelligence (AI), Machine Learning
-- [[Machine Learning and AI- Advanced Decision Trees with SPSS]] — Artificial Intelligence (AI), Machine Learning
-- [[Machine Learning and AI Foundations- Decision Trees with SPSS]] — Artificial Intelligence (AI), Machine Learning
-- [[Machine Learning and AI Foundations- Classification Modeling]] — Artificial Intelligence (AI), Machine Learning
-- [[Machine Learning & AI Foundations- Linear Regression]] — Artificial Intelligence (AI), Machine Learning
+- [Machine Learning and AI Foundations- Clustering and Association](Machine%20Learning%20and%20AI%20Foundations-%20Clustering%20and%20Association.md) — Artificial Intelligence (AI), Machine Learning
+- [Machine Learning and AI- Advanced Decision Trees with SPSS](Machine%20Learning%20and%20AI-%20Advanced%20Decision%20Trees%20with%20SPSS.md) — Artificial Intelligence (AI), Machine Learning
+- [Machine Learning and AI Foundations- Decision Trees with SPSS](Machine%20Learning%20and%20AI%20Foundations-%20Decision%20Trees%20with%20SPSS.md) — Artificial Intelligence (AI), Machine Learning
+- [Machine Learning and AI Foundations- Classification Modeling](../Data%20Science/Machine%20Learning%20and%20AI%20Foundations-%20Classification%20Modeling.md) — Artificial Intelligence (AI), Machine Learning
+- [Machine Learning & AI Foundations- Linear Regression](Machine%20Learning%20%26%20AI%20Foundations-%20Linear%20Regression.md) — Artificial Intelligence (AI), Machine Learning
 
 ---
 

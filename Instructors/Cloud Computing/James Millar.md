@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Migrating to Azure]]
-- [[Controlling Cost with Azure Management and Billing]]
+- [Migrating to Azure](../../Courses/Cloud%20Computing/Migrating%20to%20Azure.md)
+- [Controlling Cost with Azure Management and Billing](../../Courses/Cloud%20Computing/Controlling%20Cost%20with%20Azure%20Management%20and%20Billing.md)

@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Nail Your Cybersecurity Interview]]
+- [Nail Your Cybersecurity Interview](../../Courses/Cloud%20Computing/Nail%20Your%20Cybersecurity%20Interview.md)

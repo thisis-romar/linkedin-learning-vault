@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Responsible AI- Principles and Practical Applications]] — Beginner · 1h 17m · 14,779 learners
+- [Responsible AI- Principles and Practical Applications](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Principles%20and%20Practical%20Applications.md) — Beginner · 1h 17m · 14,779 learners
 
 ## Related Skills
 
-- [[Responsible AI]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Responsible AI](Responsible%20AI.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(7 total mentions)_
 
-1. [[Introduction to IT Automation]] — 7 mentions
+1. [Introduction to IT Automation](../../Courses/Cloud%20Computing/Introduction%20to%20IT%20Automation.md) — 7 mentions

@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Project Management- International Projects]]
+- [Project Management- International Projects](../../Courses/Cybersecurity/Project%20Management-%20International%20Projects.md)

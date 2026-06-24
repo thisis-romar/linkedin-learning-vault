@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Characteristics of a Great Scrum Master]]
+- [Characteristics of a Great Scrum Master](../../Courses/DevOps/Characteristics%20of%20a%20Great%20Scrum%20Master.md)

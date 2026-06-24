@@ -19,27 +19,27 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Drupal 9 Essential Training 1 Introduction And Administration]]'
+  - course: '[Drupal 9 Essential Training 1 Introduction And Administration](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training%201%20Introduction%20And%20Administration.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Drupal 9 Essential Training- 2 Content and Fields]]'
+  - course: '[Drupal 9 Essential Training- 2 Content and Fields](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%202%20Content%20and%20Fields.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Drupal 9 Essential Training- 3 Taxonomy, Media, and Modules]]'
+  - course: '[Drupal 9 Essential Training- 3 Taxonomy, Media, and Modules](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%203%20Taxonomy%2C%20Media%2C%20and%20Modules.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Drupal 9 Essential Training- 4 Users and Themes]]'
+  - course: '[Drupal 9 Essential Training- 4 Users and Themes](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%204%20Users%20and%20Themes.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Drupal 9 Essential Training- 5 Layout]]'
+  - course: '[Drupal 9 Essential Training- 5 Layout](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%205%20Layout.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Drupal 9 Essential Training- 6 Finishing the Design]]'
+  - course: '[Drupal 9 Essential Training- 6 Finishing the Design](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%206%20Finishing%20the%20Design.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -54,22 +54,22 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Drupal 9 Essential Training 1 Introduction And Administration]]
-2. [[Drupal 9 Essential Training- 2 Content and Fields]] _(1h)_
-3. [[Drupal 9 Essential Training- 3 Taxonomy, Media, and Modules]] _(1h 34m)_
-4. [[Drupal 9 Essential Training- 4 Users and Themes]] _(35m)_
-5. [[Drupal 9 Essential Training- 5 Layout]] _(1h 36m)_
-6. [[Drupal 9 Essential Training- 6 Finishing the Design]] _(46m)_
+1. [Drupal 9 Essential Training 1 Introduction And Administration](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training%201%20Introduction%20And%20Administration.md)
+2. [Drupal 9 Essential Training- 2 Content and Fields](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%202%20Content%20and%20Fields.md) _(1h)_
+3. [Drupal 9 Essential Training- 3 Taxonomy, Media, and Modules](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%203%20Taxonomy%2C%20Media%2C%20and%20Modules.md) _(1h 34m)_
+4. [Drupal 9 Essential Training- 4 Users and Themes](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%204%20Users%20and%20Themes.md) _(35m)_
+5. [Drupal 9 Essential Training- 5 Layout](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%205%20Layout.md) _(1h 36m)_
+6. [Drupal 9 Essential Training- 6 Finishing the Design](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%206%20Finishing%20the%20Design.md) _(46m)_
 
 ## Course Flow
 
-1. [[Drupal 9 Essential Training 1 Introduction And Administration]] → 2. [[Drupal 9 Essential Training- 2 Content and Fields]] → 3. [[Drupal 9 Essential Training- 3 Taxonomy, Media, and Modules]] → 4. [[Drupal 9 Essential Training- 4 Users and Themes]] → 5. [[Drupal 9 Essential Training- 5 Layout]] → 6. [[Drupal 9 Essential Training- 6 Finishing the Design]]
+1. [Drupal 9 Essential Training 1 Introduction And Administration](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training%201%20Introduction%20And%20Administration.md) → 2. [Drupal 9 Essential Training- 2 Content and Fields](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%202%20Content%20and%20Fields.md) → 3. [Drupal 9 Essential Training- 3 Taxonomy, Media, and Modules](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%203%20Taxonomy%2C%20Media%2C%20and%20Modules.md) → 4. [Drupal 9 Essential Training- 4 Users and Themes](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%204%20Users%20and%20Themes.md) → 5. [Drupal 9 Essential Training- 5 Layout](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%205%20Layout.md) → 6. [Drupal 9 Essential Training- 6 Finishing the Design](../../../Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%206%20Finishing%20the%20Design.md)
 
 ## Topics
 
-- [[Network and System Administration]]
-- [[Web Development]]
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Network and System Administration]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)

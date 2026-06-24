@@ -20,7 +20,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[ArcGIS Pro Essential Training]]
-- [[Learning QGIS]]
-- [[QGIS and Python for AEC]]
-- [[Learning MapGuide Open Source]]
+- [ArcGIS Pro Essential Training](../../Courses/Data%20Science/ArcGIS%20Pro%20Essential%20Training.md)
+- [Learning QGIS](../../Courses/Data%20Science/Learning%20QGIS.md)
+- [QGIS and Python for AEC](../../Courses/Data%20Science/QGIS%20and%20Python%20for%20AEC.md)
+- [Learning MapGuide Open Source](../../Courses/Data%20Science/Learning%20MapGuide%20Open%20Source.md)

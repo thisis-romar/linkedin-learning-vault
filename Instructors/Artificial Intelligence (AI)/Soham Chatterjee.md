@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Vertex AI- MLOps with Google Cloud]]
-- [[Advanced LLMOps- Deploying and Managing LLMs in Production]]
+- [Learning Vertex AI- MLOps with Google Cloud](../../Courses/Artificial%20Intelligence%20(AI)/Learning%20Vertex%20AI-%20MLOps%20with%20Google%20Cloud.md)
+- [Advanced LLMOps- Deploying and Managing LLMs in Production](../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMOps-%20Deploying%20and%20Managing%20LLMs%20in%20Production.md)

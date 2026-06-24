@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL Server Integration Services]] — Advanced · 2h 28m · 196,483 learners
+- [SQL Server Integration Services](../../Courses/Database%20Management/SQL%20Server%20Integration%20Services.md) — Advanced · 2h 28m · 196,483 learners

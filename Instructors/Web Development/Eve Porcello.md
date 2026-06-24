@@ -32,10 +32,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[React Essential Training]]
-- [[React- Components, Context, and Accessibility]]
-- [[AI Programming for JavaScript Developers]]
-- [[Node.js- Web Servers, Tests, and Deployment]]
-- [[React Hooks]]
-- [[Learning ECMAScript 6+ (ES6+)]]
-- [[Node Js Essential Training]]
+- [React Essential Training](../../Courses/Web%20Development/React%20Essential%20Training.md)
+- [React- Components, Context, and Accessibility](../../Courses/Web%20Development/React-%20Components%2C%20Context%2C%20and%20Accessibility.md)
+- [AI Programming for JavaScript Developers](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Programming%20for%20JavaScript%20Developers.md)
+- [Node.js- Web Servers, Tests, and Deployment](../../Courses/Web%20Development/Node.js-%20Web%20Servers%2C%20Tests%2C%20and%20Deployment.md)
+- [React Hooks](../../Skills/Web%20Development/React%20Hooks.md)
+- [Learning ECMAScript 6+ (ES6+)](../../Courses/Web%20Development/Learning%20ECMAScript%206%2B%20(ES6%2B).md)
+- [Node Js Essential Training](../../Courses/Web%20Development/Node%20Js%20Essential%20Training.md)

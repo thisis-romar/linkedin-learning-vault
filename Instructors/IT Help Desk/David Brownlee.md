@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Customer Service- Handling Abusive Customers]]
+- [Customer Service- Handling Abusive Customers](../../Courses/IT%20Help%20Desk/Customer%20Service-%20Handling%20Abusive%20Customers.md)

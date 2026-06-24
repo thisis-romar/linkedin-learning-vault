@@ -17,15 +17,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Understanding Ai S Global Impact Governance Equity And Responsibility]]'
+  - course: '[Understanding Ai S Global Impact Governance Equity And Responsibility](../../../Courses/Artificial%20Intelligence%20(AI)/Understanding%20Ai%20S%20Global%20Impact%20Governance%20Equity%20And%20Responsibility.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Responsible AI- Global Risks, Governance, and Human Oversight]]'
+  - course: '[Responsible AI- Global Risks, Governance, and Human Oversight](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Global%20Risks%2C%20Governance%2C%20and%20Human%20Oversight.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[AI in Action- Global Case Studies from Public Institutions]]'
+  - course: '[AI in Action- Global Case Studies from Public Institutions](../../../Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Action-%20Global%20Case%20Studies%20from%20Public%20Institutions.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -40,18 +40,18 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Understanding Ai S Global Impact Governance Equity And Responsibility]]
-2. [[Responsible AI- Global Risks, Governance, and Human Oversight]] _(1h 39m)_
-3. [[AI in Action- Global Case Studies from Public Institutions]] _(41m)_
+1. [Understanding Ai S Global Impact Governance Equity And Responsibility](../../../Courses/Artificial%20Intelligence%20(AI)/Understanding%20Ai%20S%20Global%20Impact%20Governance%20Equity%20And%20Responsibility.md)
+2. [Responsible AI- Global Risks, Governance, and Human Oversight](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Global%20Risks%2C%20Governance%2C%20and%20Human%20Oversight.md) _(1h 39m)_
+3. [AI in Action- Global Case Studies from Public Institutions](../../../Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Action-%20Global%20Case%20Studies%20from%20Public%20Institutions.md) _(41m)_
 
 ## Course Flow
 
-1. [[Understanding Ai S Global Impact Governance Equity And Responsibility]] → 2. [[Responsible AI- Global Risks, Governance, and Human Oversight]] → 3. [[AI in Action- Global Case Studies from Public Institutions]]
+1. [Understanding Ai S Global Impact Governance Equity And Responsibility](../../../Courses/Artificial%20Intelligence%20(AI)/Understanding%20Ai%20S%20Global%20Impact%20Governance%20Equity%20And%20Responsibility.md) → 2. [Responsible AI- Global Risks, Governance, and Human Oversight](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Global%20Risks%2C%20Governance%2C%20and%20Human%20Oversight.md) → 3. [AI in Action- Global Case Studies from Public Institutions](../../../Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Action-%20Global%20Case%20Studies%20from%20Public%20Institutions.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

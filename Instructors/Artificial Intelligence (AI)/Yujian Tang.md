@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced RAG Applications with Vector Databases]]
+- [Advanced RAG Applications with Vector Databases](../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20RAG%20Applications%20with%20Vector%20Databases.md)

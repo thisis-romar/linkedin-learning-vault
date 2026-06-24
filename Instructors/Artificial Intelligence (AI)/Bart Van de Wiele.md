@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Adobe Firefly Essential Training (2024)]]
-- [[Leveraging AI in Adobe Photoshop and Creative Cloud (2023)]]
+- [Adobe Firefly Essential Training (2024)](../../Courses/Artificial%20Intelligence%20(AI)/Adobe%20Firefly%20Essential%20Training%20(2024).md)
+- [Leveraging AI in Adobe Photoshop and Creative Cloud (2023)](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Adobe%20Photoshop%20and%20Creative%20Cloud%20(2023).md)

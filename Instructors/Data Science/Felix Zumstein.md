@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python in Excel- Working with pandas DataFrames]]
+- [Python in Excel- Working with pandas DataFrames](../../Courses/Data%20Science/Python%20in%20Excel-%20Working%20with%20pandas%20DataFrames.md)

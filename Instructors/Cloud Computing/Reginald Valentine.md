@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Development in the New World of Work]]
+- [Agile Development in the New World of Work](../../Courses/Cloud%20Computing/Agile%20Development%20in%20the%20New%20World%20of%20Work.md)

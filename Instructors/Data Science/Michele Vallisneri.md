@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python Data Analysis]]
-- [[Python Data Analysis (2020)]]
+- [Python Data Analysis](../../Courses/Data%20Science/Python%20Data%20Analysis.md)
+- [Python Data Analysis (2020)](../../Courses/Data%20Science/Python%20Data%20Analysis%20(2020).md)

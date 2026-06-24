@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[IT Service Desk- Customer Service Fundamentals]] — Beginner · 1h 51m · 14,263 learners
+- [IT Service Desk- Customer Service Fundamentals](../../Courses/IT%20Help%20Desk/IT%20Service%20Desk-%20Customer%20Service%20Fundamentals.md) — Beginner · 1h 51m · 14,263 learners
 
 ## Related Skills
 
-- [[IT Service Management]] — 1 shared course
+- [IT Service Management](../Network%20and%20System%20Administration/IT%20Service%20Management.md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[IT Service Desk- Customer Service Fundamentals]] — 2 mentions
-2. [[Customer Service Foundations]] — 1 mentions
-3. [[Administrative Professional Foundations]] — 1 mentions
+1. [IT Service Desk- Customer Service Fundamentals](../../Courses/IT%20Help%20Desk/IT%20Service%20Desk-%20Customer%20Service%20Fundamentals.md) — 2 mentions
+2. [Customer Service Foundations](../../Courses/IT%20Help%20Desk/Customer%20Service%20Foundations.md) — 1 mentions
+3. [Administrative Professional Foundations](../../Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md) — 1 mentions

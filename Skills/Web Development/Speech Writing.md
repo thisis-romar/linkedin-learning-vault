@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Writing and Delivering Speeches]] — 40m · 100,294 learners
+- [Writing and Delivering Speeches](../../Courses/Web%20Development/Writing%20and%20Delivering%20Speeches.md) — 40m · 100,294 learners
 
 ## Related Skills
 
-- [[Public Speaking]] — 1 shared course
+- [Public Speaking](Public%20Speaking.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Writing and Delivering Speeches]] — 1 mentions
+1. [Writing and Delivering Speeches](../../Courses/Web%20Development/Writing%20and%20Delivering%20Speeches.md) — 1 mentions

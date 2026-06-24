@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building a Video Transcriber with Node.js and Google AI Speech-To-Text API]] — Intermediate · 1h 9m · 2,608,329 learners
+- [Building a Video Transcriber with Node.js and Google AI Speech-To-Text API](../../Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Video%20Transcriber%20with%20Node.js%20and%20Google%20AI%20Speech-To-Text%20API.md) — Intermediate · 1h 9m · 2,608,329 learners
 
 ## Related Skills
 
-- [[Node.js]] — 1 shared course
-- [[AI Software Development]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Node.js](../Web%20Development/Node.js.md) — 1 shared course
+- [AI Software Development](../Artificial%20Intelligence%20(AI)/AI%20Software%20Development.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

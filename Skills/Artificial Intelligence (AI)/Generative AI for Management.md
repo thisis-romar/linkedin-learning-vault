@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI for Business Leaders]] — Intermediate · 1h 17m · 349,985 learners
+- [Generative AI for Business Leaders](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20for%20Business%20Leaders.md) — Intermediate · 1h 17m · 349,985 learners
 
 ## Related Skills
 
-- [[Generative AI for Leadership]] — 1 shared course
-- [[AI for Business]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Generative AI for Leadership](Generative%20AI%20for%20Leadership.md) — 1 shared course
+- [AI for Business](AI%20for%20Business.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

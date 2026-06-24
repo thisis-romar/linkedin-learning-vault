@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Scaling Generative AI- Building a Strategy for Adoption and Expansion]]
+- [Scaling Generative AI- Building a Strategy for Adoption and Expansion](../../Courses/Artificial%20Intelligence%20(AI)/Scaling%20Generative%20AI-%20Building%20a%20Strategy%20for%20Adoption%20and%20Expansion.md)

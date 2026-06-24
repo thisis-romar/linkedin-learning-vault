@@ -20,7 +20,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Using Tableau to Discover Powerful Business Insights]]
-- [[Business Analytics- Marketing Data (2022)]]
-- [[Business Analytics- Sales Data (2022)]]
-- [[Data Analytics for Students (2022)]]
+- [Using Tableau to Discover Powerful Business Insights](../../Courses/Data%20Science/Using%20Tableau%20to%20Discover%20Powerful%20Business%20Insights.md)
+- [Business Analytics- Marketing Data (2022)](../../Courses/Data%20Science/Business%20Analytics-%20Marketing%20Data%20(2022).md)
+- [Business Analytics- Sales Data (2022)](../../Courses/Data%20Science/Business%20Analytics-%20Sales%20Data%20(2022).md)
+- [Data Analytics for Students (2022)](../../Courses/Data%20Science/Data%20Analytics%20for%20Students%20(2022).md)

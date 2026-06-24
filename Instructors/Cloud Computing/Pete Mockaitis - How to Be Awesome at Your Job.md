@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Speaking Confidently and Effectively]]
+- [Speaking Confidently and Effectively](../../Courses/Cloud%20Computing/Speaking%20Confidently%20and%20Effectively.md)

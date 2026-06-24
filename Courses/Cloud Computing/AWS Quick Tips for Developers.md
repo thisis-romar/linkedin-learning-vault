@@ -16,9 +16,9 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQFx0el_PyVw9w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568668497463?e=2147483647&amp;v=beta&amp;t=vRRGtd4b9BYc4pyoM6tHtgFJiC3VWXQjcLDUxiQCQmg"
 linkedin_topic: Cloud Computing
 learning_paths:
-  - '[[Getting Started as an AWS Developer]]'
+  - '[Getting Started as an AWS Developer](../../Paths/Cloud%20Computing/Learning%20Paths/Getting%20Started%20as%20an%20AWS%20Developer.md)'
 prev_courses:
-  - '[[AWS for Developers- Identity Access Management (IAM)]]'
+  - '[AWS for Developers- Identity Access Management (IAM)](AWS%20for%20Developers-%20Identity%20Access%20Management%20(IAM).md)'
 path_nav: '[{"path":"Getting Started as an AWS Developer","position":4,"total":4,"prev":"AWS for Developers- Identity Access Management (IAM)","next":null}]'
 path_count: 1
 tags:
@@ -76,11 +76,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980&t=3)** - I'm Bear Cahill, and I've put together a group of quick tips for developers using [[Amazon Web Services (AWS)|Amazon Web Services]], or AWS. These videos are designed to give you some insights and new skills when working with AWS. Many services are self-contained but have some great ways to make things easier and better. In other cases, you'll learn how to quickly make services work together. Each video is about 60 to 90 seconds long and are independent of each other. So you can watch one here, there, out of order, or however you like. The videos contain tips on services like lambda functions, DynamoDB, S3 buckets, IAM, and more. Whether you use the tips and tricks with AWS or just watch the videos, you'll learn about some great concepts on harnessing the power of AWS.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980&t=3)** - I'm Bear Cahill, and I've put together a group of quick tips for developers using [Amazon Web Services](../../Skills/Cloud%20Computing/Amazon%20Web%20Services%20(AWS).md), or AWS. These videos are designed to give you some insights and new skills when working with AWS. Many services are self-contained but have some great ways to make things easier and better. In other cases, you'll learn how to quickly make services work together. Each video is about 60 to 90 seconds long and are independent of each other. So you can watch one here, there, out of order, or however you like. The videos contain tips on services like lambda functions, DynamoDB, S3 buckets, IAM, and more. Whether you use the tips and tricks with AWS or just watch the videos, you'll learn about some great concepts on harnessing the power of AWS.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [Amazon web services](../../Skills/Cloud%20Computing/Amazon%20Web%20Services%20(AWS).md) (1)
 > **CLI Commands:** aws (4), make (2)
 > **Env Vars:** aws (4), iam (1)
 > **Speakers:** - i (1)
@@ -115,11 +115,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/generating-an-api-gateway-for-dynamodb?u=76281980&t=3)** - [Narrator] Let's say you have a DynamoDB table and you want to provide access to it through an API, how can you create it when the table already exists? Well you can do it AppSync pretty easily. We have a table here that has four columns, id, active, which is a Boolean, name is a string, and SCORES which is a list of numbers. The id is also a string. So let's go to AppSync and set that up. So first I'm going to click Create API and I'm going to select Import DB table. Now we give it which table it is, PlayerRecord, and we'll let it create a New Role for us. So we'll import that and then have to specify the fields that we want to include in our API. Id is already in there so we can do name, which is a string, we'll make that required. We're not going to add active, but we are going to add the scores which is a list. So we select that it's an Integer list in this case, and click List. Now we can just create it by giving it a name. We'll name it ScoresAPI. We create this and then we have everything we need in AppSync to start using it in our apps. And you can get help on that here for IOS, [[Android]], and [[JavaScript]]. And there you go.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/generating-an-api-gateway-for-dynamodb?u=76281980&t=3)** - [Narrator] Let's say you have a DynamoDB table and you want to provide access to it through an API, how can you create it when the table already exists? Well you can do it AppSync pretty easily. We have a table here that has four columns, id, active, which is a Boolean, name is a string, and SCORES which is a list of numbers. The id is also a string. So let's go to AppSync and set that up. So first I'm going to click Create API and I'm going to select Import DB table. Now we give it which table it is, PlayerRecord, and we'll let it create a New Role for us. So we'll import that and then have to specify the fields that we want to include in our API. Id is already in there so we can do name, which is a string, we'll make that required. We're not going to add active, but we are going to add the scores which is a list. So we select that it's an Integer list in this case, and click List. Now we can just create it by giving it a name. We'll name it ScoresAPI. We create this and then we have everything we need in AppSync to start using it in our apps. And you can get help on that here for IOS, [Android](../../Glossary/Sdk/Android.md), and [JavaScript](../../Skills/Software%20Development/JavaScript.md). And there you go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [Android](../../Glossary/Sdk/Android.md) (1), [JavaScript](../../Skills/Software%20Development/JavaScript.md) (1)
 > **Env Vars:** api (3), scores (1), ios (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (1)
@@ -130,11 +130,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980&t=3)** - [Instructor] If you create an RDS database, it'll run on an [[Amazon EC2|EC2]] instance, and you'll only be able to connect to it from the computer you were using when you created it. I beat my head against the wall on this one for a while, so hopefully it'll help you out. So from this machine, I can connect to it using [[MySQL]] Shell or MySQL Workbench, but nobody else from other machines can if they need to do some administration. If you go to the Connectivity & Security settings and scroll down, you'll see that the Inbound is set for the IP address of the computer that you're on. If you click on that and go to the EC2 Management console, and click on Inbound, you can edit this to allow connections from anywhere or specific IP addresses. But be careful, you may need that level of security and you may not want to make those changes. You need to talk to whoever's responsible for that type of thing, and if it's you, you should understand the risks.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980&t=3)** - [Instructor] If you create an RDS database, it'll run on an [EC2](../../Skills/DevOps/Amazon%20EC2.md) instance, and you'll only be able to connect to it from the computer you were using when you created it. I beat my head against the wall on this one for a while, so hopefully it'll help you out. So from this machine, I can connect to it using [MySQL](../../Skills/Software%20Development/MySQL.md) Shell or MySQL Workbench, but nobody else from other machines can if they need to do some administration. If you go to the Connectivity & Security settings and scroll down, you'll see that the Inbound is set for the IP address of the computer that you're on. If you click on that and go to the EC2 Management console, and click on Inbound, you can edit this to allow connections from anywhere or specific IP addresses. But be careful, you may need that level of security and you may not want to make those changes. You need to talk to whoever's responsible for that type of thing, and if it's you, you should understand the risks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[MySQL]] (2)
+> **Frameworks & Libraries:** [Ec2](../../Skills/DevOps/Amazon%20EC2.md) (2), [MySQL](../../Skills/Software%20Development/MySQL.md) (2)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
 > **CLI Commands:** mysql (2), make (1)
 > **Env Vars:** ec2 (2), rds (1)
@@ -145,11 +145,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=3)** - [Instructor] If you want to be able to send email with your lambda function, you can do it pretty easy with SES, or Simple Email Service. And when you first set up here in the sandbox, which means you can only send emails to and from email addresses you verified with this button. It's also important to note that SES is only available in US East one, US West two, and EU West one, which we'll use in our code. In IAM, you're going to need to attach special permissions to your role that your lambda function uses. If you haven't created your role yet, you can come back and do this later. I already have this role for my lambda function, and I'm going to attach policies. I've created a custom policy here for sendemail that just allows for sending email with SES. You can see Allow, SendEmail, and SendRawEmail. You don't need both, but SendRawEmail allows you to attach headers if you want to do that in your email. Then in my lambda code, I'm using [[Python (Programming Language)|Python]] 3.7. And I import boto3 in the exceptions for error handling. Our lambda_handler ignores the event, so I can pass in anything in my test, but you could pass in to and from emails with a body. We set up our client, specifying SES in one of the regions where it's available. Then we call send_email and specify the to address, the body in [[HTML]] and text, and the subject, and then finally the from email address as the source. We check for errors and look for the "message": "success" when we run it. I'm going to click Test. Scroll to the top. I see "message": "success" and the email's in my inbox.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=3)** - [Instructor] If you want to be able to send email with your lambda function, you can do it pretty easy with SES, or Simple Email Service. And when you first set up here in the sandbox, which means you can only send emails to and from email addresses you verified with this button. It's also important to note that SES is only available in US East one, US West two, and EU West one, which we'll use in our code. In IAM, you're going to need to attach special permissions to your role that your lambda function uses. If you haven't created your role yet, you can come back and do this later. I already have this role for my lambda function, and I'm going to attach policies. I've created a custom policy here for sendemail that just allows for sending email with SES. You can see Allow, SendEmail, and SendRawEmail. You don't need both, but SendRawEmail allows you to attach headers if you want to do that in your email. Then in my lambda code, I'm using [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) 3.7. And I import boto3 in the exceptions for error handling. Our lambda_handler ignores the event, so I can pass in anything in my test, but you could pass in to and from emails with a body. We set up our client, specifying SES in one of the regions where it's available. Then we call send_email and specify the to address, the body in [HTML](../../Skills/Web%20Development/HTML.md) and text, and the subject, and then finally the from email address as the source. We check for errors and look for the "message": "success" when we run it. I'm going to click Test. Scroll to the top. I see "message": "success" and the email's in my inbox.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1), [HTML](../../Skills/Web%20Development/HTML.md) (1)
 > **Env Vars:** ses (4), iam (1), html (1)
 > **Code Identifiers:** lambda_handler (1), send_email (1)
 > **Prerequisites:** set up (2)
@@ -239,11 +239,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/hitting-an-aws-lambda-via-api-gateway?u=76281980&t=3)** - [Instructor] If you have a Lambda function that you want to be able to call with a URL, you want to add an API Gateway trigger. Let's look at our Lambda function. It's basically just a simple function that returns the status, code headers, and bodies. We're using text/plain, but you could use application/[[JSON]] or whatever else you need, but this format is important because when it creates the API Gateway for us it's going to use Lambda proxy and it'll expect this format. We can add the trigger, select the API Gateway trigger, set the security to Open and add it. Once it's been added, it'll give us a URL to call and notice it's only displaying the body. But if we wanted to change the API, we can take off the Lambda proxy integration in the Integration Request. We just unclick this box, click Okay and Okay, and then we have to redeploy our API. We'll pick our development stage, give it some description, and deploy it. And then, once it's finished deploying, we can refresh this page and see our entire message body. And there it is. I hope that helps.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/hitting-an-aws-lambda-via-api-gateway?u=76281980&t=3)** - [Instructor] If you have a Lambda function that you want to be able to call with a URL, you want to add an API Gateway trigger. Let's look at our Lambda function. It's basically just a simple function that returns the status, code headers, and bodies. We're using text/plain, but you could use application/[JSON](../../Skills/Web%20Development/JSON.md) or whatever else you need, but this format is important because when it creates the API Gateway for us it's going to use Lambda proxy and it'll expect this format. We can add the trigger, select the API Gateway trigger, set the security to Open and add it. Once it's been added, it'll give us a URL to call and notice it's only displaying the body. But if we wanted to change the API, we can take off the Lambda proxy integration in the Integration Request. We just unclick this box, click Okay and Okay, and then we have to redeploy our API. We'll pick our development stage, give it some description, and deploy it. And then, once it's finished deploying, we can refresh this page and see our entire message body. And there it is. I hope that helps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (1)
+> **Frameworks & Libraries:** [JSON](../../Skills/Web%20Development/JSON.md) (1)
 > **Env Vars:** api (5), url (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -252,11 +252,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/creating-an-sns-event-with-s3?u=76281980&t=3)** - [Instructor] The simple notification service allows for AWS services to publish to an SNS topic and then that topic can trigger subscribing services. Let's look at creating a topic to kick off Lambda when a fall is added to a bucket. So I'm going to click create topic and I'm going to name it kicker for Lambda kicker, and we have to change the access policy to allow anyone to publish to this topic. That updates our [[JSON]] permissions here with the principle of asterisk. Then I'm going to create the topic. Once it's created, I can subscribe to it for my Lambda. I just have a simple Lambda here. I'm going to add the trigger, and from the dropdown, select SNS and it already has our kicker topic there so I'll just add that, and then from our bucket, we need to be able to publish, so I'm going to go to my properties, scroll down to events, add a notification, give it a name like new file, set put for the events and tell it to send to an SNS topic and we'll pick our kicker so I can save that. Now that we have all that set up, I'm going to upload a new file and we need to make sure that our Lambda gets called. So I'll upload this text file and then once it's uploaded, we can go to CloudWatch, refresh, and see the new file that our Lambda was kicked off. Once it's done, we can see that we got the notification from the S3 bucket and that all the details are in the body of the message in the call to the Lambda.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/creating-an-sns-event-with-s3?u=76281980&t=3)** - [Instructor] The simple notification service allows for AWS services to publish to an SNS topic and then that topic can trigger subscribing services. Let's look at creating a topic to kick off Lambda when a fall is added to a bucket. So I'm going to click create topic and I'm going to name it kicker for Lambda kicker, and we have to change the access policy to allow anyone to publish to this topic. That updates our [JSON](../../Skills/Web%20Development/JSON.md) permissions here with the principle of asterisk. Then I'm going to create the topic. Once it's created, I can subscribe to it for my Lambda. I just have a simple Lambda here. I'm going to add the trigger, and from the dropdown, select SNS and it already has our kicker topic there so I'll just add that, and then from our bucket, we need to be able to publish, so I'm going to go to my properties, scroll down to events, add a notification, give it a name like new file, set put for the events and tell it to send to an SNS topic and we'll pick our kicker so I can save that. Now that we have all that set up, I'm going to upload a new file and we need to make sure that our Lambda gets called. So I'll upload this text file and then once it's uploaded, we can go to CloudWatch, refresh, and see the new file that our Lambda was kicked off. Once it's done, we can see that we got the notification from the S3 bucket and that all the details are in the body of the message in the call to the Lambda.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (1)
+> **Frameworks & Libraries:** [JSON](../../Skills/Web%20Development/JSON.md) (1)
 > **Env Vars:** sns (3), aws (1), json (1)
 > **UI Navigation:** go to (2), dropdown (1), scroll down (1)
 > **CLI Commands:** aws (1), make (1)
@@ -267,11 +267,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/easily-hosting-a-web-app-on-s3?u=76281980&t=3)** - [Instructor] If you want to host your web app on AWS, Amplify can do it for you. I have a basic [[React.js|react]] app I created with the [[npm]] init react app command. You can find out more about that at the Create React App Getting Started page. Here's the command that I used and I added host me as my app name. Now I already have Amplify installed. If you don't you can go to the Amplify site, click get started, and learn about setting it up with the install and the configure. From the terminal, I'm already in the path from our project and I'm going to run Amplify in it. We're going to run the init and then we're going to add hosting and then we're going to publish it to AWS. So we have to confirm the project name, give it an environment name, and select a few other things like our default editor, the type of project, the source path, and so on. Now it'll do its magic once we tell it which profile to use that we set up during the configure of Amplify. Once it's initialized, we can run Amplify add hosting. We can specify development or production, the name of the bucket, and the other default should be fine. Now we can publish with Amplify publish. Once it's published, we have our same app running from AWS. Isn't that great?
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/easily-hosting-a-web-app-on-s3?u=76281980&t=3)** - [Instructor] If you want to host your web app on AWS, Amplify can do it for you. I have a basic [react](../../Skills/Web%20Development/React.js.md) app I created with the [npm](../../Skills/Web%20Development/npm.md) init react app command. You can find out more about that at the Create React App Getting Started page. Here's the command that I used and I added host me as my app name. Now I already have Amplify installed. If you don't you can go to the Amplify site, click get started, and learn about setting it up with the install and the configure. From the terminal, I'm already in the path from our project and I'm going to run Amplify in it. We're going to run the init and then we're going to add hosting and then we're going to publish it to AWS. So we have to confirm the project name, give it an environment name, and select a few other things like our default editor, the type of project, the source path, and so on. Now it'll do its magic once we tell it which profile to use that we set up during the configure of Amplify. Once it's initialized, we can run Amplify add hosting. We can specify development or production, the name of the bucket, and the other default should be fine. Now we can publish with Amplify publish. Once it's published, we have our same app running from AWS. Isn't that great?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[npm]] (1)
+> **Frameworks & Libraries:** [React](../../Skills/Web%20Development/React.js.md) (3), [npm](../../Skills/Web%20Development/npm.md) (1)
 > **CLI Commands:** aws (3), npm (1), find (1)
 > **Prerequisites:** configure (2), getting started (1), install (1), set up (1)
 > **Env Vars:** aws (3), npm (1)
@@ -296,11 +296,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980&t=3)** - [Instructor] One way to keep your AWS account secure is by activating MFA. Notice I even have a warning here on my security status that I haven't activated it. I can click here and then click Manage MFA, or from pretty much anywhere in AWS under your user account, you can go to My Security Credentials. From here, you can continue on and then expand the [[Multi-factor Authentication]] area and activate MFA. You have a few different options, including apps or [[Hardware]] devices, and in each case, it'll step you through the process, even giving you some help in listing what applications are available and how much they cost. Once you've enabled it, you'll have MFA on your account and you'll be even more secure than ever.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980&t=3)** - [Instructor] One way to keep your AWS account secure is by activating MFA. Notice I even have a warning here on my security status that I haven't activated it. I can click here and then click Manage MFA, or from pretty much anywhere in AWS under your user account, you can go to My Security Credentials. From here, you can continue on and then expand the [Multi-factor Authentication](../../Skills/Software%20Development/Multi-factor%20Authentication.md) area and activate MFA. You have a few different options, including apps or [Hardware](../../Topics/Hardware.md) devices, and in each case, it'll step you through the process, even giving you some help in listing what applications are available and how much they cost. Once you've enabled it, you'll have MFA on your account and you'll be even more secure than ever.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multi-factor Authentication]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [Multi-factor Authentication](../../Skills/Software%20Development/Multi-factor%20Authentication.md) (1), [Hardware](../../Topics/Hardware.md) (1)
 > **Env Vars:** mfa (4), aws (2)
 > **CLI Commands:** aws (2)
 > **UI Navigation:** go to (1)
@@ -353,11 +353,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cloudfront?u=76281980&t=3)** - [Instructor] If you need to deliver your content around the world really quickly, Amazon CloudFront is a great option. It's a fast, highly secure programmable content delivery network. So let's look at an example. I have an S3 bucket here, and I want to distribute the files inside of it around the world, but only the files in this files folder, and in this files folder, I have one file, the highly-important index.[[HTML]]. So let's create a distribution for it. So at the CloudFront Dashboard, I'm going to click Create Distribution, and we have two options: web and RTMP. It depends on what types of files you're trying to deliver like html files versus media files. Ours is html, so I'll click Getting Started under Web. For the origin domain name, if you click on there, it will pre-populate it with a lot of options including our bucket name. When we select that, it'll pre-populate the origin ID. Now we just have to specify the path for the files folder, so I'll type /files, but not end with a slash. Then you can add things like custom headers, protocol policy, time to live options and so forth. And I highly recommend you check this Price Class because the more edge locations you have, the larger the cost, and then you click Create Distribution. I've already created one of these because it takes awhile for 'em to copy it around the world, so I'm just going to copy this domain, open a new tab, and I can go right to the files folder without even typing in. And there's the highly-important index.html.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cloudfront?u=76281980&t=3)** - [Instructor] If you need to deliver your content around the world really quickly, Amazon CloudFront is a great option. It's a fast, highly secure programmable content delivery network. So let's look at an example. I have an S3 bucket here, and I want to distribute the files inside of it around the world, but only the files in this files folder, and in this files folder, I have one file, the highly-important index.[HTML](../../Skills/Web%20Development/HTML.md). So let's create a distribution for it. So at the CloudFront Dashboard, I'm going to click Create Distribution, and we have two options: web and RTMP. It depends on what types of files you're trying to deliver like html files versus media files. Ours is html, so I'll click Getting Started under Web. For the origin domain name, if you click on there, it will pre-populate it with a lot of options including our bucket name. When we select that, it'll pre-populate the origin ID. Now we just have to specify the path for the files folder, so I'll type /files, but not end with a slash. Then you can add things like custom headers, protocol policy, time to live options and so forth. And I highly recommend you check this Price Class because the more edge locations you have, the larger the cost, and then you click Create Distribution. I've already created one of these because it takes awhile for 'em to copy it around the world, so I'm just going to copy this domain, open a new tab, and I can go right to the files folder without even typing in. And there's the highly-important index.html.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4)
+> **Frameworks & Libraries:** [HTML](../../Skills/Web%20Development/HTML.md) (4)
 > **File Paths:** index.html (2)
 > **Env Vars:** rtmp (1)
 > **UI Navigation:** click on (1)
@@ -368,7 +368,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Bear Cahill]]
+- [Bear Cahill](../../Instructors/Cloud%20Computing/Bear%20Cahill.md)
 
 ## Skills Covered
 
@@ -376,22 +376,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Getting Started as an AWS Developer]]
-← [[AWS for Developers- Identity Access Management (IAM)]] | **4 of 4**
+### In [Getting Started as an AWS Developer](../../Paths/Cloud%20Computing/Learning%20Paths/Getting%20Started%20as%20an%20AWS%20Developer.md)
+← [AWS for Developers- Identity Access Management (IAM)](AWS%20for%20Developers-%20Identity%20Access%20Management%20(IAM).md) | **4 of 4**
 
 ## Appears In
 
-- [[Getting Started as an AWS Developer]]
+- [Getting Started as an AWS Developer](../../Paths/Cloud%20Computing/Learning%20Paths/Getting%20Started%20as%20an%20AWS%20Developer.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[AWS- Monitoring, Logging, and Remediation (2021)]] — Amazon Web Services (AWS)
-- [[Complete Guide to AWS Software Deployment]] — Amazon Web Services (AWS)
-- [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — Amazon Web Services (AWS)
-- [[AWS Essential Training for Architects]] — Amazon Web Services (AWS)
-- [[Building Intelligent Chatbots on AWS]] — Amazon Web Services (AWS)
+- [AWS- Monitoring, Logging, and Remediation (2021)](AWS-%20Monitoring%2C%20Logging%2C%20and%20Remediation%20(2021).md) — Amazon Web Services (AWS)
+- [Complete Guide to AWS Software Deployment](Complete%20Guide%20to%20AWS%20Software%20Deployment.md) — Amazon Web Services (AWS)
+- [Choosing A Cloud Platform For Developers Aws Azure And Gcp](Choosing%20A%20Cloud%20Platform%20For%20Developers%20Aws%20Azure%20And%20Gcp.md) — Amazon Web Services (AWS)
+- [AWS Essential Training for Architects](../DevOps/AWS%20Essential%20Training%20for%20Architects.md) — Amazon Web Services (AWS)
+- [Building Intelligent Chatbots on AWS](../Artificial%20Intelligence%20(AI)/Building%20Intelligent%20Chatbots%20on%20AWS.md) — Amazon Web Services (AWS)
 
 ---
 

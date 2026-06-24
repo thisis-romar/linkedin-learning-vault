@@ -17,15 +17,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Microservices Foundations]]'
+  - course: '[Microservices Foundations](../../../Courses/Software%20Development/Microservices%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Microservices- Design Patterns]]'
+  - course: '[Microservices- Design Patterns](../../../Courses/Software%20Development/Microservices-%20Design%20Patterns.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Software Architecture- Breaking a Monolith into Microservices]]'
+  - course: '[Software Architecture- Breaking a Monolith into Microservices](../../../Courses/Software%20Development/Software%20Architecture-%20Breaking%20a%20Monolith%20into%20Microservices.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -40,24 +40,24 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Microservices Foundations]]
-2. [[Microservices- Design Patterns]] _(1h 37m)_
-3. [[Software Architecture- Breaking a Monolith into Microservices]] _(1h 7m)_
+1. [Microservices Foundations](../../../Courses/Software%20Development/Microservices%20Foundations.md)
+2. [Microservices- Design Patterns](../../../Courses/Software%20Development/Microservices-%20Design%20Patterns.md) _(1h 37m)_
+3. [Software Architecture- Breaking a Monolith into Microservices](../../../Courses/Software%20Development/Software%20Architecture-%20Breaking%20a%20Monolith%20into%20Microservices.md) _(1h 7m)_
 
 ## Course Flow
 
-1. [[Microservices Foundations]] → 2. [[Microservices- Design Patterns]] → 3. [[Software Architecture- Breaking a Monolith into Microservices]]
+1. [Microservices Foundations](../../../Courses/Software%20Development/Microservices%20Foundations.md) → 2. [Microservices- Design Patterns](../../../Courses/Software%20Development/Microservices-%20Design%20Patterns.md) → 3. [Software Architecture- Breaking a Monolith into Microservices](../../../Courses/Software%20Development/Software%20Architecture-%20Breaking%20a%20Monolith%20into%20Microservices.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Getting Started with Microservices]] (2 shared courses)
+- [Getting Started with Microservices](../../Cybersecurity/Learning%20Paths/Getting%20Started%20with%20Microservices.md) (2 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

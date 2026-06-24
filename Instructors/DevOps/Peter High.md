@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating Your IT Strategy]]
-- [[Assessing Digital Maturity]]
+- [Creating Your IT Strategy](../../Courses/DevOps/Creating%20Your%20IT%20Strategy.md)
+- [Assessing Digital Maturity](../../Courses/Cloud%20Computing/Assessing%20Digital%20Maturity.md)

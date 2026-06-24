@@ -21,18 +21,18 @@ created: 2026-05-03
 
 # Cloud-Native Architecture
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Database Management]], [[DevOps]], [[Network and System Administration]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Database Management](../../Topics/Database%20Management.md), [DevOps](../../Topics/DevOps.md), [Network and System Administration](../../Topics/Network%20and%20System%20Administration.md)
 
 ## Courses
 
-1. [[Hybrid Multicloud Networking- Practical Concepts]] — 1 mentions
+1. [Hybrid Multicloud Networking- Practical Concepts](../../Courses/Database%20Management/Hybrid%20Multicloud%20Networking-%20Practical%20Concepts.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Network Automation Professional Certificate by Arista Networks]] — 1 total mentions
+1. [Network Automation Professional Certificate by Arista Networks](../../Paths/Database%20Management/Professional%20Certificates/Network%20Automation%20Professional%20Certificate%20by%20Arista%20Networks.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

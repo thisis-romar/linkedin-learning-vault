@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building a Responsible AI Program- Context, Culture, Content, and Commitment]] — Beginner · 1h 29m · 9,370 learners
+- [Building a Responsible AI Program- Context, Culture, Content, and Commitment](../../Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Responsible%20AI%20Program-%20Context%2C%20Culture%2C%20Content%2C%20and%20Commitment.md) — Beginner · 1h 29m · 9,370 learners
 
 ## Related Skills
 
-- [[Responsible AI]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Responsible AI](Responsible%20AI.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Leading with Generative AI- Master Change Management for Success]] — 2 mentions
+1. [Leading with Generative AI- Master Change Management for Success](../../Courses/Cloud%20Computing/Leading%20with%20Generative%20AI-%20Master%20Change%20Management%20for%20Success.md) — 2 mentions

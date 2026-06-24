@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning The Javascript Language]]
-- [[JavaScript Patterns- Modern Solutions to Common Challenges]]
-- [[Learning JavaScript Debugging]]
+- [Learning The Javascript Language](../../Courses/Software%20Development/Learning%20The%20Javascript%20Language.md)
+- [JavaScript Patterns- Modern Solutions to Common Challenges](../../Courses/Software%20Development/JavaScript%20Patterns-%20Modern%20Solutions%20to%20Common%20Challenges.md)
+- [Learning JavaScript Debugging](../../Courses/Software%20Development/Learning%20JavaScript%20Debugging.md)

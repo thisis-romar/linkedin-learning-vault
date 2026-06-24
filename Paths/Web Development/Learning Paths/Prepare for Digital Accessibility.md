@@ -17,35 +17,35 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Practical Accessibility For Designers]]'
+  - course: '[Practical Accessibility For Designers](../../../Courses/Web%20Development/Practical%20Accessibility%20For%20Designers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[UX Foundations- Accessibility]]'
+  - course: '[UX Foundations- Accessibility](../../../Courses/Web%20Development/UX%20Foundations-%20Accessibility.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Accessibility for Web Design]]'
+  - course: '[Accessibility for Web Design](../../../Courses/Web%20Development/Accessibility%20for%20Web%20Design.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Web Accessibility for Developers]]'
+  - course: '[Web Accessibility for Developers](../../../Courses/Web%20Development/Web%20Accessibility%20for%20Developers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Architectural Design- The WE Way for Workplace Inclusivity]]'
+  - course: '[Architectural Design- The WE Way for Workplace Inclusivity](../../../Courses/Web%20Development/Architectural%20Design-%20The%20WE%20Way%20for%20Workplace%20Inclusivity.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Foundations of Accessible Elearning]]'
+  - course: '[Foundations of Accessible Elearning](../../../Courses/Web%20Development/Foundations%20of%20Accessible%20Elearning.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Simplifying Web Development with Accessibility Best Practices]]'
+  - course: '[Simplifying Web Development with Accessibility Best Practices](../../../Courses/Web%20Development/Simplifying%20Web%20Development%20with%20Accessibility%20Best%20Practices.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Using AI for Accessible Design Workflows]]'
+  - course: '[Using AI for Accessible Design Workflows](../../../Courses/Web%20Development/Using%20AI%20for%20Accessible%20Design%20Workflows.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -60,30 +60,30 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Practical Accessibility For Designers]]
-2. [[UX Foundations- Accessibility]] _(1h 20m)_
-3. [[Accessibility for Web Design]] _(1h 58m)_
-4. [[Web Accessibility for Developers]] _(55m)_
-5. [[Architectural Design- The WE Way for Workplace Inclusivity]] _(1h 2m)_
-6. [[Foundations of Accessible Elearning]] _(51m)_
-7. [[Simplifying Web Development with Accessibility Best Practices]] _(1h 48m)_
-8. [[Using AI for Accessible Design Workflows]] _(1h 34m)_
+1. [Practical Accessibility For Designers](../../../Courses/Web%20Development/Practical%20Accessibility%20For%20Designers.md)
+2. [UX Foundations- Accessibility](../../../Courses/Web%20Development/UX%20Foundations-%20Accessibility.md) _(1h 20m)_
+3. [Accessibility for Web Design](../../../Courses/Web%20Development/Accessibility%20for%20Web%20Design.md) _(1h 58m)_
+4. [Web Accessibility for Developers](../../../Courses/Web%20Development/Web%20Accessibility%20for%20Developers.md) _(55m)_
+5. [Architectural Design- The WE Way for Workplace Inclusivity](../../../Courses/Web%20Development/Architectural%20Design-%20The%20WE%20Way%20for%20Workplace%20Inclusivity.md) _(1h 2m)_
+6. [Foundations of Accessible Elearning](../../../Courses/Web%20Development/Foundations%20of%20Accessible%20Elearning.md) _(51m)_
+7. [Simplifying Web Development with Accessibility Best Practices](../../../Courses/Web%20Development/Simplifying%20Web%20Development%20with%20Accessibility%20Best%20Practices.md) _(1h 48m)_
+8. [Using AI for Accessible Design Workflows](../../../Courses/Web%20Development/Using%20AI%20for%20Accessible%20Design%20Workflows.md) _(1h 34m)_
 
 ## Course Flow
 
-1. [[Practical Accessibility For Designers]] → 2. [[UX Foundations- Accessibility]] → 3. [[Accessibility for Web Design]] → 4. [[Web Accessibility for Developers]] → 5. [[Architectural Design- The WE Way for Workplace Inclusivity]] → 6. [[Foundations of Accessible Elearning]] → 7. [[Simplifying Web Development with Accessibility Best Practices]] → 8. [[Using AI for Accessible Design Workflows]]
+1. [Practical Accessibility For Designers](../../../Courses/Web%20Development/Practical%20Accessibility%20For%20Designers.md) → 2. [UX Foundations- Accessibility](../../../Courses/Web%20Development/UX%20Foundations-%20Accessibility.md) → 3. [Accessibility for Web Design](../../../Courses/Web%20Development/Accessibility%20for%20Web%20Design.md) → 4. [Web Accessibility for Developers](../../../Courses/Web%20Development/Web%20Accessibility%20for%20Developers.md) → 5. [Architectural Design- The WE Way for Workplace Inclusivity](../../../Courses/Web%20Development/Architectural%20Design-%20The%20WE%20Way%20for%20Workplace%20Inclusivity.md) → 6. [Foundations of Accessible Elearning](../../../Courses/Web%20Development/Foundations%20of%20Accessible%20Elearning.md) → 7. [Simplifying Web Development with Accessibility Best Practices](../../../Courses/Web%20Development/Simplifying%20Web%20Development%20with%20Accessibility%20Best%20Practices.md) → 8. [Using AI for Accessible Design Workflows](../../../Courses/Web%20Development/Using%20AI%20for%20Accessible%20Design%20Workflows.md)
 
 ## Topics
 
-- [[Web Development]]
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Explore a Career in Front-End Web Development]] (1 shared courses)
-- [[Advance Your Skills in User Experience Design]] (1 shared courses)
+- [Explore a Career in Front-End Web Development](Explore%20a%20Career%20in%20Front-End%20Web%20Development.md) (1 shared courses)
+- [Advance Your Skills in User Experience Design](Advance%20Your%20Skills%20in%20User%20Experience%20Design.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Web Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Web Development](../../../Topics/Web%20Development.md)

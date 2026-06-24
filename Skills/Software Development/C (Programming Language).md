@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[C Programming for Embedded Applications]] — Advanced · 2h 5m · 42,091 learners
-- [[Complete Guide to C Programming Foundations]] — Beginner · 5h 52m · 11,731 learners
+- [C Programming for Embedded Applications](../../Courses/Software%20Development/C%20Programming%20for%20Embedded%20Applications.md) — Advanced · 2h 5m · 42,091 learners
+- [Complete Guide to C Programming Foundations](../../Courses/Hardware/Complete%20Guide%20to%20C%20Programming%20Foundations.md) — Beginner · 5h 52m · 11,731 learners
 
 ## Related Skills
 
-- [[Embedded C]] — 1 shared course
-- [[Programming Foundations]] — 1 shared course
+- [Embedded C](Embedded%20C.md) — 1 shared course
+- [Programming Foundations](Programming%20Foundations.md) — 1 shared course

@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Awareness- Protect Your Privacy]]
+- [Cybersecurity Awareness- Protect Your Privacy](../../Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Protect%20Your%20Privacy.md)

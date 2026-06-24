@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[HTML Forms- Accessibility]]
+- [HTML Forms- Accessibility](../../Courses/Web%20Development/HTML%20Forms-%20Accessibility.md)

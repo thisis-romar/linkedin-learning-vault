@@ -19,18 +19,18 @@ created: 2026-05-03
 
 # Blockchain Architecture
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Cybersecurity]], [[Data Science]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Cybersecurity](../../Topics/Cybersecurity.md), [Data Science](../../Topics/Data%20Science.md)
 
 ## Courses
 
-1. [[Cryptocurrency Foundations 17185357]] — 1 mentions
+1. [Cryptocurrency Foundations 17185357](../../Courses/Cybersecurity/Cryptocurrency%20Foundations%2017185357.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Getting Started in Blockchain]] — 1 total mentions
+1. [Getting Started in Blockchain](../../Paths/Cybersecurity/Learning%20Paths/Getting%20Started%20in%20Blockchain.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

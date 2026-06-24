@@ -14,11 +14,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQGOmmKsj8ZwZg/learning-public-crop_675_1200/B4EZXYyFgPHcAg-/0/1743098764145?e=2147483647&amp;v=beta&amp;t=e4Nsh1G8SuFjU5lYzvVObLSzm-MgTSSK5L3scS9VIF0"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Advance Your Skills with Excel Formulas and Functions]]'
+  - '[Advance Your Skills with Excel Formulas and Functions](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20with%20Excel%20Formulas%20and%20Functions.md)'
 prev_courses:
-  - '[[Excel Introduction To Formulas And Functions]]'
+  - '[Excel Introduction To Formulas And Functions](Excel%20Introduction%20To%20Formulas%20And%20Functions.md)'
 next_courses:
-  - '[[Excel- Lookup Functions in Depth]]'
+  - '[Excel- Lookup Functions in Depth](Excel-%20Lookup%20Functions%20in%20Depth.md)'
 path_nav: '[{"path":"Advance Your Skills with Excel Formulas and Functions","position":2,"total":5,"prev":"Excel Introduction To Formulas And Functions","next":"Excel- Lookup Functions in Depth"}]'
 path_count: 1
 tags:
@@ -91,11 +91,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980&t=0)** - Hello, my [[Microsoft Excel|Excel]] using friends. How many times have you tried to learn Excel formulas only to drown in a sea of parentheses and overly complicated examples? Yeah, me too, but I've got you covered. Come spend 40 minutes with me and I'm going to take you through over 25 widely used Excel functions, and this is the important part, using real, but simple scenarios. The best part, I can show you them in about a minute and a half each. My name is Jess Stratton. It's so quick, what have you got to lose?
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980&t=0)** - Hello, my [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) using friends. How many times have you tried to learn Excel formulas only to drown in a sea of parentheses and overly complicated examples? Yeah, me too, but I've got you covered. Come spend 40 minutes with me and I'm going to take you through over 25 widely used Excel functions, and this is the important part, using real, but simple scenarios. The best part, I can show you them in about a minute and a half each. My name is Jess Stratton. It's so quick, what have you got to lose?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (3)
 > **Speakers:** - hello (1)
 
 
@@ -107,7 +107,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980&t=0)** - [Narrator] A function is a built-in [[Microsoft Excel|Excel]] calculation that you initiate by calling with a formula. Type an equal sign into the cell. This lets Excel know that you're building a formula. Reference a different cell by clicking on it with your mouse, or you can also just type the location in directly. You can perform calculations with additional operators or functions.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980&t=0)** - [Narrator] A function is a built-in [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) calculation that you initiate by calling with a formula. Type an equal sign into the cell. This lets Excel know that you're building a formula. Reference a different cell by clicking on it with your mouse, or you can also just type the location in directly. You can perform calculations with additional operators or functions.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980&t=37)** Hit the Enter key to calculate your formula. To use a built-in Excel function, put parentheses around the beginning and the end.
 >
@@ -117,7 +117,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (5)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -126,13 +126,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-a-named-range?u=76281980&t=0)** - [Narrator] You can define a name for a specific area of cells to make it easier for you to work with formulas. This named area is called a range. You can name a single cell by selecting it and giving it a name in the name bar. Now you don't need to remember the rate, just the reference [[Microsoft Word|word]]. You can also name a range of cells. Select your cells, change to the Formulas tab, and click Create From Selection. Select anywhere that you have header rows, or columns.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-a-named-range?u=76281980&t=0)** - [Narrator] You can define a name for a specific area of cells to make it easier for you to work with formulas. This named area is called a range. You can name a single cell by selecting it and giving it a name in the name bar. Now you don't need to remember the rate, just the reference [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md). You can also name a range of cells. Select your cells, change to the Formulas tab, and click Create From Selection. Select anywhere that you have header rows, or columns.
 >
 > **[0:52](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-a-named-range?u=76281980&t=52)** You can edit or delete these values by clicking Name Manager. You can also see what they're called. Now, you can use these names anywhere that you can use a formula.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
@@ -154,11 +154,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980&t=0)** - [Instructor] Some tasks can be performed without needing a function. Let's join the contents of these two cells together using an ampersand. After putting in my equal sign, I'll type in my first cell. Now we need our ampersand to join the contents of the second cell, but before that, we need a space in between the two names to add literal text, and close it in quotation marks. In this case, a single space. I'll join that text with another ampersand, and now I can put in the remaining cells. Hit the enter key and the formula is complete. [[Microsoft Excel|Excel]] even autofill the contents of this for me. If it didn't do that for you, you can select the cells, and from the home ribbon tab, select fill and then down. A common question is when to use the ampersand, and when to use the full [[Microsoft Word|word]] AND, use an ampersand when you're joining text strings together. Use AND as an operator to perform logic tests. We're going to be doing that in later videos.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980&t=0)** - [Instructor] Some tasks can be performed without needing a function. Let's join the contents of these two cells together using an ampersand. After putting in my equal sign, I'll type in my first cell. Now we need our ampersand to join the contents of the second cell, but before that, we need a space in between the two names to add literal text, and close it in quotation marks. In this case, a single space. I'll join that text with another ampersand, and now I can put in the remaining cells. Hit the enter key and the formula is complete. [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) even autofill the contents of this for me. If it didn't do that for you, you can select the cells, and from the home ribbon tab, select fill and then down. A common question is when to use the ampersand, and when to use the full [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) AND, use an ampersand when you're joining text strings together. Use AND as an operator to perform logic tests. We're going to be doing that in later videos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -166,11 +166,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/follow-along-with-excel-when-creating-functions?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] makes it easy to get assistance while working with functions. When you type the function, the help file will pop up a window telling you what it does. The moment you hit the open parenthesis, a list of parameters the function uses displays on screen. The current parameter is in boldface. When you type a comma, the help moves with you, and the next parameter will be in bold. Any parameter that has a bracket around it is optional. That is, it's not required to make the function work, and you don't need to include it. Finally, you can hover your mouse over the function itself. Click the link to get more help. You'll see what the function does, and you can scroll down and see all the parameters.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/follow-along-with-excel-when-creating-functions?u=76281980&t=0)** - [Instructor] [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) makes it easy to get assistance while working with functions. When you type the function, the help file will pop up a window telling you what it does. The moment you hit the open parenthesis, a list of parameters the function uses displays on screen. The current parameter is in boldface. When you type a comma, the help moves with you, and the next parameter will be in bold. Any parameter that has a bracket around it is optional. That is, it's not required to make the function work, and you don't need to include it. Finally, you can hover your mouse over the function itself. Click the link to get more help. You'll see what the function does, and you can scroll down and see all the parameters.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** required to (1)
@@ -185,11 +185,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980&t=0)** - [Instructor] The SUM function adds numbers that you specify, or a range of cells and returns the result. I'll type =SUM, put in my open parentheses, and I can either type in my range manually, or click and drag to select the range. I'll close the parentheses, hit Enter, and get my sum. It's important to note that you can always select a range of cells, and down at the bottom of the screen on the right hand side, [[Microsoft Excel|Excel]] will return the sum for you. You can also select a range of cells and click AutoSum from the Home ribbon tab.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980&t=0)** - [Instructor] The SUM function adds numbers that you specify, or a range of cells and returns the result. I'll type =SUM, put in my open parentheses, and I can either type in my range manually, or click and drag to select the range. I'll close the parentheses, hit Enter, and get my sum. It's important to note that you can always select a range of cells, and down at the bottom of the screen on the right hand side, [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) will return the sum for you. You can also select a range of cells and click AutoSum from the Home ribbon tab.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **Env Vars:** sum (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -238,13 +238,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-complex-tests-with-and-and-or?u=76281980&t=0)** - [Instructor] You can combine the functions AND and OR with IF to open limitless possibilities in [[Microsoft Excel|Excel]]. Let's find out which students passed both of these exams. The passing grade is in cell J1 and is 70. My test is the values in C2 and D2, so we'll start with an AND. I'll put in a new open parentheses and I'll put in the value of my cells in the test. I'm putting in the absolute value of J1. I'll put in a comma and the second part of that AND. I'll close the parentheses and I'll add a comma because I still need to finish my IF test. If the value is true, they passed both exam one and exam two. I'll place an X in the cell, otherwise I'll leave it blank.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-complex-tests-with-and-and-or?u=76281980&t=0)** - [Instructor] You can combine the functions AND and OR with IF to open limitless possibilities in [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md). Let's find out which students passed both of these exams. The passing grade is in cell J1 and is 70. My test is the values in C2 and D2, so we'll start with an AND. I'll put in a new open parentheses and I'll put in the value of my cells in the test. I'm putting in the absolute value of J1. I'll put in a comma and the second part of that AND. I'll close the parentheses and I'll add a comma because I still need to finish my IF test. If the value is true, they passed both exam one and exam two. I'll place an X in the cell, otherwise I'll leave it blank.
 >
 > **[1:07](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-complex-tests-with-and-and-or?u=76281980&t=67)** Let's fill down. Now I can very quickly see who's passed both exams. This time let's find out who's passed at least one exam. We'll do the same thing except this time instead of AND I'll use an OR. This time I can see who's passed at least one exam because we're testing the value of either of these cells.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **Non-Speech:** (typing) (3), (typing continues) (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
@@ -270,13 +270,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/perform-date-calculations-with-today?u=76281980&t=0)** - [Instructor] The TODAY function has no parameters and returns the current date. I'll put in an equal sign, write today and use my open and close parentheses. The date is based on the date of the computer that [[Microsoft Excel|Excel]] is running on. This date will change and update every time this Excel file is opened. But you can use Today to perform calculations. Let's find out how many days this gift card has been active for. Cell A2 contains the date it was issued. We can subtract that from today's date.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/perform-date-calculations-with-today?u=76281980&t=0)** - [Instructor] The TODAY function has no parameters and returns the current date. I'll put in an equal sign, write today and use my open and close parentheses. The date is based on the date of the computer that [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) is running on. This date will change and update every time this Excel file is opened. But you can use Today to perform calculations. Let's find out how many days this gift card has been active for. Cell A2 contains the date it was issued. We can subtract that from today's date.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/perform-date-calculations-with-today?u=76281980&t=43)** Excel will put an odd date in there by default. If I look in the ribbon I can see that it's formatting it as a date field. You can fix this by changing to the number data cell type. You can also decrease the decimal to get a count of days.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** today (1)
 > **Speakers:** - [instructor] (1)
@@ -290,11 +290,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980&t=0)** - [Instructor] The COUNT function counts the number of cells within a range that contain numbers. Use this function when the values of those numbers are not what's important. Let's look at this column. Let's find out how many of these [[Microsoft Products|products]] sold at least something in 2021. (mouse clicks) I'll select my range, and close the parentheses. The number that's returned is only counting numbers in this range, including dates and times. Blank cells and cells containing non-numerical values are ignored. Let's expand the range. (mouse clicks) I'll select the first range. This time, I'll include a comma and include a second range. Close the parentheses, hit Enter, and now, both ranges are included in the count.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980&t=0)** - [Instructor] The COUNT function counts the number of cells within a range that contain numbers. Use this function when the values of those numbers are not what's important. Let's look at this column. Let's find out how many of these [products](../../Skills/Software%20Development/Microsoft%20Products.md) sold at least something in 2021. (mouse clicks) I'll select my range, and close the parentheses. The number that's returned is only counting numbers in this range, including dates and times. Blank cells and cells containing non-numerical values are ignored. Let's expand the range. (mouse clicks) I'll select the first range. This time, I'll include a comma and include a second range. Close the parentheses, hit Enter, and now, both ranges are included in the count.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** count (1)
 > **UI Navigation:** select the (1)
@@ -356,7 +356,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980&t=0)** - [Instructor] The TEXT function allows you to reformat numbers and dates as text as a specific way of using codes. These codes can be found on the Home ribbon tab. Click General, More Number Formats, and then Custom.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980&t=20)** You can view all the formatting options here. A common problem when importing addresses in the United States is that [[Microsoft Excel|Excel]] will often remove the first leading zero. We'll use text to put it back. I'll start with =TEXT, open parentheses. The value is the contents of cell E2. I'll put in a comma, and now I need five characters, so I'm going to tell Excel with quotes to fill in the missing characters with zero. I'll close the quotes and parentheses, and I get my value that I can then fill down. Let's look at a more complex example. This time I'm going to use the pound sign as a number placeholder. I'll start with a text string.
+> **[0:20](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980&t=20)** You can view all the formatting options here. A common problem when importing addresses in the United States is that [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) will often remove the first leading zero. We'll use text to put it back. I'll start with =TEXT, open parentheses. The value is the contents of cell E2. I'll put in a comma, and now I need five characters, so I'm going to tell Excel with quotes to fill in the missing characters with zero. I'll close the quotes and parentheses, and I get my value that I can then fill down. Let's look at a more complex example. This time I'm going to use the pound sign as a number placeholder. I'll start with a text string.
 >
 > **[1:28](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980&t=88)** I'll use an ampersand to join the text, and now I'll put in my value. I first need to compute the sales bonus. I'll put in my comma and format it.
 >
@@ -364,7 +364,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (2)
 > **Env Vars:** text (2)
 > **Speakers:** - [instructor] (1)
 
@@ -427,13 +427,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-strings-with-delimiters-with-textjoin?u=76281980&t=0)** - [Instructor] TEXTJOIN combines a range of data with a delimiter that you specify. It's only available with [[Microsoft Excel|Excel]] 2019 or higher, or with a [[Microsoft 365]] subscription. It's similar to using the ampersand or CONCAT function to combine text. Let's use TEXTJOIN to join the first, middle, and last names. (mouse clicks) The delimiter in this case will be a space. Not everybody has a middle name, so I'll include the TRUE parameter to ignore empty cells. And finally, the range is cell A2 through C2. (mouse clicks) I'll fill down, and you can see that not everybody has a middle name. Let's do this one more time, except instead of a range, let's use the LEFT function and just have the first letter of the middle name A. This time, I'm going to include a comma, and now we can include the LEFT function. (mouse clicks) I'll end it with C2, the Last name. We can even change the delimiter. (mouse clicks) Finally, TEXTJOIN also works with rows. (mouse clicks) I'll use a comma as my delimiter,
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-strings-with-delimiters-with-textjoin?u=76281980&t=0)** - [Instructor] TEXTJOIN combines a range of data with a delimiter that you specify. It's only available with [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) 2019 or higher, or with a [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) subscription. It's similar to using the ampersand or CONCAT function to combine text. Let's use TEXTJOIN to join the first, middle, and last names. (mouse clicks) The delimiter in this case will be a space. Not everybody has a middle name, so I'll include the TRUE parameter to ignore empty cells. And finally, the range is cell A2 through C2. (mouse clicks) I'll fill down, and you can see that not everybody has a middle name. Let's do this one more time, except instead of a range, let's use the LEFT function and just have the first letter of the middle name A. This time, I'm going to include a comma, and now we can include the LEFT function. (mouse clicks) I'll end it with C2, the Last name. We can even change the delimiter. (mouse clicks) Finally, TEXTJOIN also works with rows. (mouse clicks) I'll use a comma as my delimiter,
 >
 > **[1:35](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-strings-with-delimiters-with-textjoin?u=76281980&t=95)** and I'll use the column as the range. (mouse clicks)
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1), [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) (1)
 > **Env Vars:** textjoin (3), left (2), concat (1), true (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -460,13 +460,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980&t=0)** - [Instructor] XLOOKUP enables you to retrieve values based on a lookup value from the same row. The function is currently only available for [[Microsoft Excel|Excel]] 2021, 2024, and [[Microsoft 365]] users. Let's look up the state from Column E and retrieve the status from Column F. We'll look up the state from Column I. (mouse clicks) Start your XLOOKUP and open a parentheses. The lookup value is in cell I1. The lookup array is from Column E. (mouse clicks) and the return array is column F, the State. (mouse clicks) We are returning the status. The following parameters are optional. We can return an error message if nothing is found. (mouse clicks) We can specify whether or not we want to search for an exact match, and finally, how we want to search. I'll leave these last two parameters empty. I'll close the parentheses, and it retrieves my value. (mouse clicks) I can change the state, and it will update the status. Let's change the lookup column and retrieve the phone number instead. XLOOKUP has similar functionality to VLOOKUP, except with XLOOKUP,
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980&t=0)** - [Instructor] XLOOKUP enables you to retrieve values based on a lookup value from the same row. The function is currently only available for [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) 2021, 2024, and [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) users. Let's look up the state from Column E and retrieve the status from Column F. We'll look up the state from Column I. (mouse clicks) Start your XLOOKUP and open a parentheses. The lookup value is in cell I1. The lookup array is from Column E. (mouse clicks) and the return array is column F, the State. (mouse clicks) We are returning the status. The following parameters are optional. We can return an error message if nothing is found. (mouse clicks) We can specify whether or not we want to search for an exact match, and finally, how we want to search. I'll leave these last two parameters empty. I'll close the parentheses, and it retrieves my value. (mouse clicks) I can change the state, and it will update the status. Let's change the lookup column and retrieve the phone number instead. XLOOKUP has similar functionality to VLOOKUP, except with XLOOKUP,
 >
 > **[1:34](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980&t=94)** the lookup can be any column, not just the leftmost, and VLOOKUP is available for every version of Excel. (mouse clicks) Now, it's returning the phone number.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (2), [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) (1)
 > **Env Vars:** xlookup (4), vlookup (2)
 > **Speakers:** - [instructor] (1)
 
@@ -493,13 +493,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-groupby-to-aggregate-data?u=76281980&t=0)** - [Instructor] You can aggregate data easily using the new GROUPBY function. The function can group and display your data like a pivot table. However, GROUPBY is only available for [[Microsoft 365]] users.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-groupby-to-aggregate-data?u=76281980&t=0)** - [Instructor] You can aggregate data easily using the new GROUPBY function. The function can group and display your data like a pivot table. However, GROUPBY is only available for [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) users.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-groupby-to-aggregate-data?u=76281980&t=16)** GROUPBY has three required elements. What to group, in this case, all group product category. The specific values to collect. In this case, I want a total quantity sold of each category and the function that we want to use to aggregate the data, such as a sum, or an average. Close the parentheses, and here's my table. GROUPBY will update automatically when the data changes. You can also include the headers as an optional parameter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) (1)
 > **Env Vars:** groupby (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -508,13 +508,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-pivotby-to-aggregate-data-with-more-columns?u=76281980&t=0)** - [Narrator] The PIVOTBY function is similar to GROUPBY. You can aggregate data and display it like a pivot table. It's also only available for [[Microsoft 365]] users. PIVOTBY has one extra required field. A specific column that you want to see the data for.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-pivotby-to-aggregate-data-with-more-columns?u=76281980&t=0)** - [Narrator] The PIVOTBY function is similar to GROUPBY. You can aggregate data and display it like a pivot table. It's also only available for [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) users. PIVOTBY has one extra required field. A specific column that you want to see the data for.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-pivotby-to-aggregate-data-with-more-columns?u=76281980&t=23)** The first parameter is what we want to group. I want to see the product categories. The second parameter is the specific one for PIVOTBY. This is a specific column that you want to see the data for. In this case, I want to see which ones sold that we're wholesale versus retail. The third parameter is what we're going to be actually looking at. In this case, the quantity of units sold and the last required parameter is how I want to see that data, and because I want to see the total quantity sold, that's a sum. For this PIVOTBY, I'm going to use one of the optional parameters, and that's to show the headers. As soon as I hit the Enter key, I can see all of my quantity sold, grouped by retail and wholesale.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [Microsoft 365](../../Skills/Cloud%20Computing/Microsoft%20365.md) (1)
 > **Env Vars:** pivotby (4), groupby (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -564,7 +564,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Jess Stratton]]
+- [Jess Stratton](../../Instructors/Cloud%20Computing/Jess%20Stratton.md)
 
 ## Resources
 
@@ -576,22 +576,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Advance Your Skills with Excel Formulas and Functions]]
-← [[Excel Introduction To Formulas And Functions]] | **2 of 5** | [[Excel- Lookup Functions in Depth]] →
+### In [Advance Your Skills with Excel Formulas and Functions](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20with%20Excel%20Formulas%20and%20Functions.md)
+← [Excel Introduction To Formulas And Functions](Excel%20Introduction%20To%20Formulas%20And%20Functions.md) | **2 of 5** | [Excel- Lookup Functions in Depth](Excel-%20Lookup%20Functions%20in%20Depth.md) →
 
 ## Appears In
 
-- [[Advance Your Skills with Excel Formulas and Functions]]
+- [Advance Your Skills with Excel Formulas and Functions](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20with%20Excel%20Formulas%20and%20Functions.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Excel- Power Query for Beginners]] — Microsoft Excel
-- [[Excel- Filtering Data for Beginners]] — Microsoft Excel
-- [[Excel- Tracking Data Easily and Efficiently]] — Microsoft Excel
-- [[Excel for Business Analysts]] — Microsoft Excel
-- [[Complete Guide to Excel Statistics with Copilot]] — Microsoft Excel
+- [Excel- Power Query for Beginners](Excel-%20Power%20Query%20for%20Beginners.md) — Microsoft Excel
+- [Excel- Filtering Data for Beginners](Excel-%20Filtering%20Data%20for%20Beginners.md) — Microsoft Excel
+- [Excel- Tracking Data Easily and Efficiently](Excel-%20Tracking%20Data%20Easily%20and%20Efficiently.md) — Microsoft Excel
+- [Excel for Business Analysts](Excel%20for%20Business%20Analysts.md) — Microsoft Excel
+- [Complete Guide to Excel Statistics with Copilot](Complete%20Guide%20to%20Excel%20Statistics%20with%20Copilot.md) — Microsoft Excel
 
 ---
 

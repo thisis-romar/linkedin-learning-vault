@@ -19,23 +19,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Getting Started with Python for Finance]]'
+  - course: '[Getting Started with Python for Finance](../../../Courses/Data%20Science/Getting%20Started%20with%20Python%20for%20Finance.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python in Excel for Financial Professionals]]'
+  - course: '[Python in Excel for Financial Professionals](../../../Courses/Data%20Science/Python%20in%20Excel%20for%20Financial%20Professionals.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Python in Excel for Finance- A Hands-On Approach]]'
+  - course: '[Advanced Python in Excel for Finance- A Hands-On Approach](../../../Courses/Data%20Science/Advanced%20Python%20in%20Excel%20for%20Finance-%20A%20Hands-On%20Approach.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Practical Python for Algorithmic Trading]]'
+  - course: '[Practical Python for Algorithmic Trading](../../../Courses/Data%20Science/Practical%20Python%20for%20Algorithmic%20Trading.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training]]'
+  - course: '[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training](../../../Courses/Data%20Science/Algorithmic%20Trading%20and%20Finance%20Models%20with%20Python%2C%20R%2C%20and%20Stata%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -50,27 +50,27 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Getting Started with Python for Finance]] _(1h 39m)_
-2. [[Python in Excel for Financial Professionals]] _(48m)_
-3. [[Advanced Python in Excel for Finance- A Hands-On Approach]] _(4h 47m)_
-4. [[Practical Python for Algorithmic Trading]] _(1h 54m)_
-5. [[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training]] _(2h 57m)_
+1. [Getting Started with Python for Finance](../../../Courses/Data%20Science/Getting%20Started%20with%20Python%20for%20Finance.md) _(1h 39m)_
+2. [Python in Excel for Financial Professionals](../../../Courses/Data%20Science/Python%20in%20Excel%20for%20Financial%20Professionals.md) _(48m)_
+3. [Advanced Python in Excel for Finance- A Hands-On Approach](../../../Courses/Data%20Science/Advanced%20Python%20in%20Excel%20for%20Finance-%20A%20Hands-On%20Approach.md) _(4h 47m)_
+4. [Practical Python for Algorithmic Trading](../../../Courses/Data%20Science/Practical%20Python%20for%20Algorithmic%20Trading.md) _(1h 54m)_
+5. [Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training](../../../Courses/Data%20Science/Algorithmic%20Trading%20and%20Finance%20Models%20with%20Python%2C%20R%2C%20and%20Stata%20Essential%20Training.md) _(2h 57m)_
 
 ## Course Flow
 
-1. [[Getting Started with Python for Finance]] → 2. [[Python in Excel for Financial Professionals]] → 3. [[Advanced Python in Excel for Finance- A Hands-On Approach]] → 4. [[Practical Python for Algorithmic Trading]] → 5. [[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training]]
+1. [Getting Started with Python for Finance](../../../Courses/Data%20Science/Getting%20Started%20with%20Python%20for%20Finance.md) → 2. [Python in Excel for Financial Professionals](../../../Courses/Data%20Science/Python%20in%20Excel%20for%20Financial%20Professionals.md) → 3. [Advanced Python in Excel for Finance- A Hands-On Approach](../../../Courses/Data%20Science/Advanced%20Python%20in%20Excel%20for%20Finance-%20A%20Hands-On%20Approach.md) → 4. [Practical Python for Algorithmic Trading](../../../Courses/Data%20Science/Practical%20Python%20for%20Algorithmic%20Trading.md) → 5. [Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training](../../../Courses/Data%20Science/Algorithmic%20Trading%20and%20Finance%20Models%20with%20Python%2C%20R%2C%20and%20Stata%20Essential%20Training.md)
 
 ## Topics
 
-- [[Data Science]]
-- [[Software Development]]
+- [Data Science](../../../Topics/Data%20Science.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[CFI Financial Analysis and Modeling Professional Certificate]] (1 shared courses)
+- [CFI Financial Analysis and Modeling Professional Certificate](../Professional%20Certificates/CFI%20Financial%20Analysis%20and%20Modeling%20Professional%20Certificate.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

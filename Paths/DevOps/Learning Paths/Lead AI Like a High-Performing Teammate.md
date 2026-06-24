@@ -19,15 +19,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]]'
+  - course: '[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required](../../../Courses/DevOps/Ai%20Agents%20For%20Everyday%20Professionals%20Simple%20Automations%20To%20Speed%20Up%20Your%20Work%20No%20Code%20Required.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[From Tool to Teammates- Working Smarter with AI]]'
+  - course: '[From Tool to Teammates- Working Smarter with AI](../../../Courses/DevOps/From%20Tool%20to%20Teammates-%20Working%20Smarter%20with%20AI.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[How to Be an Agent Boss- Leading AI Agents at Work]]'
+  - course: '[How to Be an Agent Boss- Leading AI Agents at Work](../../../Courses/DevOps/How%20to%20Be%20an%20Agent%20Boss-%20Leading%20AI%20Agents%20at%20Work.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -42,19 +42,19 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]]
-2. [[From Tool to Teammates- Working Smarter with AI]] _(1h 46m)_
-3. [[How to Be an Agent Boss- Leading AI Agents at Work]] _(40m)_
+1. [Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required](../../../Courses/DevOps/Ai%20Agents%20For%20Everyday%20Professionals%20Simple%20Automations%20To%20Speed%20Up%20Your%20Work%20No%20Code%20Required.md)
+2. [From Tool to Teammates- Working Smarter with AI](../../../Courses/DevOps/From%20Tool%20to%20Teammates-%20Working%20Smarter%20with%20AI.md) _(1h 46m)_
+3. [How to Be an Agent Boss- Leading AI Agents at Work](../../../Courses/DevOps/How%20to%20Be%20an%20Agent%20Boss-%20Leading%20AI%20Agents%20at%20Work.md) _(40m)_
 
 ## Course Flow
 
-1. [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]] → 2. [[From Tool to Teammates- Working Smarter with AI]] → 3. [[How to Be an Agent Boss- Leading AI Agents at Work]]
+1. [Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required](../../../Courses/DevOps/Ai%20Agents%20For%20Everyday%20Professionals%20Simple%20Automations%20To%20Speed%20Up%20Your%20Work%20No%20Code%20Required.md) → 2. [From Tool to Teammates- Working Smarter with AI](../../../Courses/DevOps/From%20Tool%20to%20Teammates-%20Working%20Smarter%20with%20AI.md) → 3. [How to Be an Agent Boss- Leading AI Agents at Work](../../../Courses/DevOps/How%20to%20Be%20an%20Agent%20Boss-%20Leading%20AI%20Agents%20at%20Work.md)
 
 ## Topics
 
-- [[DevOps]]
-- [[Network and System Administration]]
+- [DevOps](../../../Topics/DevOps.md)
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[DevOps]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [DevOps](../../../Topics/DevOps.md)

@@ -17,14 +17,14 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQERJBBzOU5xnw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1696815253240?e=2147483647&amp;v=beta&amp;t=FeCmMitb3aCc0lJNhtkAuIiD2OZ9LOeFDCQPyAXzi0U"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Hands-On Healthcare Analytics]]'
-  - '[[Python for Data Professionals in Healthcare]]'
+  - '[Hands-On Healthcare Analytics](../../Paths/Data%20Science/Learning%20Paths/Hands-On%20Healthcare%20Analytics.md)'
+  - '[Python for Data Professionals in Healthcare](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Python%20for%20Data%20Professionals%20in%20Healthcare.md)'
 prev_courses:
-  - '[[Excel for Healthcare- Practical Applications and Skills]]'
+  - '[Excel for Healthcare- Practical Applications and Skills](Excel%20for%20Healthcare-%20Practical%20Applications%20and%20Skills.md)'
   - null
 next_courses:
-  - '[[Python Data Analysis for Healthcare]]'
-  - '[[Python Data Analysis for Healthcare]]'
+  - '[Python Data Analysis for Healthcare](Python%20Data%20Analysis%20for%20Healthcare.md)'
+  - '[Python Data Analysis for Healthcare](Python%20Data%20Analysis%20for%20Healthcare.md)'
 path_nav: '[{"path":"Hands-On Healthcare Analytics","position":3,"total":8,"prev":"Excel for Healthcare- Practical Applications and Skills","next":"Python Data Analysis for Healthcare"},{"path":"Python for Data Professionals in Healthcare","position":1,"total":5,"prev":null,"next":"Python Data Analysis for Healthcare"}]'
 path_count: 2
 tags:
@@ -135,11 +135,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=0)** - [Instructor] Across industries and continents, learning to program increases the range of what you can aspire to, and how to understand and contribute to the digital world. In this course, I will teach you the fundamentals of [[Python (Programming Language)|Python]] programming from a health science and healthcare perspective. As health sciences continue to evolve, computer programs need to keep up. So thinking like a coder and a health scientist will give you a unique advantage. My name is Wuraola Oyewusi, and welcome to Python for Health Sciences in Healthcare on [[LinkedIn]] learning. I remember writing my first line of code just like you, and how life-changing that has been for me. So this course is designed to offer step-by-step guidance to help build your Python proficiency and get coding immediately.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=0)** - [Instructor] Across industries and continents, learning to program increases the range of what you can aspire to, and how to understand and contribute to the digital world. In this course, I will teach you the fundamentals of [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) programming from a health science and healthcare perspective. As health sciences continue to evolve, computer programs need to keep up. So thinking like a coder and a health scientist will give you a unique advantage. My name is Wuraola Oyewusi, and welcome to Python for Health Sciences in Healthcare on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) learning. I remember writing my first line of code just like you, and how life-changing that has been for me. So this course is designed to offer step-by-step guidance to help build your Python proficiency and get coding immediately.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** python (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -148,11 +148,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-for-health-sciences-and-healthcare?u=76281980&t=0)** - [Narrator] This course is designed for total beginners. Anyone interested in getting started with [[Python (Programming Language)|Python]] programming can take this, but all the examples and use cases are intentionally focused on health science and healthcare. The goal is to help you incorporate Python programming into your work in health sciences. So it is great for healthcare professionals or anyone in or interested in the field of healthcare. But the knowledge is useful beyond healthcare. Even if you're giving programming a shot for the first time or just starting to learn Python, this course will be a good supplement. This is a guided course, so I encourage you not to skip any steps. Code along as I deep dive into each concept and code snippets. At the end of this course, my expectation is not only that you understand Python programming better but you also have a roadmap for how to apply Python to the work that you do in the health sector. Healthcare programmers tend to write complicated code, so my goal is to help you on your intuition and rationale behind your programming decisions too.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-for-health-sciences-and-healthcare?u=76281980&t=0)** - [Narrator] This course is designed for total beginners. Anyone interested in getting started with [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) programming can take this, but all the examples and use cases are intentionally focused on health science and healthcare. The goal is to help you incorporate Python programming into your work in health sciences. So it is great for healthcare professionals or anyone in or interested in the field of healthcare. But the knowledge is useful beyond healthcare. Even if you're giving programming a shot for the first time or just starting to learn Python, this course will be a good supplement. This is a guided course, so I encourage you not to skip any steps. Code along as I deep dive into each concept and code snippets. At the end of this course, my expectation is not only that you understand Python programming better but you also have a roadmap for how to apply Python to the work that you do in the health sector. Healthcare programmers tend to write complicated code, so my goal is to help you on your intuition and rationale behind your programming decisions too.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (5)
 > **CLI Commands:** python (5)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
@@ -167,7 +167,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980&t=0)** - [Instructor] Programming is how we instruct computers to perform specific actions. It's how humans and computers communicate. For example, when you clicked the play symbol to view this video, your device knew exactly what to do because of how it was programmed. A programmer writes code or instructions for your computer to follow. That code might instruct the computer to solve a problem or perform a task, like making this video play. And in computer science, we use the term [[Algorithms]] to indicate code that has highly optimized design. The documented history of programming goes as far back as the 19th century when Ada Lovelace wrote an algorithm for the analytical engine. She instructed the machine to calculate a series of numbers. She's credited as being the world's first coder. Programming then evolved from specific domains where the focus was on particular use cases, to more flexible, general purpose cases. This was applied across a range of fields and industries. And now we use programming in just about every aspect of our daily lives. In fact, if you've carried out a process sequentially or set logical rules, you've probably created an algorithm without even knowing it. Let's consider the example of dispensing medication to an outpatient. You first check that you have the right patient. Then check the prescriber's information.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980&t=0)** - [Instructor] Programming is how we instruct computers to perform specific actions. It's how humans and computers communicate. For example, when you clicked the play symbol to view this video, your device knew exactly what to do because of how it was programmed. A programmer writes code or instructions for your computer to follow. That code might instruct the computer to solve a problem or perform a task, like making this video play. And in computer science, we use the term [Algorithms](../../Skills/Software%20Development/Algorithms.md) to indicate code that has highly optimized design. The documented history of programming goes as far back as the 19th century when Ada Lovelace wrote an algorithm for the analytical engine. She instructed the machine to calculate a series of numbers. She's credited as being the world's first coder. Programming then evolved from specific domains where the focus was on particular use cases, to more flexible, general purpose cases. This was applied across a range of fields and industries. And now we use programming in just about every aspect of our daily lives. In fact, if you've carried out a process sequentially or set logical rules, you've probably created an algorithm without even knowing it. Let's consider the example of dispensing medication to an outpatient. You first check that you have the right patient. Then check the prescriber's information.
 >
 > **[1:35](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980&t=95)** You check if there's a coherence between the patient's condition and the prescribed medications. You check the dosage and strength. You label appropriately with the right instructions. Then you dispense, counsel and share next steps. This is an example of the same kind of steps taken by an algorithm. So what is programming? Programming is how to translate algorithms to code, executable by a computer. When writing programs, there are five core principles for managing the big picture. First, efficiency. A good programmer aims to optimize algorithms and resources for the best performance and speed. Next, simplicity. Code that is too difficult to understand is just bad code. Next, reusability. Good code is designed to be reusable in your current project or even other projects with similar use cases. Well-written code is also debuggable. A good programmer takes steps to identify errors and exceptions, and fix any issues. Finally, code is interesting and usually a team effort. So great documentation in the form of comments and descriptions are the backbone for continuity and scale. You want your program to outlive your time on a project.
 >
@@ -175,7 +175,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3)
+> **Frameworks & Libraries:** [Algorithms](../../Skills/Software%20Development/Algorithms.md) (3)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [instructor] (1)
@@ -184,21 +184,21 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=0)** - [Instructor] Like human languages, there are different programming languages too. Programming languages are formal languages used to write instructions that computers can understand and execute. They have defined syntax and semantics, and [[Algorithms]] can be implemented in different languages depending on the use case. Programming languages can be classified using different criteria. This criteria are not exclusive, meaning two programming languages may belong to the same class under one criterion, but different under another. Let's look at the few ways to classify programming languages. For instance, we can classify programming languages based on paradigm. A paradigm is another way to say strategy. All programming languages need to follow some strategy when they are implemented, so we call that a paradigm. So you can classify languages based on their paradigm. Object-oriented languages emphasize the concept of objects in classes, inheritance and polymorphism. Examples of those languages are [[Python (Programming Language)|Python]], [[Java]], C++, and Ruby.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=0)** - [Instructor] Like human languages, there are different programming languages too. Programming languages are formal languages used to write instructions that computers can understand and execute. They have defined syntax and semantics, and [Algorithms](../../Skills/Software%20Development/Algorithms.md) can be implemented in different languages depending on the use case. Programming languages can be classified using different criteria. This criteria are not exclusive, meaning two programming languages may belong to the same class under one criterion, but different under another. Let's look at the few ways to classify programming languages. For instance, we can classify programming languages based on paradigm. A paradigm is another way to say strategy. All programming languages need to follow some strategy when they are implemented, so we call that a paradigm. So you can classify languages based on their paradigm. Object-oriented languages emphasize the concept of objects in classes, inheritance and polymorphism. Examples of those languages are [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md), [Java](../../Skills/Software%20Development/Java.md), C++, and Ruby.
 >
-> **[1:22](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=82)** Functional languages emphasize immutability and involves computation as the evaluation of mathematical functions. Examples are [[Scala]], Closure, AscW. Procedural languages emphasize procedures and functions where a step-by-step approach is applied. Examples are C, basic, Pascal, COBOL, and Fortran. Declarative languages specify what needs to be done rather than how to do it. Examples are [[SQL]], ATML, and prologue. Aside from paradigm, programming languages can be classified by level of abstraction. Abstraction has to do with complexity. It's a way to hide unnecessary details from the user. This allows for more efficient design and implementation in complex systems. Low-level abstraction languages are close to the other way. There's little to no abstraction. They tend to be device specific. Examples are binary code, assembly language, and machine code. High-level language is a human readable code, independent of device and easier to use. Examples are Python, Java, GO, [[Rust (Programming Language)|Rust]], [[PHP]]. Some classification have middle-level languages
+> **[1:22](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=82)** Functional languages emphasize immutability and involves computation as the evaluation of mathematical functions. Examples are [Scala](../../Skills/Software%20Development/Scala.md), Closure, AscW. Procedural languages emphasize procedures and functions where a step-by-step approach is applied. Examples are C, basic, Pascal, COBOL, and Fortran. Declarative languages specify what needs to be done rather than how to do it. Examples are [SQL](../../Skills/Data%20Science/SQL.md), ATML, and prologue. Aside from paradigm, programming languages can be classified by level of abstraction. Abstraction has to do with complexity. It's a way to hide unnecessary details from the user. This allows for more efficient design and implementation in complex systems. Low-level abstraction languages are close to the other way. There's little to no abstraction. They tend to be device specific. Examples are binary code, assembly language, and machine code. High-level language is a human readable code, independent of device and easier to use. Examples are Python, Java, GO, [Rust](../../Skills/Software%20Development/Rust%20(Programming%20Language).md), [PHP](../../Skills/Software%20Development/PHP.md). Some classification have middle-level languages
 >
 > **[2:57](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=177)** with hybrid advantages. For example, C, Basic, Fortran, C++. Another approach to classifying programming languages is based on compilation. Compilation has to do with transforming a program written in high-level language into something the machine can read. Different languages handle this differently. Compiled languages mean the source code is translated into machine code using the compiler. They have the advantage of speed and granular control resources. Java, Go, Rust, C, and C++ are examples of this.
 >
-> **[3:43](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=223)** Interpreted languages are not compiled directly into the machine code. They are executed by an interpreter, which translates and execute the instructions line by line at run time. Some examples might be Python, PHP, Ruby, and [[JavaScript]].
+> **[3:43](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=223)** Interpreted languages are not compiled directly into the machine code. They are executed by an interpreter, which translates and execute the instructions line by line at run time. Some examples might be Python, PHP, Ruby, and [JavaScript](../../Skills/Software%20Development/JavaScript.md).
 >
-> **[4:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=244)** Again, languages can be hybrid, compiled, and interpreted. A fourth way to classify programming languages is based on purpose. Programming can be general, which is versatile with a broad set of features that can be applied in different fields. Python, Ruby, [[Swift (Programming Language)|Swift]], PHP, for example. Or you can have domain specific languages, DSL, with limited but specialized scope to particular use cases. For example, structured query language, SQL, for managing [[Relational Databases]], MATLAB for numerical and scientific computation, and [[SaaS]] for data analysis. Finally, you can classify programming languages based on different applications in the languages that are the most popular for each one. For [[Data Science]] and AI, the framework in libraries are usually written in Python, R, and sometimes Julia. The languages of [[Web Development]], like for websites and web applications are [[HTML]], JavaScript, CSS, PHP, Python, Ruby, and even Java.
+> **[4:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=244)** Again, languages can be hybrid, compiled, and interpreted. A fourth way to classify programming languages is based on purpose. Programming can be general, which is versatile with a broad set of features that can be applied in different fields. Python, Ruby, [Swift](../../Skills/Mobile%20Development/Swift%20(Programming%20Language).md), PHP, for example. Or you can have domain specific languages, DSL, with limited but specialized scope to particular use cases. For example, structured query language, SQL, for managing [Relational Databases](../../Skills/Software%20Development/Relational%20Databases.md), MATLAB for numerical and scientific computation, and [SaaS](../../Glossary/Concept/SaaS.md) for data analysis. Finally, you can classify programming languages based on different applications in the languages that are the most popular for each one. For [Data Science](../../Topics/Data%20Science.md) and AI, the framework in libraries are usually written in Python, R, and sometimes Julia. The languages of [Web Development](../../Topics/Web%20Development.md), like for websites and web applications are [HTML](../../Skills/Web%20Development/HTML.md), JavaScript, CSS, PHP, Python, Ruby, and even Java.
 >
-> **[5:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=330)** For [[Mobile Development]], Java and [[Kotlin]] are common languages for [[Android]], while Swift and Objective are common for [[iOS Development]]. For low-level programming like in [[Hardware]], operating systems, system and embedded languages are common like C, C++, and Rust. As you can see, there are tons of programming languages, so think about your ideal classification before you start coding.
+> **[5:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=330)** For [Mobile Development](../../Topics/Mobile%20Development.md), Java and [Kotlin](../../Skills/Software%20Development/Kotlin.md) are common languages for [Android](../../Glossary/Sdk/Android.md), while Swift and Objective are common for [iOS Development](../../Skills/Mobile%20Development/iOS%20Development.md). For low-level programming like in [Hardware](../../Topics/Hardware.md), operating systems, system and embedded languages are common like C, C++, and Rust. As you can see, there are tons of programming languages, so think about your ideal classification before you start coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Java]] (5), [[PHP]] (4), [[Rust (Programming Language)|Rust]] (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (6), [Java](../../Skills/Software%20Development/Java.md) (5), [PHP](../../Skills/Software%20Development/PHP.md) (4), [Rust](../../Skills/Software%20Development/Rust%20(Programming%20Language).md) (3), [SQL](../../Skills/Data%20Science/SQL.md) (2)
 > **CLI Commands:** python (6), ruby (4), php (4)
 > **Env Vars:** php (4), sql (2), cobol (1), atml (1), dsl (1)
 > **Analogies:** for example (3), for instance (1)
@@ -211,13 +211,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-editors?u=76281980&t=0)** - [Instructor] Code editors are not people. Code editors are actually software that provide an interface for code writing and editing. Think of it like a prescription pad where prescribers write instructions about which medications to dispense. Code are file documents. So if your code is formatted well, you can write it in plain text files and save it as the target's file type. Code editors provide functions like syntax highlights, auto-completion, indentation, and spacing, which improves productivity. Code editors are also typically language-agnostic. So they can support multiple programming languages. You can also find platform-specific code editors like Notepad++ for [[Windows]], or TextEdit for macOS, or cross-platform editors like Atom, Sublime, Vim, and Visual Studio Code. This is what some of the editor interfaces look like. This is Notepad++, and this is Atom in dark mode. It's definitely has the programmer vibe. For most editors, you can change the theme to the available color of choice. Programming jobs are here to stay, and code editors make that job a bit easier, especially in an industry with massive amount of custom code like health sciences.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-editors?u=76281980&t=0)** - [Instructor] Code editors are not people. Code editors are actually software that provide an interface for code writing and editing. Think of it like a prescription pad where prescribers write instructions about which medications to dispense. Code are file documents. So if your code is formatted well, you can write it in plain text files and save it as the target's file type. Code editors provide functions like syntax highlights, auto-completion, indentation, and spacing, which improves productivity. Code editors are also typically language-agnostic. So they can support multiple programming languages. You can also find platform-specific code editors like Notepad++ for [Windows](../../Glossary/Service/Windows.md), or TextEdit for macOS, or cross-platform editors like Atom, Sublime, Vim, and Visual Studio Code. This is what some of the editor interfaces look like. This is Notepad++, and this is Atom in dark mode. It's definitely has the programmer vibe. For most editors, you can change the theme to the available color of choice. Programming jobs are here to stay, and code editors make that job a bit easier, especially in an industry with massive amount of custom code like health sciences.
 >
 > **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-editors?u=76281980&t=93)** So make sure you're familiar with the code editors. Your code will thank you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1)
+> **Frameworks & Libraries:** [Windows](../../Glossary/Service/Windows.md) (1)
 > **Tools:** atom (2), sublime (1), vim (1), visual studio (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** macos (1)
@@ -228,13 +228,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=0)** - [Narrator] Integrated Development Environments software, or IDEs, is a comprehensive workspace. Think of them as code editors on steroids where there is code writing, editing, testing, versioning, auto-complete, and automated code deployment in one place. For context, think of it as prescription pad, but beyond just writing a prescription, it also has an embedded dosage verifier, quantity checker, and drug interaction checker, all in [[Real-Time]] as the prescription is being written. While there are IDEs that support multiple programming languages, there are also specialized one targeted towards programmers in a particular language. These offer supporting syntax and highlight errors for the focus language, direct interaction for code versioning, and syncing with repositories. And IDEs can test and debug code in real-time. IDEs can also be offline or online. Because there's an active ecosystem in community of programmers, there are many plugins that can improve a user's experience when using IDEs. Here are a few examples of programming languages and the IDEs that support them. For [[Python (Programming Language)|Python]], look at IDEs searches, PyCharm, Visual Studio Code, and Jupyter Notebook.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=0)** - [Narrator] Integrated Development Environments software, or IDEs, is a comprehensive workspace. Think of them as code editors on steroids where there is code writing, editing, testing, versioning, auto-complete, and automated code deployment in one place. For context, think of it as prescription pad, but beyond just writing a prescription, it also has an embedded dosage verifier, quantity checker, and drug interaction checker, all in [Real-Time](../../Skills/Database%20Management/Real-Time.md) as the prescription is being written. While there are IDEs that support multiple programming languages, there are also specialized one targeted towards programmers in a particular language. These offer supporting syntax and highlight errors for the focus language, direct interaction for code versioning, and syncing with repositories. And IDEs can test and debug code in real-time. IDEs can also be offline or online. Because there's an active ecosystem in community of programmers, there are many plugins that can improve a user's experience when using IDEs. Here are a few examples of programming languages and the IDEs that support them. For [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md), look at IDEs searches, PyCharm, Visual Studio Code, and Jupyter Notebook.
 >
-> **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=93)** For [[Java]], look at the Eclips, IntelliJ IDEA, Visual Studio Code. And for C, look at Eclipse CDT, Code::Blocks, Visual Studio Code. IDEs are incredibly useful in any programmer's toolkit and there are many plugins and options for you to explore. You can even find IDE communities around your specific programming language, and sometimes in your specific industry, like healthcare. Do not be afraid to try them out, the internet is generous.
+> **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=93)** For [Java](../../Skills/Software%20Development/Java.md), look at the Eclips, IntelliJ IDEA, Visual Studio Code. And for C, look at Eclipse CDT, Code::Blocks, Visual Studio Code. IDEs are incredibly useful in any programmer's toolkit and there are many plugins and options for you to explore. You can even find IDE communities around your specific programming language, and sometimes in your specific industry, like healthcare. Do not be afraid to try them out, the internet is generous.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [Real-Time](../../Skills/Database%20Management/Real-Time.md) (2), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1), [Java](../../Skills/Software%20Development/Java.md) (1)
 > **Tools:** visual studio (3), pycharm (1), jupyter (1), intellij (1)
 > **Env Vars:** idea (1), cdt (1), ide (1)
 > **CLI Commands:** python (1), find (1)
@@ -260,13 +260,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980&t=0)** - [Instructor] As you interact more with code, you will notice a few extra numbers behind the code. This is the version number, for example, [[Python (Programming Language)|Python]] 2 and Python 3 are programming languages, but other hierarchies can also have version numbers. For example, the latest release of [[Pandas (Software)|pandas]], the Python library, is version 2.0.2. Before that, there was 2.0.1, before that, version 2.0.0, and so on. A version number changes typically when changes are made to the original code base. Changes can be deletions, additions, or modification, and it doesn't always mean that the previous version will stop working. These changes are usually well-documented in release notes. For example, here you can see the release notes for Python 3.11.0, for when Python 3.11 was released, compared to Python 3.10. Let's take a look at Python 2.0.2, and see the anatomy of what each element means. The three version numbers correspond to major changes, minor changes, and patch changes. The library name is pandas. Then we have 2 for a major change.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980&t=0)** - [Instructor] As you interact more with code, you will notice a few extra numbers behind the code. This is the version number, for example, [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) 2 and Python 3 are programming languages, but other hierarchies can also have version numbers. For example, the latest release of [pandas](../../Skills/Software%20Development/Pandas%20(Software).md), the Python library, is version 2.0.2. Before that, there was 2.0.1, before that, version 2.0.0, and so on. A version number changes typically when changes are made to the original code base. Changes can be deletions, additions, or modification, and it doesn't always mean that the previous version will stop working. These changes are usually well-documented in release notes. For example, here you can see the release notes for Python 3.11.0, for when Python 3.11 was released, compared to Python 3.10. Let's take a look at Python 2.0.2, and see the anatomy of what each element means. The three version numbers correspond to major changes, minor changes, and patch changes. The library name is pandas. Then we have 2 for a major change.
 >
 > **[1:35](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980&t=95)** Major changes to a version might look like pandas 1 to pandas 2. A major version update means there will be code incompatibilities if you don't update to the latest major version, so it's very important to at least keep your program updated to the right major version. Next, we have 0 for minor changes. Minor changes might be something like pandas 2.0.2 to pandas, 2.1.2. Minor changes hardly causes incompatibility issues, but if you get an error message, check that you have the latest version, including the minor version. Finally, we have another 2 for a patch change. Patch changes are typically pandas 2.0.2, to pandas 2.0.3, and they shouldn't affect compatibility. But again, if you get an error message, make sure you're working on the latest version. By now, you should have a better intuition of how this works, because sometimes the errors in your code are due to this version incompatibilities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (7)
+> **Frameworks & Libraries:** [Pandas](../../Skills/Software%20Development/Pandas%20(Software).md) (8), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (7)
 > **Versions:** python 3 (4), python 2 (2), version 2 (2), 0.2 (2), 2.0.2 (2)
 > **CLI Commands:** python (7), make (1)
 > **Analogies:** for example (3)
@@ -276,13 +276,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=0)** - [Narrator] So you have all this code written, but where does the code go? And how do people collaborate on code? Imagine someone new takes over a code base or hundreds of people are working on one big code. How is it all managed? That's where [[Version Control]] and repositories come in. Version control allows you to manage and track changes to code and other file types. It preserves history of revisions and facilitates collaboration. That means you can switch between different versions. In programming, the common tool for this is called [[Git]]. Git is a version control system used for tracking changes in code files. As part of Git, you often hear of something called a Git repository. A repository or sometimes shorten into repo is a centralized storage where code and other file types are stored and managed. Repositories can have many collaboration settings. They can be individual or organizational. They can be local, meaning a repository or non individual machine or on cloud, or private with restricted role access, or public where anyone can contribute. In all of those cases though, version control keeps a history of any changes and collaborations in the repository. Some of the most popular code repos are [[GitHub]], GitLab and [[Bitbucket]]. This is not the deep dive into this concept,
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=0)** - [Narrator] So you have all this code written, but where does the code go? And how do people collaborate on code? Imagine someone new takes over a code base or hundreds of people are working on one big code. How is it all managed? That's where [Version Control](../../Skills/Web%20Development/Version%20Control.md) and repositories come in. Version control allows you to manage and track changes to code and other file types. It preserves history of revisions and facilitates collaboration. That means you can switch between different versions. In programming, the common tool for this is called [Git](../../Skills/Software%20Development/Git.md). Git is a version control system used for tracking changes in code files. As part of Git, you often hear of something called a Git repository. A repository or sometimes shorten into repo is a centralized storage where code and other file types are stored and managed. Repositories can have many collaboration settings. They can be individual or organizational. They can be local, meaning a repository or non individual machine or on cloud, or private with restricted role access, or public where anyone can contribute. In all of those cases though, version control keeps a history of any changes and collaborations in the repository. Some of the most popular code repos are [GitHub](../../Skills/Software%20Development/GitHub.md), GitLab and [Bitbucket](../../Skills/Software%20Development/Bitbucket.md). This is not the deep dive into this concept,
 >
 > **[1:34](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=94)** but it is important you're aware of all repos and version control work. You will encounter them often as you become a better programmer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (5), [[Git]] (4), [[GitHub]] (1), [[Bitbucket]] (1)
+> **Frameworks & Libraries:** [Version Control](../../Skills/Web%20Development/Version%20Control.md) (5), [Git](../../Skills/Software%20Development/Git.md) (4), [GitHub](../../Skills/Software%20Development/GitHub.md) (1), [Bitbucket](../../Skills/Software%20Development/Bitbucket.md) (1)
 > **CLI Commands:** git (4)
 > **Tools:** github (1), gitlab (1), bitbucket (1)
 > **Definitions:** is a  (2), is called (1)
@@ -293,13 +293,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/package-managers-and-installers?u=76281980&t=0)** - [Instructor] Imagine you order the new laboratory refrigerator. Someone at the warehouse will need to pack it up and ship to you. And then someone will need to install it. Think of code the same way. Code is reusable, so we use package managers to install packages, libraries, and modules in our workspace. And instead of people like in a lab refrigerator example, code package managers and installers are software. A package manager is the centralized repository of code packages. It makes it easy to download, distribute, install, update, delete and manage software libraries and packages. Its ecosystem is supported and maintained by community effort. So when making libraries and packages, package manager compatibility is a priority. A package installer is a software tool that enables the installation and distribution of libraries and packages from package managers or enabled repositories. Programming languages are dedicated package managers. For example, [[Python (Programming Language)|Python]] Package Index, PyPI for Python, node package manager, [[npm]], registry for [[Node.js]], a [[JavaScript]] runtime, advanced packaging tool, APT, for Debian [[Linux]] operating systems. The corresponding installers for the package managers are Pip for PyPI,
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/package-managers-and-installers?u=76281980&t=0)** - [Instructor] Imagine you order the new laboratory refrigerator. Someone at the warehouse will need to pack it up and ship to you. And then someone will need to install it. Think of code the same way. Code is reusable, so we use package managers to install packages, libraries, and modules in our workspace. And instead of people like in a lab refrigerator example, code package managers and installers are software. A package manager is the centralized repository of code packages. It makes it easy to download, distribute, install, update, delete and manage software libraries and packages. Its ecosystem is supported and maintained by community effort. So when making libraries and packages, package manager compatibility is a priority. A package installer is a software tool that enables the installation and distribution of libraries and packages from package managers or enabled repositories. Programming languages are dedicated package managers. For example, [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) Package Index, PyPI for Python, node package manager, [npm](../../Skills/Web%20Development/npm.md), registry for [Node.js](../../Skills/Web%20Development/Node.js.md), a [JavaScript](../../Skills/Software%20Development/JavaScript.md) runtime, advanced packaging tool, APT, for Debian [Linux](../../Skills/Network%20and%20System%20Administration/Linux.md) operating systems. The corresponding installers for the package managers are Pip for PyPI,
 >
 > **[1:37](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/package-managers-and-installers?u=76281980&t=97)** npm for npm registry, and apt-get for APT. This means, these are keywords to install the library or package in their ecosystem. So every time you do a Pip install, you know you're using the PyPI or Python package indexed as your package manager. So just like all the coordination it takes to get the lab refrigerator from a factory to your laboratory, think of programming software as getting your code where it needs to go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[npm]] (3), [[Node.js]] (1), [[JavaScript]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3), [npm](../../Skills/Web%20Development/npm.md) (3), [Node.js](../../Skills/Web%20Development/Node.js.md) (1), [JavaScript](../../Skills/Software%20Development/JavaScript.md) (1), [Linux](../../Skills/Network%20and%20System%20Administration/Linux.md) (1)
 > **CLI Commands:** python (3), npm (3), apt (3), node (2), pip (2)
 > **Prerequisites:** install (5)
 > **Analogies:** imagine (1), for example (1), just like (1)
@@ -312,13 +312,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=0)** - [Instructor] We've been talking a lot about [[Python (Programming Language)|Python]] in this course so far, but what is Python? Are we referring to the snake? No, it's the programming language. Python is an open source programming language invented by Guido Van Rossum, a Dutch computer programmer. The very first version, 0.9.0 was released in 1991 and it's named after a popular committee group called Monty Python. It was designed to be a programming language that is readable, simple, and expressive. In fact, in any code editor, if you're working with Python, you can type import this. The output will be the Zen of Python, a more detailed philosophy of the ideals of the language. There have been three major versions: Python 1.0 released in 1994, Python 2 released in 2000, and Python 3, the most current version, released in 2008. There have been minor updates to version three, so at the time of this recording, the most up-to-date version is Python 3.11, released in October of 2022. Python is a general purpose, high-level interpreted language, and it supports a number of programming paradigms, including object-oriented, procedural, and [[Functional Programming]]. It is also a scripting language. Python is versatile and applied across a range of use cases,
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=0)** - [Instructor] We've been talking a lot about [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) in this course so far, but what is Python? Are we referring to the snake? No, it's the programming language. Python is an open source programming language invented by Guido Van Rossum, a Dutch computer programmer. The very first version, 0.9.0 was released in 1991 and it's named after a popular committee group called Monty Python. It was designed to be a programming language that is readable, simple, and expressive. In fact, in any code editor, if you're working with Python, you can type import this. The output will be the Zen of Python, a more detailed philosophy of the ideals of the language. There have been three major versions: Python 1.0 released in 1994, Python 2 released in 2000, and Python 3, the most current version, released in 2008. There have been minor updates to version three, so at the time of this recording, the most up-to-date version is Python 3.11, released in October of 2022. Python is a general purpose, high-level interpreted language, and it supports a number of programming paradigms, including object-oriented, procedural, and [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md). It is also a scripting language. Python is versatile and applied across a range of use cases,
 >
-> **[1:36](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=96)** from data analysis to [[Data Science]], [[Artificial Intelligence (AI)|artificial intelligence]], [[Web Development]], [[Internet of Things (IoT)|internet of things]], [[Game Development]], and desktop applications. Python is one of the easier coding languages to learn, so it's great for beginners. It also has a large community of users, it's in demand and offers a good career growth, so learning how to code with Python is a valuable skill and it's worth trying to master it.
+> **[1:36](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=96)** from data analysis to [Data Science](../../Topics/Data%20Science.md), [artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md), [Web Development](../../Topics/Web%20Development.md), [internet of things](../../Skills/Software%20Development/Internet%20of%20Things%20(IoT).md), [Game Development](../../Skills/Software%20Development/Game%20Development.md), and desktop applications. Python is one of the easier coding languages to learn, so it's great for beginners. It also has a large community of users, it's in demand and offers a good career growth, so learning how to code with Python is a valuable skill and it's worth trying to master it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Functional Programming]] (1), [[Data Science]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (14), [Functional Programming](../../Skills/Software%20Development/Functional%20Programming.md) (1), [Data Science](../../Topics/Data%20Science.md) (1), [Artificial intelligence](../../Topics/Artificial%20Intelligence%20(AI).md) (1), [Web Development](../../Topics/Web%20Development.md) (1)
 > **CLI Commands:** python (14)
 > **Versions:** python 3 (2), 0.9.0 (1), python 1 (1), python 2 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -328,15 +328,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=0)** - [Instructor] Naming conventions are an important part of keeping your code organized. No matter what language you use, it's important to use the appropriate naming convention for that language. Good code is clean and understandable, so when writing [[Python (Programming Language)|Python]] code, the acceptable naming conventions ensures conformity to the established style, consistency across code bases, and readability. When naming variables in Python, you want names that are informative about the action or function. For example, if I were noting weights in laboratory specimen, it's more informative to name my variable specimen_weight_in_mg versus just specimen. Single character names will work fine, but they're unreasonable. Imagine naming a list of specimen as just S, that doesn't explain anything about the list. Use the themes that explain exactly what your variables represent. And especially if you're working with others, code base uniformity is very important. You may use an acceptable naming style in your own private workspace, but it may not be acceptable naming convention for a particular collaborative code base or workspace. So I advise all teams and organizations to document their accepted naming convention styles to make collaboration much easier and less prone to errors. Let's look at four naming conventions
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=0)** - [Instructor] Naming conventions are an important part of keeping your code organized. No matter what language you use, it's important to use the appropriate naming convention for that language. Good code is clean and understandable, so when writing [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) code, the acceptable naming conventions ensures conformity to the established style, consistency across code bases, and readability. When naming variables in Python, you want names that are informative about the action or function. For example, if I were noting weights in laboratory specimen, it's more informative to name my variable specimen_weight_in_mg versus just specimen. Single character names will work fine, but they're unreasonable. Imagine naming a list of specimen as just S, that doesn't explain anything about the list. Use the themes that explain exactly what your variables represent. And especially if you're working with others, code base uniformity is very important. You may use an acceptable naming style in your own private workspace, but it may not be acceptable naming convention for a particular collaborative code base or workspace. So I advise all teams and organizations to document their accepted naming convention styles to make collaboration much easier and less prone to errors. Let's look at four naming conventions
 >
-> **[1:34](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=94)** that you may encounter in Python. In Python, we have a standard naming convention called the snake case, where all the characters are in lower letters and connected by an underscore. For example, weight_of_specimen_in_mg is written here. Python's snake case is commonly used to name variables, functions, and methods. There is also camel case, where the first character is in lowercase, and others in uppercase. There are no spaces or partitions, as written here. It's called camel case because the capital letter, recall the humps on the camel. This style is suitable for naming variables, functions, and methods. Pascal case is when each [[Microsoft Word|word]] has the first letter capitalized, and there are no spaces or punctuation, like the name written here. Pascal case is suitable for naming classes, objects, and other higher entities. Finally, upper case, where all the characters are written in uppercase, and each word is separated by an underscore. This style is used to name constants, for example, maximum number of titrations, as written here. Explore which of those four naming conventions might be right for your program, or if you're programming in an established organization, familiarize yourself with the documented styles.
+> **[1:34](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=94)** that you may encounter in Python. In Python, we have a standard naming convention called the snake case, where all the characters are in lower letters and connected by an underscore. For example, weight_of_specimen_in_mg is written here. Python's snake case is commonly used to name variables, functions, and methods. There is also camel case, where the first character is in lowercase, and others in uppercase. There are no spaces or partitions, as written here. It's called camel case because the capital letter, recall the humps on the camel. This style is suitable for naming variables, functions, and methods. Pascal case is when each [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) has the first letter capitalized, and there are no spaces or punctuation, like the name written here. Pascal case is suitable for naming classes, objects, and other higher entities. Finally, upper case, where all the characters are written in uppercase, and each word is separated by an underscore. This style is used to name constants, for example, maximum number of titrations, as written here. Explore which of those four naming conventions might be right for your program, or if you're programming in an established organization, familiarize yourself with the documented styles.
 >
 > **[3:09](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=189)** In a high data field like healthcare or health sciences, it's extremely important to establish the consistent naming convention and stick to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (5), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2)
 > **CLI Commands:** python (5), make (1)
 > **Analogies:** for example (3), imagine (1)
 > **Code Identifiers:** specimen_weight_in_mg (1), weight_of_specimen_in_mg (1)
@@ -346,7 +346,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-keywords?u=76281980&t=0)** - [Instructor] Programming languages consist of keywords, special rules that coders use to produce a code output. Think of keywords like short phrases that help you, the coder, communicate complex instructions to the computer. Each language has its own set of unique keywords. [[Python (Programming Language)|Python]] keywords, for example, are reserved expressions that cannot be used as variable names or identifiers. If you attempt to use them as variable names, there is an exception. Keywords are a major part of Python syntax. As a reminder, syntax refers to the set of rules that define the structure and grammar of the programming language. So, using the keywords is really important if you want good, clean code. Let's look at some of the most common Python keywords and what they are related to. Keywords related to functions and classes are: def, return, class. Keywords related to module and object import are: import, from, as. Keywords related to exception handling are: try, except, raise, finally. Keywords related to conditional statements are: if, else, elif. Those related to loops are: for, in, while, and break.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-keywords?u=76281980&t=0)** - [Instructor] Programming languages consist of keywords, special rules that coders use to produce a code output. Think of keywords like short phrases that help you, the coder, communicate complex instructions to the computer. Each language has its own set of unique keywords. [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) keywords, for example, are reserved expressions that cannot be used as variable names or identifiers. If you attempt to use them as variable names, there is an exception. Keywords are a major part of Python syntax. As a reminder, syntax refers to the set of rules that define the structure and grammar of the programming language. So, using the keywords is really important if you want good, clean code. Let's look at some of the most common Python keywords and what they are related to. Keywords related to functions and classes are: def, return, class. Keywords related to module and object import are: import, from, as. Keywords related to exception handling are: try, except, raise, finally. Keywords related to conditional statements are: if, else, elif. Those related to loops are: for, in, while, and break.
 >
 > **[1:35](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-keywords?u=76281980&t=95)** Keywords related to booleans are: and, or, not.
 >
@@ -354,7 +354,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3)
 > **CLI Commands:** python (3)
 > **Definitions:** is an  (1), refers to (1)
 > **Analogies:** for example (1)
@@ -369,13 +369,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=0)** - [Instructor] During this course, our IDE, or integrated development environment, of choice is colaboratory notebook. This is an online Jupyter Notebook. To open your workspace, simply go to colab.research.[google.com](https://google.com). If you're logged onto a [[Google]] account, this opens directly to a welcome page showing you how it works. If not, there is a prompt for you to log in. To open a new notebook for a walk along, click on file at the top left corner and select new notebook. Now we have a new notebook with a generic file name called Untitled58 dot iPython in my case. It is good practice to change the name before you start coding. So let's name this demo one. The file is automatically saved into your drive in a folder called Colab Notebooks. One of the most important skills in programming is the ability to poke around. So click around and play with available icons to understand exactly what they do. So when we click connect, it connects us to runtime. Let's print the welcome statement in the first cell. Print. Welcome to [[Python (Programming Language)|Python]] for Health Sciences.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=0)** - [Instructor] During this course, our IDE, or integrated development environment, of choice is colaboratory notebook. This is an online Jupyter Notebook. To open your workspace, simply go to colab.research.[google.com](https://google.com). If you're logged onto a [Google](../../Glossary/Service/Google.md) account, this opens directly to a welcome page showing you how it works. If not, there is a prompt for you to log in. To open a new notebook for a walk along, click on file at the top left corner and select new notebook. Now we have a new notebook with a generic file name called Untitled58 dot iPython in my case. It is good practice to change the name before you start coding. So let's name this demo one. The file is automatically saved into your drive in a folder called Colab Notebooks. One of the most important skills in programming is the ability to poke around. So click around and play with available icons to understand exactly what they do. So when we click connect, it connects us to runtime. Let's print the welcome statement in the first cell. Print. Welcome to [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) for Health Sciences.
 >
 > **[1:39](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=99)** Then we click this icon to run it. Voila. We have our first out output and it works well. The goal of this course is to be hands on, so I encourage you to code along with me. The best way to learn is by doing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Google](../../Glossary/Service/Google.md) (2), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **Tools:** colab (2), jupyter (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -395,13 +395,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980&t=0)** - [Instructor] In this chapter, I'll show you how to handle common file operations with [[Python (Programming Language)|Python]]. To open the IPython files accomp in this course, click on File at the top left corner of the notebook, and select Upload notebook. Choose the file of interest and Open. Voila. You have the file open. If your goal is to create a Python file ending with .py, you're going to use the writefile magic command. So double modulo, writefile, space, demo_python_file.py.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980&t=0)** - [Instructor] In this chapter, I'll show you how to handle common file operations with [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md). To open the IPython files accomp in this course, click on File at the top left corner of the notebook, and select Upload notebook. Choose the file of interest and Open. Voila. You have the file open. If your goal is to create a Python file ending with .py, you're going to use the writefile magic command. So double modulo, writefile, space, demo_python_file.py.
 >
 > **[0:50](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980&t=50)** When we run the cell, we have successfully created an empty file called, demo_python_file.py.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **File Paths:** demo_python_file.py (2)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** demo_python_file (2)
@@ -416,13 +416,13 @@ created: 2026-05-03
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980&t=20)** becoming pythonista for health sciences.
 >
-> **[0:31](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980&t=31)** When you close, it will be saved. To confirm, you can click the filename again. There you have your content. Another approach is to use the with open method, so with open bracket, then we'll file a name for our path, w to show right as file colon file.write welcome again. This code is instructing [[Python (Programming Language)|Python]] to change the content in the demo_python file. Let's check what we have in our file now. It has overwritten the previous content. We now have a Python file with welcome again. You can download the file by clicking the three dots beside the file and select Download.
+> **[0:31](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980&t=31)** When you close, it will be saved. To confirm, you can click the filename again. There you have your content. Another approach is to use the with open method, so with open bracket, then we'll file a name for our path, w to show right as file colon file.write welcome again. This code is instructing [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) to change the content in the demo_python file. Let's check what we have in our file now. It has overwritten the previous content. We now have a Python file with welcome again. You can download the file by clicking the three dots beside the file and select Download.
 >
 > **[1:43](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980&t=103)** You have successfully learned two ways to write into .py files.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** demo_python_file (1), demo_python (1)
 > **File Paths:** demo_python_file.py (1)
@@ -434,7 +434,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/read-python-file?u=76281980&t=0)** - [Instructor] To practice how to read [[Python (Programming Language)|Python]] files, let's create a Python file called how to use a fume cupboard dot py.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/read-python-file?u=76281980&t=0)** - [Instructor] To practice how to read [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) files, let's create a Python file called how to use a fume cupboard dot py.
 >
 > **[0:15](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/read-python-file?u=76281980&t=15)** Now write in the document a step-by-step guide on how to use a fume cupboard in the laboratory. To read the file, first, we save our file path into a variable called file name. Then we'd open. File name. Comma, r, as file.
 >
@@ -444,7 +444,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 
@@ -457,7 +457,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980&t=0)** - [Instructor] Numeric data is one of the most important built-in data types in [[Python (Programming Language)|Python]], so it's important you understand how it works. This is fundamental to your proficiency in programming. Let's explore two types of numeric data, integers and floating data points. We'll start with integers. Begin by typing five in the code cell. It runs well and gives an output of five. It can go ahead and check the data type. The output is int which means integer, a valid data type. Now, let's assign five to a variable called sample numeric. The code run was successful, but there was no visible output. After assignments, you can view the value by running the variable name itself, or putting it in the print statement like this, print(sample_numeric). You can also check the data type of a named variable, so, type(sample_numeric). In this example, five represents the quantity of something. Anything from level of medication, strength, number of toes, length of treatment or experiment, any kind of quantifiable data. It's good practice to include the signifier
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980&t=0)** - [Instructor] Numeric data is one of the most important built-in data types in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md), so it's important you understand how it works. This is fundamental to your proficiency in programming. Let's explore two types of numeric data, integers and floating data points. We'll start with integers. Begin by typing five in the code cell. It runs well and gives an output of five. It can go ahead and check the data type. The output is int which means integer, a valid data type. Now, let's assign five to a variable called sample numeric. The code run was successful, but there was no visible output. After assignments, you can view the value by running the variable name itself, or putting it in the print statement like this, print(sample_numeric). You can also check the data type of a named variable, so, type(sample_numeric). In this example, five represents the quantity of something. Anything from level of medication, strength, number of toes, length of treatment or experiment, any kind of quantifiable data. It's good practice to include the signifier
 >
 > **[1:34](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980&t=94)** in the variable name. For example, strength of medication in milligram, number of x-ray machines, days of treatment. Now, let's look at floating data points. These are commonly called float. Type in 5.0 in the code cell and run. The output should be exactly what you type in. Now, let's check the type, type(5.0).
 >
@@ -467,7 +467,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **Versions:** 5.0 (3), 5.60 (2)
 > **Analogies:** for example (2), such as (1)
 > **Code Identifiers:** sample_numeric (2)
@@ -479,7 +479,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-data?u=76281980&t=0)** - [Instructor] Strings in [[Python (Programming Language)|Python]] are sequences of characters. Think alphabets and punctuations. A string is a data type that represents a sequence of characters. So that data is enclosed in either single quotes or double quotes. Let's practice implementing strings. Type, omeprazole is a proton pump inhibitor, in your code cell and run. Oops, syntax error invalid syntax. Now go ahead and copy the sentence into a single quote and run again. No error this time. Okay, repeat the above, but put in double quotes. It works too. Now let's try again, but in triple quotes.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-data?u=76281980&t=0)** - [Instructor] Strings in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) are sequences of characters. Think alphabets and punctuations. A string is a data type that represents a sequence of characters. So that data is enclosed in either single quotes or double quotes. Let's practice implementing strings. Type, omeprazole is a proton pump inhibitor, in your code cell and run. Oops, syntax error invalid syntax. Now go ahead and copy the sentence into a single quote and run again. No error this time. Okay, repeat the above, but put in double quotes. It works too. Now let's try again, but in triple quotes.
 >
 > **[1:08](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-data?u=76281980&t=68)** It works too. Congratulations, you've written your first sentence as a string in python. So why didn't it work the first time? Because strings always need to be enclosed in quotation marks. If you don't enclose your data in quotes it is not considered a string. So let's use a string to perform a function. Assign omeprazole to a variable code sample_string and print it. Now let's check the type using the built-in type method. Type sample_string. The output is string. Let's check a single character like K.
 >
@@ -491,7 +491,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (4)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** sample_string (2)
 > **Definitions:** is a  (2)
@@ -501,7 +501,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/boolean?u=76281980&t=0)** - [Instructor] In computer science, Boolean sometimes shorten to Bools refers to a data type that only has two values, true or false. A Boolean is a subtype of integers, and it's important to understand how to use them because we use them as we progress through this course. Let's practice implementing the Boolean. Type true in lowercase into your code cell and run. You get a Name Error. Name true is not defined. This means it was processed as a non-defined string, but when you type True with T in upper case, it is recognized as a [[Python (Programming Language)|Python]] expression and runs to give an output. Repeat the same with False. Again, make sure you capitalize the F. Now, check the data type, using the type method. The output is Bool confirming that this a Boolean. To understand keyword expressions in Python, you can assign Booleans to a variable. (no audio)
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/boolean?u=76281980&t=0)** - [Instructor] In computer science, Boolean sometimes shorten to Bools refers to a data type that only has two values, true or false. A Boolean is a subtype of integers, and it's important to understand how to use them because we use them as we progress through this course. Let's practice implementing the Boolean. Type true in lowercase into your code cell and run. You get a Name Error. Name true is not defined. This means it was processed as a non-defined string, but when you type True with T in upper case, it is recognized as a [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) expression and runs to give an output. Repeat the same with False. Again, make sure you capitalize the F. Now, check the data type, using the type method. The output is Bool confirming that this a Boolean. To understand keyword expressions in Python, you can assign Booleans to a variable. (no audio)
 >
 > **[1:25](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/boolean?u=76281980&t=85)** Or reset keyword expressions cannot be used as variable names. If you attempt that, you get the Syntax Error. Assign True to an equivalence of one. The output is True, confirming the numeric equivalence. When you repeat this with zero, the output is False. (no audio) Because zero is the numeric equivalence of false.
 >
@@ -509,7 +509,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **CLI Commands:** python (2), make (2)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -523,7 +523,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980&t=0)** - [Instructor] In this chapter, we'll cover basic [[Python (Programming Language)|Python]] [[Data Structures]]. Programming is intuitive. We might code six items in the same container, and that's where data structure comes in. Let's start with list, one of the most common data structures in Python. There's a range of things we can do with list. Let's look at how to implement and modify list. To make a list, first, you type a square bracket. If you run it, that's a valid empty list. You can go ahead and check the data type by using the type method. The output confirms that it's a list. We can go ahead and create a variable called sample_list containing a list of six common analgesics, paracetamol, aspirin, ibuprofen, naproxen,
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980&t=0)** - [Instructor] In this chapter, we'll cover basic [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) [Data Structures](../../Skills/Software%20Development/Data%20Structures.md). Programming is intuitive. We might code six items in the same container, and that's where data structure comes in. Let's start with list, one of the most common data structures in Python. There's a range of things we can do with list. Let's look at how to implement and modify list. To make a list, first, you type a square bracket. If you run it, that's a valid empty list. You can go ahead and check the data type by using the type method. The output confirms that it's a list. We can go ahead and create a variable called sample_list containing a list of six common analgesics, paracetamol, aspirin, ibuprofen, naproxen,
 >
 > **[1:09](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980&t=69)** piroxicam, and tramadol.
 >
@@ -545,7 +545,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Structures]] (4), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [Data Structures](../../Skills/Software%20Development/Data%20Structures.md) (4), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3)
 > **Code Identifiers:** sample_list_copy (4), sample_list (3), sample_list_numeric (2)
 > **CLI Commands:** python (3), make (2)
 > **Cross-References:** in the last (1)
@@ -594,7 +594,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/dictionaries?u=76281980&t=0)** - [Instructor] Dictionaries are one of the most useful [[Data Structures]] in [[Python (Programming Language)|Python]] programming. Dictionaries allow key-value pairs. In this case, the key must be unique and immutable. Let's create our first dictionary with some common analgesics in their dosage presentation. Paracetamol, 500 milligram. Ibuprofen, 200 milligram. Aspirin, 325 milligram. Tramadol, 50 milligram. Let's verify the data type. It's confirmed. We have our first dictionary. Let's create a dictionary code, sample_dictionary_antihypertensives, containing three classes of antihypertensives. The class name is the key, and the list of medication is the value. So we have three keys, diuretics, beta blockers, and ACEIs. Diuretics, spironolactone, furosemide, hydrochlorothiazide. Betablockers, atenolol, propranolol and metoprolol.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/dictionaries?u=76281980&t=0)** - [Instructor] Dictionaries are one of the most useful [Data Structures](../../Skills/Software%20Development/Data%20Structures.md) in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) programming. Dictionaries allow key-value pairs. In this case, the key must be unique and immutable. Let's create our first dictionary with some common analgesics in their dosage presentation. Paracetamol, 500 milligram. Ibuprofen, 200 milligram. Aspirin, 325 milligram. Tramadol, 50 milligram. Let's verify the data type. It's confirmed. We have our first dictionary. Let's create a dictionary code, sample_dictionary_antihypertensives, containing three classes of antihypertensives. The class name is the key, and the list of medication is the value. So we have three keys, diuretics, beta blockers, and ACEIs. Diuretics, spironolactone, furosemide, hydrochlorothiazide. Betablockers, atenolol, propranolol and metoprolol.
 >
 > **[1:44](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/dictionaries?u=76281980&t=104)** ACEIs, lisinopril, enalapril, ramipril.
 >
@@ -606,7 +606,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Structures]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3), [Data Structures](../../Skills/Software%20Development/Data%20Structures.md) (2)
 > **CLI Commands:** python (3), make (1)
 > **Code Identifiers:** sample_dictionary_antihypertensives (3), patient_info_dictionary (1)
 > **Env Vars:** acei (1)
@@ -617,11 +617,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-remove-an-element-from-a-list?u=76281980&t=0)** - [Instructor] To remove Cetirizine from the list of antihistamine here, we use the remove method and ensure that we write out the exact [[Microsoft Word|word]] to be removed. Let's go ahead and test the code. Our output is correct. The code returned the list of antihistamine without Cetirizine.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-remove-an-element-from-a-list?u=76281980&t=0)** - [Instructor] To remove Cetirizine from the list of antihistamine here, we use the remove method and ensure that we write out the exact [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) to be removed. Let's go ahead and test the code. Our output is correct. The code returned the list of antihistamine without Cetirizine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -645,7 +645,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980&t=0)** - [Instructor] In this chapter, we'll cover some basic operations you can perform in [[Python (Programming Language)|Python]]. We'll start with one of the most comprehensive, arithmetic operations. When coding in Python, arithmetic operations allows you to carry out a range of operations across a range of data types and structures. Let's look at some of these arithmetic operations. We'll start with addition. You can add integers. 4 plus 4. You can add floats too. 4.5 plus 4.5. And strings. Hydro added to chlorothiazide gives you hydrochlorothiazide. You can even add multiple lists together. Let's add these analgesics and their dosages in milligram in another list. Analgesics. Paracetamol, ibuprofen, and diclofenac.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980&t=0)** - [Instructor] In this chapter, we'll cover some basic operations you can perform in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md). We'll start with one of the most comprehensive, arithmetic operations. When coding in Python, arithmetic operations allows you to carry out a range of operations across a range of data types and structures. Let's look at some of these arithmetic operations. We'll start with addition. You can add integers. 4 plus 4. You can add floats too. 4.5 plus 4.5. And strings. Hydro added to chlorothiazide gives you hydrochlorothiazide. You can even add multiple lists together. Let's add these analgesics and their dosages in milligram in another list. Analgesics. Paracetamol, ibuprofen, and diclofenac.
 >
 > **[1:18](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980&t=78)** Dosage strength in milligram.
 >
@@ -677,7 +677,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3)
 > **Versions:** 4.5 (3), 3.124 (1), 5.4 (1), 591.6502400002 (1), 1.5 (1)
 > **CLI Commands:** python (3)
 > **Analogies:** imagine (1)
@@ -687,7 +687,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comparison-operations?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] comparison operators are the same as the ones you're probably used to and we've used some of them already in this course. If you've been paying attention, you will notice we've used the single equal sign to assign variables. If your goal is to check out equal to values, you will use the double equal sign so is 5 equal to 5.0. True. Let's check if this works for strings too. 500 milligram equal to 500 milligram.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comparison-operations?u=76281980&t=0)** - [Instructor] [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) comparison operators are the same as the ones you're probably used to and we've used some of them already in this course. If you've been paying attention, you will notice we've used the single equal sign to assign variables. If your goal is to check out equal to values, you will use the double equal sign so is 5 equal to 5.0. True. Let's check if this works for strings too. 500 milligram equal to 500 milligram.
 >
 > **[0:43](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comparison-operations?u=76281980&t=43)** The output is true, so it works. Let's see if we can use this operation to compare list. Make a list named analgesics and compare.
 >
@@ -701,7 +701,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** python (1), make (1)
 > **Versions:** 5.0 (2)
 > **Definitions:** is a  (1)
@@ -756,7 +756,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980&t=0)** - [Instructor] In this chapter, we're going to cover, common [[Python (Programming Language)|Python]] functions and statements. One of the interesting things about programming is reusability. Functions are an integral path of being able to reuse code in other programs. A function is the named block of code, that performs the specific action. To paint the vivid picture, we want to add two numbers, for the volume of lab reagents. Simply type 100 plus 100, or 200 plus 100 This isn't a big deal, if we need to do this like five times or maybe 10 times. But what if we need to do these a 100, or a 1000 or a million times? This is where functions shine. Rather than repeat ourselves, let's simply write the function called addition, to do this for us. In Python, def is the expression to define a function, and it's reserved for just that. So, def addition is a function name. A function is designed to add two values per time. So, we have value one and value two in the parenthesis, then the colon. When you go to the next line, you should notice the automatic spacing. We then choose a variable name result,
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980&t=0)** - [Instructor] In this chapter, we're going to cover, common [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) functions and statements. One of the interesting things about programming is reusability. Functions are an integral path of being able to reuse code in other programs. A function is the named block of code, that performs the specific action. To paint the vivid picture, we want to add two numbers, for the volume of lab reagents. Simply type 100 plus 100, or 200 plus 100 This isn't a big deal, if we need to do this like five times or maybe 10 times. But what if we need to do these a 100, or a 1000 or a million times? This is where functions shine. Rather than repeat ourselves, let's simply write the function called addition, to do this for us. In Python, def is the expression to define a function, and it's reserved for just that. So, def addition is a function name. A function is designed to add two values per time. So, we have value one and value two in the parenthesis, then the colon. When you go to the next line, you should notice the automatic spacing. We then choose a variable name result,
 >
 > **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980&t=93)** to store the output of the addition.
 >
@@ -766,7 +766,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), is called (1)
 > **Versions:** 1.1 (1)
@@ -797,9 +797,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=0)** - [Instructor] Just like the name suggests, in [[Python (Programming Language)|Python]], a loop is a control structure that can execute a statement repeatedly. And anytime you use a loop across a group of items, that is called an iteration. Python has three types of loops, while loops, for loops, and nested loops. In this lesson, I want to focus on for loops since they are an important aspect of iteration. A little bit more on iteration, you can iterate over any sequence, think list, tuples, dictionaries. For example, this list called analgesics. If we want to print out each item, we write the for loop, so for item in analgesics, print item.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=0)** - [Instructor] Just like the name suggests, in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md), a loop is a control structure that can execute a statement repeatedly. And anytime you use a loop across a group of items, that is called an iteration. Python has three types of loops, while loops, for loops, and nested loops. In this lesson, I want to focus on for loops since they are an important aspect of iteration. A little bit more on iteration, you can iterate over any sequence, think list, tuples, dictionaries. For example, this list called analgesics. If we want to print out each item, we write the for loop, so for item in analgesics, print item.
 >
-> **[0:58](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=58)** Any [[Microsoft Word|word]] can be used, item could be element or even analgesic. Let's try for analgesic in analgesics. Okay, so it works just fine. What if we have a list of numbers, and we want to double each element and save to a variable called double_number. We start by declaring an empty list called double_number, and then for number in numbers, colon, double_number,
+> **[0:58](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=58)** Any [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) can be used, item could be element or even analgesic. Let's try for analgesic in analgesics. Okay, so it works just fine. What if we have a list of numbers, and we want to double each element and save to a variable called double_number. We start by declaring an empty list called double_number, and then for number in numbers, colon, double_number,
 >
 > **[1:44](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=104)** append, number, multiply by two. Now, let's check our double_number list. Cool, we have a new list with double the numbers in the previous list. When writing for loops, you can include conditional statements. For example, print all the items in double_number except 60 for item in double_number.
 >
@@ -811,7 +811,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Code Identifiers:** double_number (6), string_value (2)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** python (2)
@@ -853,15 +853,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=0)** - [Instructor] Before you write a new function for your function, it's good practice to check if it exists already. Some of the basic things you want to do are already built-in functions and it's intuitive that you can even guess them sometimes. In this chapter, we'll cover built-in functions and other operations in [[Python (Programming Language)|Python]]. Let's start by looking at the length and count built-in function. You can check the length of a string using the length function. For omeprazole, it returns 10, which is the number of individual characters. You can check the length of a list too.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=0)** - [Instructor] Before you write a new function for your function, it's good practice to check if it exists already. Some of the basic things you want to do are already built-in functions and it's intuitive that you can even guess them sometimes. In this chapter, we'll cover built-in functions and other operations in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md). Let's start by looking at the length and count built-in function. You can check the length of a string using the length function. For omeprazole, it returns 10, which is the number of individual characters. You can check the length of a list too.
 >
 > **[0:47](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=47)** This returns three, which is the number of items in the list. An then the string is a character, so you can check the length too.
 >
-> **[1:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=64)** To count the number of occurrences of a specific item in a sequence, we have the count function. To test this, let's create the list called names_of_ppi containing three medications belonging to the proton pump inhibitor anti-ulcer class. For example, in this list, let's count the number of the character O. The output is zero because the count here is based on items and not characters. If you apply the same function to a string like omeprazole, it returns two and that's the number of O in the sample string data. Now, let's count the number of times omeprazole appear in the names_of_ppi list. It returns one because that [[Microsoft Word|word]] exists. This may not look like a big deal, but imagine if you have hundreds of items in your list. The length and count functions can help you search through your code very quickly, and this can be especially helpful when you're searching for errors.
+> **[1:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=64)** To count the number of occurrences of a specific item in a sequence, we have the count function. To test this, let's create the list called names_of_ppi containing three medications belonging to the proton pump inhibitor anti-ulcer class. For example, in this list, let's count the number of the character O. The output is zero because the count here is based on items and not characters. If you apply the same function to a string like omeprazole, it returns two and that's the number of O in the sample string data. Now, let's count the number of times omeprazole appear in the names_of_ppi list. It returns one because that [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) exists. This may not look like a big deal, but imagine if you have hundreds of items in your list. The length and count functions can help you search through your code very quickly, and this can be especially helpful when you're searching for errors.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Code Identifiers:** names_of_ppi (2)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** python (1)
@@ -893,11 +893,11 @@ created: 2026-05-03
 >
 > **[1:12](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/range-and-sum-function?u=76281980&t=72)** Or you simply call the list function or needs as I did in the first example. Now, let's say you want even numbers in the range alone. Let's create the variable called even_number_of_oscillation, containing even numbers between two and 30. The output has only even numbers. Notes that there is a third parameter in the range function which is two, which means to move two steps from the first number in the range. To do the same for odd numbers, adjust the first number to one. (no audio)
 >
-> **[2:01](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/range-and-sum-function?u=76281980&t=121)** There you have it, the list of odd numbers in the specified range. You can also reverse the order of numbers in the range. Let's create a variable called reverse_of_numbers_of_oscillation, which lists the numbers between one and 10 by using the list of a range of 10, zero, minus one. You can try on your own to find out what happens if you use minus two instead of minus one. Similar to range, the sum function makes quick work of [[Big Data]]. Using the sum function, let's add all the values in even_numbers_of_oscillation and saving to variable called sum_of_even_numbers_of_oscillation. We have 210. We use oscillations of a pendulum, but what else will you use range and sum functions for? Maybe for heart rate or blood pressure? Think about how you would use these functions to benefit your code.
+> **[2:01](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/range-and-sum-function?u=76281980&t=121)** There you have it, the list of odd numbers in the specified range. You can also reverse the order of numbers in the range. Let's create a variable called reverse_of_numbers_of_oscillation, which lists the numbers between one and 10 by using the list of a range of 10, zero, minus one. You can try on your own to find out what happens if you use minus two instead of minus one. Similar to range, the sum function makes quick work of [Big Data](../../Skills/Data%20Science/Big%20Data.md). Using the sum function, let's add all the values in even_numbers_of_oscillation and saving to variable called sum_of_even_numbers_of_oscillation. We have 210. We use oscillations of a pendulum, but what else will you use range and sum functions for? Maybe for heart rate or blood pressure? Think about how you would use these functions to benefit your code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (1)
+> **Frameworks & Libraries:** [Big Data](../../Skills/Data%20Science/Big%20Data.md) (1)
 > **Code Identifiers:** number_of_oscillations (1), even_number_of_oscillation (1), reverse_of_numbers_of_oscillation (1), even_numbers_of_oscillation (1), sum_of_even_numbers_of_oscillation (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -908,13 +908,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=0)** - By now, you've probably noticed that capitalization, punctuation, and spaces are incredibly important in coding. Sometimes, one tiny lowercase letter can create thousands of bugs. String case functions can help keep your code consistent and bulk free. So, if you've typed in all caps before it's time to use a function that does just that. For a sample statement, [[Public Health]] refers to the science and practice of protecting, promoting, and improving health and wellbeing of populations in mixed character. If we want it in all upper case we simply do sample statement dot upper. Good, it's in all caps now. If we want that in lowercase we do sample statement dot lower. It's in lowercase now. Watch if you want to capitalize only the first letter. If you want your text in title case where the first character of each [[Microsoft Word|word]] is in uppercase, go ahead and code the title function on the sample statement. This may seem like an obscure function but it can make a big difference. For example, changing text to all lowercase is a useful technique in normalizing data or bringing similar data to the same in the eye of the computer. Practice using this function on your existing data.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=0)** - By now, you've probably noticed that capitalization, punctuation, and spaces are incredibly important in coding. Sometimes, one tiny lowercase letter can create thousands of bugs. String case functions can help keep your code consistent and bulk free. So, if you've typed in all caps before it's time to use a function that does just that. For a sample statement, [Public Health](../../Skills/Software%20Development/Public%20Health.md) refers to the science and practice of protecting, promoting, and improving health and wellbeing of populations in mixed character. If we want it in all upper case we simply do sample statement dot upper. Good, it's in all caps now. If we want that in lowercase we do sample statement dot lower. It's in lowercase now. Watch if you want to capitalize only the first letter. If you want your text in title case where the first character of each [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) is in uppercase, go ahead and code the title function on the sample statement. This may seem like an obscure function but it can make a big difference. For example, changing text to all lowercase is a useful technique in normalizing data or bringing similar data to the same in the eye of the computer. Practice using this function on your existing data.
 >
 > **[1:35](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=95)** See how your code changes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Public Health]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Public Health](../../Skills/Software%20Development/Public%20Health.md) (1), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -936,13 +936,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/strip-and-replace-function?u=76281980&t=0)** - [Instructor] When writing documentation for your process, sometimes there are leading and trailing characters that you do not want, like extra spaces. This is where the string can replace function can help clean up your code. For example, look at sample_statement. A variable contained in a sentence about how to make an emulsion. To strip the multiple dots after the statement, you go ahead and write sample_statement.strip, then dots in string quotes. The output shows that all the dots are gone. If it was a trailing empty space, you don't need to specify the character. For example, the sample_statement here has empty spaces before the first [[Microsoft Word|word]]. If the goal is to remove just that, only strip dot. Now it returns the statement with the dots without the leading empty space. To replace characters in a sentence you can use the replace function. For example, let's replace the dots in the above statements with commas. Sample_statement.replace. The output shows that the dots are now commas. When you think of those functions think of them in terms of scale. Imagine you needed to do this
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/strip-and-replace-function?u=76281980&t=0)** - [Instructor] When writing documentation for your process, sometimes there are leading and trailing characters that you do not want, like extra spaces. This is where the string can replace function can help clean up your code. For example, look at sample_statement. A variable contained in a sentence about how to make an emulsion. To strip the multiple dots after the statement, you go ahead and write sample_statement.strip, then dots in string quotes. The output shows that all the dots are gone. If it was a trailing empty space, you don't need to specify the character. For example, the sample_statement here has empty spaces before the first [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md). If the goal is to remove just that, only strip dot. Now it returns the statement with the dots without the leading empty space. To replace characters in a sentence you can use the replace function. For example, let's replace the dots in the above statements with commas. Sample_statement.replace. The output shows that the dots are now commas. When you think of those functions think of them in terms of scale. Imagine you needed to do this
 >
 > **[1:32](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/strip-and-replace-function?u=76281980&t=92)** to thousands of statements at once. This could save you tons of time especially as you're starting out. You might make some mistakes. Use the strip and replace function to fix those mistakes quickly and easily.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Analogies:** for example (3), imagine (1)
 > **Code Identifiers:** sample_statement (3)
 > **CLI Commands:** make (2)
@@ -975,11 +975,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/slicing?u=76281980&t=0)** - [Instructor] To get a subset of a sequence, like string and list, you apply slicing. This is done based on assessing index position. For example, to obtain the first three letters in the [[Microsoft Word|word]] laboratory, you write the word as a string, then a square bracket, zero, colon, three. This indicates that you want characters in position one to three, translating to the first three letters. The intuition is the simple list. For example, in this lab apparatus list, you can obtain the first two elements by slicing. So we have test tube and Petri dish. What if you want just the last element? You can slice for that too, like this. Or since we can see the last index is three, we can simply slice directly. If you want the last two, you can do negative indexing. In this instance, we have beaker and glass funnel. Notice a negative indexing. It starts counting from negative one, not zero. Indexing and slicing is simple but powerful in manipulating your data and giving you exactly what you need.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/slicing?u=76281980&t=0)** - [Instructor] To get a subset of a sequence, like string and list, you apply slicing. This is done based on assessing index position. For example, to obtain the first three letters in the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) laboratory, you write the word as a string, then a square bracket, zero, colon, three. This indicates that you want characters in position one to three, translating to the first three letters. The intuition is the simple list. For example, in this lab apparatus list, you can obtain the first two elements by slicing. So we have test tube and Petri dish. What if you want just the last element? You can slice for that too, like this. Or since we can see the last index is three, we can simply slice directly. If you want the last two, you can do negative indexing. In this instance, we have beaker and glass funnel. Notice a negative indexing. It starts counting from negative one, not zero. Indexing and slicing is simple but powerful in manipulating your data and giving you exactly what you need.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -987,11 +987,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-formatting?u=76281980&t=0)** - [Instructor] String formatting enables you to dynamically decide on your output by inserting values into placeholders. It's a common operation in [[Python (Programming Language)|Python]] programming. For example, let's say you want to print the name and dosage of medications for instruction. So you create the variable called formatted sentence, declare a string, take a curly bracket, another curly bracket. Both are placeholders. Milligram, every 12 hours with a meal. That name of medication, comma, dosage strength. When you run the code, it outputs a full sentence. Take ibuprofen, 200 milligram every 12 hours with a meal. Formatted strings is important when applying the same code to different variable values. You can practice by representing the number of hours with the placeholder tool, or changing the name of medication and dosage strength. See what outputs you can create by using string formatting.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-formatting?u=76281980&t=0)** - [Instructor] String formatting enables you to dynamically decide on your output by inserting values into placeholders. It's a common operation in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) programming. For example, let's say you want to print the name and dosage of medications for instruction. So you create the variable called formatted sentence, declare a string, take a curly bracket, another curly bracket. Both are placeholders. Milligram, every 12 hours with a meal. That name of medication, comma, dosage strength. When you run the code, it outputs a full sentence. Take ibuprofen, 200 milligram every 12 hours with a meal. Formatted strings is important when applying the same code to different variable values. You can practice by representing the number of hours with the placeholder tool, or changing the name of medication and dosage strength. See what outputs you can create by using string formatting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1024,11 +1024,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-zip-two-lists?u=76281980&t=0)** - [Instructor] Sometimes the answer is in the name. In this case, we like to zip to [[Python (Programming Language)|Python]] list. Let's come here and add zip. Let's go ahead and test the code. Great work. We've successfully zipped the two lists together.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-zip-two-lists?u=76281980&t=0)** - [Instructor] Sometimes the answer is in the name. In this case, we like to zip to [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) list. Let's come here and add zip. Let's go ahead and test the code. Great work. We've successfully zipped the two lists together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1051,7 +1051,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980&t=0)** - [Instructor] Whatever you do, there's usually documentation in your process. For example, the pharmacist makes a note to show a prescription has been fulfilled or a clinician takes a patient's history. In this chapter, we're going to focus on the different types of code documentation in [[Python (Programming Language)|Python]]. Let's start with comments. The goal of comments is usually to provide explanation and make your code understandable to your future self and other team members. In Python programming, you can leave one-liner notes in your code. Here are a few common notes you might see or use. So (indistinct) is keeping the code run. They are usually preceded by the hash symbol. For example, total_quantity_dispensed is equals to six multiplied by seven. Here's a comment saying total quantity of medication taken two tablets twice a day for one week use.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980&t=0)** - [Instructor] Whatever you do, there's usually documentation in your process. For example, the pharmacist makes a note to show a prescription has been fulfilled or a clinician takes a patient's history. In this chapter, we're going to focus on the different types of code documentation in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md). Let's start with comments. The goal of comments is usually to provide explanation and make your code understandable to your future self and other team members. In Python programming, you can leave one-liner notes in your code. Here are a few common notes you might see or use. So (indistinct) is keeping the code run. They are usually preceded by the hash symbol. For example, total_quantity_dispensed is equals to six multiplied by seven. Here's a comment saying total quantity of medication taken two tablets twice a day for one week use.
 >
 > **[1:16](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980&t=76)** If you remove the preceding hash, you get the syntax error
 >
@@ -1059,7 +1059,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **CLI Commands:** python (2), make (1)
 > **Code Identifiers:** total_quantity_dispensed (2)
 > **Analogies:** for example (2)
@@ -1070,7 +1070,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/docstring?u=76281980&t=0)** - [Instructor] Let me show you something interesting. Import [[Pandas (Software)|pandas]]. If we access the function like this, pandas dot double underscore doc double underscore. The function gives an output full of details. This tells us what pandas is, what it is used for. This is docstring. Essentially, a detailed comment about a function or class. Think of docstring like an internal guide. Let's look at another example. Let's say you want more information about read CSV, a common function in pandas to read CSV files. Just type help pandas.read-csv.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/docstring?u=76281980&t=0)** - [Instructor] Let me show you something interesting. Import [pandas](../../Skills/Software%20Development/Pandas%20(Software).md). If we access the function like this, pandas dot double underscore doc double underscore. The function gives an output full of details. This tells us what pandas is, what it is used for. This is docstring. Essentially, a detailed comment about a function or class. Think of docstring like an internal guide. Let's look at another example. Let's say you want more information about read CSV, a common function in pandas to read CSV files. Just type help pandas.read-csv.
 >
 > **[1:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/docstring?u=76281980&t=60)** The output is a detailed documentation of what read CSV is, including what the acceptable arguments and parameters are. So how can you replicate this in your code? You can make your own docstrings. They are accessible by the dunder doc and help function. For example, def total quantity dispensed.
 >
@@ -1082,7 +1082,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5)
+> **Frameworks & Libraries:** [Pandas](../../Skills/Software%20Development/Pandas%20(Software).md) (5)
 > **Env Vars:** csv (3)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -1110,11 +1110,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/official-python-documentation?u=76281980&t=0)** - [Instructor] The official [[Python (Programming Language)|Python]] documentation is extensive, detailed, and the source of truth for all things Python. There are official references for medications and chemicals like Codex, Pharmacopoeias, national medication guidelines, E-T-C. Official Python documentation is the same for Python and can be found at [python.org](https://python.org). I'll encourage you to look around carefully, read all about Python, some of the ways it's used, how to download it to different devices, detailed documentation, community and projects, news about the latest version, upcoming event. You can search for specific things here. About the Python Software Foundation, I encourage you to poke around, read all about all these. This is how you become a great programmer, the confidence to find the most important answers. Wish you good luck.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/official-python-documentation?u=76281980&t=0)** - [Instructor] The official [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) documentation is extensive, detailed, and the source of truth for all things Python. There are official references for medications and chemicals like Codex, Pharmacopoeias, national medication guidelines, E-T-C. Official Python documentation is the same for Python and can be found at [python.org](https://python.org). I'll encourage you to look around carefully, read all about Python, some of the ways it's used, how to download it to different devices, detailed documentation, community and projects, news about the latest version, upcoming event. You can search for specific things here. About the Python Software Foundation, I encourage you to poke around, read all about all these. This is how you become a great programmer, the confidence to find the most important answers. Wish you good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (7)
 > **CLI Commands:** python (7), find (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Speakers:** - [instructor] (1)
@@ -1128,13 +1128,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980&t=0)** - [Instructor] In this chapter, we will cover how to work with libraries in [[Python (Programming Language)|Python]]. In a general sense, the library is a piece of reusable code. Python has an extensive library that you can pull from and add to. In this lesson, we will cover how you import the library into your workspace. Import is one of the most important expressions in Python programming. It's how we import libraries and modules that are not built-in. For example, import numpy. Numpy is a Python library for scientific computing. For matrix-related task, we can create an array code, sample array, by doing sample_array = numpy.array (10, 20, 30, 40, 50, 60, 70, 80).
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980&t=0)** - [Instructor] In this chapter, we will cover how to work with libraries in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md). In a general sense, the library is a piece of reusable code. Python has an extensive library that you can pull from and add to. In this lesson, we will cover how you import the library into your workspace. Import is one of the most important expressions in Python programming. It's how we import libraries and modules that are not built-in. For example, import numpy. Numpy is a Python library for scientific computing. For matrix-related task, we can create an array code, sample array, by doing sample_array = numpy.array (10, 20, 30, 40, 50, 60, 70, 80).
 >
 > **[1:03](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980&t=63)** This can be reshaped into a 2x4 matrix using numpy.reshape(sample_array (2,4)) and saved into reshaped_array variable. Now we have the array shaped into a 2x4 matrix. Rather than write out numpy all the time, we can import as an alias. The most common is np, so let's import numpy as np and see if it works. Import numpy as np. Np.transpose(reshaped_array). The reshaped array is now transposed to a 4x2 matrix. Note that alias can be anything, but it's responsible to use the most common ones. Because Python is so widely used, it has an extensive library of tools for training machine learning models and other tasks. Everything in the library is accessible, only once it has been imported, so get used to the import function. You'll use it a lot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (5)
 > **CLI Commands:** python (5)
 > **Code Identifiers:** sample_array (2), reshaped_array (2)
 > **Definitions:** is a  (2)
@@ -1146,13 +1146,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/install-and-uninstall-python-libraries?u=76281980&t=0)** - [Instructor] Import and install are not the same thing. Sometimes you need to have installed the library before you can import it in your workspace. Let's use one of the most common [[Python (Programming Language)|Python]] libraries as example. Transformers. Transformers is a library that provides thousands of pre-trained models for different machine learning task. Import transformers. This gives an error message, module, not found, no module named transformers. It also includes a suggestion on how to install it using pip or apt. Let's install it. Shebang pip install. Transformers. After the installation, let's import transformers again. Okay, now it works. You have successfully installed your first library. But you can also uninstall the library by doing pip uninstall. So pip uninstall. Transformers. It's asking if I'm sure. And I enter the yes. It confirms the uninstall. Many ideas are most of the libraries you will need preinstalled.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/install-and-uninstall-python-libraries?u=76281980&t=0)** - [Instructor] Import and install are not the same thing. Sometimes you need to have installed the library before you can import it in your workspace. Let's use one of the most common [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) libraries as example. Transformers. Transformers is a library that provides thousands of pre-trained models for different machine learning task. Import transformers. This gives an error message, module, not found, no module named transformers. It also includes a suggestion on how to install it using pip or apt. Let's install it. Shebang pip install. Transformers. After the installation, let's import transformers again. Okay, now it works. You have successfully installed your first library. But you can also uninstall the library by doing pip uninstall. So pip uninstall. Transformers. It's asking if I'm sure. And I enter the yes. It confirms the uninstall. Many ideas are most of the libraries you will need preinstalled.
 >
 > **[1:34](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/install-and-uninstall-python-libraries?u=76281980&t=94)** But sometimes they don't or they don't have the preferred version. So if you understand how to install and uninstall libraries you have more flexibility in what you can accomplish.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** pip (4), python (1), apt (1)
 > **Prerequisites:** install (5), you need to have (1)
 > **Definitions:** is a  (1)
@@ -1162,11 +1162,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=0)** - [Narrator] Data analysis goes hand in hand with coding, especially in industries with massive amount of data like healthcare. Having the way to sort through that data efficiently will help you write cleaner, better code. These are some of the most popular [[Python (Programming Language)|Python]] libraries for data analysis. [[Pandas (Software)|Pandas]] for data analysis and manipulation. Tables are called DataFraming Pandas. NumPy for scientific computing. Think of array and matrices. Matplotlib for static animated and interactive data visualization. Think visual, exploratory data analysis and [[Storytelling]]. Statsmodels for [[Statistics]] and Python. Think statistical models, test and exploration. For most things you will ever need, It makes sense to research if there's an existing Python library that solves that particular problem rather than reinvents the wheel. Don't be afraid to rely on Python libraries. This is part of what makes coding so collaborative, and so accessible to beginners around the world.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=0)** - [Narrator] Data analysis goes hand in hand with coding, especially in industries with massive amount of data like healthcare. Having the way to sort through that data efficiently will help you write cleaner, better code. These are some of the most popular [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) libraries for data analysis. [Pandas](../../Skills/Software%20Development/Pandas%20(Software).md) for data analysis and manipulation. Tables are called DataFraming Pandas. NumPy for scientific computing. Think of array and matrices. Matplotlib for static animated and interactive data visualization. Think visual, exploratory data analysis and [Storytelling](../../Skills/Web%20Development/Storytelling.md). Statsmodels for [Statistics](../../Skills/Data%20Science/Statistics.md) and Python. Think statistical models, test and exploration. For most things you will ever need, It makes sense to research if there's an existing Python library that solves that particular problem rather than reinvents the wheel. Don't be afraid to rely on Python libraries. This is part of what makes coding so collaborative, and so accessible to beginners around the world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (2), [[Storytelling]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (4), [Pandas](../../Skills/Software%20Development/Pandas%20(Software).md) (2), [Storytelling](../../Skills/Web%20Development/Storytelling.md) (1), [Statistics](../../Skills/Data%20Science/Statistics.md) (1)
 > **CLI Commands:** python (4)
 > **Speakers:** - [narrator] (1)
 
@@ -1189,7 +1189,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Wuraola Oyewusi]]
+- [Wuraola Oyewusi](../../Instructors/Data%20Science/Wuraola%20Oyewusi.md)
 
 ## Resources
 
@@ -1202,26 +1202,26 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Hands-On Healthcare Analytics]]
-← [[Excel for Healthcare- Practical Applications and Skills]] | **3 of 8** | [[Python Data Analysis for Healthcare]] →
+### In [Hands-On Healthcare Analytics](../../Paths/Data%20Science/Learning%20Paths/Hands-On%20Healthcare%20Analytics.md)
+← [Excel for Healthcare- Practical Applications and Skills](Excel%20for%20Healthcare-%20Practical%20Applications%20and%20Skills.md) | **3 of 8** | [Python Data Analysis for Healthcare](Python%20Data%20Analysis%20for%20Healthcare.md) →
 
-### In [[Python for Data Professionals in Healthcare]]
-**1 of 5** | [[Python Data Analysis for Healthcare]] →
+### In [Python for Data Professionals in Healthcare](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Python%20for%20Data%20Professionals%20in%20Healthcare.md)
+**1 of 5** | [Python Data Analysis for Healthcare](Python%20Data%20Analysis%20for%20Healthcare.md) →
 
 ## Appears In
 
-- [[Hands-On Healthcare Analytics]]
-- [[Python for Data Professionals in Healthcare]]
+- [Hands-On Healthcare Analytics](../../Paths/Data%20Science/Learning%20Paths/Hands-On%20Healthcare%20Analytics.md)
+- [Python for Data Professionals in Healthcare](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Python%20for%20Data%20Professionals%20in%20Healthcare.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Python Data Analysis for Healthcare]] — Python (Programming Language), Healthcare Analytics
-- [[Learning ArcGIS Python Scripting]] — Python (Programming Language)
-- [[QGIS and Python for AEC]] — Python (Programming Language)
-- [[Python Data Structures- Trees]] — Python (Programming Language)
-- [[Using SQL with Python]] — Python (Programming Language)
+- [Python Data Analysis for Healthcare](Python%20Data%20Analysis%20for%20Healthcare.md) — Python (Programming Language), Healthcare Analytics
+- [Learning ArcGIS Python Scripting](Learning%20ArcGIS%20Python%20Scripting.md) — Python (Programming Language)
+- [QGIS and Python for AEC](QGIS%20and%20Python%20for%20AEC.md) — Python (Programming Language)
+- [Python Data Structures- Trees](../Database%20Management/Python%20Data%20Structures-%20Trees.md) — Python (Programming Language)
+- [Using SQL with Python](Using%20SQL%20with%20Python.md) — Python (Programming Language)
 
 ---
 

@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building AI Agents with AutoGen]]
-- [[RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance]]
-- [[More Python Tips, Tricks, and Techniques for Data Science]]
+- [Building AI Agents with AutoGen](../../Courses/Artificial%20Intelligence%20(AI)/Building%20AI%20Agents%20with%20AutoGen.md)
+- [RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance](../../Courses/Artificial%20Intelligence%20(AI)/RAG%20Fine-Tuning-%20Advanced%20Techniques%20for%20Accuracy%20and%20Model%20Performance.md)
+- [More Python Tips, Tricks, and Techniques for Data Science](../../Courses/Data%20Science/More%20Python%20Tips%2C%20Tricks%2C%20and%20Techniques%20for%20Data%20Science.md)

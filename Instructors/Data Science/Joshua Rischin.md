@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel Online (Microsoft 365)- Work Smarter with Copilot]]
-- [[Power BI- Working Together with ChatGPT]]
-- [[Excel- Working Together with Power Query and Power Pivot]]
+- [Excel Online (Microsoft 365)- Work Smarter with Copilot](../../Courses/Cloud%20Computing/Excel%20Online%20(Microsoft%20365)-%20Work%20Smarter%20with%20Copilot.md)
+- [Power BI- Working Together with ChatGPT](../../Courses/Data%20Science/Power%20BI-%20Working%20Together%20with%20ChatGPT.md)
+- [Excel- Working Together with Power Query and Power Pivot](../../Courses/Data%20Science/Excel-%20Working%20Together%20with%20Power%20Query%20and%20Power%20Pivot.md)

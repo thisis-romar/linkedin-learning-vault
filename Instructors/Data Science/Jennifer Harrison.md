@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Foundations of Geographic Information Systems (GIS)]]
-- [[Learning ArcGIS Python Scripting]]
+- [Foundations of Geographic Information Systems (GIS)](../../Courses/Data%20Science/Foundations%20of%20Geographic%20Information%20Systems%20(GIS).md)
+- [Learning ArcGIS Python Scripting](../../Courses/Data%20Science/Learning%20ArcGIS%20Python%20Scripting.md)

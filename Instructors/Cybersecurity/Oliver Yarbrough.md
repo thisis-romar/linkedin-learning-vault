@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Project Management Foundations- Integration]]
+- [Project Management Foundations- Integration](../../Courses/Cybersecurity/Project%20Management%20Foundations-%20Integration.md)

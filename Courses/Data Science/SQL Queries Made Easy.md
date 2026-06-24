@@ -17,11 +17,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQF6AvXSi8LgNg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725038985144?e=2147483647&amp;v=beta&amp;t=Jrz8IDYgc_cAvIQSccmKUhN0ZUYY8cAb6X3yK6ZElQ0"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Explore a Career in SQL Development]]'
+  - '[Explore a Career in SQL Development](../../Paths/Data%20Science/Learning%20Paths/Explore%20a%20Career%20in%20SQL%20Development.md)'
 prev_courses:
-  - '[[SQL Essential Training]]'
+  - '[SQL Essential Training](SQL%20Essential%20Training.md)'
 next_courses:
-  - '[[SQL Server Intelligence- Cracking the Code of Enterprise Data]]'
+  - '[SQL Server Intelligence- Cracking the Code of Enterprise Data](SQL%20Server%20Intelligence-%20Cracking%20the%20Code%20of%20Enterprise%20Data.md)'
 path_nav: '[{"path":"Explore a Career in SQL Development","position":3,"total":8,"prev":"SQL Essential Training","next":"SQL Server Intelligence- Cracking the Code of Enterprise Data"}]'
 path_count: 1
 tags:
@@ -80,24 +80,24 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/making-a-statement-with-sql?u=76281980&t=0)** - [Deepa] You've probably heard of [[Databases]] since you were in grade school but how does the data get there? What can you do with the data that's stored there? How can you retrieve it, modify it, delete it? If you don't know the answers to those questions but want to learn, that's where I can help you. Hi, my name is Deepa Maddala, I'm a database developer, I've designed this course to get you up and running with database tables using the sequel language. I'll show you how to use the common statements in order to manipulate data within tables along with tips on transaction controls. While this isn't a fully comprehensive primer on sequel, it should help you get started and maybe answer some of your immediate questions regarding databases. So if you're ready to dive in, let's go ahead and get started.
+> **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/making-a-statement-with-sql?u=76281980&t=0)** - [Deepa] You've probably heard of [Databases](../../Skills/Software%20Development/Databases.md) since you were in grade school but how does the data get there? What can you do with the data that's stored there? How can you retrieve it, modify it, delete it? If you don't know the answers to those questions but want to learn, that's where I can help you. Hi, my name is Deepa Maddala, I'm a database developer, I've designed this course to get you up and running with database tables using the sequel language. I'll show you how to use the common statements in order to manipulate data within tables along with tips on transaction controls. While this isn't a fully comprehensive primer on sequel, it should help you get started and maybe answer some of your immediate questions regarding databases. So if you're ready to dive in, let's go ahead and get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2)
+> **Frameworks & Libraries:** [Databases](../../Skills/Software%20Development/Databases.md) (2)
 > **Speakers:** - [deepa] (1)
 
 #### [How to use the exercise files](https://www.linkedin.com/learning/sql-queries-made-easy/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] In this course, we'll be using livesql.[oracle.com](https://oracle.com) for coding. Here, we can run scripts or also write our own [[SQL]] statements and run them to view the output. The best part is that it is absolutely free. In the beginning of the course, we need to make sure to follow two important steps. First step is to sign up with an email address in livesql.[oracle.com](https://oracle.com). Once you do that, then we log in using our credentials. I'm logging in. First. Now that we have logged in, the second step is to run the initial script file. This will help us to get started working on data from day one. For that, first go to the menu on the top left corner. You can actually see the menu now but if you cannot, just click on this and it'll show you the menu. Now click on My Scripts. There is an option to upload scripts. Here, select the file from exercise folder 00_02. And then choose. Now, give it a name as Initial Code.
+> **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] In this course, we'll be using livesql.[oracle.com](https://oracle.com) for coding. Here, we can run scripts or also write our own [SQL](../../Skills/Data%20Science/SQL.md) statements and run them to view the output. The best part is that it is absolutely free. In the beginning of the course, we need to make sure to follow two important steps. First step is to sign up with an email address in livesql.[oracle.com](https://oracle.com). Once you do that, then we log in using our credentials. I'm logging in. First. Now that we have logged in, the second step is to run the initial script file. This will help us to get started working on data from day one. For that, first go to the menu on the top left corner. You can actually see the menu now but if you cannot, just click on this and it'll show you the menu. Now click on My Scripts. There is an option to upload scripts. Here, select the file from exercise folder 00_02. And then choose. Now, give it a name as Initial Code.
 >
 > **[1:18](https://www.linkedin.com/learning/sql-queries-made-easy/how-to-use-the-exercise-files?u=76281980&t=78)** If you want, you can give it a detailed description or you could just give Initial Code again. And then upload the script. Now it shows script uploaded. Once it has been uploaded, run the script file. Just click Run Script. This might take a while. Once you get the message saying success, you can just close this. And it's as simple as that. Now, as the course progresses, we will be writing more code to understand the various concepts. I will be providing the exercise files in the exercise folder, which will look like this. These are the exercise files. Now, you can make use of these files either to directly run them as scripts like I have shown you earlier or just follow along with me and write the code with me and use these exercise files for future reference.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (2)
@@ -147,11 +147,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/datatypes-for-columns-in-tables?u=76281980&t=0)** - [Instructor] In this video, we will learn about the various data types we can define for columns in tables. We will also understand which data type to use in which scenario. Data type specifies the kind of values that are inserted into each column. First one is VARCHAR2. We use this when we have a character data, but with variable length. The size specifies the maximum number of characters that can be given in that column. Minimum size can be one, maximum size can be up to 4,000. The size has to be specified. CHAR is also for character data, but with fixed length. Minimum size is one, and maximum size is only 2000. If the size is not specified, it takes the default value as one. We generally use VARCHAR2 when we are uncertain about the number of characters in the data that is inserted in the table. NUMBER is for numeric data with variable length. P stands for precision, and S stands for scale. P specifies the number of decimal digits, and S specifies the digits to the right of the decimal point. DATE is used for date and time values. LONG is for variable-length character data, up to two GB. We can use this for long text strings. CLOB is a character data up to four gigabytes. RAW is for raw binary data of length size.
 >
-> **[1:36](https://www.linkedin.com/learning/sql-queries-made-easy/datatypes-for-columns-in-tables?u=76281980&t=96)** Size needs to be specified. Maximum size can be up to 2000. RAW is for binary data or byte oriented data like graphics, audio files, documents, or arrays of binary data. This data can be queried or inserted, but cannot be manipulated. LONG RAW is similar to RAW, but for raw binary data of variable length up to two gigabytes. BLOB is an object data type, which is short form for binary large object. It is a reference or a pointer to an object. It could be a file, image, audio file, or video file, or any large object. It can hold binary data up to four gigabytes. BFILE is a data type which is used to store the location or link to an external file, which is outside the database. This external file can be up to four gigabytes. ROWID is a 64 base number system representing the unique address of a row in its table. Every row will have a unique ROWID. In this video, we have learned about all the data types we can use based on the requirements. Now that we have learned about the different kinds of tables and the data types, in the next videos, we will start learning about the various [[SQL]] statements.
+> **[1:36](https://www.linkedin.com/learning/sql-queries-made-easy/datatypes-for-columns-in-tables?u=76281980&t=96)** Size needs to be specified. Maximum size can be up to 2000. RAW is for binary data or byte oriented data like graphics, audio files, documents, or arrays of binary data. This data can be queried or inserted, but cannot be manipulated. LONG RAW is similar to RAW, but for raw binary data of variable length up to two gigabytes. BLOB is an object data type, which is short form for binary large object. It is a reference or a pointer to an object. It could be a file, image, audio file, or video file, or any large object. It can hold binary data up to four gigabytes. BFILE is a data type which is used to store the location or link to an external file, which is outside the database. This external file can be up to four gigabytes. ROWID is a 64 base number system representing the unique address of a row in its table. Every row will have a unique ROWID. In this video, we have learned about all the data types we can use based on the requirements. Now that we have learned about the different kinds of tables and the data types, in the next videos, we will start learning about the various [SQL](../../Skills/Data%20Science/SQL.md) statements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Env Vars:** raw (4), varchar2 (2), rowid (2), char (1), number (1)
 > **Definitions:** is a  (4), stands for (2), is an  (1)
 > **Cross-References:** in the next (1)
@@ -167,7 +167,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/add-rows-in-tables?u=76281980&t=0)** - [Instructor] Now that we know a lot more about tables, let's learn about the various statements in [[SQL]]. The first one is DML statements. DMS stands for [[Data Manipulation]] language. DML statements are used to modify data in the tables. This includes insert, update, delete, and merge. The first one is the insert statement. We use insert statement to add new rows to our tables. This is the syntax. Using this, we can insert one row at a time. Now let's try to insert a few rows in our tables. First, this is how our table looks like. Select star from dept_tab, that's the table we are using now. I run this. This is our table. Now let's try to insert a row, insert into dept_tab values, I'm not giving the column names explicitly because I'm giving it in the same order, department number first, then department name,
+> **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/add-rows-in-tables?u=76281980&t=0)** - [Instructor] Now that we know a lot more about tables, let's learn about the various statements in [SQL](../../Skills/Data%20Science/SQL.md). The first one is DML statements. DMS stands for [Data Manipulation](../../Skills/Data%20Science/Data%20Manipulation.md) language. DML statements are used to modify data in the tables. This includes insert, update, delete, and merge. The first one is the insert statement. We use insert statement to add new rows to our tables. This is the syntax. Using this, we can insert one row at a time. Now let's try to insert a few rows in our tables. First, this is how our table looks like. Select star from dept_tab, that's the table we are using now. I run this. This is our table. Now let's try to insert a row, insert into dept_tab values, I'm not giving the column names explicitly because I'm giving it in the same order, department number first, then department name,
 >
 > **[1:13](https://www.linkedin.com/learning/sql-queries-made-easy/add-rows-in-tables?u=76281980&t=73)** manager ID and the location ID. And I run this. Now if I want to change the order of the columns, then I have to give them explicitly, department number, location ID, Manager ID, Department name. I have swapped the department name and the location ID, so I change those. So I have to give the values also corresponding to this order. So first, department number, location ID, manager ID, and then department name. And I run this. Another row has been inserted. Now let's take a look at a table and see our new rows. These are the two new rows that we have inserted. Sometimes we might not know the values for some columns, then we can insert some null values for those. Insert into dept_tab values, department number, department name, I do not know the manager ID and the location ID, so I give those values as null. And I run this.
 >
@@ -179,7 +179,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (6), [Data Manipulation](../../Skills/Data%20Science/Data%20Manipulation.md) (1)
 > **Env Vars:** sql (6), dml (2), dms (1)
 > **Code Identifiers:** dept_tab (3), emp_tab (2), new_table_name (1), old_table_name (1)
 > **Analogies:** for example (3)
@@ -194,7 +194,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/modify-rows-and-columns-in-tables?u=76281980&t=0)** - [Instructor] In this video, we will learn about Update Statement. It's a DML statement. We use this to modify data in tables. This is the syntax. Here, the WHERE clause is not mandatory. If the, WHERE clause is specified, only those rows satisfying the condition will be modified. Otherwise all the rows will be modified. Let's take an example to modify one row in our emp table. First of all, let's look at it. SELECT* FROM emp_tab: run this. Now I want to modify the salary of this employee to 8,000. So I give UPDATE emp_tab SET salary=8,000 WHERE empno-7001:
 >
-> **[0:56](https://www.linkedin.com/learning/sql-queries-made-easy/modify-rows-and-columns-in-tables?u=76281980&t=56)** I'm using employee number here in our WHERE clause because that is unique for every employee. I could give the name, but name is not unique for every employee, but employee number would be unique. So that's the reason why I'm taking that. So only one row is updated, which is good. Let's take a look at the table now. This is the row that we updated to 8,000. Be very cautious when you're modifying the table because we do not want to end up modifying all the rows in the table or the rows we do not want to be modified. So be very careful when doing that. Now, if I want to modify multiple columns using a sub query let's see how to do that. This is going to be the syntax UPDATE table SET column= subquery. I'm not giving the specific value here. I'm going to [[Fetch]] the values from another table or the same table. In this example, we will be doing it from this same table. UPDATE emp_tab SET manager=
+> **[0:56](https://www.linkedin.com/learning/sql-queries-made-easy/modify-rows-and-columns-in-tables?u=76281980&t=56)** I'm using employee number here in our WHERE clause because that is unique for every employee. I could give the name, but name is not unique for every employee, but employee number would be unique. So that's the reason why I'm taking that. So only one row is updated, which is good. Let's take a look at the table now. This is the row that we updated to 8,000. Be very cautious when you're modifying the table because we do not want to end up modifying all the rows in the table or the rows we do not want to be modified. So be very careful when doing that. Now, if I want to modify multiple columns using a sub query let's see how to do that. This is going to be the syntax UPDATE table SET column= subquery. I'm not giving the specific value here. I'm going to [Fetch](../../Skills/Web%20Development/Fetch.md) the values from another table or the same table. In this example, we will be doing it from this same table. UPDATE emp_tab SET manager=
 >
 > **[2:08](https://www.linkedin.com/learning/sql-queries-made-easy/modify-rows-and-columns-in-tables?u=76281980&t=128)** Here what I'm trying to do is I want to change the manager ID and the salary of Clark to the manager ID and salary of King. So let's see how to do that. SET manager as SELECT manager FROM emp_tab
 >
@@ -214,7 +214,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (1)
+> **Frameworks & Libraries:** [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **Env Vars:** where (9), select (6), set (6), update (5), dml (1)
 > **SQL:** where (9), select (6), update (5)
 > **Code Identifiers:** emp_tab (8), old_emp_tab (3), dpt_tab (1)
@@ -323,13 +323,13 @@ created: 2026-05-03
 >
 > **[4:46](https://www.linkedin.com/learning/sql-queries-made-easy/different-ways-to-create-tables?u=76281980&t=286)** and two constraints, one primary key and one foreign key constraints. Here constraint PRIMARY KEY constraint is enforced on state_id, which means that the state_id has to be unique and not NULL for every row in this table. This is the foreign key constraint that I have enforced and I'm doing that on country_id in this table and it's going to reference the country_id in countries table. So this is the connection that we have established between the country_id in states table to the country_id in the countries table. That is how foreign key and primary key go hand in hand. Now we can also create a table using a subquery. Now, this is the syntax for that. We use this technique when we want to create a table based on rows in another table. For example, if we want to create a table with all employees in department number 40, then I can create the table like this. This is the statement that I've already written. The CREATE statement here I say CREATE TABHLE, this is the table name AS and this is the subquery. SELECT employee number, ename. Its name actually, the column name, employee number, name, job, salary
 >
-> **[6:19](https://www.linkedin.com/learning/sql-queries-made-easy/different-ways-to-create-tables?u=76281980&t=379)** FROM employee tab where department number is 40. So it's going to [[Fetch]] all the employee details whose department number is 40 and it's going to create this new table with those values. So I just create this table. It says it has been created. Let's take a look at it. SELECT * FROM employees_dept40
+> **[6:19](https://www.linkedin.com/learning/sql-queries-made-easy/different-ways-to-create-tables?u=76281980&t=379)** FROM employee tab where department number is 40. So it's going to [Fetch](../../Skills/Web%20Development/Fetch.md) all the employee details whose department number is 40 and it's going to create this new table with those values. So I just create this table. It says it has been created. Let's take a look at it. SELECT * FROM employees_dept40
 >
 > **[6:48](https://www.linkedin.com/learning/sql-queries-made-easy/different-ways-to-create-tables?u=76281980&t=408)** and I run this. These are the two rows that have been created in employees_dept40, which satisfy this condition and they have been added to this new table. But we do not have any constraints in this subquery method. If the column specifications are given, then the number of column specifications and the number of columns in the subquery should be equal. Here I haven't given the column names over here but if I'm giving those explicitly, then the number of columns here and the number of columns in here should be equal. And when using subquery method, column definition can contain only column names and default values but no constraints. In this method, we cannot give the constraints. In this video, we have learnt the most popular constraints, primary key, foreign key and not NULL constraint and we've also learned how to create a table using the direct method or by using a subquery.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (1)
+> **Frameworks & Libraries:** [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **Env Vars:** null (11), create (5), varchar2 (3), ddl (2), select (2)
 > **Code Identifiers:** country_id (7), table_name (4), state_id (3), country_code (2), schema_name (1)
 > **Definitions:** is a  (2), stands for (1), means that (1)
@@ -366,7 +366,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/drop-rename-and-truncate-tables?u=76281980&t=0)** - [Instructor] In this video, we will be learning about three other DDL statements, namely DROP, RENAME, and TRUNCATE. The first one is DROP statement. DROP statement will delete everything, the data and the structure of the table. All pending transactions will be committed. It's autocommit, so changes made will be permanent. A person should have drop any table privileges, or he should be the creator of the table to remove the table. Let's drop the table department_copy_tab. I give DROP TABLE dept_copy_tab.
 >
-> **[0:43](https://www.linkedin.com/learning/sql-queries-made-easy/drop-rename-and-truncate-tables?u=76281980&t=43)** And then this is going to delete the table completely, and the structure as well. All the data in the table and the structure is gone. Let's try to [[Fetch]] some data from the table and see what it says. Dept_copy_tab,
+> **[0:43](https://www.linkedin.com/learning/sql-queries-made-easy/drop-rename-and-truncate-tables?u=76281980&t=43)** And then this is going to delete the table completely, and the structure as well. All the data in the table and the structure is gone. Let's try to [Fetch](../../Skills/Web%20Development/Fetch.md) some data from the table and see what it says. Dept_copy_tab,
 >
 > **[1:10](https://www.linkedin.com/learning/sql-queries-made-easy/drop-rename-and-truncate-tables?u=76281980&t=70)** and then run this. It says table or view does not exist because it's gone. Now, the second statement is RENAME statement. Using this, we can change the name of a table, view, synonym, or a sequence, but to do so, we should be the owner of the object. We'll rename states table to states_sales table, as I want the name of the table to give more details about the data in it. So let's do that. I give RENAME states table to states_sales_table. I think this is going to give more details about what content is there in that particular table, so I'm just renaming it. And it says statement has been processed. So now let's try by giving SELECT * FROM states, and let's try this. Let's see if it works. It says it does not exist, but now let's give sales_tab and see if it works. The table is still here. It's just that it does not have any data in it. That's the only thing. The next one is TRUNCATE statement. It will delete all the rows from the table, and it'll also release the storage space that was used
 >
@@ -374,7 +374,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (1)
+> **Frameworks & Libraries:** [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **Env Vars:** truncate (8), drop (5), delete (5), rename (4), ddl (3)
 > **Code Identifiers:** department_copy_tab (1), dept_copy_tab (1), states_sales (1), states_sales_table (1), sales_tab (1)
 > **API Endpoints:** delete  (3), delete
@@ -392,11 +392,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/next-steps?u=76281980&t=0)** - Thank you so much for joining me for this course. I hope you enjoyed learning about [[SQL]] statements and how they can be used to create, edit and retrieve information from [[Databases]]. If you wish to continue your database journey, I suggest you learn a bit more about database objects other than tables, such as views, synonyms, index, et cetera. You could also dive deep and learn more about constraints. I recommend checking out some books like "Getting Started with SQL" by Thomas Neild and "SQL Practice Problems" by Sylvia Moestl Vasilik, which helps you practice more. Thanks again and I hope you have a wonderful day.
+> **[0:00](https://www.linkedin.com/learning/sql-queries-made-easy/next-steps?u=76281980&t=0)** - Thank you so much for joining me for this course. I hope you enjoyed learning about [SQL](../../Skills/Data%20Science/SQL.md) statements and how they can be used to create, edit and retrieve information from [Databases](../../Skills/Software%20Development/Databases.md). If you wish to continue your database journey, I suggest you learn a bit more about database objects other than tables, such as views, synonyms, index, et cetera. You could also dive deep and learn more about constraints. I recommend checking out some books like "Getting Started with SQL" by Thomas Neild and "SQL Practice Problems" by Sylvia Moestl Vasilik, which helps you practice more. Thanks again and I hope you have a wonderful day.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (3), [Databases](../../Skills/Software%20Development/Databases.md) (1)
 > **Env Vars:** sql (3)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
@@ -405,7 +405,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Deepa Maddala]]
+- [Deepa Maddala](../../Instructors/Database%20Management/Deepa%20Maddala.md)
 
 ## Resources
 
@@ -418,22 +418,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Explore a Career in SQL Development]]
-← [[SQL Essential Training]] | **3 of 8** | [[SQL Server Intelligence- Cracking the Code of Enterprise Data]] →
+### In [Explore a Career in SQL Development](../../Paths/Data%20Science/Learning%20Paths/Explore%20a%20Career%20in%20SQL%20Development.md)
+← [SQL Essential Training](SQL%20Essential%20Training.md) | **3 of 8** | [SQL Server Intelligence- Cracking the Code of Enterprise Data](SQL%20Server%20Intelligence-%20Cracking%20the%20Code%20of%20Enterprise%20Data.md) →
 
 ## Appears In
 
-- [[Explore a Career in SQL Development]]
+- [Explore a Career in SQL Development](../../Paths/Data%20Science/Learning%20Paths/Explore%20a%20Career%20in%20SQL%20Development.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[SQL Practice- Intermediate Queries]] — SQL, Database Queries
-- [[Level Up- Advanced SQL]] — SQL, Database Queries
-- [[Advanced SQL- Logical Query Processing, Part 1]] — SQL, Database Queries
-- [[Advanced SQL Project- Design and Manage a Database]] — SQL
-- [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — SQL
+- [SQL Practice- Intermediate Queries](SQL%20Practice-%20Intermediate%20Queries.md) — SQL, Database Queries
+- [Level Up- Advanced SQL](Level%20Up-%20Advanced%20SQL.md) — SQL, Database Queries
+- [Advanced SQL- Logical Query Processing, Part 1](Advanced%20SQL-%20Logical%20Query%20Processing%2C%20Part%201.md) — SQL, Database Queries
+- [Advanced SQL Project- Design and Manage a Database](Advanced%20SQL%20Project-%20Design%20and%20Manage%20a%20Database.md) — SQL
+- [Practical Database Design- Implementing Responsible Data Solutions with SQL Querying](Practical%20Database%20Design-%20Implementing%20Responsible%20Data%20Solutions%20with%20SQL%20Querying.md) — SQL
 
 ---
 

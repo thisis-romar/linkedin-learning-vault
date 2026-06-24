@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel- Filtering Data for Beginners]]
-- [[Excel- Power Query for Beginners]]
+- [Excel- Filtering Data for Beginners](../../Courses/Data%20Science/Excel-%20Filtering%20Data%20for%20Beginners.md)
+- [Excel- Power Query for Beginners](../../Courses/Data%20Science/Excel-%20Power%20Query%20for%20Beginners.md)

@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[IT Service Desk- Customer Service Fundamentals]]
+- [IT Service Desk- Customer Service Fundamentals](../../Courses/IT%20Help%20Desk/IT%20Service%20Desk-%20Customer%20Service%20Fundamentals.md)

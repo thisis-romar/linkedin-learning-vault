@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Creating a Responsible Generative AI Use Policy]]
-- [[Build Your Generative AI Plan for Marketing Success]]
+- [Creating a Responsible Generative AI Use Policy](../../Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Responsible%20Generative%20AI%20Use%20Policy.md)
+- [Build Your Generative AI Plan for Marketing Success](../../Courses/Artificial%20Intelligence%20(AI)/Build%20Your%20Generative%20AI%20Plan%20for%20Marketing%20Success.md)

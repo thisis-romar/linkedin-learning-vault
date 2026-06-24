@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack]]
+- [Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack](../../Courses/Cybersecurity/Crisis%20Communication%20Planning%20After%20a%20Ransomware%20or%20Other%20Cybersecurity%20Attack.md)

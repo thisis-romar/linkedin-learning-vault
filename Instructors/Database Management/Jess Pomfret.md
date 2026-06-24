@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Management Essential Training]]
-- [[Automating SQL Server with dbatools]]
-- [[Level Up- Advanced SQL]]
+- [Data Management Essential Training](../../Courses/Data%20Science/Data%20Management%20Essential%20Training.md)
+- [Automating SQL Server with dbatools](../../Courses/Database%20Management/Automating%20SQL%20Server%20with%20dbatools.md)
+- [Level Up- Advanced SQL](../../Courses/Data%20Science/Level%20Up-%20Advanced%20SQL.md)

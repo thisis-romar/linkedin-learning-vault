@@ -16,13 +16,13 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE6InISQKXVRQ/learning-public-crop_675_1200/B4DZU_uFWkGkAc-/0/1740530800297?e=2147483647&amp;v=beta&amp;t=v-UM2D7RGMmbAEZouV7Lqesawp6Sg_Gyf6XTHiDQ01o"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[SQL Hands-On Practice]]'
-  - '[[Advance Your Skills in SQL]]'
+  - '[SQL Hands-On Practice](../../Paths/Data%20Science/Learning%20Paths/SQL%20Hands-On%20Practice.md)'
+  - '[Advance Your Skills in SQL](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20SQL.md)'
 prev_courses:
-  - '[[Practice It- SQL Joins]]'
-  - '[[Using SQL with Python]]'
+  - '[Practice It- SQL Joins](Practice%20It-%20SQL%20Joins.md)'
+  - '[Using SQL with Python](Using%20SQL%20with%20Python.md)'
 next_courses:
-  - '[[Data Analysis- Investigate with SQL]]'
+  - '[Data Analysis- Investigate with SQL](Data%20Analysis-%20Investigate%20with%20SQL.md)'
   - null
 path_nav: '[{"path":"SQL Hands-On Practice","position":6,"total":9,"prev":"Practice It- SQL Joins","next":"Data Analysis- Investigate with SQL"},{"path":"Advance Your Skills in SQL","position":5,"total":5,"prev":"Using SQL with Python","next":null}]'
 path_count: 2
@@ -88,11 +88,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980&t=0)** - [Scott] When we're learning how to use [[SQL]], it's useful to practice with real world examples. We'll use two [[Databases]] that represent real world situations. First, we'll perform some practical tasks with a database that a restaurant might use, and then we'll shift our focus to common operations that we might perform in a library setting. I'm Scott Simpson, and I hope you'll join me for this course where I'll challenge you to complete some hands-on tasks with SQL. Let's go.
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980&t=0)** - [Scott] When we're learning how to use [SQL](../../Skills/Data%20Science/SQL.md), it's useful to practice with real world examples. We'll use two [Databases](../../Skills/Software%20Development/Databases.md) that represent real world situations. First, we'll perform some practical tasks with a database that a restaurant might use, and then we'll shift our focus to common operations that we might perform in a library setting. I'm Scott Simpson, and I hope you'll join me for this course where I'll challenge you to complete some hands-on tasks with SQL. Let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (2), [Databases](../../Skills/Software%20Development/Databases.md) (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 
@@ -100,13 +100,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/exploring-the-databases?u=76281980&t=0)** - [Instructor] For the challenges in this course, we'll be using two [[Databases]], one for a small local restaurant and one for a community library. In each challenge, I'll provide you with information about what tables I expect you to use to solve the challenges, but I'd like to give you a high level overview of what these databases look like before we start. The restaurant database starts out with eight tables, but that'll change as we move through the challenges. This is a simplified diagram of all the tables, though we won't be using all of them in each challenge. I'll give you more focused diagrams in each challenge to show which tables are going to be used. Some of the tables in the restaurant database contain information about the restaurant's customers and about the dishes the restaurant serves. Other tables are linking tables, associating customer and dishes values with each other in various ways, like to represent the items in a takeout or delivery order. I've labeled the primary keys in each table with PK and where you see field names that correspond to those in other tables, those values are being used as foreign keys there. So for example, customer ID in the orders table refers to the customer ID in the customer's table. Order ID in the orders dishes table refers to order ID in the orders table, and dish ID in the orders dishes table refers to dish ID in the dishes table. So an order belongs to a customer and includes one or more dishes represented as records in the orders dishes table. Some of the other tables are used to associate customers with attendance at special events, for records about dining reservations and so on. The library database contains three tables. One of these tables contains records
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/exploring-the-databases?u=76281980&t=0)** - [Instructor] For the challenges in this course, we'll be using two [Databases](../../Skills/Software%20Development/Databases.md), one for a small local restaurant and one for a community library. In each challenge, I'll provide you with information about what tables I expect you to use to solve the challenges, but I'd like to give you a high level overview of what these databases look like before we start. The restaurant database starts out with eight tables, but that'll change as we move through the challenges. This is a simplified diagram of all the tables, though we won't be using all of them in each challenge. I'll give you more focused diagrams in each challenge to show which tables are going to be used. Some of the tables in the restaurant database contain information about the restaurant's customers and about the dishes the restaurant serves. Other tables are linking tables, associating customer and dishes values with each other in various ways, like to represent the items in a takeout or delivery order. I've labeled the primary keys in each table with PK and where you see field names that correspond to those in other tables, those values are being used as foreign keys there. So for example, customer ID in the orders table refers to the customer ID in the customer's table. Order ID in the orders dishes table refers to order ID in the orders table, and dish ID in the orders dishes table refers to dish ID in the dishes table. So an order belongs to a customer and includes one or more dishes represented as records in the orders dishes table. Some of the other tables are used to associate customers with attendance at special events, for records about dining reservations and so on. The library database contains three tables. One of these tables contains records
 >
 > **[1:32](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/exploring-the-databases?u=76281980&t=92)** for the 200 books our library has in its collection. Another table contains information about 100 library patrons, and the third table contains records for 2000 loans or instances when someone borrowed a book. In the loans table, books and patrons are referred to by their ID number, which are the primary keys for records in the books and patrons tables respectively. I don't expect you to memorize the structure of these databases. As I said, I'll provide you diagrams of the relevant tables in each challenge. When you're working on a challenge, feel free to write your own select queries to explore the database. If you do, you'll see a message about a wrong answer, but that's fine because all that really matters is whether you get to a solution that matches what's expected when you're done working on each challenge. Additionally, each time you run your code, the database starts out in its initial state, so changes that you make won't persist across multiple times that you run a query. You could drop all the tables if you want to, and the database will be right there waiting for you the next time you click to try your code. So don't worry about accidentally making changes that will get you out of sync with what the challenge evaluation software expects. In the next video, we'll spend some time exploring the challenge interface.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (3)
+> **Frameworks & Libraries:** [Databases](../../Skills/Software%20Development/Databases.md) (3)
 > **Definitions:** refers to (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -118,11 +118,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/coderpad-tour?u=76281980&t=0)** - [Instructor] This course consists of automated code challenges that appear when you click the challenge links in the courses table of contents. Each challenge includes instructions and a code editor you can use to create and test your own solution to the challenge. These challenges are hosted by Coder Pad and they appear in the same area of the course page where you watch the courses videos. We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer. The code challenge has three areas, instructions in the top left, a console for output in the bottom left and a code editor for your answer on the right. You can use these drag handles to allocate space as you'd like. To get even more horizontal space for the code editor, you can collapse the courses table of contents on the left. Each challenge has instructions that include a description of the challenge and the challenge's desired result. Create your answer in the code editor. When you click test my code, you'll see a message indicating whether your code returned a correct result and a text-based version of the return data. If your answer doesn't create a correct result, you'll see a message telling you the code is incorrect and showing the data that was returned. If any messages are too long to fit in the console, you can scroll sideways to see all of the text. When you finish each code challenge, return to the courses table of contents and click the next video to see my solution.
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/coderpad-tour?u=76281980&t=0)** - [Instructor] This course consists of automated code challenges that appear when you click the challenge links in the courses table of contents. Each challenge includes instructions and a code editor you can use to create and test your own solution to the challenge. These challenges are hosted by Coder Pad and they appear in the same area of the course page where you watch the courses videos. We recommend using a desktop browser for the best experience with code challenges, but you can use the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning mobile app if you prefer. The code challenge has three areas, instructions in the top left, a console for output in the bottom left and a code editor for your answer on the right. You can use these drag handles to allocate space as you'd like. To get even more horizontal space for the code editor, you can collapse the courses table of contents on the left. Each challenge has instructions that include a description of the challenge and the challenge's desired result. Create your answer in the code editor. When you click test my code, you'll see a message indicating whether your code returned a correct result and a text-based version of the return data. If your answer doesn't create a correct result, you'll see a message telling you the code is incorrect and showing the data that was returned. If any messages are too long to fit in the console, you can scroll sideways to see all of the text. When you finish each code challenge, return to the courses table of contents and click the next video to see my solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -187,13 +187,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-update-a-customer-s-personal-information?u=76281980&t=0)** - [Instructor] Here's my solution to this challenge. There's a few ways to approach this challenge. You might have explored the database to find the customer ID for the customer whose information we're asked to update. Or you might use the information that was provided to focus in on the record that needs updating. That's what I did here. To change information in the database table, we'll use the UPDATE keyword and we'll provide the name of the table that we're updating information within. Then we'll provide the new information for the fields that we want to update. But it's important to limit our updating just to records that we want to update. If we don't provide a WHERE clause with some parameters to limit the records that we're updating, we'll end up making changes to every record in the database. And unless all of our customers are moving in with Taylor, that's not what we want. That would make delivery orders a lot easier, though. So, I'm using the information that was provided to target the record for the correct Taylor. If you explored the database, you might have noticed that there's another customer with the same name, but with different personal details. When we're dealing with names, it's pretty common to end up with customers or employees or contacts or similar kinds of records that have the same name. So we don't want to use just a name as a unique identifier in most cases. As I mentioned, you might have found the customer's ID number, and you might have used that in the criteria here instead of the customer's old address information. That's fine if you did. I'll end my update clause with a semi-colon. The challenge also asked us to return a report of customers with this name, FirstName Taylor, LastName [[Jenkins]]. So I wrote a select statement here to show all the fields with star from the Customers table
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-update-a-customer-s-personal-information?u=76281980&t=0)** - [Instructor] Here's my solution to this challenge. There's a few ways to approach this challenge. You might have explored the database to find the customer ID for the customer whose information we're asked to update. Or you might use the information that was provided to focus in on the record that needs updating. That's what I did here. To change information in the database table, we'll use the UPDATE keyword and we'll provide the name of the table that we're updating information within. Then we'll provide the new information for the fields that we want to update. But it's important to limit our updating just to records that we want to update. If we don't provide a WHERE clause with some parameters to limit the records that we're updating, we'll end up making changes to every record in the database. And unless all of our customers are moving in with Taylor, that's not what we want. That would make delivery orders a lot easier, though. So, I'm using the information that was provided to target the record for the correct Taylor. If you explored the database, you might have noticed that there's another customer with the same name, but with different personal details. When we're dealing with names, it's pretty common to end up with customers or employees or contacts or similar kinds of records that have the same name. So we don't want to use just a name as a unique identifier in most cases. As I mentioned, you might have found the customer's ID number, and you might have used that in the criteria here instead of the customer's old address information. That's fine if you did. I'll end my update clause with a semi-colon. The challenge also asked us to return a report of customers with this name, FirstName Taylor, LastName [Jenkins](../../Skills/DevOps/Jenkins.md). So I wrote a select statement here to show all the fields with star from the Customers table
 >
 > **[1:34](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-update-a-customer-s-personal-information?u=76281980&t=94)** where the FirstName and LastName are the values provided. I'll run this. And I have two records. Two Taylor Jenkins's. Or Taylor's Jenkins? Either way, we can confirm that we only updated the information for the one we intended. Here's that new address in New York for that customer. It looks like this solves the challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (3)
+> **Frameworks & Libraries:** [Jenkins](../../Skills/DevOps/Jenkins.md) (3)
 > **CLI Commands:** find (1), make (1)
 > **SQL:** update (1), where (1)
 > **Env Vars:** update (1), where (1)
@@ -246,11 +246,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-take-a-reservation?u=76281980&t=0)** - [Instructor] Here's how I solved this problem. To make a reservation, we'll add or insert a record into the Reservations table, with a CustomerID, a Date, and Time and a PartySize. As we've seen in other challenges, the CustomerID is something we'll need to look up in the Customers table, and I'm using a subquery again here to do that, returning the CustomerID value to my insert statement in the CustomerID position. The other two fields here that I'm using are given values that the challenge supplied, this date and time, 6:00 PM on April 12th, 2025, and a party size of 7. The challenge asked us to write a query to return some information about the reservation that was most recently added to the table. In some DBMS tools, we can get a value back from an insert statement, like a reservation ID, but we can also just use the highest value in the Reservations table in this case as well. We could write a query using the max function, or we could use an order by clause in descending order and limit the responses to just one record. That's what I did here. But if you used a more efficient query and got the expected result, good job. I'll run this and see if it satisfies the challenge. Looks like it does. There are often many ways to solve a problem using [[SQL]], and some are more efficient than others, but don't spend your time over optimizing if you don't have to.
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-take-a-reservation?u=76281980&t=0)** - [Instructor] Here's how I solved this problem. To make a reservation, we'll add or insert a record into the Reservations table, with a CustomerID, a Date, and Time and a PartySize. As we've seen in other challenges, the CustomerID is something we'll need to look up in the Customers table, and I'm using a subquery again here to do that, returning the CustomerID value to my insert statement in the CustomerID position. The other two fields here that I'm using are given values that the challenge supplied, this date and time, 6:00 PM on April 12th, 2025, and a party size of 7. The challenge asked us to write a query to return some information about the reservation that was most recently added to the table. In some DBMS tools, we can get a value back from an insert statement, like a reservation ID, but we can also just use the highest value in the Reservations table in this case as well. We could write a query using the max function, or we could use an order by clause in descending order and limit the responses to just one record. That's what I did here. But if you used a more efficient query and got the expected result, good job. I'll run this and see if it satisfies the challenge. Looks like it does. There are often many ways to solve a problem using [SQL](../../Skills/Data%20Science/SQL.md), and some are more efficient than others, but don't spend your time over optimizing if you don't have to.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Env Vars:** dbms (1), sql (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
@@ -335,13 +335,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-out-books?u=76281980&t=0)** - [Instructor] Let's check out how I solved this challenge. I used an insert statement, providing the values for each book loan. For each book that we loan out, we'll add a record to the loans table, and we can do that with separate statements or all in one. I chose to do this with just one statement. I'll insert into loans, and then I'll set the fields I want to work with. That's book ID, patron ID, loan date, and due date. We won't set a return date, because the books haven't been returned yet, and the way the database is set up, those values will be null if we don't provide a value. So these fields are in a set of parentheses, and now we need to provide values with the values keyword and a set of parentheses for the relevant values for each book. For the first book, I'll provide an ID by using a subquery to get that value based on the barcode, which is the information we'd have available if we were using a barcode scanner to scan each book during the checkout process. I'll provide the patron ID using another subquery that uses the email address from the patron's library card. And I'll put in the loan date and due date in [[SQL]] date format, with a year first, a dash, the month, another dash, and the day. In an automated system, this would be generated by the software according to whatever rules we might have set up, but here, we're using explicitly provided values. Then I do the same thing for the second book. With this statement, the loans will be added to the system. We can verify this information by looking up the patron's loans. For that, I'll write a select statement returning the four fields that the challenge requested, loan ID, title, due date, and return date. To get this information,
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-out-books?u=76281980&t=0)** - [Instructor] Let's check out how I solved this challenge. I used an insert statement, providing the values for each book loan. For each book that we loan out, we'll add a record to the loans table, and we can do that with separate statements or all in one. I chose to do this with just one statement. I'll insert into loans, and then I'll set the fields I want to work with. That's book ID, patron ID, loan date, and due date. We won't set a return date, because the books haven't been returned yet, and the way the database is set up, those values will be null if we don't provide a value. So these fields are in a set of parentheses, and now we need to provide values with the values keyword and a set of parentheses for the relevant values for each book. For the first book, I'll provide an ID by using a subquery to get that value based on the barcode, which is the information we'd have available if we were using a barcode scanner to scan each book during the checkout process. I'll provide the patron ID using another subquery that uses the email address from the patron's library card. And I'll put in the loan date and due date in [SQL](../../Skills/Data%20Science/SQL.md) date format, with a year first, a dash, the month, another dash, and the day. In an automated system, this would be generated by the software according to whatever rules we might have set up, but here, we're using explicitly provided values. Then I do the same thing for the second book. With this statement, the loans will be added to the system. We can verify this information by looking up the patron's loans. For that, I'll write a select statement returning the four fields that the challenge requested, loan ID, title, due date, and return date. To get this information,
 >
 > **[1:35](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-out-books?u=76281980&t=95)** I need values from the books table and the loans table. And then to look up the loans for this particular customer based on the information we have, which is their email address, I need to use a subquery here to look up the patron ID from the patrons table so I can use that to set my condition for the results from the loans table. Then I'll sort the results with the most recent loan based on the automatically generated loan ID at the top, with order by loan ID descending. I'll run this, and here I can see those two new loans with their null return date. Now we can hand the books over to the patron and wish them happy reading.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -424,18 +424,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980&t=0)** - [Scott] We've spent some time completing hands-on challenges that put our [[SQL]] skills to the test. Now, I encourage you to challenge yourself further. If you have a database to work with, set yourself some challenges that reflect real world tasks, or spend some time with our other hands-on SQL challenge courses here on [[LinkedIn]] Learning. There's nothing like hands-on practice to improve your skills. See you next time.
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980&t=0)** - [Scott] We've spent some time completing hands-on challenges that put our [SQL](../../Skills/Data%20Science/SQL.md) skills to the test. Now, I encourage you to challenge yourself further. If you have a database to work with, set yourself some challenges that reflect real world tasks, or spend some time with our other hands-on SQL challenge courses here on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning. There's nothing like hands-on practice to improve your skills. See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 
 
 ## Instructor
 
-- [[Scott Simpson]]
+- [Scott Simpson](../../Instructors/Software%20Development/Scott%20Simpson.md)
 
 ## Skills Covered
 
@@ -443,26 +443,26 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[SQL Hands-On Practice]]
-← [[Practice It- SQL Joins]] | **6 of 9** | [[Data Analysis- Investigate with SQL]] →
+### In [SQL Hands-On Practice](../../Paths/Data%20Science/Learning%20Paths/SQL%20Hands-On%20Practice.md)
+← [Practice It- SQL Joins](Practice%20It-%20SQL%20Joins.md) | **6 of 9** | [Data Analysis- Investigate with SQL](Data%20Analysis-%20Investigate%20with%20SQL.md) →
 
-### In [[Advance Your Skills in SQL]]
-← [[Using SQL with Python]] | **5 of 5**
+### In [Advance Your Skills in SQL](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20SQL.md)
+← [Using SQL with Python](Using%20SQL%20with%20Python.md) | **5 of 5**
 
 ## Appears In
 
-- [[SQL Hands-On Practice]]
-- [[Advance Your Skills in SQL]]
+- [SQL Hands-On Practice](../../Paths/Data%20Science/Learning%20Paths/SQL%20Hands-On%20Practice.md)
+- [Advance Your Skills in SQL](../../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20SQL.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Advanced SQL Project- Design and Manage a Database]] — SQL
-- [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — SQL
-- [[SQL Server Fundamentals- Master Basic Query Techniques]] — SQL
-- [[Advanced SQL for Data Science- Time Series]] — SQL
-- [[Intermediate SQL- Data Reporting and Analysis]] — SQL
+- [Advanced SQL Project- Design and Manage a Database](Advanced%20SQL%20Project-%20Design%20and%20Manage%20a%20Database.md) — SQL
+- [Practical Database Design- Implementing Responsible Data Solutions with SQL Querying](Practical%20Database%20Design-%20Implementing%20Responsible%20Data%20Solutions%20with%20SQL%20Querying.md) — SQL
+- [SQL Server Fundamentals- Master Basic Query Techniques](SQL%20Server%20Fundamentals-%20Master%20Basic%20Query%20Techniques.md) — SQL
+- [Advanced SQL for Data Science- Time Series](Advanced%20SQL%20for%20Data%20Science-%20Time%20Series.md) — SQL
+- [Intermediate SQL- Data Reporting and Analysis](Intermediate%20SQL-%20Data%20Reporting%20and%20Analysis.md) — SQL
 
 ---
 

@@ -22,16 +22,16 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]] — 1h 5m · 726,358 learners
+- [AI and the Future of Work- Workflows and Modern Tools for Tech Leaders](../../Courses/Artificial%20Intelligence%20(AI)/AI%20and%20the%20Future%20of%20Work-%20Workflows%20and%20Modern%20Tools%20for%20Tech%20Leaders.md) — 1h 5m · 726,358 learners
 
 ## Related Skills
 
-- [[AI for Leadership]] — 1 shared course
-- [[Technical Leadership]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [AI for Leadership](AI%20for%20Leadership.md) — 1 shared course
+- [Technical Leadership](../Software%20Development/Technical%20Leadership.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(3 total mentions)_
 
-1. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 1 mentions
-2. [[Creating a Responsible Generative AI Use Policy]] — 1 mentions
-3. [[Delivering and Analyzing a Software Pilot- GitHub Copilot]] — 1 mentions
+1. [Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Agentic%20AI%20in%20Cloud%20Computing-%20Strategy%20and%20Tool%20Optimization.md) — 1 mentions
+2. [Creating a Responsible Generative AI Use Policy](../../Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Responsible%20Generative%20AI%20Use%20Policy.md) — 1 mentions
+3. [Delivering and Analyzing a Software Pilot- GitHub Copilot](../../Courses/Artificial%20Intelligence%20(AI)/Delivering%20and%20Analyzing%20a%20Software%20Pilot-%20GitHub%20Copilot.md) — 1 mentions

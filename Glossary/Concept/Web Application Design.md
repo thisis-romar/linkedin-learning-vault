@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # Web Application Design
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Cybersecurity](../../Topics/Cybersecurity.md)
 
 ## Courses
 
-1. [[OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components]] — 1 mentions
+1. [OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components](../../Courses/Cybersecurity/OWASP%20Top%2010-%20-5%20Security%20Misconfiguration%20and%20-6%20Vulnerable%20and%20Outdated%20Components.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Master the OWASP Top 10]] — 1 total mentions
+1. [Master the OWASP Top 10](../../Paths/Cybersecurity/Learning%20Paths/Master%20the%20OWASP%20Top%2010.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

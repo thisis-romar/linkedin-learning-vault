@@ -22,29 +22,29 @@ created: 2026-05-03
 
 ## Courses
 
-- [[WordPress Essential Training]] — Beginner · 2h 4m · 33,332 learners
-- [[Building a Headless WordPress Site with Gatsby]] — Intermediate · 2h 31m · 5,709 learners
-- [[Building a WordPress Membership Site with Ecommerce]] — Intermediate · 1h 6m · 5,709 learners
-- [[Creating Block Patterns in WordPress]] — Beginner · 1h 33m · 5,709 learners
-- [[WordPress- Everything about Plugins]] — Intermediate · 1h 21m · 5,709 learners
-- [[WordPress- Staging a Site]] — Intermediate · 48m · 4,573 learners
-- [[Using Custom Meta Boxes in WordPress]] — Intermediate · 1h 33m · 4,154 learners
+- [WordPress Essential Training](../../Courses/Web%20Development/WordPress%20Essential%20Training.md) — Beginner · 2h 4m · 33,332 learners
+- [Building a Headless WordPress Site with Gatsby](../../Courses/Cybersecurity/Building%20a%20Headless%20WordPress%20Site%20with%20Gatsby.md) — Intermediate · 2h 31m · 5,709 learners
+- [Building a WordPress Membership Site with Ecommerce](../../Courses/Web%20Development/Building%20a%20WordPress%20Membership%20Site%20with%20Ecommerce.md) — Intermediate · 1h 6m · 5,709 learners
+- [Creating Block Patterns in WordPress](../../Courses/Web%20Development/Creating%20Block%20Patterns%20in%20WordPress.md) — Beginner · 1h 33m · 5,709 learners
+- [WordPress- Everything about Plugins](../../Courses/Cybersecurity/WordPress-%20Everything%20about%20Plugins.md) — Intermediate · 1h 21m · 5,709 learners
+- [WordPress- Staging a Site](../../Courses/Web%20Development/WordPress-%20Staging%20a%20Site.md) — Intermediate · 48m · 4,573 learners
+- [Using Custom Meta Boxes in WordPress](../../Courses/Cybersecurity/Using%20Custom%20Meta%20Boxes%20in%20WordPress.md) — Intermediate · 1h 33m · 4,154 learners
 
 ## Related Skills
 
-- [[Staging to Live]] — 1 shared course
-- [[GatsbyJS]] — 1 shared course
-- [[WordPress]] — 1 shared course
-- [[E-Commerce]] — 1 shared course
-- [[Back-End Web Development]] — 1 shared course
+- [Staging to Live](Staging%20to%20Live.md) — 1 shared course
+- [GatsbyJS](GatsbyJS.md) — 1 shared course
+- [WordPress](WordPress.md) — 1 shared course
+- [E-Commerce](E-Commerce.md) — 1 shared course
+- [Back-End Web Development](Back-End%20Web%20Development.md) — 1 shared course
 
 ## Mentioned In Transcripts _(11 total mentions)_
 
-1. [[WordPress- Custom Post Types and Taxonomies]] — 3 mentions
-2. [[Using Custom Meta Boxes in WordPress]] — 2 mentions
-3. [[AWS- Networking]] — 1 mentions
-4. [[WordPress- Internationalization]] — 1 mentions
-5. [[WordPress- REST API]] — 1 mentions
-6. [[Building a Headless WordPress Site with Gatsby]] — 1 mentions
-7. [[Building a WordPress Membership Site with Ecommerce]] — 1 mentions
-8. [[WordPress- Staging a Site]] — 1 mentions
+1. [WordPress- Custom Post Types and Taxonomies](../../Courses/Cybersecurity/WordPress-%20Custom%20Post%20Types%20and%20Taxonomies.md) — 3 mentions
+2. [Using Custom Meta Boxes in WordPress](../../Courses/Cybersecurity/Using%20Custom%20Meta%20Boxes%20in%20WordPress.md) — 2 mentions
+3. [AWS- Networking](../../Courses/Cloud%20Computing/AWS-%20Networking.md) — 1 mentions
+4. [WordPress- Internationalization](../../Courses/Cybersecurity/WordPress-%20Internationalization.md) — 1 mentions
+5. [WordPress- REST API](../../Courses/Cybersecurity/WordPress-%20REST%20API.md) — 1 mentions
+6. [Building a Headless WordPress Site with Gatsby](../../Courses/Cybersecurity/Building%20a%20Headless%20WordPress%20Site%20with%20Gatsby.md) — 1 mentions
+7. [Building a WordPress Membership Site with Ecommerce](../../Courses/Web%20Development/Building%20a%20WordPress%20Membership%20Site%20with%20Ecommerce.md) — 1 mentions
+8. [WordPress- Staging a Site](../../Courses/Web%20Development/WordPress-%20Staging%20a%20Site.md) — 1 mentions

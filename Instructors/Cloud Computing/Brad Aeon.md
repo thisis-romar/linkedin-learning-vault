@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building a Time Management Mindset]]
+- [Building a Time Management Mindset](../../Courses/Cloud%20Computing/Building%20a%20Time%20Management%20Mindset.md)

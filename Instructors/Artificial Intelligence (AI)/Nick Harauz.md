@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Midjourney- Tips and Techniques for Creating Images]]
-- [[Finding Creativity in the Age of AI]]
+- [Midjourney- Tips and Techniques for Creating Images](../../Courses/Artificial%20Intelligence%20(AI)/Midjourney-%20Tips%20and%20Techniques%20for%20Creating%20Images.md)
+- [Finding Creativity in the Age of AI](../../Courses/Artificial%20Intelligence%20(AI)/Finding%20Creativity%20in%20the%20Age%20of%20AI.md)

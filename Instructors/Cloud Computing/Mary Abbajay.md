@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Navigating Internal Mobility as an Employee]]
+- [Navigating Internal Mobility as an Employee](../../Courses/Cloud%20Computing/Navigating%20Internal%20Mobility%20as%20an%20Employee.md)

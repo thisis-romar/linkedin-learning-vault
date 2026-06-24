@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Vector Databases in Practice- Deep Dive]]
+- [Vector Databases in Practice- Deep Dive](../../Courses/Artificial%20Intelligence%20(AI)/Vector%20Databases%20in%20Practice-%20Deep%20Dive.md)

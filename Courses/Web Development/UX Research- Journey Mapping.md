@@ -14,11 +14,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C560DAQFJ-DL7KssPIQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1621362315583?e=2147483647&amp;v=beta&amp;t=n45zxi3-n36kq98k5zNcfTbeqbHtleY6nkcQ8B9ewLc"
 linkedin_topic: Web Development
 learning_paths:
-  - '[[Advance Your Skills as a User Experience Researcher]]'
+  - '[Advance Your Skills as a User Experience Researcher](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20User%20Experience%20Researcher.md)'
 prev_courses:
-  - '[[UX Deep Dive- Foundational Research]]'
+  - '[UX Deep Dive- Foundational Research](UX%20Deep%20Dive-%20Foundational%20Research.md)'
 next_courses:
-  - '[[UX Research for Agile Teams]]'
+  - '[UX Research for Agile Teams](UX%20Research%20for%20Agile%20Teams.md)'
 path_nav: '[{"path":"Advance Your Skills as a User Experience Researcher","position":3,"total":7,"prev":"UX Deep Dive- Foundational Research","next":"UX Research for Agile Teams"}]'
 path_count: 1
 tags:
@@ -69,11 +69,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980&t=0)** - What do all truly great [[Microsoft Products|products]] have in common? They meet the real needs of real customers. And they do it at the right time. In business and in life, timing is everything. So if you want to create a magical experience for your customers, start by looking at their journey in a chronological way. That way you can identify the moments that matter, and make them remarkable. Welcome to Journey Mapping. In this course, I'll show you how to gather data from your customers. Visualize their end to end experience. And use this to create products and services and marketing that hit home every time. Hi, I'm Sarah Weise. And over the past 15 years I've honed my craft in customer research. I've helped hundreds of clients in tech, retail, healthcare, finance, fashion and so many other industries reach their niche customers and build experiences that are downright addictive. I'll be sharing with you the exact templates and processes that I've developed along the way. So let's get going with Journey Mapping on [[LinkedIn]] Learning.
+> **[0:00](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980&t=0)** - What do all truly great [products](../../Skills/Software%20Development/Microsoft%20Products.md) have in common? They meet the real needs of real customers. And they do it at the right time. In business and in life, timing is everything. So if you want to create a magical experience for your customers, start by looking at their journey in a chronological way. That way you can identify the moments that matter, and make them remarkable. Welcome to Journey Mapping. In this course, I'll show you how to gather data from your customers. Visualize their end to end experience. And use this to create products and services and marketing that hit home every time. Hi, I'm Sarah Weise. And over the past 15 years I've honed my craft in customer research. I've helped hundreds of clients in tech, retail, healthcare, finance, fashion and so many other industries reach their niche customers and build experiences that are downright addictive. I'll be sharing with you the exact templates and processes that I've developed along the way. So let's get going with Journey Mapping on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
@@ -122,11 +122,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-research-journey-mapping/where-to-start?u=76281980&t=1)** - Now that you've seen what a Journey Map looks like, I want to boil it down in it's most simple format and give you a place to start. Because at the end of the day, a Journey Map is only useful if you use it. The exercise files for this course include a one page template that walks you through three main questions to answer about your customer. For each of the phases of the buying journey, the three questions are, what is the customer doing during this phase? Where and how are they doing it? And what's the customer feeling at this moment? I encourage you to fill out this template for each of your target customer segments. That means if you have three different customer personas, sketch out a Journey Map for each one. This will get you to a good starting place for your Journey Map. If you don't know something about your customer, make an educated guess. As you do [[Market Research]] and get to know your customer's buying behaviors better, you can and should absolutely update it. In the end, you have to start somewhere. Because you can't transform something you don't fully understand. There's no point in designing a new customer experience for tomorrow if you don't know what's going right and wrong today.
+> **[0:01](https://www.linkedin.com/learning/ux-research-journey-mapping/where-to-start?u=76281980&t=1)** - Now that you've seen what a Journey Map looks like, I want to boil it down in it's most simple format and give you a place to start. Because at the end of the day, a Journey Map is only useful if you use it. The exercise files for this course include a one page template that walks you through three main questions to answer about your customer. For each of the phases of the buying journey, the three questions are, what is the customer doing during this phase? Where and how are they doing it? And what's the customer feeling at this moment? I encourage you to fill out this template for each of your target customer segments. That means if you have three different customer personas, sketch out a Journey Map for each one. This will get you to a good starting place for your Journey Map. If you don't know something about your customer, make an educated guess. As you do [Market Research](../../Skills/Data%20Science/Market%20Research.md) and get to know your customer's buying behaviors better, you can and should absolutely update it. In the end, you have to start somewhere. Because you can't transform something you don't fully understand. There's no point in designing a new customer experience for tomorrow if you don't know what's going right and wrong today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (1)
+> **Frameworks & Libraries:** [Market Research](../../Skills/Data%20Science/Market%20Research.md) (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
@@ -137,13 +137,13 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980&t=1)** - Think back to the last time you went to the airport and took a trip. You probably searched for flights on your phone or computer and compared prices using different apps or sites. Only one seat left on this flight. Anxiety is rising. You have to book it. It may not be exactly the one you wanted, but hey, it's a flight. Whew, what a relief to get a ticket at all. But then you forgot to add your TSA pre-check number or your global entry number when booking. So you have to do that when you check in. You set your phone alarm to remind you to check into your flight online 24 hours ahead so you can get an early boarding group assignment, but then you've got a meeting at that time. Hours later when you finally remember to do it, you're in the last possible group to board. You walk into the airport and the line at the checkout counter is so long, but hey, they've got a self-serve kiosk. Woo hoo, finally, something's looking bright, but oh wait, there's a long line for the kiosk too. How frustrating. This is a typical customer journey and the emotional ups and downs keep going on as you walk through the airport, get on the flight and land at your destination. Want to know what's really crazy though? 80% of airlines believe that they provide top-notch service while only 8% of customers agree. The point here is that until we know what our customers are actually going through, until we map out all the emotions that happen in their experience,
 >
-> **[1:35](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980&t=95)** we aren't going to know how we're actually doing as a company and we're definitely not going to be able to create loyal customers. So what happens when a company actually starts going through this exercise? They may realize that they need to do something way different to disrupt the normal pattern. That's exactly what happened with Surf Air, a company that realized the airline experience was broken and they figured out a way to disrupt it. They designed an experience that targeted frequent business travelers. Their goal was to take all of these anxieties about booking a flight and getting to the airport and waiting forever and relieve pain points one by one at every single touch point. They created a membership-based airline where for a monthly rate, you can fly between a ton of small airports and planes holding up to nine passengers. You can arrive just 15 minutes before your flight and walk directly onto the tarmac and onto the plane. What a difference. While Surf Air started in just California and Nevada, they now offer flights throughout the country. By understanding what our customers are going through, we can meticulously craft an end-to-end experience that delights the customer at each and every moment in their experience. This is how you design businesses, [[Microsoft Products|products]], and services that people will go nuts over.
+> **[1:35](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980&t=95)** we aren't going to know how we're actually doing as a company and we're definitely not going to be able to create loyal customers. So what happens when a company actually starts going through this exercise? They may realize that they need to do something way different to disrupt the normal pattern. That's exactly what happened with Surf Air, a company that realized the airline experience was broken and they figured out a way to disrupt it. They designed an experience that targeted frequent business travelers. Their goal was to take all of these anxieties about booking a flight and getting to the airport and waiting forever and relieve pain points one by one at every single touch point. They created a membership-based airline where for a monthly rate, you can fly between a ton of small airports and planes holding up to nine passengers. You can arrive just 15 minutes before your flight and walk directly onto the tarmac and onto the plane. What a difference. While Surf Air started in just California and Nevada, they now offer flights throughout the country. By understanding what our customers are going through, we can meticulously craft an end-to-end experience that delights the customer at each and every moment in their experience. This is how you design businesses, [products](../../Skills/Software%20Development/Microsoft%20Products.md), and services that people will go nuts over.
 >
 > **[3:08](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980&t=188)** And this is why at every point in your customer's journey, emotions matter because where there is extreme emotion, there is extreme opportunity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1)
 > **Env Vars:** tsa (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -159,7 +159,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980&t=0)** - I was recently observing footage from a usability test session. A client had come to me with a quandary. "I don't know what's wrong," she said. "The participants, they're all able "to get through the scenarios in record time. "They use words like simple and easy. "All the best practices are being followed, "but the website, it just isn't converting." As I watched the footage, I realized that the product wasn't broken, it was just boring. Because the company wasn't asking the right questions, they didn't know what needed to change to make an impact. Whoever said that there are no bad questions, must not have been in [[Market Research]]. I can't tell you how often companies make terrible decisions because they ask about something that doesn't matter to the user, or they ask a leading question, or they ask a question about a solution when they don't even have a good understanding of the problem. I don't want that to be you. So, here are some sample questions you can ask at different points along your customer's journey that will help you get the data you need. Ask your questions in chronological order, based on the phases of the journey you want to outline. The first phase is awareness. So, ask about what problem or pain point led them to seek a solution. "What are your biggest challenges "when it comes to this topic?" "What's the number one thing you struggle with?" Note that these questions are about the topic,
+> **[0:00](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980&t=0)** - I was recently observing footage from a usability test session. A client had come to me with a quandary. "I don't know what's wrong," she said. "The participants, they're all able "to get through the scenarios in record time. "They use words like simple and easy. "All the best practices are being followed, "but the website, it just isn't converting." As I watched the footage, I realized that the product wasn't broken, it was just boring. Because the company wasn't asking the right questions, they didn't know what needed to change to make an impact. Whoever said that there are no bad questions, must not have been in [Market Research](../../Skills/Data%20Science/Market%20Research.md). I can't tell you how often companies make terrible decisions because they ask about something that doesn't matter to the user, or they ask a leading question, or they ask a question about a solution when they don't even have a good understanding of the problem. I don't want that to be you. So, here are some sample questions you can ask at different points along your customer's journey that will help you get the data you need. Ask your questions in chronological order, based on the phases of the journey you want to outline. The first phase is awareness. So, ask about what problem or pain point led them to seek a solution. "What are your biggest challenges "when it comes to this topic?" "What's the number one thing you struggle with?" Note that these questions are about the topic,
 >
 > **[1:35](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980&t=95)** not about your brand or product. A sleep clinic might ask, "What are your biggest challenges when it comes to sleep?" A tech startup might inquire, "What do you struggle with "when it comes to integrating machine learning "into your organization?" After digging into the problem, ask about how they came to know about you. "What were you doing "when you first heard about this company?" "What drew you to this brand in the first place?" "Who told you about this product?" Next, talk about what they've tried in the past. Past actions are the best indicator of future behavior. So, instead of asking, "Would you use this product?" or, "What other competitors might you look into?" Ask about what they've already done. "What else have you tried?" "What sources did you get information from "when you were looking into this product?" "What else did you explore as an alternative?" "Who did you ask for advice?" "What features were most important "when comparing alternatives?" Next, talk about buying. "Tell me about the process for buying a product like this." "Who's the final decision maker?" "Who influences the decision?" "What's the number one thing that stops you from buying?" Finally, ask them about their life after their purchase. "Tell me about what you did with this product." "How are you using it today?" "How often do you tell your friends about it?"
 >
@@ -167,7 +167,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (1)
+> **Frameworks & Libraries:** [Market Research](../../Skills/Data%20Science/Market%20Research.md) (1)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (1)
 > **Speakers:** - i (1)
@@ -176,7 +176,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=1)** - If you really want to understand your customer's journey you need to get into their world and empathize with what their experience is actually like. Thinking like a customer will help you know what to ask and how to probe deeper to get the best possible data from your study participants. Here are four ways to stand in the shoes of your customer. First, find out where they hang out online, see what they are talking about and start some conversations. For example, maybe your audience is new moms and they are hanging out in a [[Facebook]] group. Go into the group and in the search bar type in words like recommendations or help or looking for. This will pull up posts about common questions and challenges that they want help with. Next, pose questions to the community like, "what are the best swaddling [[Microsoft Products|products]] "you've tried to get your babies to go to sleep with?" Right now, Clubhouse is one of the fastest and easiest ways to get data from customers. You can test messaging by opening a room to find out if your words attract the right crowd. You can start a quick conversation about a topic and shut down the room when you've got the data you need. Wherever you start these conversations remember not to sell, you are there to learn and to engage from a place of curiosity. Second, set up one on one interviews or small focus groups, you can get great data by asking people to talk through their experiences
+> **[0:01](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=1)** - If you really want to understand your customer's journey you need to get into their world and empathize with what their experience is actually like. Thinking like a customer will help you know what to ask and how to probe deeper to get the best possible data from your study participants. Here are four ways to stand in the shoes of your customer. First, find out where they hang out online, see what they are talking about and start some conversations. For example, maybe your audience is new moms and they are hanging out in a [Facebook](../../Glossary/Service/Facebook.md) group. Go into the group and in the search bar type in words like recommendations or help or looking for. This will pull up posts about common questions and challenges that they want help with. Next, pose questions to the community like, "what are the best swaddling [products](../../Skills/Software%20Development/Microsoft%20Products.md) "you've tried to get your babies to go to sleep with?" Right now, Clubhouse is one of the fastest and easiest ways to get data from customers. You can test messaging by opening a room to find out if your words attract the right crowd. You can start a quick conversation about a topic and shut down the room when you've got the data you need. Wherever you start these conversations remember not to sell, you are there to learn and to engage from a place of curiosity. Second, set up one on one interviews or small focus groups, you can get great data by asking people to talk through their experiences
 >
 > **[1:34](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=94)** from awareness all the way through the funnel. Ask participants to tell you all the activities they went through when buying your product. Invite them to put sticky notes on the wall and plot out their process. Participants can also build off of each other's sticky notes. Online sticky note tools like Miro or un-moderated card sorting tools like OptimalSort make this a breeze to do virtually. The third way is through ethnography meaning directly observing your customer's behavior. Ever watch a frequent shopper at a thrift store, you will see them collect a ton of stuff in their carts and then right before checkout, they'll remove things. They do this because at thrift stores the things you find are one of a kind and if you don't grab it when you see it someone else might get it. Observing shoppers as they shop and being that fly on the wall gets you deep insights into the customer's processes, motivations and emotions. And finally, mobile diary studies where we ask participants to log their experiences over time. Mobile diary studies let you see authentic interaction with your product and your brand, you can learn a lot more about this tool in my course that's all about mobile diary studies. But as an example, if we were doing a study on how people shop for holiday gifts we might have them take videos or answer surveys throughout the process,
 >
@@ -184,7 +184,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Facebook]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [Facebook](../../Glossary/Service/Facebook.md) (1), [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -233,13 +233,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-research-journey-mapping/service-blueprinting-a-plan-for-backstage-support?u=76281980&t=1)** - Once you have a journey map of your customer steps it's often helpful to detail out the internal systems and processes that support this experience. You can think of this like a theater where what's onstage is everything that the customer sees and backstage is all the infrastructure and support to make the performance happen. So for each customer action or touch point, you'll want to build out a list of the supporting processes that are required. For example, let's say a customer visits a web website that's a customer touch point in your journey map. Onstage, a welcome message pops up in a chat window. That's what the customer sees. Meanwhile backstage, someone has to write that welcome message and in order for them to write it, there needs to be an online chat tool installed on the site. In another example, let's say your customer calls the help center. What processes must be in place? You might want an [[Interactive Voice Response (IVR)|interactive voice response]] system prompting them to press one or press two. Maybe it's a system that allows them to ask their question as a full sentence. Alternatively, you could hire a call center that picks up immediately, or you could design the experience so that the person leaves a voicemail and someone returns it the next day. Experiences that are designed in different ways will require a different set of backend systems and processes to be in place. When you plot the actions both onstage and backstage for each touchpoint, this is called a service blueprint.
+> **[0:01](https://www.linkedin.com/learning/ux-research-journey-mapping/service-blueprinting-a-plan-for-backstage-support?u=76281980&t=1)** - Once you have a journey map of your customer steps it's often helpful to detail out the internal systems and processes that support this experience. You can think of this like a theater where what's onstage is everything that the customer sees and backstage is all the infrastructure and support to make the performance happen. So for each customer action or touch point, you'll want to build out a list of the supporting processes that are required. For example, let's say a customer visits a web website that's a customer touch point in your journey map. Onstage, a welcome message pops up in a chat window. That's what the customer sees. Meanwhile backstage, someone has to write that welcome message and in order for them to write it, there needs to be an online chat tool installed on the site. In another example, let's say your customer calls the help center. What processes must be in place? You might want an [interactive voice response](../../Skills/Software%20Development/Interactive%20Voice%20Response%20(IVR).md) system prompting them to press one or press two. Maybe it's a system that allows them to ask their question as a full sentence. Alternatively, you could hire a call center that picks up immediately, or you could design the experience so that the person leaves a voicemail and someone returns it the next day. Experiences that are designed in different ways will require a different set of backend systems and processes to be in place. When you plot the actions both onstage and backstage for each touchpoint, this is called a service blueprint.
 >
 > **[1:37](https://www.linkedin.com/learning/ux-research-journey-mapping/service-blueprinting-a-plan-for-backstage-support?u=76281980&t=97)** It's not just a representation of the customer's experience, it's the plan for how the company is going to make that experience happen. It's the execution piece of the journey map. With this service blueprint, you'll be able to quickly spot where backend operations are lacking in support of a customer touchpoint. If you determine that it's an important moment in your customer's experience, you can allocate more resources and support. A service blueprint helps us make internal business decisions that directly serve as the foundation for your customer's experience. This is a powerful addition to any journey map.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interactive Voice Response (IVR)|Interactive voice response]] (1)
+> **Frameworks & Libraries:** [Interactive voice response](../../Skills/Software%20Development/Interactive%20Voice%20Response%20(IVR).md) (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (1)
@@ -254,11 +254,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=1)** - When it comes down to it, wouldn't we all prefer nonstop flight to one with lots of different layovers and airlines? In the same way, your customers want their interactions with you to be easy and seamless. A journey map allows you to plot what your customer's going through at every stop so that you can streamline their experience and make it friction-free. Creating this ideal customer experience is what's going to differentiate you from any competitor. The key here is to get your data direct from the source, your customers. To continue building your [[Market Research]] toolkit check out my [[LinkedIn]] Learning courses on [[Market Research Foundations]] and qualitative market research. If you have questions along the way feel free to reach out to me on LinkedIn or [[Instagram]]. I'm always happy to help. And if you'd like a free chapter of my book visit [bixaresearch.com/freechapter](https://bixaresearch.com/freechapter). Thank you so much for joining me. And I hope to see you again soon.
+> **[0:01](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=1)** - When it comes down to it, wouldn't we all prefer nonstop flight to one with lots of different layovers and airlines? In the same way, your customers want their interactions with you to be easy and seamless. A journey map allows you to plot what your customer's going through at every stop so that you can streamline their experience and make it friction-free. Creating this ideal customer experience is what's going to differentiate you from any competitor. The key here is to get your data direct from the source, your customers. To continue building your [Market Research](../../Skills/Data%20Science/Market%20Research.md) toolkit check out my [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning courses on [Market Research Foundations](../Data%20Science/Market%20Research%20Foundations.md) and qualitative market research. If you have questions along the way feel free to reach out to me on LinkedIn or [Instagram](../../Glossary/Service/Instagram.md). I'm always happy to help. And if you'd like a free chapter of my book visit [bixaresearch.com/freechapter](https://bixaresearch.com/freechapter). Thank you so much for joining me. And I hope to see you again soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (3), [[LinkedIn]] (2), [[Instagram]] (1)
+> **Frameworks & Libraries:** [Market Research](../../Skills/Data%20Science/Market%20Research.md) (3), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2), [Instagram](../../Glossary/Service/Instagram.md) (1)
 > **CLI Commands:** make (1)
 > **URLs:** [bixaresearch.com](https://bixaresearch.com) (1)
 > **Speakers:** - when (1)
@@ -266,7 +266,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Sarah Weise]]
+- [Sarah Weise](../../Instructors/Web%20Development/Sarah%20Weise.md)
 
 ## Resources
 
@@ -278,22 +278,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Advance Your Skills as a User Experience Researcher]]
-← [[UX Deep Dive- Foundational Research]] | **3 of 7** | [[UX Research for Agile Teams]] →
+### In [Advance Your Skills as a User Experience Researcher](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20User%20Experience%20Researcher.md)
+← [UX Deep Dive- Foundational Research](UX%20Deep%20Dive-%20Foundational%20Research.md) | **3 of 7** | [UX Research for Agile Teams](UX%20Research%20for%20Agile%20Teams.md) →
 
 ## Appears In
 
-- [[Advance Your Skills as a User Experience Researcher]]
+- [Advance Your Skills as a User Experience Researcher](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20User%20Experience%20Researcher.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[UX Deep Dive- Remote Research]] — UX Research
-- [[Conducting Remote UX Research Interviews]] — UX Research
-- [[UX Research- Being Flexible]] — UX Research
-- [[UX Research for Agile Teams]] — UX Research
-- [[UX Deep Dive- Foundational Research]] — UX Research
+- [UX Deep Dive- Remote Research](UX%20Deep%20Dive-%20Remote%20Research.md) — UX Research
+- [Conducting Remote UX Research Interviews](Conducting%20Remote%20UX%20Research%20Interviews.md) — UX Research
+- [UX Research- Being Flexible](UX%20Research-%20Being%20Flexible.md) — UX Research
+- [UX Research for Agile Teams](UX%20Research%20for%20Agile%20Teams.md) — UX Research
+- [UX Deep Dive- Foundational Research](UX%20Deep%20Dive-%20Foundational%20Research.md) — UX Research
 
 ---
 

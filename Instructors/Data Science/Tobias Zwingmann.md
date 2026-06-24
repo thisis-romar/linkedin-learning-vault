@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Enhancing Your Productivity as a Data Scientist with Generative AI]]
+- [Enhancing Your Productivity as a Data Scientist with Generative AI](../../Courses/Data%20Science/Enhancing%20Your%20Productivity%20as%20a%20Data%20Scientist%20with%20Generative%20AI.md)

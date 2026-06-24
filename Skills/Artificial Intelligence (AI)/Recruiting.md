@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI, Recruiting, and Talent Acquisition]] — Beginner · 33m · 530,562 learners
+- [Generative AI, Recruiting, and Talent Acquisition](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%2C%20Recruiting%2C%20and%20Talent%20Acquisition.md) — Beginner · 33m · 530,562 learners
 
 ## Related Skills
 
-- [[Generative AI for Recruiting]] — 1 shared course
-- [[Talent Management]] — 1 shared course
-- [[AI for Business]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Generative AI for Recruiting](Generative%20AI%20for%20Recruiting.md) — 1 shared course
+- [Talent Management](Talent%20Management.md) — 1 shared course
+- [AI for Business](AI%20for%20Business.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

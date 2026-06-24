@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction To Ai Native Vector Databases]]
+- [Introduction To Ai Native Vector Databases](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Ai%20Native%20Vector%20Databases.md)

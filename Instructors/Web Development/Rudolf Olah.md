@@ -20,6 +20,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building Angular and Django Apps]]
-- [[Building RESTful Web APIs with Django]]
-- [[Securing Django Applications]]
+- [Building Angular and Django Apps](../../Courses/Web%20Development/Building%20Angular%20and%20Django%20Apps.md)
+- [Building RESTful Web APIs with Django](../../Courses/Web%20Development/Building%20RESTful%20Web%20APIs%20with%20Django.md)
+- [Securing Django Applications](../../Courses/Web%20Development/Securing%20Django%20Applications.md)

@@ -30,17 +30,17 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Debugging in C-]]
-- [[Programming Foundations- Conducting Code Reviews]]
-- [[Programming Foundations- Data Structures]]
-- [[C Sharp Algorithms]]
-- [[Nail Your C- Interview]]
-- [[Case Study- Visualize Complex Microservice Data Using Python]]
-- [[Nail Your Java Interview]]
-- [[Java Algorithms]]
-- [[Learning Java 11]]
-- [[Java Object-Oriented Programming]]
-- [[Learning the Python 3 Standard Library]]
-- [[Advanced Python- Practical Database Examples]]
-- [[Advanced Python- Working with Databases]]
-- [[Learning Java 17]]
+- [Debugging in C-](../../Courses/Software%20Development/Debugging%20in%20C-.md)
+- [Programming Foundations- Conducting Code Reviews](../../Courses/Cloud%20Computing/Programming%20Foundations-%20Conducting%20Code%20Reviews.md)
+- [Programming Foundations- Data Structures](../../Courses/Software%20Development/Programming%20Foundations-%20Data%20Structures.md)
+- [C Sharp Algorithms](../../Courses/Software%20Development/C%20Sharp%20Algorithms.md)
+- [Nail Your C- Interview](../../Courses/Software%20Development/Nail%20Your%20C-%20Interview.md)
+- [Case Study- Visualize Complex Microservice Data Using Python](../../Courses/Software%20Development/Case%20Study-%20Visualize%20Complex%20Microservice%20Data%20Using%20Python.md)
+- [Nail Your Java Interview](../../Courses/Cloud%20Computing/Nail%20Your%20Java%20Interview.md)
+- [Java Algorithms](../../Courses/Data%20Science/Java%20Algorithms.md)
+- [Learning Java 11](../../Courses/Software%20Development/Learning%20Java%2011.md)
+- [Java Object-Oriented Programming](../../Courses/Data%20Science/Java%20Object-Oriented%20Programming.md)
+- [Learning the Python 3 Standard Library](../../Courses/Data%20Science/Learning%20the%20Python%203%20Standard%20Library.md)
+- [Advanced Python- Practical Database Examples](../../Courses/Software%20Development/Advanced%20Python-%20Practical%20Database%20Examples.md)
+- [Advanced Python- Working with Databases](../../Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md)
+- [Learning Java 17](../../Courses/Software%20Development/Learning%20Java%2017.md)

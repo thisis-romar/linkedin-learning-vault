@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced]]
+- [Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced](../../Courses/Data%20Science/Low%20Code-No-Code%20Data%20Literacy%20with%20KNIME-%20From%20Basic%20to%20Advanced.md)

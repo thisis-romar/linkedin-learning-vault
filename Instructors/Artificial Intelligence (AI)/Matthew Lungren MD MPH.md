@@ -28,4 +28,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[An Introduction to How Generative AI Will Transform Healthcare]]
+- [An Introduction to How Generative AI Will Transform Healthcare](../../Courses/Artificial%20Intelligence%20(AI)/An%20Introduction%20to%20How%20Generative%20AI%20Will%20Transform%20Healthcare.md)

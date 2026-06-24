@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[MLOps and Data Pipeline Orchestration for AI Systems]] — Intermediate · 1h 19m · 3,859 learners
+- [MLOps and Data Pipeline Orchestration for AI Systems](../../Courses/Artificial%20Intelligence%20(AI)/MLOps%20and%20Data%20Pipeline%20Orchestration%20for%20AI%20Systems.md) — Intermediate · 1h 19m · 3,859 learners
 
 ## Related Skills
 
-- [[Data Pipelines]] — 1 shared course
-- [[MLOps]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Data Pipelines](Data%20Pipelines.md) — 1 shared course
+- [MLOps](../Artificial%20Intelligence%20(AI)/MLOps.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

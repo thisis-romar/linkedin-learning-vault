@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Using AI to Improve Ops for Your Data Organization]]
-- [[Advanced Python Projects- Build AI Applications]]
+- [Using AI to Improve Ops for Your Data Organization](../../Courses/Database%20Management/Using%20AI%20to%20Improve%20Ops%20for%20Your%20Data%20Organization.md)
+- [Advanced Python Projects- Build AI Applications](../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Python%20Projects-%20Build%20AI%20Applications.md)

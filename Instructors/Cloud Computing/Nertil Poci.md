@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Microsoft Azure Synapse for Developers]]
+- [Microsoft Azure Synapse for Developers](../../Courses/Cloud%20Computing/Microsoft%20Azure%20Synapse%20for%20Developers.md)

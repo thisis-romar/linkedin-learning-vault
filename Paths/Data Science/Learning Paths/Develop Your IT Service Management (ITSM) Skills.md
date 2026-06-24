@@ -21,23 +21,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[It Service Management Foundations Tools]]'
+  - course: '[It Service Management Foundations Tools](../../../Courses/Data%20Science/It%20Service%20Management%20Foundations%20Tools.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[IT Service Management Foundations- Measures and Metrics]]'
+  - course: '[IT Service Management Foundations- Measures and Metrics](../../../Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Measures%20and%20Metrics.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[IT Service Management Foundations- Change Management]]'
+  - course: '[IT Service Management Foundations- Change Management](../../../Courses/DevOps/IT%20Service%20Management%20Foundations-%20Change%20Management.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[IT Service Management Foundations- Problem Management]]'
+  - course: '[IT Service Management Foundations- Problem Management](../../../Courses/DevOps/IT%20Service%20Management%20Foundations-%20Problem%20Management.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[IT Service Management Foundations- Capacity and Availability Management]]'
+  - course: '[IT Service Management Foundations- Capacity and Availability Management](../../../Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Capacity%20and%20Availability%20Management.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -52,28 +52,28 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[It Service Management Foundations Tools]]
-2. [[IT Service Management Foundations- Measures and Metrics]] _(1h 36m)_
-3. [[IT Service Management Foundations- Change Management]] _(1h 38m)_
-4. [[IT Service Management Foundations- Problem Management]] _(1h 38m)_
-5. [[IT Service Management Foundations- Capacity and Availability Management]] _(1h 13m)_
+1. [It Service Management Foundations Tools](../../../Courses/Data%20Science/It%20Service%20Management%20Foundations%20Tools.md)
+2. [IT Service Management Foundations- Measures and Metrics](../../../Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Measures%20and%20Metrics.md) _(1h 36m)_
+3. [IT Service Management Foundations- Change Management](../../../Courses/DevOps/IT%20Service%20Management%20Foundations-%20Change%20Management.md) _(1h 38m)_
+4. [IT Service Management Foundations- Problem Management](../../../Courses/DevOps/IT%20Service%20Management%20Foundations-%20Problem%20Management.md) _(1h 38m)_
+5. [IT Service Management Foundations- Capacity and Availability Management](../../../Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Capacity%20and%20Availability%20Management.md) _(1h 13m)_
 
 ## Course Flow
 
-1. [[It Service Management Foundations Tools]] → 2. [[IT Service Management Foundations- Measures and Metrics]] → 3. [[IT Service Management Foundations- Change Management]] → 4. [[IT Service Management Foundations- Problem Management]] → 5. [[IT Service Management Foundations- Capacity and Availability Management]]
+1. [It Service Management Foundations Tools](../../../Courses/Data%20Science/It%20Service%20Management%20Foundations%20Tools.md) → 2. [IT Service Management Foundations- Measures and Metrics](../../../Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Measures%20and%20Metrics.md) → 3. [IT Service Management Foundations- Change Management](../../../Courses/DevOps/IT%20Service%20Management%20Foundations-%20Change%20Management.md) → 4. [IT Service Management Foundations- Problem Management](../../../Courses/DevOps/IT%20Service%20Management%20Foundations-%20Problem%20Management.md) → 5. [IT Service Management Foundations- Capacity and Availability Management](../../../Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Capacity%20and%20Availability%20Management.md)
 
 ## Topics
 
-- [[Data Science]]
-- [[DevOps]]
-- [[Network and System Administration]]
+- [Data Science](../../../Topics/Data%20Science.md)
+- [DevOps](../../../Topics/DevOps.md)
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Atlassian IT Service Management (ITSM) Professional Certificate]] (2 shared courses)
+- [Atlassian IT Service Management (ITSM) Professional Certificate](../../DevOps/Professional%20Certificates/Atlassian%20IT%20Service%20Management%20(ITSM)%20Professional%20Certificate.md) (2 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

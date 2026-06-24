@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leadership Foundations]] — Beginner · 2h 5m · 130,992 learners
-- [[Influence Skills for Leaders and Managers]] — Intermediate · 1h 12m · 57,671 learners
-- [[Leading with Innovation in the Age of AI]] — Intermediate · 1h 44m · 20,360 learners
-- [[Leadership in Tech]] — 1h 2m · 11,342 learners
+- [Leadership Foundations](../../Courses/Data%20Science/Leadership%20Foundations.md) — Beginner · 2h 5m · 130,992 learners
+- [Influence Skills for Leaders and Managers](../../Courses/Data%20Science/Influence%20Skills%20for%20Leaders%20and%20Managers.md) — Intermediate · 1h 12m · 57,671 learners
+- [Leading with Innovation in the Age of AI](../../Courses/Artificial%20Intelligence%20(AI)/Leading%20with%20Innovation%20in%20the%20Age%20of%20AI.md) — Intermediate · 1h 44m · 20,360 learners
+- [Leadership in Tech](../../Courses/Cloud%20Computing/Leadership%20in%20Tech.md) — 1h 2m · 11,342 learners
 
 ## Related Skills
 
-- [[Influencing Others]] — 1 shared course
-- [[Business Innovation]] — 1 shared course
-- [[AI for Leadership]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Influencing Others](Influencing%20Others.md) — 1 shared course
+- [Business Innovation](../Software%20Development/Business%20Innovation.md) — 1 shared course
+- [AI for Leadership](../Artificial%20Intelligence%20(AI)/AI%20for%20Leadership.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

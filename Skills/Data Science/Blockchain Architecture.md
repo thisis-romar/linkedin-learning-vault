@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Blockchain Programming in iOS Using Swift]] — Intermediate · 2h 15m · 5,294 learners
-- [[Blockchain for Developers- Hyperledger Fabric on Azure]] — Advanced · 1h 18m · 5,294 learners
+- [Blockchain Programming in iOS Using Swift](../../Courses/Cybersecurity/Blockchain%20Programming%20in%20iOS%20Using%20Swift.md) — Intermediate · 2h 15m · 5,294 learners
+- [Blockchain for Developers- Hyperledger Fabric on Azure](../../Courses/Cybersecurity/Blockchain%20for%20Developers-%20Hyperledger%20Fabric%20on%20Azure.md) — Advanced · 1h 18m · 5,294 learners
 
 ## Related Skills
 
-- [[Microsoft Azure]] — 1 shared course
+- [Microsoft Azure](../Cloud%20Computing/Microsoft%20Azure.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Cryptocurrency Foundations 17185357]] — 1 mentions
+1. [Cryptocurrency Foundations 17185357](../../Courses/Cybersecurity/Cryptocurrency%20Foundations%2017185357.md) — 1 mentions

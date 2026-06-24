@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Tips to Make Your Office Eco-Friendly]] — 59m · 40,150 learners
+- [Tips to Make Your Office Eco-Friendly](../../Courses/Software%20Development/Tips%20to%20Make%20Your%20Office%20Eco-Friendly.md) — 59m · 40,150 learners
 
 ## Related Skills
 
-- [[Sustainable Business]] — 1 shared course
+- [Sustainable Business](Sustainable%20Business.md) — 1 shared course

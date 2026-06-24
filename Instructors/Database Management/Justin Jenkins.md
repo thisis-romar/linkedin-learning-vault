@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning MongoDB]]
+- [Learning MongoDB](../../Courses/Database%20Management/Learning%20MongoDB.md)

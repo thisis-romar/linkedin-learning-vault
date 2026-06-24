@@ -16,11 +16,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQE_qsU1MHnSAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736814215640?e=2147483647&amp;v=beta&amp;t=CvWiB_NbrXdTQHQrlqNVN20zM8WYQBJoR_0VGajBoyw"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Become a Power BI Specialist]]'
+  - '[Become a Power BI Specialist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Power%20BI%20Specialist.md)'
 prev_courses:
-  - '[[Power Bi Essential Training]]'
+  - '[Power Bi Essential Training](Power%20Bi%20Essential%20Training.md)'
 next_courses:
-  - '[[Power BI Mistakes to Avoid]]'
+  - '[Power BI Mistakes to Avoid](Power%20BI%20Mistakes%20to%20Avoid.md)'
 path_nav: '[{"path":"Become a Power BI Specialist","position":4,"total":5,"prev":"Power Bi Essential Training","next":"Power BI Mistakes to Avoid"}]'
 path_count: 1
 tags:
@@ -102,11 +102,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=0)** You probably analyze a lot of data in [[Microsoft Excel|Excel]] workbooks and [[Microsoft Power BI|Power BI]] files. Think of all the different methods that you use to get answers to the questions that you have about that data. It may be visualizing data with charts, creating PivotTables, or filtering data. If sending a standalone file by email, the minute that you hit Send, the data could be out of date. I understand the struggles that you may incur with these methods, and I'm going to help you unlock how to use the [[Microsoft Power BI]] Service in a more efficient and productive way by capturing all the data analyses and visualizations in one place. I'm Heather Severino, a [[Microsoft]] Certified Trainer and a Microsoft Most Valuable Professional. Please join me in my [[LinkedIn]] Learning course to eliminate obstacles and be more productive with the Microsoft Power BI Service.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=0)** You probably analyze a lot of data in [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) workbooks and [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) files. Think of all the different methods that you use to get answers to the questions that you have about that data. It may be visualizing data with charts, creating PivotTables, or filtering data. If sending a standalone file by email, the minute that you hit Send, the data could be out of date. I understand the struggles that you may incur with these methods, and I'm going to help you unlock how to use the [Microsoft Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) Service in a more efficient and productive way by capturing all the data analyses and visualizations in one place. I'm Heather Severino, a [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) Certified Trainer and a Microsoft Most Valuable Professional. Please join me in my [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course to eliminate obstacles and be more productive with the Microsoft Power BI Service.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI]] (2), [[Microsoft]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Microsoft Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (2), [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (2), [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1), [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 
 
 ### 1. Creating Workspaces and Sharing Content
@@ -117,11 +117,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980&t=0)** When you launch the [[Microsoft Power BI|Power BI]] web app, the home page displays recommended and recent content, if available. You may need to navigate to a specific workspace. A personal workspace called My Workspace is available for you to create and manage data and visualizations. To access this workspace, go to the Navigation pane and select Workspaces, then select My Workspace. You may be invited to manage, edit, or view content in a group workspace. To access group workspaces from the Navigation pane, select Workspaces once more, then from the Navigation pane, select a group workspace. Now you'll be able to access the proper workspaces to build and view data, reports, [[Dashboards]], and more.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980&t=0)** When you launch the [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) web app, the home page displays recommended and recent content, if available. You may need to navigate to a specific workspace. A personal workspace called My Workspace is available for you to create and manage data and visualizations. To access this workspace, go to the Navigation pane and select Workspaces, then select My Workspace. You may be invited to manage, edit, or view content in a group workspace. To access group workspaces from the Navigation pane, select Workspaces once more, then from the Navigation pane, select a group workspace. Now you'll be able to access the proper workspaces to build and view data, reports, [Dashboards](../../Skills/Data%20Science/Dashboards.md), and more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (1), [Dashboards](../../Skills/Data%20Science/Dashboards.md) (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Best Practices:** recommended (1)
 
@@ -129,11 +129,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-shared-workspace-in-power-bi-25202753?u=76281980&t=0)** [[Microsoft Power BI|Power BI]] users organize their workspaces based on organizational structures for specific projects and other needs. If you want to create a shared workspace for collaborating on [[Dashboards]], go to the Navigation pane and select Workspaces. In the workspaces area, select New Workspace, and then fill in the appropriate fields here in the Create a Workspace panel. Let's give this a name. If that name is available, you'll see the message listed here. You can also include an optional description. You can assign a domain, and a domain can help colleagues find the content. You'll notice these are things like finance, HR, legal. So we'll set this to HR. We can include a workspace image. If you are including an image, it needs to be less than 45 K and in a PNG or a JPEG format. Let's expand the Advanced section. This is where you can include who the contacts will be that are managing and receiving notifications about this workspace. So if other colleagues have questions, this is a good person to contact. Let's add another colleague here. Select the name. As well, you can include a license mode. We'll scroll down. We'll leave this set to Pro for now and then select Apply. And that's how you can set up a new workspace.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-shared-workspace-in-power-bi-25202753?u=76281980&t=0)** [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) users organize their workspaces based on organizational structures for specific projects and other needs. If you want to create a shared workspace for collaborating on [Dashboards](../../Skills/Data%20Science/Dashboards.md), go to the Navigation pane and select Workspaces. In the workspaces area, select New Workspace, and then fill in the appropriate fields here in the Create a Workspace panel. Let's give this a name. If that name is available, you'll see the message listed here. You can also include an optional description. You can assign a domain, and a domain can help colleagues find the content. You'll notice these are things like finance, HR, legal. So we'll set this to HR. We can include a workspace image. If you are including an image, it needs to be less than 45 K and in a PNG or a JPEG format. Let's expand the Advanced section. This is where you can include who the contacts will be that are managing and receiving notifications about this workspace. So if other colleagues have questions, this is a good person to contact. Let's add another colleague here. Select the name. As well, you can include a license mode. We'll scroll down. We'll leave this set to Pro for now and then select Apply. And that's how you can set up a new workspace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (1), [Dashboards](../../Skills/Data%20Science/Dashboards.md) (1)
 > **UI Navigation:** go to (1), select the (1), scroll down (1)
 > **Env Vars:** png (1), jpeg (1)
 > **CLI Commands:** find (1)
@@ -144,11 +144,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/editing-a-shared-workspace-25203577?u=76281980&t=0)** A shared workspace may need a name change to include additional information or for the settings to be updated. To edit a shared workspace, go to the Navigation pane and select Workspaces. From the list, select the workspace that you want to make updates to. In the upper right corner, select Workspace Settings. In this area, you can change the name of the workspace. Let's update this to finance. You can also include a description. Scroll down. You can also update the domain, the workspace contacts, and if this is going to be a workspace [[Microsoft OneDrive|OneDrive]] group. Let's go ahead and select the X in the upper right corner to save the changes. And that's how you can edit a shared workspace.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/editing-a-shared-workspace-25203577?u=76281980&t=0)** A shared workspace may need a name change to include additional information or for the settings to be updated. To edit a shared workspace, go to the Navigation pane and select Workspaces. From the list, select the workspace that you want to make updates to. In the upper right corner, select Workspace Settings. In this area, you can change the name of the workspace. Let's update this to finance. You can also include a description. Scroll down. You can also update the domain, the workspace contacts, and if this is going to be a workspace [OneDrive](../../Skills/Cloud%20Computing/Microsoft%20OneDrive.md) group. Let's go ahead and select the X in the upper right corner to save the changes. And that's how you can edit a shared workspace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [Onedrive](../../Skills/Cloud%20Computing/Microsoft%20OneDrive.md) (1)
 > **UI Navigation:** select the (2), go to (1), scroll down (1)
 > **CLI Commands:** make (1)
 
@@ -179,11 +179,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=0)** Organizational data that you and other colleagues have permission to interact with can be surfaced from the OneLake Catalog. Here's how to find this data. Go to the Navigation pane and select OneLake. At the top, you'll notice a link that says, "Learn more about the OneLake Catalog. " This is an excellent resource for learning about the OneLake Catalog and [[Microsoft]] Fabric. The All Items view surfaces data that you have permission to access, and that's the view that we're looking at right now. This list view can be filtered by data type, by making a selection from the drop-down list that you see here. You can also search for a keyword or a key phrase. Over here, let's go ahead and enter a [[Microsoft Word|word]] in this filter by keyword box. The list updates automatically. You can also select an item from the list to view the contents. Then go ahead and click the X to exit this, and we'll also select the X in this keyword box to clear what we're filtering by. Back over here on the left, if we switch to the My Items view, this is all of the data that you have available to you, your data. You can select Endorsed in your org to view data that's been promoted or certified by a colleague in your org if there's data available. As well, if you have favorited something, you'll find it here in the Favorites area. Now you can locate and work with data from the OneLake Catalog.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/discover-and-use-data-from-the-onelake-catalog-25204316?u=76281980&t=0)** Organizational data that you and other colleagues have permission to interact with can be surfaced from the OneLake Catalog. Here's how to find this data. Go to the Navigation pane and select OneLake. At the top, you'll notice a link that says, "Learn more about the OneLake Catalog. " This is an excellent resource for learning about the OneLake Catalog and [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) Fabric. The All Items view surfaces data that you have permission to access, and that's the view that we're looking at right now. This list view can be filtered by data type, by making a selection from the drop-down list that you see here. You can also search for a keyword or a key phrase. Over here, let's go ahead and enter a [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) in this filter by keyword box. The list updates automatically. You can also select an item from the list to view the contents. Then go ahead and click the X to exit this, and we'll also select the X in this keyword box to clear what we're filtering by. Back over here on the left, if we switch to the My Items view, this is all of the data that you have available to you, your data. You can select Endorsed in your org to view data that's been promoted or certified by a colleague in your org if there's data available. As well, if you have favorited something, you'll find it here in the Favorites area. Now you can locate and work with data from the OneLake Catalog.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (1), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **UI Navigation:** go to (1), select the (1), switch to (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
@@ -203,11 +203,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=0)** There's a central hub for accessing all of the [[Microsoft Power BI|Power BI]] content that has been shared with you. Start in the Navigation pane and select Browse. Within the Browse pane over here, select Shared with Me, and a list appears with all of the content that has been shared with you. In this list, you'll have a column that includes the name of the data that could be a report, or a dashboard, or even an [[Microsoft Excel|Excel]] workbook. Over here to the right, this column type is telling you what type of data it is. You'll notice that we have reports and [[Dashboards]] listed here as well as the date and time that it was shared with you, who the owner is, that's the workspace where this data belongs. And then on to the right, there are other columns of other related information about the content that's been shared with you. And that's how you can access Power BI Service content shared with you.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=0)** There's a central hub for accessing all of the [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) content that has been shared with you. Start in the Navigation pane and select Browse. Within the Browse pane over here, select Shared with Me, and a list appears with all of the content that has been shared with you. In this list, you'll have a column that includes the name of the data that could be a report, or a dashboard, or even an [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) workbook. Over here to the right, this column type is telling you what type of data it is. You'll notice that we have reports and [Dashboards](../../Skills/Data%20Science/Dashboards.md) listed here as well as the date and time that it was shared with you, who the owner is, that's the workspace where this data belongs. And then on to the right, there are other columns of other related information about the content that's been shared with you. And that's how you can access Power BI Service content shared with you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (2), [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1), [Dashboards](../../Skills/Data%20Science/Dashboards.md) (1)
 
 
 ### 2. Connecting Data
@@ -218,11 +218,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=0)** PBIX and RDL files are supported for uploading in the [[Microsoft Power BI|Power BI]] Service. You can also upload your [[Microsoft Excel|Excel]] workbooks, your XLSX files as well. Start in the workspace that you want to upload the file or files to, then select Upload. Choose where you want to upload the files from. That can be your [[Microsoft OneDrive|OneDrive]] document library, your [[SharePoint]] document library, or browse to browse the files that are saved locally on your device. Select the appropriate place that you are going to use select the files from, then browse and select the file that you would like to upload. You can check the circle here for multiple files. We'll go with this one for now and then select Upload. A notification appears in the upper right corner letting you know that it's uploading the file. Then we have a notification that it's importing the data. And here is the data related to that file, that PBIX file, that we just uploaded. And that's how you can upload a file or files to a Power BI Service workspace.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980&t=0)** PBIX and RDL files are supported for uploading in the [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) Service. You can also upload your [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) workbooks, your XLSX files as well. Start in the workspace that you want to upload the file or files to, then select Upload. Choose where you want to upload the files from. That can be your [OneDrive](../../Skills/Cloud%20Computing/Microsoft%20OneDrive.md) document library, your [SharePoint](../../Skills/Cloud%20Computing/SharePoint.md) document library, or browse to browse the files that are saved locally on your device. Select the appropriate place that you are going to use select the files from, then browse and select the file that you would like to upload. You can check the circle here for multiple files. We'll go with this one for now and then select Upload. A notification appears in the upper right corner letting you know that it's uploading the file. Then we have a notification that it's importing the data. And here is the data related to that file, that PBIX file, that we just uploaded. And that's how you can upload a file or files to a Power BI Service workspace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (2), [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1), [Onedrive](../../Skills/Cloud%20Computing/Microsoft%20OneDrive.md) (1), [SharePoint](../../Skills/Cloud%20Computing/SharePoint.md) (1)
 > **Env Vars:** pbix (2), rdl (1), xlsx (1)
 > **UI Navigation:** select the (3)
 
@@ -230,13 +230,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=0)** If you don't have any data to work with in the [[Microsoft Power BI|Power BI]] Service, sample data is available for you to upload. Start by going to the Navigation pane and then select Learn. Scroll down to the Sample Reports section, and these are the reports that are available. The arrow just above to the right will take you to the next page of the sample reports. Find the one that you would like to upload, and we'll go with this competitive marketing analysis. Select it. You'll get a notification that it's getting everything ready. And then you'll get a notification that it's loading your report. And here is the sample report. Over to the left in the Navigation, notice that we have competitive marketing analysis here. This is because the report is open, so it is displaying it here within the Navigation. It's also letting us know that it's located in My Workspace. So if we go take a look in My Workspace, here is competitive marketing analysis. These are the datasets that are available here: the report and the semantic model. If you would like additional data files that you can practice with, this [[Microsoft]] Learn article has all sorts of great information about sample files.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=0)** If you don't have any data to work with in the [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) Service, sample data is available for you to upload. Start by going to the Navigation pane and then select Learn. Scroll down to the Sample Reports section, and these are the reports that are available. The arrow just above to the right will take you to the next page of the sample reports. Find the one that you would like to upload, and we'll go with this competitive marketing analysis. Select it. You'll get a notification that it's getting everything ready. And then you'll get a notification that it's loading your report. And here is the sample report. Over to the left in the Navigation, notice that we have competitive marketing analysis here. This is because the report is open, so it is displaying it here within the Navigation. It's also letting us know that it's located in My Workspace. So if we go take a look in My Workspace, here is competitive marketing analysis. These are the datasets that are available here: the report and the semantic model. If you would like additional data files that you can practice with, this [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) Learn article has all sorts of great information about sample files.
 >
 > **[1:20](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/connecting-to-sample-data-24999956?u=76281980&t=80)** And that's how you can connect to Power BI sample data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (2), [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 
@@ -249,13 +249,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980&t=0)** A report can be auto-created for a workspace semantic model. Start with a workspace in view and then select a semantic model. Next, to explore this data, select the downward-facing arrow and then select Auto-Create a Report. While this report is being built, you could select Pre-Select Data to manually choose what you want to include, but we're going to hold off and see what [[Microsoft Power BI|Power BI]] generates for us. And here is the report. We have a quick summary tile here at the top as well as some other tiles. And then over here to the right in the Your Data pane, this is where you can choose which field you want to include or not include. Had we selected that Pre-Select Data button, this is what we would be configuring. Notice the checkmarks indicating what is included within this report. Let's go ahead and change this from months to date. And notice how the report is automatically refreshing to show those updates. You may also see callouts appearing when you first initially create this report: a callout up here in this Your Data area that's helping you to get familiar with how to work with the Your Data pane. You may also see callouts appearing over here to help you with analyzing and visualizing data within that report. Let's select Save from the top toolbar here. We're going to save this in the same workspace where we started working
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980&t=0)** A report can be auto-created for a workspace semantic model. Start with a workspace in view and then select a semantic model. Next, to explore this data, select the downward-facing arrow and then select Auto-Create a Report. While this report is being built, you could select Pre-Select Data to manually choose what you want to include, but we're going to hold off and see what [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) generates for us. And here is the report. We have a quick summary tile here at the top as well as some other tiles. And then over here to the right in the Your Data pane, this is where you can choose which field you want to include or not include. Had we selected that Pre-Select Data button, this is what we would be configuring. Notice the checkmarks indicating what is included within this report. Let's go ahead and change this from months to date. And notice how the report is automatically refreshing to show those updates. You may also see callouts appearing when you first initially create this report: a callout up here in this Your Data area that's helping you to get familiar with how to work with the Your Data pane. You may also see callouts appearing over here to help you with analyzing and visualizing data within that report. Let's select Save from the top toolbar here. We're going to save this in the same workspace where we started working
 >
 > **[1:34](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980&t=94)** with the semantic model, and we need to give it a name. And then select Save. Notification appears that the report has been saved. Let's close that. And that's how Power BI can assist you with building a report based on a semantic model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (2)
 > **UI Navigation:** select the (1)
 
 #### [Create a paginated report from a dataset](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/create-a-paginated-report-from-a-data-set-25202755?u=76281980)
@@ -275,11 +275,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-new-blank-report-from-a-data-set-25202752?u=76281980&t=0)** A report can be created that connects to an existing dataset. Start in a workspace such as My Workspace that you see here, then select New Item in the upper left corner. Within the Visualize Data section, select Report. Next, choose the source to start building the report. It can be an [[Microsoft Excel|Excel]] workbook, a CSV file. You can paste or manually enter the data, or you can select a semantic model. Let's select this, "Pick a published semantic model. " From the list of semantic models that are available in this workspace, locate and select the one that you want to use. In the lower right corner next to Auto-create report, select the downward-facing arrow and then select Create a Blank Report. Here's the blank report. It hasn't been given a name yet and it hasn't been saved yet. And an indicator of that is over here in the Navigation pane. Notice it says, "Untitled report. " Let's select File and then choose Save. We'll keep it in the same workspace: that's My Workspace, and let's give it a name. And then select Save. We have a notification that the report has been saved, and it brings us right back to this blank report. That's how you can create a blank report that's connected to data and that is ready for building related visualizations.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-new-blank-report-from-a-data-set-25202752?u=76281980&t=0)** A report can be created that connects to an existing dataset. Start in a workspace such as My Workspace that you see here, then select New Item in the upper left corner. Within the Visualize Data section, select Report. Next, choose the source to start building the report. It can be an [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) workbook, a CSV file. You can paste or manually enter the data, or you can select a semantic model. Let's select this, "Pick a published semantic model. " From the list of semantic models that are available in this workspace, locate and select the one that you want to use. In the lower right corner next to Auto-create report, select the downward-facing arrow and then select Create a Blank Report. Here's the blank report. It hasn't been given a name yet and it hasn't been saved yet. And an indicator of that is over here in the Navigation pane. Notice it says, "Untitled report. " Let's select File and then choose Save. We'll keep it in the same workspace: that's My Workspace, and let's give it a name. And then select Save. We have a notification that the report has been saved, and it brings us right back to this blank report. That's how you can create a blank report that's connected to data and that is ready for building related visualizations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (1)
 > **UI Navigation:** select the (2)
 > **Env Vars:** csv (1)
 > **Analogies:** such as (1)
@@ -300,13 +300,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-chart-tile-25205178?u=76281980&t=0)** Data can be represented in a report or a dashboard with several different types of visualizations. From this newly created report page, let's set up a chart visualization that represents the revenue won by product and region. When a field is selected, a visualization is automatically selected that represents that type of data best. Let's check it out. So over here in the Data pane, we're going to expand Opportunities. And we're going to check the box for the revenue won field. So let's locate that. And notice over here it started to build a tile. And it's okay if your tile looks different than mine, may build a table. And I'm going to show you how to change that in just a moment. Next, let's go down to the [[Microsoft Products|Products]] category here and expand that. Here we go and check the box for product. And now if you take a look over at the tile, you can see how it started to build out the product as well. And then finally, let's locate territories and let's expand that category.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-chart-tile-25205178?u=76281980&t=0)** Data can be represented in a report or a dashboard with several different types of visualizations. From this newly created report page, let's set up a chart visualization that represents the revenue won by product and region. When a field is selected, a visualization is automatically selected that represents that type of data best. Let's check it out. So over here in the Data pane, we're going to expand Opportunities. And we're going to check the box for the revenue won field. So let's locate that. And notice over here it started to build a tile. And it's okay if your tile looks different than mine, may build a table. And I'm going to show you how to change that in just a moment. Next, let's go down to the [Products](../../Skills/Software%20Development/Microsoft%20Products.md) category here and expand that. Here we go and check the box for product. And now if you take a look over at the tile, you can see how it started to build out the product as well. And then finally, let's locate territories and let's expand that category.
 >
 > **[1:13](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/creating-a-chart-tile-25205178?u=76281980&t=73)** And we're going to check the box for region. And as we made each of those field selections, this tile was updating. Now if yours is a table format or some other type of a tile format, in the visualizations pane, this is where you can change it to something else. So if I want to see this as a stacked bar chart, notice that, dynamically, it has automatically updated to that format based on the selection that I make here. Here's the stacked column chart. Here's the clustered bar chart. And then any changes that we make here, let's say we go to territories and uncheck region, and instead we go with territory, notice how that has dynamically changed the format of this chart tile. And that's how you can create a chart tile within a report page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -397,11 +397,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980&t=0)** An email subscription can be set up and sent at a scheduled frequency for either a dashboard or a report. Start with the dashboard or the report in view. We'll work with a dashboard for this example. From the toolbar, select Subscribe. If it's a dashboard, it will say Subscribe to Dashboard. If a report, Subscribe to Report. The Subscriptions pane displays over here to the right. Select Create a Subscription and then fill in the appropriate fields. Fields with a red asterisk are required. Let's update the subscription name, which recipients we want to include, and the scheduled date and time that the notification will be sent. Let's start with the start time. You can either manually update the date or you can select it from the mini calendar picker. And same for the end date. Next, let's set the repeating occurrence for this. It's currently set to daily. This could be hourly, weekly, or monthly. We'll leave it set to daily, and the scheduled time that this will be sent. Let's set it to 10 a.m. Eastern. Now for Eastern, we have time zone. So we'll select time zone and then locate the time zone that's needed and select it. Let's expand more options. We'll scroll down.
 >
-> **[1:34](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980&t=94)** This is where you can include an optional email subject along with a message that will be sent. In addition, you can also choose if you want to enable access to this dashboard and a link to this dashboard in [[Microsoft Power BI|Power BI]] with this notification. These are enabled by default as well as a dashboard preview being enabled by default. You can select any of these toggle switches to turn these off. Okay. Let's go ahead and save the changes by selecting Save. And here is the subscription that we have set up. Let's go ahead and expand it. We can see all of the details for this, and then we'll select Send Now. Notification appears at the top that the subscription has been sent. And that's how you can subscribe for email notifications.
+> **[1:34](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980&t=94)** This is where you can include an optional email subject along with a message that will be sent. In addition, you can also choose if you want to enable access to this dashboard and a link to this dashboard in [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) with this notification. These are enabled by default as well as a dashboard preview being enabled by default. You can select any of these toggle switches to turn these off. Okay. Let's go ahead and save the changes by selecting Save. And here is the subscription that we have set up. Let's go ahead and expand it. We can see all of the details for this, and then we'll select Send Now. Notification appears at the top that the subscription has been sent. And that's how you can subscribe for email notifications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (1)
 > **UI Navigation:** scroll down (1), toggle (1)
 > **Prerequisites:** set up (2)
 
@@ -431,11 +431,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/favoriting-a-dashboard-25201873?u=76281980&t=0)** If you're a member of many workspaces and accessing many reports and [[Dashboards]], you can favorite the ones that you need to retrieve quickly. To favorite a dashboard or a report with that content in view, go to the toolbar and select Favorite. To view all the favorited dashboards and reports, in the Navigation pane, select Browse, then select Favorites. And here are the favorites that you can quickly select. To unfavorite a dashboard or a report, you'll want to go to that dashboard or the report. Let's go back to the one we were just working with. And up here on the toolbar where we selected favorite, click Unfavorite. That's how you can favorite a dashboard or a report.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/favoriting-a-dashboard-25201873?u=76281980&t=0)** If you're a member of many workspaces and accessing many reports and [Dashboards](../../Skills/Data%20Science/Dashboards.md), you can favorite the ones that you need to retrieve quickly. To favorite a dashboard or a report with that content in view, go to the toolbar and select Favorite. To view all the favorited dashboards and reports, in the Navigation pane, select Browse, then select Favorites. And here are the favorites that you can quickly select. To unfavorite a dashboard or a report, you'll want to go to that dashboard or the report. Let's go back to the one we were just working with. And up here on the toolbar where we selected favorite, click Unfavorite. That's how you can favorite a dashboard or a report.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (2)
+> **Frameworks & Libraries:** [Dashboards](../../Skills/Data%20Science/Dashboards.md) (2)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 
@@ -448,34 +448,34 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980&t=0)** A report can be shared by creating a link to embed within a [[SharePoint]] page. With the report in view, go to the File tab. From the menu, hover the mouse over Embed Report and then select SharePoint Online. Here's the link that you can copy to your clipboard. So we'll use Ctrl C to copy that to the clipboard, then select Close. And that's how you can create a link to embed a [[Microsoft Power BI|Power BI]] report in a modern SharePoint page.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980&t=0)** A report can be shared by creating a link to embed within a [SharePoint](../../Skills/Cloud%20Computing/SharePoint.md) page. With the report in view, go to the File tab. From the menu, hover the mouse over Embed Report and then select SharePoint Online. Here's the link that you can copy to your clipboard. So we'll use Ctrl C to copy that to the clipboard, then select Close. And that's how you can create a link to embed a [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) report in a modern SharePoint page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (3), [[Microsoft Power BI|Power bi]] (1)
+> **Frameworks & Libraries:** [SharePoint](../../Skills/Cloud%20Computing/SharePoint.md) (3), [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (1)
 > **UI Navigation:** go to (1)
 
 #### [Export to Excel for further analysis](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980&t=0)** A [[Microsoft Power BI|Power BI]] report can be exported in an [[Microsoft Excel|Excel]] workbook format. Start with the report in view and then select Export. From the menu, select Analyze in Excel. This uploads the current report page as a Excel workbook to your [[Microsoft OneDrive|OneDrive]] document library. A couple of notifications will appear: one that the file is being created, and another once the file is ready. This notification includes a button to open this in Excel for the web. Let's select that. The workbook opens in a separate tab of the same web browser. To enable the content that goes along with this workbook, in the notification banner, select Enable Content. Now you can analyze the report data with Excel PivotTable tools.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-excel-for-further-analysis-25202754?u=76281980&t=0)** A [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) report can be exported in an [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) workbook format. Start with the report in view and then select Export. From the menu, select Analyze in Excel. This uploads the current report page as a Excel workbook to your [OneDrive](../../Skills/Cloud%20Computing/Microsoft%20OneDrive.md) document library. A couple of notifications will appear: one that the file is being created, and another once the file is ready. This notification includes a button to open this in Excel for the web. Let's select that. The workbook opens in a separate tab of the same web browser. To enable the content that goes along with this workbook, in the notification banner, select Enable Content. Now you can analyze the report data with Excel PivotTable tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Power BI|Power bi]] (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [Excel](../../Skills/Data%20Science/Microsoft%20Excel.md) (5), [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (1), [Onedrive](../../Skills/Cloud%20Computing/Microsoft%20OneDrive.md) (1)
 
 #### [Export to PowerPoint](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980&t=0)** Pages of a [[Microsoft Power BI|Power BI]] report can be exported as a [[Microsoft PowerPoint|PowerPoint]] presentation. With the report in view, go to the toolbar and select Export, then select PowerPoint. Choose how you want to export the data. You can export by embedding the live data or exporting it as an image. Embedding the live data syncs the latest data in the presentation slide visual. Exporting as an image takes a snapshot in time of the data visualization and inserts that within a presentation slide. If you select Embed Live Data, you'll have the option to embed the report with the data filters that you've selected. This is checked by default. If you don't need this, you can uncheck it. If you choose Export as Image, you'll have the choice to export with the current values or the default values. If there are hidden report tabs, you'll also have the choice to check this box if you want to exclude those, and/or if you only want to export the current page, you can check this box. Once you have all of the settings for how you want to export to a PowerPoint presentation, select Export. You'll have a notification here letting you know the progress of this PowerPoint presentation export. Once it's ready, it will appear in the download list like this. Select Open File to view it in PowerPoint. And here is the presentation. The first slide is a title slide. It includes the name of the report, a link to view this within Power BI,
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980&t=0)** Pages of a [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) report can be exported as a [PowerPoint](../../Skills/Cloud%20Computing/Microsoft%20PowerPoint.md) presentation. With the report in view, go to the toolbar and select Export, then select PowerPoint. Choose how you want to export the data. You can export by embedding the live data or exporting it as an image. Embedding the live data syncs the latest data in the presentation slide visual. Exporting as an image takes a snapshot in time of the data visualization and inserts that within a presentation slide. If you select Embed Live Data, you'll have the option to embed the report with the data filters that you've selected. This is checked by default. If you don't need this, you can uncheck it. If you choose Export as Image, you'll have the choice to export with the current values or the default values. If there are hidden report tabs, you'll also have the choice to check this box if you want to exclude those, and/or if you only want to export the current page, you can check this box. Once you have all of the settings for how you want to export to a PowerPoint presentation, select Export. You'll have a notification here letting you know the progress of this PowerPoint presentation export. Once it's ready, it will appear in the download list like this. Select Open File to view it in PowerPoint. And here is the presentation. The first slide is a title slide. It includes the name of the report, a link to view this within Power BI,
 >
 > **[1:36](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/export-to-powerpoint-25203575?u=76281980&t=96)** the last data refresh, and when it was downloaded last. Slide 2 is the report page that we asked to be exported, including all of the visuals for this particular page. And that is how you can export a report to a PowerPoint presentation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Power BI|Power bi]] (2)
+> **Frameworks & Libraries:** [Powerpoint](../../Skills/Cloud%20Computing/Microsoft%20PowerPoint.md) (6), [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
@@ -517,13 +517,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980&t=0)** A [[Microsoft Power BI|Power BI]] report, app, or scorecard can be added to a team channel. With the channel in view, select Add a Tab. Locate the Power BI app. If you've worked with it recently, it may likely be right here. Otherwise, you can browse through the list of the apps or you can search for it. Select the Power BI app, and before selecting Save, it will post to the channel automatically about this Power BI tab being added if this is checked, and by default, it is. You can uncheck that if you don't want it included and then select Save.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980&t=0)** A [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) report, app, or scorecard can be added to a team channel. With the channel in view, select Add a Tab. Locate the Power BI app. If you've worked with it recently, it may likely be right here. Otherwise, you can browse through the list of the apps or you can search for it. Select the Power BI app, and before selecting Save, it will post to the channel automatically about this Power BI tab being added if this is checked, and by default, it is. You can uncheck that if you don't want it included and then select Save.
 >
 > **[0:44](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980&t=44)** The Power BI tab has been added here. Next is configuring the content that we want it to include. If you've copied a link to a report, an app, or a scorecard, you can paste it in the link field provided here, or you can browse the workspaces that you have access to. Let's browse the workspaces. Locate and expand the workspace that has the content you want to add and then make a selection. Then select Add. The Power BI tab has been updated to the name of the workspace that the content is being provided from, and you may also have a banner notification here at the top that may be notifying you that people with existing access have access to this content. They'd be able to view it here, and you would have a button to the right side to select Manage Access if you need to add additional people if there's team members here that did not previously have access to this workspace content. And that is how you can add Power BI content to a team channel.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (7)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 
@@ -531,7 +531,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-report-to-teams-chat-or-channel-post-25201876?u=76281980&t=0)** A [[Microsoft Power BI|Power BI]] report can be shared for collaboration in a team's private chat or within a team channel post. With the report in view, select Share from the toolbar, then select Teams.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-report-to-teams-chat-or-channel-post-25201876?u=76281980&t=0)** A [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) report can be shared for collaboration in a team's private chat or within a team channel post. With the report in view, select Share from the toolbar, then select Teams.
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/sharing-a-power-bi-report-to-teams-chat-or-channel-post-25201876?u=76281980&t=15)** In the Share toolbox, you can enter the name of the person, the group, or the channel that you want to communicate this Power BI report to. Let's start typing the name of a colleague and then select the name from the list. Some context has been provided along with the link here in the message body area. Let's add a little bit more information to this before we send it.
 >
@@ -539,18 +539,18 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (3)
 > **UI Navigation:** select the (1)
 
 #### [Adding the Power BI app to Microsoft Teams](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980&t=0)** [[Microsoft Teams]] can be the one place to collaborate and communicate on many different topics and projects. It can also be a place for all of your [[Business Intelligence (BI)|business intelligence]] analysis by bringing the [[Microsoft Power BI|Power BI]] app into Microsoft Teams. Here's how. Start by selecting View More Apps on the sidebar. In the Search for Apps area, enter Power BI. From the list, locate Power BI and select Add. This is the Power BI app, just as you would work with it on the web. It's the same Power BI Service. And over in the sidebar, notice Power BI is listed here. If you want to keep this pinned to the sidebar for easy access in the future, right-click over the Power BI icon and then select Pin. Now you can work in your Power BI workspace and all of the shared Power BI workspaces directly from Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-the-power-bi-app-to-microsoft-teams-25206003?u=76281980&t=0)** [Microsoft Teams](../../Skills/Cloud%20Computing/Microsoft%20Teams.md) can be the one place to collaborate and communicate on many different topics and projects. It can also be a place for all of your [business intelligence](../../Skills/Data%20Science/Business%20Intelligence%20(BI).md) analysis by bringing the [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) app into Microsoft Teams. Here's how. Start by selecting View More Apps on the sidebar. In the Search for Apps area, enter Power BI. From the list, locate Power BI and select Add. This is the Power BI app, just as you would work with it on the web. It's the same Power BI Service. And over in the sidebar, notice Power BI is listed here. If you want to keep this pinned to the sidebar for easy access in the future, right-click over the Power BI icon and then select Pin. Now you can work in your Power BI workspace and all of the shared Power BI workspaces directly from Microsoft Teams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[Microsoft Teams]] (3), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (9), [Microsoft Teams](../../Skills/Cloud%20Computing/Microsoft%20Teams.md) (3), [Business intelligence](../../Skills/Data%20Science/Business%20Intelligence%20(BI).md) (1)
 > **UI Navigation:** in the sidebar (1), right-click (1)
 
 
@@ -562,11 +562,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980&t=0)** To work with [[Microsoft Copilot|Copilot]] in the [[Microsoft Power BI|Power BI]] Service, you'll need to select a compatible workspace that you have edit permissions to. The workspace needs to be assigned to a Copilot-enabled capacity: a paid Fabric capacity of 64 or higher, or a Power BI Premium capacity, P1 or higher. Here on this empty report page, let's ask Copilot to create page content by describing what to include for the visualizations. First, select Edit, then select Copilot. In the Copilot pane, enter the instructions here in the prompt writing area. Something like this: we're asking Copilot to create a report page with chart visualizations, we're being specific on the type of visualizations, and then including which fields. We're asking it to include the temperature, specifically a calculation of the average. We're also asking it to include rainfall and sky conditions. And then we're asking it to include it for a specific station ID, which is LAX. Let's send that. And here is the suggested page that Copilot has created. Notice at the bottom, this did say "Page 1" earlier; now it has contextually updated the name of this page to be something relatable to the content it contains. And over here, we also have a response from Copilot. And this is giving more information about what it has designed. It includes the title, the key metrics, and, if you select Show More, the visuals that were created and any slicers that were included. And that is how you can ask Copilot to create a report page for you.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980&t=0)** To work with [Copilot](../../Skills/Cloud%20Computing/Microsoft%20Copilot.md) in the [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) Service, you'll need to select a compatible workspace that you have edit permissions to. The workspace needs to be assigned to a Copilot-enabled capacity: a paid Fabric capacity of 64 or higher, or a Power BI Premium capacity, P1 or higher. Here on this empty report page, let's ask Copilot to create page content by describing what to include for the visualizations. First, select Edit, then select Copilot. In the Copilot pane, enter the instructions here in the prompt writing area. Something like this: we're asking Copilot to create a report page with chart visualizations, we're being specific on the type of visualizations, and then including which fields. We're asking it to include the temperature, specifically a calculation of the average. We're also asking it to include rainfall and sky conditions. And then we're asking it to include it for a specific station ID, which is LAX. Let's send that. And here is the suggested page that Copilot has created. Notice at the bottom, this did say "Page 1" earlier; now it has contextually updated the name of this page to be something relatable to the content it contains. And over here, we also have a response from Copilot. And this is giving more information about what it has designed. It includes the title, the key metrics, and, if you select Show More, the visuals that were created and any slicers that were included. And that is how you can ask Copilot to create a report page for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft Power BI|Power bi]] (2)
+> **Frameworks & Libraries:** [Copilot](../../Skills/Cloud%20Computing/Microsoft%20Copilot.md) (9), [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (2)
 > **Env Vars:** lax (1)
 > **Prerequisites:** you'll need (1)
 
@@ -574,7 +574,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-suggest-content-for-a-power-bi-report-25204315?u=76281980&t=0)** You have the data and you create a new report. Now what? Well, you can ask [[Microsoft Copilot|Copilot]] to suggest visuals for a report page. Let's check it out. With the report page in view, select Edit at the top, then select Copilot. In the Copilot pane, notice that preview is turned on. If your toggle switch is turned off and you're not able to follow along with me, try turning preview on. What this does is not only do you have all of the features that have been released for Copilot, but you also have the features that are in public preview that haven't been yet quite released that you can try out. So with preview on, we'll go down here to the prompt writing area and enter the prompt, the instruction for Copilot.
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-suggest-content-for-a-power-bi-report-25204315?u=76281980&t=0)** You have the data and you create a new report. Now what? Well, you can ask [Copilot](../../Skills/Cloud%20Computing/Microsoft%20Copilot.md) to suggest visuals for a report page. Let's check it out. With the report page in view, select Edit at the top, then select Copilot. In the Copilot pane, notice that preview is turned on. If your toggle switch is turned off and you're not able to follow along with me, try turning preview on. What this does is not only do you have all of the features that have been released for Copilot, but you also have the features that are in public preview that haven't been yet quite released that you can try out. So with preview on, we'll go down here to the prompt writing area and enter the prompt, the instruction for Copilot.
 >
 > **[0:49](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-suggest-content-for-a-power-bi-report-25204315?u=76281980&t=49)** The prompt is "Suggest content for this report," then send it.
 >
@@ -582,26 +582,26 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8)
+> **Frameworks & Libraries:** [Copilot](../../Skills/Cloud%20Computing/Microsoft%20Copilot.md) (8)
 > **UI Navigation:** toggle (1)
 
 #### [Asking questions about Power BI report data](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=0)** While preparing to present a [[Microsoft Power BI|Power BI]] report, you may want to think through the questions you'll likely get from your team, from leadership, or other groups. Here's how [[Microsoft Copilot|Copilot]] can assist. With the report page in view, select Copilot. In the prompt writing area, enter a detailed question that includes the specifics, such as the audience. Let's enter the question: "What question should I expect from my team about this report page?" and then send it. Copilot returns a list of questions to expect along with the detailed answers for each. Let's take a look. So here's the prompt question, and here is the answer. So we have each of the key points along with questions that you should expect, and then we have sources that will take you directly to the answers for those. So these are links that you can select and it takes you directly to that specific tile of information. Moving on down, there you go. Now if we go back up to the top, notice that there is a toolbar hovering here. By selecting Copy, you can copy this answer to your clipboard on your device and then be able to go and paste that somewhere else. Paste those questions and answers to maybe a [[OneNote]] notebook, to a loop workspace, or even your speaker notes if you're working in a [[Microsoft PowerPoint|PowerPoint]] presentation. And that's how Copilot can help you prepare for anticipated
+> **[0:00](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=0)** While preparing to present a [Power BI](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) report, you may want to think through the questions you'll likely get from your team, from leadership, or other groups. Here's how [Copilot](../../Skills/Cloud%20Computing/Microsoft%20Copilot.md) can assist. With the report page in view, select Copilot. In the prompt writing area, enter a detailed question that includes the specifics, such as the audience. Let's enter the question: "What question should I expect from my team about this report page?" and then send it. Copilot returns a list of questions to expect along with the detailed answers for each. Let's take a look. So here's the prompt question, and here is the answer. So we have each of the key points along with questions that you should expect, and then we have sources that will take you directly to the answers for those. So these are links that you can select and it takes you directly to that specific tile of information. Moving on down, there you go. Now if we go back up to the top, notice that there is a toolbar hovering here. By selecting Copy, you can copy this answer to your clipboard on your device and then be able to go and paste that somewhere else. Paste those questions and answers to maybe a [OneNote](../../Skills/Cloud%20Computing/OneNote.md) notebook, to a loop workspace, or even your speaker notes if you're working in a [PowerPoint](../../Skills/Cloud%20Computing/Microsoft%20PowerPoint.md) presentation. And that's how Copilot can help you prepare for anticipated
 >
 > **[1:36](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-questions-about-power-bi-report-data-25205181?u=76281980&t=96)** questions about the report data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft Power BI|Power bi]] (1), [[OneNote]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [Copilot](../../Skills/Cloud%20Computing/Microsoft%20Copilot.md) (4), [Power bi](../../Skills/Data%20Science/Microsoft%20Power%20BI.md) (1), [OneNote](../../Skills/Cloud%20Computing/OneNote.md) (1), [Powerpoint](../../Skills/Cloud%20Computing/Microsoft%20PowerPoint.md) (1)
 > **Analogies:** such as (1)
 
 
 ## Instructor
 
-- [[Heather Severino]]
+- [Heather Severino](../../Instructors/Cloud%20Computing/Heather%20Severino.md)
 
 ## Skills Covered
 
@@ -609,22 +609,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Become a Power BI Specialist]]
-← [[Power Bi Essential Training]] | **4 of 5** | [[Power BI Mistakes to Avoid]] →
+### In [Become a Power BI Specialist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Power%20BI%20Specialist.md)
+← [Power Bi Essential Training](Power%20Bi%20Essential%20Training.md) | **4 of 5** | [Power BI Mistakes to Avoid](Power%20BI%20Mistakes%20to%20Avoid.md) →
 
 ## Appears In
 
-- [[Become a Power BI Specialist]]
+- [Become a Power BI Specialist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Power%20BI%20Specialist.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Machine Learning with Logistic Regression in Excel, R, and Power BI]] — Microsoft Power BI
-- [[Power BI Top Skills]] — Microsoft Power BI
-- [[Power BI Dataflows Essential Training]] — Microsoft Power BI
-- [[Power BI- Working Together with ChatGPT]] — Microsoft Power BI
-- [[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]] — Microsoft Power BI
+- [Machine Learning with Logistic Regression in Excel, R, and Power BI](Machine%20Learning%20with%20Logistic%20Regression%20in%20Excel%2C%20R%2C%20and%20Power%20BI.md) — Microsoft Power BI
+- [Power BI Top Skills](Power%20BI%20Top%20Skills.md) — Microsoft Power BI
+- [Power BI Dataflows Essential Training](Power%20BI%20Dataflows%20Essential%20Training.md) — Microsoft Power BI
+- [Power BI- Working Together with ChatGPT](Power%20BI-%20Working%20Together%20with%20ChatGPT.md) — Microsoft Power BI
+- [Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals](Power%20BI%20Challenges-%2015%20Skills-Building%20Analytics%20Exercises%20for%20Data%20Professionals.md) — Microsoft Power BI
 
 ---
 

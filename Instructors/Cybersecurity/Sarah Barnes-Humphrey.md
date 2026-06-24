@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Fundamentals of Sustainable Supply Chains]]
+- [Fundamentals of Sustainable Supply Chains](../../Courses/Cybersecurity/Fundamentals%20of%20Sustainable%20Supply%20Chains.md)

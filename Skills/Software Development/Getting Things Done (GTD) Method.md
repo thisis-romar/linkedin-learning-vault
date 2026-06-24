@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Getting Things Done]] — 30m · 221,017 learners
+- [Getting Things Done](../../Courses/Cloud%20Computing/Getting%20Things%20Done.md) — 30m · 221,017 learners
 
 ## Related Skills
 
-- [[Time Management]] — 1 shared course
-- [[Productivity Improvement]] — 1 shared course
+- [Time Management](../Cloud%20Computing/Time%20Management.md) — 1 shared course
+- [Productivity Improvement](../Artificial%20Intelligence%20(AI)/Productivity%20Improvement.md) — 1 shared course

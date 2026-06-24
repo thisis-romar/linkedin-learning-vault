@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning PowerPoint Online (Microsoft 365)]]
-- [[OneNote for Windows 10 Essential Training]]
-- [[Power BI Quick Tips]]
+- [Learning PowerPoint Online (Microsoft 365)](../../Courses/Cloud%20Computing/Learning%20PowerPoint%20Online%20(Microsoft%20365).md)
+- [OneNote for Windows 10 Essential Training](../../Courses/Cloud%20Computing/OneNote%20for%20Windows%2010%20Essential%20Training.md)
+- [Power BI Quick Tips](../../Courses/Data%20Science/Power%20BI%20Quick%20Tips.md)

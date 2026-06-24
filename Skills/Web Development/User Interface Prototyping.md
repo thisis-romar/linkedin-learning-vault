@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Adobe XD Essential Training- Prototype]] — 1h 17m · 101,046 learners
-- [[Lo-Fi to Hi-Fi- Prototyping in Figma]] — 1h 45m · 11,173 learners
-- [[Principle for UX Design]] — 3h 13m · 10,547 learners
+- [Adobe XD Essential Training- Prototype](../../Courses/Web%20Development/Adobe%20XD%20Essential%20Training-%20Prototype.md) — 1h 17m · 101,046 learners
+- [Lo-Fi to Hi-Fi- Prototyping in Figma](../../Courses/Web%20Development/Lo-Fi%20to%20Hi-Fi-%20Prototyping%20in%20Figma.md) — 1h 45m · 11,173 learners
+- [Principle for UX Design](../../Courses/Web%20Development/Principle%20for%20UX%20Design.md) — 3h 13m · 10,547 learners
 
 ## Related Skills
 
-- [[Principle for Mac]] — 1 shared course
-- [[Adobe XD]] — 1 shared course
-- [[Figma (Software)]] — 1 shared course
-- [[User Experience (UX)]] — 1 shared course
+- [Principle for Mac](Principle%20for%20Mac.md) — 1 shared course
+- [Adobe XD](Adobe%20XD.md) — 1 shared course
+- [Figma (Software)](Figma%20(Software).md) — 1 shared course
+- [User Experience (UX)](User%20Experience%20(UX).md) — 1 shared course

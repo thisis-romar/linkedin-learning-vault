@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to Graphic Design- Concepts]]
+- [Introduction to Graphic Design- Concepts](../../Courses/Data%20Science/Introduction%20to%20Graphic%20Design-%20Concepts.md)

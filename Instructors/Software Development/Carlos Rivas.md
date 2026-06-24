@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[GitHub Dependabot- Dependency Updates]]
-- [[AWS Security Best Practices for Developers]]
+- [GitHub Dependabot- Dependency Updates](../../Courses/DevOps/GitHub%20Dependabot-%20Dependency%20Updates.md)
+- [AWS Security Best Practices for Developers](../../Courses/Artificial%20Intelligence%20(AI)/AWS%20Security%20Best%20Practices%20for%20Developers.md)

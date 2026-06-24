@@ -19,35 +19,35 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Python Statistics Essential Training]]'
+  - course: '[Python Statistics Essential Training](../../../Courses/Software%20Development/Python%20Statistics%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Python- Working With Data]]'
+  - course: '[Advanced Python- Working With Data](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20With%20Data.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Python- Working with Databases]]'
+  - course: '[Advanced Python- Working with Databases](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python Data Structures and Algorithms]]'
+  - course: '[Python Data Structures and Algorithms](../../../Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python Data Structures- Linked Lists]]'
+  - course: '[Python Data Structures- Linked Lists](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python Data Structures- Stacks, Deques, and Queues]]'
+  - course: '[Python Data Structures- Stacks, Deques, and Queues](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Python Data Structures- Trees]]'
+  - course: '[Python Data Structures- Trees](../../../Courses/Database%20Management/Python%20Data%20Structures-%20Trees.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Pandas]]'
+  - course: '[Advanced Pandas](../../../Courses/Database%20Management/Advanced%20Pandas.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -62,32 +62,32 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Python Statistics Essential Training]] _(2h 39m)_
-2. [[Advanced Python- Working With Data]] _(2h 5m)_
-3. [[Advanced Python- Working with Databases]] _(2h 6m)_
-4. [[Python Data Structures and Algorithms]] _(2h 19m)_
-5. [[Python Data Structures- Linked Lists]] _(1h 2m)_
-6. [[Python Data Structures- Stacks, Deques, and Queues]] _(35m)_
-7. [[Python Data Structures- Trees]] _(1h 16m)_
-8. [[Advanced Pandas]] _(1h 2m)_
+1. [Python Statistics Essential Training](../../../Courses/Software%20Development/Python%20Statistics%20Essential%20Training.md) _(2h 39m)_
+2. [Advanced Python- Working With Data](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20With%20Data.md) _(2h 5m)_
+3. [Advanced Python- Working with Databases](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md) _(2h 6m)_
+4. [Python Data Structures and Algorithms](../../../Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md) _(2h 19m)_
+5. [Python Data Structures- Linked Lists](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md) _(1h 2m)_
+6. [Python Data Structures- Stacks, Deques, and Queues](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md) _(35m)_
+7. [Python Data Structures- Trees](../../../Courses/Database%20Management/Python%20Data%20Structures-%20Trees.md) _(1h 16m)_
+8. [Advanced Pandas](../../../Courses/Database%20Management/Advanced%20Pandas.md) _(1h 2m)_
 
 ## Course Flow
 
-1. [[Python Statistics Essential Training]] → 2. [[Advanced Python- Working With Data]] → 3. [[Advanced Python- Working with Databases]] → 4. [[Python Data Structures and Algorithms]] → 5. [[Python Data Structures- Linked Lists]] → 6. [[Python Data Structures- Stacks, Deques, and Queues]] → 7. [[Python Data Structures- Trees]] → 8. [[Advanced Pandas]]
+1. [Python Statistics Essential Training](../../../Courses/Software%20Development/Python%20Statistics%20Essential%20Training.md) → 2. [Advanced Python- Working With Data](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20With%20Data.md) → 3. [Advanced Python- Working with Databases](../../../Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md) → 4. [Python Data Structures and Algorithms](../../../Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md) → 5. [Python Data Structures- Linked Lists](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md) → 6. [Python Data Structures- Stacks, Deques, and Queues](../../../Courses/Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md) → 7. [Python Data Structures- Trees](../../../Courses/Database%20Management/Python%20Data%20Structures-%20Trees.md) → 8. [Advanced Pandas](../../../Courses/Database%20Management/Advanced%20Pandas.md)
 
 ## Topics
 
-- [[Database Management]]
-- [[Software Development]]
+- [Database Management](../../../Topics/Database%20Management.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Master Your Python Skills]] (4 shared courses)
-- [[Moving from Data Scientist to Data Analyst]] (1 shared courses)
-- [[Advance Your Skills in Python]] (1 shared courses)
+- [Master Your Python Skills](../../Software%20Development/Learning%20Paths/Master%20Your%20Python%20Skills.md) (4 shared courses)
+- [Moving from Data Scientist to Data Analyst](../../Data%20Science/Learning%20Paths/Moving%20from%20Data%20Scientist%20to%20Data%20Analyst.md) (1 shared courses)
+- [Advance Your Skills in Python](../../Software%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20Python.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Database Management]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Database Management](../../../Topics/Database%20Management.md)

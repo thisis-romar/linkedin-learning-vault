@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Succeeding As A First Time Tech Manager]] — Intermediate · 4,799 learners
+- [Succeeding As A First Time Tech Manager](../../Courses/Cloud%20Computing/Succeeding%20As%20A%20First%20Time%20Tech%20Manager.md) — Intermediate · 4,799 learners
 
 ## Related Skills
 
-- [[Management Development]] — 1 shared course
-- [[Technical Leadership]] — 1 shared course
+- [Management Development](Management%20Development.md) — 1 shared course
+- [Technical Leadership](Technical%20Leadership.md) — 1 shared course

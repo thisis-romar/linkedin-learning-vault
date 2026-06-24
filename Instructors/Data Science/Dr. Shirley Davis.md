@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leadership Foundations]]
+- [Leadership Foundations](../../Courses/Data%20Science/Leadership%20Foundations.md)

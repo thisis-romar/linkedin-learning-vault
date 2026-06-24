@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Time Management Working From Home]] — 343,460 learners
+- [Time Management Working From Home](../../Courses/Cloud%20Computing/Time%20Management%20Working%20From%20Home.md) — 343,460 learners
 
 ## Related Skills
 
-- [[Time Management]] — 1 shared course
+- [Time Management](../Cloud%20Computing/Time%20Management.md) — 1 shared course
 
 ## Mentioned In Transcripts _(3 total mentions)_
 
-1. [[Ethical Hacking- Sniffers]] — 1 mentions
-2. [[IT Security Foundations- Network Security]] — 1 mentions
-3. [[Cisco Network Security- Secure Routing and Switching]] — 1 mentions
+1. [Ethical Hacking- Sniffers](../../Courses/Cybersecurity/Ethical%20Hacking-%20Sniffers.md) — 1 mentions
+2. [IT Security Foundations- Network Security](../../Courses/Cybersecurity/IT%20Security%20Foundations-%20Network%20Security.md) — 1 mentions
+3. [Cisco Network Security- Secure Routing and Switching](../../Courses/Cybersecurity/Cisco%20Network%20Security-%20Secure%20Routing%20and%20Switching.md) — 1 mentions

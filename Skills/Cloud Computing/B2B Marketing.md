@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[How to Generate Marketing Leads with AI]] — 26m · 381,883 learners
+- [How to Generate Marketing Leads with AI](../../Courses/Cloud%20Computing/How%20to%20Generate%20Marketing%20Leads%20with%20AI.md) — 26m · 381,883 learners
 
 ## Related Skills
 
-- [[Lead Generation]] — 1 shared course
-- [[AI for Marketing]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Lead Generation](Lead%20Generation.md) — 1 shared course
+- [AI for Marketing](../Artificial%20Intelligence%20(AI)/AI%20for%20Marketing.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

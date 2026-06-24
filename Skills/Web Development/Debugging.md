@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[React- Testing and Debugging]] — Intermediate · 1h 33m · 39,736 learners
-- [[C- Exception and Error Handling]] — Advanced · 56m · 12,992 learners
-- [[Advanced PHP- Debugging Techniques]] — Advanced · 1h 7m · 4,657 learners
+- [React- Testing and Debugging](../../Courses/Web%20Development/React-%20Testing%20and%20Debugging.md) — Intermediate · 1h 33m · 39,736 learners
+- [C- Exception and Error Handling](../../Courses/DevOps/C-%20Exception%20and%20Error%20Handling.md) — Advanced · 56m · 12,992 learners
+- [Advanced PHP- Debugging Techniques](../../Courses/Cybersecurity/Advanced%20PHP-%20Debugging%20Techniques.md) — Advanced · 1h 7m · 4,657 learners
 
 ## Related Skills
 
-- [[PHP]] — 1 shared course
-- [[C#]] — 1 shared course
-- [[React.js]] — 1 shared course
+- [PHP](../Software%20Development/PHP.md) — 1 shared course
+- [C#](../../Glossary/Language/C%23.md) — 1 shared course
+- [React.js](React.js.md) — 1 shared course

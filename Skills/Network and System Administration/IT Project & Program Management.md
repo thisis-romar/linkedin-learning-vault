@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Program Management for IT Professionals]] — Intermediate · 1h 42m · 25,059 learners
+- [Program Management for IT Professionals](../../Courses/DevOps/Program%20Management%20for%20IT%20Professionals.md) — Intermediate · 1h 42m · 25,059 learners
 
 ## Related Skills
 
-- [[Program Management]] — 1 shared course
+- [Program Management](Program%20Management.md) — 1 shared course

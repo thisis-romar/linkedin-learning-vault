@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Coaching Skills for Leaders and Managers]]
-- [[Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment]]
+- [Coaching Skills for Leaders and Managers](../../Courses/Cloud%20Computing/Coaching%20Skills%20for%20Leaders%20and%20Managers.md)
+- [Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment](../../Courses/Cybersecurity/Counterintuitive%20Leadership%20Strategies%20for%20a%20VUCA%20(Volatile%2C%20Uncertain%2C%20Complex%2C%20Ambiguous)%20Environment.md)

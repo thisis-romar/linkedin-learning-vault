@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Complete Guide to Power BI for Data Analysts by Microsoft Press]]
-- [[SQL Server 2022 Administration]]
+- [Complete Guide to Power BI for Data Analysts by Microsoft Press](../../Courses/Data%20Science/Complete%20Guide%20to%20Power%20BI%20for%20Data%20Analysts%20by%20Microsoft%20Press.md)
+- [SQL Server 2022 Administration](../../Courses/Database%20Management/SQL%20Server%202022%20Administration.md)

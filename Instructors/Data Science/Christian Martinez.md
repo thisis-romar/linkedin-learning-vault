@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python in Excel for Financial Professionals]]
-- [[Advanced Python in Excel- Machine Learning]]
+- [Python in Excel for Financial Professionals](../../Courses/Data%20Science/Python%20in%20Excel%20for%20Financial%20Professionals.md)
+- [Advanced Python in Excel- Machine Learning](../../Courses/Data%20Science/Advanced%20Python%20in%20Excel-%20Machine%20Learning.md)

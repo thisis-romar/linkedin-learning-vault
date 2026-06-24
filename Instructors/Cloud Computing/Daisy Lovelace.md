@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Writing and Delivering Speeches]]
-- [[Communication within Teams (2021)]]
-- [[Tips for Writing Business Emails]]
+- [Writing and Delivering Speeches](../../Courses/Web%20Development/Writing%20and%20Delivering%20Speeches.md)
+- [Communication within Teams (2021)](../../Courses/Data%20Science/Communication%20within%20Teams%20(2021).md)
+- [Tips for Writing Business Emails](../../Courses/Cloud%20Computing/Tips%20for%20Writing%20Business%20Emails.md)

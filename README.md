@@ -12,7 +12,14 @@ Obsidian knowledge vault with 3,600+ interlinked notes from the LinkedIn Learnin
 | Skills | 916 |
 | LinkedIn Official Topics | 12 |
 
-> **You are on `main` — the source-of-truth branch.** Notes use Obsidian `[[wikilinks]]` that won't resolve on GitHub. To browse on GitHub, switch to the **[github-browse](../../tree/github-browse)** branch. To view as a website, visit the **[Quartz site](https://thisis-romar.github.io/linkedin-learning-vault)**.
+> **You are viewing the GitHub-browseable mirror of the LinkedIn Learning Vault.**
+> All `[[wikilinks]]` have been auto-converted to relative `.md` links so you can
+> navigate directly in the GitHub web UI.
+>
+> Start at [000 Map of Content.md](000%20Map%20of%20Content.md).
+>
+> For the full Obsidian experience (graph view, backlinks, tag colors, live wikilinks),
+> switch to the **[main](../../tree/main)** branch and clone locally.
 
 ## How to Access
 

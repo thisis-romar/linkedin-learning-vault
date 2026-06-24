@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Databricks Certified Data Engineer Associate Cert Prep]] — Intermediate · 3,212 learners
+- [Databricks Certified Data Engineer Associate Cert Prep](../../Courses/Data%20Science/Databricks%20Certified%20Data%20Engineer%20Associate%20Cert%20Prep.md) — Intermediate · 3,212 learners
 
 ## Related Skills
 
-- [[Data Engineering]] — 1 shared course
+- [Data Engineering](Data%20Engineering.md) — 1 shared course

@@ -16,11 +16,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQF8NWzeyXK4_w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1601591246933?e=2147483647&amp;v=beta&amp;t=EOeGxWQEE_x-6t2Sr5sVavcnrGlYm9berwUVWLPsje8"
 linkedin_topic: Web Development
 learning_paths:
-  - '[[Advance Your Skills as a Django Developer]]'
+  - '[Advance Your Skills as a Django Developer](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20Django%20Developer.md)'
 prev_courses:
-  - '[[Building a Paid Membership Site with Django]]'
+  - '[Building a Paid Membership Site with Django](Building%20a%20Paid%20Membership%20Site%20with%20Django.md)'
 next_courses:
-  - '[[Advanced Django Project- Build High-Traffic Websites with Django]]'
+  - '[Advanced Django Project- Build High-Traffic Websites with Django](Advanced%20Django%20Project-%20Build%20High-Traffic%20Websites%20with%20Django.md)'
 path_nav: '[{"path":"Advance Your Skills as a Django Developer","position":5,"total":6,"prev":"Building a Paid Membership Site with Django","next":"Advanced Django Project- Build High-Traffic Websites with Django"}]'
 path_count: 1
 tags:
@@ -91,11 +91,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=0)** - [Instructor] Have you ever wondered how the largest WebApps prevent security issues and cyber attacks? Have you ever wanted to know how two-factor authentication works, and how you can fully encrypt user data? In this course, we work with a prebuilt [[Django]] [[Representational State Transfer (REST)|REST]] API and add code to it so it is more secure and safe from cyber attacks. You will use [[Python (Programming Language)|Python]] and Django and its cache layer with [[Redis]] and Celery background worker. You will create audit logs for compliance and two factor auth codes using [[Twilio]]'s API. On top of that, you will be able to encrypt user data on the server and within zero knowledge client side encryption method. Hi, I'm Rudolf software developer for over 10 years with experience in creating Django WebApps and increasing their [[Scalability]] and security. Join me in this [[LinkedIn]] course where we increase the security of a Django REST API WebApp.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=0)** - [Instructor] Have you ever wondered how the largest WebApps prevent security issues and cyber attacks? Have you ever wanted to know how two-factor authentication works, and how you can fully encrypt user data? In this course, we work with a prebuilt [Django](../../Skills/Web%20Development/Django.md) [REST](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) API and add code to it so it is more secure and safe from cyber attacks. You will use [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) and Django and its cache layer with [Redis](../../Skills/Software%20Development/Redis.md) and Celery background worker. You will create audit logs for compliance and two factor auth codes using [Twilio](../../Skills/Software%20Development/Twilio.md)'s API. On top of that, you will be able to encrypt user data on the server and within zero knowledge client side encryption method. Hi, I'm Rudolf software developer for over 10 years with experience in creating Django WebApps and increasing their [Scalability](../../Skills/Artificial%20Intelligence%20(AI)/Scalability.md) and security. Join me in this [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) course where we increase the security of a Django REST API WebApp.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1), [[Redis]] (1), [[Twilio]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (4), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (2), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1), [Redis](../../Skills/Software%20Development/Redis.md) (1), [Twilio](../../Skills/Software%20Development/Twilio.md) (1)
 > **Env Vars:** api (3), rest (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -104,11 +104,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/what-you-should-know?u=76281980&t=0)** - [Narrator] Here's what you should know for the course. You should know some [[Python (Programming Language)|Python]], you can check out this [[LinkedIn]] learning course to learn more about the Python programming language. You should also know how to use the [[Django]] web app framework and you can learn some of the basics of cyber security and encryption from another LinkedIn learning course, Cyber Security for IT Professionals.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/what-you-should-know?u=76281980&t=0)** - [Narrator] Here's what you should know for the course. You should know some [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md), you can check out this [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) learning course to learn more about the Python programming language. You should also know how to use the [Django](../../Skills/Web%20Development/Django.md) web app framework and you can learn some of the basics of cyber security and encryption from another LinkedIn learning course, Cyber Security for IT Professionals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), [[Django]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2), [Django](../../Skills/Web%20Development/Django.md) (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [narrator] (1)
 
@@ -116,11 +116,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/what-s-included-in-the-project?u=76281980&t=0)** - [Narrator] What's included in the project is a [[Django]] web app for booking a travel tour experience. There is also a Django [[Representational State Transfer (REST)|REST]] API for the web app and there is sample data for the [[SQL]] database.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/what-s-included-in-the-project?u=76281980&t=0)** - [Narrator] What's included in the project is a [Django](../../Skills/Web%20Development/Django.md) web app for booking a travel tour experience. There is also a Django [REST](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) API for the web app and there is sample data for the [SQL](../../Skills/Data%20Science/SQL.md) database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (2), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1), [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Env Vars:** rest (1), api (1), sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -129,13 +129,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=0)** - [Instructor] To install the project, we first have to install the [[Redis]] server, and the Apache utils package, which contains Apache Benchmark. Then we have to create a virtual environment for [[Python (Programming Language)|Python]], where we're using Python 3, we're creating the env folder and then we have to source the activation script so that we're in this Python environment and then we have to install the dependencies of the project.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=0)** - [Instructor] To install the project, we first have to install the [Redis](../../Skills/Software%20Development/Redis.md) server, and the Apache utils package, which contains Apache Benchmark. Then we have to create a virtual environment for [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md), where we're using Python 3, we're creating the env folder and then we have to source the activation script so that we're in this Python environment and then we have to install the dependencies of the project.
 >
-> **[0:49](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=49)** And now you should be able to run the [[Django]] Code.
+> **[0:49](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=49)** And now you should be able to run the [Django](../../Skills/Web%20Development/Django.md) Code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Redis]] (1), [[Django]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3), [Redis](../../Skills/Software%20Development/Redis.md) (1), [Django](../../Skills/Web%20Development/Django.md) (1)
 > **CLI Commands:** python (3), apache (2)
 > **Prerequisites:** install (3)
 > **Versions:** python 3 (1)
@@ -145,11 +145,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/running-the-server?u=76281980&t=0)** - [Instructor] To run the [[Django]] server, we have to activate the virtual environment. Then we have to go into demo folder, and then we have to run the migration script, and then we have to run the server.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/running-the-server?u=76281980&t=0)** - [Instructor] To run the [Django](../../Skills/Web%20Development/Django.md) server, we have to activate the virtual environment. Then we have to go into demo folder, and then we have to run the migration script, and then we have to run the server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -161,13 +161,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980&t=0)** - When you have data models in [[Django]], the permissions to add, modify or delete that data depends on the logic you implement in your views. Without fine grain security checks, any user could access another user's data and even modify it if the security check is poorly coded. We're going to begin by adding the guardian app to the installed apps list, in our settings file. And we're going to scroll down to the authentication backends, and we're going to be adding the object permission backend from guardian,
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980&t=0)** - When you have data models in [Django](../../Skills/Web%20Development/Django.md), the permissions to add, modify or delete that data depends on the logic you implement in your views. Without fine grain security checks, any user could access another user's data and even modify it if the security check is poorly coded. We're going to begin by adding the guardian app to the installed apps list, in our settings file. And we're going to scroll down to the authentication backends, and we're going to be adding the object permission backend from guardian,
 >
 > **[0:45](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980&t=45)** and then ,we're going to be running the migrations. As you can see, guardian is part of the list of migrations, it provides its own migrations for object permissions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - when (1)
 
@@ -177,7 +177,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980&t=0)** - [Instructor] Now that we have per object permissions enabled we need to assign permissions to model whenever a user creates it. When a user books a tour package, a booking model instance is created. It is logical that the user is the only one that can modify their own booking. So we're going to start by importing the receiver decorator. And then we're going to be importing the post save signal. And from guardian, we are going to be importing the shortcut for assigning permission. Now we scroll down to after the booking model definition and we're going to be using the receiver and we are going to be acting on the post save signal, for the booking and we call it set booking permissions.
 >
-> **[1:11](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980&t=71)** And the user is based on the email address of the booking. And we're going to assign permission for the API change booking permission. We're going to assign it to the user and that's the model level permission. And now we're going to assign the per object permission by specifying the instance as well. Now we can go to the [[Django]] shell. And from there we can import time zone.
+> **[1:11](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980&t=71)** And the user is based on the email address of the booking. And we're going to assign permission for the API change booking permission. We're going to assign it to the user and that's the model level permission. And now we're going to assign the per object permission by specifying the instance as well. Now we can go to the [Django](../../Skills/Web%20Development/Django.md) shell. And from there we can import time zone.
 >
 > **[2:05](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980&t=125)** And from the API models we're going to import booking and package. And from django, we're importing the user model and we're going to find two users, user A and then user B.
 >
@@ -185,7 +185,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (2)
 > **Env Vars:** api (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **CLI Commands:** find (1)
@@ -214,7 +214,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=0)** - Using [[Django]] Guardian, you can split read write modification, delete permissions into different roles groups. To make sure groups were correctly, you have to create them in a data migration, we're going to be creating two groups. First we need to get the model from the auth app.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=0)** - Using [Django](../../Skills/Web%20Development/Django.md) Guardian, you can split read write modification, delete permissions into different roles groups. To make sure groups were correctly, you have to create them in a data migration, we're going to be creating two groups. First we need to get the model from the auth app.
 >
 > **[0:29](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=29)** And then we need to actually create the group. And the first one is for account manager. And the second one is the customer's support group.
 >
@@ -224,7 +224,7 @@ created: 2026-05-03
 >
 > **[1:47](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=107)** And for the accounts manager, they will have permission to change a package and view a package
 >
-> **[2:05](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=125)** [[Customer Support]] will be helping customers so they need permission to view the package
+> **[2:05](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=125)** [Customer Support](../../Skills/IT%20Help%20Desk/Customer%20Support.md) will be helping customers so they need permission to view the package
 >
 > **[2:20](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=140)** and permission to change your booking that was created by a customer. And then permission to view a booking as well. Now we can write a test to make sure all this works. So this is part of booking per object permission test case. And we are going to call it test group permissions. And the permission we are testing is API Change Package.
 >
@@ -242,7 +242,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (2), [Customer Support](../../Skills/IT%20Help%20Desk/Customer%20Support.md) (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** api (1)
 > **Prerequisites:** set up (1)
@@ -252,7 +252,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=0)** - [Instructor] Let's write another access control test to ensure group permissions are working properly. Before we get started, Let's take a look at this sign permission, shortcut function we used. As you can see the function imports the group model and then imports the assigned permission function from [[Django]] guardian. And then for every group and the permissions, we are getting the group model instance. And then assigning each permission using the django guardian shortcut. Next, we have a function that checks whether a given group has permission to access a given object. We [[Fetch]] the group model instance. And then we use the get objects for group django guardian shortcut to check whether out of the set of all objects that this group has permission to whether the given object is in that set. And lastly, we have the user has group perm function. Which will check whether a user has permission to access through their group permissions, a specific object. Remember that you can write shortcuts and helper functions like this to simplify how you write unit tests. So let's create another test here. And this test will be to test the [[Customer Support]] group permissions.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=0)** - [Instructor] Let's write another access control test to ensure group permissions are working properly. Before we get started, Let's take a look at this sign permission, shortcut function we used. As you can see the function imports the group model and then imports the assigned permission function from [Django](../../Skills/Web%20Development/Django.md) guardian. And then for every group and the permissions, we are getting the group model instance. And then assigning each permission using the django guardian shortcut. Next, we have a function that checks whether a given group has permission to access a given object. We [Fetch](../../Skills/Web%20Development/Fetch.md) the group model instance. And then we use the get objects for group django guardian shortcut to check whether out of the set of all objects that this group has permission to whether the given object is in that set. And lastly, we have the user has group perm function. Which will check whether a user has permission to access through their group permissions, a specific object. Remember that you can write shortcuts and helper functions like this to simplify how you write unit tests. So let's create another test here. And this test will be to test the [Customer Support](../../Skills/IT%20Help%20Desk/Customer%20Support.md) group permissions.
 >
 > **[1:38](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=98)** We're going to create a booking.
 >
@@ -264,7 +264,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (4), [[Django]] (3), [[Fetch]] (1)
+> **Frameworks & Libraries:** [Customer Support](../../Skills/IT%20Help%20Desk/Customer%20Support.md) (4), [Django](../../Skills/Web%20Development/Django.md) (3), [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **Speakers:** - [instructor] (1)
 
 #### [Adding activity logs for auditing](https://www.linkedin.com/learning/securing-django-applications/adding-activity-logs-for-auditing?u=76281980)
@@ -298,11 +298,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=0)** - [Instructor] When deleting data in a [[Django]] app we need to be aware of compliance requirements and whether the data can be truly deleted. We create a new data model, which will store a copy of the deleted data. So we need to store the model type that was deleted.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=0)** - [Instructor] When deleting data in a [Django](../../Skills/Web%20Development/Django.md) app we need to be aware of compliance requirements and whether the data can be truly deleted. We create a new data model, which will store a copy of the deleted data. So we need to store the model type that was deleted.
 >
 > **[0:25](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=25)** And then we have to store the ID of the model that was deleted. And then we store the actual data. And now whenever we delete a booking model instance,
 >
-> **[0:47](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=47)** we're going to be archiving it, and storing it in the DeletedData model. Now we do this by using DJango serializers and we're going to store a [[JSON]] copy of this instance that was deleted, and then we're going to store it in the DeletedData objects. So the model type is booking. The model ID is the instance ID, and the data is the serialized version of that data. Later on, if we ever need to recover this data, and restore it, we can do that just given the ID. We can find it in deleted data. Say that the model tape is booking model ID is the given ID. And then for every instance that we find, we're going to deserialize it, and then we're going to be saving it. And of course removing it from the objects that were deleted. Now to test this, we're going to import DeletedData and the restore booking function.
+> **[0:47](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=47)** we're going to be archiving it, and storing it in the DeletedData model. Now we do this by using DJango serializers and we're going to store a [JSON](../../Skills/Web%20Development/JSON.md) copy of this instance that was deleted, and then we're going to store it in the DeletedData objects. So the model type is booking. The model ID is the instance ID, and the data is the serialized version of that data. Later on, if we ever need to recover this data, and restore it, we can do that just given the ID. We can find it in deleted data. Say that the model tape is booking model ID is the given ID. And then for every instance that we find, we're going to deserialize it, and then we're going to be saving it. And of course removing it from the objects that were deleted. Now to test this, we're going to import DeletedData and the restore booking function.
 >
 > **[2:23](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=143)** And we're going to go down to the delete and restore booking test case, and the delete and restore test. We'll have a model ID of the booking ID. And we're going to assert that right now we have
 >
@@ -314,7 +314,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (2), [JSON](../../Skills/Web%20Development/JSON.md) (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** json (1)
 > **Definitions:** is a  (1)
@@ -330,7 +330,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=0)** - [Instructor] Apache Bench is used as a benchmarking tool to let you know how many requests your Apache web server can handle. However, it can be used to test any other web server too. In one terminal, we're going to be running the [[Django]] web server. In another terminal, we're going to be running AB, which is the command to run Apache Bench. We use the N option, which is the number of requests to make. And then we're going to be hitting the Django web server at the index. And we can see that there are five completed requests and the requests per second are 292. So it looks like we can handle a lot of requests when using the Django web server. Let's try that again with more requests and this time pointing to our [[Representational State Transfer (REST)|REST]] API URL. Instead, so he used the T flag to set the content type to [[JSON]]. We're going to make 200 requests and we are going to be hitting the API V1 public packages endpoint. So when we run this,
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=0)** - [Instructor] Apache Bench is used as a benchmarking tool to let you know how many requests your Apache web server can handle. However, it can be used to test any other web server too. In one terminal, we're going to be running the [Django](../../Skills/Web%20Development/Django.md) web server. In another terminal, we're going to be running AB, which is the command to run Apache Bench. We use the N option, which is the number of requests to make. And then we're going to be hitting the Django web server at the index. And we can see that there are five completed requests and the requests per second are 292. So it looks like we can handle a lot of requests when using the Django web server. Let's try that again with more requests and this time pointing to our [REST](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) API URL. Instead, so he used the T flag to set the content type to [JSON](../../Skills/Web%20Development/JSON.md). We're going to make 200 requests and we are going to be hitting the API V1 public packages endpoint. So when we run this,
 >
 > **[1:36](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=96)** we see that 200 requests were made and we were able to handle 294 requests per second. We need to confirm that we are sending the right data. So we're going to be using the T flag again. And then we're going to use V for verbosity, set it to the highest level. And then we send just one request and we're going to send it to the same API V1 public packages endpoint. So we can see by scrolling up a little bit, the data we sent and received and the response code and we can see everything with this verbosity flag. Now let's add more concurrency and more requests. So again, we use the T flag and then we say C, which is concurrency and we said to 30, so there'll be 30 concurrent processes. And then we run it with 2000 requests. So again, we're hitting the same endpoint.
 >
@@ -340,7 +340,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (3), [JSON](../../Skills/Web%20Development/JSON.md) (3), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Env Vars:** api (6), json (3), rest (1), url (1), http (1)
 > **CLI Commands:** make (4), apache (3)
 > **Tools:** terminal (2)
@@ -370,7 +370,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/unit-testing-idempotent-actions-that-should-only-happen-once?u=76281980&t=0)** - [Instructor] Let's open the test file and write a test case for the cooldown throttling period. We already have the [[Django]] cache imported, and we have our package create view test case with some sample data. So before we start testing, we need to setup what are the expectations here, which is that after we make a request, we're going to be seeing that one additional object was created. So before the request, we want to make sure that the cache key package created has not been set. Now, we're going to make our first request, which is to create a new package, going to use that sample data. And we're going to make sure that right after this first request, the cache key has been set,
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/unit-testing-idempotent-actions-that-should-only-happen-once?u=76281980&t=0)** - [Instructor] Let's open the test file and write a test case for the cooldown throttling period. We already have the [Django](../../Skills/Web%20Development/Django.md) cache imported, and we have our package create view test case with some sample data. So before we start testing, we need to setup what are the expectations here, which is that after we make a request, we're going to be seeing that one additional object was created. So before the request, we want to make sure that the cache key package created has not been set. Now, we're going to make our first request, which is to create a new package, going to use that sample data. And we're going to make sure that right after this first request, the cache key has been set,
 >
 > **[1:10](https://www.linkedin.com/learning/securing-django-applications/unit-testing-idempotent-actions-that-should-only-happen-once?u=76281980&t=70)** and then we're going to make sure that the response was also 201 to indicate that the object was created. And then we're going to make sure that the number of objects in the database has actually been updated. Now in our second request,
 >
@@ -378,7 +378,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (1)
 > **CLI Commands:** make (7)
 > **Prerequisites:** before we start (1), setup (1)
 > **Tools:** terminal (1)
@@ -409,11 +409,11 @@ created: 2026-05-03
 >
 > **[1:39](https://www.linkedin.com/learning/securing-django-applications/unit-testing-background-queue-flood-prevention?u=76281980&t=99)** just like in the first test case. And then we're going to be setting retry to have a side effect. And now we make sure that the retry is raised.
 >
-> **[2:01](https://www.linkedin.com/learning/securing-django-applications/unit-testing-background-queue-flood-prevention?u=76281980&t=121)** So when we call a create comment right away, the user won't be able to create this comment and it will be retried later. Now in the terminal, we have to make sure that [[Redis]] server is running. It looks like it is. And we just have to run test UGC, looks like the tests are passing.
+> **[2:01](https://www.linkedin.com/learning/securing-django-applications/unit-testing-background-queue-flood-prevention?u=76281980&t=121)** So when we call a create comment right away, the user won't be able to create this comment and it will be retried later. Now in the terminal, we have to make sure that [Redis](../../Skills/Software%20Development/Redis.md) server is running. It looks like it is. And we just have to run test UGC, looks like the tests are passing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (1)
+> **Frameworks & Libraries:** [Redis](../../Skills/Software%20Development/Redis.md) (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** ugc (1)
 > **Tools:** terminal (1)
@@ -430,7 +430,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980&t=0)** - To increase security, we're going to be creating a custom model field that automatically encrypts a field. The idea is that if an attacker accesses the database, they will not be able to access sensitive data without the encryption key. Right now the encryption key will be set to hello world 256. We have a special utility function called making encryption key to ensure that the key has a length of 32. The encrypt function will be taking the encoded value and then returning the encrypted value. Going to be using the encryption key with that and then calling encrypt on encoded value. So Fernet is one encryption algorithm provided by the [[Python (Programming Language)|Python]] [[Cryptography]] library. There are other [[Algorithms]] that you can choose but this one is the simplest and easiest to use for this case. And now for decryption, we're going to be again using Fernet with our same encryption key so this is symmetric encryption where we're using the same key or decrypting the value and then we have to encode it
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980&t=0)** - To increase security, we're going to be creating a custom model field that automatically encrypts a field. The idea is that if an attacker accesses the database, they will not be able to access sensitive data without the encryption key. Right now the encryption key will be set to hello world 256. We have a special utility function called making encryption key to ensure that the key has a length of 32. The encrypt function will be taking the encoded value and then returning the encrypted value. Going to be using the encryption key with that and then calling encrypt on encoded value. So Fernet is one encryption algorithm provided by the [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) [Cryptography](../../Skills/Cybersecurity/Cryptography.md) library. There are other [Algorithms](../../Skills/Software%20Development/Algorithms.md) that you can choose but this one is the simplest and easiest to use for this case. And now for decryption, we're going to be again using Fernet with our same encryption key so this is symmetric encryption where we're using the same key or decrypting the value and then we have to encode it
 >
 > **[1:35](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980&t=95)** as UTF8. So now that we have these two functions, we can create our encrypted text field custom field. So we have to override from db_value which provides us with a value on expression and a connection and we just use decrypt with the value and then we have to override to Python, which provides us with a value and again we are decrypting that value and we also have to override the get_prep value method.
 >
@@ -438,7 +438,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Cryptography]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [Cryptography](../../Skills/Cybersecurity/Cryptography.md) (1), [Algorithms](../../Skills/Software%20Development/Algorithms.md) (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** db_value (1), get_prep (1)
 > **Env Vars:** utf8 (1)
@@ -450,17 +450,17 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=0)** - [Tutor] We're going to test the per field encryption by storing the secret code ABC123. So our secret code goes here, and a payment is made by the user,
 >
-> **[0:26](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=26)** and the password confirmation code is our secret code right here. We are going to make sure that the payment passport confirmation is equal to the secret code, and this field is in memory, so it's unencrypted, and then we're going to be using the database connection cursor, so that we can make a direct [[SQL]] query
+> **[0:26](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=26)** and the password confirmation code is our secret code right here. We are going to make sure that the payment passport confirmation is equal to the secret code, and this field is in memory, so it's unencrypted, and then we're going to be using the database connection cursor, so that we can make a direct [SQL](../../Skills/Data%20Science/SQL.md) query
 >
 > **[1:14](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=74)** from the model and select that field and make sure it is encrypted.
 >
-> **[1:33](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=93)** And then we get the result of this query using [[Fetch]] one. We can print the encrypted string, and then we can make sure that it's not equal to our secret code, because it is encrypted, and we also in to test the deserialization, and for that we get the object from the database through Djangos ORM.
+> **[1:33](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=93)** And then we get the result of this query using [Fetch](../../Skills/Web%20Development/Fetch.md) one. We can print the encrypted string, and then we can make sure that it's not equal to our secret code, because it is encrypted, and we also in to test the deserialization, and for that we get the object from the database through Djangos ORM.
 >
 > **[2:18](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=138)** Again comparing it. That way, and now we can run the tests, so we open up the terminal, and as you can see, the field has been properly encrypted. So our short secret code turned into a long encrypted string. And that is what's stored in the Sequel database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cursor (1), [[SQL]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** cursor (1), [SQL](../../Skills/Data%20Science/SQL.md) (1), [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** abc123 (1), sql (1), orm (1)
 > **Tools:** terminal (1)
@@ -470,7 +470,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=0)** - [Narrator] Before we get into the code. Remember that encryption and [[Cryptography]] and security are tough subjects to be an expert at. For example, spider Oak uses multiple sets of encryption [[Algorithms]] for their zero knowledge storage, while we are only using one algorithm. If you are asked to use the code, we write here in a production setting, hire a [[Cybersecurity]] expert to audit the code. So, here we have a new model for users to be able to store a travel journal and descriptions of their trip. This is data that should always be kept private, but that is convenient for us to hold onto for the user. We are acting as data custodians. (mouse clicking) We're going to create a custom permission, called only creator permission. It is a subclass of [[Django]] [[Representational State Transfer (REST)|rest]] frameworks based permission, and, we are overriding the has permission method. (keyboard keys clicking) And we want to allow only post or get methods
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=0)** - [Narrator] Before we get into the code. Remember that encryption and [Cryptography](../../Skills/Cybersecurity/Cryptography.md) and security are tough subjects to be an expert at. For example, spider Oak uses multiple sets of encryption [Algorithms](../../Skills/Software%20Development/Algorithms.md) for their zero knowledge storage, while we are only using one algorithm. If you are asked to use the code, we write here in a production setting, hire a [Cybersecurity](../../Topics/Cybersecurity.md) expert to audit the code. So, here we have a new model for users to be able to store a travel journal and descriptions of their trip. This is data that should always be kept private, but that is convenient for us to hold onto for the user. We are acting as data custodians. (mouse clicking) We're going to create a custom permission, called only creator permission. It is a subclass of [Django](../../Skills/Web%20Development/Django.md) [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) frameworks based permission, and, we are overriding the has permission method. (keyboard keys clicking) And we want to allow only post or get methods
 >
 > **[1:21](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=81)** on this data. The has object permission, is what we use to check if the requesting user was the one who created this object.
 >
@@ -482,7 +482,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[Cryptography]] (1), [[Algorithms]] (1), [[Cybersecurity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (2), [Cryptography](../../Skills/Cybersecurity/Cryptography.md) (1), [Algorithms](../../Skills/Software%20Development/Algorithms.md) (1), [Cybersecurity](../../Topics/Cybersecurity.md) (1), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Non-Speech:** (keyboard keys clicking) (2), (mouse clicking) (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** scroll down (1)
@@ -500,7 +500,7 @@ created: 2026-05-03
 >
 > **[0:51](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980&t=51)** a mobile app client or web browser client or desktop client can generate the private key used to encrypt this message. So this client side key outside of tests will be generated on the client side. So our plain text message will just be "hello world" and we have to encode it. And our encrypted text, which will be encrypted on the client side, using the client side key will be done like this using Fornet. You can use any other algorithm on the client side, as long as the user has that key. We also need to make sure that the encrypted text is a list of bytes.
 >
-> **[1:52](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980&t=112)** And then we're ready to assemble the [[Representational State Transfer (REST)|rest]] API data we're going to send over. That's created by the user and then the encrypted text is this encrypted text. And now we can make the post request to the rest API. It's the API V1 journal and the data is the above data. And we're going to be logged in as the user. We're going to make sure that the status code was still one, which means the new journal entry was created. And we also want to make sure that the activity log is zero. That no new activity log entries were created. It's up to the user to keep track of their private key and the data they keep in there, and on the server side, we want to have zero knowledge even about when they're creating these pieces of data. We don't want to have any plain text data and so on. So now let's make sure that the journal entry has the encrypted text only. So we want to make sure
+> **[1:52](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980&t=112)** And then we're ready to assemble the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) API data we're going to send over. That's created by the user and then the encrypted text is this encrypted text. And now we can make the post request to the rest API. It's the API V1 journal and the data is the above data. And we're going to be logged in as the user. We're going to make sure that the status code was still one, which means the new journal entry was created. And we also want to make sure that the activity log is zero. That no new activity log entries were created. It's up to the user to keep track of their private key and the data they keep in there, and on the server side, we want to have zero knowledge even about when they're creating these pieces of data. We don't want to have any plain text data and so on. So now let's make sure that the journal entry has the encrypted text only. So we want to make sure
 >
 > **[3:34](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980&t=214)** that the created by user is that user. And then let's make sure that journal encrypted text matches.
 >
@@ -516,7 +516,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** api (3)
 > **Tools:** terminal (1)
@@ -527,7 +527,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=0)** - [Instructor] [[Data Privacy]] regulations such as GDPR in the European Union and CCPA in the State of California make it more important than ever to give users a way to download all of the data that they have put into your web app. So we're going to give them the ability to download a csv file. So let's start by writing a unit test. So we're going to make a request to get the csv file for this particular user. And of course, the response status code should be a 200
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=0)** - [Instructor] [Data Privacy](../../Skills/Data%20Science/Data%20Privacy.md) regulations such as GDPR in the European Union and CCPA in the State of California make it more important than ever to give users a way to download all of the data that they have put into your web app. So we're going to give them the ability to download a csv file. So let's start by writing a unit test. So we're going to make a request to get the csv file for this particular user. And of course, the response status code should be a 200
 >
 > **[0:42](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=42)** and we're going to get the content from the response.
 >
@@ -549,13 +549,13 @@ created: 2026-05-03
 >
 > **[4:24](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=264)** and then we are going to use writerows and a list comprehension here. So we get the package name from the booking, the package price, the start date, and the name.
 >
-> **[4:53](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=293)** After that we have the activity log and we need to [[Fetch]] all the objects and actions done by the user. And then we have writerows
+> **[4:53](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=293)** After that we have the activity log and we need to [Fetch](../../Skills/Web%20Development/Fetch.md) all the objects and actions done by the user. And then we have writerows
 >
 > **[5:19](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=319)** I'm getting that for log in logs. And then we return the response. Let's run the test by opening the terminal, going to the folder and then running test api. So as you can see we have a small error here, so let's fix that. And it looks like it's just in our test where we have a small typo. So let's run the test again and we're good to go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [Data Privacy](../../Skills/Data%20Science/Data%20Privacy.md) (1), [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdpr (1), ccpa (1), http (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -573,15 +573,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=0)** - [Instructor] We're going to be using [[Twilio]] to send a two-factor SMS code. So we're going to to start by importing the trace function from the random model so that we can generate the SMS code. And we have to import the [[Representational State Transfer (REST)|REST]] client for Twilio. And we already have a model here. So what we're going to do is create a class method to send the code. And we're passing in the class at the user and the phone number that we're going to send the code to. Before we do anything else, we need the account SID and the auth token. You can get the account SID and the auth token and the phone number from the Twilio Dashboard. You can sign up for a Twilio trial account and create an SMS account. You can paste in the account SID and auth token and then we can create the Twilio Client using the account SID and the auth token. We're going to generate the code using these digits.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=0)** - [Instructor] We're going to be using [Twilio](../../Skills/Software%20Development/Twilio.md) to send a two-factor SMS code. So we're going to to start by importing the trace function from the random model so that we can generate the SMS code. And we have to import the [REST](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) client for Twilio. And we already have a model here. So what we're going to do is create a class method to send the code. And we're passing in the class at the user and the phone number that we're going to send the code to. Before we do anything else, we need the account SID and the auth token. You can get the account SID and the auth token and the phone number from the Twilio Dashboard. You can sign up for a Twilio trial account and create an SMS account. You can paste in the account SID and auth token and then we can create the Twilio Client using the account SID and the auth token. We're going to generate the code using these digits.
 >
-> **[1:26](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=86)** And we use choice to select random digit for a six-digit code. And we're going to be creating a two-factor auth code object for this user with this particular randomly generated code. And then we're going to be sending the message using the Twilio Client. We have to provide the phone number that we're sending it to and the from phone number, which in this case is this one. For your own account, it will be something else. And then the body of the message that we're sending, which will be your auth code plus the code. Now let's save this and let's switch to Terminal and see this in action. We can go into the [[Django]] shell and we import the user model. And then from our two-factor auth app, we import the two-factor auth code model. We're going to get the last user and then create a two-factor auth code
+> **[1:26](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=86)** And we use choice to select random digit for a six-digit code. And we're going to be creating a two-factor auth code object for this user with this particular randomly generated code. And then we're going to be sending the message using the Twilio Client. We have to provide the phone number that we're sending it to and the from phone number, which in this case is this one. For your own account, it will be something else. And then the body of the message that we're sending, which will be your auth code plus the code. Now let's save this and let's switch to Terminal and see this in action. We can go into the [Django](../../Skills/Web%20Development/Django.md) shell and we import the user model. And then from our two-factor auth app, we import the two-factor auth code model. We're going to get the last user and then create a two-factor auth code
 >
 > **[3:03](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=183)** by sending a code to that user to whichever number you want to type in. And as soon as you send it, you should receive this in a few seconds if you've set up your Twilio account credentials properly. So you should see the auth code and an SMS message show up on your phone. And that's all it takes to send a message using Twilio.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1)
+> **Frameworks & Libraries:** [Twilio](../../Skills/Software%20Development/Twilio.md) (8), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1), [Django](../../Skills/Web%20Development/Django.md) (1)
 > **Env Vars:** sms (4), sid (4), rest (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** switch to (1)
@@ -605,13 +605,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/validating-2fa-login-before-performing-actions-in-django?u=76281980&t=0)** - [Tutor] To use two factor authentication with [[Django]] and Django [[Representational State Transfer (REST)|REST]] framework, we need a way to confirm and validate an action. Therefore, we need to create a permission class. We're going to be importing permissions from Django REST framework, and we're going to be importing our TwoFactorAuthCode model. And the permission class will be called, TwoFactorAuthRequired. Inheriting from BasePermission, and it will be operating at the has_permission level instead of has object permission. So we're going to extract the code from any request_data,
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/validating-2fa-login-before-performing-actions-in-django?u=76281980&t=0)** - [Tutor] To use two factor authentication with [Django](../../Skills/Web%20Development/Django.md) and Django [REST](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) framework, we need a way to confirm and validate an action. Therefore, we need to create a permission class. We're going to be importing permissions from Django REST framework, and we're going to be importing our TwoFactorAuthCode model. And the permission class will be called, TwoFactorAuthRequired. Inheriting from BasePermission, and it will be operating at the has_permission level instead of has object permission. So we're going to extract the code from any request_data,
 >
 > **[0:57](https://www.linkedin.com/learning/securing-django-applications/validating-2fa-login-before-performing-actions-in-django?u=76281980&t=57)** and the parameter will be called auth code. So all requests that require twofactorauth will have this additional auth code parameter. And then we're going to be using the TwoFactorAuthCode, validate_code class method. So we pass in the request_user and then we pass in the code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (3), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (2)
 > **Code Identifiers:** has_permission (1), request_data (1), validate_code (1), request_user (1)
 > **Env Vars:** rest (2)
 > **Speakers:** - [tutor] (1)
@@ -646,13 +646,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980&t=0)** - CSRF attacks also known as, cross-site request forgery attacks. Allow an attacker to automatically execute code in a web browser on behalf of a user. The danger of a CSRF attack is that it can be invisible to the user. For example, an attacker could attempt to transfer money on a bank website on behalf of the user. Another type of attack could attempt to change a user's email address, or password to something that the attacker knows. Here we have our journal view which will list a bunch of journal entries for the user, and this is the zero knowledge journal view. And we want to make sure, that whenever any request is sent to this view, that it is protected with a CSRF token. So, we going to use CSRF protect, and [[Django]] has another decorator called CSRF exempt, In case you do want a view that is exempt from CSRF [[Tokens]]. In this case, we want the CSRF token to be there for any post request. And then we can go to the journal template, where we can see there's a form for adding a new journal entry for the user, So they're going to be entering plain text. It's converted into encrypted text, which is then submitted to our web app. So, to make sure that an attacker can't,
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980&t=0)** - CSRF attacks also known as, cross-site request forgery attacks. Allow an attacker to automatically execute code in a web browser on behalf of a user. The danger of a CSRF attack is that it can be invisible to the user. For example, an attacker could attempt to transfer money on a bank website on behalf of the user. Another type of attack could attempt to change a user's email address, or password to something that the attacker knows. Here we have our journal view which will list a bunch of journal entries for the user, and this is the zero knowledge journal view. And we want to make sure, that whenever any request is sent to this view, that it is protected with a CSRF token. So, we going to use CSRF protect, and [Django](../../Skills/Web%20Development/Django.md) has another decorator called CSRF exempt, In case you do want a view that is exempt from CSRF [Tokens](../../Skills/Web%20Development/Tokens.md). In this case, we want the CSRF token to be there for any post request. And then we can go to the journal template, where we can see there's a form for adding a new journal entry for the user, So they're going to be entering plain text. It's converted into encrypted text, which is then submitted to our web app. So, to make sure that an attacker can't,
 >
 > **[1:37](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980&t=97)** fill their journal with random entries, we need to provide a CSRF token. Here in the existing entry section, we list a bunch of existing entries, so this is the decrypted text, that the user can see, that is encrypted on the server. For an attacker, they may want to delete all the user's journal entries. So we need a CSRF token here, and we make the delete a post request, so that the CSRF token is checked for in the view.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (1), [Tokens](../../Skills/Web%20Development/Tokens.md) (1)
 > **Env Vars:** csrf (10)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
@@ -665,9 +665,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=0)** - [Instructor] We're going to test the CSRF protection for the journal view. Specifically, we're testing to see what happens where we delete a journal entry. In this test, a user and a journal entry already exist. We need to create a new HTTP client and we need to make sure that it enforces CSRF checks. Usually [[Django]] will skip these to make testing easier. And then we are going to use Force Login to login as the user. So let's try, deleting, this journal entry we're going to make a POST request. And the data we're providing is the entry to delete and that is the journal entry ID. And we do not expect this to work. So the response status code should be a four or a three, and the journal entry should still exist.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=0)** - [Instructor] We're going to test the CSRF protection for the journal view. Specifically, we're testing to see what happens where we delete a journal entry. In this test, a user and a journal entry already exist. We need to create a new HTTP client and we need to make sure that it enforces CSRF checks. Usually [Django](../../Skills/Web%20Development/Django.md) will skip these to make testing easier. And then we are going to use Force Login to login as the user. So let's try, deleting, this journal entry we're going to make a POST request. And the data we're providing is the entry to delete and that is the journal entry ID. And we do not expect this to work. So the response status code should be a four or a three, and the journal entry should still exist.
 >
-> **[1:16](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=76)** And the reason this won't work, and why we want it to fail is because the CSRF token is not included as part of the request. So, let's try again. We have the response of getting the journal entries and on that page, the two [[Forms]] that exist are the add new entry form and the delete entry forms. And as part of those forms, there are CSRF [[Tokens]]. So we want to make sure that this response returns to 200 as a status code. And then we're going to be extracting the CSRF token.
+> **[1:16](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=76)** And the reason this won't work, and why we want it to fail is because the CSRF token is not included as part of the request. So, let's try again. We have the response of getting the journal entries and on that page, the two [Forms](../../Skills/Web%20Development/Forms.md) that exist are the add new entry form and the delete entry forms. And as part of those forms, there are CSRF [Tokens](../../Skills/Web%20Development/Tokens.md). So we want to make sure that this response returns to 200 as a status code. And then we're going to be extracting the CSRF token.
 >
 > **[2:06](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=126)** So we use this regular expression to do that. And you can see why Django usually skips the CSRF check.
 >
@@ -677,7 +677,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), [[Forms]] (3), [[Tokens]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (3), [Forms](../../Skills/Web%20Development/Forms.md) (3), [Tokens](../../Skills/Web%20Development/Tokens.md) (1)
 > **Env Vars:** csrf (9), post (2), http (1), ugc (1)
 > **CLI Commands:** make (6)
 > **API Endpoints:** post  (2)
@@ -693,18 +693,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/next-steps?u=76281980&t=0)** - [Instructor] The next steps you can take after watching this course are learning more about [[Django]] [[Representational State Transfer (REST)|REST]] APIs with the [[LinkedIn]] Learning course "[[Building RESTful Web APIs with Django]]," and you can further your [[Cybersecurity]] knowledge as well and your web app security knowledge with the "Online [[Application Security]] Testing Essentials" course.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/next-steps?u=76281980&t=0)** - [Instructor] The next steps you can take after watching this course are learning more about [Django](../../Skills/Web%20Development/Django.md) [REST](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) APIs with the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course "[Building RESTful Web APIs with Django](Building%20RESTful%20Web%20APIs%20with%20Django.md)," and you can further your [Cybersecurity](../../Topics/Cybersecurity.md) knowledge as well and your web app security knowledge with the "Online [Application Security](../../Skills/Cybersecurity/Application%20Security.md) Testing Essentials" course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1), [[Cybersecurity]] (1), [[Application Security]] (1)
+> **Frameworks & Libraries:** [Django](../../Skills/Web%20Development/Django.md) (2), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1), [Cybersecurity](../../Topics/Cybersecurity.md) (1), [Application Security](../../Skills/Cybersecurity/Application%20Security.md) (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [instructor] (1)
 
 
 ## Instructor
 
-- [[Rudolf Olah]]
+- [Rudolf Olah](../../Instructors/Web%20Development/Rudolf%20Olah.md)
 
 ## Resources
 
@@ -716,22 +716,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Advance Your Skills as a Django Developer]]
-← [[Building a Paid Membership Site with Django]] | **5 of 6** | [[Advanced Django Project- Build High-Traffic Websites with Django]] →
+### In [Advance Your Skills as a Django Developer](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20Django%20Developer.md)
+← [Building a Paid Membership Site with Django](Building%20a%20Paid%20Membership%20Site%20with%20Django.md) | **5 of 6** | [Advanced Django Project- Build High-Traffic Websites with Django](Advanced%20Django%20Project-%20Build%20High-Traffic%20Websites%20with%20Django.md) →
 
 ## Appears In
 
-- [[Advance Your Skills as a Django Developer]]
+- [Advance Your Skills as a Django Developer](../../Paths/Web%20Development/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20Django%20Developer.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Advanced Django Project- Build High-Traffic Websites with Django]] — Django
-- [[Building a Paid Membership Site with Django]] — Django
-- [[Building RESTful Web APIs with Django]] — Django
-- [[Building Angular and Django Apps]] — Django
-- [[Building React And Django Apps]] — Django
+- [Advanced Django Project- Build High-Traffic Websites with Django](Advanced%20Django%20Project-%20Build%20High-Traffic%20Websites%20with%20Django.md) — Django
+- [Building a Paid Membership Site with Django](Building%20a%20Paid%20Membership%20Site%20with%20Django.md) — Django
+- [Building RESTful Web APIs with Django](Building%20RESTful%20Web%20APIs%20with%20Django.md) — Django
+- [Building Angular and Django Apps](Building%20Angular%20and%20Django%20Apps.md) — Django
+- [Building React And Django Apps](Building%20React%20And%20Django%20Apps.md) — Django
 
 ---
 

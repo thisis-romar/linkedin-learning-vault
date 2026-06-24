@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Project Management Foundations- Integration]] — Beginner · 44m · 354,234 learners
+- [Project Management Foundations- Integration](../../Courses/Cybersecurity/Project%20Management%20Foundations-%20Integration.md) — Beginner · 44m · 354,234 learners

@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Node.js- Testing and Code Quality]]
-- [[Node.js- Debugging and Performance Tuning]]
+- [Node.js- Testing and Code Quality](../../Courses/Web%20Development/Node.js-%20Testing%20and%20Code%20Quality.md)
+- [Node.js- Debugging and Performance Tuning](../../Courses/Web%20Development/Node.js-%20Debugging%20and%20Performance%20Tuning.md)

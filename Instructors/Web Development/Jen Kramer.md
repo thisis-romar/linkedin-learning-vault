@@ -20,13 +20,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[CSS- Selectors]]
-- [[CSS- Inheritance, Specificity, and the Cascade]]
-- [[CSS- Display]]
-- [[CSS- Variables and Fluid Layouts]]
-- [[CSS- Print Style Sheets]]
-- [[Crafting Meaningful HTML]]
-- [[HTML and CSS- Linking]]
-- [[HTML- Tables]]
-- [[HTML- Metadata in the Head]]
-- [[HTML- Structured Semantic Data]]
+- [CSS- Selectors](../../Courses/Web%20Development/CSS-%20Selectors.md)
+- [CSS- Inheritance, Specificity, and the Cascade](../../Courses/Web%20Development/CSS-%20Inheritance%2C%20Specificity%2C%20and%20the%20Cascade.md)
+- [CSS- Display](../../Courses/Web%20Development/CSS-%20Display.md)
+- [CSS- Variables and Fluid Layouts](../../Courses/Web%20Development/CSS-%20Variables%20and%20Fluid%20Layouts.md)
+- [CSS- Print Style Sheets](../../Courses/Web%20Development/CSS-%20Print%20Style%20Sheets.md)
+- [Crafting Meaningful HTML](../../Courses/Web%20Development/Crafting%20Meaningful%20HTML.md)
+- [HTML and CSS- Linking](../../Courses/Web%20Development/HTML%20and%20CSS-%20Linking.md)
+- [HTML- Tables](../../Courses/Web%20Development/HTML-%20Tables.md)
+- [HTML- Metadata in the Head](../../Courses/Web%20Development/HTML-%20Metadata%20in%20the%20Head.md)
+- [HTML- Structured Semantic Data](../../Courses/Web%20Development/HTML-%20Structured%20Semantic%20Data.md)

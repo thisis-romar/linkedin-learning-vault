@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building Great Forms with HTML and CSS]] — Intermediate · 6h 59m · 10,984 learners
+- [Building Great Forms with HTML and CSS](../../Courses/Web%20Development/Building%20Great%20Forms%20with%20HTML%20and%20CSS.md) — Intermediate · 6h 59m · 10,984 learners
 
 ## Related Skills
 
-- [[Cascading Style Sheets (CSS)]] — 1 shared course
-- [[HTML]] — 1 shared course
+- [Cascading Style Sheets (CSS)](Cascading%20Style%20Sheets%20(CSS).md) — 1 shared course
+- [HTML](HTML.md) — 1 shared course

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced Pandas]]
+- [Advanced Pandas](../../Courses/Database%20Management/Advanced%20Pandas.md)

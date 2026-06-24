@@ -22,15 +22,15 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Network Forensics]] — Intermediate · 1h 59m · 3,536 learners
+- [Network Forensics](Network%20Forensics.md) — Intermediate · 1h 59m · 3,536 learners
 
 ## Related Skills
 
-- [[Network Security]] — 1 shared course
+- [Network Security](Network%20Security.md) — 1 shared course
 
 ## Mentioned In Transcripts _(60 total mentions)_
 
-1. [[Network Forensics]] — 45 mentions
-2. [[Cybersecurity Foundations- Computer Forensics]] — 12 mentions
-3. [[Protecting Your Network with Open-Source Software]] — 2 mentions
-4. [[Operating System Forensics]] — 1 mentions
+1. [Network Forensics](Network%20Forensics.md) — 45 mentions
+2. [Cybersecurity Foundations- Computer Forensics](../../Courses/Cybersecurity/Cybersecurity%20Foundations-%20Computer%20Forensics.md) — 12 mentions
+3. [Protecting Your Network with Open-Source Software](../../Courses/Cybersecurity/Protecting%20Your%20Network%20with%20Open-Source%20Software.md) — 2 mentions
+4. [Operating System Forensics](../../Courses/Cybersecurity/Operating%20System%20Forensics.md) — 1 mentions

@@ -19,31 +19,31 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Resume]]'
+  - course: '[Resume](../../../Courses/Software%20Development/Resume.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning Git and GitHub]]'
+  - course: '[Learning Git and GitHub](../../../Courses/Software%20Development/Learning%20Git%20and%20GitHub.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[GitHub Issues and Projects for Teams]]'
+  - course: '[GitHub Issues and Projects for Teams](../../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Issues%20and%20Projects%20for%20Teams.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Practical GitHub Copilot]]'
+  - course: '[Practical GitHub Copilot](../../../Courses/Software%20Development/Practical%20GitHub%20Copilot.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning GitHub Codespaces for Enterprise]]'
+  - course: '[Learning GitHub Codespaces for Enterprise](../../../Courses/Artificial%20Intelligence%20(AI)/Learning%20GitHub%20Codespaces%20for%20Enterprise.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[GitHub Foundations- Privacy, Security, and Administration]]'
+  - course: '[GitHub Foundations- Privacy, Security, and Administration](../../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Foundations-%20Privacy%2C%20Security%2C%20and%20Administration.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Benefits of GitHub Community]]'
+  - course: '[Benefits of GitHub Community](../../../Courses/Artificial%20Intelligence%20(AI)/Benefits%20of%20GitHub%20Community.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -58,32 +58,32 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Resume]]
-2. [[Learning Git and GitHub]] _(3h 50m)_
-3. [[GitHub Issues and Projects for Teams]] _(1h 10m)_
-4. [[Practical GitHub Copilot]] _(1h)_
-5. [[Learning GitHub Codespaces for Enterprise]] _(1h 28m)_
-6. [[GitHub Foundations- Privacy, Security, and Administration]] _(49m)_
-7. [[Benefits of GitHub Community]] _(14m)_
+1. [Resume](../../../Courses/Software%20Development/Resume.md)
+2. [Learning Git and GitHub](../../../Courses/Software%20Development/Learning%20Git%20and%20GitHub.md) _(3h 50m)_
+3. [GitHub Issues and Projects for Teams](../../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Issues%20and%20Projects%20for%20Teams.md) _(1h 10m)_
+4. [Practical GitHub Copilot](../../../Courses/Software%20Development/Practical%20GitHub%20Copilot.md) _(1h)_
+5. [Learning GitHub Codespaces for Enterprise](../../../Courses/Artificial%20Intelligence%20(AI)/Learning%20GitHub%20Codespaces%20for%20Enterprise.md) _(1h 28m)_
+6. [GitHub Foundations- Privacy, Security, and Administration](../../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Foundations-%20Privacy%2C%20Security%2C%20and%20Administration.md) _(49m)_
+7. [Benefits of GitHub Community](../../../Courses/Artificial%20Intelligence%20(AI)/Benefits%20of%20GitHub%20Community.md) _(14m)_
 
 ## Course Flow
 
-1. [[Resume]] → 2. [[Learning Git and GitHub]] → 3. [[GitHub Issues and Projects for Teams]] → 4. [[Practical GitHub Copilot]] → 5. [[Learning GitHub Codespaces for Enterprise]] → 6. [[GitHub Foundations- Privacy, Security, and Administration]] → 7. [[Benefits of GitHub Community]]
+1. [Resume](../../../Courses/Software%20Development/Resume.md) → 2. [Learning Git and GitHub](../../../Courses/Software%20Development/Learning%20Git%20and%20GitHub.md) → 3. [GitHub Issues and Projects for Teams](../../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Issues%20and%20Projects%20for%20Teams.md) → 4. [Practical GitHub Copilot](../../../Courses/Software%20Development/Practical%20GitHub%20Copilot.md) → 5. [Learning GitHub Codespaces for Enterprise](../../../Courses/Artificial%20Intelligence%20(AI)/Learning%20GitHub%20Codespaces%20for%20Enterprise.md) → 6. [GitHub Foundations- Privacy, Security, and Administration](../../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Foundations-%20Privacy%2C%20Security%2C%20and%20Administration.md) → 7. [Benefits of GitHub Community](../../../Courses/Artificial%20Intelligence%20(AI)/Benefits%20of%20GitHub%20Community.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Software Development]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Career Essentials in GitHub Professional Certificate]] (2 shared courses)
-- [[Succeed as a Remote Software Developer]] (1 shared courses)
-- [[Software Development Fundamentals]] (1 shared courses)
-- [[Getting Started with WordPress]] (1 shared courses)
+- [Career Essentials in GitHub Professional Certificate](../../Software%20Development/Professional%20Certificates/Career%20Essentials%20in%20GitHub%20Professional%20Certificate.md) (2 shared courses)
+- [Succeed as a Remote Software Developer](../../Cloud%20Computing/Learning%20Paths/Succeed%20as%20a%20Remote%20Software%20Developer.md) (1 shared courses)
+- [Software Development Fundamentals](../../Software%20Development/Learning%20Paths/Software%20Development%20Fundamentals.md) (1 shared courses)
+- [Getting Started with WordPress](../../Web%20Development/Learning%20Paths/Getting%20Started%20with%20WordPress.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

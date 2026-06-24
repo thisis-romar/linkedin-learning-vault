@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Get Ready for Your Coding Interview]]
+- [Get Ready for Your Coding Interview](../../Courses/Cloud%20Computing/Get%20Ready%20for%20Your%20Coding%20Interview.md)

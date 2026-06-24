@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leveraging Security Metrics in Your Organization]] — Intermediate · 46m · 20,599 learners
+- [Leveraging Security Metrics in Your Organization](../../Courses/Cybersecurity/Leveraging%20Security%20Metrics%20in%20Your%20Organization.md) — Intermediate · 46m · 20,599 learners
 
 ## Related Skills
 
-- [[Security Metrics]] — 1 shared course
-- [[Cybersecurity]] — 1 shared course
+- [Security Metrics](Security%20Metrics.md) — 1 shared course
+- [Cybersecurity](../../Topics/Cybersecurity.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
+1. [Data Planning Strategy And Compliance For Ai Initiatives](../../Courses/Cloud%20Computing/Data%20Planning%20Strategy%20And%20Compliance%20For%20Ai%20Initiatives.md) — 1 mentions

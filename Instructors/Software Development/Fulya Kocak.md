@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to ESG- Environmental, Social, and Governance]]
+- [Introduction to ESG- Environmental, Social, and Governance](../../Courses/Software%20Development/Introduction%20to%20ESG-%20Environmental%2C%20Social%2C%20and%20Governance.md)

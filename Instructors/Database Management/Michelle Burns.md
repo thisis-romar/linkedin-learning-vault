@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to Couchbase]]
+- [Introduction to Couchbase](../../Courses/Database%20Management/Introduction%20to%20Couchbase.md)

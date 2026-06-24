@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[An Introduction to AI and Sustainability]]
+- [An Introduction to AI and Sustainability](../../Courses/Software%20Development/An%20Introduction%20to%20AI%20and%20Sustainability.md)

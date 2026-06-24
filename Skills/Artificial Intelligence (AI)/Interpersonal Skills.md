@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Investing in Human Skills in the Age of AI]] — 24m · 86,365 learners
+- [Investing in Human Skills in the Age of AI](../../Courses/Artificial%20Intelligence%20(AI)/Investing%20in%20Human%20Skills%20in%20the%20Age%20of%20AI.md) — 24m · 86,365 learners
 
 ## Related Skills
 
-- [[Emotional Intelligence]] — 1 shared course
-- [[Critical Thinking]] — 1 shared course
+- [Emotional Intelligence](../Data%20Science/Emotional%20Intelligence.md) — 1 shared course
+- [Critical Thinking](../Data%20Science/Critical%20Thinking.md) — 1 shared course

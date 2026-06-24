@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Including Sustainability in Your Cloud Strategy (2022)]] — Beginner · 34m · 12,663 learners
+- [Including Sustainability in Your Cloud Strategy (2022)](../../Courses/Cloud%20Computing/Including%20Sustainability%20in%20Your%20Cloud%20Strategy%20(2022).md) — Beginner · 34m · 12,663 learners
 
 ## Related Skills
 
-- [[Sustainable Business Strategy]] — 1 shared course
-- [[Cloud Strategy]] — 1 shared course
+- [Sustainable Business Strategy](../Software%20Development/Sustainable%20Business%20Strategy.md) — 1 shared course
+- [Cloud Strategy](../Cloud%20Computing/Cloud%20Strategy.md) — 1 shared course

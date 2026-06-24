@@ -17,19 +17,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Introduction To Career Skills In Software Development]]'
+  - course: '[Introduction To Career Skills In Software Development](../../../Courses/Software%20Development/Introduction%20To%20Career%20Skills%20In%20Software%20Development.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Programming Foundations Fundamentals]]'
+  - course: '[Programming Foundations Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Programming Foundations- Beyond the Fundamentals]]'
+  - course: '[Programming Foundations- Beyond the Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Programming Foundations- Object-Oriented Design]]'
+  - course: '[Programming Foundations- Object-Oriented Design](../../../Courses/Software%20Development/Programming%20Foundations-%20Object-Oriented%20Design.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -44,29 +44,29 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Introduction To Career Skills In Software Development]]
-2. [[Programming Foundations Fundamentals]]
-3. [[Programming Foundations- Beyond the Fundamentals]] _(3h 6m)_
-4. [[Programming Foundations- Object-Oriented Design]] _(3h 41m)_
+1. [Introduction To Career Skills In Software Development](../../../Courses/Software%20Development/Introduction%20To%20Career%20Skills%20In%20Software%20Development.md)
+2. [Programming Foundations Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md)
+3. [Programming Foundations- Beyond the Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md) _(3h 6m)_
+4. [Programming Foundations- Object-Oriented Design](../../../Courses/Software%20Development/Programming%20Foundations-%20Object-Oriented%20Design.md) _(3h 41m)_
 
 ## Course Flow
 
-1. [[Introduction To Career Skills In Software Development]] → 2. [[Programming Foundations Fundamentals]] → 3. [[Programming Foundations- Beyond the Fundamentals]] → 4. [[Programming Foundations- Object-Oriented Design]]
+1. [Introduction To Career Skills In Software Development](../../../Courses/Software%20Development/Introduction%20To%20Career%20Skills%20In%20Software%20Development.md) → 2. [Programming Foundations Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md) → 3. [Programming Foundations- Beyond the Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md) → 4. [Programming Foundations- Object-Oriented Design](../../../Courses/Software%20Development/Programming%20Foundations-%20Object-Oriented%20Design.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Become a Programmer- Foundations]] (3 shared courses)
-- [[Explore a Career as a Web Developer]] (2 shared courses)
-- [[Explore a Career as a JavaScript Developer]] (2 shared courses)
-- [[A Quick Start Guide to Programming in Python]] (2 shared courses)
-- [[A Quick Start Guide to Java Programming]] (2 shared courses)
+- [Become a Programmer- Foundations](../Learning%20Paths/Become%20a%20Programmer-%20Foundations.md) (3 shared courses)
+- [Explore a Career as a Web Developer](../Learning%20Paths/Explore%20a%20Career%20as%20a%20Web%20Developer.md) (2 shared courses)
+- [Explore a Career as a JavaScript Developer](../Learning%20Paths/Explore%20a%20Career%20as%20a%20JavaScript%20Developer.md) (2 shared courses)
+- [A Quick Start Guide to Programming in Python](../Learning%20Paths/A%20Quick%20Start%20Guide%20to%20Programming%20in%20Python.md) (2 shared courses)
+- [A Quick Start Guide to Java Programming](../Learning%20Paths/A%20Quick%20Start%20Guide%20to%20Java%20Programming.md) (2 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

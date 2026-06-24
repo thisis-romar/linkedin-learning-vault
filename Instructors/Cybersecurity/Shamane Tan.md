@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[CISO Foundations- Influencing the Board and C-Suite]]
+- [CISO Foundations- Influencing the Board and C-Suite](../../Courses/Cybersecurity/CISO%20Foundations-%20Influencing%20the%20Board%20and%20C-Suite.md)

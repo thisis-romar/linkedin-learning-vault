@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure AI Services Essential Training]]
+- [Azure AI Services Essential Training](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Services%20Essential%20Training.md)

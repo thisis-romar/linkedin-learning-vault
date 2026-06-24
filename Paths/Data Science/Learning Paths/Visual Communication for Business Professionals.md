@@ -17,23 +17,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Visual Communication For Business The Marketer S Secret Weapon]]'
+  - course: '[Visual Communication For Business The Marketer S Secret Weapon](../../../Courses/Data%20Science/Visual%20Communication%20For%20Business%20The%20Marketer%20S%20Secret%20Weapon.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Data Visualization- Best Practices]]'
+  - course: '[Data Visualization- Best Practices](../../../Courses/Data%20Science/Data%20Visualization-%20Best%20Practices.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Introduction to Graphic Design- Concepts]]'
+  - course: '[Introduction to Graphic Design- Concepts](../../../Courses/Data%20Science/Introduction%20to%20Graphic%20Design-%20Concepts.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning Graphic Design- Layouts]]'
+  - course: '[Learning Graphic Design- Layouts](../../../Courses/Data%20Science/Learning%20Graphic%20Design-%20Layouts.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[The 33 Laws of Typography]]'
+  - course: '[The 33 Laws of Typography](../../../Courses/Data%20Science/The%2033%20Laws%20of%20Typography.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -48,28 +48,28 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Visual Communication For Business The Marketer S Secret Weapon]]
-2. [[Data Visualization- Best Practices]] _(1h 49m)_
-3. [[Introduction to Graphic Design- Concepts]] _(1h 3m)_
-4. [[Learning Graphic Design- Layouts]] _(1h 2m)_
-5. [[The 33 Laws of Typography]] _(2h 53m)_
+1. [Visual Communication For Business The Marketer S Secret Weapon](../../../Courses/Data%20Science/Visual%20Communication%20For%20Business%20The%20Marketer%20S%20Secret%20Weapon.md)
+2. [Data Visualization- Best Practices](../../../Courses/Data%20Science/Data%20Visualization-%20Best%20Practices.md) _(1h 49m)_
+3. [Introduction to Graphic Design- Concepts](../../../Courses/Data%20Science/Introduction%20to%20Graphic%20Design-%20Concepts.md) _(1h 3m)_
+4. [Learning Graphic Design- Layouts](../../../Courses/Data%20Science/Learning%20Graphic%20Design-%20Layouts.md) _(1h 2m)_
+5. [The 33 Laws of Typography](../../../Courses/Data%20Science/The%2033%20Laws%20of%20Typography.md) _(2h 53m)_
 
 ## Course Flow
 
-1. [[Visual Communication For Business The Marketer S Secret Weapon]] → 2. [[Data Visualization- Best Practices]] → 3. [[Introduction to Graphic Design- Concepts]] → 4. [[Learning Graphic Design- Layouts]] → 5. [[The 33 Laws of Typography]]
+1. [Visual Communication For Business The Marketer S Secret Weapon](../../../Courses/Data%20Science/Visual%20Communication%20For%20Business%20The%20Marketer%20S%20Secret%20Weapon.md) → 2. [Data Visualization- Best Practices](../../../Courses/Data%20Science/Data%20Visualization-%20Best%20Practices.md) → 3. [Introduction to Graphic Design- Concepts](../../../Courses/Data%20Science/Introduction%20to%20Graphic%20Design-%20Concepts.md) → 4. [Learning Graphic Design- Layouts](../../../Courses/Data%20Science/Learning%20Graphic%20Design-%20Layouts.md) → 5. [The 33 Laws of Typography](../../../Courses/Data%20Science/The%2033%20Laws%20of%20Typography.md)
 
 ## Topics
 
-- [[Data Science]]
+- [Data Science](../../../Topics/Data%20Science.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Master the Concepts of Data Visualization and Storytelling]] (1 shared courses)
-- [[Introduction to Fundamental Skills for Data Work- Data Visualization]] (1 shared courses)
-- [[Become a Marketing Coordinator]] (1 shared courses)
+- [Master the Concepts of Data Visualization and Storytelling](Master%20the%20Concepts%20of%20Data%20Visualization%20and%20Storytelling.md) (1 shared courses)
+- [Introduction to Fundamental Skills for Data Work- Data Visualization](Introduction%20to%20Fundamental%20Skills%20for%20Data%20Work-%20Data%20Visualization.md) (1 shared courses)
+- [Become a Marketing Coordinator](Become%20a%20Marketing%20Coordinator.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

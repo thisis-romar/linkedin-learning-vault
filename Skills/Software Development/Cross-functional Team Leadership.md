@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Digital Transformation for Leaders in the AI Era]] — Intermediate · 1h 13m · 18,314 learners
+- [Digital Transformation for Leaders in the AI Era](../../Courses/Cloud%20Computing/Digital%20Transformation%20for%20Leaders%20in%20the%20AI%20Era.md) — Intermediate · 1h 13m · 18,314 learners
 
 ## Related Skills
 
-- [[Team Leadership]] — 1 shared course
-- [[Digital Transformation]] — 1 shared course
+- [Team Leadership](Team%20Leadership.md) — 1 shared course
+- [Digital Transformation](Digital%20Transformation.md) — 1 shared course

@@ -22,17 +22,17 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Careers- Become a Security Engineer]] — Beginner · 39m · 55,485 learners
+- [Cybersecurity Careers- Become a Security Engineer](../../Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Security%20Engineer.md) — Beginner · 39m · 55,485 learners
 
 ## Related Skills
 
-- [[Cybersecurity Careers]] — 1 shared course
-- [[Cybersecurity]] — 1 shared course
+- [Cybersecurity Careers](../Cybersecurity/Cybersecurity%20Careers.md) — 1 shared course
+- [Cybersecurity](../../Topics/Cybersecurity.md) — 1 shared course
 
 ## Mentioned In Transcripts _(11 total mentions)_
 
-1. [[Cybersecurity Careers- Become a Security Engineer]] — 7 mentions
-2. [[Cybersecurity Careers and Certifications]] — 1 mentions
-3. [[Tech Career Skills- Getting Promoted]] — 1 mentions
-4. [[DevSecOps- Automated Security Testing]] — 1 mentions
-5. [[DevSecOps- Tips for Success]] — 1 mentions
+1. [Cybersecurity Careers- Become a Security Engineer](../../Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Security%20Engineer.md) — 7 mentions
+2. [Cybersecurity Careers and Certifications](../../Courses/Cybersecurity/Cybersecurity%20Careers%20and%20Certifications.md) — 1 mentions
+3. [Tech Career Skills- Getting Promoted](../../Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Getting%20Promoted.md) — 1 mentions
+4. [DevSecOps- Automated Security Testing](../../Courses/Cybersecurity/DevSecOps-%20Automated%20Security%20Testing.md) — 1 mentions
+5. [DevSecOps- Tips for Success](../../Courses/Cybersecurity/DevSecOps-%20Tips%20for%20Success.md) — 1 mentions

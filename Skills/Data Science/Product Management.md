@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Product Management- Building a Product Roadmap]] — Intermediate · 47m · 363,986 learners
+- [Product Management- Building a Product Roadmap](../../Courses/Data%20Science/Product%20Management-%20Building%20a%20Product%20Roadmap.md) — Intermediate · 47m · 363,986 learners
 
 ## Related Skills
 
-- [[Product Road Mapping]] — 1 shared course
+- [Product Road Mapping](Product%20Road%20Mapping.md) — 1 shared course

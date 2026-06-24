@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Working with Upset Customers]] — 47m · 75,280 learners
+- [Working with Upset Customers](../../Courses/IT%20Help%20Desk/Working%20with%20Upset%20Customers.md) — 47m · 75,280 learners
 
 ## Related Skills
 
-- [[Customer Service]] — 1 shared course
+- [Customer Service](Customer%20Service.md) — 1 shared course

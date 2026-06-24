@@ -16,11 +16,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQHzyFqfSdlQhQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704746115603?e=2147483647&amp;v=beta&amp;t=xz95swpSRdsr8y-hS1TKPIL_Yr2dYWhTSqA6QgIzv9s"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Build Your Wolfram Language Skills]]'
+  - '[Build Your Wolfram Language Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Wolfram%20Language%20Skills.md)'
 prev_courses:
-  - '[[Statistical Analysis with Wolfram Language]]'
+  - '[Statistical Analysis with Wolfram Language](Statistical%20Analysis%20with%20Wolfram%20Language.md)'
 next_courses:
-  - '[[Wavelet Analysis- Concepts with Wolfram Language]]'
+  - '[Wavelet Analysis- Concepts with Wolfram Language](Wavelet%20Analysis-%20Concepts%20with%20Wolfram%20Language.md)'
 path_nav: '[{"path":"Build Your Wolfram Language Skills","position":2,"total":8,"prev":"Statistical Analysis with Wolfram Language","next":"Wavelet Analysis- Concepts with Wolfram Language"}]'
 path_count: 1
 tags:
@@ -59,7 +59,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Wolfram Research]]
+- [Wolfram Research](../../Instructors/Data%20Science/Wolfram%20Research.md)
 
 ## Skills Covered
 
@@ -68,22 +68,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Build Your Wolfram Language Skills]]
-← [[Statistical Analysis with Wolfram Language]] | **2 of 8** | [[Wavelet Analysis- Concepts with Wolfram Language]] →
+### In [Build Your Wolfram Language Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Wolfram%20Language%20Skills.md)
+← [Statistical Analysis with Wolfram Language](Statistical%20Analysis%20with%20Wolfram%20Language.md) | **2 of 8** | [Wavelet Analysis- Concepts with Wolfram Language](Wavelet%20Analysis-%20Concepts%20with%20Wolfram%20Language.md) →
 
 ## Appears In
 
-- [[Build Your Wolfram Language Skills]]
+- [Build Your Wolfram Language Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Wolfram%20Language%20Skills.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Wavelet Analysis- Applications with Wolfram Language]] — Data Analysis, Wolfram Language
-- [[Wavelet Analysis- Concepts with Wolfram Language]] — Data Analysis, Wolfram Language
-- [[Intermediate SQL- Data Reporting and Analysis]] — Data Analysis
-- [[Data Analysis- Investigate with SQL]] — Data Analysis
-- [[Advanced SQL for Data Scientists]] — Data Analysis
+- [Wavelet Analysis- Applications with Wolfram Language](Wavelet%20Analysis-%20Applications%20with%20Wolfram%20Language.md) — Data Analysis, Wolfram Language
+- [Wavelet Analysis- Concepts with Wolfram Language](Wavelet%20Analysis-%20Concepts%20with%20Wolfram%20Language.md) — Data Analysis, Wolfram Language
+- [Intermediate SQL- Data Reporting and Analysis](Intermediate%20SQL-%20Data%20Reporting%20and%20Analysis.md) — Data Analysis
+- [Data Analysis- Investigate with SQL](Data%20Analysis-%20Investigate%20with%20SQL.md) — Data Analysis
+- [Advanced SQL for Data Scientists](Advanced%20SQL%20for%20Data%20Scientists.md) — Data Analysis
 
 ---
 

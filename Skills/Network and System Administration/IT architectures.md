@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to IT Architecture]] — Beginner · 1h 54m · 61,502 learners
+- [Introduction to IT Architecture](../../Courses/DevOps/Introduction%20to%20IT%20Architecture.md) — Beginner · 1h 54m · 61,502 learners
 
 ## Mentioned In Transcripts _(7 total mentions)_
 
-1. [[Introduction to IT Architecture]] — 7 mentions
+1. [Introduction to IT Architecture](../../Courses/DevOps/Introduction%20to%20IT%20Architecture.md) — 7 mentions

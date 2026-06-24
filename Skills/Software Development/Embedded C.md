@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[C Programming for Embedded Applications]] — Advanced · 2h 5m · 42,091 learners
+- [C Programming for Embedded Applications](../../Courses/Software%20Development/C%20Programming%20for%20Embedded%20Applications.md) — Advanced · 2h 5m · 42,091 learners
 
 ## Related Skills
 
-- [[C (Programming Language)]] — 1 shared course
+- [C (Programming Language)](C%20(Programming%20Language).md) — 1 shared course
 
 ## Mentioned In Transcripts _(5 total mentions)_
 
-1. [[C Programming for Embedded Applications]] — 5 mentions
+1. [C Programming for Embedded Applications](../../Courses/Software%20Development/C%20Programming%20for%20Embedded%20Applications.md) — 5 mentions

@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Winter CMS with Laravel]]
+- [Winter CMS with Laravel](../../Courses/Web%20Development/Winter%20CMS%20with%20Laravel.md)

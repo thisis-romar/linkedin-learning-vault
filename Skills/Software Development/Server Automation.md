@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Automating SQL Server with dbatools]] — Intermediate · 1h · 20,374 learners
+- [Automating SQL Server with dbatools](../../Courses/Database%20Management/Automating%20SQL%20Server%20with%20dbatools.md) — Intermediate · 1h · 20,374 learners
 
 ## Related Skills
 
-- [[Microsoft SQL Server]] — 1 shared course
+- [Microsoft SQL Server](Microsoft%20SQL%20Server.md) — 1 shared course

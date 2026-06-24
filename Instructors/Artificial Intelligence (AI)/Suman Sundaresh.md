@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[LinkedIn AI Academy AI-100- 3 Scaling AI at LinkedIn]]
+- [LinkedIn AI Academy AI-100- 3 Scaling AI at LinkedIn](../../Courses/Artificial%20Intelligence%20(AI)/LinkedIn%20AI%20Academy%20AI-100-%203%20Scaling%20AI%20at%20LinkedIn.md)

@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Programming Foundations- Algorithms]] — Beginner · 2h 45m · 128,658 learners
+- [Programming Foundations- Algorithms](../../Courses/Software%20Development/Programming%20Foundations-%20Algorithms.md) — Beginner · 2h 45m · 128,658 learners
 
 ## Related Skills
 
-- [[Programming Foundations]] — 1 shared course
-- [[Data Structures]] — 1 shared course
+- [Programming Foundations](Programming%20Foundations.md) — 1 shared course
+- [Data Structures](Data%20Structures.md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
-2. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+1. [Data Planning Strategy And Compliance For Ai Initiatives](../../Courses/Cloud%20Computing/Data%20Planning%20Strategy%20And%20Compliance%20For%20Ai%20Initiatives.md) — 1 mentions
+2. [Data-Centric AI- Best Practices, Responsible AI, and More](../../Courses/Artificial%20Intelligence%20(AI)/Data-Centric%20AI-%20Best%20Practices%2C%20Responsible%20AI%2C%20and%20More.md) — 1 mentions

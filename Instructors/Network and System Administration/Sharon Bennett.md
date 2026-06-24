@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)]]
-- [[Microsoft 365 for Administrators- Supporting Users]]
+- [Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)](../../Courses/Cloud%20Computing/Office%20365%20for%20Administrators-%20Troubleshooting%20Issues%20for%20Users%20(Office%20365-Microsoft%20365).md)
+- [Microsoft 365 for Administrators- Supporting Users](../../Courses/DevOps/Microsoft%20365%20for%20Administrators-%20Supporting%20Users.md)

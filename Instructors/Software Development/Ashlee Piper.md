@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Tips to Make Your Office Eco-Friendly]]
+- [Tips to Make Your Office Eco-Friendly](../../Courses/Software%20Development/Tips%20to%20Make%20Your%20Office%20Eco-Friendly.md)

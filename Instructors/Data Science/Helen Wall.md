@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Power BI Data Methods]]
-- [[Advanced Power BI- DAX Language, Formulas, and Calculations]]
-- [[Power BI Data Dashboards]]
-- [[Power BI- Integrating AI]]
-- [[Power BI Dataflows Essential Training]]
-- [[Machine Learning with Logistic Regression in Excel, R, and Power BI]]
-- [[Python in Excel- Data Outputs in Custom Data Visualizations and Algorithms]]
+- [Power BI Data Methods](../../Courses/Data%20Science/Power%20BI%20Data%20Methods.md)
+- [Advanced Power BI- DAX Language, Formulas, and Calculations](../../Courses/Data%20Science/Advanced%20Power%20BI-%20DAX%20Language%2C%20Formulas%2C%20and%20Calculations.md)
+- [Power BI Data Dashboards](../../Courses/Data%20Science/Power%20BI%20Data%20Dashboards.md)
+- [Power BI- Integrating AI](../../Courses/Data%20Science/Power%20BI-%20Integrating%20AI.md)
+- [Power BI Dataflows Essential Training](../../Courses/Data%20Science/Power%20BI%20Dataflows%20Essential%20Training.md)
+- [Machine Learning with Logistic Regression in Excel, R, and Power BI](../../Courses/Data%20Science/Machine%20Learning%20with%20Logistic%20Regression%20in%20Excel%2C%20R%2C%20and%20Power%20BI.md)
+- [Python in Excel- Data Outputs in Custom Data Visualizations and Algorithms](../../Courses/Data%20Science/Python%20in%20Excel-%20Data%20Outputs%20in%20Custom%20Data%20Visualizations%20and%20Algorithms.md)

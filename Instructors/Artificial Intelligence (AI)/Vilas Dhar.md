@@ -34,6 +34,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Ethics in the Age of Generative AI]]
-- [[Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy]]
-- [[Foundations Of Responsible Ai]]
+- [Ethics in the Age of Generative AI](../../Courses/Artificial%20Intelligence%20(AI)/Ethics%20in%20the%20Age%20of%20Generative%20AI.md)
+- [Navigating AI Regulations- A Business Guide to Risk, Responsibility, and Strategy](../../Courses/Artificial%20Intelligence%20(AI)/Navigating%20AI%20Regulations-%20A%20Business%20Guide%20to%20Risk%2C%20Responsibility%2C%20and%20Strategy.md)
+- [Foundations Of Responsible Ai](../../Courses/Artificial%20Intelligence%20(AI)/Foundations%20Of%20Responsible%20Ai.md)

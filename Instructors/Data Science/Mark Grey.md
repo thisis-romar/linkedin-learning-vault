@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[IT Service Management Foundations- Capacity and Availability Management]]
+- [IT Service Management Foundations- Capacity and Availability Management](../../Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Capacity%20and%20Availability%20Management.md)

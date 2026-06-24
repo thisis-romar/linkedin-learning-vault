@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Data Collection, Modeling, and Quality Management for AI Systems]] — Intermediate · 51m · 2,273 learners
+- [Strategic Data Collection, Modeling, and Quality Management for AI Systems](../../Courses/Data%20Science/Strategic%20Data%20Collection%2C%20Modeling%2C%20and%20Quality%20Management%20for%20AI%20Systems.md) — Intermediate · 51m · 2,273 learners
 
 ## Related Skills
 
-- [[Data Cleaning]] — 1 shared course
-- [[Data Quality]] — 1 shared course
-- [[Data Collection]] — 1 shared course
+- [Data Cleaning](Data%20Cleaning.md) — 1 shared course
+- [Data Quality](Data%20Quality.md) — 1 shared course
+- [Data Collection](Data%20Collection.md) — 1 shared course

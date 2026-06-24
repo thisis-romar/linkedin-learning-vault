@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building a Headless WordPress Site with Gatsby]] — Intermediate · 2h 31m · 5,709 learners
+- [Building a Headless WordPress Site with Gatsby](../../Courses/Cybersecurity/Building%20a%20Headless%20WordPress%20Site%20with%20Gatsby.md) — Intermediate · 2h 31m · 5,709 learners
 
 ## Related Skills
 
-- [[Wordpress Development]] — 1 shared course
+- [Wordpress Development](Wordpress%20Development.md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Building a Headless WordPress Site with Gatsby]] — 2 mentions
+1. [Building a Headless WordPress Site with Gatsby](../../Courses/Cybersecurity/Building%20a%20Headless%20WordPress%20Site%20with%20Gatsby.md) — 2 mentions

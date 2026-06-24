@@ -16,9 +16,9 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQFXMQADjwKTDw/learning-public-crop_675_1200/B4DZYXU5s6G8Ac-/0/1744148077622?e=2147483647&amp;v=beta&amp;t=ThlFvR0tkfeXhbbw9f6YK6tB9hM59Rtne8wiLXiLuW8"
 linkedin_topic: Artificial Intelligence (AI)
 learning_paths:
-  - '[[Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning]]'
+  - '[Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Building%20AI%20Products-%20Prototyping%20Essentials%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)'
 next_courses:
-  - '[[AI Product Ideation- Principles and Practical Applications]]'
+  - '[AI Product Ideation- Principles and Practical Applications](AI%20Product%20Ideation-%20Principles%20and%20Practical%20Applications.md)'
 path_nav: '[{"path":"Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning","position":1,"total":6,"prev":null,"next":"AI Product Ideation- Principles and Practical Applications"}]'
 path_count: 1
 tags:
@@ -66,26 +66,26 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning]]
-**1 of 6** | [[AI Product Ideation- Principles and Practical Applications]] →
+### In [Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Building%20AI%20Products-%20Prototyping%20Essentials%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
+**1 of 6** | [AI Product Ideation- Principles and Practical Applications](AI%20Product%20Ideation-%20Principles%20and%20Practical%20Applications.md) →
 
 ## Part of
 
-- [[Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning]]
+- [Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Building%20AI%20Products-%20Prototyping%20Essentials%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
 
 ## Appears In
 
-- [[Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning]]
+- [Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning](../../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Building%20AI%20Products-%20Prototyping%20Essentials%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[AI Product Development- Technical Feasibility and Prototyping]] — Artificial Intelligence (AI), AI Software Development, Prototyping
-- [[Exploring the Future of Development with GitHub Copilot Workspace]] — Artificial Intelligence (AI), AI Software Development
-- [[AI Orchestration- Foundations]] — Artificial Intelligence (AI), AI Software Development
-- [[AI Foundations- Ideating and Prototyping]] — Artificial Intelligence (AI), Prototyping
-- [[Welcome To The Building Ai Products Understanding The Workflow Professional Certificate]] — Artificial Intelligence (AI), AI Software Development
+- [AI Product Development- Technical Feasibility and Prototyping](AI%20Product%20Development-%20Technical%20Feasibility%20and%20Prototyping.md) — Artificial Intelligence (AI), AI Software Development, Prototyping
+- [Exploring the Future of Development with GitHub Copilot Workspace](Exploring%20the%20Future%20of%20Development%20with%20GitHub%20Copilot%20Workspace.md) — Artificial Intelligence (AI), AI Software Development
+- [AI Orchestration- Foundations](AI%20Orchestration-%20Foundations.md) — Artificial Intelligence (AI), AI Software Development
+- [AI Foundations- Ideating and Prototyping](AI%20Foundations-%20Ideating%20and%20Prototyping.md) — Artificial Intelligence (AI), Prototyping
+- [Welcome To The Building Ai Products Understanding The Workflow Professional Certificate](Welcome%20To%20The%20Building%20Ai%20Products%20Understanding%20The%20Workflow%20Professional%20Certificate.md) — Artificial Intelligence (AI), AI Software Development
 
 ---
 

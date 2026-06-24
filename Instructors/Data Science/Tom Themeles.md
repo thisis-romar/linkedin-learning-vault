@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Analytics- Dashboards vs. Data Stories]]
+- [Data Analytics- Dashboards vs. Data Stories](../../Courses/Data%20Science/Data%20Analytics-%20Dashboards%20vs.%20Data%20Stories.md)

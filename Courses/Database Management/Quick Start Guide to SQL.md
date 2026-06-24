@@ -16,11 +16,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFZHulkzmFrnA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725659883685?e=2147483647&amp;v=beta&amp;t=Zv-n-OcfMOZpNfyII_x1d-EXdvI4lsPEwYXG-QrDDHY"
 linkedin_topic: Database Management
 learning_paths:
-  - '[[Explore a Career in Database Development]]'
+  - '[Explore a Career in Database Development](../../Paths/Database%20Management/Learning%20Paths/Explore%20a%20Career%20in%20Database%20Development.md)'
 prev_courses:
-  - '[[Programming Foundations Databases]]'
+  - '[Programming Foundations Databases](../Software%20Development/Programming%20Foundations%20Databases.md)'
 next_courses:
-  - '[[Learning SQL Programming]]'
+  - '[Learning SQL Programming](../Software%20Development/Learning%20SQL%20Programming.md)'
 path_nav: '[{"path":"Explore a Career in Database Development","position":2,"total":5,"prev":"Programming Foundations Databases","next":"Learning SQL Programming"}]'
 path_count: 1
 tags:
@@ -84,11 +84,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980&t=0)** - [Instructor] Did you ever wonder how to work with [[Databases]] or how to retrieve data from various tables using [[SQL]]? If so, I'm here to help you. Hi, my name is Deepa Maddala and I'm a database developer with years of expertise, working with tables and databases. In this course, we will take a deep dive into the fundamentals of SQL so that you can seamlessly work on large databases from day one. We will learn how to easily work with multiple tables at a time and understand how easy it can be to [[Fetch]] data using SQL. This is your quick start guide to SQL. So let's jump in.
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980&t=0)** - [Instructor] Did you ever wonder how to work with [Databases](../../Skills/Software%20Development/Databases.md) or how to retrieve data from various tables using [SQL](../../Skills/Data%20Science/SQL.md)? If so, I'm here to help you. Hi, my name is Deepa Maddala and I'm a database developer with years of expertise, working with tables and databases. In this course, we will take a deep dive into the fundamentals of SQL so that you can seamlessly work on large databases from day one. We will learn how to easily work with multiple tables at a time and understand how easy it can be to [Fetch](../../Skills/Web%20Development/Fetch.md) data using SQL. This is your quick start guide to SQL. So let's jump in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (3), [[Fetch]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (4), [Databases](../../Skills/Software%20Development/Databases.md) (3), [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **Env Vars:** sql (4)
 > **Speakers:** - [instructor] (1)
 
@@ -96,13 +96,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] In this course we'll be using livesql.[oracle.com](https://oracle.com) for coding. Here we can run scripts or also write our own [[SQL]] statements and run them to view the output. The best part is that it is absolutely free. In the beginning of the course, we need to make sure to follow two important steps. First step is to sign up with an email address in livesql.[oracle.com](https://oracle.com). Once you do that, then we log in using our credentials. I'm logging in first. Now that we have logged in, the second step is to run the initial script file. This will help us to get started working on data from day one. For that, first go to the menu on the top left corner. You can actually see the menu now. But if you cannot, just click on this and it'll show you the menu. Now click on my scripts. There is an option to upload scripts. Here, select the file from exercise folder 00_02 and then choose. Now give it a name as initial code. If you want, you can give it a detailed description or you could just give initial code again and then upload the script. Now it shows script uploaded. Once it has been uploaded, run the script file. Just click run script.
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] In this course we'll be using livesql.[oracle.com](https://oracle.com) for coding. Here we can run scripts or also write our own [SQL](../../Skills/Data%20Science/SQL.md) statements and run them to view the output. The best part is that it is absolutely free. In the beginning of the course, we need to make sure to follow two important steps. First step is to sign up with an email address in livesql.[oracle.com](https://oracle.com). Once you do that, then we log in using our credentials. I'm logging in first. Now that we have logged in, the second step is to run the initial script file. This will help us to get started working on data from day one. For that, first go to the menu on the top left corner. You can actually see the menu now. But if you cannot, just click on this and it'll show you the menu. Now click on my scripts. There is an option to upload scripts. Here, select the file from exercise folder 00_02 and then choose. Now give it a name as initial code. If you want, you can give it a detailed description or you could just give initial code again and then upload the script. Now it shows script uploaded. Once it has been uploaded, run the script file. Just click run script.
 >
 > **[1:34](https://www.linkedin.com/learning/quick-start-guide-to-sql/how-to-use-the-exercise-files?u=76281980&t=94)** This might take a while. Once you get the message saying success, you can just close this and it's as simple as that. Now, as the course progresses, we writing more code to understand the various concepts. I will be providing the exercise files in the exercise folder, which will look like this. These are the exercise files. Now you can make use of these files either to directly run them as scripts like I have shown you earlier or just follow along with me and write the code with me and use these exercise files for future reference.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (2)
@@ -120,15 +120,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=0)** - [Instructor] Let's learn how to write a basic select statement and how it is used in various scenarios. First of all, why do we need a select statement? What does it do? In a database, there are multiple tables containing huge sets of data. So the main functionality of a select statement is to [[Fetch]] the data based on our criteria. These are the three scenarios in which we use a select statement. The first scenario is when we need to fetch data from any number of columns in a table, it could be from just one column or multiple columns or all columns in the table. The second scenario when we use a select statement is to fetch data from one or multiple tables. If it's from one table, it's a simple select statement. But if we are fetching data from multiple tables then we make use of joints which we will learn in the later sections of this course. The third scenario when we use a select statement is to filter out the of row that are fetched from the table based on our search criteria. Now, here is the syntax for the select statement. We give select followed by * if you want to fetch all the columns from the table, or we give specific column names, or we give some expressions if you want to perform some kind of mathematical operations or if we want it to be displayed in a certain format, followed by FROM keyword, and then the table names. We will learn about distinct and alias column names
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=0)** - [Instructor] Let's learn how to write a basic select statement and how it is used in various scenarios. First of all, why do we need a select statement? What does it do? In a database, there are multiple tables containing huge sets of data. So the main functionality of a select statement is to [Fetch](../../Skills/Web%20Development/Fetch.md) the data based on our criteria. These are the three scenarios in which we use a select statement. The first scenario is when we need to fetch data from any number of columns in a table, it could be from just one column or multiple columns or all columns in the table. The second scenario when we use a select statement is to fetch data from one or multiple tables. If it's from one table, it's a simple select statement. But if we are fetching data from multiple tables then we make use of joints which we will learn in the later sections of this course. The third scenario when we use a select statement is to filter out the of row that are fetched from the table based on our search criteria. Now, here is the syntax for the select statement. We give select followed by * if you want to fetch all the columns from the table, or we give specific column names, or we give some expressions if you want to perform some kind of mathematical operations or if we want it to be displayed in a certain format, followed by FROM keyword, and then the table names. We will learn about distinct and alias column names
 >
-> **[1:37](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=97)** in the later sections. Select identifies the columns that are retrieved from the table, and FROM keyword identifies the tables from where this data is being fetched. To understand this better, we will look at a few examples in Live [[SQL]]. Here, I will give SELECT * FROM emp_tab to retrieve all the column and all the rows from emp_tab table. So now to run this statement, I can click on this run button and if I'm using a Mac system, I will give Command + Enter, if I'm using a [[Windows]] system, I'll give Control + Enter. So I run this and it fetches all the rows and columns from emp_tab table. If I want to fetch only two columns in specific, maybe emp number and name, I'll give SELECT empno,name FROM emp_tab;
+> **[1:37](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=97)** in the later sections. Select identifies the columns that are retrieved from the table, and FROM keyword identifies the tables from where this data is being fetched. To understand this better, we will look at a few examples in Live [SQL](../../Skills/Data%20Science/SQL.md). Here, I will give SELECT * FROM emp_tab to retrieve all the column and all the rows from emp_tab table. So now to run this statement, I can click on this run button and if I'm using a Mac system, I will give Command + Enter, if I'm using a [Windows](../../Glossary/Service/Windows.md) system, I'll give Control + Enter. So I run this and it fetches all the rows and columns from emp_tab table. If I want to fetch only two columns in specific, maybe emp number and name, I'll give SELECT empno,name FROM emp_tab;
 >
-> **[2:47](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=167)** and I run this. It fetches only those two columns. The best part about SQL is that there are very few rules to follow and we are good to go. SQL statements are not case sensitive, we can write them either in uppercase, lowercase, or even camel case, and it doesn't throw any errors. However, the standard that is followed across all the organizations is to use uppercase for keywords and lowercase for the [[Representational State Transfer (REST)|rest]] of the code. Keywords cannot be abbreviated or split across lines. We can write the entire select statement in just one line, but the SQL statement which has proper indentation helps with readability especially when we are writing very long select statements. This is about a base six statement.
+> **[2:47](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980&t=167)** and I run this. It fetches only those two columns. The best part about SQL is that there are very few rules to follow and we are good to go. SQL statements are not case sensitive, we can write them either in uppercase, lowercase, or even camel case, and it doesn't throw any errors. However, the standard that is followed across all the organizations is to use uppercase for keywords and lowercase for the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the code. Keywords cannot be abbreviated or split across lines. We can write the entire select statement in just one line, but the SQL statement which has proper indentation helps with readability especially when we are writing very long select statements. This is about a base six statement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (5), [[SQL]] (4), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Fetch](../../Skills/Web%20Development/Fetch.md) (5), [SQL](../../Skills/Data%20Science/SQL.md) (4), [Windows](../../Glossary/Service/Windows.md) (1), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Env Vars:** sql (4), select (2)
 > **Code Identifiers:** emp_tab (4)
 > **SQL:** select (2)
@@ -188,7 +188,7 @@ created: 2026-05-03
 >
 > **[3:09](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980&t=189)** Similarly, the other comparisons like greater than, greater than equal to, less than, less than equal to, and not equals to work. There are other comparisons like BETWEEN, AND, which checks if the column value is between a range of values including those two values as well. This is an example. If I give SELECT * FROM emp_tab WHERE salary BETWEEN 2000 AND 5000
 >
-> **[3:49](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980&t=229)** and I run this, here it pulled up all the employees whose salaries are between 2000 and 5000, including these two values as well. So that's why we have this row fetched too. Now the next one is IN. By using IN, we can check if the column value matches with any value in a set. This is an example for that. I can give SELECT * FROM emp_tab WHERE dept number IN 30 and 70. And I run this. It retrieves all the employees who belong to these two departments, 30 and 70. LIKE checks for a specific character pattern. This is how it works. I'll just copy this and make the changes here. WHERE name LIKE, in single quotes I give an underscore, capital I, percentage symbol, and single quotes closed and this is done. So here we are trying to [[Fetch]] only those rows where the employee name begins with some letter and then the second letter is an uppercase I, followed by other letters. If this pattern matches for any employee names,
+> **[3:49](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980&t=229)** and I run this, here it pulled up all the employees whose salaries are between 2000 and 5000, including these two values as well. So that's why we have this row fetched too. Now the next one is IN. By using IN, we can check if the column value matches with any value in a set. This is an example for that. I can give SELECT * FROM emp_tab WHERE dept number IN 30 and 70. And I run this. It retrieves all the employees who belong to these two departments, 30 and 70. LIKE checks for a specific character pattern. This is how it works. I'll just copy this and make the changes here. WHERE name LIKE, in single quotes I give an underscore, capital I, percentage symbol, and single quotes closed and this is done. So here we are trying to [Fetch](../../Skills/Web%20Development/Fetch.md) only those rows where the employee name begins with some letter and then the second letter is an uppercase I, followed by other letters. If this pattern matches for any employee names,
 >
 > **[5:23](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980&t=323)** then only those rows will be displayed. Let's run this. As we can see, since only these two employee names match this pattern, only those two rows are fetched. The beginning letter, it could be any letter. The second one is capital I, which is this and this, followed by any number of letters. So only these two rows satisfy that condition. IS NULL is used to check for any null values in the column. We can either use IS NULL or IS NOT NULL. Let's look at an example for this. If I give SELECT emp number, dept number FROM emp_tab WHERE dept number IS NULL, and I run this. So here what have I done? Here I'm trying to pull all the employees whose departments are set to null so that I can allocate the appropriate department. But looks like there is no employee whose department number is set to null. So that's the reason why it shows no data found. Let's look at our original table by fetching all the rows and just to confirm that there are no departments set to null. Emp_tab, run this.
 >
@@ -196,7 +196,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (1)
+> **Frameworks & Libraries:** [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **Env Vars:** where (10), select (4), null (4), between (2), mon (1)
 > **SQL:** where (10), select (4)
 > **Code Identifiers:** emp_tab (4)
@@ -208,7 +208,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=0)** - [Instructor] Now let's learn about the logical conditions that can be applied in WHERE. There are three logical conditions: AND, OR, NOT. There are used when we give multiple conditions in WHERE. If we are taking two or more conditions and they are separated by AND, it returns true only if both conditions are true or otherwise it returns a false. This is the table for AND. As we see, true and true returns a true. If one or more conditions are false, then it returns a false, like in this example, it's a false and the other one is a true. Then it returns false. Or if both of them are false, then the output would be a false and it does return any row. Now if it's a true and the other one is a null, then it returns null. But if it's a false, and a null, then it returns a false. Now, let's take an example to understand this better. Let's head to Live [[SQL]]. Here let's take a look at a table. SELECT * FROM emp_tab and I run this. This is our table. Now if I want to retrieve all those rows where name begins with S, and the department number is 30, then it has to [[Fetch]] only one row for me.
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=0)** - [Instructor] Now let's learn about the logical conditions that can be applied in WHERE. There are three logical conditions: AND, OR, NOT. There are used when we give multiple conditions in WHERE. If we are taking two or more conditions and they are separated by AND, it returns true only if both conditions are true or otherwise it returns a false. This is the table for AND. As we see, true and true returns a true. If one or more conditions are false, then it returns a false, like in this example, it's a false and the other one is a true. Then it returns false. Or if both of them are false, then the output would be a false and it does return any row. Now if it's a true and the other one is a null, then it returns null. But if it's a false, and a null, then it returns a false. Now, let's take an example to understand this better. Let's head to Live [SQL](../../Skills/Data%20Science/SQL.md). Here let's take a look at a table. SELECT * FROM emp_tab and I run this. This is our table. Now if I want to retrieve all those rows where name begins with S, and the department number is 30, then it has to [Fetch](../../Skills/Web%20Development/Fetch.md) only one row for me.
 >
 > **[1:36](https://www.linkedin.com/learning/quick-start-guide-to-sql/logical-conditions?u=76281980&t=96)** It has to fetch this row where the name begins with S and department number is equal to 30. So I write this SELECT statement like this. I give SELECT * FROM emp_tab WHERE name LIKE, it begins with S and a percentile, and dept number is equal to 30. Now when I run this, it displays only one row here. Now it displays only one row because both the conditions needs to satisfy. Only then it retrieves those rows. Now if we are using OR in between two or more conditions, then it returns true even if one of the conditions is true. And it returns false only when both conditions are false. This is the table for OR. As we see, when there is at least one true, irrespective of the other condition, whether it is false or null, it just returns true. If there is a null in one of the conditions, and a false in the other, then it returns null. And if it's a null and null, then it again returns null. Now let's take an example for this. If I give SELECT * FROM emp_tab WHERE salary is greater than 6,000
 >
@@ -220,7 +220,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (4), [[SQL]] (1)
+> **Frameworks & Libraries:** [Fetch](../../Skills/Web%20Development/Fetch.md) (4), [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Env Vars:** where (5), select (5), sql (1)
 > **SQL:** where (5), select (5)
 > **Code Identifiers:** emp_tab (4)
@@ -231,7 +231,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/order-of-precedence?u=76281980&t=0)** - [Instructor] Let's understand the order of precedence of all the conditions which we are using in, where. First, it's arithmetic operators, like multiplication, division, addition, and subtraction. Then it's the concatenation operator, which is two pipelines, then comes the comparison like equals, not equals, greater than, less than, greater than equals, less than equals. Then comes IS NULL, IS NOT NULL, LIKE, IN, NOT IN, followed by BETWEEN, NOT BETWEEN. Then comes the logical operators, NOT, and then AND, and finally, OR. Just like how we change the precedence of operators in the same way, we can change the precedence of conditions that we use in the where by using parenthesis. Let's look at a few examples. I'll write these select statements in Live [[SQL]] and then we will compare the two outputs. I give select EMP number, name, DPT number, salary from EMP tab where DPT number equals 30, or DPT number equals 40. And salary is greater than 3000. Now I'll copy this select statement, and then I'll make a few changes to it here by adding parenthesis for these two conditions.
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/order-of-precedence?u=76281980&t=0)** - [Instructor] Let's understand the order of precedence of all the conditions which we are using in, where. First, it's arithmetic operators, like multiplication, division, addition, and subtraction. Then it's the concatenation operator, which is two pipelines, then comes the comparison like equals, not equals, greater than, less than, greater than equals, less than equals. Then comes IS NULL, IS NOT NULL, LIKE, IN, NOT IN, followed by BETWEEN, NOT BETWEEN. Then comes the logical operators, NOT, and then AND, and finally, OR. Just like how we change the precedence of operators in the same way, we can change the precedence of conditions that we use in the where by using parenthesis. Let's look at a few examples. I'll write these select statements in Live [SQL](../../Skills/Data%20Science/SQL.md) and then we will compare the two outputs. I give select EMP number, name, DPT number, salary from EMP tab where DPT number equals 30, or DPT number equals 40. And salary is greater than 3000. Now I'll copy this select statement, and then I'll make a few changes to it here by adding parenthesis for these two conditions.
 >
 > **[1:35](https://www.linkedin.com/learning/quick-start-guide-to-sql/order-of-precedence?u=76281980&t=95)** And now I'll run both the select statements and we'll compare the outputs. Now, in the first select statement, it's going to check these two conditions because AND has a higher precedence than OR. So it checks for employees who are from department number 40 and who have salaries greater than 3000. So only King has these two conditions satisfied, so that row is displayed. And then, we have the third condition where department number is equal to 30. So it displays all the employees who belong to department number 30. So, this is our output for the first select statement. Now, when we take a look at the output for the second select statement, it's going to be different. This is because we have used a parenthesis and put these two conditions within that. So first, it's going to compare these two conditions because parenthesis has precedents over any other operators. So it checks for all employees who belong to either department number 30 or 40, and then it checks for their salaries, if they are greater than 3000 or not. So only one employee matches all these criteria. So only one row is fetched. So by adding parenthesis, the condition inside them will be executed first in the second select statement.
 >
@@ -239,7 +239,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Env Vars:** dpt (3), null (2), between (2), emp (2), sql (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -249,9 +249,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=0)** - [Instructor] Now let's learn how to sort the data that is fetched from a select statement. Sorting data is very important when we need data in a specific order. We can sort data either in ascending or descending order. The default order is ascending, like in this example, since I haven't specified it as ascending or descending, it takes it as ascending. To display the results in descending order, I need to explicitly mention it as descending. Let's look at this example in Live [[SQL]]. Here, I give SELECT, empno, name, salary FROM emp..tab
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=0)** - [Instructor] Now let's learn how to sort the data that is fetched from a select statement. Sorting data is very important when we need data in a specific order. We can sort data either in ascending or descending order. The default order is ascending, like in this example, since I haven't specified it as ascending or descending, it takes it as ascending. To display the results in descending order, I need to explicitly mention it as descending. Let's look at this example in Live [SQL](../../Skills/Data%20Science/SQL.md). Here, I give SELECT, empno, name, salary FROM emp..tab
 >
-> **[0:42](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=42)** ORDER BY salary, and then run this, it sorts the data based on the salary from least to greatest. If I include descending, then it displays from the highest to the least salaries. Now here, ORDER BY clause always comes last in the SELECT statement, so first we [[Fetch]] the data using SELECT statement, filter out the data, using the WHERE conditions, and then we sort the filtered data. As we have learned earlier, the default order is ascending order, so when we are trying to sort columns of different data types, the sorting mechanism would change slightly for each data type. Let's understand how this works in each scenario for ascending order. Numeric values are sorted from least to greatest, like we have seen in the examples. character values or words are sorted in alphabetical order from A to Z. Let's take an example. Suppose I'm trying to sort the data using name column. It'll sort all the rows based on the name column from A to Z. If I give it as descending, it sorts in the reverse order, that's from Z to A. Dates are sorted for earliest to the latest, like here, if I include date column, and if I try to sort it by the date column,
+> **[0:42](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=42)** ORDER BY salary, and then run this, it sorts the data based on the salary from least to greatest. If I include descending, then it displays from the highest to the least salaries. Now here, ORDER BY clause always comes last in the SELECT statement, so first we [Fetch](../../Skills/Web%20Development/Fetch.md) the data using SELECT statement, filter out the data, using the WHERE conditions, and then we sort the filtered data. As we have learned earlier, the default order is ascending order, so when we are trying to sort columns of different data types, the sorting mechanism would change slightly for each data type. Let's understand how this works in each scenario for ascending order. Numeric values are sorted from least to greatest, like we have seen in the examples. character values or words are sorted in alphabetical order from A to Z. Let's take an example. Suppose I'm trying to sort the data using name column. It'll sort all the rows based on the name column from A to Z. If I give it as descending, it sorts in the reverse order, that's from Z to A. Dates are sorted for earliest to the latest, like here, if I include date column, and if I try to sort it by the date column,
 >
 > **[2:18](https://www.linkedin.com/learning/quick-start-guide-to-sql/sorting-data?u=76281980&t=138)** then it's displayed from earliest dates to the latest ones. If there are any null values and if it's ascending, then null values will be shown last, and if it is a descending order, then the null values will be shown first. This is the syntax for an order by clause. The ones in the square brackets are the optional sections. We can sort the data by giving the column name or the alias name. We can sort by multiple columns as well. Let's take a look at an example to get a better understanding. If I give SELECT * FROM emp..tab ORDER BY by dptno,
 >
@@ -259,7 +259,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1), [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **Env Vars:** select (4), order (3), sql (1), where (1)
 > **SQL:** select (4), order by (3), where (1)
 > **Definitions:** is a  (1)
@@ -276,15 +276,15 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=0)** - [Instructor] Let's understand the types of functions that we can apply on rows in tables. Before that, let's understand what a function is. A function performs a specific action. It takes some arguments as input and always returns a value as output. They can perform different kinds of actions like calculations, manipulating the output rows as per the requirement, working with dates, converting data types and many more. Functions are broadly categorized into two types: single row and multiple row functions. The main difference between single row and multiple row functions is that single row functions work on one row at a time and returns one result for every row. While multiple row functions work on a group of rows and return one result for every group. Now let's look at all the single row functions. Number functions perform various arithmetic operations or calculations on the data. Character functions work with character values to manipulate or modify the output as needed. Date functions, as the name implies, works with dates like adding a few months to the actual date and so on. We will learn more in detail about all these functions in the upcoming videos. The next one is data type conversion functions,
 >
-> **[1:36](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=96)** which are used when we need to change data types to achieve some functionality. The last but not the least is the conditional expressions, which make it easy to use if then else logic in [[SQL]]. These are then number functions that we use most often. ROUND, TRUNC and MOD. Let's take some examples to understand this. Let's head to Live SQL. Here if I give SELECT ROUND of 92.427, 2
+> **[1:36](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=96)** which are used when we need to change data types to achieve some functionality. The last but not the least is the conditional expressions, which make it easy to use if then else logic in [SQL](../../Skills/Data%20Science/SQL.md). These are then number functions that we use most often. ROUND, TRUNC and MOD. Let's take some examples to understand this. Let's head to Live SQL. Here if I give SELECT ROUND of 92.427, 2
 >
-> **[2:15](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=135)** FROM DUAL. Now, DUAL is a one row and one column table that is present by default in all Oracle [[Databases]]. It's used to get pseudo column values or to calculate some mathematical expressions and so on. So now by using this SELECT statement, it rounds the value to a specified decimal place. It rounds it to the second decimal place here because we have given two as the second argument, which is the number of decimal places that we want it to be rounded off to. Since seven is greater than five, it rounds the second decimal place to three, which is it rounds off this two to three. So let's take a look at the output. We get 92.43. Now let's use TRUNC instead of ROUND. Now this is what has happened here. It truncates the value to a specified decimal. That means it just cuts off the remaining decimal places and gives 92.42. It just doesn't care about what digits are in here. It just cuts it off and gives 92.42. The third one is MOD. It returns the remainder when dividing two numbers. Let's give SELECT MOD 2100, 500
+> **[2:15](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=135)** FROM DUAL. Now, DUAL is a one row and one column table that is present by default in all Oracle [Databases](../../Skills/Software%20Development/Databases.md). It's used to get pseudo column values or to calculate some mathematical expressions and so on. So now by using this SELECT statement, it rounds the value to a specified decimal place. It rounds it to the second decimal place here because we have given two as the second argument, which is the number of decimal places that we want it to be rounded off to. Since seven is greater than five, it rounds the second decimal place to three, which is it rounds off this two to three. So let's take a look at the output. We get 92.43. Now let's use TRUNC instead of ROUND. Now this is what has happened here. It truncates the value to a specified decimal. That means it just cuts off the remaining decimal places and gives 92.42. It just doesn't care about what digits are in here. It just cuts it off and gives 92.42. The third one is MOD. It returns the remainder when dividing two numbers. Let's give SELECT MOD 2100, 500
 >
 > **[3:49](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980&t=229)** FROM DUAL. Now, this returns a remainder that is 100. Keep in mind that it's not going to return the quotient but the remainder. So when I run this SELECT statement, I get 100 because that is the remainder when I divide 2100 by 500. So these are the most commonly used number functions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (2), [Databases](../../Skills/Software%20Development/Databases.md) (1)
 > **Env Vars:** select (4), round (3), mod (3), dual (3), sql (2)
 > **SQL:** select (4)
 > **Versions:** 92.42 (2), 92.427 (1), 92.43 (1)
@@ -338,7 +338,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-type-conversion-functions?u=76281980&t=0)** - [Instructor] Let's learn about some data type conversion and some general functions. There are two types of data type conversion functions, implicit and explicit conversions. Sometimes Oracle Server uses data of one data type where it is expected to have data of a different data type, then the Oracle Server implicitly converts one data type to another as needed. Though the implicit conversion feature is available, it is always advisable to use explicit conversions as it makes the [[SQL]] code more reliable. In explicit data conversions, we use some conversion functions like TO_CHAR, TO_NUMBER, and TO_DATE. These are the syntaxes for the three functions. TO_CHAR converts a number or date to a character format. Using this, we can convert the date format from its default format to our own format as needed. Let's take an example. If I give SELECT name,TO_CHAR hiredate,
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-type-conversion-functions?u=76281980&t=0)** - [Instructor] Let's learn about some data type conversion and some general functions. There are two types of data type conversion functions, implicit and explicit conversions. Sometimes Oracle Server uses data of one data type where it is expected to have data of a different data type, then the Oracle Server implicitly converts one data type to another as needed. Though the implicit conversion feature is available, it is always advisable to use explicit conversions as it makes the [SQL](../../Skills/Data%20Science/SQL.md) code more reliable. In explicit data conversions, we use some conversion functions like TO_CHAR, TO_NUMBER, and TO_DATE. These are the syntaxes for the three functions. TO_CHAR converts a number or date to a character format. Using this, we can convert the date format from its default format to our own format as needed. Let's take an example. If I give SELECT name,TO_CHAR hiredate,
 >
 > **[1:10](https://www.linkedin.com/learning/quick-start-guide-to-sql/data-type-conversion-functions?u=76281980&t=70)** I want it to be displayed like this, just the year of joining, so I give it like this, and I want an alias name for this as "Year Of Joining" FROM emp_tab, and I run this.
 >
@@ -348,7 +348,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Env Vars:** to_char (4), to_number (3), to_date (3), nvl (3), null (3)
 > **Code Identifiers:** emp_tab (2)
 > **SQL:** select (2)
@@ -358,7 +358,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/conditional-expressions?u=76281980&t=0)** - [Instructor] Now let's learn about conditional functions. These are CASE and DECODE. They both act like IF-THEN-ELSE in [[SQL]]. Typically to use IF-THEN-ELSE, we need to write a procedure but by using these functions, we can avoid that. Here in case expression, we compare our expression with different comparison expressions and return the corresponding return expressions. This is the syntax for case. Let's look at an example. Now, based on an employee's designation, I want to increase their salary accordingly, so I give SELECT name, job, salary and I'm going to write this in multiple lines for better understanding. I start the CASE function. CASE, since I'm comparing the job, I give job WHEN, WHEN the job title is MANAGER, I want the salary to increase by 20%.
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/conditional-expressions?u=76281980&t=0)** - [Instructor] Now let's learn about conditional functions. These are CASE and DECODE. They both act like IF-THEN-ELSE in [SQL](../../Skills/Data%20Science/SQL.md). Typically to use IF-THEN-ELSE, we need to write a procedure but by using these functions, we can avoid that. Here in case expression, we compare our expression with different comparison expressions and return the corresponding return expressions. This is the syntax for case. Let's look at an example. Now, based on an employee's designation, I want to increase their salary accordingly, so I give SELECT name, job, salary and I'm going to write this in multiple lines for better understanding. I start the CASE function. CASE, since I'm comparing the job, I give job WHEN, WHEN the job title is MANAGER, I want the salary to increase by 20%.
 >
 > **[1:09](https://www.linkedin.com/learning/quick-start-guide-to-sql/conditional-expressions?u=76281980&t=69)** WHEN the job is ANALYST, then I want the salary to increase by 15%. And WHEN his job title is CLERK, then I want it to increase by 10%. And WHEN the job doesn't match with any of these rows, then I just want to leave it as is. Now I end the case function and I do not want this entire text to be displayed in the column heading. So I'll give an alias name as Revised Salary. And then get FROM emp_tab because that's where we are fetching this data from. And now I run this. We have all four columns, name, job, salary, and the revised salary based on their designations. Similarly, we can use DECODE to achieve the same functionality. Let's take a look at the syntax first. Now, this is the syntax for DECODE. Here DECODE function decodes the expression by first comparing it with the search expression and then returning the corresponding DECODE expression. Let's look at an example for a better understanding. We can achieve the same functionality as the case function by giving the code like this.
 >
@@ -366,7 +366,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Env Vars:** decode (7), case (4), else (2), select (2), manager (2)
 > **Code Identifiers:** emp_tab (2)
 > **SQL:** select (2)
@@ -443,7 +443,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=0)** - [Instructor] Now let's learn all about joins. We use joins to [[Fetch]] data from one or more tables at a time. This is the syntax for joins: select columns from table_name1 followed by the joint_name, that is the type of join we use. Then table_name2 on. On is a keyword here followed by the join conditions. Now based on the data we need, joins are categorized into four types: inner join, right join, left join and full outer join. Let's look at each of these with examples. The first one is the inner join. Inner join retrieves all rows matching in both the tables. Like here in this example, the two tables that we are trying to join are country_tab table and states_tab table. So here, it's going to retrieve only those rows that match in both the tables. So this is how the Venn diagram looks for the inner join. Let's look at this example in Live [[SQL]]. I've written the same example over here and I've also written the country_tab and states_tab select statements too just to understand it better. So now when I run this, first I'll have the country_tab table followed by the states_tab table. And finally, we'll have the joins table over here. So here, since we are using inner join,
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=0)** - [Instructor] Now let's learn all about joins. We use joins to [Fetch](../../Skills/Web%20Development/Fetch.md) data from one or more tables at a time. This is the syntax for joins: select columns from table_name1 followed by the joint_name, that is the type of join we use. Then table_name2 on. On is a keyword here followed by the join conditions. Now based on the data we need, joins are categorized into four types: inner join, right join, left join and full outer join. Let's look at each of these with examples. The first one is the inner join. Inner join retrieves all rows matching in both the tables. Like here in this example, the two tables that we are trying to join are country_tab table and states_tab table. So here, it's going to retrieve only those rows that match in both the tables. So this is how the Venn diagram looks for the inner join. Let's look at this example in Live [SQL](../../Skills/Data%20Science/SQL.md). I've written the same example over here and I've also written the country_tab and states_tab select statements too just to understand it better. So now when I run this, first I'll have the country_tab table followed by the states_tab table. And finally, we'll have the joins table over here. So here, since we are using inner join,
 >
 > **[1:34](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980&t=94)** it's going to retrieve only those rows that match in both these two tables. So as we can see here, for this country_ID, we have two states mapped to this country_ID. Similarly, for this country_ID, for this country_ID two, we have a state mapped to it as well. But for country_ID three, we do not have any states mapped over here. And similarly, this state does not have a country_ID that is mapped to it. So, this row and this row have been excluded and only the matching rows in both these tables would be displayed which is these three rows along with the country details which gives us this output. So this is how the inner join would work. The next one is left join. Left join retrieves all rows from the left table and only the matching rows from the right table. Let's look at this example. Here, instead of inner join, if I give left join over here and I run this, we have our country_tab followed by the states_tab and then we have the left join. Here, all the rows from the left table that is country_tab table would be fetched and only the matching rows from the states table would be fetched.
 >
@@ -453,7 +453,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [Fetch](../../Skills/Web%20Development/Fetch.md) (1), [SQL](../../Skills/Data%20Science/SQL.md) (1)
 > **Code Identifiers:** country_tab (7), states_tab (6), joint_name (1)
 > **Env Vars:** usa (2), sql (1)
 > **Definitions:** is a  (1)
@@ -475,7 +475,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-subqueries?u=76281980&t=0)** - [Instructor] Now let's learn about the types of subqueries. There are two types of subqueries, single row and multiple row. Single row subqueries return a single row or single value. And we use single row comparison operators like equals to not equals to, less than, less than equals to, greater than, and greater than equals to. Multiple row subqueries return multiple rows. And we use multiple row comparison operators like in, any, and all. We learn about these operators in a little while. Let's look at some examples for both these types of subqueries. This is an example for single row subqueries. As we have seen it's enclosed in parenthesis and it's on the right side of the comparison condition. So now let's look at this example in Live [[SQL]]. Here, I've already written returned this example here. Since the inner query gets executed first, let's run that first. This the inner query, I've copied it already. When I run this, the output is one. So the country ID for California state is one. So now, since this is the output for the inner query that is passed as input for the outer query. And when I run this outer query, I get the states associated with the country ID one from states tab. So now, instead of writing two separate statements I'm going to club this by using subqueries.
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-subqueries?u=76281980&t=0)** - [Instructor] Now let's learn about the types of subqueries. There are two types of subqueries, single row and multiple row. Single row subqueries return a single row or single value. And we use single row comparison operators like equals to not equals to, less than, less than equals to, greater than, and greater than equals to. Multiple row subqueries return multiple rows. And we use multiple row comparison operators like in, any, and all. We learn about these operators in a little while. Let's look at some examples for both these types of subqueries. This is an example for single row subqueries. As we have seen it's enclosed in parenthesis and it's on the right side of the comparison condition. So now let's look at this example in Live [SQL](../../Skills/Data%20Science/SQL.md). Here, I've already written returned this example here. Since the inner query gets executed first, let's run that first. This the inner query, I've copied it already. When I run this, the output is one. So the country ID for California state is one. So now, since this is the output for the inner query that is passed as input for the outer query. And when I run this outer query, I get the states associated with the country ID one from states tab. So now, instead of writing two separate statements I'm going to club this by using subqueries.
 >
 > **[1:35](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-subqueries?u=76281980&t=95)** So when I run this select statement I get the exact same output. So this is how subqueries work. In this example, we have taken only one inner query but we can have multiple inner queries too. Here, we have used states tab table for both the outer and the inner queries but we can have different tables if needed. Like here I have changed from states tab to country tab over here, instead of giving states tab I've changed it to country tab because I like to know the details of the country that has been retrieved from the inner query. So when I run this, I will get the details of our country over here. Now also use group functions in subqueries. As we know we have group functions like count, min, max, sum, average. So now let's try by using max over here. So here in our sub query I have used max salary over here which retrieve the maximum salary of an employee in the employee tab. So once we have the maximum salary from this table that is passed as input to our outer query and we'll have the employee details fetched over here. So when I run this this is the employee with the highest salary.
 >
@@ -485,7 +485,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (2)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
@@ -499,11 +499,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980&t=0)** - [Narrator] Thank you so much for joining me for this course, I hope you enjoyed learning how to write different kinds of select statements using [[SQL]]. Till now we have learned how to [[Fetch]] data from existing tables. If you wish to continue your database journey, I would highly recommend another course that I have tailor made just for you, it's called [[SQL Queries Made Easy]]. This is a quick guide on how to create new tables, alter them and even drop them as needed. We will also learn how to add, manipulate and delete data from these tables. It's a great course to advance after this one. Thanks again, and happy learning.
+> **[0:00](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980&t=0)** - [Narrator] Thank you so much for joining me for this course, I hope you enjoyed learning how to write different kinds of select statements using [SQL](../../Skills/Data%20Science/SQL.md). Till now we have learned how to [Fetch](../../Skills/Web%20Development/Fetch.md) data from existing tables. If you wish to continue your database journey, I would highly recommend another course that I have tailor made just for you, it's called [SQL Queries Made Easy](../Data%20Science/SQL%20Queries%20Made%20Easy.md). This is a quick guide on how to create new tables, alter them and even drop them as needed. We will also learn how to add, manipulate and delete data from these tables. It's a great course to advance after this one. Thanks again, and happy learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (2), [Fetch](../../Skills/Web%20Development/Fetch.md) (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -511,7 +511,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Deepa Maddala]]
+- [Deepa Maddala](../../Instructors/Database%20Management/Deepa%20Maddala.md)
 
 ## Resources
 
@@ -523,22 +523,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Explore a Career in Database Development]]
-← [[Programming Foundations Databases]] | **2 of 5** | [[Learning SQL Programming]] →
+### In [Explore a Career in Database Development](../../Paths/Database%20Management/Learning%20Paths/Explore%20a%20Career%20in%20Database%20Development.md)
+← [Programming Foundations Databases](../Software%20Development/Programming%20Foundations%20Databases.md) | **2 of 5** | [Learning SQL Programming](../Software%20Development/Learning%20SQL%20Programming.md) →
 
 ## Appears In
 
-- [[Explore a Career in Database Development]]
+- [Explore a Career in Database Development](../../Paths/Database%20Management/Learning%20Paths/Explore%20a%20Career%20in%20Database%20Development.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Advanced SQL Project- Design and Manage a Database]] — SQL
-- [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — SQL
-- [[SQL Server Fundamentals- Master Basic Query Techniques]] — SQL
-- [[Advanced SQL for Data Science- Time Series]] — SQL
-- [[Intermediate SQL- Data Reporting and Analysis]] — SQL
+- [Advanced SQL Project- Design and Manage a Database](../Data%20Science/Advanced%20SQL%20Project-%20Design%20and%20Manage%20a%20Database.md) — SQL
+- [Practical Database Design- Implementing Responsible Data Solutions with SQL Querying](../Data%20Science/Practical%20Database%20Design-%20Implementing%20Responsible%20Data%20Solutions%20with%20SQL%20Querying.md) — SQL
+- [SQL Server Fundamentals- Master Basic Query Techniques](../Data%20Science/SQL%20Server%20Fundamentals-%20Master%20Basic%20Query%20Techniques.md) — SQL
+- [Advanced SQL for Data Science- Time Series](../Data%20Science/Advanced%20SQL%20for%20Data%20Science-%20Time%20Series.md) — SQL
+- [Intermediate SQL- Data Reporting and Analysis](../Data%20Science/Intermediate%20SQL-%20Data%20Reporting%20and%20Analysis.md) — SQL
 
 ---
 

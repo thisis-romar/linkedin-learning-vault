@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Data Governance, Compliance, and Auditing for Developers]]
+- [AI Data Governance, Compliance, and Auditing for Developers](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Data%20Governance%2C%20Compliance%2C%20and%20Auditing%20for%20Developers.md)

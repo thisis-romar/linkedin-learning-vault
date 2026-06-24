@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Electronics Foundations- Semiconductor Devices]] — Intermediate · 4h 8m · 132,419 learners
+- [Electronics Foundations- Semiconductor Devices](../../Courses/Hardware/Electronics%20Foundations-%20Semiconductor%20Devices.md) — Intermediate · 4h 8m · 132,419 learners

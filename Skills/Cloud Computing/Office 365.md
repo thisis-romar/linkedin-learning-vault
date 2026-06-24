@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Microsoft 365 Copilot for Work (2024)]] — 29m · 84,180 learners
+- [Learning Microsoft 365 Copilot for Work (2024)](../../Courses/Cloud%20Computing/Learning%20Microsoft%20365%20Copilot%20for%20Work%20(2024).md) — 29m · 84,180 learners
 
 ## Related Skills
 
-- [[Microsoft Copilot]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Microsoft Copilot](Microsoft%20Copilot.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

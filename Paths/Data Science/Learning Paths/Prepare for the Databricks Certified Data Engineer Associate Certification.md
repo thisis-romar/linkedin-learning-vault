@@ -17,7 +17,7 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Databricks Certified Data Engineer Associate Cert Prep]]'
+  - course: '[Databricks Certified Data Engineer Associate Cert Prep](../../../Courses/Data%20Science/Databricks%20Certified%20Data%20Engineer%20Associate%20Cert%20Prep.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -32,12 +32,12 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Databricks Certified Data Engineer Associate Cert Prep]]
+1. [Databricks Certified Data Engineer Associate Cert Prep](../../../Courses/Data%20Science/Databricks%20Certified%20Data%20Engineer%20Associate%20Cert%20Prep.md)
 
 ## Topics
 
-- [[Data Science]]
+- [Data Science](../../../Topics/Data%20Science.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

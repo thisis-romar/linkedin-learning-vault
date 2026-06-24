@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Product Ideation- Principles and Practical Applications]]
-- [[AI Product Development- Technical Feasibility and Prototyping]]
+- [AI Product Ideation- Principles and Practical Applications](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Ideation-%20Principles%20and%20Practical%20Applications.md)
+- [AI Product Development- Technical Feasibility and Prototyping](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Development-%20Technical%20Feasibility%20and%20Prototyping.md)

@@ -30,5 +30,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Thinking]]
-- [[Interpersonal Communication]]
+- [Strategic Thinking](../../Skills/Data%20Science/Strategic%20Thinking.md)
+- [Interpersonal Communication](../../Skills/Data%20Science/Interpersonal%20Communication.md)

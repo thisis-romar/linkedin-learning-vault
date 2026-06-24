@@ -17,15 +17,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Learning Vue Js]]'
+  - course: '[Learning Vue Js](../../../Courses/Web%20Development/Learning%20Vue%20Js.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Vue.js- Testing and Debugging]]'
+  - course: '[Vue.js- Testing and Debugging](../../../Courses/Web%20Development/Vue.js-%20Testing%20and%20Debugging.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Vue.js- Creating and Hosting a Full-Stack Site]]'
+  - course: '[Vue.js- Creating and Hosting a Full-Stack Site](../../../Courses/Web%20Development/Vue.js-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -40,18 +40,18 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Learning Vue Js]]
-2. [[Vue.js- Testing and Debugging]] _(1h 20m)_
-3. [[Vue.js- Creating and Hosting a Full-Stack Site]] _(4h 31m)_
+1. [Learning Vue Js](../../../Courses/Web%20Development/Learning%20Vue%20Js.md)
+2. [Vue.js- Testing and Debugging](../../../Courses/Web%20Development/Vue.js-%20Testing%20and%20Debugging.md) _(1h 20m)_
+3. [Vue.js- Creating and Hosting a Full-Stack Site](../../../Courses/Web%20Development/Vue.js-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md) _(4h 31m)_
 
 ## Course Flow
 
-1. [[Learning Vue Js]] → 2. [[Vue.js- Testing and Debugging]] → 3. [[Vue.js- Creating and Hosting a Full-Stack Site]]
+1. [Learning Vue Js](../../../Courses/Web%20Development/Learning%20Vue%20Js.md) → 2. [Vue.js- Testing and Debugging](../../../Courses/Web%20Development/Vue.js-%20Testing%20and%20Debugging.md) → 3. [Vue.js- Creating and Hosting a Full-Stack Site](../../../Courses/Web%20Development/Vue.js-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)
 
 ## Topics
 
-- [[Web Development]]
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Web Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Web Development](../../../Topics/Web%20Development.md)

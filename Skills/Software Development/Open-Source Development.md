@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Create an Open-Source Project in Python]] — Intermediate · 1h 24m · 99,574 learners
+- [Create an Open-Source Project in Python](../../Courses/Software%20Development/Create%20an%20Open-Source%20Project%20in%20Python.md) — Intermediate · 1h 24m · 99,574 learners
 
 ## Related Skills
 
-- [[Python (Programming Language)]] — 1 shared course
+- [Python (Programming Language)](Python%20(Programming%20Language).md) — 1 shared course

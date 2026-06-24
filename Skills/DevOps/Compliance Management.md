@@ -22,18 +22,18 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Complete Guide to AWS Security and Compliance Management]] — Intermediate · 11h · 2,419 learners
+- [Complete Guide to AWS Security and Compliance Management](../../Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Security%20and%20Compliance%20Management.md) — Intermediate · 11h · 2,419 learners
 
 ## Related Skills
 
-- [[AWS Security]] — 1 shared course
-- [[Amazon Web Services (AWS)]] — 1 shared course
+- [AWS Security](../Cloud%20Computing/AWS%20Security.md) — 1 shared course
+- [Amazon Web Services (AWS)](../Cloud%20Computing/Amazon%20Web%20Services%20(AWS).md) — 1 shared course
 
 ## Mentioned In Transcripts _(10 total mentions)_
 
-1. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 5 mentions
-2. [[Introduction to IT Architecture]] — 1 mentions
-3. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 1 mentions
-4. [[Cybersecurity Foundations- Security Architecture]] — 1 mentions
-5. [[Understanding and Prioritizing Data Privacy]] — 1 mentions
-6. [[Privacy Strategies for Business Leaders]] — 1 mentions
+1. [Microsoft Security Essentials Concepts Solutions And Ai Powered Protection](../../Courses/Cloud%20Computing/Microsoft%20Security%20Essentials%20Concepts%20Solutions%20And%20Ai%20Powered%20Protection.md) — 5 mentions
+2. [Introduction to IT Architecture](../../Courses/DevOps/Introduction%20to%20IT%20Architecture.md) — 1 mentions
+3. [Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Agentic%20AI%20in%20Cloud%20Computing-%20Strategy%20and%20Tool%20Optimization.md) — 1 mentions
+4. [Cybersecurity Foundations- Security Architecture](../../Courses/Cloud%20Computing/Cybersecurity%20Foundations-%20Security%20Architecture.md) — 1 mentions
+5. [Understanding and Prioritizing Data Privacy](../../Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md) — 1 mentions
+6. [Privacy Strategies for Business Leaders](../../Courses/Cybersecurity/Privacy%20Strategies%20for%20Business%20Leaders.md) — 1 mentions

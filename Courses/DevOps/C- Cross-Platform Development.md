@@ -18,11 +18,11 @@ github: "https://github.com/LinkedInLearning/c-sharp-cross-platform-development-
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFN2A5GUfqgSw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691011036247?e=2147483647&amp;v=beta&amp;t=ykMwwWkISC0KMJQlfocVsyiEAGVFnGuuFutt19P4m0c"
 linkedin_topic: DevOps
 learning_paths:
-  - '[[Elevating C- Skills- Building Robust Applications]]'
+  - '[Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)'
 prev_courses:
-  - '[[C- Exception and Error Handling]]'
+  - '[C- Exception and Error Handling](C-%20Exception%20and%20Error%20Handling.md)'
 next_courses:
-  - '[[C- Unit Testing with xUnit]]'
+  - '[C- Unit Testing with xUnit](C-%20Unit%20Testing%20with%20xUnit.md)'
 path_nav: '[{"path":"Elevating C- Skills- Building Robust Applications","position":6,"total":8,"prev":"C- Exception and Error Handling","next":"C- Unit Testing with xUnit"}]'
 path_count: 1
 tags:
@@ -80,11 +80,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980&t=1)** - Hi, my name is Jesse Freeman, and in this course you'll build a cross platform, note taking console app called HelloNote, using .NET7 and Visual Studio. You'll be introduced to essential .NET development practices such as the command pattern, create, read, update, and delete operations, [[Data Modeling]] with EF Core, and setting up an SQLite database. In addition, we'll also explore more advanced features like establishing relationships between data models, and implementing a search functionality. By the end of this course, you'll have a solid understanding of .NET [[Application Development]]. Now let's get started.
+> **[0:01](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980&t=1)** - Hi, my name is Jesse Freeman, and in this course you'll build a cross platform, note taking console app called HelloNote, using .NET7 and Visual Studio. You'll be introduced to essential .NET development practices such as the command pattern, create, read, update, and delete operations, [Data Modeling](../../Skills/Data%20Science/Data%20Modeling.md) with EF Core, and setting up an SQLite database. In addition, we'll also explore more advanced features like establishing relationships between data models, and implementing a search functionality. By the end of this course, you'll have a solid understanding of .NET [Application Development](../../Skills/Software%20Development/Application%20Development.md). Now let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Modeling]] (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [Data Modeling](../../Skills/Data%20Science/Data%20Modeling.md) (1), [Application Development](../../Skills/Software%20Development/Application%20Development.md) (1)
 > **Env Vars:** net (2), net7 (1)
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
@@ -94,11 +94,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980&t=0)** - [Instructor] Before taking this course, it'd be beneficial to have a basic understanding of C# programming and its syntax, including knowledge of variables, loops, conditions, and functions. You should also be familiar with [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts such as classes and inheritance. It's also recommended to have a basic understanding of [[Databases]], particularly [[Relational Databases]], and knowledge of link for querying data in C#. Finally, experience with console applications and command line would prove helpful context for understanding how the interactions are handled in this course. If you're new to any of these concepts, consider exploring introductory resources in these areas first to build a strong foundation.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980&t=0)** - [Instructor] Before taking this course, it'd be beneficial to have a basic understanding of C# programming and its syntax, including knowledge of variables, loops, conditions, and functions. You should also be familiar with [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) concepts such as classes and inheritance. It's also recommended to have a basic understanding of [Databases](../../Skills/Software%20Development/Databases.md), particularly [Relational Databases](../../Skills/Software%20Development/Relational%20Databases.md), and knowledge of link for querying data in C#. Finally, experience with console applications and command line would prove helpful context for understanding how the interactions are handled in this course. If you're new to any of these concepts, consider exploring introductory resources in these areas first to build a strong foundation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Databases]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (1), [Databases](../../Skills/Software%20Development/Databases.md) (1), [Relational Databases](../../Skills/Software%20Development/Relational%20Databases.md) (1)
 > **Tools:** command line (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -113,11 +113,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980&t=0)** - [Instructor] If you haven't already downloaded Visual Studio for the Mac, go to [[Microsoft]]'s website for Visual Studio, click the download button and wait for the installer file to download. Once downloaded, locate the installer and double click on it to launch it. Then file the instructions provided by the installer to complete the installation process. Using Visual Studio is perhaps the easiest way to get .NET 7 set up since it's a complete IDE and development environment. Once you have Visual Studio installed, or if you already had it installed, make sure to check that you have the correct version of the .NET SDK. In Visual Studio for the Mac we can do this by going into the preference menu, scroll down to the SDK Locations, .NET Core, and here you'll see we have two versions of .NET installed, 7.0 and 6.0. For this course we're going to use 7.0. If you're familiar with the command line or you want to use Visual Studio Code, installing the .NET [[CLI]] is probably your best option. At this point, you should have everything ready for us to create our first project.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980&t=0)** - [Instructor] If you haven't already downloaded Visual Studio for the Mac, go to [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md)'s website for Visual Studio, click the download button and wait for the installer file to download. Once downloaded, locate the installer and double click on it to launch it. Then file the instructions provided by the installer to complete the installation process. Using Visual Studio is perhaps the easiest way to get .NET 7 set up since it's a complete IDE and development environment. Once you have Visual Studio installed, or if you already had it installed, make sure to check that you have the correct version of the .NET SDK. In Visual Studio for the Mac we can do this by going into the preference menu, scroll down to the SDK Locations, .NET Core, and here you'll see we have two versions of .NET installed, 7.0 and 6.0. For this course we're going to use 7.0. If you're familiar with the command line or you want to use Visual Studio Code, installing the .NET [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md) is probably your best option. At this point, you should have everything ready for us to create our first project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (1), [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md) (1)
 > **Env Vars:** net (5), sdk (2), ide (1), cli (1)
 > **Tools:** visual studio (6), command line (1)
 > **Versions:** 7.0 (2), 6.0 (1)
@@ -130,7 +130,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=0)** - [Narrator] Let's go ahead and create our new project. We're going to select the Console Application from the Template menu, and click Continue. We'll make sure to .NET 7 as our target framework. And here, we're going to name the project Hello Note App. Now for the solution name, let's remove the [[Microsoft Word|word]] app. And as you can see here, we now have a master folder for the Hello Note solution. And then we have a separate folder for the Hello Note application. One of the benefits of setting up a project this way is that you can also add additional projects to the Hello Note folder, including unit tests if you're planning on doing that for your own development. Once you've selected a location for where you want to put your project, click Create. Now let's take a look at the solution panel. Here you'll see our Hello Note solution and our Hello Note App project. For this course, we're going to need to add two packages using the NuGet package manager. Let's right click on the dependencies and go to Manage NuGet packages. Here, we'll need to filter it out. So let's type in [[Microsoft]].EntityFrameworkCore, SQLite.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=0)** - [Narrator] Let's go ahead and create our new project. We're going to select the Console Application from the Template menu, and click Continue. We'll make sure to .NET 7 as our target framework. And here, we're going to name the project Hello Note App. Now for the solution name, let's remove the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) app. And as you can see here, we now have a master folder for the Hello Note solution. And then we have a separate folder for the Hello Note application. One of the benefits of setting up a project this way is that you can also add additional projects to the Hello Note folder, including unit tests if you're planning on doing that for your own development. Once you've selected a location for where you want to put your project, click Create. Now let's take a look at the solution panel. Here you'll see our Hello Note solution and our Hello Note App project. For this course, we're going to need to add two packages using the NuGet package manager. Let's right click on the dependencies and go to Manage NuGet packages. Here, we'll need to filter it out. So let's type in [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md).EntityFrameworkCore, SQLite.
 >
 > **[1:22](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=82)** Once you've found the package, check it and then let's add one other package. Again, we'll type out Microsoft.EntityFrameworkCore.design
 >
@@ -138,7 +138,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (2), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **UI Navigation:** select the (1), click on (1), go to (1)
 > **Env Vars:** net (2)
 > **CLI Commands:** make (1)
@@ -158,13 +158,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980&t=0)** - [Instructor] Now it's time for us to create our note model and the database context. We'll start by creating a new class called Note. You can do this by right-clicking on the project, going to add, and selecting new class. Type in the name Note and hit return. This will automatically create a new class with a namespace for our application, HelloNoteApp and create a constructor. We don't need the constructor so we can delete this, and let's add the three main properties we'll need to represent our note. First, we'll add a property for ID. This will be the unique ID for each note in the database. Next, we'll create a property for the title. Each note will have its own unique title. And finally, we'll add a property for content. This will store the text that each note contains. Let's save our class and move over to creating the database context. Just like before, we're going to use the empty class template and we're going to name this AppDbContext and create the file. We want this class to inherit from the Db context class provided by the entity framework core. The Db context class is the main class that coordinates the entity framework functionality for a given data model. In this case, our data model is going to be the note. Let's go ahead and extend the class.
 >
-> **[1:34](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980&t=94)** We'll also need to import the entity framework core. So let's do that by selecting use [[Microsoft]] Entity Framework Core and Visual Studio will add it to the top of our class. Next, we need to create a property that'll store the note table in our database. Let's add this above the constructor. Here we're going to create a note's property and we'll use the type DbSet and cast it to note. And then we'll use a getter and setter to finish the property. The DbSet represents a collection for a given entity within the model and is the primary method for interaction with the database. Now let's create a new property. We're going to call this DbPath and it'll be a string and we're only going to set a getter. This will store the path that we're about to generate for where the database is stored inside of our application's project folder. Now let's go into the constructor and figure out the folder and the path for our database. Let's create our first variable for the folder. And we're going to use Environment.SpecialFolder.LocalApplicationData. This refers to the file path for the user's local application data. Since we want this to be a cross-platform application, we can't hard code this. We'll use .net to locate these special folders based on its own environment.
+> **[1:34](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980&t=94)** We'll also need to import the entity framework core. So let's do that by selecting use [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) Entity Framework Core and Visual Studio will add it to the top of our class. Next, we need to create a property that'll store the note table in our database. Let's add this above the constructor. Here we're going to create a note's property and we'll use the type DbSet and cast it to note. And then we'll use a getter and setter to finish the property. The DbSet represents a collection for a given entity within the model and is the primary method for interaction with the database. Now let's create a new property. We're going to call this DbPath and it'll be a string and we're only going to set a getter. This will store the path that we're about to generate for where the database is stored inside of our application's project folder. Now let's go into the constructor and figure out the folder and the path for our database. Let's create our first variable for the folder. And we're going to use Environment.SpecialFolder.LocalApplicationData. This refers to the file path for the user's local application data. Since we want this to be a cross-platform application, we can't hard code this. We'll use .net to locate these special folders based on its own environment.
 >
 > **[3:09](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980&t=189)** Next, we'll create a variable for the path. We'll do this by calling Environment.GetFolderPath and passing in the value of folder that we previously set. And finally, we're able to set our DbPath and we're going to make this equal to Path.Join. We'll pass in the path that we just created and we'll concatenate it with notes.db, which will be the name of our database. There's one last thing we need to do before we finish up this class. Let's go ahead and override the on configuring method from the DB context base class. This is a protected method, so we'll use protected override. The return type is void and we'll override the default on configuring method. Visual Studio is going to auto-complete this for us. So let's go ahead and clean this up a bit. We're going to rename the parameter options and we're simply going to map it to Options.UseSQLLite. And we're going to pass it in a data source. And the data source is going to be the DbPath that we created in the constructor, at this point, we have everything we need to connect to our database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1)
+> **Frameworks & Libraries:** [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (1)
 > **Tools:** visual studio (2)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -176,13 +176,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=0)** - [Instructor] Now it's time for us to establish the [[SQL]] database connection and set up the migrations. The Entity Framework Core tools is a powerful package that includes command line tools for database operations, such as migrations and updates. In order to install it, we're going to need to do this on the command line. In Visual Studio, go to View and select Terminal. We can also pin this here for the time being while we add in the [[Representational State Transfer (REST)|rest]] of the commands we need to configure our tools. We'll start by typing dotnet tool install --global dotnet-ef.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=0)** - [Instructor] Now it's time for us to establish the [SQL](../../Skills/Data%20Science/SQL.md) database connection and set up the migrations. The Entity Framework Core tools is a powerful package that includes command line tools for database operations, such as migrations and updates. In order to install it, we're going to need to do this on the command line. In Visual Studio, go to View and select Terminal. We can also pin this here for the time being while we add in the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the commands we need to configure our tools. We'll start by typing dotnet tool install --global dotnet-ef.
 >
 > **[0:45](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=45)** This command installs the Entity Framework Core tools globally on your machine. Once the command completes successfully, you'll be able to use the .NET EF command from any terminal window inside of Visual Studio. Now that the Entity Framework Core tools are installed, let's create the initial migration. First, we're going to need to navigate to our project folder. Now let's run the following from the command line. Type out dotnet ef migrations add InitialCreate. This command generates a migration based on the current state of your database context and entity models. The migration contains the instructions on how to create the database schema. Now that the migration is created, let's apply it to the database. Type out dotnet ef database update. This command applies the migration to the database, creating the necessary tables in the process. After following these steps, you've now successfully installed the Entity Framework Core tools, created a migration based on your database context and models and applied the migration to the database to create the necessary tables.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [SQL](../../Skills/Data%20Science/SQL.md) (1), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Tools:** command line (3), visual studio (2), terminal (2)
 > **CLI Commands:** dotnet (4)
 > **Prerequisites:** install (2), set up (1), configure (1)
@@ -195,7 +195,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/building-with-the-command-pattern?u=76281980&t=0)** - [Instructor] Now let's take a look at how we can list all the notes that are inside of the database. In order to do this, we're going to use the command design pattern in order to implement a list note command. Let's go back to our project folder and create a new folder called Commands. We can do this by right clicking on the project, going to Add and selecting New Folder. Organizing your project by creating separate directories for commands makes the code base more manageable and readable. It's common practice in larger projects to keep similar types of code together. Now inside of our Commands folder, we're going to create a new interface called ICommand. Now, in this step, instead of selecting the Empty Class template, we're going to use the Empty Interface, and we're going to call this ICommand. As you can see, Visual Studios automatically put this in our HelloNoteApp.Commands namespace, since it's inside of the Commands folder. Now let's go ahead and create the method that all of our commands will share. Interfaces are a common tool in [[Object-Oriented Programming (OOP)|object-oriented programming]] to ensure that certain classes contain particular methods and properties. Interfaces are used extensively in the command pattern to provide a common contract for similar classes. The execute method we just added will be the main function for each command. This is where the primary action for each command will be coded. Now let's create our first command
+> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/building-with-the-command-pattern?u=76281980&t=0)** - [Instructor] Now let's take a look at how we can list all the notes that are inside of the database. In order to do this, we're going to use the command design pattern in order to implement a list note command. Let's go back to our project folder and create a new folder called Commands. We can do this by right clicking on the project, going to Add and selecting New Folder. Organizing your project by creating separate directories for commands makes the code base more manageable and readable. It's common practice in larger projects to keep similar types of code together. Now inside of our Commands folder, we're going to create a new interface called ICommand. Now, in this step, instead of selecting the Empty Class template, we're going to use the Empty Interface, and we're going to call this ICommand. As you can see, Visual Studios automatically put this in our HelloNoteApp.Commands namespace, since it's inside of the Commands folder. Now let's go ahead and create the method that all of our commands will share. Interfaces are a common tool in [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) to ensure that certain classes contain particular methods and properties. Interfaces are used extensively in the command pattern to provide a common contract for similar classes. The execute method we just added will be the main function for each command. This is where the primary action for each command will be coded. Now let's create our first command
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-cross-platform-development/building-with-the-command-pattern?u=76281980&t=93)** that implements this interface. In the Commands folder, create a new class called ListNotesCommand. Let's start by having this class extend the ICommand interface. You'll see that we get an error, and that's because we haven't implemented the execute method yet. Let's go ahead and create it for now, and we'll come back and add the code into it later. Now you can see that the error goes away since we've added a public execute method, which is part of the ICommand interface contract. Now let's go back to the top of our class and create a dbContext, so that we can interact with our database. Here we'll create a private, read-only property that is typed to the appDbContext we created earlier, and we'll call this property _dbContext. Since we're going to pass this into our constructor, we can leave it as read-only, since it won't be modified at runtime. Now inside of our constructor, let's accept a reference to the dbContext. Now that we have a reference to the dbContext that's being passed in the constructor, we can set it to our _dbContext property. All that's left to do now is to create the code that executes when we call this command. We'll start by creating a notes variable in order to store all of our notes.
 >
@@ -211,7 +211,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (1)
 > **Code Identifiers:** dbcontext (5), appdbcontext (1), commandname (1)
 > **Cross-References:** go back to (3)
 > **Tools:** command line (1), terminal (1), visual studio (1)
@@ -338,9 +338,9 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=0)** - [Instructor] In this video, we're going to execute the [[Language Integrated Query (LINQ)|LINQ]] query that we prepared in the previous video and present the results to the user. If no matching notes are found, we'll also display a message to tell the user that we couldn't find the note based on the keyword they supplied. In the previous video, we used a breakpoint to test that the query was working. Let's go ahead and remove that breakpoint, if you still have it, and finish our command with the [[Representational State Transfer (REST)|rest]] of the code we need to display the notes that have been found. We'll start by creating a new variable called notes, and we're going to set it equal to notesQuery.ToList. ToList is a LINQ method that forces immediate query execution and returns a list that contains the query results. This method is often used when it's important to cache the results of a query. Now we need to make sure that we actually have some notes to display. So let's create a new condition, and we'll test to see if the notes list contains any values. And if this is true, now it's time for us to use a foreach loop and iterate over each note in the notes list. First, we'll call Console.WriteLine, and we're going to supply a string that displays the title, and we'll use a token to replace the value with note.Title. Next, we'll call Console.WriteLine,
+> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=0)** - [Instructor] In this video, we're going to execute the [LINQ](../../Skills/Software%20Development/Language%20Integrated%20Query%20(LINQ).md) query that we prepared in the previous video and present the results to the user. If no matching notes are found, we'll also display a message to tell the user that we couldn't find the note based on the keyword they supplied. In the previous video, we used a breakpoint to test that the query was working. Let's go ahead and remove that breakpoint, if you still have it, and finish our command with the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the code we need to display the notes that have been found. We'll start by creating a new variable called notes, and we're going to set it equal to notesQuery.ToList. ToList is a LINQ method that forces immediate query execution and returns a list that contains the query results. This method is often used when it's important to cache the results of a query. Now we need to make sure that we actually have some notes to display. So let's create a new condition, and we'll test to see if the notes list contains any values. And if this is true, now it's time for us to use a foreach loop and iterate over each note in the notes list. First, we'll call Console.WriteLine, and we're going to supply a string that displays the title, and we'll use a token to replace the value with note.Title. Next, we'll call Console.WriteLine,
 >
-> **[1:33](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=93)** and we'll display the content and replace the token with the value of the note.Content property. And finally, we'll add a new line by calling Console.WriteLine, and we'll add some dashes to separate each of the search results from the others in the list. Now what we need to do is create the else condition to display an error message if no notes have been found and then call Console.WriteLine and pass in the string: No notes found with provided keyword. At this point, we should have everything we need to display any notes we find by the keyword. So let's go ahead and run our app and add a few more notes so that we have some examples of how to search through different notes based on the keyword and see how many we can list at the same time. First, let's search for the note we know exists. We'll type in search and hit Return. Now the app is asking us to provide the keyword, so let's use world. We'll hit Return, and we can see that the note that's in the database that says Hello World has now been displayed. Let's go ahead and clear this and create a few different notes that have a mix between using the [[Microsoft Word|word]] world in the title and the content to see if they'll show up. Let's create a note, the title, World War 2,
+> **[1:33](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=93)** and we'll display the content and replace the token with the value of the note.Content property. And finally, we'll add a new line by calling Console.WriteLine, and we'll add some dashes to separate each of the search results from the others in the list. Now what we need to do is create the else condition to display an error message if no notes have been found and then call Console.WriteLine and pass in the string: No notes found with provided keyword. At this point, we should have everything we need to display any notes we find by the keyword. So let's go ahead and run our app and add a few more notes so that we have some examples of how to search through different notes based on the keyword and see how many we can list at the same time. First, let's search for the note we know exists. We'll type in search and hit Return. Now the app is asking us to provide the keyword, so let's use world. We'll hit Return, and we can see that the note that's in the database that says Hello World has now been displayed. Let's go ahead and clear this and create a few different notes that have a mix between using the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) world in the title and the content to see if they'll show up. Let's create a note, the title, World War 2,
 >
 > **[3:08](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=188)** and let's set the content to something like this. Now let's create two more notes, and now let's make sure that the last note doesn't have the word world in it. Let's create a new note with the title Remember This. And for the content, we can add something like this. And finally, let's add the last note without the word world in the title or the content.
 >
@@ -348,7 +348,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Language Integrated Query (LINQ)|Linq]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (4), [Linq](../../Skills/Software%20Development/Language%20Integrated%20Query%20(LINQ).md) (2), [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** linq (2)
 > **Cross-References:** previous video (2)
@@ -366,18 +366,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980&t=1)** - Well done on completing the course. You now have a solid foundation in building a console-based, note-taking app in C#. For your next steps, consider enhancing the application with note-tagging functionality, explore .Net's [[CLI]] options to deploy your app on various platforms, and you may also want to add a graphical user interface using [[Microsoft]]'s .Net multi-platform app UI. This will take your app to the next level and will give you practice with building multi-platform applications using C#. Keep exploring and pushing your boundaries. There's so much more to learn.
+> **[0:01](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980&t=1)** - Well done on completing the course. You now have a solid foundation in building a console-based, note-taking app in C#. For your next steps, consider enhancing the application with note-tagging functionality, explore .Net's [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md) options to deploy your app on various platforms, and you may also want to add a graphical user interface using [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md)'s .Net multi-platform app UI. This will take your app to the next level and will give you practice with building multi-platform applications using C#. Keep exploring and pushing your boundaries. There's so much more to learn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [CLI](../../Skills/Network%20and%20System%20Administration/CLI.md) (1), [Microsoft](../../Instructors/Artificial%20Intelligence%20(AI)/Microsoft.md) (1)
 > **Env Vars:** cli (1)
 > **Speakers:** - well (1)
 
 
 ## Instructor
 
-- [[Jesse Freeman]]
+- [Jesse Freeman](../../Instructors/Software%20Development/Jesse%20Freeman.md)
 
 ## Resources
 
@@ -391,22 +391,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Elevating C- Skills- Building Robust Applications]]
-← [[C- Exception and Error Handling]] | **6 of 8** | [[C- Unit Testing with xUnit]] →
+### In [Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)
+← [C- Exception and Error Handling](C-%20Exception%20and%20Error%20Handling.md) | **6 of 8** | [C- Unit Testing with xUnit](C-%20Unit%20Testing%20with%20xUnit.md) →
 
 ## Appears In
 
-- [[Elevating C- Skills- Building Robust Applications]]
+- [Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Learning C-]] — C#
-- [[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]] — C#
-- [[Kotlin Multiplatform Development]] — Cross-platform Development
-- [[React Native Ecosystem and Workflow]] — Cross-platform Development
-- [[Nail Your C- Interview]] — C#
+- [Learning C-](../Software%20Development/Learning%20C-.md) — C#
+- [Cert Prep- Unity Certified Associate Game Developer Scripting with C-](../Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Scripting%20with%20C-.md) — C#
+- [Kotlin Multiplatform Development](../Mobile%20Development/Kotlin%20Multiplatform%20Development.md) — Cross-platform Development
+- [React Native Ecosystem and Workflow](../Mobile%20Development/React%20Native%20Ecosystem%20and%20Workflow.md) — Cross-platform Development
+- [Nail Your C- Interview](../Software%20Development/Nail%20Your%20C-%20Interview.md) — C#
 
 ---
 

@@ -16,41 +16,41 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGldtWXmq06Cg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1614797593786?e=2147483647&amp;v=beta&amp;t=qyZKlvlp_rOxupPH3ur3_3ct9sL3tzGSePotVchLLMA"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]'
-  - '[[Statistics Foundations Professional Certificate by Wolfram Research]]'
-  - '[[Explore a Career in Data Analysis]]'
-  - '[[Develop Your Data Analysis Skills]]'
-  - '[[Mastering Executive-Level Data Analytics]]'
-  - '[[Build Your Analytical Skills with Statistical Analysis]]'
-  - '[[Moving from Data Analyst to Data Scientist]]'
-  - '[[Become a Data Analytics Specialist]]'
-  - '[[Anaconda Python for Data Science Professional Certificate]]'
-  - '[[Master Excel for Data Science]]'
-  - '[[Become a Data Scientist]]'
+  - '[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation](../../Paths/Data%20Science/Learning%20Paths/Introduction%20to%20Fundamental%20Skills%20for%20Data%20Work-%20Data%20Analysis%20and%20Interpretation.md)'
+  - '[Statistics Foundations Professional Certificate by Wolfram Research](../../Paths/Data%20Science/Professional%20Certificates/Statistics%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.md)'
+  - '[Explore a Career in Data Analysis](../../Paths/Data%20Science/Learning%20Paths/Explore%20a%20Career%20in%20Data%20Analysis.md)'
+  - '[Develop Your Data Analysis Skills](../../Paths/Data%20Science/Learning%20Paths/Develop%20Your%20Data%20Analysis%20Skills.md)'
+  - '[Mastering Executive-Level Data Analytics](../../Paths/Data%20Science/Learning%20Paths/Mastering%20Executive-Level%20Data%20Analytics.md)'
+  - '[Build Your Analytical Skills with Statistical Analysis](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Analytical%20Skills%20with%20Statistical%20Analysis.md)'
+  - '[Moving from Data Analyst to Data Scientist](../../Paths/Data%20Science/Learning%20Paths/Moving%20from%20Data%20Analyst%20to%20Data%20Scientist.md)'
+  - '[Become a Data Analytics Specialist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Analytics%20Specialist.md)'
+  - '[Anaconda Python for Data Science Professional Certificate](../../Paths/Data%20Science/Professional%20Certificates/Anaconda%20Python%20for%20Data%20Science%20Professional%20Certificate.md)'
+  - '[Master Excel for Data Science](../../Paths/Data%20Science/Learning%20Paths/Master%20Excel%20for%20Data%20Science.md)'
+  - '[Become a Data Scientist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Scientist.md)'
 prev_courses:
-  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
+  - '[Data Literacy Exploring And Describing Data In An Ai World](Data%20Literacy%20Exploring%20And%20Describing%20Data%20In%20An%20Ai%20World.md)'
   - null
-  - '[[Data Science Foundations- Fundamentals]]'
-  - '[[Data Literacy Exploring And Describing Data In An Ai World]]'
-  - '[[Learning Data Governance]]'
+  - '[Data Science Foundations- Fundamentals](Data%20Science%20Foundations-%20Fundamentals.md)'
+  - '[Data Literacy Exploring And Describing Data In An Ai World](Data%20Literacy%20Exploring%20And%20Describing%20Data%20In%20An%20Ai%20World.md)'
+  - '[Learning Data Governance](Learning%20Data%20Governance.md)'
   - null
-  - '[[Basics of Data Visualization Analysis]]'
-  - '[[Data Analytics- Dashboards vs. Data Stories]]'
-  - '[[Introduction to Data Science]]'
+  - '[Basics of Data Visualization Analysis](Basics%20of%20Data%20Visualization%20Analysis.md)'
+  - '[Data Analytics- Dashboards vs. Data Stories](Data%20Analytics-%20Dashboards%20vs.%20Data%20Stories.md)'
+  - '[Introduction to Data Science](Introduction%20to%20Data%20Science.md)'
   - null
-  - '[[Data Science Foundations- Fundamentals]]'
+  - '[Data Science Foundations- Fundamentals](Data%20Science%20Foundations-%20Fundamentals.md)'
 next_courses:
-  - '[[Statistics Foundations 2- Probability]]'
-  - '[[Statistics Foundations 2- Probability]]'
-  - '[[Statistics Foundations 2- Probability]]'
-  - '[[Statistics Foundations 2- Probability]]'
-  - '[[Data Science Foundations- Fundamentals]]'
-  - '[[Statistics Foundations 2- Probability]]'
-  - '[[Statistics Foundations 2- Probability]]'
-  - '[[Statistics Foundations 2- Probability]]'
-  - '[[Statistics Foundations 3- Using Data Sets]]'
-  - '[[Complete Guide to Excel Statistics with Copilot]]'
-  - '[[Statistics Foundations 2- Probability]]'
+  - '[Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md)'
+  - '[Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md)'
+  - '[Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md)'
+  - '[Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md)'
+  - '[Data Science Foundations- Fundamentals](Data%20Science%20Foundations-%20Fundamentals.md)'
+  - '[Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md)'
+  - '[Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md)'
+  - '[Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md)'
+  - '[Statistics Foundations 3- Using Data Sets](Statistics%20Foundations%203-%20Using%20Data%20Sets.md)'
+  - '[Complete Guide to Excel Statistics with Copilot](Complete%20Guide%20to%20Excel%20Statistics%20with%20Copilot.md)'
+  - '[Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md)'
 path_nav: '[{"path":"Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation","position":2,"total":9,"prev":"Data Literacy Exploring And Describing Data In An Ai World","next":"Statistics Foundations 2- Probability"},{"path":"Statistics Foundations Professional Certificate by Wolfram Research","position":1,"total":7,"prev":null,"next":"Statistics Foundations 2- Probability"},{"path":"Explore a Career in Data Analysis","position":3,"total":6,"prev":"Data Science Foundations- Fundamentals","next":"Statistics Foundations 2- Probability"},{"path":"Develop Your Data Analysis Skills","position":2,"total":10,"prev":"Data Literacy Exploring And Describing Data In An Ai World","next":"Statistics Foundations 2- Probability"},{"path":"Mastering Executive-Level Data Analytics","position":2,"total":7,"prev":"Learning Data Governance","next":"Data Science Foundations- Fundamentals"},{"path":"Build Your Analytical Skills with Statistical Analysis","position":1,"total":4,"prev":null,"next":"Statistics Foundations 2- Probability"},{"path":"Moving from Data Analyst to Data Scientist","position":5,"total":11,"prev":"Basics of Data Visualization Analysis","next":"Statistics Foundations 2- Probability"},{"path":"Become a Data Analytics Specialist","position":6,"total":10,"prev":"Data Analytics- Dashboards vs. Data Stories","next":"Statistics Foundations 2- Probability"},{"path":"Anaconda Python for Data Science Professional Certificate","position":2,"total":5,"prev":"Introduction to Data Science","next":"Statistics Foundations 3- Using Data Sets"},{"path":"Master Excel for Data Science","position":1,"total":7,"prev":null,"next":"Complete Guide to Excel Statistics with Copilot"},{"path":"Become a Data Scientist","position":5,"total":11,"prev":"Data Science Foundations- Fundamentals","next":"Statistics Foundations 2- Probability"}]'
 path_count: 11
 tags:
@@ -105,11 +105,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=1)** - [[Data-driven Decision Making]], [[Statistical Analysis]], it's all become an important part of life as we know it. As we navigate our world of business, science, politics, sports, and pandemics, [[Statistics]] is the foundation for making good decisions built on data. So many people, devices, and events, the data piles up. Understanding how to describe the data by finding its middle, its edges, and then telling the story of data in pictures is vital for our personal understanding and also to help others understand. In this course, I'll show you how to deal with basic statistics. We're going to talk about some things you've heard of, like means, medians, and standard deviations. Plus, we'll talk about more in-depth topics, like normal distributions, the empirical rule, and outliers. Together, all of these tools will help you better understand your data set. This particular course isn't complex or nuanced, but it should get you thinking in the language of statistics, and then you'll be able to turn that knowledge into [[Decision-Making]] ability. Ready to dive into some stats? Good, let's get to it.
+> **[0:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=1)** - [Data-driven Decision Making](../../Skills/Data%20Science/Data-driven%20Decision%20Making.md), [Statistical Analysis](../../Skills/Data%20Science/Statistical%20Analysis.md), it's all become an important part of life as we know it. As we navigate our world of business, science, politics, sports, and pandemics, [Statistics](../../Skills/Data%20Science/Statistics.md) is the foundation for making good decisions built on data. So many people, devices, and events, the data piles up. Understanding how to describe the data by finding its middle, its edges, and then telling the story of data in pictures is vital for our personal understanding and also to help others understand. In this course, I'll show you how to deal with basic statistics. We're going to talk about some things you've heard of, like means, medians, and standard deviations. Plus, we'll talk about more in-depth topics, like normal distributions, the empirical rule, and outliers. Together, all of these tools will help you better understand your data set. This particular course isn't complex or nuanced, but it should get you thinking in the language of statistics, and then you'll be able to turn that knowledge into [Decision-Making](../../Skills/Data%20Science/Decision-Making.md) ability. Ready to dive into some stats? Good, let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), [[Data-driven Decision Making]] (1), [[Statistical Analysis]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [Statistics](../../Skills/Data%20Science/Statistics.md) (3), [Data-driven Decision Making](../../Skills/Data%20Science/Data-driven%20Decision%20Making.md) (1), [Statistical Analysis](../../Skills/Data%20Science/Statistical%20Analysis.md) (1), [Decision-Making](../../Skills/Data%20Science/Decision-Making.md) (1)
 > **Speakers:** - data (1)
 
 
@@ -121,24 +121,24 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=1)** - We live in a world of data. It's everywhere, and new data are generated every second. Every time we buy a product, [[Google]] something, vote in an election, or watch a show on Netflix, we create data. All of that data is collected and stored, but what does it look like? For many people, data looks like an intimidating, if not meaningless jumble of numbers, but with the use of charts, graphs, and tables, the meaning of the data becomes more clear and the data begins to tell a story. Your favorite stories might be in novels, comic books, or movies. In the world of [[Statistics]], stories are illustrated with charts, graphs, and tables. They illustrate dominance. They reveal change. They help us organize. More importantly, they can educate and empower us. And the more we know, the more curious we become, and this is what drives us to look more deeply at the data we have, or it might motivate us to gather better data sets in the future. Whether you're trying to learn, decide, persuade, charts, graphs, and tables will be the tools used to write your statistics story.
+> **[0:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=1)** - We live in a world of data. It's everywhere, and new data are generated every second. Every time we buy a product, [Google](../../Glossary/Service/Google.md) something, vote in an election, or watch a show on Netflix, we create data. All of that data is collected and stored, but what does it look like? For many people, data looks like an intimidating, if not meaningless jumble of numbers, but with the use of charts, graphs, and tables, the meaning of the data becomes more clear and the data begins to tell a story. Your favorite stories might be in novels, comic books, or movies. In the world of [Statistics](../../Skills/Data%20Science/Statistics.md), stories are illustrated with charts, graphs, and tables. They illustrate dominance. They reveal change. They help us organize. More importantly, they can educate and empower us. And the more we know, the more curious we become, and this is what drives us to look more deeply at the data we have, or it might motivate us to gather better data sets in the future. Whether you're trying to learn, decide, persuade, charts, graphs, and tables will be the tools used to write your statistics story.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [Statistics](../../Skills/Data%20Science/Statistics.md) (2), [Google](../../Glossary/Service/Google.md) (1)
 > **Speakers:** - we (1)
 
 #### [Data and chart examples](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/data-and-chart-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/data-and-chart-examples?u=76281980&t=0)** - [Instructor] Let's look at some [[Statistics]] tools we can use to illustrate our datasets. I'm in the exercise file 01_02. Suppose we have a collection of data related to a group of 50 college students. In the table, we can display all of the weights of these students in pounds from heaviest to lightest. That's sort of interesting. We could also create a table that reports the frequency of each weight. We had six at 170 pounds, and only one at 130 pounds. It's a bit easier to digest than the table with all the individual data points. If you want to see each individual data point, the data plot might be what you're looking for. Much more appealing than a list of numbers, I can see numbers in the dots. If the dot plot is still too overwhelming, put the data into 10-pound intervals. And then turn that into an appealing bar chart, which we call a histogram. The 50 data points, they're all in there. On this table, I've added a column that provides the frequency of each interval in percentages. And here's that data as a relative frequency histogram. Weight intervals to find each separate bar, the height of the bar indicates the relative frequency. Or, if you prefer, we can take the same data and throw it into a pie chart. Each slice gives us an indication of the percentage of students in each category. Next time you look at a chart or table, don't get intimidated, and don't look for the right answer. Read it like a story.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/data-and-chart-examples?u=76281980&t=0)** - [Instructor] Let's look at some [Statistics](../../Skills/Data%20Science/Statistics.md) tools we can use to illustrate our datasets. I'm in the exercise file 01_02. Suppose we have a collection of data related to a group of 50 college students. In the table, we can display all of the weights of these students in pounds from heaviest to lightest. That's sort of interesting. We could also create a table that reports the frequency of each weight. We had six at 170 pounds, and only one at 130 pounds. It's a bit easier to digest than the table with all the individual data points. If you want to see each individual data point, the data plot might be what you're looking for. Much more appealing than a list of numbers, I can see numbers in the dots. If the dot plot is still too overwhelming, put the data into 10-pound intervals. And then turn that into an appealing bar chart, which we call a histogram. The 50 data points, they're all in there. On this table, I've added a column that provides the frequency of each interval in percentages. And here's that data as a relative frequency histogram. Weight intervals to find each separate bar, the height of the bar indicates the relative frequency. Or, if you prefer, we can take the same data and throw it into a pie chart. Each slice gives us an indication of the percentage of students in each category. Next time you look at a chart or table, don't get intimidated, and don't look for the right answer. Read it like a story.
 >
 > **[1:33](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/data-and-chart-examples?u=76281980&t=93)** Think about what it means to you and embrace your questions as an opportunity to open a discussion about the data and the decisions it might provoke.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1)
+> **Frameworks & Libraries:** [Statistics](../../Skills/Data%20Science/Statistics.md) (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -152,13 +152,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980&t=0)** - Every new set of data is filled with mystery. You have no idea what it contains. Somewhere inside the data is a story. Every time I get a data set, I wonder what kind of story will this tell? Will it told me something odd, something interesting, or something that's common knowledge? So, how do you begin to unravel the story? Well, when we read a book, we start at the beginning, but with a dataset, we start in the middle, literally. It makes sense. Wouldn't it be nice to know the middle or center of that data, especially if our data set has thousands or even millions of data points? Knowing the center of the data would seem to give us some balance and a really nice starting point. Let's take these two data points points, 2 and 4. Where's the middle? Halfway between them seems about right. So it's 3. Our two data points are equally far away or equidistant from 3. But how about when you have three data points: 1, 2, and 6? Where's the middle? Is it the middle value, 2? Maybe the average of the three numbers? Well, that would be 3, huh? And what happens when we have thousands of data points in our data set? Where's the middle now? In world of [[Statistics]],
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980&t=0)** - Every new set of data is filled with mystery. You have no idea what it contains. Somewhere inside the data is a story. Every time I get a data set, I wonder what kind of story will this tell? Will it told me something odd, something interesting, or something that's common knowledge? So, how do you begin to unravel the story? Well, when we read a book, we start at the beginning, but with a dataset, we start in the middle, literally. It makes sense. Wouldn't it be nice to know the middle or center of that data, especially if our data set has thousands or even millions of data points? Knowing the center of the data would seem to give us some balance and a really nice starting point. Let's take these two data points points, 2 and 4. Where's the middle? Halfway between them seems about right. So it's 3. Our two data points are equally far away or equidistant from 3. But how about when you have three data points: 1, 2, and 6? Where's the middle? Is it the middle value, 2? Maybe the average of the three numbers? Well, that would be 3, huh? And what happens when we have thousands of data points in our data set? Where's the middle now? In world of [Statistics](../../Skills/Data%20Science/Statistics.md),
 >
 > **[1:32](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980&t=92)** we often use three tools to help us understand the center of our data. First, the mean, which is the average of all the numbers in the data set. That's simply the sum of all the numbers divided by the count of the numbers. Second, the median, the middle value in the data set. Half the data points are bigger than the median, the other half are smaller. To determine the median, you do need to arrange all the numbers in order from lowest to highest or vice versa. Third, we have the mode. That's the most common number in the data set. It's a nice to know number, but I wouldn't make too many predictions based on just the mode. By looking at some simple data sets, we can practice finding the center of our data set, and thus start to discover the story. Let's do that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1)
+> **Frameworks & Libraries:** [Statistics](../../Skills/Data%20Science/Statistics.md) (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - every (1)
@@ -183,13 +183,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/special-circumstances?u=76281980&t=0)** - [Instructor] Mean, median, and mode, they're all helpful in understanding a data set, and they're all fairly easy to find or calculate. So, let's look at another data set to test our emerging [[Statistics]] skills. Here's a bigger dataset. I'm an exercise file 02_03_Begin. A professor gave an exam to her class. These are the 20 exam scores. First, let's find the mode. If you look through the data set, you'll notice that no two students earned the same score, therefore, this data set does not have a mode. In case you were wondering what would happen if two students had a 90 and another two students had an 80, in that case, the data set would have two modes. This type of data set would be referred to as bimodal. So yes, a data set can have one mode, multiple modes, or as we saw in our data set, no mode at all. Next, let's find the median. Notice there are 20 values in our data set. So the middle value is the quantity n plus 1 divided by 2. N is the number of values in our data set, 20, and 20 plus 1 divided by 2 is 10.5. What does that mean? Well, because we have an even number of values. There's not a true middle value. So the 10.5 is telling us to find the 10th and 11th values. In this case, those are 75 and 76. We then take the average of the two values,
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/special-circumstances?u=76281980&t=0)** - [Instructor] Mean, median, and mode, they're all helpful in understanding a data set, and they're all fairly easy to find or calculate. So, let's look at another data set to test our emerging [Statistics](../../Skills/Data%20Science/Statistics.md) skills. Here's a bigger dataset. I'm an exercise file 02_03_Begin. A professor gave an exam to her class. These are the 20 exam scores. First, let's find the mode. If you look through the data set, you'll notice that no two students earned the same score, therefore, this data set does not have a mode. In case you were wondering what would happen if two students had a 90 and another two students had an 80, in that case, the data set would have two modes. This type of data set would be referred to as bimodal. So yes, a data set can have one mode, multiple modes, or as we saw in our data set, no mode at all. Next, let's find the median. Notice there are 20 values in our data set. So the middle value is the quantity n plus 1 divided by 2. N is the number of values in our data set, 20, and 20 plus 1 divided by 2 is 10.5. What does that mean? Well, because we have an even number of values. There's not a true middle value. So the 10.5 is telling us to find the 10th and 11th values. In this case, those are 75 and 76. We then take the average of the two values,
 >
 > **[1:32](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/special-circumstances?u=76281980&t=92)** the average of 75 and 76 is 75.5. So the median for this data set is 75.5. Half the students got below 75.5 on the exam, the other half got above 75.5 on the exam. Finally, let's find the mean for this data set. This would be the average of all 20 values. The sum of our 20 values is 1440, we have 20 values, our mean is 72, which is lower than the median of 75.5. Again, since our data set is relatively small, we can see why this is happening. Two students did significantly worse on the exam when compared to the other 18 students They got a 20 and a 27. Those two very low grades pulled down the average for the entire class. But if a student were to complain that the exam was too difficult, the professor might point to the median. While 72 may seem like a low average, over half the class got 75.5 on the exam. Additionally, the instructor may want to contact the two students to see why their scores were so much lower than the other 18 students. Means, medians, and modes. Find some data at work or on a sports site or on a business news site, and see if you can start to find the means, medians, and modes in your data set.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1)
+> **Frameworks & Libraries:** [Statistics](../../Skills/Data%20Science/Statistics.md) (1)
 > **Versions:** 75.5 (6), 10.5 (2)
 > **CLI Commands:** find (7)
 > **Cross-References:** as we saw (1)
@@ -231,13 +231,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/standard-deviation?u=76281980&t=0)** - A dataset is a collection of data points. We've seen that, together, these data points have a mean, median and mode. And we've also just seen that those data points have a standard deviation and a range. All of those tools helped us define the collective, tell a story. But how can we define each individual data point within the data set? For example, the dataset has a mean of 139 pounds, and a standard deviation of 41 pounds. The data set has a pretty [[Big Data]] point of 231 pounds. Other than saying it's a very big data point, or that it's 92 pounds above the mean, how else can we describe how big this data point is inside of this dataset? Well, we can describe individual data points by their distance from the mean by using the standard deviation. We refer to this as a data point's Z score. To find a Z score, we use this formula. As you can see, all you need is the dataset's mean and standard deviation. Then, all you do is plug in one of the values in the dataset. Let's try it. For this dataset, we have a mean of 139, and a standard deviation of 41. Let's plug in the largest value in the dataset, 231. 231 minus 139, and we divide by 41.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/standard-deviation?u=76281980&t=0)** - A dataset is a collection of data points. We've seen that, together, these data points have a mean, median and mode. And we've also just seen that those data points have a standard deviation and a range. All of those tools helped us define the collective, tell a story. But how can we define each individual data point within the data set? For example, the dataset has a mean of 139 pounds, and a standard deviation of 41 pounds. The data set has a pretty [Big Data](../../Skills/Data%20Science/Big%20Data.md) point of 231 pounds. Other than saying it's a very big data point, or that it's 92 pounds above the mean, how else can we describe how big this data point is inside of this dataset? Well, we can describe individual data points by their distance from the mean by using the standard deviation. We refer to this as a data point's Z score. To find a Z score, we use this formula. As you can see, all you need is the dataset's mean and standard deviation. Then, all you do is plug in one of the values in the dataset. Let's try it. For this dataset, we have a mean of 139, and a standard deviation of 41. Let's plug in the largest value in the dataset, 231. 231 minus 139, and we divide by 41.
 >
 > **[1:41](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/standard-deviation?u=76281980&t=101)** So, this data point has a Z score of 2.24. That means 231 is 2.24 standard deviations from the mean in the positive direction. Let's find the Z score for another value in our dataset, 112. Same formula. Now, it's 112 minus our mean, 139. And we divide by the standard deviation, 41. Notice what happens here. Our Z score is negative. Negative 0.66, which makes sense since 112 is smaller than our mean value, 139. Also, negative 0.66 indicates that this data point, 112, is relatively close to the mean, 139. So, we just discovered that one of the data points we chose had a Z score of 2.24. The other had a Z score of negative 0.66. And now you have a decent idea of how the Z score tells you a bit more about an individual data point and its relationship to the mean. Next, let's take a deeper look at standard deviation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (2)
+> **Frameworks & Libraries:** [Big Data](../../Skills/Data%20Science/Big%20Data.md) (2)
 > **Versions:** 2.24 (3), 0.66 (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
@@ -266,11 +266,11 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/big-and-small-standard-deviation?u=76281980&t=1)** - [Narrator] One dataset has a standard deviation of 20. Another, a standard deviation of 200. Which of these datasets has less variation? The answer is that it really depends. First, consider what you're actually measuring. A standard deviation of 20 degrees Celsius for daily high temperatures in Paris for one summer, it'd be huge. But a standard deviation of $200 for the annual salaries of teachers across the country would not be as significant. In those examples, we were considering the dataset as a whole. But standard deviation is also used to investigate individual data points. For example, suppose a data scientist has an annual salary of $200,000. But the mean is $100,000, and the standard deviation is $50,000. We might say that they are two standard deviations above the mean. A data scientist that makes $50,000 per year is one standard deviation below the mean. As you can see, standard deviation can be a very helpful tool in understanding datasets and their individual data points, and most importantly, how those data points relate to the central tendency. Standard deviation will help us
 >
-> **[1:34](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/big-and-small-standard-deviation?u=76281980&t=94)** generate interesting questions about the [[Data Collection]] methods, the entire pool of data, and even the individual points of data.
+> **[1:34](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/big-and-small-standard-deviation?u=76281980&t=94)** generate interesting questions about the [Data Collection](../../Skills/Data%20Science/Data%20Collection.md) methods, the entire pool of data, and even the individual points of data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Collection]] (1)
+> **Frameworks & Libraries:** [Data Collection](../../Skills/Data%20Science/Data%20Collection.md) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
@@ -294,15 +294,15 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=1)** - Nowadays, we hear the term outlier quite a bit. Often, it's used to describe some strange outcome. For example, a normal resting heart rate is between 60 and 100. One patient has a resting heart rate of 40, 20 beats lower than the expected range. Doctors might consider that an outlier. A 12-year-old child that graduates from college with honors, 10 years before most people. Most would say that that kid is an outlier. And consider this. Someone has a resting heart rate of 53. That's only seven beats below the expected range. Or if someone graduates college at 19, three years earlier than most. I guess what I'm asking is what exactly makes something an outlier? Most disciplines that count on [[Statistics]] say that an outlier is a data point that is an abnormal distance from the other values in the dataset. But what's abnormal? Believe it or not, there is no singular definition of abnormal in the world of statistics. So the whole concept of outliers is inexact. In fact, these rogue or distant data points are topics of discussion. Take this data set. This data point is very different from the others. It really stands out. Should we just label it an outlier because it looks so different in a chart or on a graph?
+> **[0:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=1)** - Nowadays, we hear the term outlier quite a bit. Often, it's used to describe some strange outcome. For example, a normal resting heart rate is between 60 and 100. One patient has a resting heart rate of 40, 20 beats lower than the expected range. Doctors might consider that an outlier. A 12-year-old child that graduates from college with honors, 10 years before most people. Most would say that that kid is an outlier. And consider this. Someone has a resting heart rate of 53. That's only seven beats below the expected range. Or if someone graduates college at 19, three years earlier than most. I guess what I'm asking is what exactly makes something an outlier? Most disciplines that count on [Statistics](../../Skills/Data%20Science/Statistics.md) say that an outlier is a data point that is an abnormal distance from the other values in the dataset. But what's abnormal? Believe it or not, there is no singular definition of abnormal in the world of statistics. So the whole concept of outliers is inexact. In fact, these rogue or distant data points are topics of discussion. Take this data set. This data point is very different from the others. It really stands out. Should we just label it an outlier because it looks so different in a chart or on a graph?
 >
-> **[1:36](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=96)** We could. Some people like to establish rules, though. For example, anything more than two standard deviations from the mean is an outlier. Still, in other cases, an outlier is just something new or unprecedented, like a 25% one-day drop in the stock market. Now that we have defined an outlier, what should we do with an outlier? Ignore it as an abnormal event? In general, I would say no. Unfortunately, some consider outliers as events that are not likely to be seen again. They prefer to ignore the outlier. To them, it's not worth investigating something so odd. But others, they see them as opportunities to learn. Maybe a strange and unexpected event is the beginning of a new trend. Will this odd event motivate a massive change in behavior? In the case of a great athletic feat, maybe this person knows something others haven't figured out yet. Perhaps strange weather aided their attempt. Did they trained differently? Did they use different equipment or technology? As you encounter potential outliers in your data at the [[Microsoft Office|office]], or even in your hobbies, ask good questions. Is this really an outlier? How did this happen? What can we learn? What needs to change?
+> **[1:36](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=96)** We could. Some people like to establish rules, though. For example, anything more than two standard deviations from the mean is an outlier. Still, in other cases, an outlier is just something new or unprecedented, like a 25% one-day drop in the stock market. Now that we have defined an outlier, what should we do with an outlier? Ignore it as an abnormal event? In general, I would say no. Unfortunately, some consider outliers as events that are not likely to be seen again. They prefer to ignore the outlier. To them, it's not worth investigating something so odd. But others, they see them as opportunities to learn. Maybe a strange and unexpected event is the beginning of a new trend. Will this odd event motivate a massive change in behavior? In the case of a great athletic feat, maybe this person knows something others haven't figured out yet. Perhaps strange weather aided their attempt. Did they trained differently? Did they use different equipment or technology? As you encounter potential outliers in your data at the [office](../../Skills/Web%20Development/Microsoft%20Office.md), or even in your hobbies, ask good questions. Is this really an outlier? How did this happen? What can we learn? What needs to change?
 >
 > **[3:09](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=189)** A mass of closely distributed data points can be very instructive, but sometimes the lone outlier can provide us with a brand new perspective.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [Statistics](../../Skills/Data%20Science/Statistics.md) (2), [Office](../../Skills/Web%20Development/Microsoft%20Office.md) (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - nowadays (1)
@@ -316,18 +316,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980&t=0)** - Thank you for spending some time with me and learning a little bit more about elementary [[Statistics]]. I want to let you know that there's a part two to this course that covers [[Probability]] in depth. Please check that out as well. Learning stats is definitely a long journey, and there's so much more complexity than what I've presented here today. However, this is a good starting point. I encourage you to continue moving forward with your statistics education, and perhaps you can become a stats savant, or perhaps you can become the outlier.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980&t=0)** - Thank you for spending some time with me and learning a little bit more about elementary [Statistics](../../Skills/Data%20Science/Statistics.md). I want to let you know that there's a part two to this course that covers [Probability](../../Skills/Data%20Science/Probability.md) in depth. Please check that out as well. Learning stats is definitely a long journey, and there's so much more complexity than what I've presented here today. However, this is a good starting point. I encourage you to continue moving forward with your statistics education, and perhaps you can become a stats savant, or perhaps you can become the outlier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [Statistics](../../Skills/Data%20Science/Statistics.md) (2), [Probability](../../Skills/Data%20Science/Probability.md) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - thank (1)
 
 
 ## Instructor
 
-- [[Eddie Davila]]
+- [Eddie Davila](../../Instructors/Data%20Science/Eddie%20Davila.md)
 
 ## Resources
 
@@ -339,65 +339,65 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]
-← [[Data Literacy Exploring And Describing Data In An Ai World]] | **2 of 9** | [[Statistics Foundations 2- Probability]] →
+### In [Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation](../../Paths/Data%20Science/Learning%20Paths/Introduction%20to%20Fundamental%20Skills%20for%20Data%20Work-%20Data%20Analysis%20and%20Interpretation.md)
+← [Data Literacy Exploring And Describing Data In An Ai World](Data%20Literacy%20Exploring%20And%20Describing%20Data%20In%20An%20Ai%20World.md) | **2 of 9** | [Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md) →
 
-### In [[Statistics Foundations Professional Certificate by Wolfram Research]]
-**1 of 7** | [[Statistics Foundations 2- Probability]] →
+### In [Statistics Foundations Professional Certificate by Wolfram Research](../../Paths/Data%20Science/Professional%20Certificates/Statistics%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.md)
+**1 of 7** | [Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md) →
 
-### In [[Explore a Career in Data Analysis]]
-← [[Data Science Foundations- Fundamentals]] | **3 of 6** | [[Statistics Foundations 2- Probability]] →
+### In [Explore a Career in Data Analysis](../../Paths/Data%20Science/Learning%20Paths/Explore%20a%20Career%20in%20Data%20Analysis.md)
+← [Data Science Foundations- Fundamentals](Data%20Science%20Foundations-%20Fundamentals.md) | **3 of 6** | [Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md) →
 
-### In [[Develop Your Data Analysis Skills]]
-← [[Data Literacy Exploring And Describing Data In An Ai World]] | **2 of 10** | [[Statistics Foundations 2- Probability]] →
+### In [Develop Your Data Analysis Skills](../../Paths/Data%20Science/Learning%20Paths/Develop%20Your%20Data%20Analysis%20Skills.md)
+← [Data Literacy Exploring And Describing Data In An Ai World](Data%20Literacy%20Exploring%20And%20Describing%20Data%20In%20An%20Ai%20World.md) | **2 of 10** | [Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md) →
 
-### In [[Mastering Executive-Level Data Analytics]]
-← [[Learning Data Governance]] | **2 of 7** | [[Data Science Foundations- Fundamentals]] →
+### In [Mastering Executive-Level Data Analytics](../../Paths/Data%20Science/Learning%20Paths/Mastering%20Executive-Level%20Data%20Analytics.md)
+← [Learning Data Governance](Learning%20Data%20Governance.md) | **2 of 7** | [Data Science Foundations- Fundamentals](Data%20Science%20Foundations-%20Fundamentals.md) →
 
-### In [[Build Your Analytical Skills with Statistical Analysis]]
-**1 of 4** | [[Statistics Foundations 2- Probability]] →
+### In [Build Your Analytical Skills with Statistical Analysis](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Analytical%20Skills%20with%20Statistical%20Analysis.md)
+**1 of 4** | [Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md) →
 
-### In [[Moving from Data Analyst to Data Scientist]]
-← [[Basics of Data Visualization Analysis]] | **5 of 11** | [[Statistics Foundations 2- Probability]] →
+### In [Moving from Data Analyst to Data Scientist](../../Paths/Data%20Science/Learning%20Paths/Moving%20from%20Data%20Analyst%20to%20Data%20Scientist.md)
+← [Basics of Data Visualization Analysis](Basics%20of%20Data%20Visualization%20Analysis.md) | **5 of 11** | [Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md) →
 
-### In [[Become a Data Analytics Specialist]]
-← [[Data Analytics- Dashboards vs. Data Stories]] | **6 of 10** | [[Statistics Foundations 2- Probability]] →
+### In [Become a Data Analytics Specialist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Analytics%20Specialist.md)
+← [Data Analytics- Dashboards vs. Data Stories](Data%20Analytics-%20Dashboards%20vs.%20Data%20Stories.md) | **6 of 10** | [Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md) →
 
-### In [[Anaconda Python for Data Science Professional Certificate]]
-← [[Introduction to Data Science]] | **2 of 5** | [[Statistics Foundations 3- Using Data Sets]] →
+### In [Anaconda Python for Data Science Professional Certificate](../../Paths/Data%20Science/Professional%20Certificates/Anaconda%20Python%20for%20Data%20Science%20Professional%20Certificate.md)
+← [Introduction to Data Science](Introduction%20to%20Data%20Science.md) | **2 of 5** | [Statistics Foundations 3- Using Data Sets](Statistics%20Foundations%203-%20Using%20Data%20Sets.md) →
 
-### In [[Master Excel for Data Science]]
-**1 of 7** | [[Complete Guide to Excel Statistics with Copilot]] →
+### In [Master Excel for Data Science](../../Paths/Data%20Science/Learning%20Paths/Master%20Excel%20for%20Data%20Science.md)
+**1 of 7** | [Complete Guide to Excel Statistics with Copilot](Complete%20Guide%20to%20Excel%20Statistics%20with%20Copilot.md) →
 
-### In [[Become a Data Scientist]]
-← [[Data Science Foundations- Fundamentals]] | **5 of 11** | [[Statistics Foundations 2- Probability]] →
+### In [Become a Data Scientist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Scientist.md)
+← [Data Science Foundations- Fundamentals](Data%20Science%20Foundations-%20Fundamentals.md) | **5 of 11** | [Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md) →
 
 ## Part of
 
-- [[Statistics Foundations Professional Certificate by Wolfram Research]]
-- [[Anaconda Python for Data Science Professional Certificate]]
+- [Statistics Foundations Professional Certificate by Wolfram Research](../../Paths/Data%20Science/Professional%20Certificates/Statistics%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.md)
+- [Anaconda Python for Data Science Professional Certificate](../../Paths/Data%20Science/Professional%20Certificates/Anaconda%20Python%20for%20Data%20Science%20Professional%20Certificate.md)
 
 ## Appears In
 
-- [[Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation]]
-- [[Statistics Foundations Professional Certificate by Wolfram Research]]
-- [[Explore a Career in Data Analysis]]
-- [[Develop Your Data Analysis Skills]]
-- [[Mastering Executive-Level Data Analytics]]
-- [[Build Your Analytical Skills with Statistical Analysis]]
-- [[Moving from Data Analyst to Data Scientist]]
-- [[Become a Data Analytics Specialist]]
-- [[Anaconda Python for Data Science Professional Certificate]]
-- [[Master Excel for Data Science]]
-- [[Become a Data Scientist]]
+- [Introduction to Fundamental Skills for Data Work- Data Analysis and Interpretation](../../Paths/Data%20Science/Learning%20Paths/Introduction%20to%20Fundamental%20Skills%20for%20Data%20Work-%20Data%20Analysis%20and%20Interpretation.md)
+- [Statistics Foundations Professional Certificate by Wolfram Research](../../Paths/Data%20Science/Professional%20Certificates/Statistics%20Foundations%20Professional%20Certificate%20by%20Wolfram%20Research.md)
+- [Explore a Career in Data Analysis](../../Paths/Data%20Science/Learning%20Paths/Explore%20a%20Career%20in%20Data%20Analysis.md)
+- [Develop Your Data Analysis Skills](../../Paths/Data%20Science/Learning%20Paths/Develop%20Your%20Data%20Analysis%20Skills.md)
+- [Mastering Executive-Level Data Analytics](../../Paths/Data%20Science/Learning%20Paths/Mastering%20Executive-Level%20Data%20Analytics.md)
+- [Build Your Analytical Skills with Statistical Analysis](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Analytical%20Skills%20with%20Statistical%20Analysis.md)
+- [Moving from Data Analyst to Data Scientist](../../Paths/Data%20Science/Learning%20Paths/Moving%20from%20Data%20Analyst%20to%20Data%20Scientist.md)
+- [Become a Data Analytics Specialist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Analytics%20Specialist.md)
+- [Anaconda Python for Data Science Professional Certificate](../../Paths/Data%20Science/Professional%20Certificates/Anaconda%20Python%20for%20Data%20Science%20Professional%20Certificate.md)
+- [Master Excel for Data Science](../../Paths/Data%20Science/Learning%20Paths/Master%20Excel%20for%20Data%20Science.md)
+- [Become a Data Scientist](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Data%20Scientist.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Complete Guide to Excel Statistics with Copilot]] — Statistics
-- [[Python Statistics Essential Training]] — Statistics
-- [[Statistics Foundations 2- Probability]] — Statistics
+- [Complete Guide to Excel Statistics with Copilot](Complete%20Guide%20to%20Excel%20Statistics%20with%20Copilot.md) — Statistics
+- [Python Statistics Essential Training](../Software%20Development/Python%20Statistics%20Essential%20Training.md) — Statistics
+- [Statistics Foundations 2- Probability](Statistics%20Foundations%202-%20Probability.md) — Statistics
 
 ---
 

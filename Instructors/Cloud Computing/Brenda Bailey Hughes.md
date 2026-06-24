@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building Trust]]
-- [[Effective Listening (2019)]]
+- [Building Trust](../../Skills/Data%20Science/Building%20Trust.md)
+- [Effective Listening (2019)](../../Courses/Cloud%20Computing/Effective%20Listening%20(2019).md)

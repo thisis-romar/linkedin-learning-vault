@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[The Step-by-Step Guide to Building your Thought Leadership on LinkedIn]]
+- [The Step-by-Step Guide to Building your Thought Leadership on LinkedIn](../../Courses/Web%20Development/The%20Step-by-Step%20Guide%20to%20Building%20your%20Thought%20Leadership%20on%20LinkedIn.md)

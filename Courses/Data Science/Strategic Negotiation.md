@@ -14,11 +14,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQENYPyl_jM5gA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1572390176653?e=2147483647&amp;v=beta&amp;t=aPG9Vzvpxb0izWSlvE9f2HoQ7O6fTr9al-9ixv8Vhco"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[LinkedIn’s 2025 Top MBA Programs Learning Path]]'
+  - '[LinkedIn’s 2025 Top MBA Programs Learning Path](../../Paths/Data%20Science/Learning%20Paths/LinkedIn%E2%80%99s%202025%20Top%20MBA%20Programs%20Learning%20Path.md)'
 prev_courses:
-  - '[[Strategic Thinking]]'
+  - '[Strategic Thinking](../../Skills/Data%20Science/Strategic%20Thinking.md)'
 next_courses:
-  - '[[Strategic Financial Management in Corporations]]'
+  - '[Strategic Financial Management in Corporations](Strategic%20Financial%20Management%20in%20Corporations.md)'
 path_nav: '[{"path":"LinkedIn’s 2025 Top MBA Programs Learning Path","position":5,"total":10,"prev":"Strategic Thinking","next":"Strategic Financial Management in Corporations"}]'
 path_count: 1
 tags:
@@ -155,13 +155,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980&t=1)** - Having a good knowledge of the players and the positions they are going to take in any negotiation is going to set you up for success. There are four things you should consider about your opponent. First, who's involved in the negotiation and who ultimately makes the deal? By looking at all the parties who are going to have a say, you'll have a better understanding of what they want and what's important to them. Second, what are the must haves, the want to haves and the nice to haves? If you can list out all the things the other party wants to get out of the deal and understand what's most important to them and what's least important, it can inform your ultimate negotiating strategy. Third, what's your desired outcome from their perspective, and what happens if there's no deal? The other party has goals. You have to lay out what you think those goals are, and also understand if a deal goes away, how are they going to [[React.js|react]]? Last, what are the alternatives to the deal? You're not the only option out there. They may have other opportunities that they can pursue if the deal falls through with you. I was doing an acquisition once where it was a very complex deal, and we laid out the players and their positions very clearly. We understood who was involved. It was a family business,
+> **[0:01](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980&t=1)** - Having a good knowledge of the players and the positions they are going to take in any negotiation is going to set you up for success. There are four things you should consider about your opponent. First, who's involved in the negotiation and who ultimately makes the deal? By looking at all the parties who are going to have a say, you'll have a better understanding of what they want and what's important to them. Second, what are the must haves, the want to haves and the nice to haves? If you can list out all the things the other party wants to get out of the deal and understand what's most important to them and what's least important, it can inform your ultimate negotiating strategy. Third, what's your desired outcome from their perspective, and what happens if there's no deal? The other party has goals. You have to lay out what you think those goals are, and also understand if a deal goes away, how are they going to [react](../../Skills/Web%20Development/React.js.md)? Last, what are the alternatives to the deal? You're not the only option out there. They may have other opportunities that they can pursue if the deal falls through with you. I was doing an acquisition once where it was a very complex deal, and we laid out the players and their positions very clearly. We understood who was involved. It was a family business,
 >
 > **[1:34](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980&t=94)** so the full leadership team, the entire family was going to be involved and would have to approve the deal. Their must haves were price and that the team had stay on as part of the operations. Their wants were they wanted control over the operations, but they were willing to give that up in the deal, and the nice to have would've been a little bit of extra money. Their desired outcome was to make a deal, but also to remain independent or sell to one of our competitors if the deal fell through. We had clarity on what it would take to keep them engaged in that deal process, and what would get them to be willing to make concessions to us. Understanding the players and their positions is going to help you look at how they're coming at the deal and the points you should either push on or be willing to concede.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1)
+> **Frameworks & Libraries:** [React](../../Skills/Web%20Development/React.js.md) (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - having (1)
 
@@ -336,7 +336,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Mike Figliuolo]]
+- [Mike Figliuolo](../../Instructors/Data%20Science/Mike%20Figliuolo.md)
 
 ## Resources
 
@@ -348,12 +348,12 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[LinkedIn’s 2025 Top MBA Programs Learning Path]]
-← [[Strategic Thinking]] | **5 of 10** | [[Strategic Financial Management in Corporations]] →
+### In [LinkedIn’s 2025 Top MBA Programs Learning Path](../../Paths/Data%20Science/Learning%20Paths/LinkedIn%E2%80%99s%202025%20Top%20MBA%20Programs%20Learning%20Path.md)
+← [Strategic Thinking](../../Skills/Data%20Science/Strategic%20Thinking.md) | **5 of 10** | [Strategic Financial Management in Corporations](Strategic%20Financial%20Management%20in%20Corporations.md) →
 
 ## Appears In
 
-- [[LinkedIn’s 2025 Top MBA Programs Learning Path]]
+- [LinkedIn’s 2025 Top MBA Programs Learning Path](../../Paths/Data%20Science/Learning%20Paths/LinkedIn%E2%80%99s%202025%20Top%20MBA%20Programs%20Learning%20Path.md)
 
 ---
 

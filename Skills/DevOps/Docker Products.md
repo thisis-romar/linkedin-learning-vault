@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Docker- Your First Project]] — Intermediate · 59m · 148,763 learners
-- [[Docker Essential Training]] — Intermediate · 6h 6m · 148,526 learners
-- [[Introduction to Docker for Java Developers]] — Advanced · 1h 22m · 33,490 learners
-- [[Learning Docker Compose]] — Intermediate · 36m · 27,516 learners
-- [[Learning Docker]] — Beginner · 27,208 learners
+- [Docker- Your First Project](../../Courses/DevOps/Docker-%20Your%20First%20Project.md) — Intermediate · 59m · 148,763 learners
+- [Docker Essential Training](../../Courses/DevOps/Docker%20Essential%20Training.md) — Intermediate · 6h 6m · 148,526 learners
+- [Introduction to Docker for Java Developers](../../Courses/Data%20Science/Introduction%20to%20Docker%20for%20Java%20Developers.md) — Advanced · 1h 22m · 33,490 learners
+- [Learning Docker Compose](../../Courses/DevOps/Learning%20Docker%20Compose.md) — Intermediate · 36m · 27,516 learners
+- [Learning Docker](../../Courses/DevOps/Learning%20Docker.md) — Beginner · 27,208 learners
 
 ## Related Skills
 
-- [[Containerization]] — 1 shared course
-- [[Java]] — 1 shared course
+- [Containerization](Containerization.md) — 1 shared course
+- [Java](../Software%20Development/Java.md) — 1 shared course

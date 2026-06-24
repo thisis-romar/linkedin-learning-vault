@@ -30,4 +30,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[DevOps Foundations- Transforming the Enterprise]]
+- [DevOps Foundations- Transforming the Enterprise](../../Courses/DevOps/DevOps%20Foundations-%20Transforming%20the%20Enterprise.md)

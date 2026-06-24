@@ -17,23 +17,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Complete Guide To C Plus Plus Programming Foundations]]'
+  - course: '[Complete Guide To C Plus Plus Programming Foundations](../../../Courses/Software%20Development/Complete%20Guide%20To%20C%20Plus%20Plus%20Programming%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Introducing Functional Programming in C++]]'
+  - course: '[Introducing Functional Programming in C++](../../../Courses/Software%20Development/Introducing%20Functional%20Programming%20in%20C%2B%2B.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning C++]]'
+  - course: '[Learning C++](../../../Courses/Software%20Development/Learning%20C%2B%2B.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Web Servers and APIs using C++]]'
+  - course: '[Web Servers and APIs using C++](../../../Courses/Software%20Development/Web%20Servers%20and%20APIs%20using%20C%2B%2B.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Nail Your C++ Interview]]'
+  - course: '[Nail Your C++ Interview](../../../Courses/Software%20Development/Nail%20Your%20C%2B%2B%20Interview.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -48,26 +48,26 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Complete Guide To C Plus Plus Programming Foundations]]
-2. [[Introducing Functional Programming in C++]] _(1h 15m)_
-3. [[Learning C++]] _(3h 11m)_
-4. [[Web Servers and APIs using C++]] _(2h 49m)_
-5. [[Nail Your C++ Interview]] _(1h 2m)_
+1. [Complete Guide To C Plus Plus Programming Foundations](../../../Courses/Software%20Development/Complete%20Guide%20To%20C%20Plus%20Plus%20Programming%20Foundations.md)
+2. [Introducing Functional Programming in C++](../../../Courses/Software%20Development/Introducing%20Functional%20Programming%20in%20C%2B%2B.md) _(1h 15m)_
+3. [Learning C++](../../../Courses/Software%20Development/Learning%20C%2B%2B.md) _(3h 11m)_
+4. [Web Servers and APIs using C++](../../../Courses/Software%20Development/Web%20Servers%20and%20APIs%20using%20C%2B%2B.md) _(2h 49m)_
+5. [Nail Your C++ Interview](../../../Courses/Software%20Development/Nail%20Your%20C%2B%2B%20Interview.md) _(1h 2m)_
 
 ## Course Flow
 
-1. [[Complete Guide To C Plus Plus Programming Foundations]] → 2. [[Introducing Functional Programming in C++]] → 3. [[Learning C++]] → 4. [[Web Servers and APIs using C++]] → 5. [[Nail Your C++ Interview]]
+1. [Complete Guide To C Plus Plus Programming Foundations](../../../Courses/Software%20Development/Complete%20Guide%20To%20C%20Plus%20Plus%20Programming%20Foundations.md) → 2. [Introducing Functional Programming in C++](../../../Courses/Software%20Development/Introducing%20Functional%20Programming%20in%20C%2B%2B.md) → 3. [Learning C++](../../../Courses/Software%20Development/Learning%20C%2B%2B.md) → 4. [Web Servers and APIs using C++](../../../Courses/Software%20Development/Web%20Servers%20and%20APIs%20using%20C%2B%2B.md) → 5. [Nail Your C++ Interview](../../../Courses/Software%20Development/Nail%20Your%20C%2B%2B%20Interview.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Master C++]] (1 shared courses)
+- [Master C++](../../DevOps/Learning%20Paths/Master%20C%2B%2B.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

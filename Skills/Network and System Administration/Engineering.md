@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[MPLS- Traffic Engineering]] — Advanced · 2h 35m · 2,135 learners
+- [MPLS- Traffic Engineering](../../Courses/Network%20and%20System%20Administration/MPLS-%20Traffic%20Engineering.md) — Advanced · 2h 35m · 2,135 learners
 
 ## Related Skills
 
-- [[Traffic Engineering]] — 1 shared course
-- [[Telecommunications]] — 1 shared course
-- [[Computer Network Operations]] — 1 shared course
-- [[Multiprotocol Label Switching (MPLS)]] — 1 shared course
+- [Traffic Engineering](Traffic%20Engineering.md) — 1 shared course
+- [Telecommunications](Telecommunications.md) — 1 shared course
+- [Computer Network Operations](Computer%20Network%20Operations.md) — 1 shared course
+- [Multiprotocol Label Switching (MPLS)](Multiprotocol%20Label%20Switching%20(MPLS).md) — 1 shared course

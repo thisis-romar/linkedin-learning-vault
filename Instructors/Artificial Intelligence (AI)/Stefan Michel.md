@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Pricing for Products and Services]]
-- [[Leveraging AI for Small and Medium Business Growth]]
+- [Strategic Pricing for Products and Services](../../Courses/Data%20Science/Strategic%20Pricing%20for%20Products%20and%20Services.md)
+- [Leveraging AI for Small and Medium Business Growth](../../Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20for%20Small%20and%20Medium%20Business%20Growth.md)

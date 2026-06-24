@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Programming Foundations- Test-Driven Development]]
-- [[Software Design- From Requirements to Release]]
+- [Programming Foundations- Test-Driven Development](../../Courses/Software%20Development/Programming%20Foundations-%20Test-Driven%20Development.md)
+- [Software Design- From Requirements to Release](../../Courses/DevOps/Software%20Design-%20From%20Requirements%20to%20Release.md)

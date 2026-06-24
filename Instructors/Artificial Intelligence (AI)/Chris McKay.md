@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Integrating Generative AI into Business Strategy]]
+- [Integrating Generative AI into Business Strategy](../../Courses/Artificial%20Intelligence%20(AI)/Integrating%20Generative%20AI%20into%20Business%20Strategy.md)

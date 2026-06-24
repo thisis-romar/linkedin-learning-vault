@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Writing Great Content with Gen AI That Doesn't Sound Fake]]
+- [Writing Great Content with Gen AI That Doesn't Sound Fake](../../Courses/Artificial%20Intelligence%20(AI)/Writing%20Great%20Content%20with%20Gen%20AI%20That%20Doesn't%20Sound%20Fake.md)

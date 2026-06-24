@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leading A Marketing Team]] — Intermediate · 157,357 learners
+- [Leading A Marketing Team](../../Courses/Data%20Science/Leading%20A%20Marketing%20Team.md) — Intermediate · 157,357 learners
 
 ## Related Skills
 
-- [[Team Leadership]] — 1 shared course
+- [Team Leadership](../Software%20Development/Team%20Leadership.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Business Analysis for Busy Professionals]] — 1 mentions
+1. [Business Analysis for Busy Professionals](../../Courses/Data%20Science/Business%20Analysis%20for%20Busy%20Professionals.md) — 1 mentions

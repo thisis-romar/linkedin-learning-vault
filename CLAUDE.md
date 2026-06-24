@@ -56,7 +56,7 @@ This is an Obsidian knowledge vault generated from the LinkedIn Learning Technol
 - Transcripts in collapsible callouts: > [!transcript]- Transcript
 - Timestamp links: [M:SS](url?t=ms) deep-link to LinkedIn Learning video position
 - Course notes include path context navigation (prev/next) and jump links
-- Path and Topic notes end with a `Part of [[000 Map of Content]]` hub backlink
+- Path and Topic notes end with a `Part of [000 Map of Content](000%20Map%20of%20Content.md)` hub backlink
 - Do NOT create links to notes that don't exist unless asked
 
 ### Frontmatter fields

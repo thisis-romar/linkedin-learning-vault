@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Figuring Out Your Next Move]]
+- [Figuring Out Your Next Move](../../Courses/Cloud%20Computing/Figuring%20Out%20Your%20Next%20Move.md)

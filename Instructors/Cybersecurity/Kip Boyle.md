@@ -26,7 +26,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[IT and Cybersecurity Risk Management Essential Training]]
-- [[Building and Managing a Cybersecurity Program]]
-- [[Cybersecurity for Executives]]
-- [[Cybersecurity Outsourcing- Vendor Selection and Management]]
+- [IT and Cybersecurity Risk Management Essential Training](../../Courses/Cloud%20Computing/IT%20and%20Cybersecurity%20Risk%20Management%20Essential%20Training.md)
+- [Building and Managing a Cybersecurity Program](../../Courses/Cloud%20Computing/Building%20and%20Managing%20a%20Cybersecurity%20Program.md)
+- [Cybersecurity for Executives](../../Courses/Cybersecurity/Cybersecurity%20for%20Executives.md)
+- [Cybersecurity Outsourcing- Vendor Selection and Management](../../Courses/Cybersecurity/Cybersecurity%20Outsourcing-%20Vendor%20Selection%20and%20Management.md)

@@ -17,182 +17,182 @@ created: 2026-05-03
 
 ## Learning Paths
 
-- [[The Top 10 Most Popular Courses among Engineering Professionals]]
-- [[Explore a Career in Database Development]]
-- [[Elevating C- Skills- Building Robust Applications]]
-- [[C- Foundations- From Basics to Building Blocks]]
-- [[Building Agentic AI Systems for Tech Leaders]]
-- [[Vibe Code This]]
-- [[Master Digital Transformation]]
-- [[Microservices Foundations Professional Certificate by Kong]]
-- [[Become an RPA Developer]]
-- [[Advance as a Tech Leader]]
-- [[Explore Cybersecurity Careers]]
-- [[Improve Your Sustainability Skills]]
-- [[Digital Transformation in Practice- Virtual Collaboration Tools]]
-- [[Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning]]
-- [[Succeeding in Your Tech Career- Software Development]]
-- [[Building Agentic AI Systems for Developers]]
-- [[The IT Professional's Path to Cybersecurity]]
-- [[Design and Present Your Cloud Strategy]]
-- [[Managing and Leading Developers]]
-- [[Become a Programmer- Foundations]]
-- [[Improve Your Digital Transformation Skills]]
-- [[Advance Your Digital Transformation Strategy as a Leader]]
-- [[Become a RESTful API Developer]]
-- [[Advancing Your Azure Developer Skills- Exploring Complex Application Development]]
-- [[The Top 10 Most Popular Courses among IT Professionals]]
-- [[Learn Vibe Coding- Build Apps with AI-Powered Coding]]
-- [[Exploring a Career in Interaction Design]]
-- [[Introduction to Enterprise Cloud Migration Planning]]
-- [[Digital Transformation for Tech Leaders]]
-- [[Career Essentials in Sustainable Tech by Microsoft and LinkedIn]]
-- [[TestMu AI Software Testing Professional Certificate]]
-- [[C- Excellence- Architecting High-Performance Solutions]]
-- [[Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning]]
-- [[Develop Your Scala Skills for Data Engineering]]
-- [[Build an Enterprise Cloud Architecture]]
-- [[Building Generative AI Skills for Web Developers]]
-- [[Explore Web Development with Angular]]
-- [[Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning]]
-- [[Cloud Strategy Professional Certificate by LinkedIn Learning]]
-- [[Explore a Career as a Web Developer]]
-- [[Build Your Cybersecurity Awareness Skills]]
-- [[SS&C Blue Prism Robotic Process Automation Professional Certificate]]
-- [[Explore a Career as a JavaScript Developer]]
-- [[A Quick Start Guide to Programming in Python]]
-- [[Introduction to Fundamental Skills for Data Work- Data Visualization]]
-- [[Transform Your Programming with AI Coding Tools]]
-- [[Explore a Career in SQL Development]]
-- [[Building AI Agents- Advanced Techniques for Developers]]
-- [[Develop Your Rust Skills for Data Engineering]]
-- [[Introduction to Fundamental Skills for Data Work- Data Collection]]
-- [[Hands-On Healthcare Analytics]]
-- [[Generative AI Professional Certificate by Snowflake]]
-- [[Become an AI Engineer]]
-- [[Data Engineering Foundations Professional Certificate by Astronomer]]
-- [[Career Essentials in Software Development by Microsoft and LinkedIn]]
-- [[Improve Your Technical Communication Skills]]
-- [[Explore React.js Development]]
-- [[Explore Web Development with Vanilla JavaScript]]
-- [[Starting Your Career in Tech- Cybersecurity]]
-- [[Introduction to Fundamental Skills for Data Work- Data Storage]]
-- [[Essential New Skills in Software Engineering]]
-- [[Develop Your Skills as a Software Project Manager]]
-- [[Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn]]
-- [[Advance Your AWS Development Skills- Exploring Complex Application Development]]
-- [[Managing your Career as a Developer]]
-- [[Master Swift]]
-- [[Getting Started as a C- Developer]]
-- [[GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development]]
-- [[Getting Started In Spring Development]]
-- [[Improve Your Programming Skills with Artificial Intelligence]]
-- [[Generative AI for Supply Chain Professional Certificate by CSCMP]]
-- [[Identity and Access Management in Azure]]
-- [[Python Hands-On Practice]]
-- [[Develop Your Skills with the OpenAI API]]
-- [[Technical Literacy and Future Readiness for Senior Managers and Senior Leaders]]
-- [[Stay Ahead in GraphQL]]
-- [[TestMu AI Test Automation Professional Certificate]]
-- [[Database Foundations- From Concepts to Applications]]
-- [[JavaScript Foundations Professional Certificate by Mozilla]]
-- [[Develop Your AI Skills with Google Gemini and Google Cloud Platform]]
-- [[Succeed as a Remote Software Developer]]
-- [[Build AI Products Using Azure AI Services in Your Development Lifecycle]]
-- [[Vector Databases Professional Certificate by Weaviate]]
-- [[Building Your Java Skills]]
-- [[Branding and Skill Building to Advance Your Tech Career]]
-- [[Prepare for the Google Cloud Digital Leader Certification]]
-- [[Prepare for the Google Cloud Professional Machine Learning Engineer Certification]]
-- [[A Developer's Guide to Google Gemini]]
-- [[Explore AI for Data Engineering]]
-- [[Master Data Engineering]]
-- [[Python for Data Professionals in Finance]]
-- [[SQL for Data Professionals in Finance]]
-- [[Mastering Jira for Software Developers]]
-- [[Getting Started as an Azure Developer]]
-- [[Moving from Data Scientist to Data Analyst]]
-- [[Starting Your Career in Tech- DevOps]]
-- [[Python for Data Professionals in Healthcare]]
-- [[Getting Started with Google Cloud]]
-- [[Getting Started with Microservices]]
-- [[OpenEDG Python Institute- Programming with Python Professional Certificate]]
-- [[Advance Your MS SQL Server Skills]]
-- [[Advance Your Skills in Natural Language Processing]]
-- [[Getting Started with R for Data Science]]
-- [[Develop with Python for AI and Machine Learning]]
-- [[Data Engineering Hands-On Practice]]
-- [[Data Engineering Professional Certificate by Snowflake]]
-- [[Master C++]]
-- [[Kotlin Professional Certificate by JetBrains]]
-- [[Get Started with PHP]]
-- [[Explore a Career in Data Engineering]]
-- [[Develop Your NoSQL Skills]]
-- [[Become a JavaScript Developer]]
-- [[Advance Your Skills as a Machine Learning Specialist]]
-- [[Explore App Development with the MERN Stack]]
-- [[Starting Your Career in Tech- Software Development]]
-- [[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]]
-- [[Building Your Skills in Spring Development]]
-- [[C++ Programming Professional Certificate by OpenEDG C++ Institute]]
-- [[Manage Your LLMs with LLMOps]]
-- [[The Top Skills Engineering Professionals Have Right Now]]
-- [[Getting Started with Agile Software Development]]
-- [[Improve Your JavaScript Language Skills]]
-- [[Twilio Programmable Messaging and Voice Professional Certificate]]
-- [[Machine Learning with Python Professional Certificate by Anaconda]]
-- [[Starting Your Career in Tech- Data Science]]
-- [[Learning Codeless Machine Learning with KNIME]]
-- [[Career Essentials in GitHub Copilot Professional Certificate]]
-- [[Prepare for Unity Certification]]
-- [[Getting Started as a Java Developer]]
-- [[Prepare for the GitHub Foundations Certification]]
-- [[Become a Software Developer]]
-- [[Java Foundations Professional Certificate by JetBrains]]
-- [[Software Development Fundamentals]]
-- [[Advance Your Python in Excel Skills]]
-- [[Getting Started with C++]]
-- [[Advance Your Python Skills for Data Science]]
-- [[Anaconda Python for Data Science Professional Certificate]]
-- [[Master Bitbucket]]
-- [[Master Retrieval-Augmented Generation (RAG)]]
-- [[Getting Started with Cloud Development]]
-- [[Advance Your Skills in Python]]
-- [[Advance Your Skills in R]]
-- [[Master SQL Development]]
-- [[Develop Your AWS Skills]]
-- [[SQL Hands-On Practice]]
-- [[Become an Arduino Developer]]
-- [[Advance Your PHP Skills]]
-- [[Advance Your Java Skills]]
-- [[Advance Your Spring Development Skills]]
-- [[Master Test Automation with Playwright]]
-- [[Getting Started with Python]]
-- [[Master Your Python Skills]]
-- [[Getting Started with Software Testing]]
-- [[Advance Your JavaScript Skills]]
-- [[Master GitHub Copilot]]
-- [[Advance Your Skills in SQL]]
-- [[Master Python for Data Science]]
-- [[Master SQL for Data Science]]
-- [[Advance Your Database Administration Skills]]
-- [[Career Essentials in GitHub Professional Certificate]]
-- [[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]]
-- [[A Quick Start Guide to Java Programming]]
+- [The Top 10 Most Popular Courses among Engineering Professionals](../Paths/Data%20Science/Learning%20Paths/The%20Top%2010%20Most%20Popular%20Courses%20among%20Engineering%20Professionals.md)
+- [Explore a Career in Database Development](../Paths/Database%20Management/Learning%20Paths/Explore%20a%20Career%20in%20Database%20Development.md)
+- [Elevating C- Skills- Building Robust Applications](../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md)
+- [C- Foundations- From Basics to Building Blocks](../Paths/Software%20Development/Learning%20Paths/C-%20Foundations-%20From%20Basics%20to%20Building%20Blocks.md)
+- [Building Agentic AI Systems for Tech Leaders](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Building%20Agentic%20AI%20Systems%20for%20Tech%20Leaders.md)
+- [Vibe Code This](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Vibe%20Code%20This.md)
+- [Master Digital Transformation](../Paths/Cloud%20Computing/Learning%20Paths/Master%20Digital%20Transformation.md)
+- [Microservices Foundations Professional Certificate by Kong](../Paths/Software%20Development/Professional%20Certificates/Microservices%20Foundations%20Professional%20Certificate%20by%20Kong.md)
+- [Become an RPA Developer](../Paths/Cloud%20Computing/Learning%20Paths/Become%20an%20RPA%20Developer.md)
+- [Advance as a Tech Leader](../Paths/Cloud%20Computing/Learning%20Paths/Advance%20as%20a%20Tech%20Leader.md)
+- [Explore Cybersecurity Careers](../Paths/Cloud%20Computing/Learning%20Paths/Explore%20Cybersecurity%20Careers.md)
+- [Improve Your Sustainability Skills](../Paths/Software%20Development/Learning%20Paths/Improve%20Your%20Sustainability%20Skills.md)
+- [Digital Transformation in Practice- Virtual Collaboration Tools](../Paths/Cloud%20Computing/Learning%20Paths/Digital%20Transformation%20in%20Practice-%20Virtual%20Collaboration%20Tools.md)
+- [Building AI Products- Prototyping Essentials Professional Certificate by LinkedIn Learning](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Building%20AI%20Products-%20Prototyping%20Essentials%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
+- [Succeeding in Your Tech Career- Software Development](../Paths/Cloud%20Computing/Learning%20Paths/Succeeding%20in%20Your%20Tech%20Career-%20Software%20Development.md)
+- [Building Agentic AI Systems for Developers](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Building%20Agentic%20AI%20Systems%20for%20Developers.md)
+- [The IT Professional's Path to Cybersecurity](../Paths/Cloud%20Computing/Learning%20Paths/The%20IT%20Professional's%20Path%20to%20Cybersecurity.md)
+- [Design and Present Your Cloud Strategy](../Paths/Cloud%20Computing/Learning%20Paths/Design%20and%20Present%20Your%20Cloud%20Strategy.md)
+- [Managing and Leading Developers](../Paths/Cloud%20Computing/Learning%20Paths/Managing%20and%20Leading%20Developers.md)
+- [Become a Programmer- Foundations](../Paths/Software%20Development/Learning%20Paths/Become%20a%20Programmer-%20Foundations.md)
+- [Improve Your Digital Transformation Skills](../Paths/Cloud%20Computing/Learning%20Paths/Improve%20Your%20Digital%20Transformation%20Skills.md)
+- [Advance Your Digital Transformation Strategy as a Leader](../Paths/Cloud%20Computing/Learning%20Paths/Advance%20Your%20Digital%20Transformation%20Strategy%20as%20a%20Leader.md)
+- [Become a RESTful API Developer](../Paths/Software%20Development/Learning%20Paths/Become%20a%20RESTful%20API%20Developer.md)
+- [Advancing Your Azure Developer Skills- Exploring Complex Application Development](../Paths/Cloud%20Computing/Learning%20Paths/Advancing%20Your%20Azure%20Developer%20Skills-%20Exploring%20Complex%20Application%20Development.md)
+- [The Top 10 Most Popular Courses among IT Professionals](../Paths/Cloud%20Computing/Learning%20Paths/The%20Top%2010%20Most%20Popular%20Courses%20among%20IT%20Professionals.md)
+- [Learn Vibe Coding- Build Apps with AI-Powered Coding](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Learn%20Vibe%20Coding-%20Build%20Apps%20with%20AI-Powered%20Coding.md)
+- [Exploring a Career in Interaction Design](../Paths/Software%20Development/Learning%20Paths/Exploring%20a%20Career%20in%20Interaction%20Design.md)
+- [Introduction to Enterprise Cloud Migration Planning](../Paths/Cloud%20Computing/Learning%20Paths/Introduction%20to%20Enterprise%20Cloud%20Migration%20Planning.md)
+- [Digital Transformation for Tech Leaders](../Paths/Cloud%20Computing/Learning%20Paths/Digital%20Transformation%20for%20Tech%20Leaders.md)
+- [Career Essentials in Sustainable Tech by Microsoft and LinkedIn](../Paths/Software%20Development/Professional%20Certificates/Career%20Essentials%20in%20Sustainable%20Tech%20by%20Microsoft%20and%20LinkedIn.md)
+- [TestMu AI Software Testing Professional Certificate](../Paths/Software%20Development/Professional%20Certificates/TestMu%20AI%20Software%20Testing%20Professional%20Certificate.md)
+- [C- Excellence- Architecting High-Performance Solutions](../Paths/Software%20Development/Learning%20Paths/C-%20Excellence-%20Architecting%20High-Performance%20Solutions.md)
+- [Building AI Products- Implementing Responsible AI Professional Certificate by LinkedIn Learning](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Building%20AI%20Products-%20Implementing%20Responsible%20AI%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
+- [Develop Your Scala Skills for Data Engineering](../Paths/Data%20Science/Learning%20Paths/Develop%20Your%20Scala%20Skills%20for%20Data%20Engineering.md)
+- [Build an Enterprise Cloud Architecture](../Paths/Cloud%20Computing/Learning%20Paths/Build%20an%20Enterprise%20Cloud%20Architecture.md)
+- [Building Generative AI Skills for Web Developers](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Building%20Generative%20AI%20Skills%20for%20Web%20Developers.md)
+- [Explore Web Development with Angular](../Paths/Software%20Development/Learning%20Paths/Explore%20Web%20Development%20with%20Angular.md)
+- [Building AI Products- Architecture and Orchestration Professional Certificate by LinkedIn Learning](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Building%20AI%20Products-%20Architecture%20and%20Orchestration%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
+- [Cloud Strategy Professional Certificate by LinkedIn Learning](../Paths/Cloud%20Computing/Professional%20Certificates/Cloud%20Strategy%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
+- [Explore a Career as a Web Developer](../Paths/Software%20Development/Learning%20Paths/Explore%20a%20Career%20as%20a%20Web%20Developer.md)
+- [Build Your Cybersecurity Awareness Skills](../Paths/Cloud%20Computing/Learning%20Paths/Build%20Your%20Cybersecurity%20Awareness%20Skills.md)
+- [SS&C Blue Prism Robotic Process Automation Professional Certificate](../Paths/Network%20and%20System%20Administration/Professional%20Certificates/SS%26C%20Blue%20Prism%20Robotic%20Process%20Automation%20Professional%20Certificate.md)
+- [Explore a Career as a JavaScript Developer](../Paths/Software%20Development/Learning%20Paths/Explore%20a%20Career%20as%20a%20JavaScript%20Developer.md)
+- [A Quick Start Guide to Programming in Python](../Paths/Software%20Development/Learning%20Paths/A%20Quick%20Start%20Guide%20to%20Programming%20in%20Python.md)
+- [Introduction to Fundamental Skills for Data Work- Data Visualization](../Paths/Data%20Science/Learning%20Paths/Introduction%20to%20Fundamental%20Skills%20for%20Data%20Work-%20Data%20Visualization.md)
+- [Transform Your Programming with AI Coding Tools](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Transform%20Your%20Programming%20with%20AI%20Coding%20Tools.md)
+- [Explore a Career in SQL Development](../Paths/Data%20Science/Learning%20Paths/Explore%20a%20Career%20in%20SQL%20Development.md)
+- [Building AI Agents- Advanced Techniques for Developers](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Building%20AI%20Agents-%20Advanced%20Techniques%20for%20Developers.md)
+- [Develop Your Rust Skills for Data Engineering](../Paths/Data%20Science/Learning%20Paths/Develop%20Your%20Rust%20Skills%20for%20Data%20Engineering.md)
+- [Introduction to Fundamental Skills for Data Work- Data Collection](../Paths/Data%20Science/Learning%20Paths/Introduction%20to%20Fundamental%20Skills%20for%20Data%20Work-%20Data%20Collection.md)
+- [Hands-On Healthcare Analytics](../Paths/Data%20Science/Learning%20Paths/Hands-On%20Healthcare%20Analytics.md)
+- [Generative AI Professional Certificate by Snowflake](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Generative%20AI%20Professional%20Certificate%20by%20Snowflake.md)
+- [Become an AI Engineer](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Become%20an%20AI%20Engineer.md)
+- [Data Engineering Foundations Professional Certificate by Astronomer](../Paths/Data%20Science/Professional%20Certificates/Data%20Engineering%20Foundations%20Professional%20Certificate%20by%20Astronomer.md)
+- [Career Essentials in Software Development by Microsoft and LinkedIn](../Paths/Software%20Development/Professional%20Certificates/Career%20Essentials%20in%20Software%20Development%20by%20Microsoft%20and%20LinkedIn.md)
+- [Improve Your Technical Communication Skills](../Paths/Cloud%20Computing/Learning%20Paths/Improve%20Your%20Technical%20Communication%20Skills.md)
+- [Explore React.js Development](../Paths/Software%20Development/Learning%20Paths/Explore%20React.js%20Development.md)
+- [Explore Web Development with Vanilla JavaScript](../Paths/Software%20Development/Learning%20Paths/Explore%20Web%20Development%20with%20Vanilla%20JavaScript.md)
+- [Starting Your Career in Tech- Cybersecurity](../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20Cybersecurity.md)
+- [Introduction to Fundamental Skills for Data Work- Data Storage](../Paths/Data%20Science/Learning%20Paths/Introduction%20to%20Fundamental%20Skills%20for%20Data%20Work-%20Data%20Storage.md)
+- [Essential New Skills in Software Engineering](../Paths/DevOps/Learning%20Paths/Essential%20New%20Skills%20in%20Software%20Engineering.md)
+- [Develop Your Skills as a Software Project Manager](../Paths/DevOps/Learning%20Paths/Develop%20Your%20Skills%20as%20a%20Software%20Project%20Manager.md)
+- [Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Microsoft%20Azure%20AI%20Essentials%20Professional%20Certificate%20by%20Microsoft%20and%20LinkedIn.md)
+- [Advance Your AWS Development Skills- Exploring Complex Application Development](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20AWS%20Development%20Skills-%20Exploring%20Complex%20Application%20Development.md)
+- [Managing your Career as a Developer](../Paths/Cloud%20Computing/Learning%20Paths/Managing%20your%20Career%20as%20a%20Developer.md)
+- [Master Swift](../Paths/Mobile%20Development/Learning%20Paths/Master%20Swift.md)
+- [Getting Started as a C- Developer](../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20as%20a%20C-%20Developer.md)
+- [GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/GitHub%20Copilot%20Mastery-%20From%20Advanced%20Prompting%20to%20Full-Stack%20AI%20Development.md)
+- [Getting Started In Spring Development](../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20In%20Spring%20Development.md)
+- [Improve Your Programming Skills with Artificial Intelligence](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Improve%20Your%20Programming%20Skills%20with%20Artificial%20Intelligence.md)
+- [Generative AI for Supply Chain Professional Certificate by CSCMP](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Generative%20AI%20for%20Supply%20Chain%20Professional%20Certificate%20by%20CSCMP.md)
+- [Identity and Access Management in Azure](../Paths/Cloud%20Computing/Learning%20Paths/Identity%20and%20Access%20Management%20in%20Azure.md)
+- [Python Hands-On Practice](../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)
+- [Develop Your Skills with the OpenAI API](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Develop%20Your%20Skills%20with%20the%20OpenAI%20API.md)
+- [Technical Literacy and Future Readiness for Senior Managers and Senior Leaders](../Paths/Cloud%20Computing/Learning%20Paths/Technical%20Literacy%20and%20Future%20Readiness%20for%20Senior%20Managers%20and%20Senior%20Leaders.md)
+- [Stay Ahead in GraphQL](../Paths/Software%20Development/Learning%20Paths/Stay%20Ahead%20in%20GraphQL.md)
+- [TestMu AI Test Automation Professional Certificate](../Paths/Software%20Development/Professional%20Certificates/TestMu%20AI%20Test%20Automation%20Professional%20Certificate.md)
+- [Database Foundations- From Concepts to Applications](../Paths/Data%20Science/Learning%20Paths/Database%20Foundations-%20From%20Concepts%20to%20Applications.md)
+- [JavaScript Foundations Professional Certificate by Mozilla](../Paths/Software%20Development/Professional%20Certificates/JavaScript%20Foundations%20Professional%20Certificate%20by%20Mozilla.md)
+- [Develop Your AI Skills with Google Gemini and Google Cloud Platform](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Develop%20Your%20AI%20Skills%20with%20Google%20Gemini%20and%20Google%20Cloud%20Platform.md)
+- [Succeed as a Remote Software Developer](../Paths/Cloud%20Computing/Learning%20Paths/Succeed%20as%20a%20Remote%20Software%20Developer.md)
+- [Build AI Products Using Azure AI Services in Your Development Lifecycle](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Build%20AI%20Products%20Using%20Azure%20AI%20Services%20in%20Your%20Development%20Lifecycle.md)
+- [Vector Databases Professional Certificate by Weaviate](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Vector%20Databases%20Professional%20Certificate%20by%20Weaviate.md)
+- [Building Your Java Skills](../Paths/Cloud%20Computing/Learning%20Paths/Building%20Your%20Java%20Skills.md)
+- [Branding and Skill Building to Advance Your Tech Career](../Paths/Cloud%20Computing/Learning%20Paths/Branding%20and%20Skill%20Building%20to%20Advance%20Your%20Tech%20Career.md)
+- [Prepare for the Google Cloud Digital Leader Certification](../Paths/Cloud%20Computing/Learning%20Paths/Prepare%20for%20the%20Google%20Cloud%20Digital%20Leader%20Certification.md)
+- [Prepare for the Google Cloud Professional Machine Learning Engineer Certification](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Prepare%20for%20the%20Google%20Cloud%20Professional%20Machine%20Learning%20Engineer%20Certification.md)
+- [A Developer's Guide to Google Gemini](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/A%20Developer's%20Guide%20to%20Google%20Gemini.md)
+- [Explore AI for Data Engineering](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Explore%20AI%20for%20Data%20Engineering.md)
+- [Master Data Engineering](../Paths/Data%20Science/Learning%20Paths/Master%20Data%20Engineering.md)
+- [Python for Data Professionals in Finance](../Paths/Data%20Science/Learning%20Paths/Python%20for%20Data%20Professionals%20in%20Finance.md)
+- [SQL for Data Professionals in Finance](../Paths/Data%20Science/Learning%20Paths/SQL%20for%20Data%20Professionals%20in%20Finance.md)
+- [Mastering Jira for Software Developers](../Paths/DevOps/Learning%20Paths/Mastering%20Jira%20for%20Software%20Developers.md)
+- [Getting Started as an Azure Developer](../Paths/Cloud%20Computing/Learning%20Paths/Getting%20Started%20as%20an%20Azure%20Developer.md)
+- [Moving from Data Scientist to Data Analyst](../Paths/Data%20Science/Learning%20Paths/Moving%20from%20Data%20Scientist%20to%20Data%20Analyst.md)
+- [Starting Your Career in Tech- DevOps](../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20DevOps.md)
+- [Python for Data Professionals in Healthcare](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Python%20for%20Data%20Professionals%20in%20Healthcare.md)
+- [Getting Started with Google Cloud](../Paths/Cloud%20Computing/Learning%20Paths/Getting%20Started%20with%20Google%20Cloud.md)
+- [Getting Started with Microservices](../Paths/Cybersecurity/Learning%20Paths/Getting%20Started%20with%20Microservices.md)
+- [OpenEDG Python Institute- Programming with Python Professional Certificate](../Paths/Software%20Development/Professional%20Certificates/OpenEDG%20Python%20Institute-%20Programming%20with%20Python%20Professional%20Certificate.md)
+- [Advance Your MS SQL Server Skills](../Paths/Database%20Management/Learning%20Paths/Advance%20Your%20MS%20SQL%20Server%20Skills.md)
+- [Advance Your Skills in Natural Language Processing](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20Skills%20in%20Natural%20Language%20Processing.md)
+- [Getting Started with R for Data Science](../Paths/Data%20Science/Learning%20Paths/Getting%20Started%20with%20R%20for%20Data%20Science.md)
+- [Develop with Python for AI and Machine Learning](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Develop%20with%20Python%20for%20AI%20and%20Machine%20Learning.md)
+- [Data Engineering Hands-On Practice](../Paths/Data%20Science/Learning%20Paths/Data%20Engineering%20Hands-On%20Practice.md)
+- [Data Engineering Professional Certificate by Snowflake](../Paths/Cloud%20Computing/Professional%20Certificates/Data%20Engineering%20Professional%20Certificate%20by%20Snowflake.md)
+- [Master C++](../Paths/DevOps/Learning%20Paths/Master%20C%2B%2B.md)
+- [Kotlin Professional Certificate by JetBrains](../Paths/Mobile%20Development/Professional%20Certificates/Kotlin%20Professional%20Certificate%20by%20JetBrains.md)
+- [Get Started with PHP](../Paths/Software%20Development/Learning%20Paths/Get%20Started%20with%20PHP.md)
+- [Explore a Career in Data Engineering](../Paths/Cloud%20Computing/Learning%20Paths/Explore%20a%20Career%20in%20Data%20Engineering.md)
+- [Develop Your NoSQL Skills](../Paths/Database%20Management/Learning%20Paths/Develop%20Your%20NoSQL%20Skills.md)
+- [Become a JavaScript Developer](../Paths/Network%20and%20System%20Administration/Learning%20Paths/Become%20a%20JavaScript%20Developer.md)
+- [Advance Your Skills as a Machine Learning Specialist](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Advance%20Your%20Skills%20as%20a%20Machine%20Learning%20Specialist.md)
+- [Explore App Development with the MERN Stack](../Paths/Database%20Management/Learning%20Paths/Explore%20App%20Development%20with%20the%20MERN%20Stack.md)
+- [Starting Your Career in Tech- Software Development](../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20Software%20Development.md)
+- [Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Building%20AI%20Products-%20Understanding%20the%20Workflow%20Professional%20Certificate%20by%20LinkedIn%20Learning.md)
+- [Building Your Skills in Spring Development](../Paths/Software%20Development/Learning%20Paths/Building%20Your%20Skills%20in%20Spring%20Development.md)
+- [C++ Programming Professional Certificate by OpenEDG C++ Institute](../Paths/Data%20Science/Professional%20Certificates/C%2B%2B%20Programming%20Professional%20Certificate%20by%20OpenEDG%20C%2B%2B%20Institute.md)
+- [Manage Your LLMs with LLMOps](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Manage%20Your%20LLMs%20with%20LLMOps.md)
+- [The Top Skills Engineering Professionals Have Right Now](../Paths/Software%20Development/Learning%20Paths/The%20Top%20Skills%20Engineering%20Professionals%20Have%20Right%20Now.md)
+- [Getting Started with Agile Software Development](../Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20Agile%20Software%20Development.md)
+- [Improve Your JavaScript Language Skills](../Paths/Software%20Development/Learning%20Paths/Improve%20Your%20JavaScript%20Language%20Skills.md)
+- [Twilio Programmable Messaging and Voice Professional Certificate](../Paths/Software%20Development/Professional%20Certificates/Twilio%20Programmable%20Messaging%20and%20Voice%20Professional%20Certificate.md)
+- [Machine Learning with Python Professional Certificate by Anaconda](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Machine%20Learning%20with%20Python%20Professional%20Certificate%20by%20Anaconda.md)
+- [Starting Your Career in Tech- Data Science](../Paths/Cloud%20Computing/Learning%20Paths/Starting%20Your%20Career%20in%20Tech-%20Data%20Science.md)
+- [Learning Codeless Machine Learning with KNIME](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Learning%20Codeless%20Machine%20Learning%20with%20KNIME.md)
+- [Career Essentials in GitHub Copilot Professional Certificate](../Paths/Artificial%20Intelligence%20(AI)/Professional%20Certificates/Career%20Essentials%20in%20GitHub%20Copilot%20Professional%20Certificate.md)
+- [Prepare for Unity Certification](../Paths/Software%20Development/Learning%20Paths/Prepare%20for%20Unity%20Certification.md)
+- [Getting Started as a Java Developer](../Paths/Data%20Science/Learning%20Paths/Getting%20Started%20as%20a%20Java%20Developer.md)
+- [Prepare for the GitHub Foundations Certification](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Prepare%20for%20the%20GitHub%20Foundations%20Certification.md)
+- [Become a Software Developer](../Paths/Software%20Development/Learning%20Paths/Become%20a%20Software%20Developer.md)
+- [Java Foundations Professional Certificate by JetBrains](../Paths/Data%20Science/Professional%20Certificates/Java%20Foundations%20Professional%20Certificate%20by%20JetBrains.md)
+- [Software Development Fundamentals](../Paths/Software%20Development/Learning%20Paths/Software%20Development%20Fundamentals.md)
+- [Advance Your Python in Excel Skills](../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Python%20in%20Excel%20Skills.md)
+- [Getting Started with C++](../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20with%20C%2B%2B.md)
+- [Advance Your Python Skills for Data Science](../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Python%20Skills%20for%20Data%20Science.md)
+- [Anaconda Python for Data Science Professional Certificate](../Paths/Data%20Science/Professional%20Certificates/Anaconda%20Python%20for%20Data%20Science%20Professional%20Certificate.md)
+- [Master Bitbucket](../Paths/DevOps/Learning%20Paths/Master%20Bitbucket.md)
+- [Master Retrieval-Augmented Generation (RAG)](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Master%20Retrieval-Augmented%20Generation%20(RAG).md)
+- [Getting Started with Cloud Development](../Paths/Cloud%20Computing/Learning%20Paths/Getting%20Started%20with%20Cloud%20Development.md)
+- [Advance Your Skills in Python](../Paths/Software%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20Python.md)
+- [Advance Your Skills in R](../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20R.md)
+- [Master SQL Development](../Paths/Data%20Science/Learning%20Paths/Master%20SQL%20Development.md)
+- [Develop Your AWS Skills](../Paths/Cloud%20Computing/Learning%20Paths/Develop%20Your%20AWS%20Skills.md)
+- [SQL Hands-On Practice](../Paths/Data%20Science/Learning%20Paths/SQL%20Hands-On%20Practice.md)
+- [Become an Arduino Developer](../Paths/Hardware/Learning%20Paths/Become%20an%20Arduino%20Developer.md)
+- [Advance Your PHP Skills](../Paths/Cybersecurity/Learning%20Paths/Advance%20Your%20PHP%20Skills.md)
+- [Advance Your Java Skills](../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Java%20Skills.md)
+- [Advance Your Spring Development Skills](../Paths/Cloud%20Computing/Learning%20Paths/Advance%20Your%20Spring%20Development%20Skills.md)
+- [Master Test Automation with Playwright](../Paths/Software%20Development/Learning%20Paths/Master%20Test%20Automation%20with%20Playwright.md)
+- [Getting Started with Python](../Paths/Data%20Science/Learning%20Paths/Getting%20Started%20with%20Python.md)
+- [Master Your Python Skills](../Paths/Software%20Development/Learning%20Paths/Master%20Your%20Python%20Skills.md)
+- [Getting Started with Software Testing](../Paths/Software%20Development/Learning%20Paths/Getting%20Started%20with%20Software%20Testing.md)
+- [Advance Your JavaScript Skills](../Paths/Software%20Development/Learning%20Paths/Advance%20Your%20JavaScript%20Skills.md)
+- [Master GitHub Copilot](../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Master%20GitHub%20Copilot.md)
+- [Advance Your Skills in SQL](../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Skills%20in%20SQL.md)
+- [Master Python for Data Science](../Paths/Database%20Management/Learning%20Paths/Master%20Python%20for%20Data%20Science.md)
+- [Master SQL for Data Science](../Paths/Data%20Science/Learning%20Paths/Master%20SQL%20for%20Data%20Science.md)
+- [Advance Your Database Administration Skills](../Paths/Data%20Science/Learning%20Paths/Advance%20Your%20Database%20Administration%20Skills.md)
+- [Career Essentials in GitHub Professional Certificate](../Paths/Software%20Development/Professional%20Certificates/Career%20Essentials%20in%20GitHub%20Professional%20Certificate.md)
+- [Getting Started with Continuous Integration - Continuous Delivery (CI-CD)](../Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20Continuous%20Integration%20-%20Continuous%20Delivery%20(CI-CD).md)
+- [A Quick Start Guide to Java Programming](../Paths/Software%20Development/Learning%20Paths/A%20Quick%20Start%20Guide%20to%20Java%20Programming.md)
 
 ## Hub Courses
 
-- [[JavaScript Essential Training]] — 7 paths
-- [[Programming Foundations Fundamentals]] — 7 paths
-- [[Tech Career Skills- Effective Technical Communication]] — 6 paths
-- [[Programming Foundations- Beyond the Fundamentals]] — 6 paths
-- [[Python Essential Training]] — 5 paths
-- [[Hands-On Introduction- Data Engineering]] — 5 paths
-- [[Cloud Architecture- Core Concepts]] — 4 paths
-- [[HTML Essential Training]] — 4 paths
-- [[SQL Hands-On Practice- Solve Business Problems]] — 4 paths
-- [[Complete Guide to Python for Data Engineering- From Beginner to Advanced]] — 4 paths
+- [JavaScript Essential Training](../Courses/Software%20Development/JavaScript%20Essential%20Training.md) — 7 paths
+- [Programming Foundations Fundamentals](../Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md) — 7 paths
+- [Tech Career Skills- Effective Technical Communication](../Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Effective%20Technical%20Communication.md) — 6 paths
+- [Programming Foundations- Beyond the Fundamentals](../Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md) — 6 paths
+- [Python Essential Training](../Courses/Software%20Development/Python%20Essential%20Training.md) — 5 paths
+- [Hands-On Introduction- Data Engineering](../Courses/Data%20Science/Hands-On%20Introduction-%20Data%20Engineering.md) — 5 paths
+- [Cloud Architecture- Core Concepts](../Courses/Software%20Development/Cloud%20Architecture-%20Core%20Concepts.md) — 4 paths
+- [HTML Essential Training](../Courses/Web%20Development/HTML%20Essential%20Training.md) — 4 paths
+- [SQL Hands-On Practice- Solve Business Problems](../Courses/Data%20Science/SQL%20Hands-On%20Practice-%20Solve%20Business%20Problems.md) — 4 paths
+- [Complete Guide to Python for Data Engineering- From Beginner to Advanced](../Courses/Data%20Science/Complete%20Guide%20to%20Python%20for%20Data%20Engineering-%20From%20Beginner%20to%20Advanced.md) — 4 paths
 
 ---
 
-Part of [[000 Map of Content]]
+Part of [000 Map of Content](../000%20Map%20of%20Content.md)

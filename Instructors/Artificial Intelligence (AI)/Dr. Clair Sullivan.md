@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[GraphRAG Essential Training]]
+- [GraphRAG Essential Training](../../Courses/Artificial%20Intelligence%20(AI)/GraphRAG%20Essential%20Training.md)

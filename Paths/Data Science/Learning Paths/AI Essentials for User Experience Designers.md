@@ -19,23 +19,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[The Ai Driven Product Designer]]'
+  - course: '[The Ai Driven Product Designer](../../../Courses/Data%20Science/The%20Ai%20Driven%20Product%20Designer.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Using AI Tools for UX Design]]'
+  - course: '[Using AI Tools for UX Design](../../../Courses/Data%20Science/Using%20AI%20Tools%20for%20UX%20Design.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Generative AI UX Design with Uizard]]'
+  - course: '[Generative AI UX Design with Uizard](../../../Courses/Data%20Science/Generative%20AI%20UX%20Design%20with%20Uizard.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Exploring AI Workflows within Figma Design]]'
+  - course: '[Exploring AI Workflows within Figma Design](../../../Courses/Data%20Science/Exploring%20AI%20Workflows%20within%20Figma%20Design.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Using AI in Research Projects]]'
+  - course: '[Using AI in Research Projects](../../../Courses/Data%20Science/Using%20AI%20in%20Research%20Projects.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -50,21 +50,21 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[The Ai Driven Product Designer]]
-2. [[Using AI Tools for UX Design]] _(1h 57m)_
-3. [[Generative AI UX Design with Uizard]] _(1h 16m)_
-4. [[Exploring AI Workflows within Figma Design]] _(56m)_
-5. [[Using AI in Research Projects]] _(25m)_
+1. [The Ai Driven Product Designer](../../../Courses/Data%20Science/The%20Ai%20Driven%20Product%20Designer.md)
+2. [Using AI Tools for UX Design](../../../Courses/Data%20Science/Using%20AI%20Tools%20for%20UX%20Design.md) _(1h 57m)_
+3. [Generative AI UX Design with Uizard](../../../Courses/Data%20Science/Generative%20AI%20UX%20Design%20with%20Uizard.md) _(1h 16m)_
+4. [Exploring AI Workflows within Figma Design](../../../Courses/Data%20Science/Exploring%20AI%20Workflows%20within%20Figma%20Design.md) _(56m)_
+5. [Using AI in Research Projects](../../../Courses/Data%20Science/Using%20AI%20in%20Research%20Projects.md) _(25m)_
 
 ## Course Flow
 
-1. [[The Ai Driven Product Designer]] → 2. [[Using AI Tools for UX Design]] → 3. [[Generative AI UX Design with Uizard]] → 4. [[Exploring AI Workflows within Figma Design]] → 5. [[Using AI in Research Projects]]
+1. [The Ai Driven Product Designer](../../../Courses/Data%20Science/The%20Ai%20Driven%20Product%20Designer.md) → 2. [Using AI Tools for UX Design](../../../Courses/Data%20Science/Using%20AI%20Tools%20for%20UX%20Design.md) → 3. [Generative AI UX Design with Uizard](../../../Courses/Data%20Science/Generative%20AI%20UX%20Design%20with%20Uizard.md) → 4. [Exploring AI Workflows within Figma Design](../../../Courses/Data%20Science/Exploring%20AI%20Workflows%20within%20Figma%20Design.md) → 5. [Using AI in Research Projects](../../../Courses/Data%20Science/Using%20AI%20in%20Research%20Projects.md)
 
 ## Topics
 
-- [[Data Science]]
-- [[Web Development]]
+- [Data Science](../../../Topics/Data%20Science.md)
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

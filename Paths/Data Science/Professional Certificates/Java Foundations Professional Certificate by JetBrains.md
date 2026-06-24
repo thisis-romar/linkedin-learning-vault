@@ -19,23 +19,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Java Essential Training Syntax And Structure]]'
+  - course: '[Java Essential Training Syntax And Structure](../../../Courses/Data%20Science/Java%20Essential%20Training%20Syntax%20And%20Structure.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Java Essential Training- Objects and APIs]]'
+  - course: '[Java Essential Training- Objects and APIs](../../../Courses/Software%20Development/Java%20Essential%20Training-%20Objects%20and%20APIs.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Java Object-Oriented Programming]]'
+  - course: '[Java Object-Oriented Programming](../../../Courses/Data%20Science/Java%20Object-Oriented%20Programming.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Java- Data Structures]]'
+  - course: '[Java- Data Structures](../../../Courses/Data%20Science/Java-%20Data%20Structures.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning JDBC]]'
+  - course: '[Learning JDBC](../../../Courses/Data%20Science/Learning%20JDBC.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -50,28 +50,28 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Java Essential Training Syntax And Structure]]
-2. [[Java Essential Training- Objects and APIs]] _(2h 10m)_
-3. [[Java Object-Oriented Programming]] _(2h 2m)_
-4. [[Java- Data Structures]] _(49m)_
-5. [[Learning JDBC]] _(2h 3m)_
+1. [Java Essential Training Syntax And Structure](../../../Courses/Data%20Science/Java%20Essential%20Training%20Syntax%20And%20Structure.md)
+2. [Java Essential Training- Objects and APIs](../../../Courses/Software%20Development/Java%20Essential%20Training-%20Objects%20and%20APIs.md) _(2h 10m)_
+3. [Java Object-Oriented Programming](../../../Courses/Data%20Science/Java%20Object-Oriented%20Programming.md) _(2h 2m)_
+4. [Java- Data Structures](../../../Courses/Data%20Science/Java-%20Data%20Structures.md) _(49m)_
+5. [Learning JDBC](../../../Courses/Data%20Science/Learning%20JDBC.md) _(2h 3m)_
 
 ## Course Flow
 
-1. [[Java Essential Training Syntax And Structure]] → 2. [[Java Essential Training- Objects and APIs]] → 3. [[Java Object-Oriented Programming]] → 4. [[Java- Data Structures]] → 5. [[Learning JDBC]]
+1. [Java Essential Training Syntax And Structure](../../../Courses/Data%20Science/Java%20Essential%20Training%20Syntax%20And%20Structure.md) → 2. [Java Essential Training- Objects and APIs](../../../Courses/Software%20Development/Java%20Essential%20Training-%20Objects%20and%20APIs.md) → 3. [Java Object-Oriented Programming](../../../Courses/Data%20Science/Java%20Object-Oriented%20Programming.md) → 4. [Java- Data Structures](../../../Courses/Data%20Science/Java-%20Data%20Structures.md) → 5. [Learning JDBC](../../../Courses/Data%20Science/Learning%20JDBC.md)
 
 ## Topics
 
-- [[Data Science]]
-- [[Software Development]]
+- [Data Science](../../../Topics/Data%20Science.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Getting Started as a Java Developer]] (4 shared courses)
-- [[The Top Skills Engineering Professionals Have Right Now]] (1 shared courses)
+- [Getting Started as a Java Developer](../Learning%20Paths/Getting%20Started%20as%20a%20Java%20Developer.md) (4 shared courses)
+- [The Top Skills Engineering Professionals Have Right Now](../../Software%20Development/Learning%20Paths/The%20Top%20Skills%20Engineering%20Professionals%20Have%20Right%20Now.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

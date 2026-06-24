@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Rock Your LinkedIn Profile]]
+- [Rock Your LinkedIn Profile](../../Courses/Cloud%20Computing/Rock%20Your%20LinkedIn%20Profile.md)

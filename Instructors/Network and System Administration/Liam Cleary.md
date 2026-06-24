@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to IT Automation]]
-- [[PowerShell- Automating IT Administration]]
-- [[PowerShell for Microsoft 365 Administration]]
+- [Introduction to IT Automation](../../Courses/Cloud%20Computing/Introduction%20to%20IT%20Automation.md)
+- [PowerShell- Automating IT Administration](../../Courses/Network%20and%20System%20Administration/PowerShell-%20Automating%20IT%20Administration.md)
+- [PowerShell for Microsoft 365 Administration](../../Courses/Network%20and%20System%20Administration/PowerShell%20for%20Microsoft%20365%20Administration.md)

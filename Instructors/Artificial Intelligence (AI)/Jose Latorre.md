@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to Agentic AI- Getting Started with AutoGen Studio]]
-- [[AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation]]
+- [Introduction to Agentic AI- Getting Started with AutoGen Studio](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Agentic%20AI-%20Getting%20Started%20with%20AutoGen%20Studio.md)
+- [AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Agents%20Made%20Simple-%20Your%20Zero-to-Hero%20Guide%20to%20Prompting%20for%20Work%20Automation.md)

@@ -22,18 +22,18 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Finding New Career Paths with SQL]] — Beginner · 43m · 300,467 learners
-- [[Data Science and Analytics Career Paths and Certifications- First Steps]] — Beginner · 1h 37m · 267,006 learners
-- [[Building a Successful Business Analysis Career]] — 1h 4m · 171,414 learners
-- [[Get a Remote Data Science Job]] — Beginner · 27m · 8,856 learners
-- [[Navigating Internal Mobility as an Employee]] — 45m · 6,106 learners
+- [Finding New Career Paths with SQL](../../Courses/Database%20Management/Finding%20New%20Career%20Paths%20with%20SQL.md) — Beginner · 43m · 300,467 learners
+- [Data Science and Analytics Career Paths and Certifications- First Steps](../../Courses/Data%20Science/Data%20Science%20and%20Analytics%20Career%20Paths%20and%20Certifications-%20First%20Steps.md) — Beginner · 1h 37m · 267,006 learners
+- [Building a Successful Business Analysis Career](../../Courses/Data%20Science/Building%20a%20Successful%20Business%20Analysis%20Career.md) — 1h 4m · 171,414 learners
+- [Get a Remote Data Science Job](../../Courses/Cloud%20Computing/Get%20a%20Remote%20Data%20Science%20Job.md) — Beginner · 27m · 8,856 learners
+- [Navigating Internal Mobility as an Employee](../../Courses/Cloud%20Computing/Navigating%20Internal%20Mobility%20as%20an%20Employee.md) — 45m · 6,106 learners
 
 ## Related Skills
 
-- [[Data Science]] — 2 shared courses
-- [[Tech Career Skills]] — 2 shared courses
-- [[Internal Mobility]] — 1 shared course
-- [[Business Analysis]] — 1 shared course
-- [[Job Search Strategies]] — 1 shared course
-- [[Data Analytics]] — 1 shared course
-- [[SQL]] — 1 shared course
+- [Data Science](../../Topics/Data%20Science.md) — 2 shared courses
+- [Tech Career Skills](../Cybersecurity/Tech%20Career%20Skills.md) — 2 shared courses
+- [Internal Mobility](../Software%20Development/Internal%20Mobility.md) — 1 shared course
+- [Business Analysis](Business%20Analysis.md) — 1 shared course
+- [Job Search Strategies](../Software%20Development/Job%20Search%20Strategies.md) — 1 shared course
+- [Data Analytics](Data%20Analytics.md) — 1 shared course
+- [SQL](SQL.md) — 1 shared course

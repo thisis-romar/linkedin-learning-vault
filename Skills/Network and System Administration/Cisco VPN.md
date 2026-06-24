@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cisco Network Security- VPN]] — Intermediate · 1h 45m · 14,955 learners
+- [Cisco Network Security- VPN](../../Courses/Cybersecurity/Cisco%20Network%20Security-%20VPN.md) — Intermediate · 1h 45m · 14,955 learners

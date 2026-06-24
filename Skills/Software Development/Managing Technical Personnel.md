@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Tech Career Skills- Moving from Developer to Engineering Manager]] — Intermediate · 1h 22m · 114,377 learners
+- [Tech Career Skills- Moving from Developer to Engineering Manager](../../Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Moving%20from%20Developer%20to%20Engineering%20Manager.md) — Intermediate · 1h 22m · 114,377 learners
 
 ## Related Skills
 
-- [[Career Management]] — 1 shared course
-- [[Tech Career Skills]] — 1 shared course
+- [Career Management](../Data%20Science/Career%20Management.md) — 1 shared course
+- [Tech Career Skills](../Cybersecurity/Tech%20Career%20Skills.md) — 1 shared course

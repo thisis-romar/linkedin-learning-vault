@@ -17,23 +17,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[C Sharp Essential Training 1 Types And Control Flow]]'
+  - course: '[C Sharp Essential Training 1 Types And Control Flow](../../../Courses/Software%20Development/C%20Sharp%20Essential%20Training%201%20Types%20And%20Control%20Flow.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[C- Essential Training 2- Generics, Collections, and LINQ]]'
+  - course: '[C- Essential Training 2- Generics, Collections, and LINQ](../../../Courses/Software%20Development/C-%20Essential%20Training%202-%20Generics%2C%20Collections%2C%20and%20LINQ.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Debugging in C-]]'
+  - course: '[Debugging in C-](../../../Courses/Software%20Development/Debugging%20in%20C-.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[C- Refactoring Tips and Tricks]]'
+  - course: '[C- Refactoring Tips and Tricks](../../../Courses/Software%20Development/C-%20Refactoring%20Tips%20and%20Tricks.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Mastering AI Tools for Efficient C- Development]]'
+  - course: '[Mastering AI Tools for Efficient C- Development](../../../Courses/Software%20Development/Mastering%20AI%20Tools%20for%20Efficient%20C-%20Development.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -48,26 +48,26 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[C Sharp Essential Training 1 Types And Control Flow]]
-2. [[C- Essential Training 2- Generics, Collections, and LINQ]] _(3h 15m)_
-3. [[Debugging in C-]] _(1h 26m)_
-4. [[C- Refactoring Tips and Tricks]] _(43m)_
-5. [[Mastering AI Tools for Efficient C- Development]] _(1h 4m)_
+1. [C Sharp Essential Training 1 Types And Control Flow](../../../Courses/Software%20Development/C%20Sharp%20Essential%20Training%201%20Types%20And%20Control%20Flow.md)
+2. [C- Essential Training 2- Generics, Collections, and LINQ](../../../Courses/Software%20Development/C-%20Essential%20Training%202-%20Generics%2C%20Collections%2C%20and%20LINQ.md) _(3h 15m)_
+3. [Debugging in C-](../../../Courses/Software%20Development/Debugging%20in%20C-.md) _(1h 26m)_
+4. [C- Refactoring Tips and Tricks](../../../Courses/Software%20Development/C-%20Refactoring%20Tips%20and%20Tricks.md) _(43m)_
+5. [Mastering AI Tools for Efficient C- Development](../../../Courses/Software%20Development/Mastering%20AI%20Tools%20for%20Efficient%20C-%20Development.md) _(1h 4m)_
 
 ## Course Flow
 
-1. [[C Sharp Essential Training 1 Types And Control Flow]] → 2. [[C- Essential Training 2- Generics, Collections, and LINQ]] → 3. [[Debugging in C-]] → 4. [[C- Refactoring Tips and Tricks]] → 5. [[Mastering AI Tools for Efficient C- Development]]
+1. [C Sharp Essential Training 1 Types And Control Flow](../../../Courses/Software%20Development/C%20Sharp%20Essential%20Training%201%20Types%20And%20Control%20Flow.md) → 2. [C- Essential Training 2- Generics, Collections, and LINQ](../../../Courses/Software%20Development/C-%20Essential%20Training%202-%20Generics%2C%20Collections%2C%20and%20LINQ.md) → 3. [Debugging in C-](../../../Courses/Software%20Development/Debugging%20in%20C-.md) → 4. [C- Refactoring Tips and Tricks](../../../Courses/Software%20Development/C-%20Refactoring%20Tips%20and%20Tricks.md) → 5. [Mastering AI Tools for Efficient C- Development](../../../Courses/Software%20Development/Mastering%20AI%20Tools%20for%20Efficient%20C-%20Development.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Getting Started as a C- Developer]] (2 shared courses)
+- [Getting Started as a C- Developer](Getting%20Started%20as%20a%20C-%20Developer.md) (2 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

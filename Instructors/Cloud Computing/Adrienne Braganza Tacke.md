@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Inclusive Tech- Conducting Humane Code Reviews]]
-- [[Azure Essential Training for Developers]]
+- [Inclusive Tech- Conducting Humane Code Reviews](../../Courses/Cloud%20Computing/Inclusive%20Tech-%20Conducting%20Humane%20Code%20Reviews.md)
+- [Azure Essential Training for Developers](../../Courses/Cloud%20Computing/Azure%20Essential%20Training%20for%20Developers.md)

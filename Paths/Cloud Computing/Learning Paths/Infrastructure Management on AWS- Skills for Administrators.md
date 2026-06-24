@@ -19,23 +19,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Aws Essential Training For Administrators]]'
+  - course: '[Aws Essential Training For Administrators](../../../Courses/Cloud%20Computing/Aws%20Essential%20Training%20For%20Administrators.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Amazon EC2 Essential Training]]'
+  - course: '[Amazon EC2 Essential Training](../../../Courses/Cloud%20Computing/Amazon%20EC2%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[AWS- Networking]]'
+  - course: '[AWS- Networking](../../../Courses/Cloud%20Computing/AWS-%20Networking.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Complete Guide to AWS Security and Compliance Management]]'
+  - course: '[Complete Guide to AWS Security and Compliance Management](../../../Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Security%20and%20Compliance%20Management.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[AWS- Storage and Data Management]]'
+  - course: '[AWS- Storage and Data Management](../../../Courses/Cloud%20Computing/AWS-%20Storage%20and%20Data%20Management.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -50,21 +50,21 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Aws Essential Training For Administrators]]
-2. [[Amazon EC2 Essential Training]] _(4h 27m)_
-3. [[AWS- Networking]] _(4h 27m)_
-4. [[Complete Guide to AWS Security and Compliance Management]] _(11h)_
-5. [[AWS- Storage and Data Management]] _(5h 4m)_
+1. [Aws Essential Training For Administrators](../../../Courses/Cloud%20Computing/Aws%20Essential%20Training%20For%20Administrators.md)
+2. [Amazon EC2 Essential Training](../../../Courses/Cloud%20Computing/Amazon%20EC2%20Essential%20Training.md) _(4h 27m)_
+3. [AWS- Networking](../../../Courses/Cloud%20Computing/AWS-%20Networking.md) _(4h 27m)_
+4. [Complete Guide to AWS Security and Compliance Management](../../../Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Security%20and%20Compliance%20Management.md) _(11h)_
+5. [AWS- Storage and Data Management](../../../Courses/Cloud%20Computing/AWS-%20Storage%20and%20Data%20Management.md) _(5h 4m)_
 
 ## Course Flow
 
-1. [[Aws Essential Training For Administrators]] → 2. [[Amazon EC2 Essential Training]] → 3. [[AWS- Networking]] → 4. [[Complete Guide to AWS Security and Compliance Management]] → 5. [[AWS- Storage and Data Management]]
+1. [Aws Essential Training For Administrators](../../../Courses/Cloud%20Computing/Aws%20Essential%20Training%20For%20Administrators.md) → 2. [Amazon EC2 Essential Training](../../../Courses/Cloud%20Computing/Amazon%20EC2%20Essential%20Training.md) → 3. [AWS- Networking](../../../Courses/Cloud%20Computing/AWS-%20Networking.md) → 4. [Complete Guide to AWS Security and Compliance Management](../../../Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Security%20and%20Compliance%20Management.md) → 5. [AWS- Storage and Data Management](../../../Courses/Cloud%20Computing/AWS-%20Storage%20and%20Data%20Management.md)
 
 ## Topics
 
-- [[Cloud Computing]]
-- [[DevOps]]
+- [Cloud Computing](../../../Topics/Cloud%20Computing.md)
+- [DevOps](../../../Topics/DevOps.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cloud Computing]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cloud Computing](../../../Topics/Cloud%20Computing.md)

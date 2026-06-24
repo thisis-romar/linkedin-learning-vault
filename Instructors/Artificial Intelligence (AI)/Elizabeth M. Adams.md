@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leading Responsible AI in Organizations]]
+- [Leading Responsible AI in Organizations](../../Courses/Artificial%20Intelligence%20(AI)/Leading%20Responsible%20AI%20in%20Organizations.md)

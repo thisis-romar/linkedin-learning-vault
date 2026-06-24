@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Supply Chain Cybersecurity- Preventing Supply Chain Attacks]]
-- [[Cybersecurity Careers- Become a Business Information Security Officer (BISO)]]
-- [[Cybersecurity Awareness- Ransomware]]
+- [Supply Chain Cybersecurity- Preventing Supply Chain Attacks](../../Courses/Cybersecurity/Supply%20Chain%20Cybersecurity-%20Preventing%20Supply%20Chain%20Attacks.md)
+- [Cybersecurity Careers- Become a Business Information Security Officer (BISO)](../../Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20a%20Business%20Information%20Security%20Officer%20(BISO).md)
+- [Cybersecurity Awareness- Ransomware](../../Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Ransomware.md)

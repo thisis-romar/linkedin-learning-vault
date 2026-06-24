@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Testing]]
-- [[Succeeding in Software Testing]]
+- [Agile Testing](../../Skills/Software%20Development/Agile%20Testing.md)
+- [Succeeding in Software Testing](../../Courses/Software%20Development/Succeeding%20in%20Software%20Testing.md)

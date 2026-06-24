@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Web Accessibility for Developers]]
+- [Web Accessibility for Developers](../../Courses/Web%20Development/Web%20Accessibility%20for%20Developers.md)

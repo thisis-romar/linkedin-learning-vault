@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[How to Be an Agent Boss- Leading AI Agents at Work]]
+- [How to Be an Agent Boss- Leading AI Agents at Work](../../Courses/DevOps/How%20to%20Be%20an%20Agent%20Boss-%20Leading%20AI%20Agents%20at%20Work.md)

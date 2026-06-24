@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Playwright]] — Intermediate · 27,269 learners
+- [Learning Playwright](../../Courses/Software%20Development/Learning%20Playwright.md) — Intermediate · 27,269 learners
 
 ## Related Skills
 
-- [[Automation]] — 1 shared course
+- [Automation](Automation.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Nail Your DevOps Interview]] — 1 mentions
+1. [Nail Your DevOps Interview](../../Courses/Cloud%20Computing/Nail%20Your%20DevOps%20Interview.md) — 1 mentions

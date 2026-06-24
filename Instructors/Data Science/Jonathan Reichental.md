@@ -30,10 +30,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Everything as a Service (XaaS) is the Future of Business]]
-- [[Foundations of the Fourth Industrial Revolution (Industry 4.0)]]
-- [[Blockchain Basics]]
-- [[Blockchain- Beyond the Basics]]
-- [[Learning Data Governance]]
-- [[Introduction to Generative AI with GPT]]
-- [[Automated Data Governance in Practice]]
+- [Everything as a Service (XaaS) is the Future of Business](../../Courses/Cloud%20Computing/Everything%20as%20a%20Service%20(XaaS)%20is%20the%20Future%20of%20Business.md)
+- [Foundations of the Fourth Industrial Revolution (Industry 4.0)](../../Courses/Cloud%20Computing/Foundations%20of%20the%20Fourth%20Industrial%20Revolution%20(Industry%204.0).md)
+- [Blockchain Basics](../../Courses/Cloud%20Computing/Blockchain%20Basics.md)
+- [Blockchain- Beyond the Basics](../../Courses/Cloud%20Computing/Blockchain-%20Beyond%20the%20Basics.md)
+- [Learning Data Governance](../../Courses/Data%20Science/Learning%20Data%20Governance.md)
+- [Introduction to Generative AI with GPT](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Generative%20AI%20with%20GPT.md)
+- [Automated Data Governance in Practice](../../Courses/Data%20Science/Automated%20Data%20Governance%20in%20Practice.md)

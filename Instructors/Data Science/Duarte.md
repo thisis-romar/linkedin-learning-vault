@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Decision-Making and Communication for Leaders with Nancy Duarte]]
+- [Data Decision-Making and Communication for Leaders with Nancy Duarte](../../Courses/Data%20Science/Data%20Decision-Making%20and%20Communication%20for%20Leaders%20with%20Nancy%20Duarte.md)

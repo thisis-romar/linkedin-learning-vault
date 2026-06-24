@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data-Driven Decisions in Business Operations]]
+- [Data-Driven Decisions in Business Operations](../../Courses/Data%20Science/Data-Driven%20Decisions%20in%20Business%20Operations.md)

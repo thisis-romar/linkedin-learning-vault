@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Product Management- Building a Product Strategy]]
-- [[Product Management- Building a Product Roadmap]]
+- [Product Management- Building a Product Strategy](../../Courses/Data%20Science/Product%20Management-%20Building%20a%20Product%20Strategy.md)
+- [Product Management- Building a Product Roadmap](../../Courses/Data%20Science/Product%20Management-%20Building%20a%20Product%20Roadmap.md)

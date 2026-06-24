@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python for Data Visualization]]
-- [[15 Tips for Landing a Data Science Job]]
-- [[Get a Remote Data Science Job]]
+- [Python for Data Visualization](../../Courses/Data%20Science/Python%20for%20Data%20Visualization.md)
+- [15 Tips for Landing a Data Science Job](../../Courses/Cloud%20Computing/15%20Tips%20for%20Landing%20a%20Data%20Science%20Job.md)
+- [Get a Remote Data Science Job](../../Courses/Cloud%20Computing/Get%20a%20Remote%20Data%20Science%20Job.md)

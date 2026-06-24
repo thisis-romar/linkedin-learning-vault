@@ -22,6 +22,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Kubernetes- Your First Project (2021)]]
-- [[Docker Essential Training]]
-- [[DevOps Foundations- Your First Project]]
+- [Kubernetes- Your First Project (2021)](../../Courses/DevOps/Kubernetes-%20Your%20First%20Project%20(2021).md)
+- [Docker Essential Training](../../Courses/DevOps/Docker%20Essential%20Training.md)
+- [DevOps Foundations- Your First Project](../../Courses/DevOps/DevOps%20Foundations-%20Your%20First%20Project.md)

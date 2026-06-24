@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python for Data Analysis- Solve Real-World Challenges]]
-- [[Advanced Python in Excel- Data Analysis and Visualization]]
+- [Python for Data Analysis- Solve Real-World Challenges](../../Courses/Software%20Development/Python%20for%20Data%20Analysis-%20Solve%20Real-World%20Challenges.md)
+- [Advanced Python in Excel- Data Analysis and Visualization](../../Courses/Data%20Science/Advanced%20Python%20in%20Excel-%20Data%20Analysis%20and%20Visualization.md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[GitHub Issues and Projects for Teams]]
+- [GitHub Issues and Projects for Teams](../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Issues%20and%20Projects%20for%20Teams.md)

@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Responsible AI to the Rescue]] — Beginner · 24m · 552,973 learners
+- [Responsible AI to the Rescue](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20to%20the%20Rescue.md) — Beginner · 24m · 552,973 learners
 
 ## Related Skills
 
-- [[Responsible AI]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Responsible AI](Responsible%20AI.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
+1. [Understanding Generative AI in Cloud Computing- Services and Use Cases](../../Courses/Artificial%20Intelligence%20(AI)/Understanding%20Generative%20AI%20in%20Cloud%20Computing-%20Services%20and%20Use%20Cases.md) — 1 mentions

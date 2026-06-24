@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Planning For The Remote First Work From Anywhere Organization]]
+- [Planning For The Remote First Work From Anywhere Organization](../../Courses/Cloud%20Computing/Planning%20For%20The%20Remote%20First%20Work%20From%20Anywhere%20Organization.md)

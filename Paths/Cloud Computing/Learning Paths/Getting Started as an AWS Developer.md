@@ -19,19 +19,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Learning Amazon Web Services Aws For Developers]]'
+  - course: '[Learning Amazon Web Services Aws For Developers](../../../Courses/Cloud%20Computing/Learning%20Amazon%20Web%20Services%20Aws%20For%20Developers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building Serverless Applications in AWS]]'
+  - course: '[Building Serverless Applications in AWS](../../../Courses/Cloud%20Computing/Building%20Serverless%20Applications%20in%20AWS.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[AWS for Developers- Identity Access Management (IAM)]]'
+  - course: '[AWS for Developers- Identity Access Management (IAM)](../../../Courses/Cloud%20Computing/AWS%20for%20Developers-%20Identity%20Access%20Management%20(IAM).md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[AWS Quick Tips for Developers]]'
+  - course: '[AWS Quick Tips for Developers](../../../Courses/Cloud%20Computing/AWS%20Quick%20Tips%20for%20Developers.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -46,26 +46,26 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Learning Amazon Web Services Aws For Developers]]
-2. [[Building Serverless Applications in AWS]] _(27m)_
-3. [[AWS for Developers- Identity Access Management (IAM)]] _(49m)_
-4. [[AWS Quick Tips for Developers]] _(24m)_
+1. [Learning Amazon Web Services Aws For Developers](../../../Courses/Cloud%20Computing/Learning%20Amazon%20Web%20Services%20Aws%20For%20Developers.md)
+2. [Building Serverless Applications in AWS](../../../Courses/Cloud%20Computing/Building%20Serverless%20Applications%20in%20AWS.md) _(27m)_
+3. [AWS for Developers- Identity Access Management (IAM)](../../../Courses/Cloud%20Computing/AWS%20for%20Developers-%20Identity%20Access%20Management%20(IAM).md) _(49m)_
+4. [AWS Quick Tips for Developers](../../../Courses/Cloud%20Computing/AWS%20Quick%20Tips%20for%20Developers.md) _(24m)_
 
 ## Course Flow
 
-1. [[Learning Amazon Web Services Aws For Developers]] → 2. [[Building Serverless Applications in AWS]] → 3. [[AWS for Developers- Identity Access Management (IAM)]] → 4. [[AWS Quick Tips for Developers]]
+1. [Learning Amazon Web Services Aws For Developers](../../../Courses/Cloud%20Computing/Learning%20Amazon%20Web%20Services%20Aws%20For%20Developers.md) → 2. [Building Serverless Applications in AWS](../../../Courses/Cloud%20Computing/Building%20Serverless%20Applications%20in%20AWS.md) → 3. [AWS for Developers- Identity Access Management (IAM)](../../../Courses/Cloud%20Computing/AWS%20for%20Developers-%20Identity%20Access%20Management%20(IAM).md) → 4. [AWS Quick Tips for Developers](../../../Courses/Cloud%20Computing/AWS%20Quick%20Tips%20for%20Developers.md)
 
 ## Topics
 
-- [[Cloud Computing]]
-- [[Cybersecurity]]
+- [Cloud Computing](../../../Topics/Cloud%20Computing.md)
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Getting Started with Cloud Development]] (1 shared courses)
+- [Getting Started with Cloud Development](Getting%20Started%20with%20Cloud%20Development.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cloud Computing]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cloud Computing](../../../Topics/Cloud%20Computing.md)

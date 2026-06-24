@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel and ChatGPT- Data Analysis Power Tips]]
+- [Excel and ChatGPT- Data Analysis Power Tips](../../Courses/Artificial%20Intelligence%20(AI)/Excel%20and%20ChatGPT-%20Data%20Analysis%20Power%20Tips.md)

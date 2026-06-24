@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[C- Essential Training 2- Generics, Collections, and LINQ]]
+- [C- Essential Training 2- Generics, Collections, and LINQ](../../Courses/Software%20Development/C-%20Essential%20Training%202-%20Generics%2C%20Collections%2C%20and%20LINQ.md)

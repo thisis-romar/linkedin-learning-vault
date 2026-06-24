@@ -20,6 +20,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Programming Foundations- Software Testing-QA]]
-- [[Selenium Essential Training]]
-- [[Test Automation Foundations]]
+- [Programming Foundations- Software Testing-QA](../../Courses/Software%20Development/Programming%20Foundations-%20Software%20Testing-QA.md)
+- [Selenium Essential Training](../../Courses/Software%20Development/Selenium%20Essential%20Training.md)
+- [Test Automation Foundations](../../Courses/Software%20Development/Test%20Automation%20Foundations.md)

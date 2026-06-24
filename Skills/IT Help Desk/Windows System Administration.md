@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Windows Server 2022- Installation and Configuration]] — Beginner · 1h 40m · 88,872 learners
-- [[Windows 10 Configure And Support Core Services]] — Intermediate · 27,989 learners
+- [Windows Server 2022- Installation and Configuration](../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Installation%20and%20Configuration.md) — Beginner · 1h 40m · 88,872 learners
+- [Windows 10 Configure And Support Core Services](../../Courses/IT%20Help%20Desk/Windows%2010%20Configure%20And%20Support%20Core%20Services.md) — Intermediate · 27,989 learners
 
 ## Related Skills
 
-- [[Windows Server]] — 1 shared course
-- [[Windows 10]] — 1 shared course
+- [Windows Server](../Network%20and%20System%20Administration/Windows%20Server.md) — 1 shared course
+- [Windows 10](../Network%20and%20System%20Administration/Windows%2010.md) — 1 shared course

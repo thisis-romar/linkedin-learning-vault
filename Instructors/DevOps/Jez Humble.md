@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Lean Technology Strategy- Running Agile at Scale]]
-- [[Lean Technology Strategy- Building High-Performing Teams]]
+- [Lean Technology Strategy- Running Agile at Scale](../../Courses/DevOps/Lean%20Technology%20Strategy-%20Running%20Agile%20at%20Scale.md)
+- [Lean Technology Strategy- Building High-Performing Teams](../../Courses/DevOps/Lean%20Technology%20Strategy-%20Building%20High-Performing%20Teams.md)

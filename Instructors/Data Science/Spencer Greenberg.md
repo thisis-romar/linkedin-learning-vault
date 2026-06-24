@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Sharpen Your Decision-Making with Nuanced Thinking Techniques]]
+- [Sharpen Your Decision-Making with Nuanced Thinking Techniques](../../Courses/Data%20Science/Sharpen%20Your%20Decision-Making%20with%20Nuanced%20Thinking%20Techniques.md)

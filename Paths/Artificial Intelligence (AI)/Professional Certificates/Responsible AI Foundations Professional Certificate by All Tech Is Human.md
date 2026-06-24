@@ -19,19 +19,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Governing Agentic Ai Systems By All Tech Is Human]]'
+  - course: '[Governing Agentic Ai Systems By All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/Governing%20Agentic%20Ai%20Systems%20By%20All%20Tech%20Is%20Human.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]]'
+  - course: '[History of Responsible AI- From Principles to Professionalization by All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/History%20of%20Responsible%20AI-%20From%20Principles%20to%20Professionalization%20by%20All%20Tech%20Is%20Human.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]]'
+  - course: '[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human]]'
+  - course: '[Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/Principles%20of%20Responsible%20AI-%20Identifying%2C%20Understanding%2C%20and%20Mitigating%20Risks%20by%20All%20Tech%20Is%20Human.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -46,20 +46,20 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Governing Agentic Ai Systems By All Tech Is Human]]
-2. [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] _(12m)_
-3. [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]] _(21m)_
-4. [[Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human]] _(26m)_
+1. [Governing Agentic Ai Systems By All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/Governing%20Agentic%20Ai%20Systems%20By%20All%20Tech%20Is%20Human.md)
+2. [History of Responsible AI- From Principles to Professionalization by All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/History%20of%20Responsible%20AI-%20From%20Principles%20to%20Professionalization%20by%20All%20Tech%20Is%20Human.md) _(12m)_
+3. [Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md) _(21m)_
+4. [Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/Principles%20of%20Responsible%20AI-%20Identifying%2C%20Understanding%2C%20and%20Mitigating%20Risks%20by%20All%20Tech%20Is%20Human.md) _(26m)_
 
 ## Course Flow
 
-1. [[Governing Agentic Ai Systems By All Tech Is Human]] → 2. [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] → 3. [[Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human]] → 4. [[Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human]]
+1. [Governing Agentic Ai Systems By All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/Governing%20Agentic%20Ai%20Systems%20By%20All%20Tech%20Is%20Human.md) → 2. [History of Responsible AI- From Principles to Professionalization by All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/History%20of%20Responsible%20AI-%20From%20Principles%20to%20Professionalization%20by%20All%20Tech%20Is%20Human.md) → 3. [Operationalizing AI Governance- Strategy and Foundations by All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md) → 4. [Principles of Responsible AI- Identifying, Understanding, and Mitigating Risks by All Tech Is Human](../../../Courses/Artificial%20Intelligence%20(AI)/Principles%20of%20Responsible%20AI-%20Identifying%2C%20Understanding%2C%20and%20Mitigating%20Risks%20by%20All%20Tech%20Is%20Human.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Cybersecurity]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

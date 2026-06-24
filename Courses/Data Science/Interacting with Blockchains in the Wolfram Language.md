@@ -17,11 +17,11 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEERoS4MfXsLQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1704327196182?e=2147483647&amp;v=beta&amp;t=4KQoCh1u79YfCB85rWRpnk6jGoj9ktRYSu5yc7ioyRk"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Build Your Wolfram Language Skills]]'
+  - '[Build Your Wolfram Language Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Wolfram%20Language%20Skills.md)'
 prev_courses:
-  - '[[Modeling Market Prices Using Stochastic Processes with Wolfram Language]]'
+  - '[Modeling Market Prices Using Stochastic Processes with Wolfram Language](Modeling%20Market%20Prices%20Using%20Stochastic%20Processes%20with%20Wolfram%20Language.md)'
 next_courses:
-  - '[[Built-in Machine Learning in the Wolfram Language]]'
+  - '[Built-in Machine Learning in the Wolfram Language](Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.md)'
 path_nav: '[{"path":"Build Your Wolfram Language Skills","position":6,"total":8,"prev":"Modeling Market Prices Using Stochastic Processes with Wolfram Language","next":"Built-in Machine Learning in the Wolfram Language"}]'
 path_count: 1
 tags:
@@ -69,7 +69,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=2)** Thank you for joining us today. My name is Christian and I'm going to show you how to interact with different blockchains using the [[Wolfram Language]]. All right. So with the Wolfram Language, you can read and you can write the [[Blockchain]]. So let me start with the read-only operations to you explain the different things you can do with it. All right. So let's start with BlockchainData. So BlockchainData is the most simple function we have to explore a blockchain. Most of these functions return an association. As you can see here. So when you want to See, it's usually useful to show this as a dataset. All right. So for example, in this case we have the Bitcoin blockchain. And here you can see some other properties about this blockchain. So it's a good opportunity to show the BlockchainBase option. So with the BlockchainBase option, you can specify which blockchain you want to connect with. So let's say if we choose the [[Ethereum]] blockchain. You'll see here the properties of this.
+> **[0:02](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=2)** Thank you for joining us today. My name is Christian and I'm going to show you how to interact with different blockchains using the [Wolfram Language](../../Skills/Data%20Science/Wolfram%20Language.md). All right. So with the Wolfram Language, you can read and you can write the [Blockchain](../../Skills/Data%20Science/Blockchain.md). So let me start with the read-only operations to you explain the different things you can do with it. All right. So let's start with BlockchainData. So BlockchainData is the most simple function we have to explore a blockchain. Most of these functions return an association. As you can see here. So when you want to See, it's usually useful to show this as a dataset. All right. So for example, in this case we have the Bitcoin blockchain. And here you can see some other properties about this blockchain. So it's a good opportunity to show the BlockchainBase option. So with the BlockchainBase option, you can specify which blockchain you want to connect with. So let's say if we choose the [Ethereum](../../Skills/Data%20Science/Ethereum.md) blockchain. You'll see here the properties of this.
 >
 > **[1:37](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=97)** You can see they're different from the Bitcoin blockchain. And we support many blockchains. And not only we support the maintenance, but also their testnet. So that's very useful because when you are doing experiments and you are making transactions and those kind of things, you don't want to use real money, so you can use the testnet or devnet like in the case of ARK. So again these are the blockchain we support, these are the Bitcoin, Ethereum, the ARK networks, both their mainnet and testnets. In the case of ARK, it's the devnet. And we just introduced the bloxberg blockchain. They only have a mainnet. So that's the thing we support. So when you want to specify the network, let's say ARK, you use this list as the syntax and you get the result here. Also if you go to our documentation, you'll see the details here and examples on how to use this.
 >
@@ -77,7 +77,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (9), [[Wolfram Language]] (2), [[Ethereum]] (2)
+> **Frameworks & Libraries:** [Blockchain](../../Skills/Data%20Science/Blockchain.md) (9), [Wolfram Language](../../Skills/Data%20Science/Wolfram%20Language.md) (2), [Ethereum](../../Skills/Data%20Science/Ethereum.md) (2)
 > **Env Vars:** ark (4)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -91,7 +91,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=0)** So let's explore the blocks. So we have the BlockchainBlockData function. The BlockchainBlockData function receives and a block height or a block hash and displays information about that specific block. So in this case, we are using the default [[Blockchain]], which is the Bitcoin blockchain. If you want to see the default blockchain, remember we had this BlockchainBase option. So the BlockchainBase option takes as default the $BlockchainBase variable. So the automatic, the automatic value is a Bitcoin blockchain, as you can see here. So if I change this, let's say to [[Ethereum]]. Now I don't have to use the BlockchainBase option anymore because it will default to Ethereum. So in this case, this is or you can, maybe you can see it here, but let's see with BlockchainData. We have the Ethereum blockchain here. But let's keep talking about blocks. So let me get that to the Bitcoin blockchain. And as I was saying, the BlockchainBlockData receives
+> **[0:00](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=0)** So let's explore the blocks. So we have the BlockchainBlockData function. The BlockchainBlockData function receives and a block height or a block hash and displays information about that specific block. So in this case, we are using the default [Blockchain](../../Skills/Data%20Science/Blockchain.md), which is the Bitcoin blockchain. If you want to see the default blockchain, remember we had this BlockchainBase option. So the BlockchainBase option takes as default the $BlockchainBase variable. So the automatic, the automatic value is a Bitcoin blockchain, as you can see here. So if I change this, let's say to [Ethereum](../../Skills/Data%20Science/Ethereum.md). Now I don't have to use the BlockchainBase option anymore because it will default to Ethereum. So in this case, this is or you can, maybe you can see it here, but let's see with BlockchainData. We have the Ethereum blockchain here. But let's keep talking about blocks. So let me get that to the Bitcoin blockchain. And as I was saying, the BlockchainBlockData receives
 >
 > **[1:36](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=96)** a block height. In this case, this is just some random Bitcoin block. But I can also use the BlockHash. So for example you see this BlockHash here. I'll use a different one. And I get the result here. I can also ask for not only one block, but a list of blocks. So if I do BlockchainBlockData of list, and you can see that in this list, I have three different values. So in this case, I have two heights and I have one hash. And this should work just fine. And I will get the results here, as you can see. Another thing is that you can ask for specific properties about a block. So we had these block 123 123. And if I ask for this particular property, I get it here. Our documentation is very important. And when you are experimenting with this, because it's super helpful, because of the amount of examples we have here. But one thing I want to note about this documentation is how to navigate it.
 >
@@ -107,7 +107,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (11), [[Ethereum]] (4)
+> **Frameworks & Libraries:** [Blockchain](../../Skills/Data%20Science/Blockchain.md) (11), [Ethereum](../../Skills/Data%20Science/Ethereum.md) (4)
 > **Analogies:** for example (4)
 > **UI Navigation:** go to (3)
 > **Env Vars:** ark (2)
@@ -123,7 +123,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980&t=0)** Let's talk now about transactions. So we have the BlockchainTransactionData function. So BlockchainTransactionData uses transaction ID, usually a hash, to return information about that transaction. So where can we find a transaction. I can do something like BlockchainBlockData. Let's, I don't know, let's use the last block. So -1 means the last block. And from here I'm going to ask for a transaction list and do a random choice because I only need one transaction. Okay. Let's try this. All right. So this is just one random transaction of the latest Bitcoin block. So let's try this. All right. So again, I have information about this transaction. Once again, every [[Blockchain]] is different. You can go to, for example, let's go to the [[Ethereum]] blockchain and then BlockchainTransactionData. You see here this is for Ethereum. And you can see the different properties you can get from this function, which are different from the Bitcoin properties or the ARK properties.
+> **[0:00](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980&t=0)** Let's talk now about transactions. So we have the BlockchainTransactionData function. So BlockchainTransactionData uses transaction ID, usually a hash, to return information about that transaction. So where can we find a transaction. I can do something like BlockchainBlockData. Let's, I don't know, let's use the last block. So -1 means the last block. And from here I'm going to ask for a transaction list and do a random choice because I only need one transaction. Okay. Let's try this. All right. So this is just one random transaction of the latest Bitcoin block. So let's try this. All right. So again, I have information about this transaction. Once again, every [Blockchain](../../Skills/Data%20Science/Blockchain.md) is different. You can go to, for example, let's go to the [Ethereum](../../Skills/Data%20Science/Ethereum.md) blockchain and then BlockchainTransactionData. You see here this is for Ethereum. And you can see the different properties you can get from this function, which are different from the Bitcoin properties or the ARK properties.
 >
 > **[1:38](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980&t=98)** All right. So as I was saying before, in the BlockchainBlockData function, we try to return a lot of computable data. So let's say I do something like. Let's ask for the total output. That's the amount of Bitcoins in the outputs here. And I have here a quantity that has units. It has Bitcoins as units. So actually, if you see this, you see the actual structure of this expression. Right. So what can I do with this? I can do something like, let's say, CurrencyConvert this amount to, say, USDollars. And I'll get the, I'll get the value using the current Bitcoin price. I can try with more exotic currency. Let's try something like PeruvianSoles. Yeah, and I get the result here. Again, just as we did with the other functions, I can ask for multiple properties.
 >
@@ -131,7 +131,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (3), [[Ethereum]] (2)
+> **Frameworks & Libraries:** [Blockchain](../../Skills/Data%20Science/Blockchain.md) (3), [Ethereum](../../Skills/Data%20Science/Ethereum.md) (2)
 > **Env Vars:** ark (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -146,13 +146,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=2)** We can extract data about addresses. So the addresses are handled differently in each [[Blockchain]]. But we try to have a consistent design for this to work with everything. So where can we get an address? So let's say, let's use a BlockchainTransactionData. I have a hash here. So this is from the [[Ethereum]] blockchain. So if you see this here, you see a lot of properties, and you see that this transaction has a sender and a receiver. So let's ask for these two properties and let me remove this. All right. So let's pick one of these. Let's say the address will be the first. All right. Now we can use BlockchainAddressData. And for now, I'll stick to Ethereum blockchain. So I'll set the $BlockchainBase variable to Ethereum so I don't have to write BlockchainBase goes to Ethereum every time. All right. So let's try with this address.
+> **[0:02](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=2)** We can extract data about addresses. So the addresses are handled differently in each [Blockchain](../../Skills/Data%20Science/Blockchain.md). But we try to have a consistent design for this to work with everything. So where can we get an address? So let's say, let's use a BlockchainTransactionData. I have a hash here. So this is from the [Ethereum](../../Skills/Data%20Science/Ethereum.md) blockchain. So if you see this here, you see a lot of properties, and you see that this transaction has a sender and a receiver. So let's ask for these two properties and let me remove this. All right. So let's pick one of these. Let's say the address will be the first. All right. Now we can use BlockchainAddressData. And for now, I'll stick to Ethereum blockchain. So I'll set the $BlockchainBase variable to Ethereum so I don't have to write BlockchainBase goes to Ethereum every time. All right. So let's try with this address.
 >
 > **[1:37](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=97)** And what I get here is a summary of this address. So I get the balance, I get the type. In this case, it's an Ethereum address. A Bitcoin address is a bit different. Once again, you can go to the documentation, go to the specific Bitcoin section, go to BlockchainAddressData and you will see here all the different properties and examples of the function working with Bitcoin. All right. So let's try with the other address. So this one. So we see here that... Oops, come on. All right. So we see here that it's a little bit different. In this case, we had an address of type externally owned account which is basically just a regular address. And in this case, this is a contract address. So you have more properties here, as you can see. Again, many of these are computed properties that you can use to do other types of computations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (5), [[Blockchain]] (3)
+> **Frameworks & Libraries:** [Ethereum](../../Skills/Data%20Science/Ethereum.md) (5), [Blockchain](../../Skills/Data%20Science/Blockchain.md) (3)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (3)
 > **Documentation:** the documentation (1)
@@ -166,7 +166,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=0)** All right. So since we are working with [[Ethereum]] [[Blockchain]], let's try one function that currently just works with the Ethereum-type blockchains. In this case, we support only two blockchains based on Ethereum. So the Ethereum blockchain itself and the bloxberg blockchain. All right. So with the BlockchainTokenData, you get information about [[Tokens]] and like why we don't support Bitcoin here, because Bitcoin doesn't support tokens. So currently we only have, in the blockchains, the only ones that support tokens are the Ethereum-based blockchains. All right. So let's try something like, I don't know, the Tronix token.
+> **[0:00](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=0)** All right. So since we are working with [Ethereum](../../Skills/Data%20Science/Ethereum.md) [Blockchain](../../Skills/Data%20Science/Blockchain.md), let's try one function that currently just works with the Ethereum-type blockchains. In this case, we support only two blockchains based on Ethereum. So the Ethereum blockchain itself and the bloxberg blockchain. All right. So with the BlockchainTokenData, you get information about [Tokens](../../Skills/Web%20Development/Tokens.md) and like why we don't support Bitcoin here, because Bitcoin doesn't support tokens. So currently we only have, in the blockchains, the only ones that support tokens are the Ethereum-based blockchains. All right. So let's try something like, I don't know, the Tronix token.
 >
 > **[1:06](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=66)** And as you can see here, you get a lot of properties from this token. And we not only support the ERC20 tokens, we also support ERC721. So let's see the CryptoKitties token. And there are many ways on how to call a token. So in this case, I'm using the symbol that I could do something like CryptoKitties and this should work just fine. I get the same result here. And the BlockchainTokenData is a very complete function. You can use different filters and different ways to get information. So for example, in this case, I'm listing all the ERC20 tokens. And I have a huge list here of all the tokens. Let's try something like, just for you to see that we support other Ethereum-based blockchains. So if I try this with the bloxberg blockchain, you see that that blockchain has its own type of tokens.
 >
@@ -178,7 +178,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (10), [[Ethereum]] (7), [[Blockchain]] (5)
+> **Frameworks & Libraries:** [Tokens](../../Skills/Web%20Development/Tokens.md) (10), [Ethereum](../../Skills/Data%20Science/Ethereum.md) (7), [Blockchain](../../Skills/Data%20Science/Blockchain.md) (5)
 > **Env Vars:** erc20 (2), erc721 (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -194,11 +194,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=1)** Another function that works just for [[Ethereum]], well, Ethereum-based blockchains. It's the BlockchainContractValue function. So with this function you can call a specific function in a smart contract deployed to the Ethereum [[Blockchain]]. So in this case, I have this contract here. And if you have seen the contract, if you have the code, you have seen that in Explorer, and you know the functions this contract has, like in this case,
+> **[0:01](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=1)** Another function that works just for [Ethereum](../../Skills/Data%20Science/Ethereum.md), well, Ethereum-based blockchains. It's the BlockchainContractValue function. So with this function you can call a specific function in a smart contract deployed to the Ethereum [Blockchain](../../Skills/Data%20Science/Blockchain.md). So in this case, I have this contract here. And if you have seen the contract, if you have the code, you have seen that in Explorer, and you know the functions this contract has, like in this case,
 >
 > **[0:52](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=52)** I'm going to use this address for the contract and I already know that this contract has a function called name that is of a string type. And if I run this function, what I'm doing is, calling that smart contract's function and returning its results. In this case, the contract which I only knew by its address, I now know that the name is Tronix because I'm calling this function that returns a name and I can do something like symbol. And this returns also its symbol provided by the smart contract. Again, this is fully documented. So I encourage you to check the documentation. All right. So we've seen here many functions to read from the blockchains and to do other computations based on the results. So let's see now how you can write to a blockchain. So basically what you need is a BlockchainTransaction function. And again the documentation is super useful here.
 >
-> **[2:27](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=147)** Because we have examples for every type of transaction. And you can see here for Bitcoin and for Ethereum and for ARK. Again, this is just a general blockchain transaction page. You can go to, let's say, the ARK blockchain, and you go to BlockchainTransaction. And you see here all the different types of transactions supported by the [[Wolfram Language]]. So in this case, I'm going to use the ARK blockchain because it's very fast, and I have a desktop wallet here. And I can show you how I interact with it. So before this, one of the, what I usually do when I want to interact with blockchains like writing to the blockchains, I usually
+> **[2:27](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=147)** Because we have examples for every type of transaction. And you can see here for Bitcoin and for Ethereum and for ARK. Again, this is just a general blockchain transaction page. You can go to, let's say, the ARK blockchain, and you go to BlockchainTransaction. And you see here all the different types of transactions supported by the [Wolfram Language](../../Skills/Data%20Science/Wolfram%20Language.md). So in this case, I'm going to use the ARK blockchain because it's very fast, and I have a desktop wallet here. And I can show you how I interact with it. So before this, one of the, what I usually do when I want to interact with blockchains like writing to the blockchains, I usually
 >
 > **[3:28](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=208)** create an address and I send some money there. So what you need for that is a pair of private and public keys. So we have the GenerateAsymmetricKeyPair function, it's one of the many cryptographic functions we have. We have a short form to use as an input to generate the keys that use elliptic curve appropriate for this blockchain. So I can... This also works if I do something like Bitcoin. Well, they use the same curve. There may be some small details like if it's compressed or not, but you have more things to read here in documentation, and different ways to use this function. But for our purposes, I'm just going to create these keys here. And for this, there's an auxiliary function called BlockchainKeyEncode that receives, in this case, what I want is a public key. And I want to encode this public key as an address. And I'm going to use the ARK Devnet. Oops.
 >
@@ -216,7 +216,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), [[Wolfram Language]] (1)
+> **Frameworks & Libraries:** [Blockchain](../../Skills/Data%20Science/Blockchain.md) (12), [Ethereum](../../Skills/Data%20Science/Ethereum.md) (4), [Wolfram Language](../../Skills/Data%20Science/Wolfram%20Language.md) (1)
 > **Env Vars:** ark (8)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (3)
@@ -228,7 +228,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Wolfram Research]]
+- [Wolfram Research](../../Instructors/Data%20Science/Wolfram%20Research.md)
 
 ## Skills Covered
 
@@ -237,22 +237,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Build Your Wolfram Language Skills]]
-← [[Modeling Market Prices Using Stochastic Processes with Wolfram Language]] | **6 of 8** | [[Built-in Machine Learning in the Wolfram Language]] →
+### In [Build Your Wolfram Language Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Wolfram%20Language%20Skills.md)
+← [Modeling Market Prices Using Stochastic Processes with Wolfram Language](Modeling%20Market%20Prices%20Using%20Stochastic%20Processes%20with%20Wolfram%20Language.md) | **6 of 8** | [Built-in Machine Learning in the Wolfram Language](Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.md) →
 
 ## Appears In
 
-- [[Build Your Wolfram Language Skills]]
+- [Build Your Wolfram Language Skills](../../Paths/Data%20Science/Learning%20Paths/Build%20Your%20Wolfram%20Language%20Skills.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Building Blocks for Deep Learning in the Wolfram Language]] — Wolfram Language
-- [[Built-in Machine Learning in the Wolfram Language]] — Wolfram Language
-- [[Modeling Market Prices Using Stochastic Processes with Wolfram Language]] — Wolfram Language
-- [[Wavelet Analysis- Applications with Wolfram Language]] — Wolfram Language
-- [[Wavelet Analysis- Concepts with Wolfram Language]] — Wolfram Language
+- [Building Blocks for Deep Learning in the Wolfram Language](Building%20Blocks%20for%20Deep%20Learning%20in%20the%20Wolfram%20Language.md) — Wolfram Language
+- [Built-in Machine Learning in the Wolfram Language](Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.md) — Wolfram Language
+- [Modeling Market Prices Using Stochastic Processes with Wolfram Language](Modeling%20Market%20Prices%20Using%20Stochastic%20Processes%20with%20Wolfram%20Language.md) — Wolfram Language
+- [Wavelet Analysis- Applications with Wolfram Language](Wavelet%20Analysis-%20Applications%20with%20Wolfram%20Language.md) — Wolfram Language
+- [Wavelet Analysis- Concepts with Wolfram Language](Wavelet%20Analysis-%20Concepts%20with%20Wolfram%20Language.md) — Wolfram Language
 
 ---
 

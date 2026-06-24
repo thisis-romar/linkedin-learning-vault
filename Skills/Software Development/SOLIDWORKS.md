@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SOLIDWORKS 2024 Essential Training]] — 10h · 4,931 learners
-- [[SOLIDWORKS 2022 Essential Training]] — 8h 54m · 1,475 learners
+- [SOLIDWORKS 2024 Essential Training](../../Courses/Software%20Development/SOLIDWORKS%202024%20Essential%20Training.md) — 10h · 4,931 learners
+- [SOLIDWORKS 2022 Essential Training](../../Courses/Software%20Development/SOLIDWORKS%202022%20Essential%20Training.md) — 8h 54m · 1,475 learners
 
 ## Mentioned In Transcripts _(567 total mentions)_
 
-1. [[SOLIDWORKS 2022 Essential Training]] — 295 mentions
-2. [[SOLIDWORKS 2024 Essential Training]] — 271 mentions
-3. [[Project Management- International Projects]] — 1 mentions
+1. [SOLIDWORKS 2022 Essential Training](../../Courses/Software%20Development/SOLIDWORKS%202022%20Essential%20Training.md) — 295 mentions
+2. [SOLIDWORKS 2024 Essential Training](../../Courses/Software%20Development/SOLIDWORKS%202024%20Essential%20Training.md) — 271 mentions
+3. [Project Management- International Projects](../../Courses/Cybersecurity/Project%20Management-%20International%20Projects.md) — 1 mentions

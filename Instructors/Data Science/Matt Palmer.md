@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Fundamentals of Data Transformation for Data Engineering]]
+- [Fundamentals of Data Transformation for Data Engineering](../../Courses/Data%20Science/Fundamentals%20of%20Data%20Transformation%20for%20Data%20Engineering.md)

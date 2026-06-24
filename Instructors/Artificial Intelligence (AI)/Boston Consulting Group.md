@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Responsible AI to the Rescue]]
+- [Responsible AI to the Rescue](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20to%20the%20Rescue.md)

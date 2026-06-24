@@ -19,18 +19,18 @@ created: 2026-05-03
 
 # Parallel Programming
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[DevOps]], [[Software Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [DevOps](../../Topics/DevOps.md), [Software Development](../../Topics/Software%20Development.md)
 
 ## Courses
 
-1. [[Complete Guide to Parallel and Concurrent Programming with C++]] — 9 mentions
+1. [Complete Guide to Parallel and Concurrent Programming with C++](../../Courses/DevOps/Complete%20Guide%20to%20Parallel%20and%20Concurrent%20Programming%20with%20C%2B%2B.md) — 9 mentions
 
 ## Learning Paths
 
-1. [[Master C++]] — 9 total mentions
+1. [Master C++](../../Paths/DevOps/Learning%20Paths/Master%20C%2B%2B.md) — 9 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

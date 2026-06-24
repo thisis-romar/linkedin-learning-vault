@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Organizational Leadership in the Era of AI]]
+- [Organizational Leadership in the Era of AI](../../Courses/Data%20Science/Organizational%20Leadership%20in%20the%20Era%20of%20AI.md)

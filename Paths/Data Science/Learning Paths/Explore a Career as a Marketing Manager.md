@@ -17,7 +17,7 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Leading A Marketing Team]]'
+  - course: '[Leading A Marketing Team](../../../Courses/Data%20Science/Leading%20A%20Marketing%20Team.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -25,15 +25,15 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Job Interview Tips for Marketing Managers]]'
+  - course: '[Job Interview Tips for Marketing Managers](../../../Courses/Data%20Science/Job%20Interview%20Tips%20for%20Marketing%20Managers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[The Habits of Successful Marketers]]'
+  - course: '[The Habits of Successful Marketers](../../../Courses/Data%20Science/The%20Habits%20of%20Successful%20Marketers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Marketing Foundations- Analytics (2021)]]'
+  - course: '[Marketing Foundations- Analytics (2021)](../../../Courses/Data%20Science/Marketing%20Foundations-%20Analytics%20(2021).md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -48,20 +48,20 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Leading A Marketing Team]]
-2. [[Be the Manager People Won't Leave]] _(27m)_
-3. [[Job Interview Tips for Marketing Managers]] _(52m)_
-4. [[The Habits of Successful Marketers]] _(43m)_
-5. [[Marketing Foundations- Analytics (2021)]] _(1h 2m)_
+1. [Leading A Marketing Team](../../../Courses/Data%20Science/Leading%20A%20Marketing%20Team.md)
+2. [Be the Manager People Won't Leave](../../../Courses/Data%20Science/Be%20the%20Manager%20People%20Won't%20Leave.md) _(27m)_
+3. [Job Interview Tips for Marketing Managers](../../../Courses/Data%20Science/Job%20Interview%20Tips%20for%20Marketing%20Managers.md) _(52m)_
+4. [The Habits of Successful Marketers](../../../Courses/Data%20Science/The%20Habits%20of%20Successful%20Marketers.md) _(43m)_
+5. [Marketing Foundations- Analytics (2021)](../../../Courses/Data%20Science/Marketing%20Foundations-%20Analytics%20(2021).md) _(1h 2m)_
 
 ## Course Flow
 
-1. [[Leading A Marketing Team]] → 2. [[Be the Manager People Won't Leave]] → 3. [[Job Interview Tips for Marketing Managers]] → 4. [[The Habits of Successful Marketers]] → 5. [[Marketing Foundations- Analytics (2021)]]
+1. [Leading A Marketing Team](../../../Courses/Data%20Science/Leading%20A%20Marketing%20Team.md) → 2. [Be the Manager People Won't Leave](../../../Courses/Data%20Science/Be%20the%20Manager%20People%20Won't%20Leave.md) → 3. [Job Interview Tips for Marketing Managers](../../../Courses/Data%20Science/Job%20Interview%20Tips%20for%20Marketing%20Managers.md) → 4. [The Habits of Successful Marketers](../../../Courses/Data%20Science/The%20Habits%20of%20Successful%20Marketers.md) → 5. [Marketing Foundations- Analytics (2021)](../../../Courses/Data%20Science/Marketing%20Foundations-%20Analytics%20(2021).md)
 
 ## Topics
 
-- [[Data Science]]
+- [Data Science](../../../Topics/Data%20Science.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Node- Authentication]] — Advanced · 3h 38m · 57,292 learners
-- [[PHP- User Authentication]] — Intermediate · 1h 28m · 35,332 learners
+- [Node- Authentication](../../Courses/Web%20Development/Node-%20Authentication.md) — Advanced · 3h 38m · 57,292 learners
+- [PHP- User Authentication](../../Courses/Cybersecurity/PHP-%20User%20Authentication.md) — Intermediate · 1h 28m · 35,332 learners
 
 ## Related Skills
 
-- [[PHP]] — 1 shared course
-- [[Node.js]] — 1 shared course
+- [PHP](../Software%20Development/PHP.md) — 1 shared course
+- [Node.js](Node.js.md) — 1 shared course

@@ -22,7 +22,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[CSS- Images]]
-- [[CSS- Advanced Layouts with Grid]]
-- [[WordPress- Internationalization]]
-- [[Building a WordPress Membership Site with Ecommerce]]
+- [CSS- Images](../../Courses/Web%20Development/CSS-%20Images.md)
+- [CSS- Advanced Layouts with Grid](../../Courses/Web%20Development/CSS-%20Advanced%20Layouts%20with%20Grid.md)
+- [WordPress- Internationalization](../../Courses/Cybersecurity/WordPress-%20Internationalization.md)
+- [Building a WordPress Membership Site with Ecommerce](../../Courses/Web%20Development/Building%20a%20WordPress%20Membership%20Site%20with%20Ecommerce.md)

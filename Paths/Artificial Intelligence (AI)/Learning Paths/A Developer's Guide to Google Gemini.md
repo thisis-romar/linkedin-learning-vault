@@ -19,35 +19,35 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Prompt Engineering With Gemini]]'
+  - course: '[Prompt Engineering With Gemini](../../../Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20With%20Gemini.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Exploring Million-Token Models with Google Gemini Pro 1.5]]'
+  - course: '[Exploring Million-Token Models with Google Gemini Pro 1.5](../../../Courses/Artificial%20Intelligence%20(AI)/Exploring%20Million-Token%20Models%20with%20Google%20Gemini%20Pro%201.5.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Getting Started with the Google Gemini API]]'
+  - course: '[Getting Started with the Google Gemini API](../../../Courses/Artificial%20Intelligence%20(AI)/Getting%20Started%20with%20the%20Google%20Gemini%20API.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Programming with the Gemini Flash API]]'
+  - course: '[Programming with the Gemini Flash API](../../../Courses/Artificial%20Intelligence%20(AI)/Programming%20with%20the%20Gemini%20Flash%20API.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Google Gemini For Developers]]'
+  - course: '[Google Gemini For Developers](../../../Courses/Artificial%20Intelligence%20(AI)/Google%20Gemini%20For%20Developers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Gemini for Developers]]'
+  - course: '[Advanced Gemini for Developers](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Gemini%20for%20Developers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building with Google Gemini Advanced and Ultra]]'
+  - course: '[Building with Google Gemini Advanced and Ultra](../../../Courses/Artificial%20Intelligence%20(AI)/Building%20with%20Google%20Gemini%20Advanced%20and%20Ultra.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]'
+  - course: '[Build an Image Captioning Tool for Visually Impaired Users with Gemini](../../../Courses/Artificial%20Intelligence%20(AI)/Build%20an%20Image%20Captioning%20Tool%20for%20Visually%20Impaired%20Users%20with%20Gemini.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -62,32 +62,32 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Prompt Engineering With Gemini]]
-2. [[Exploring Million-Token Models with Google Gemini Pro 1.5]] _(18m)_
-3. [[Getting Started with the Google Gemini API]] _(1h 8m)_
-4. [[Programming with the Gemini Flash API]] _(19m)_
-5. [[Google Gemini For Developers]]
-6. [[Advanced Gemini for Developers]] _(1h 11m)_
-7. [[Building with Google Gemini Advanced and Ultra]] _(15m)_
-8. [[Build an Image Captioning Tool for Visually Impaired Users with Gemini]] _(1h 7m)_
+1. [Prompt Engineering With Gemini](../../../Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20With%20Gemini.md)
+2. [Exploring Million-Token Models with Google Gemini Pro 1.5](../../../Courses/Artificial%20Intelligence%20(AI)/Exploring%20Million-Token%20Models%20with%20Google%20Gemini%20Pro%201.5.md) _(18m)_
+3. [Getting Started with the Google Gemini API](../../../Courses/Artificial%20Intelligence%20(AI)/Getting%20Started%20with%20the%20Google%20Gemini%20API.md) _(1h 8m)_
+4. [Programming with the Gemini Flash API](../../../Courses/Artificial%20Intelligence%20(AI)/Programming%20with%20the%20Gemini%20Flash%20API.md) _(19m)_
+5. [Google Gemini For Developers](../../../Courses/Artificial%20Intelligence%20(AI)/Google%20Gemini%20For%20Developers.md)
+6. [Advanced Gemini for Developers](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Gemini%20for%20Developers.md) _(1h 11m)_
+7. [Building with Google Gemini Advanced and Ultra](../../../Courses/Artificial%20Intelligence%20(AI)/Building%20with%20Google%20Gemini%20Advanced%20and%20Ultra.md) _(15m)_
+8. [Build an Image Captioning Tool for Visually Impaired Users with Gemini](../../../Courses/Artificial%20Intelligence%20(AI)/Build%20an%20Image%20Captioning%20Tool%20for%20Visually%20Impaired%20Users%20with%20Gemini.md) _(1h 7m)_
 
 ## Course Flow
 
-1. [[Prompt Engineering With Gemini]] → 2. [[Exploring Million-Token Models with Google Gemini Pro 1.5]] → 3. [[Getting Started with the Google Gemini API]] → 4. [[Programming with the Gemini Flash API]] → 5. [[Google Gemini For Developers]] → 6. [[Advanced Gemini for Developers]] → 7. [[Building with Google Gemini Advanced and Ultra]] → 8. [[Build an Image Captioning Tool for Visually Impaired Users with Gemini]]
+1. [Prompt Engineering With Gemini](../../../Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20With%20Gemini.md) → 2. [Exploring Million-Token Models with Google Gemini Pro 1.5](../../../Courses/Artificial%20Intelligence%20(AI)/Exploring%20Million-Token%20Models%20with%20Google%20Gemini%20Pro%201.5.md) → 3. [Getting Started with the Google Gemini API](../../../Courses/Artificial%20Intelligence%20(AI)/Getting%20Started%20with%20the%20Google%20Gemini%20API.md) → 4. [Programming with the Gemini Flash API](../../../Courses/Artificial%20Intelligence%20(AI)/Programming%20with%20the%20Gemini%20Flash%20API.md) → 5. [Google Gemini For Developers](../../../Courses/Artificial%20Intelligence%20(AI)/Google%20Gemini%20For%20Developers.md) → 6. [Advanced Gemini for Developers](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Gemini%20for%20Developers.md) → 7. [Building with Google Gemini Advanced and Ultra](../../../Courses/Artificial%20Intelligence%20(AI)/Building%20with%20Google%20Gemini%20Advanced%20and%20Ultra.md) → 8. [Build an Image Captioning Tool for Visually Impaired Users with Gemini](../../../Courses/Artificial%20Intelligence%20(AI)/Build%20an%20Image%20Captioning%20Tool%20for%20Visually%20Impaired%20Users%20with%20Gemini.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Software Development]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Develop Your AI Skills with Google Gemini and Google Cloud Platform]] (2 shared courses)
-- [[Build for Digital Accessibility]] (1 shared courses)
-- [[Getting Started with Prompt Engineering]] (1 shared courses)
+- [Develop Your AI Skills with Google Gemini and Google Cloud Platform](Develop%20Your%20AI%20Skills%20with%20Google%20Gemini%20and%20Google%20Cloud%20Platform.md) (2 shared courses)
+- [Build for Digital Accessibility](../../Web%20Development/Learning%20Paths/Build%20for%20Digital%20Accessibility.md) (1 shared courses)
+- [Getting Started with Prompt Engineering](Getting%20Started%20with%20Prompt%20Engineering.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

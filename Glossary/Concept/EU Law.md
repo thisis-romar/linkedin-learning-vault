@@ -19,18 +19,18 @@ created: 2026-05-03
 
 # EU Law
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Artificial Intelligence (AI)]], [[Data Science]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md), [Data Science](../../Topics/Data%20Science.md)
 
 ## Courses
 
-1. [[The State of AI and Copyright]] — 1 mentions
+1. [The State of AI and Copyright](../../Courses/Artificial%20Intelligence%20(AI)/The%20State%20of%20AI%20and%20Copyright.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Responsible AI Foundations]] — 1 total mentions
+1. [Responsible AI Foundations](../../Paths/Artificial%20Intelligence%20(AI)/Learning%20Paths/Responsible%20AI%20Foundations.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

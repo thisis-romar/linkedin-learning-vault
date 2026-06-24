@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Sustainability as an Innovation Opportunity]]
+- [Sustainability as an Innovation Opportunity](../../Courses/Software%20Development/Sustainability%20as%20an%20Innovation%20Opportunity.md)

@@ -20,6 +20,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel- Advanced Formulas and Functions (2023)]]
-- [[Excel- Advanced Formatting Techniques]]
-- [[Excel- Tracking Data Easily and Efficiently]]
+- [Excel- Advanced Formulas and Functions (2023)](../../Courses/Data%20Science/Excel-%20Advanced%20Formulas%20and%20Functions%20(2023).md)
+- [Excel- Advanced Formatting Techniques](../../Courses/Data%20Science/Excel-%20Advanced%20Formatting%20Techniques.md)
+- [Excel- Tracking Data Easily and Efficiently](../../Courses/Data%20Science/Excel-%20Tracking%20Data%20Easily%20and%20Efficiently.md)

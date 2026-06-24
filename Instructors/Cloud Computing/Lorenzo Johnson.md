@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[How to Generate Marketing Leads with AI]]
+- [How to Generate Marketing Leads with AI](../../Courses/Cloud%20Computing/How%20to%20Generate%20Marketing%20Leads%20with%20AI.md)

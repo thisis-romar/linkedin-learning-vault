@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[DevOps Foundations- Monitoring and Observability]]
+- [DevOps Foundations- Monitoring and Observability](../../Courses/DevOps/DevOps%20Foundations-%20Monitoring%20and%20Observability.md)

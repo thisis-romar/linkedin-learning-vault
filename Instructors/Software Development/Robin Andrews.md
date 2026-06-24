@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building the Classic Snake Game with Python]]
-- [[Python Data Structures and Algorithms]]
+- [Building the Classic Snake Game with Python](../../Courses/Software%20Development/Building%20the%20Classic%20Snake%20Game%20with%20Python.md)
+- [Python Data Structures and Algorithms](../../Courses/Software%20Development/Python%20Data%20Structures%20and%20Algorithms.md)

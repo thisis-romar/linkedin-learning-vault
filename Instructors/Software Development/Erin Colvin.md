@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Nail Your C++ Interview]]
+- [Nail Your C++ Interview](../../Courses/Software%20Development/Nail%20Your%20C%2B%2B%20Interview.md)

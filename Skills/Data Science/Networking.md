@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill]] — 46m · 5,804 learners
+- [The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill](../../Courses/Data%20Science/The%20Smart%20Way%20to%20Grow%20Your%20Network%20with%20LinkedIn's%20Andrew%20McCaskill.md) — 46m · 5,804 learners
 
 ## Related Skills
 
-- [[Job Searching]] — 1 shared course
+- [Job Searching](Job%20Searching.md) — 1 shared course

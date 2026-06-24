@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Prompt Engineering- How to Talk to the AIs]]
+- [Prompt Engineering- How to Talk to the AIs](../../Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering-%20How%20to%20Talk%20to%20the%20AIs.md)

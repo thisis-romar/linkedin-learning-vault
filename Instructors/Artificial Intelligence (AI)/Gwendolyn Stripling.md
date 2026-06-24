@@ -22,6 +22,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to NLP and LLMs- Principles and Practical Applications]]
-- [[Artificial Intelligence Foundations- Neural Networks]]
-- [[Introduction to Generative Adversarial Networks (GANs)]]
+- [Introduction to NLP and LLMs- Principles and Practical Applications](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20NLP%20and%20LLMs-%20Principles%20and%20Practical%20Applications.md)
+- [Artificial Intelligence Foundations- Neural Networks](../../Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Foundations-%20Neural%20Networks.md)
+- [Introduction to Generative Adversarial Networks (GANs)](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Generative%20Adversarial%20Networks%20(GANs).md)

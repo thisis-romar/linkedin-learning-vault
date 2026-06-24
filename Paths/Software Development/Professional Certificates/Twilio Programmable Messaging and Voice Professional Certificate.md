@@ -17,15 +17,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging]]'
+  - course: '[Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging](../../../Courses/Software%20Development/Twilio%20Essentials%20Unit%201%20Introducing%20Twilio%20And%20Programmable%20Messaging.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Twilio Essentials Unit 2- Programmable Voice]]'
+  - course: '[Twilio Essentials Unit 2- Programmable Voice](../../../Courses/Software%20Development/Twilio%20Essentials%20Unit%202-%20Programmable%20Voice.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Twilio Essentials Unit 3- All Together Now]]'
+  - course: '[Twilio Essentials Unit 3- All Together Now](../../../Courses/Software%20Development/Twilio%20Essentials%20Unit%203-%20All%20Together%20Now.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -40,18 +40,18 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging]]
-2. [[Twilio Essentials Unit 2- Programmable Voice]] _(36m)_
-3. [[Twilio Essentials Unit 3- All Together Now]] _(1h 59m)_
+1. [Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging](../../../Courses/Software%20Development/Twilio%20Essentials%20Unit%201%20Introducing%20Twilio%20And%20Programmable%20Messaging.md)
+2. [Twilio Essentials Unit 2- Programmable Voice](../../../Courses/Software%20Development/Twilio%20Essentials%20Unit%202-%20Programmable%20Voice.md) _(36m)_
+3. [Twilio Essentials Unit 3- All Together Now](../../../Courses/Software%20Development/Twilio%20Essentials%20Unit%203-%20All%20Together%20Now.md) _(1h 59m)_
 
 ## Course Flow
 
-1. [[Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging]] → 2. [[Twilio Essentials Unit 2- Programmable Voice]] → 3. [[Twilio Essentials Unit 3- All Together Now]]
+1. [Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging](../../../Courses/Software%20Development/Twilio%20Essentials%20Unit%201%20Introducing%20Twilio%20And%20Programmable%20Messaging.md) → 2. [Twilio Essentials Unit 2- Programmable Voice](../../../Courses/Software%20Development/Twilio%20Essentials%20Unit%202-%20Programmable%20Voice.md) → 3. [Twilio Essentials Unit 3- All Together Now](../../../Courses/Software%20Development/Twilio%20Essentials%20Unit%203-%20All%20Together%20Now.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

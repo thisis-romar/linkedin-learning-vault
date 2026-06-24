@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI in HR]] — Intermediate · 46m · 2,608,329 learners
+- [Generative AI in HR](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20in%20HR.md) — Intermediate · 46m · 2,608,329 learners
 
 ## Related Skills
 
-- [[AI for HR]] — 1 shared course
-- [[Human Resources (HR)]] — 1 shared course
-- [[AI for Business]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [AI for HR](AI%20for%20HR.md) — 1 shared course
+- [Human Resources (HR)](Human%20Resources%20(HR).md) — 1 shared course
+- [AI for Business](AI%20for%20Business.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

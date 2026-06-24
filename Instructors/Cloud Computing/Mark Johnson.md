@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Google Cloud Data and Storage Foundations]]
+- [Google Cloud Data and Storage Foundations](../../Courses/Cloud%20Computing/Google%20Cloud%20Data%20and%20Storage%20Foundations.md)

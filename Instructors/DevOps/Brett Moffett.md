@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[IT Service Desk- Monitoring and Metrics Fundamentals]]
+- [IT Service Desk- Monitoring and Metrics Fundamentals](../../Courses/DevOps/IT%20Service%20Desk-%20Monitoring%20and%20Metrics%20Fundamentals.md)

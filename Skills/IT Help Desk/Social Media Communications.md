@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Serving Customers Using Social Media]] — Intermediate · 1h 6m · 75,280 learners
+- [Serving Customers Using Social Media](../../Courses/IT%20Help%20Desk/Serving%20Customers%20Using%20Social%20Media.md) — Intermediate · 1h 6m · 75,280 learners
 
 ## Related Skills
 
-- [[Customer Service]] — 1 shared course
+- [Customer Service](Customer%20Service.md) — 1 shared course

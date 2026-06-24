@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Putting ITIL® into Practice- Incident Management]] — Intermediate · 2h · 2,260 learners
+- [Putting ITIL® into Practice- Incident Management](../../Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20Incident%20Management.md) — Intermediate · 2h · 2,260 learners
 
 ## Related Skills
 
-- [[ITIL]] — 1 shared course
+- [ITIL](ITIL.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Cybersecurity Foundations]] — 1 mentions
+1. [Cybersecurity Foundations](../../Courses/Cybersecurity/Cybersecurity%20Foundations.md) — 1 mentions

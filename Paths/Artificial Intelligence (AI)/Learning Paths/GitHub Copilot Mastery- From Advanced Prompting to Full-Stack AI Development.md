@@ -19,19 +19,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Advanced Prompting With Github Copilot]]'
+  - course: '[Advanced Prompting With Github Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Prompting%20With%20Github%20Copilot.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[GitHub Copilot for System-Level Development]]'
+  - course: '[GitHub Copilot for System-Level Development](../../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Copilot%20for%20System-Level%20Development.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Responsible AI Development with GitHub Copilot]]'
+  - course: '[Responsible AI Development with GitHub Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20Development%20with%20GitHub%20Copilot.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Capstone- Building Production Features with Copilot]]'
+  - course: '[Capstone- Building Production Features with Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Capstone-%20Building%20Production%20Features%20with%20Copilot.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -46,20 +46,20 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Advanced Prompting With Github Copilot]]
-2. [[GitHub Copilot for System-Level Development]] _(1h 7m)_
-3. [[Responsible AI Development with GitHub Copilot]] _(1h 2m)_
-4. [[Capstone- Building Production Features with Copilot]] _(1h 8m)_
+1. [Advanced Prompting With Github Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Prompting%20With%20Github%20Copilot.md)
+2. [GitHub Copilot for System-Level Development](../../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Copilot%20for%20System-Level%20Development.md) _(1h 7m)_
+3. [Responsible AI Development with GitHub Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20Development%20with%20GitHub%20Copilot.md) _(1h 2m)_
+4. [Capstone- Building Production Features with Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Capstone-%20Building%20Production%20Features%20with%20Copilot.md) _(1h 8m)_
 
 ## Course Flow
 
-1. [[Advanced Prompting With Github Copilot]] → 2. [[GitHub Copilot for System-Level Development]] → 3. [[Responsible AI Development with GitHub Copilot]] → 4. [[Capstone- Building Production Features with Copilot]]
+1. [Advanced Prompting With Github Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Prompting%20With%20Github%20Copilot.md) → 2. [GitHub Copilot for System-Level Development](../../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Copilot%20for%20System-Level%20Development.md) → 3. [Responsible AI Development with GitHub Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20Development%20with%20GitHub%20Copilot.md) → 4. [Capstone- Building Production Features with Copilot](../../../Courses/Artificial%20Intelligence%20(AI)/Capstone-%20Building%20Production%20Features%20with%20Copilot.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Software Development]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Soldering for Electronics]] — Beginner · 2h 5m · 132,419 learners
+- [Learning Soldering for Electronics](../../Courses/Hardware/Learning%20Soldering%20for%20Electronics.md) — Beginner · 2h 5m · 132,419 learners
 
 ## Mentioned In Transcripts _(151 total mentions)_
 
-1. [[Learning Soldering for Electronics]] — 149 mentions
-2. [[Electronics Foundations- Basic Circuits]] — 1 mentions
-3. [[Learning Arduino- Pulse Width Modulation]] — 1 mentions
+1. [Learning Soldering for Electronics](../../Courses/Hardware/Learning%20Soldering%20for%20Electronics.md) — 149 mentions
+2. [Electronics Foundations- Basic Circuits](../../Courses/Hardware/Electronics%20Foundations-%20Basic%20Circuits.md) — 1 mentions
+3. [Learning Arduino- Pulse Width Modulation](../../Courses/Hardware/Learning%20Arduino-%20Pulse%20Width%20Modulation.md) — 1 mentions

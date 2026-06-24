@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Mistakes to Avoid in Agile Project Management]]
+- [Mistakes to Avoid in Agile Project Management](../../Courses/DevOps/Mistakes%20to%20Avoid%20in%20Agile%20Project%20Management.md)

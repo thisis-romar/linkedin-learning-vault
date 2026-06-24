@@ -19,18 +19,18 @@ created: 2026-05-03
 
 # Prototype Validation
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Cloud Computing]], [[Software Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Cloud Computing](../../Topics/Cloud%20Computing.md), [Software Development](../../Topics/Software%20Development.md)
 
 ## Courses
 
-1. [[Design Thinking- Implementing the Process]] — 1 mentions
+1. [Design Thinking- Implementing the Process](../../Courses/Cloud%20Computing/Design%20Thinking-%20Implementing%20the%20Process.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Master Digital Transformation]] — 1 total mentions
+1. [Master Digital Transformation](../../Paths/Cloud%20Computing/Learning%20Paths/Master%20Digital%20Transformation.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

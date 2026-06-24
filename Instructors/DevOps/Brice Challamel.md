@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[From Tool to Teammates- Working Smarter with AI]]
+- [From Tool to Teammates- Working Smarter with AI](../../Courses/DevOps/From%20Tool%20to%20Teammates-%20Working%20Smarter%20with%20AI.md)

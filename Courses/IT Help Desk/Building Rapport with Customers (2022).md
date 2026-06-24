@@ -15,11 +15,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4E0DAQGTQWOLo1WKUw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568663692557?e=2147483647&amp;v=beta&amp;t=cQC5TpN-e4wnpz9MPFVZJ1iZL9w1jC02QQWhVZFoUgQ"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - '[[Zendesk Customer Service Professional Certificate]]'
+  - '[Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)'
 prev_courses:
-  - '[[Customer Service- Problem-Solving and Troubleshooting]]'
+  - '[Customer Service- Problem-Solving and Troubleshooting](Customer%20Service-%20Problem-Solving%20and%20Troubleshooting.md)'
 next_courses:
-  - '[[Customer Service- Handling Abusive Customers]]'
+  - '[Customer Service- Handling Abusive Customers](Customer%20Service-%20Handling%20Abusive%20Customers.md)'
 path_nav: '[{"path":"Zendesk Customer Service Professional Certificate","position":3,"total":6,"prev":"Customer Service- Problem-Solving and Troubleshooting","next":"Customer Service- Handling Abusive Customers"}]'
 path_count: 1
 tags:
@@ -74,11 +74,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980&t=0)** - You don't see them, but there are three other people in the room with me. Before we turned on the lights and cameras, we spent some time chatting, just getting to know each other. And that casual interaction hopefully helps me to be more relaxed in front of the camera. I do the same thing in my workshops. I arrive at least 45 minutes before we start. So I can meet and talk to the people who will be spending several hours with me. Now, I didn't always do this. In the past, I'd hide out in the back of the room and only go up after I was introduced. But I've realized that talking to my audience before the training starts, helps me to connect with them before I ask them to trust me by putting their learning in my hands. It makes me more comfortable and likable, and the training goes a lot smoother because of it. And guess what? It's the same with customers. My name is Myra Golden, and for more than 20 years through my workshops, I've helped customer service professionals just like you consistently deliver fantastic interactions by focusing on that human connection. Or as we in customer service call it, rapport building. In this course, I'll show you how to pace customers. Meaning, you'll meet customers where they are emotionally. You'll learn how yielding to customers helps the conversation flow. You'll see how talking in complete sentences makes you sound friendlier. Plus, you'll see how you can maintain rapport even when you have to give bad news.
 >
-> **[1:37](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980&t=97)** So join me in this [[LinkedIn]] Learning course and learn how to deliver better customer interactions by creating rapport.
+> **[1:37](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980&t=97)** So join me in this [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course and learn how to deliver better customer interactions by creating rapport.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - you (1)
@@ -106,13 +106,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-rapport-with-customers-2022/acknowledge-concern-with-customers?u=76281980&t=1)** - Let's say this is a live workshop. And instead of watching me online, you're in the room with me along with 50 other people. And let's say, I start the training off with, "Good morning!" And I'm met with dead silence. How do you think I'd feel, if I opened with an energetic greeting and no one said a [[Microsoft Word|word]]? I'd feel awkward, embarrassed. I'd probably be thinking, "This isn't going to go well." Whatever I'm thinking, it's negative, right? And my next response would be dictated by the negative feelings in my head. I might not be my best as a trainer because I'm a little embarrassed and feeling rejected. Here's where I'm going with this. When a customer expresses anger or frustration, and that isn't acknowledged, they're likely to get even more upset because what you've done is reject them. On the flip side, acknowledging concern is a tool to help you create rapport with customers, especially when they're upset. It helps you build rapport because you're right there with the customer emotionally, acknowledging what they've said or what they're feeling. Now, this isn't just a customer service concept. Psychologists talk about what they call the communication chain. The communication chain says that when a person puts out a verbal message, they expect a response. That first message is a link in the communication chain. If there's no response to the link, the chain is broken. When we talk to friends,
+> **[0:01](https://www.linkedin.com/learning/building-rapport-with-customers-2022/acknowledge-concern-with-customers?u=76281980&t=1)** - Let's say this is a live workshop. And instead of watching me online, you're in the room with me along with 50 other people. And let's say, I start the training off with, "Good morning!" And I'm met with dead silence. How do you think I'd feel, if I opened with an energetic greeting and no one said a [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md)? I'd feel awkward, embarrassed. I'd probably be thinking, "This isn't going to go well." Whatever I'm thinking, it's negative, right? And my next response would be dictated by the negative feelings in my head. I might not be my best as a trainer because I'm a little embarrassed and feeling rejected. Here's where I'm going with this. When a customer expresses anger or frustration, and that isn't acknowledged, they're likely to get even more upset because what you've done is reject them. On the flip side, acknowledging concern is a tool to help you create rapport with customers, especially when they're upset. It helps you build rapport because you're right there with the customer emotionally, acknowledging what they've said or what they're feeling. Now, this isn't just a customer service concept. Psychologists talk about what they call the communication chain. The communication chain says that when a person puts out a verbal message, they expect a response. That first message is a link in the communication chain. If there's no response to the link, the chain is broken. When we talk to friends,
 >
 > **[1:33](https://www.linkedin.com/learning/building-rapport-with-customers-2022/acknowledge-concern-with-customers?u=76281980&t=93)** we naturally link the communication chain. If your friend is upset, you acknowledge this and respond with empathy. So if you have a customer who expresses concern, be that anger or frustration, and you don't acknowledge it, you break the chain. So how do we keep the chain linked? Here are some good examples of how to acknowledge your customer's concern. "I realize this whole thing is frustrating for you," or, "I don't want you to worry at all. We'll get to the bottom of this." Or, "This is no more acceptable to us than it is to you." Acknowledgement works not only when customers are upset, but in everyday interactions. If you worked in insurance, for example, and a customer called to insure their sports car, instead of going into your normal questions, to get the customer set up, you could acknowledge their new purchase like this. "You got yourself a new Camaro, nice." Whatever the situation, acknowledgment is about matching your customer's energy. And when you match their energy, they will feel a sense of rapport with you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -143,11 +143,11 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/building-rapport-with-customers-2022/pace-customers-14480261?u=76281980&t=1)** - When I watch my daughter and her friends together, they tend to talk alike, using the same words and expressions and similar body language. What they're doing, without even realizing it, is called pacing. Basically, pacing is when you mirror the body language or verbal expression of another person as a way to build agreement and rapport. Research shows that pacing helps people foster rapport. Close friends do this instinctively. Here are three things you can do to pace your customers. Use your customer's words. Pace your customer's language by using the words they use. If a customer calls the device she's returning a thumb drive, when your company has the product listed as a flash drive, you could pace the customer by saying thumb drive. Pacing the customer's words helps you speak like the customer and this similarity fosters rapport. Don't correct customers unless absolutely necessary. I was in New York in an Italian restaurant. I ordered the gnocchi. Only, I mispronounced the dish, so bad I'm not even going to tell you how I said it. The server said to me, you mean gnocchi. Yes, I mispronounced gnocchi, but the correction made me feel not so smart. And it ruined any chances of the employee
 >
-> **[1:34](https://www.linkedin.com/learning/building-rapport-with-customers-2022/pace-customers-14480261?u=76281980&t=94)** having rapport with me. Pace your customers by letting little mistakes pass, and you'll be seen as friendlier. And you'll have a better shot at creating rapport. Pace the level of detail. You'll have customers that want an incredible amount of detail. They'll want you to start at A, and then want you to go through B, C, D, all the way to Z. Pacing this customer means you don't just jump to the point. You give them the backstory, the full explanation. If you go right to the bottom line with this customer, they'll be frustrated because what they wanted was the details. So here, pacing is knowing just what level of detail to give your customer. But you'll also have customers who are in a hurry or impatient, and they just need you to answer one question quickly. Pacing the customer who wants a quick answer means you go straight to what they need. A [[Microsoft Word|word]] of caution. Make sure you only pace positive things. We don't mirror frustration or profanity. And don't over pace. You'll come across, at best, as obvious, and at worst as insincere, and that'll ruin any chance at rapport.
+> **[1:34](https://www.linkedin.com/learning/building-rapport-with-customers-2022/pace-customers-14480261?u=76281980&t=94)** having rapport with me. Pace your customers by letting little mistakes pass, and you'll be seen as friendlier. And you'll have a better shot at creating rapport. Pace the level of detail. You'll have customers that want an incredible amount of detail. They'll want you to start at A, and then want you to go through B, C, D, all the way to Z. Pacing this customer means you don't just jump to the point. You give them the backstory, the full explanation. If you go right to the bottom line with this customer, they'll be frustrated because what they wanted was the details. So here, pacing is knowing just what level of detail to give your customer. But you'll also have customers who are in a hurry or impatient, and they just need you to answer one question quickly. Pacing the customer who wants a quick answer means you go straight to what they need. A [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) of caution. Make sure you only pace positive things. We don't mirror frustration or profanity. And don't over pace. You'll come across, at best, as obvious, and at worst as insincere, and that'll ruin any chance at rapport.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Warnings:** caution (1)
@@ -234,13 +234,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-rapport-with-customers-2022/maintain-rapport-when-delivering-bad-news-to-customers-14477301?u=76281980&t=1)** - When you can't tell your customer exactly what they want to hear, maintaining a sense of rapport can be challenging, but it's possible to give your customer bad news with empathy and a positive slant. When you have to give a customer bad news, do it using the feel, felt, found method. This approach helps you to foster a sense of connection with customers, even when you can't give them exactly what they want. The basic model for feel, felt, found is relay that you understand how the customer feels. "I understand why you feel that way." Show the customer they aren't alone. "I had another customer who had a similar situation and felt the same way." Tell the customer what you've found to work. "We found that this works best." Let me show you how this looks in action. I'm currently working with a client that sells food [[Microsoft Products|products]]. A question they get from customers is, "What ingredients are in this yogurt?" When a customer asks for ingredients, it's usually because they have a food allergy. The problem is, my client can't give the complete ingredient list because that's giving away their secret sauce, but all of their products do list ingredients known to cause allergic reactions in some people. So I helped my client respond to these customers using feel, felt, found like this. "I understand how you feel. My daughter has a walnut allergy.
+> **[0:01](https://www.linkedin.com/learning/building-rapport-with-customers-2022/maintain-rapport-when-delivering-bad-news-to-customers-14477301?u=76281980&t=1)** - When you can't tell your customer exactly what they want to hear, maintaining a sense of rapport can be challenging, but it's possible to give your customer bad news with empathy and a positive slant. When you have to give a customer bad news, do it using the feel, felt, found method. This approach helps you to foster a sense of connection with customers, even when you can't give them exactly what they want. The basic model for feel, felt, found is relay that you understand how the customer feels. "I understand why you feel that way." Show the customer they aren't alone. "I had another customer who had a similar situation and felt the same way." Tell the customer what you've found to work. "We found that this works best." Let me show you how this looks in action. I'm currently working with a client that sells food [products](../../Skills/Software%20Development/Microsoft%20Products.md). A question they get from customers is, "What ingredients are in this yogurt?" When a customer asks for ingredients, it's usually because they have a food allergy. The problem is, my client can't give the complete ingredient list because that's giving away their secret sauce, but all of their products do list ingredients known to cause allergic reactions in some people. So I helped my client respond to these customers using feel, felt, found like this. "I understand how you feel. My daughter has a walnut allergy.
 >
 > **[1:35](https://www.linkedin.com/learning/building-rapport-with-customers-2022/maintain-rapport-when-delivering-bad-news-to-customers-14477301?u=76281980&t=95)** And like you, I have to know what's in the food she eats. We've had other customers who felt just as you do. Here's what we found helped them. While the other customers couldn't get the full ingredient list, they could spot the specific ingredients that are known to trigger allergies, because all of our labels list every ingredient that has a known allergic reaction." So the purpose of feel, felt, found here is to convey empathy and to offer a useful solution for delivering less than ideal news to a customer. But feel, felt, found can also be used in selling situations. A lady at a phone store use the steps on me brilliantly. I was a loyal Blackberry user and I told her I just couldn't see myself using an iPhone for business. She used the three steps on me this way. "A lot of people feel that way. My dad felt that way, too, until I showed him how emails show up on the iPhone." And she showed me her email on her phone. A lot of people, she said, are surprised to find apps on the iPhone look and feel more like they do on their PCs. 30 minutes later, I walked out with my first iPhone. That's to say, these steps aren't just for giving bad news. They're an effective way to help your customers connect with you and the solution you're offering.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2)
 > **Code Identifiers:** iphone (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
@@ -266,7 +266,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Myra Golden]]
+- [Myra Golden](../../Instructors/IT%20Help%20Desk/Myra%20Golden.md)
 
 ## Resources
 
@@ -279,26 +279,26 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Zendesk Customer Service Professional Certificate]]
-← [[Customer Service- Problem-Solving and Troubleshooting]] | **3 of 6** | [[Customer Service- Handling Abusive Customers]] →
+### In [Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)
+← [Customer Service- Problem-Solving and Troubleshooting](Customer%20Service-%20Problem-Solving%20and%20Troubleshooting.md) | **3 of 6** | [Customer Service- Handling Abusive Customers](Customer%20Service-%20Handling%20Abusive%20Customers.md) →
 
 ## Part of
 
-- [[Zendesk Customer Service Professional Certificate]]
+- [Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)
 
 ## Appears In
 
-- [[Zendesk Customer Service Professional Certificate]]
+- [Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Innovative Customer Service Techniques]] — Customer Service
-- [[Working with Upset Customers]] — Customer Service
-- [[Phone-Based Customer Service]] — Customer Service
-- [[Writing Customer Service Emails]] — Customer Service
-- [[Serving Customers Using Social Media]] — Customer Service
+- [Innovative Customer Service Techniques](Innovative%20Customer%20Service%20Techniques.md) — Customer Service
+- [Working with Upset Customers](Working%20with%20Upset%20Customers.md) — Customer Service
+- [Phone-Based Customer Service](Phone-Based%20Customer%20Service.md) — Customer Service
+- [Writing Customer Service Emails](Writing%20Customer%20Service%20Emails.md) — Customer Service
+- [Serving Customers Using Social Media](Serving%20Customers%20Using%20Social%20Media.md) — Customer Service
 
 ---
 

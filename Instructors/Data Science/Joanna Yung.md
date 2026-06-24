@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung]]
+- [Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna Yung](../../Courses/Data%20Science/Nano%20Tips%20for%20Using%20Generative%20AI%20Tools%20for%20Better%20Marketing%20Outcomes%20with%20Joanna%20Yung.md)

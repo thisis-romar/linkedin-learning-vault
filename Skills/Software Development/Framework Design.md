@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[C- Framework Design]] — Advanced · 1h 12m · 34,861 learners
+- [C- Framework Design](../../Courses/Software%20Development/C-%20Framework%20Design.md) — Advanced · 1h 12m · 34,861 learners
 
 ## Related Skills
 
-- [[C#]] — 1 shared course
+- [C#](../../Glossary/Language/C%23.md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Object Oriented Programming With C Sharp]] — 1 mentions
-2. [[C- Framework Design]] — 1 mentions
+1. [Object Oriented Programming With C Sharp](../../Courses/DevOps/Object%20Oriented%20Programming%20With%20C%20Sharp.md) — 1 mentions
+2. [C- Framework Design](../../Courses/Software%20Development/C-%20Framework%20Design.md) — 1 mentions

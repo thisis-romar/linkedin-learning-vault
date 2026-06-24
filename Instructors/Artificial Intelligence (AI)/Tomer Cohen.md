@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI for Business Leaders]]
+- [Generative AI for Business Leaders](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20for%20Business%20Leaders.md)

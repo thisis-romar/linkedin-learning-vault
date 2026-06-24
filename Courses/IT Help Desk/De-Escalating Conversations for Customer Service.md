@@ -18,11 +18,11 @@ exercise_files: true
 thumbnail: "https://media.licdn.com/dms/image/v2/C4D0DAQHDE6DaQd5C5g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1567195851956?e=2147483647&amp;v=beta&amp;t=y7lHGWIvdS0hbi_uJ7ASXtMt0GOEOmt927UwEdrJVJM"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - '[[Build Your Skills In Customer Service]]'
+  - '[Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)'
 prev_courses:
-  - '[[Creating Positive Conversations with Challenging Customers]]'
+  - '[Creating Positive Conversations with Challenging Customers](Creating%20Positive%20Conversations%20with%20Challenging%20Customers.md)'
 next_courses:
-  - '[[Serving Customers Using Social Media]]'
+  - '[Serving Customers Using Social Media](Serving%20Customers%20Using%20Social%20Media.md)'
 path_nav: '[{"path":"Build Your Skills In Customer Service","position":7,"total":8,"prev":"Creating Positive Conversations with Challenging Customers","next":"Serving Customers Using Social Media"}]'
 path_count: 1
 tags:
@@ -83,11 +83,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980&t=0)** - I do an exercise in my workshops where I give participants a sheet of paper with the numbers one through 99, scattered on the page. I instruct everyone to find the numbers in order. That is, find one, then two, and so on. They have 60 seconds to do this. Most people struggle with this. They only get to about 35 on average. That's what I reveal that while the numbers appear to be randomly scattered on the page, there's a pattern. The pattern is to envision the sheet divided into four quadrants and the numbers are in order with one number in each quadrant. With the pattern revealed, people find all of the numbers in less than 20 seconds. Just like this exercise, deescalating intense situations with customers is hard until you have the right approach. In this course, I'll show you how to choose words that create calm with an upset customer. I'll walk you through how to reframe conversations, so customers don't get worked up while venting. And I'll teach you the absolute best way to handle a customer who yells or uses profanity. My name is Myra Golden, and for more than 20 years through my workshops, I've helped customer service professionals just like you. So join me in this [[LinkedIn]] Learning course and learn how to deescalate intense situations with your customers.
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980&t=0)** - I do an exercise in my workshops where I give participants a sheet of paper with the numbers one through 99, scattered on the page. I instruct everyone to find the numbers in order. That is, find one, then two, and so on. They have 60 seconds to do this. Most people struggle with this. They only get to about 35 on average. That's what I reveal that while the numbers appear to be randomly scattered on the page, there's a pattern. The pattern is to envision the sheet divided into four quadrants and the numbers are in order with one number in each quadrant. With the pattern revealed, people find all of the numbers in less than 20 seconds. Just like this exercise, deescalating intense situations with customers is hard until you have the right approach. In this course, I'll show you how to choose words that create calm with an upset customer. I'll walk you through how to reframe conversations, so customers don't get worked up while venting. And I'll teach you the absolute best way to handle a customer who yells or uses profanity. My name is Myra Golden, and for more than 20 years through my workshops, I've helped customer service professionals just like you. So join me in this [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning course and learn how to deescalate intense situations with your customers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **CLI Commands:** find (3)
 > **Analogies:** just like (2)
 > **Speakers:** - i (1)
@@ -101,13 +101,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=0)** - If you're in customer service, you've heard this phrase, "I want to speak with the manager." So I want to take a minute with you and break down the three reasons this happens. The number one reason customers escalate is they don't accept your [[Microsoft Word|word]] as final. Position yourself as the expert. Talk assertively. Explain things clearly and offer options when you can. Here's how you might do this. We're not able to exchange this for you because your purchase was made more than 90 days ago, but you may be able to get a replacement or repair through the warranty. The second reason customers escalate is some customers just come out of the gate demanding to talk to a manager. These customers think it's faster to go directly to the top. Get customers to let you help them by saying something like, "I can connect you to a supervisor, but I may be able to help. Will you give me a chance to assist you first?" Now, don't push. Just offer to help. In most cases, this approach works. Okay, the final reason customers ask to escalate to a manager is a cycle of escalation is put in motion. Here's how the cycle of escalation unfolds. The customer says something, and the employee responds to what's said. If the employee doesn't come across like he's doing all he can possibly do to help, the customer may try to escalate.
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=0)** - If you're in customer service, you've heard this phrase, "I want to speak with the manager." So I want to take a minute with you and break down the three reasons this happens. The number one reason customers escalate is they don't accept your [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) as final. Position yourself as the expert. Talk assertively. Explain things clearly and offer options when you can. Here's how you might do this. We're not able to exchange this for you because your purchase was made more than 90 days ago, but you may be able to get a replacement or repair through the warranty. The second reason customers escalate is some customers just come out of the gate demanding to talk to a manager. These customers think it's faster to go directly to the top. Get customers to let you help them by saying something like, "I can connect you to a supervisor, but I may be able to help. Will you give me a chance to assist you first?" Now, don't push. Just offer to help. In most cases, this approach works. Okay, the final reason customers ask to escalate to a manager is a cycle of escalation is put in motion. Here's how the cycle of escalation unfolds. The customer says something, and the employee responds to what's said. If the employee doesn't come across like he's doing all he can possibly do to help, the customer may try to escalate.
 >
 > **[1:33](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=93)** The customer's escalation is based on how the employee responds. The cycle of escalation is best understood by seeing it in action. Watch how quickly this situation spirals to escalation.
 >
 > **[1:48](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=108)** - I'm following up on a case I opened with you guys over a charge I disagreed with. My case ID is 8A713.
 >
-> **[1:59](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=119)** - The status hasn't changed. We're still waiting to hear back from the local [[Microsoft Office|office]]. There's nothing we can do at this point but wait.
+> **[1:59](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=119)** - The status hasn't changed. We're still waiting to hear back from the local [office](../../Skills/Web%20Development/Microsoft%20Office.md). There's nothing we can do at this point but wait.
 >
 > **[2:07](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980&t=127)** - You told me that the Phoenix office would get back to me within three to four business days. It's been 16 days. This is ridiculous. I need to talk to a manager now.
 >
@@ -133,7 +133,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [Office](../../Skills/Web%20Development/Microsoft%20Office.md) (5), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2)
 > **Speakers:** - i (3), - the (2), - fine (2), - if (1), - you (1)
 > **Definitions:** is a  (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -142,7 +142,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/positive-positioning-with-customers-14474693?u=76281980&t=0)** - We took my son's phone in for repair. After looking at the phone, the employee said, "Liquid has come in contact with this phone. Your warranty doesn't cover this, but we have a couple of options. We can repair the unit or we can sell you a refurbished model." While I wasn't happy to learn that we'd have to pay for repair or a new phone, I did appreciate the way the employee delivered the news. The employee used positive language and he immediately moved into offering a solution that we could walk out with that day. What this employee did was used positive positioning. Positive positioning is delivering a message in a positive way and in such a way that minimizes a negative reaction. Positive positioning is easy to do when you focus on three things. First, maximize positive language while minimizing negative words. It's best to stay away from negative words when handling problems. You need to shift the customer to a positive mindset. So instead of saying problem, try situation. And avoid words like unfortunately, as in, unfortunately the warranty doesn't cover this. The [[Microsoft Word|word]] unfortunately carries a negative connotation and customers gear up for a challenge when they hear this word. And in general, try to use these positive words often, absolutely, definitely, and certainly.
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/positive-positioning-with-customers-14474693?u=76281980&t=0)** - We took my son's phone in for repair. After looking at the phone, the employee said, "Liquid has come in contact with this phone. Your warranty doesn't cover this, but we have a couple of options. We can repair the unit or we can sell you a refurbished model." While I wasn't happy to learn that we'd have to pay for repair or a new phone, I did appreciate the way the employee delivered the news. The employee used positive language and he immediately moved into offering a solution that we could walk out with that day. What this employee did was used positive positioning. Positive positioning is delivering a message in a positive way and in such a way that minimizes a negative reaction. Positive positioning is easy to do when you focus on three things. First, maximize positive language while minimizing negative words. It's best to stay away from negative words when handling problems. You need to shift the customer to a positive mindset. So instead of saying problem, try situation. And avoid words like unfortunately, as in, unfortunately the warranty doesn't cover this. The [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) unfortunately carries a negative connotation and customers gear up for a challenge when they hear this word. And in general, try to use these positive words often, absolutely, definitely, and certainly.
 >
 > **[1:36](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/positive-positioning-with-customers-14474693?u=76281980&t=96)** Okay, secondly, you need to reframe the problem. Sometimes unhappy customers will ramble, making themselves more upset and making it harder for you to cut to the business of fixing the issue. So try these reframing statements to help customers move on. "We want to get to the bottom of this as much as you do." "I certainly understand your concern." "Let's take a look and see what's going on." "While the warranty doesn't cover this, we do have a couple of options for you today." Reframing statements are fantastic for getting customers past excessive venting about the problem. Okay, the last thing you can do to create positive positioning is reflect your brand promise. When problems occur, customers can experience buyer's remorse. They chose to do business with you, but now they're let down. When customers feel a sense of remorse, they can be more difficult, but you can offset those negative feelings by reflecting your brand's promise. So try saying something about a benefit the customers get, even if there are occasional issues. "While you may experience issues with our coverage in some areas, what you always get with us is unlimited data and you're never strapped with contracts." At a cafe, I ordered a sandwich, drink and chips. The employee came back with, "I'm sorry, we're out of the veggie sandwich,
 >
@@ -150,7 +150,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - we (1)
 
@@ -213,13 +213,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/be-regretful-but-direct-with-customers-14471745?u=76281980&t=0)** - A participant in one of my deescalation workshops shared his best advice for getting customers to accept his [[Microsoft Word|word]] as the final answer. He was on the escalation team at his company, and told us he found that the best approach is to just say what needs to be said directly, and to show with your words and your tone, that you're sorry it has to be this way. In doing this, he cautioned, you have to be firm, confident, and final. That participant could have led the workshop for me, because his advice was precisely my method for getting customers to accept your word as final. One of the top reasons customers escalate is because you're not telling them what they want to hear. So you have to know how to handle interactions when customers don't hear what they want. Your customers are more likely to accept your word as the final answer when you say what you have to say in a way that is both regretful and direct. Being regretful and direct is done in three steps. First, make an empathy statement. This is the regret step. Your words of empathy help you come across as genuinely concerned. When customers feel you're concerned, they're more likely to accept your word as final. Saying something like I can appreciate how frustrating this must be is perfect. And then assertively make your point. My definition of assertive is, say what you mean, mean what you say, and don't be mean when you say it,
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/be-regretful-but-direct-with-customers-14471745?u=76281980&t=0)** - A participant in one of my deescalation workshops shared his best advice for getting customers to accept his [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) as the final answer. He was on the escalation team at his company, and told us he found that the best approach is to just say what needs to be said directly, and to show with your words and your tone, that you're sorry it has to be this way. In doing this, he cautioned, you have to be firm, confident, and final. That participant could have led the workshop for me, because his advice was precisely my method for getting customers to accept your word as final. One of the top reasons customers escalate is because you're not telling them what they want to hear. So you have to know how to handle interactions when customers don't hear what they want. Your customers are more likely to accept your word as the final answer when you say what you have to say in a way that is both regretful and direct. Being regretful and direct is done in three steps. First, make an empathy statement. This is the regret step. Your words of empathy help you come across as genuinely concerned. When customers feel you're concerned, they're more likely to accept your word as final. Saying something like I can appreciate how frustrating this must be is perfect. And then assertively make your point. My definition of assertive is, say what you mean, mean what you say, and don't be mean when you say it,
 >
 > **[1:36](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/be-regretful-but-direct-with-customers-14471745?u=76281980&t=96)** just assertively say what needs to be said. We cannot cover this damage because it is beyond the scope of your warranty is a great example of assertively making your point. The last thing you'll do is wrap up. Wrapping up can be telling the customer what you can do for them when options are possible or assertively re-iterating your final answer. Here's how you might do this. Your warranty covers damage caused by a single incident. It does not cover stains and damage from normal wear. Together, it will sound like this. I can appreciate how frustrating this must be for you. We can not cover this because it's beyond the scope of your warranty. Your warranty covers damage caused by a single incident. It does not cover a stains and damage from normal wear. Make a point to sound confident and assertive in each of these steps. Customers pick up on any timidity on your part, and they will perceive this as a weakness. Once that happens, they assume they'll have a better chance of getting the answer they want by talking to someone higher up than you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
@@ -261,11 +261,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980&t=0)** - A key to [[De-escalation]] is moving the conversation forward to closure. Moving the conversation forward means you're resolving the issue or you're offering an explanation for what comes next. Resolution is easy when you can fix the problem right then, but for a lot of situations, you'll have to offer an explanation. So we need to look at the best ways to provide an explanation. When you can't do what the customer wants because of policy, try saying something like, we appreciate hearing about your experience, but we cannot compensate you in this matter because the damage is due to normal wear and tear. It's important that you sound confident and assertive when you tell the customer what you can't do. Otherwise, some customers won't take your [[Microsoft Word|word]] as final. They'll push and ask to talk to someone higher up. If you need to explain what happens next, try something like, I've put in your phone unlock request. It usually takes two business days for this to complete. We'll email you as soon as a decision is made. Again, speak with confidence. Moving to closure with a fix for the problem or an explanation should be easy. If it's not, walk it back and make sure you've accurately recognized the customer's emotions, and successfully reframe the problem, then you can move right into resolution.
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/resolve-the-customer-s-issue-14472673?u=76281980&t=0)** - A key to [De-escalation](../../Skills/IT%20Help%20Desk/De-escalation.md) is moving the conversation forward to closure. Moving the conversation forward means you're resolving the issue or you're offering an explanation for what comes next. Resolution is easy when you can fix the problem right then, but for a lot of situations, you'll have to offer an explanation. So we need to look at the best ways to provide an explanation. When you can't do what the customer wants because of policy, try saying something like, we appreciate hearing about your experience, but we cannot compensate you in this matter because the damage is due to normal wear and tear. It's important that you sound confident and assertive when you tell the customer what you can't do. Otherwise, some customers won't take your [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) as final. They'll push and ask to talk to someone higher up. If you need to explain what happens next, try something like, I've put in your phone unlock request. It usually takes two business days for this to complete. We'll email you as soon as a decision is made. Again, speak with confidence. Moving to closure with a fix for the problem or an explanation should be easy. If it's not, walk it back and make sure you've accurately recognized the customer's emotions, and successfully reframe the problem, then you can move right into resolution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[De-escalation]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [De-escalation](../../Skills/IT%20Help%20Desk/De-escalation.md) (1), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
@@ -350,13 +350,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-demanding-customers-14471749?u=76281980&t=0)** - Three tactics for dealing with demanding customers. First, keep your responses brief. After a few seconds of venting, say something concise to your customer. "Mm-hmm." "I see." Or, "I can see your point on that." Venting stops a lot faster when customers feel acknowledged. At one point, when I was in labor with my daughter, I screamed out to the doctor, "I can't do this." I'm known to be melodramatic. The doctor stopped and said, "Okay," and then she communicated a silent message to the nurses and they all walked out. I was stunned. I'm delivering a baby and you just leave? They returned later. But I realized the tactic immediately. Rather than deal with my drama, they gave me their absence. You can use this tactic with dramatic customers. That is the second technique, silence. When customers get enraged, don't interrupt, don't say a [[Microsoft Word|word]]. This works over the phone and in person. After a few seconds of ranting without your input, most customers will pause to see why you're not talking. This pause is where you jump in and take control of the conversation. My last tactic. Sometimes the best thing for you to do is draw the line with customers, just as I hope you do in your personal relationships when people disrespect you.
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-demanding-customers-14471749?u=76281980&t=0)** - Three tactics for dealing with demanding customers. First, keep your responses brief. After a few seconds of venting, say something concise to your customer. "Mm-hmm." "I see." Or, "I can see your point on that." Venting stops a lot faster when customers feel acknowledged. At one point, when I was in labor with my daughter, I screamed out to the doctor, "I can't do this." I'm known to be melodramatic. The doctor stopped and said, "Okay," and then she communicated a silent message to the nurses and they all walked out. I was stunned. I'm delivering a baby and you just leave? They returned later. But I realized the tactic immediately. Rather than deal with my drama, they gave me their absence. You can use this tactic with dramatic customers. That is the second technique, silence. When customers get enraged, don't interrupt, don't say a [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md). This works over the phone and in person. After a few seconds of ranting without your input, most customers will pause to see why you're not talking. This pause is where you jump in and take control of the conversation. My last tactic. Sometimes the best thing for you to do is draw the line with customers, just as I hope you do in your personal relationships when people disrespect you.
 >
 > **[1:34](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/dealing-with-demanding-customers-14471749?u=76281980&t=94)** Drawing the line on unacceptable behavior sets you up as confident and in control. Here are two comebacks for the customer who disrespects you with their language, volume, or by cutting you off. "I'm sorry, it's not possible for me to help while listening to that language. If it stops, I can help." Then you pause and let that sink in. "I'm trying to help you, but if you continue to yell or swear, I'm going to ask that you call back another time." These statements also work in face-to-face interactions. If the customer continues their pattern of behavior after you draw the line, you might need to call for a manager. There's nothing wrong with calling for help when you're disrespected. You have the right to avoid verbal abuse. My favorite tactic that I shared here is silence. And once you use it, I think you'll love it too. It shocks people into pausing, which gives you control. A word of caution, though, with the silence, your body language can't come across as dismissive, just stand and listen. Over the phone, remember to stay engaged while you listen. After you try it, please let me know how this and the other tactics worked for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2)
 > **Best Practices:** remember to (1)
 > **Warnings:** caution (1)
 > **Speakers:** - three (1)
@@ -398,7 +398,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980&t=0)** - When customers don't think your policy is reasonable, they may push back, asking to talk to a supervisor or becoming difficult. Because policies usually can't be changed, we have to learn the best approach to get customers to accept your [[Microsoft Word|word]] as final. One of my clients is an optometry [[Microsoft Office|office]]. And like all medical practices, this office is regulated by the FDA. One of the mandates is prescriptions can't be renewed without a patient seeing an optometrist. Patients whose vision hasn't changed don't always want to go through the expense of an eye exam, but it's not up to the receptionist or even the doctor. The FDA makes the rules. Using my client's situation, I'm going to show you how to reduce escalations when it comes to policies customers disagree with.
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980&t=0)** - When customers don't think your policy is reasonable, they may push back, asking to talk to a supervisor or becoming difficult. Because policies usually can't be changed, we have to learn the best approach to get customers to accept your [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) as final. One of my clients is an optometry [office](../../Skills/Web%20Development/Microsoft%20Office.md). And like all medical practices, this office is regulated by the FDA. One of the mandates is prescriptions can't be renewed without a patient seeing an optometrist. Patients whose vision hasn't changed don't always want to go through the expense of an eye exam, but it's not up to the receptionist or even the doctor. The FDA makes the rules. Using my client's situation, I'm going to show you how to reduce escalations when it comes to policies customers disagree with.
 >
 > **[0:52](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-disagrees-with-your-policy-14472672?u=76281980&t=52)** - Hi.
 >
@@ -436,7 +436,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [Office](../../Skills/Web%20Development/Microsoft%20Office.md) (3), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2)
 > **Speakers:** - hi (4), - we (3), - my (2), - when (1), - oh (1)
 > **Env Vars:** fda (3)
 > **Definitions:** is an  (1)
@@ -445,13 +445,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/yelling-or-cursing-customer-14472674?u=76281980&t=0)** - Some people use bait tactics to try to get what they want. They'll say something just to get you to [[React.js|react]]. They're trying to take your power so that they're in control. A lot of the time when a customer uses profanity or yells, they're baiting you. If they can throw you off, get you emotional or frustrate you, then they have the upper hand. They want you upset. They want you to give in. Because then, they think they'll have a better chance of getting what they want. Even if they don't get what they want, they felt a sense of power from their rant. When a situation escalates to the point of the customer yelling or cursing, you have two objectives. You must assertively set boundaries for what you won't tolerate, and you must immediately regain control. I sat down with a team of skillful escalation agents, and one of the questions I asked them was, what's your best response to the customer who uses profanity, yells at you, or cuts you off? As they talked, I took notes. I walked away with five comebacks for the customer who tries to intimidate and bait using words or volume. The group gave me these specific phrases. I'm trying to help you, but if you continue to yell and swear, I'm going to ask that you call back another time. It's up to you. I'm sorry. It isn't impossible to help while listening to that language. If it stops, I can help.
+> **[0:00](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/yelling-or-cursing-customer-14472674?u=76281980&t=0)** - Some people use bait tactics to try to get what they want. They'll say something just to get you to [react](../../Skills/Web%20Development/React.js.md). They're trying to take your power so that they're in control. A lot of the time when a customer uses profanity or yells, they're baiting you. If they can throw you off, get you emotional or frustrate you, then they have the upper hand. They want you upset. They want you to give in. Because then, they think they'll have a better chance of getting what they want. Even if they don't get what they want, they felt a sense of power from their rant. When a situation escalates to the point of the customer yelling or cursing, you have two objectives. You must assertively set boundaries for what you won't tolerate, and you must immediately regain control. I sat down with a team of skillful escalation agents, and one of the questions I asked them was, what's your best response to the customer who uses profanity, yells at you, or cuts you off? As they talked, I took notes. I walked away with five comebacks for the customer who tries to intimidate and bait using words or volume. The group gave me these specific phrases. I'm trying to help you, but if you continue to yell and swear, I'm going to ask that you call back another time. It's up to you. I'm sorry. It isn't impossible to help while listening to that language. If it stops, I can help.
 >
 > **[1:34](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/yelling-or-cursing-customer-14472674?u=76281980&t=94)** If a few minutes helps you calm down before we continue, that would be okay. You can certainly call us back. One person shared, you have to sound confident and solid. If you don't, they smell weakness and will run right over you. At one point in the conversation someone said, and every single person agreed with this, "Don't be a doormat. Don't let customers disrespect you. Address unacceptable attitudes, head on. Otherwise, you've lost control and the interaction will only go downhill." That's perfect advice. You get the behavior you tolerate, so don't let customers walk all over you. Assert yourself respectfully and work to regain control.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1)
+> **Frameworks & Libraries:** [React](../../Skills/Web%20Development/React.js.md) (1)
 > **Speakers:** - some (1)
 
 #### [Customer's request is not possible](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/customer-s-request-is-not-possible-14474696?u=76281980)
@@ -489,7 +489,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Myra Golden]]
+- [Myra Golden](../../Instructors/IT%20Help%20Desk/Myra%20Golden.md)
 
 ## Resources
 
@@ -503,22 +503,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Build Your Skills In Customer Service]]
-← [[Creating Positive Conversations with Challenging Customers]] | **7 of 8** | [[Serving Customers Using Social Media]] →
+### In [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
+← [Creating Positive Conversations with Challenging Customers](Creating%20Positive%20Conversations%20with%20Challenging%20Customers.md) | **7 of 8** | [Serving Customers Using Social Media](Serving%20Customers%20Using%20Social%20Media.md) →
 
 ## Appears In
 
-- [[Build Your Skills In Customer Service]]
+- [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Innovative Customer Service Techniques]] — Customer Service
-- [[Working with Upset Customers]] — Customer Service
-- [[Phone-Based Customer Service]] — Customer Service
-- [[Writing Customer Service Emails]] — Customer Service
-- [[Building Rapport with Customers (2022)]] — Customer Service
+- [Innovative Customer Service Techniques](Innovative%20Customer%20Service%20Techniques.md) — Customer Service
+- [Working with Upset Customers](Working%20with%20Upset%20Customers.md) — Customer Service
+- [Phone-Based Customer Service](Phone-Based%20Customer%20Service.md) — Customer Service
+- [Writing Customer Service Emails](Writing%20Customer%20Service%20Emails.md) — Customer Service
+- [Building Rapport with Customers (2022)](Building%20Rapport%20with%20Customers%20(2022).md) — Customer Service
 
 ---
 

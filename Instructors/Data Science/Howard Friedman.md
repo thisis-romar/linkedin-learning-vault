@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Program Evaluation for Data Science]]
-- [[The 80-20 Rule of Data Science]]
+- [Program Evaluation for Data Science](../../Courses/Data%20Science/Program%20Evaluation%20for%20Data%20Science.md)
+- [The 80-20 Rule of Data Science](../../Courses/Data%20Science/The%2080-20%20Rule%20of%20Data%20Science.md)

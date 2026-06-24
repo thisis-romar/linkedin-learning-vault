@@ -28,6 +28,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]]
-- [[Agile Software Development- Kanban for Developers (2019)]]
-- [[Swift 5 Essential Training]]
+- [Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines](../../Courses/DevOps/Introduction%20to%20Agile%20Development%20Practices-%20Bring%20Agile%20to%20Your%20Development%20Pipelines.md)
+- [Agile Software Development- Kanban for Developers (2019)](../../Courses/DevOps/Agile%20Software%20Development-%20Kanban%20for%20Developers%20(2019).md)
+- [Swift 5 Essential Training](../../Courses/Mobile%20Development/Swift%205%20Essential%20Training.md)

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Build Advanced Charts in R]]
+- [Build Advanced Charts in R](../../Courses/Data%20Science/Build%20Advanced%20Charts%20in%20R.md)

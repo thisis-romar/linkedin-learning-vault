@@ -21,23 +21,23 @@ courses_visited: 2
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: '[[Creating A Culture Of Privacy]]'
+  - course: '[Creating A Culture Of Privacy](../../../Courses/Cybersecurity/Creating%20A%20Culture%20Of%20Privacy.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Understanding and Prioritizing Data Privacy]]'
+  - course: '[Understanding and Prioritizing Data Privacy](../../../Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building a Privacy Program in the Age of GenAI]]'
+  - course: '[Building a Privacy Program in the Age of GenAI](../../../Courses/Cybersecurity/Building%20a%20Privacy%20Program%20in%20the%20Age%20of%20GenAI.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Privacy, Governance, and Compliance- Data Classification and Inventory]]'
+  - course: '[Privacy, Governance, and Compliance- Data Classification and Inventory](../../../Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Classification%20and%20Inventory.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Privacy, Governance, and Compliance- Data Sharing]]'
+  - course: '[Privacy, Governance, and Compliance- Data Sharing](../../../Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Sharing.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -52,28 +52,28 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Creating A Culture Of Privacy]]
-2. [[Understanding and Prioritizing Data Privacy]] _(1h 17m)_
-3. [[Building a Privacy Program in the Age of GenAI]] _(51m)_
-4. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] _(1h 19m)_
-5. [[Privacy, Governance, and Compliance- Data Sharing]] _(57m)_
+1. [Creating A Culture Of Privacy](../../../Courses/Cybersecurity/Creating%20A%20Culture%20Of%20Privacy.md)
+2. [Understanding and Prioritizing Data Privacy](../../../Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md) _(1h 17m)_
+3. [Building a Privacy Program in the Age of GenAI](../../../Courses/Cybersecurity/Building%20a%20Privacy%20Program%20in%20the%20Age%20of%20GenAI.md) _(51m)_
+4. [Privacy, Governance, and Compliance- Data Classification and Inventory](../../../Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Classification%20and%20Inventory.md) _(1h 19m)_
+5. [Privacy, Governance, and Compliance- Data Sharing](../../../Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Sharing.md) _(57m)_
 
 ## Course Flow
 
-1. [[Creating A Culture Of Privacy]] → 2. [[Understanding and Prioritizing Data Privacy]] → 3. [[Building a Privacy Program in the Age of GenAI]] → 4. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] → 5. [[Privacy, Governance, and Compliance- Data Sharing]]
+1. [Creating A Culture Of Privacy](../../../Courses/Cybersecurity/Creating%20A%20Culture%20Of%20Privacy.md) → 2. [Understanding and Prioritizing Data Privacy](../../../Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md) → 3. [Building a Privacy Program in the Age of GenAI](../../../Courses/Cybersecurity/Building%20a%20Privacy%20Program%20in%20the%20Age%20of%20GenAI.md) → 4. [Privacy, Governance, and Compliance- Data Classification and Inventory](../../../Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Classification%20and%20Inventory.md) → 5. [Privacy, Governance, and Compliance- Data Sharing](../../../Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Sharing.md)
 
 ## Topics
 
-- [[Cybersecurity]]
-- [[Data Science]]
-- [[Database Management]]
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
+- [Data Science](../../../Topics/Data%20Science.md)
+- [Database Management](../../../Topics/Database%20Management.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Advance Your Data Privacy Skills]] (1 shared courses)
+- [Advance Your Data Privacy Skills](Advance%20Your%20Data%20Privacy%20Skills.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cybersecurity]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cybersecurity](../../../Topics/Cybersecurity.md)

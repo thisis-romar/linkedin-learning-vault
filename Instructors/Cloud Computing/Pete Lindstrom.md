@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Foundations- Security Architecture]]
+- [Cybersecurity Foundations- Security Architecture](../../Courses/Cloud%20Computing/Cybersecurity%20Foundations-%20Security%20Architecture.md)

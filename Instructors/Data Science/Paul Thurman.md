@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data-Informed Strategic Thinking for Senior Analysts and Data Scientists]]
+- [Data-Informed Strategic Thinking for Senior Analysts and Data Scientists](../../Courses/Data%20Science/Data-Informed%20Strategic%20Thinking%20for%20Senior%20Analysts%20and%20Data%20Scientists.md)

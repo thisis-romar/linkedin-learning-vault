@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Protecting Your Network with Open-Source Software]] — Intermediate · 2h 46m · 5,086 learners
+- [Protecting Your Network with Open-Source Software](../../Courses/Cybersecurity/Protecting%20Your%20Network%20with%20Open-Source%20Software.md) — Intermediate · 2h 46m · 5,086 learners
 
 ## Related Skills
 
-- [[Open-Source Software]] — 1 shared course
-- [[Network Administration]] — 1 shared course
+- [Open-Source Software](Open-Source%20Software.md) — 1 shared course
+- [Network Administration](../Network%20and%20System%20Administration/Network%20Administration.md) — 1 shared course

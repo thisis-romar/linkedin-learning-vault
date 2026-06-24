@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Mesh Architecture- Core Concepts]]
-- [[Designing Data Governance]]
+- [Data Mesh Architecture- Core Concepts](../../Courses/Data%20Science/Data%20Mesh%20Architecture-%20Core%20Concepts.md)
+- [Designing Data Governance](../../Courses/Data%20Science/Designing%20Data%20Governance.md)

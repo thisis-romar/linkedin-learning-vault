@@ -19,19 +19,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Windows Server 2022 Essential Training]]'
+  - course: '[Windows Server 2022 Essential Training](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202022%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Windows Server 2022- Installation and Configuration]]'
+  - course: '[Windows Server 2022- Installation and Configuration](../../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Installation%20and%20Configuration.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Windows Server 2022- Install and Configure Active Directory]]'
+  - course: '[Windows Server 2022- Install and Configure Active Directory](../../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Install%20and%20Configure%20Active%20Directory.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Windows Server 2022- DHCP and DNS]]'
+  - course: '[Windows Server 2022- DHCP and DNS](../../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20DHCP%20and%20DNS.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -46,26 +46,26 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Windows Server 2022 Essential Training]] _(3h 7m)_
-2. [[Windows Server 2022- Installation and Configuration]] _(1h 40m)_
-3. [[Windows Server 2022- Install and Configure Active Directory]] _(2h 26m)_
-4. [[Windows Server 2022- DHCP and DNS]] _(2h 14m)_
+1. [Windows Server 2022 Essential Training](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202022%20Essential%20Training.md) _(3h 7m)_
+2. [Windows Server 2022- Installation and Configuration](../../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Installation%20and%20Configuration.md) _(1h 40m)_
+3. [Windows Server 2022- Install and Configure Active Directory](../../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Install%20and%20Configure%20Active%20Directory.md) _(2h 26m)_
+4. [Windows Server 2022- DHCP and DNS](../../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20DHCP%20and%20DNS.md) _(2h 14m)_
 
 ## Course Flow
 
-1. [[Windows Server 2022 Essential Training]] → 2. [[Windows Server 2022- Installation and Configuration]] → 3. [[Windows Server 2022- Install and Configure Active Directory]] → 4. [[Windows Server 2022- DHCP and DNS]]
+1. [Windows Server 2022 Essential Training](../../../Courses/Network%20and%20System%20Administration/Windows%20Server%202022%20Essential%20Training.md) → 2. [Windows Server 2022- Installation and Configuration](../../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Installation%20and%20Configuration.md) → 3. [Windows Server 2022- Install and Configure Active Directory](../../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Install%20and%20Configure%20Active%20Directory.md) → 4. [Windows Server 2022- DHCP and DNS](../../../Courses/IT%20Help%20Desk/Windows%20Server%202022-%20DHCP%20and%20DNS.md)
 
 ## Topics
 
-- [[IT Help Desk]]
-- [[Network and System Administration]]
+- [IT Help Desk](../../../Topics/IT%20Help%20Desk.md)
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[The Top Skills IT Professionals Have Right Now]] (1 shared courses)
+- [The Top Skills IT Professionals Have Right Now](../../DevOps/Learning%20Paths/The%20Top%20Skills%20IT%20Professionals%20Have%20Right%20Now.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[IT Help Desk]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [IT Help Desk](../../../Topics/IT%20Help%20Desk.md)

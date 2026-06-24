@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Scaling Generative AI- Building a Strategy for Adoption and Expansion]] — 28m · 2,608,329 learners
+- [Scaling Generative AI- Building a Strategy for Adoption and Expansion](../../Courses/Artificial%20Intelligence%20(AI)/Scaling%20Generative%20AI-%20Building%20a%20Strategy%20for%20Adoption%20and%20Expansion.md) — 28m · 2,608,329 learners
 
 ## Related Skills
 
-- [[Scalability]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
-- [[Generative AI]] — 1 shared course
+- [Scalability](Scalability.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
+- [Generative AI](Generative%20AI.md) — 1 shared course

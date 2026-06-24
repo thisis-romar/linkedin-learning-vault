@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building NLP Pipelines with spaCy]]
+- [Building NLP Pipelines with spaCy](../../Courses/Artificial%20Intelligence%20(AI)/Building%20NLP%20Pipelines%20with%20spaCy.md)

@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[De-Escalating Conversations for Customer Service]] — Advanced · 49m · 347,547 learners
+- [De-Escalating Conversations for Customer Service](../../Courses/IT%20Help%20Desk/De-Escalating%20Conversations%20for%20Customer%20Service.md) — Advanced · 49m · 347,547 learners
 
 ## Related Skills
 
-- [[Customer Escalation Management]] — 1 shared course
-- [[Customer Service]] — 1 shared course
+- [Customer Escalation Management](Customer%20Escalation%20Management.md) — 1 shared course
+- [Customer Service](Customer%20Service.md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[Building Rapport with Customers]] — 3 mentions
-2. [[De-Escalating Conversations for Customer Service]] — 1 mentions
+1. [Building Rapport with Customers](../../Courses/IT%20Help%20Desk/Building%20Rapport%20with%20Customers.md) — 3 mentions
+2. [De-Escalating Conversations for Customer Service](../../Courses/IT%20Help%20Desk/De-Escalating%20Conversations%20for%20Customer%20Service.md) — 1 mentions

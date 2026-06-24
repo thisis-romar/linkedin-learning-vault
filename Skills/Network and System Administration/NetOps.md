@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[NetOps (DevOps for Network Engineers)- Automating Networks]] — Intermediate · 2h 47m · 183,113 learners
+- [NetOps (DevOps for Network Engineers)- Automating Networks](../../Courses/Database%20Management/NetOps%20(DevOps%20for%20Network%20Engineers)-%20Automating%20Networks.md) — Intermediate · 2h 47m · 183,113 learners
 
 ## Related Skills
 
-- [[DevOps]] — 1 shared course
+- [DevOps](../../Topics/DevOps.md) — 1 shared course

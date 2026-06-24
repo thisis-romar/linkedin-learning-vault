@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer]] — Intermediate · 1h 3m · 13,788 learners
-- [[Working And Collaborating Online]] — Beginner · 13,788 learners
+- [Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer](../../Courses/Cloud%20Computing/Microsoft%20Collaboration-%20SharePoint%2C%20Teams%2C%20Groups%2C%20and%20Yammer.md) — Intermediate · 1h 3m · 13,788 learners
+- [Working And Collaborating Online](../../Courses/Cloud%20Computing/Working%20And%20Collaborating%20Online.md) — Beginner · 13,788 learners
 
 ## Related Skills
 
-- [[Microsoft Products]] — 1 shared course
+- [Microsoft Products](Microsoft%20Products.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Microsoft 365- Administration]] — 1 mentions
+1. [Microsoft 365- Administration](../../Courses/Cloud%20Computing/Microsoft%20365-%20Administration.md) — 1 mentions

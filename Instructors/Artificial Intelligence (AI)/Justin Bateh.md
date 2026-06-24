@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Using AI for Data-Driven Insights]]
+- [Using AI for Data-Driven Insights](../../Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20for%20Data-Driven%20Insights.md)

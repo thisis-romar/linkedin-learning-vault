@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Kubernetes- Essential Tools]]
+- [Kubernetes- Essential Tools](../../Courses/DevOps/Kubernetes-%20Essential%20Tools.md)

@@ -21,18 +21,18 @@ created: 2026-05-03
 
 # IT Accessibility
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Data Science]], [[Database Management]], [[Software Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Data Science](../../Topics/Data%20Science.md), [Database Management](../../Topics/Database%20Management.md), [Software Development](../../Topics/Software%20Development.md)
 
 ## Courses
 
-1. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 1 mentions
+1. [Choosing A Database Postgresql Mysql Mongo And Cloud](../../Courses/Data%20Science/Choosing%20A%20Database%20Postgresql%20Mysql%20Mongo%20And%20Cloud.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Explore a Career in SQL Development]] — 1 total mentions
+1. [Explore a Career in SQL Development](../../Paths/Data%20Science/Learning%20Paths/Explore%20a%20Career%20in%20SQL%20Development.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

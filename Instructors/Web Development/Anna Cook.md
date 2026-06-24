@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Auditing Design Systems for Accessibility]]
+- [Auditing Design Systems for Accessibility](../../Courses/Web%20Development/Auditing%20Design%20Systems%20for%20Accessibility.md)

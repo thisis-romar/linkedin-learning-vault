@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Express Essentials- Build Powerful Web Apps with Node.js]]
-- [[JavaScript- Arrays]]
-- [[JavaScript- Maps and Sets]]
+- [Express Essentials- Build Powerful Web Apps with Node.js](../../Courses/Web%20Development/Express%20Essentials-%20Build%20Powerful%20Web%20Apps%20with%20Node.js.md)
+- [JavaScript- Arrays](../../Courses/Software%20Development/JavaScript-%20Arrays.md)
+- [JavaScript- Maps and Sets](../../Courses/Software%20Development/JavaScript-%20Maps%20and%20Sets.md)

@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL Server Fundamentals- Master Basic Query Techniques]]
+- [SQL Server Fundamentals- Master Basic Query Techniques](../../Courses/Data%20Science/SQL%20Server%20Fundamentals-%20Master%20Basic%20Query%20Techniques.md)

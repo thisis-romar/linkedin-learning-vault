@@ -19,18 +19,18 @@ created: 2026-05-03
 
 # IT Infrastructure Management
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Cloud Computing]], [[DevOps]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Cloud Computing](../../Topics/Cloud%20Computing.md), [DevOps](../../Topics/DevOps.md)
 
 ## Courses
 
-1. [[Aws Essential Training For Administrators]] — 1 mentions
+1. [Aws Essential Training For Administrators](../../Courses/Cloud%20Computing/Aws%20Essential%20Training%20For%20Administrators.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Infrastructure Management on AWS- Skills for Administrators]] — 1 total mentions
+1. [Infrastructure Management on AWS- Skills for Administrators](../../Paths/Cloud%20Computing/Learning%20Paths/Infrastructure%20Management%20on%20AWS-%20Skills%20for%20Administrators.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

@@ -21,20 +21,20 @@ created: 2026-05-03
 
 # Framework Design
 
-> **Type:** Framework | **Courses:** 2 | **Topics:** [[Software Development]], [[DevOps]], [[Mobile Development]]
+> **Type:** Framework | **Courses:** 2 | **Topics:** [Software Development](../../Topics/Software%20Development.md), [DevOps](../../Topics/DevOps.md), [Mobile Development](../../Topics/Mobile%20Development.md)
 
 ## Courses
 
-1. [[Object Oriented Programming With C Sharp]] — 1 mentions
-2. [[C- Framework Design]] — 1 mentions
+1. [Object Oriented Programming With C Sharp](../../Courses/DevOps/Object%20Oriented%20Programming%20With%20C%20Sharp.md) — 1 mentions
+2. [C- Framework Design](../../Courses/Software%20Development/C-%20Framework%20Design.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Elevating C- Skills- Building Robust Applications]] — 1 total mentions
-2. [[C- Excellence- Architecting High-Performance Solutions]] — 1 total mentions
+1. [Elevating C- Skills- Building Robust Applications](../../Paths/DevOps/Learning%20Paths/Elevating%20C-%20Skills-%20Building%20Robust%20Applications.md) — 1 total mentions
+2. [C- Excellence- Architecting High-Performance Solutions](../../Paths/Software%20Development/Learning%20Paths/C-%20Excellence-%20Architecting%20High-Performance%20Solutions.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (framework)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

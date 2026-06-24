@@ -25,31 +25,31 @@ created: 2026-05-03
 
 # Software Deployment
 
-> **Type:** Concept | **Courses:** 5 | **Topics:** [[Software Development]], [[DevOps]], [[Data Science]], [[Cloud Computing]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 5 | **Topics:** [Software Development](../../Topics/Software%20Development.md), [DevOps](../../Topics/DevOps.md), [Data Science](../../Topics/Data%20Science.md), [Cloud Computing](../../Topics/Cloud%20Computing.md), [Cybersecurity](../../Topics/Cybersecurity.md)
 
 ## Courses
 
-1. [[Tech Career Skills- Getting Promoted]] — 1 mentions
-2. [[Devops Foundations]] — 1 mentions
-3. [[Introduction To Career Skills In Software Development]] — 1 mentions
-4. [[Automated Data Governance in Practice]] — 1 mentions
-5. [[Software Development Life Cycle (SDLC)]] — 1 mentions
+1. [Tech Career Skills- Getting Promoted](../../Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Getting%20Promoted.md) — 1 mentions
+2. [Devops Foundations](../../Courses/DevOps/Devops%20Foundations.md) — 1 mentions
+3. [Introduction To Career Skills In Software Development](../../Courses/Software%20Development/Introduction%20To%20Career%20Skills%20In%20Software%20Development.md) — 1 mentions
+4. [Automated Data Governance in Practice](../../Courses/Data%20Science/Automated%20Data%20Governance%20in%20Practice.md) — 1 mentions
+5. [Software Development Life Cycle (SDLC)](../../Skills/Software%20Development/Software%20Development%20Life%20Cycle%20(SDLC).md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Advance as a Tech Leader]] — 1 total mentions
-2. [[Succeeding in Your Tech Career- Software Development]] — 1 total mentions
-3. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 1 total mentions
-4. [[Develop Your Skills in Agile Software Development]] — 1 total mentions
-5. [[Develop Your Skills as a Software Project Manager]] — 1 total mentions
-6. [[Become a Full-Stack Web Developer]] — 1 total mentions
-7. [[Getting Started with DevOps]] — 1 total mentions
-8. [[Career Essentials in Software Development by Microsoft and LinkedIn]] — 1 total mentions
-9. [[Mastering Data Governance and Ethics]] — 1 total mentions
-10. [[Software Development Fundamentals]] — 1 total mentions
+1. [Advance as a Tech Leader](../../Paths/Cloud%20Computing/Learning%20Paths/Advance%20as%20a%20Tech%20Leader.md) — 1 total mentions
+2. [Succeeding in Your Tech Career- Software Development](../../Paths/Cloud%20Computing/Learning%20Paths/Succeeding%20in%20Your%20Tech%20Career-%20Software%20Development.md) — 1 total mentions
+3. [DevOps Professional Certificate by PagerDuty and LinkedIn](../../Paths/DevOps/Professional%20Certificates/DevOps%20Professional%20Certificate%20by%20PagerDuty%20and%20LinkedIn.md) — 1 total mentions
+4. [Develop Your Skills in Agile Software Development](../../Paths/DevOps/Learning%20Paths/Develop%20Your%20Skills%20in%20Agile%20Software%20Development.md) — 1 total mentions
+5. [Develop Your Skills as a Software Project Manager](../../Paths/DevOps/Learning%20Paths/Develop%20Your%20Skills%20as%20a%20Software%20Project%20Manager.md) — 1 total mentions
+6. [Become a Full-Stack Web Developer](../../Paths/Web%20Development/Learning%20Paths/Become%20a%20Full-Stack%20Web%20Developer.md) — 1 total mentions
+7. [Getting Started with DevOps](../../Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20DevOps.md) — 1 total mentions
+8. [Career Essentials in Software Development by Microsoft and LinkedIn](../../Paths/Software%20Development/Professional%20Certificates/Career%20Essentials%20in%20Software%20Development%20by%20Microsoft%20and%20LinkedIn.md) — 1 total mentions
+9. [Mastering Data Governance and Ethics](../../Paths/Data%20Science/Learning%20Paths/Mastering%20Data%20Governance%20and%20Ethics.md) — 1 total mentions
+10. [Software Development Fundamentals](../../Paths/Software%20Development/Learning%20Paths/Software%20Development%20Fundamentals.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

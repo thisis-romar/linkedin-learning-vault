@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SEO Foundations]]
+- [SEO Foundations](../../Courses/Data%20Science/SEO%20Foundations.md)

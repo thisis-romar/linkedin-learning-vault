@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Agile Testing]] — Intermediate · 48m · 259,141 learners
+- [Agile Testing](Agile%20Testing.md) — Intermediate · 48m · 259,141 learners

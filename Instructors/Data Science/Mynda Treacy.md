@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel- Introduction to Formatting]]
+- [Excel- Introduction to Formatting](../../Courses/Data%20Science/Excel-%20Introduction%20to%20Formatting.md)

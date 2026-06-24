@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel- Working Together with Power Query and Power Pivot]] — Advanced · 51m · 11,551 learners
+- [Excel- Working Together with Power Query and Power Pivot](../../Courses/Data%20Science/Excel-%20Working%20Together%20with%20Power%20Query%20and%20Power%20Pivot.md) — Advanced · 51m · 11,551 learners
 
 ## Related Skills
 
-- [[Microsoft Power Query]] — 1 shared course
-- [[Microsoft Excel]] — 1 shared course
+- [Microsoft Power Query](Microsoft%20Power%20Query.md) — 1 shared course
+- [Microsoft Excel](Microsoft%20Excel.md) — 1 shared course
 
 ## Mentioned In Transcripts _(8 total mentions)_
 
-1. [[Excel- Working Together with Power Query and Power Pivot]] — 7 mentions
-2. [[Power BI Dataflows Essential Training]] — 1 mentions
+1. [Excel- Working Together with Power Query and Power Pivot](../../Courses/Data%20Science/Excel-%20Working%20Together%20with%20Power%20Query%20and%20Power%20Pivot.md) — 7 mentions
+2. [Power BI Dataflows Essential Training](../../Courses/Data%20Science/Power%20BI%20Dataflows%20Essential%20Training.md) — 1 mentions

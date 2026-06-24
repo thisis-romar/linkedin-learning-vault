@@ -19,23 +19,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Programming Foundations Fundamentals]]'
+  - course: '[Programming Foundations Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Programming Foundations- Beyond the Fundamentals]]'
+  - course: '[Programming Foundations- Beyond the Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[HTML Essential Training]]'
+  - course: '[HTML Essential Training](../../../Courses/Web%20Development/HTML%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[CSS Essential Training (2023)]]'
+  - course: '[CSS Essential Training (2023)](../../../Courses/Web%20Development/CSS%20Essential%20Training%20(2023).md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[JavaScript Essential Training]]'
+  - course: '[JavaScript Essential Training](../../../Courses/Software%20Development/JavaScript%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -50,31 +50,31 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Programming Foundations Fundamentals]]
-2. [[Programming Foundations- Beyond the Fundamentals]] _(3h 6m)_
-3. [[HTML Essential Training]] _(4h 12m)_
-4. [[CSS Essential Training (2023)]] _(5h 26m)_
-5. [[JavaScript Essential Training]] _(6h 14m)_
+1. [Programming Foundations Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md)
+2. [Programming Foundations- Beyond the Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md) _(3h 6m)_
+3. [HTML Essential Training](../../../Courses/Web%20Development/HTML%20Essential%20Training.md) _(4h 12m)_
+4. [CSS Essential Training (2023)](../../../Courses/Web%20Development/CSS%20Essential%20Training%20(2023).md) _(5h 26m)_
+5. [JavaScript Essential Training](../../../Courses/Software%20Development/JavaScript%20Essential%20Training.md) _(6h 14m)_
 
 ## Course Flow
 
-1. [[Programming Foundations Fundamentals]] → 2. [[Programming Foundations- Beyond the Fundamentals]] → 3. [[HTML Essential Training]] → 4. [[CSS Essential Training (2023)]] → 5. [[JavaScript Essential Training]]
+1. [Programming Foundations Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md) → 2. [Programming Foundations- Beyond the Fundamentals](../../../Courses/Software%20Development/Programming%20Foundations-%20Beyond%20the%20Fundamentals.md) → 3. [HTML Essential Training](../../../Courses/Web%20Development/HTML%20Essential%20Training.md) → 4. [CSS Essential Training (2023)](../../../Courses/Web%20Development/CSS%20Essential%20Training%20(2023).md) → 5. [JavaScript Essential Training](../../../Courses/Software%20Development/JavaScript%20Essential%20Training.md)
 
 ## Topics
 
-- [[Software Development]]
-- [[Web Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Become a Software Developer]] (4 shared courses)
-- [[Explore a Career as a JavaScript Developer]] (3 shared courses)
-- [[Explore a Career in Front-End Web Development]] (3 shared courses)
-- [[Become a Full-Stack Web Developer]] (3 shared courses)
-- [[Getting Started with WordPress]] (3 shared courses)
+- [Become a Software Developer](Become%20a%20Software%20Developer.md) (4 shared courses)
+- [Explore a Career as a JavaScript Developer](Explore%20a%20Career%20as%20a%20JavaScript%20Developer.md) (3 shared courses)
+- [Explore a Career in Front-End Web Development](../../Web%20Development/Learning%20Paths/Explore%20a%20Career%20in%20Front-End%20Web%20Development.md) (3 shared courses)
+- [Become a Full-Stack Web Developer](../../Web%20Development/Learning%20Paths/Become%20a%20Full-Stack%20Web%20Developer.md) (3 shared courses)
+- [Getting Started with WordPress](../../Web%20Development/Learning%20Paths/Getting%20Started%20with%20WordPress.md) (3 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

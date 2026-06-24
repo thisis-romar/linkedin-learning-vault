@@ -22,18 +22,18 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Developing A Learning Mindset In The Age Of Ai]] — 50,815 learners
+- [Developing A Learning Mindset In The Age Of Ai](../../Courses/Artificial%20Intelligence%20(AI)/Developing%20A%20Learning%20Mindset%20In%20The%20Age%20Of%20Ai.md) — 50,815 learners
 
 ## Related Skills
 
-- [[Lifelong Learning]] — 1 shared course
-- [[Generative AI for Learning and Development]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Lifelong Learning](Lifelong%20Learning.md) — 1 shared course
+- [Generative AI for Learning and Development](Generative%20AI%20for%20Learning%20and%20Development.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(5 total mentions)_
 
-1. [[Creating Your IT Strategy]] — 1 mentions
-2. [[Strategic Agility for Organizational Leaders]] — 1 mentions
-3. [[Assessing Digital Maturity]] — 1 mentions
-4. [[Developing A Learning Mindset In The Age Of Ai]] — 1 mentions
-5. [[Executive Leadership]] — 1 mentions
+1. [Creating Your IT Strategy](../../Courses/DevOps/Creating%20Your%20IT%20Strategy.md) — 1 mentions
+2. [Strategic Agility for Organizational Leaders](../../Courses/Cloud%20Computing/Strategic%20Agility%20for%20Organizational%20Leaders.md) — 1 mentions
+3. [Assessing Digital Maturity](../../Courses/Cloud%20Computing/Assessing%20Digital%20Maturity.md) — 1 mentions
+4. [Developing A Learning Mindset In The Age Of Ai](../../Courses/Artificial%20Intelligence%20(AI)/Developing%20A%20Learning%20Mindset%20In%20The%20Age%20Of%20Ai.md) — 1 mentions
+5. [Executive Leadership](../Data%20Science/Executive%20Leadership.md) — 1 mentions

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure Quick Tips for Developers]]
+- [Azure Quick Tips for Developers](../../Courses/Cloud%20Computing/Azure%20Quick%20Tips%20for%20Developers.md)

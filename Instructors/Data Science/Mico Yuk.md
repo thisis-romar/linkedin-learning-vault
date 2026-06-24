@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Analyst Mindset- 10 Nontechnical Ways to Influence Decisions]]
+- [Data Analyst Mindset- 10 Nontechnical Ways to Influence Decisions](../../Courses/Data%20Science/Data%20Analyst%20Mindset-%2010%20Nontechnical%20Ways%20to%20Influence%20Decisions.md)

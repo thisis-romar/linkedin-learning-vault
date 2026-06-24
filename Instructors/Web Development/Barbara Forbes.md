@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Git Essential Training]]
+- [Git Essential Training](../../Courses/Web%20Development/Git%20Essential%20Training.md)

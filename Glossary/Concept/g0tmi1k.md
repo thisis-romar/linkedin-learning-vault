@@ -21,18 +21,18 @@ created: 2026-05-03
 
 Author of the Linux privilege escalation guide and basic-pentest-dojo resource.
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Cybersecurity](../../Topics/Cybersecurity.md)
 
 ## Courses
 
-1. [[Offensive Penetration Testing]] — 6 mentions
+1. [Offensive Penetration Testing](../../Courses/Cybersecurity/Offensive%20Penetration%20Testing.md) — 6 mentions
 
 ## Learning Paths
 
-1. [[Penetration Testing Professional Certificate by Cybrary]] — 6 total mentions
+1. [Penetration Testing Professional Certificate by Cybrary](../../Paths/Cybersecurity/Professional%20Certificates/Penetration%20Testing%20Professional%20Certificate%20by%20Cybrary.md) — 6 total mentions
 
 ---
 
 *Source: manually added*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

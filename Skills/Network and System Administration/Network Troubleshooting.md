@@ -22,19 +22,19 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]] — Intermediate · 1h 59m · 137,500 learners
-- [[Wireshark- Network Troubleshooting]] — Intermediate · 1h 42m · 49,380 learners
+- [Learning Network Troubleshooting- Practical Network Diagnostics and Solutions](../../Courses/Cybersecurity/Learning%20Network%20Troubleshooting-%20Practical%20Network%20Diagnostics%20and%20Solutions.md) — Intermediate · 1h 59m · 137,500 learners
+- [Wireshark- Network Troubleshooting](../../Courses/Cybersecurity/Wireshark-%20Network%20Troubleshooting.md) — Intermediate · 1h 42m · 49,380 learners
 
 ## Related Skills
 
-- [[Wireshark]] — 1 shared course
+- [Wireshark](../Cybersecurity/Wireshark.md) — 1 shared course
 
 ## Mentioned In Transcripts _(14 total mentions)_
 
-1. [[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]] — 7 mentions
-2. [[Transitioning to a Career in Cybersecurity]] — 2 mentions
-3. [[Cloud Computing- Understanding Networking]] — 1 mentions
-4. [[Creating a Responsible Generative AI Use Policy]] — 1 mentions
-5. [[Troubleshooting Common PC Issues for Users]] — 1 mentions
-6. [[Wireshark- Network Troubleshooting]] — 1 mentions
-7. [[Protecting Your Network with Open-Source Software]] — 1 mentions
+1. [Learning Network Troubleshooting- Practical Network Diagnostics and Solutions](../../Courses/Cybersecurity/Learning%20Network%20Troubleshooting-%20Practical%20Network%20Diagnostics%20and%20Solutions.md) — 7 mentions
+2. [Transitioning to a Career in Cybersecurity](../../Courses/Cybersecurity/Transitioning%20to%20a%20Career%20in%20Cybersecurity.md) — 2 mentions
+3. [Cloud Computing- Understanding Networking](../../Courses/Cloud%20Computing/Cloud%20Computing-%20Understanding%20Networking.md) — 1 mentions
+4. [Creating a Responsible Generative AI Use Policy](../../Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Responsible%20Generative%20AI%20Use%20Policy.md) — 1 mentions
+5. [Troubleshooting Common PC Issues for Users](../../Courses/DevOps/Troubleshooting%20Common%20PC%20Issues%20for%20Users.md) — 1 mentions
+6. [Wireshark- Network Troubleshooting](../../Courses/Cybersecurity/Wireshark-%20Network%20Troubleshooting.md) — 1 mentions
+7. [Protecting Your Network with Open-Source Software](../../Courses/Cybersecurity/Protecting%20Your%20Network%20with%20Open-Source%20Software.md) — 1 mentions

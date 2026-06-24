@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[The Manager's Guide to Difficult Conversations]]
+- [The Manager's Guide to Difficult Conversations](../../Courses/Cloud%20Computing/The%20Manager's%20Guide%20to%20Difficult%20Conversations.md)

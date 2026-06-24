@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Tech Career Skills- Effective Technical Communication]] — Beginner · 1h 1m · 38,321 learners
+- [Tech Career Skills- Effective Technical Communication](../../Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Effective%20Technical%20Communication.md) — Beginner · 1h 1m · 38,321 learners
 
 ## Related Skills
 
-- [[Tech Career Skills]] — 1 shared course
+- [Tech Career Skills](../Cybersecurity/Tech%20Career%20Skills.md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Soft Skills for Information Security Professionals]] — 1 mentions
-2. [[Enhancing Your Productivity as a Data Scientist with Generative AI]] — 1 mentions
+1. [Soft Skills for Information Security Professionals](../../Courses/Cybersecurity/Soft%20Skills%20for%20Information%20Security%20Professionals.md) — 1 mentions
+2. [Enhancing Your Productivity as a Data Scientist with Generative AI](../../Courses/Data%20Science/Enhancing%20Your%20Productivity%20as%20a%20Data%20Scientist%20with%20Generative%20AI.md) — 1 mentions

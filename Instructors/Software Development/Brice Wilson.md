@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Asynchronous Programming in C-]]
+- [Asynchronous Programming in C-](../../Courses/Software%20Development/Asynchronous%20Programming%20in%20C-.md)

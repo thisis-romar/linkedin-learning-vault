@@ -19,15 +19,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Learning Graphql]]'
+  - course: '[Learning Graphql](../../../Courses/Software%20Development/Learning%20Graphql.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[GraphQL Essential Training]]'
+  - course: '[GraphQL Essential Training](../../../Courses/Software%20Development/GraphQL%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Migrating from REST to GraphQL]]'
+  - course: '[Migrating from REST to GraphQL](../../../Courses/Software%20Development/Migrating%20from%20REST%20to%20GraphQL.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -42,19 +42,19 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Learning Graphql]]
-2. [[GraphQL Essential Training]] _(1h 45m)_
-3. [[Migrating from REST to GraphQL]] _(1h 4m)_
+1. [Learning Graphql](../../../Courses/Software%20Development/Learning%20Graphql.md)
+2. [GraphQL Essential Training](../../../Courses/Software%20Development/GraphQL%20Essential%20Training.md) _(1h 45m)_
+3. [Migrating from REST to GraphQL](../../../Courses/Software%20Development/Migrating%20from%20REST%20to%20GraphQL.md) _(1h 4m)_
 
 ## Course Flow
 
-1. [[Learning Graphql]] → 2. [[GraphQL Essential Training]] → 3. [[Migrating from REST to GraphQL]]
+1. [Learning Graphql](../../../Courses/Software%20Development/Learning%20Graphql.md) → 2. [GraphQL Essential Training](../../../Courses/Software%20Development/GraphQL%20Essential%20Training.md) → 3. [Migrating from REST to GraphQL](../../../Courses/Software%20Development/Migrating%20from%20REST%20to%20GraphQL.md)
 
 ## Topics
 
-- [[Software Development]]
-- [[Web Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

@@ -30,4 +30,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Unconscious Bias]]
+- [Unconscious Bias](../../Courses/Data%20Science/Unconscious%20Bias.md)

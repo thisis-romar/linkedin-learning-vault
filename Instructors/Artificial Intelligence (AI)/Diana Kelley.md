@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to MLSecOps]]
-- [[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]]
+- [Introduction to MLSecOps](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20MLSecOps.md)
+- [Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)](../../Courses/Artificial%20Intelligence%20(AI)/Security%20Risks%20in%20AI%20and%20Machine%20Learning-%20Categorizing%20Attacks%20and%20Failure%20Modes%20(2022).md)

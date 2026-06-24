@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning MySQL Development]]
+- [Learning MySQL Development](../../Courses/Database%20Management/Learning%20MySQL%20Development.md)

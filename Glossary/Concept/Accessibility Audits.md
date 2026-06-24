@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # Accessibility Audits
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Web Development]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Web Development](../../Topics/Web%20Development.md)
 
 ## Courses
 
-1. [[Auditing Design Systems for Accessibility]] — 1 mentions
+1. [Auditing Design Systems for Accessibility](../../Courses/Web%20Development/Auditing%20Design%20Systems%20for%20Accessibility.md) — 1 mentions
 
 ## Learning Paths
 
-1. [[Maintain Digital Accessibility]] — 1 total mentions
+1. [Maintain Digital Accessibility](../../Paths/Web%20Development/Learning%20Paths/Maintain%20Digital%20Accessibility.md) — 1 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

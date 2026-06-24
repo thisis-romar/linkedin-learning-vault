@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]]
+- [Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications](../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMs%20with%20Retrieval%20Augmented%20Generation%20(RAG)-%20Practical%20Projects%20for%20AI%20Applications.md)

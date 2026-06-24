@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Marketing Foundations- Customer Decision Journey]] — 47m · 123,805 learners
+- [Marketing Foundations- Customer Decision Journey](../../Courses/Data%20Science/Marketing%20Foundations-%20Customer%20Decision%20Journey.md) — 47m · 123,805 learners
 
 ## Related Skills
 
-- [[Customer Journey Mapping]] — 1 shared course
+- [Customer Journey Mapping](Customer%20Journey%20Mapping.md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Marketing Foundations]] — 2 mentions
+1. [Marketing Foundations](../../Courses/Data%20Science/Marketing%20Foundations.md) — 2 mentions

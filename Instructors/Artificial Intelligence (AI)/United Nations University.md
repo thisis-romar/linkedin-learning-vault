@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Responsible AI- Global Risks, Governance, and Human Oversight]]
-- [[AI in Action- Global Case Studies from Public Institutions]]
+- [Responsible AI- Global Risks, Governance, and Human Oversight](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Global%20Risks%2C%20Governance%2C%20and%20Human%20Oversight.md)
+- [AI in Action- Global Case Studies from Public Institutions](../../Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Action-%20Global%20Case%20Studies%20from%20Public%20Institutions.md)

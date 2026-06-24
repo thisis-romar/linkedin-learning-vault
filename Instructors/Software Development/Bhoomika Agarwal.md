@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Python Automation and Testing]]
+- [Python Automation and Testing](../../Courses/Software%20Development/Python%20Automation%20and%20Testing.md)

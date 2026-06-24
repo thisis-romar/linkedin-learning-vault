@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[De-Escalating Conversations for Customer Service]] — Advanced · 49m · 347,547 learners
+- [De-Escalating Conversations for Customer Service](../../Courses/IT%20Help%20Desk/De-Escalating%20Conversations%20for%20Customer%20Service.md) — Advanced · 49m · 347,547 learners
 
 ## Related Skills
 
-- [[De-escalation]] — 1 shared course
-- [[Customer Service]] — 1 shared course
+- [De-escalation](De-escalation.md) — 1 shared course
+- [Customer Service](Customer%20Service.md) — 1 shared course

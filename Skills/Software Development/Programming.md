@@ -22,16 +22,16 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Computer Science Principles- Programming]] — Beginner · 1h 25m · 87,841 learners
-- [[Programming Foundations- Conducting Code Reviews]] — Beginner · 1h 26m · 38,321 learners
-- [[Learning Functional Programming with JavaScript ES6+]] — Intermediate · 3h 8m · 1,853 learners
+- [Computer Science Principles- Programming](../../Courses/Software%20Development/Computer%20Science%20Principles-%20Programming.md) — Beginner · 1h 25m · 87,841 learners
+- [Programming Foundations- Conducting Code Reviews](../../Courses/Cloud%20Computing/Programming%20Foundations-%20Conducting%20Code%20Reviews.md) — Beginner · 1h 26m · 38,321 learners
+- [Learning Functional Programming with JavaScript ES6+](../../Courses/Software%20Development/Learning%20Functional%20Programming%20with%20JavaScript%20ES6%2B.md) — Intermediate · 3h 8m · 1,853 learners
 
 ## Related Skills
 
-- [[ECMAScript]] — 1 shared course
-- [[Computer Science]] — 1 shared course
-- [[Code Review]] — 1 shared course
-- [[Programming Foundations]] — 1 shared course
-- [[JavaScript]] — 1 shared course
-- [[Front-End Development]] — 1 shared course
-- [[Web Development]] — 1 shared course
+- [ECMAScript](../Web%20Development/ECMAScript.md) — 1 shared course
+- [Computer Science](../Cybersecurity/Computer%20Science.md) — 1 shared course
+- [Code Review](Code%20Review.md) — 1 shared course
+- [Programming Foundations](Programming%20Foundations.md) — 1 shared course
+- [JavaScript](JavaScript.md) — 1 shared course
+- [Front-End Development](../Web%20Development/Front-End%20Development.md) — 1 shared course
+- [Web Development](../../Topics/Web%20Development.md) — 1 shared course

@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)]]
+- [Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)](../../Courses/Artificial%20Intelligence%20(AI)/Manager's%20Guide%20to%20Building%20a%20Strategic%20Plan%20with%20ChatGPT%20(No%20Code%20Required).md)

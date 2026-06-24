@@ -30,12 +30,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cloud Computing Careers and Certifications]]
-- [[Cloud Quantum Computing Essentials]]
-- [[Google Cloud Platform for Machine Learning Essential Training]]
-- [[Google Gemini For Developers]]
-- [[Advanced Gemini for Developers]]
-- [[Learning SnowflakeDB]]
-- [[Cloud NoSQL for SQL Professionals]]
-- [[Azure Spark Databricks Essential Training]]
-- [[Leveraging Google Cloud Developer and DevOps Tools]]
+- [Cloud Computing Careers and Certifications](../../Courses/Cloud%20Computing/Cloud%20Computing%20Careers%20and%20Certifications.md)
+- [Cloud Quantum Computing Essentials](../../Courses/Cloud%20Computing/Cloud%20Quantum%20Computing%20Essentials.md)
+- [Google Cloud Platform for Machine Learning Essential Training](../../Courses/Artificial%20Intelligence%20(AI)/Google%20Cloud%20Platform%20for%20Machine%20Learning%20Essential%20Training.md)
+- [Google Gemini For Developers](../../Courses/Artificial%20Intelligence%20(AI)/Google%20Gemini%20For%20Developers.md)
+- [Advanced Gemini for Developers](../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20Gemini%20for%20Developers.md)
+- [Learning SnowflakeDB](../../Courses/Cloud%20Computing/Learning%20SnowflakeDB.md)
+- [Cloud NoSQL for SQL Professionals](../../Courses/Database%20Management/Cloud%20NoSQL%20for%20SQL%20Professionals.md)
+- [Azure Spark Databricks Essential Training](../../Courses/Data%20Science/Azure%20Spark%20Databricks%20Essential%20Training.md)
+- [Leveraging Google Cloud Developer and DevOps Tools](../../Courses/Cloud%20Computing/Leveraging%20Google%20Cloud%20Developer%20and%20DevOps%20Tools.md)

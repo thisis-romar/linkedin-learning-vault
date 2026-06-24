@@ -16,14 +16,14 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQEL7fM_V2QpOw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719432933113?e=2147483647&amp;v=beta&amp;t=Zi4UxLxSrBtVTVB-LJDa4Simdb3QNQXBsEuhkMHwCFQ"
 linkedin_topic: Data Science
 learning_paths:
-  - '[[Visual Communication for Business Professionals]]'
-  - '[[Become a Marketing Coordinator]]'
+  - '[Visual Communication for Business Professionals](../../Paths/Data%20Science/Learning%20Paths/Visual%20Communication%20for%20Business%20Professionals.md)'
+  - '[Become a Marketing Coordinator](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Marketing%20Coordinator.md)'
 prev_courses:
-  - '[[Data Visualization- Best Practices]]'
-  - '[[Email and Newsletter Marketing Foundations]]'
+  - '[Data Visualization- Best Practices](Data%20Visualization-%20Best%20Practices.md)'
+  - '[Email and Newsletter Marketing Foundations](Email%20and%20Newsletter%20Marketing%20Foundations.md)'
 next_courses:
-  - '[[Learning Graphic Design- Layouts]]'
-  - '[[Project Management Simplified]]'
+  - '[Learning Graphic Design- Layouts](Learning%20Graphic%20Design-%20Layouts.md)'
+  - '[Project Management Simplified](Project%20Management%20Simplified.md)'
 path_nav: '[{"path":"Visual Communication for Business Professionals","position":3,"total":5,"prev":"Data Visualization- Best Practices","next":"Learning Graphic Design- Layouts"},{"path":"Become a Marketing Coordinator","position":7,"total":9,"prev":"Email and Newsletter Marketing Foundations","next":"Project Management Simplified"}]'
 path_count: 2
 tags:
@@ -97,11 +97,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980&t=0)** [[Graphic Design]] is everywhere, it's all around you, every single product you can think of, the identity of every service you use, the screen you're looking at right now. Graphic design is the art of using and combining visual elements, [[Typography]] and colour to convey a message. If you are an aspiring graphic designer or you're someone who will work with designers, you're going to need to learn about the processes, principles, terminology and language involved in the industry And this is where you start. My name is Tony Harmer and my career spans more than four decades in the creative industry. I'm thrilled that you're here to begin your journey along with me. So let's get started and dive in to the amazing world of graphic design.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980&t=0)** [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) is everywhere, it's all around you, every single product you can think of, the identity of every service you use, the screen you're looking at right now. Graphic design is the art of using and combining visual elements, [Typography](../../Skills/Data%20Science/Typography.md) and colour to convey a message. If you are an aspiring graphic designer or you're someone who will work with designers, you're going to need to learn about the processes, principles, terminology and language involved in the industry And this is where you start. My name is Tony Harmer and my career spans more than four decades in the creative industry. I'm thrilled that you're here to begin your journey along with me. So let's get started and dive in to the amazing world of graphic design.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (3), [[Typography]] (1)
+> **Frameworks & Libraries:** [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (3), [Typography](../../Skills/Data%20Science/Typography.md) (1)
 
 
 ### 1. Graphic Design Projects
@@ -112,7 +112,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980&t=0)** [[Graphic Design]] is about problem solving through visual communication and the creative process is a way we can describe the journey from identifying the initial problem through to the design that aims to achieve the desired outcome.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980&t=0)** [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) is about problem solving through visual communication and the creative process is a way we can describe the journey from identifying the initial problem through to the design that aims to achieve the desired outcome.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980&t=16)** Although the process may vary depending on whether it is your own project or something that is client led, but typically it begins with a brief.
 >
@@ -120,7 +120,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (1)
+> **Frameworks & Libraries:** [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (1)
 > **Definitions:** is a  (1)
 
 #### [The creative brief](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-brief?u=76281980)
@@ -147,7 +147,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/research?u=76281980&t=0)** To develop an effective design you need to understand your clients and their audience. Start by learning about the client's brand. This includes specific colours, [[Typography]], imagery they use, as well as their tone, that's how they describe themselves or the project, and the mood they want to evoke in their audience. Most clients enjoy discussing their brand and also may already have resources you can check out. Audience research is crucial and varies by project, but the goal is always to understand the target audience.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/research?u=76281980&t=0)** To develop an effective design you need to understand your clients and their audience. Start by learning about the client's brand. This includes specific colours, [Typography](../../Skills/Data%20Science/Typography.md), imagery they use, as well as their tone, that's how they describe themselves or the project, and the mood they want to evoke in their audience. Most clients enjoy discussing their brand and also may already have resources you can check out. Audience research is crucial and varies by project, but the goal is always to understand the target audience.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/research?u=76281980&t=36)** Once you gather enough information, it's helpful to create visual resources like charts and graphs for quantitative and qualitative data.
 >
@@ -157,7 +157,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (1)
+> **Frameworks & Libraries:** [Typography](../../Skills/Data%20Science/Typography.md) (1)
 > **Analogies:** picture (1)
 
 #### [Ideation](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/ideation?u=76281980)
@@ -208,11 +208,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=0)** An understanding of type and [[Typography]] is central to [[Graphic Design]] and there's quite a bit of terminology you'll need to learn.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=0)** An understanding of type and [Typography](../../Skills/Data%20Science/Typography.md) is central to [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) and there's quite a bit of terminology you'll need to learn.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=8)** Some of the terms you may have heard before or even used but there are some in everyday usage that are used differently in professional design, especially where typography is concerned.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=22)** Let's begin with the words font and typeface. While the [[Microsoft Word|word]] font is often used to describe both of these things, it's not technically correct. A font is the software file that delivers a typeface like Times New Roman, or Garamond, or Calibri, or Futura, etc.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=22)** Let's begin with the words font and typeface. While the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) font is often used to describe both of these things, it's not technically correct. A font is the software file that delivers a typeface like Times New Roman, or Garamond, or Calibri, or Futura, etc.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=41)** etc. A typeface is a design of a set of letterforms, which individually are known as glyphs inside of a font.
 >
@@ -224,7 +224,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (2), [[Graphic Design]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Typography](../../Skills/Data%20Science/Typography.md) (2), [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (1), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Definitions:** known as (2), is a  (1)
 > **Prerequisites:** you'll need (1)
 
@@ -234,13 +234,13 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=0)** Let's explore some other essential concepts and terms you need to know, with some others that are useful to know. Let's start with the basics. The first character here is in uppercase, commonly known as capitals or caps, and that's followed by some lowercase characters.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=18)** There are also variations for numbers or numerals, as they're known in the language of type, in two [[Forms]]. Old style numerals that tend to give a more harmonious appearance when used within blocks of paragraph text, and lining numerals that are better for tabulated text. Note that not every font has the old style variations, mostly ones designed for paragraphs of body text are where they're to be found. Type is designed using construction lines and the foundation for all typefaces is the baseline. We don't normally see it except in some graphics programs, but it's always there. All text runs along or is relative to a baseline. There are other construction lines that define the structure and proportions of letterforms in a typeface, but we only need to learn about four others. The first of which is the x-height, which dictates the height of lowercase letters, and the cap-height, which sets the height for uppercase letters. The ascender line marks the upper limit of characters with ascenders, such as this H, and the descender line marks the lower limit of characters with descenders, like this G. Along with the baseline, it's the X height that determines the size that the typeface will appear, and it's very important to note here that the point size system is not absolute. Different fonts set at exactly the same point size won't necessarily appear the same. If you look at this example we have Adobe Garamond Pro,
+> **[0:18](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=18)** There are also variations for numbers or numerals, as they're known in the language of type, in two [Forms](../../Skills/Web%20Development/Forms.md). Old style numerals that tend to give a more harmonious appearance when used within blocks of paragraph text, and lining numerals that are better for tabulated text. Note that not every font has the old style variations, mostly ones designed for paragraphs of body text are where they're to be found. Type is designed using construction lines and the foundation for all typefaces is the baseline. We don't normally see it except in some graphics programs, but it's always there. All text runs along or is relative to a baseline. There are other construction lines that define the structure and proportions of letterforms in a typeface, but we only need to learn about four others. The first of which is the x-height, which dictates the height of lowercase letters, and the cap-height, which sets the height for uppercase letters. The ascender line marks the upper limit of characters with ascenders, such as this H, and the descender line marks the lower limit of characters with descenders, like this G. Along with the baseline, it's the X height that determines the size that the typeface will appear, and it's very important to note here that the point size system is not absolute. Different fonts set at exactly the same point size won't necessarily appear the same. If you look at this example we have Adobe Garamond Pro,
 >
-> **[1:59](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=119)** then at exactly the same point sizes we have a version of Times New Roman and then Trajan Pro 3. Garamond and Times are very similar as they are designed for use in paragraphs of text, but Trajan may well be designed for larger display sizes and you can see just how different that can be. Understanding these terms and concepts is crucial for getting to grips with [[Typography]] and [[Graphic Design]], so be sure to invest some time in studying them.
+> **[1:59](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=119)** then at exactly the same point sizes we have a version of Times New Roman and then Trajan Pro 3. Garamond and Times are very similar as they are designed for use in paragraphs of text, but Trajan may well be designed for larger display sizes and you can see just how different that can be. Understanding these terms and concepts is crucial for getting to grips with [Typography](../../Skills/Data%20Science/Typography.md) and [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md), so be sure to invest some time in studying them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Typography]] (1), [[Graphic Design]] (1)
+> **Frameworks & Libraries:** [Forms](../../Skills/Web%20Development/Forms.md) (1), [Typography](../../Skills/Data%20Science/Typography.md) (1), [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -259,7 +259,7 @@ created: 2026-05-03
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980&t=94)** They are great on paper and arguably easier to read too, as the serifs tend to lead the eye. Taking serifs up a level or three, we have slab serif typefaces with these heavy projecting feet and shoulders, usually wide and very bold but there are lighter ones too and many other variations that fit into this category.
 >
-> **[1:58](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980&t=118)** Script comes in various [[Forms]] from casual but elegant humanistic handwriting styles to the more formal super elaborate mega swashy super curly examples
+> **[1:58](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980&t=118)** Script comes in various [Forms](../../Skills/Web%20Development/Forms.md) from casual but elegant humanistic handwriting styles to the more formal super elaborate mega swashy super curly examples
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980&t=130)** based on calligraphic mastery with a fine pen that would look at home on an invitation to lunch with somebody very important indeed.
 >
@@ -267,7 +267,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1)
+> **Frameworks & Libraries:** [Forms](../../Skills/Web%20Development/Forms.md) (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -277,7 +277,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/type-anatomy?u=76281980&t=0)** It's a good idea to learn at least a few of the anatomical names of letter [[Forms]] because it gives us a point of reference when we're evaluating different typefaces for use in our projects and a point for discussion.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/type-anatomy?u=76281980&t=0)** It's a good idea to learn at least a few of the anatomical names of letter [Forms](../../Skills/Web%20Development/Forms.md) because it gives us a point of reference when we're evaluating different typefaces for use in our projects and a point for discussion.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/type-anatomy?u=76281980&t=13)** So to start with, this is a serif typeface and if you look at the A at the front there, you'll see some of the serifs highlighted there and on other characters.
 >
@@ -301,7 +301,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1)
+> **Frameworks & Libraries:** [Forms](../../Skills/Web%20Development/Forms.md) (1)
 > **Definitions:** known as (6), is a  (3)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -353,13 +353,13 @@ created: 2026-05-03
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=145)** but you need to use other skills to actually make that work properly. Just using it by default rarely works very very well. I'm just going to set this back to left aligned for the moment. There are also a couple of other options here, which are for layout. So they will align to the spine or the outside of the page. And that's a useful thing, but not something we need to worry about today. Then we got some indents here. So if you wanted to indent a paragraph by a certain value, so let's just indent that paragraph like so, you can do it on both sides. So there might be a whole bunch of reasons why you actually wanted to do that, to indent on both sides, but I'm not going to do that just now. I'll just reset those back down to zero and let that catch up. Indents are also useful if you've got things like a list. If I just come over to this side here, and then just dial in a little bit of an indent for my list, there we are. My list is now indented, and you can see some of the things that I really love just there. Now at the moment, we've got all of these paragraphs. They're quite tightly spaced together here. In fact, I'm not even sure if there is a paragraph break in this first line. But I'll find out in a second, because I'm going to use this first line indent. And this is very common if here, if I just dial this in, there we go. Very common in paperback novels, where they tend not to have a lot of space in between paragraphs. So if you've got chunks of text, you need to give a reader a way of seeing, okay, where the next paragraph begins
 >
-> **[4:02](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=242)** before they give up the will to read the document. So first line indent is very, very useful for that. And in some circumstances, although I don't think I've ever used it, a last line right indent, but that's normally when you want to add something to the end of the paragraph. I'll just reset that back to zero. Then we have some spacing options here. Now what people tend to do typically, okay, when they are spacing out text is they tend to introduce extra carriage return. So they'll just hit return. But the best way to do this as a professional designer is to go ahead and use these two values, space before a paragraph and space after. Now I'm gonna use that on the heading that I dropped in here last time, because this is one place where I would want actually both. So I might want a small value to separate it out from the previous paragraph, just here, and then another value to separate it out from the flow of the paragraph that it's associated with. Remember this is a thing in [[Graphic Design]], we're talking about proximity here and those being viewed as being together. There we go, hopefully that's sinking in. Don't worry too much about this thing here, this is an InDesign thing about things using the same style. And then we have these options here, I very much doubt you will use them, but drop capitals. So if you have a drop capital just here, what you can do, you've got two values. So how many lines it drops over.
+> **[4:02](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=242)** before they give up the will to read the document. So first line indent is very, very useful for that. And in some circumstances, although I don't think I've ever used it, a last line right indent, but that's normally when you want to add something to the end of the paragraph. I'll just reset that back to zero. Then we have some spacing options here. Now what people tend to do typically, okay, when they are spacing out text is they tend to introduce extra carriage return. So they'll just hit return. But the best way to do this as a professional designer is to go ahead and use these two values, space before a paragraph and space after. Now I'm gonna use that on the heading that I dropped in here last time, because this is one place where I would want actually both. So I might want a small value to separate it out from the previous paragraph, just here, and then another value to separate it out from the flow of the paragraph that it's associated with. Remember this is a thing in [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md), we're talking about proximity here and those being viewed as being together. There we go, hopefully that's sinking in. Don't worry too much about this thing here, this is an InDesign thing about things using the same style. And then we have these options here, I very much doubt you will use them, but drop capitals. So if you have a drop capital just here, what you can do, you've got two values. So how many lines it drops over.
 >
-> **[5:35](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=335)** So if I just go for three lines just here, and then we have this option here for how many characters are picked up inside of that first line indent just there. And it will do it provided there's enough [[Microsoft Word|word]] there for it to actually do it. Otherwise it will ignore it if it's too short. But you can see I've put in four characters there. The first word is tem, so it's not picking up anything other than the space. And as I dial that down, you'll see that will change. So there we are, that's drop caps in there. The other things inside of here, you don't need to worry about at all, apart from hyphenation perhaps. You don't want things to hyphenate here. You can turn that off and your application should be able to do exactly the same thing. So I get this paragraph here and just turn off hyphenation. You can see it reflows because now some of those things have got to break onto other lines like so. And those are the basic paragraph options you're likely to encounter.
+> **[5:35](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=335)** So if I just go for three lines just here, and then we have this option here for how many characters are picked up inside of that first line indent just there. And it will do it provided there's enough [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) there for it to actually do it. Otherwise it will ignore it if it's too short. But you can see I've put in four characters there. The first word is tem, so it's not picking up anything other than the space. And as I dial that down, you'll see that will change. So there we are, that's drop caps in there. The other things inside of here, you don't need to worry about at all, apart from hyphenation perhaps. You don't want things to hyphenate here. You can turn that off and your application should be able to do exactly the same thing. So I get this paragraph here and just turn off hyphenation. You can see it reflows because now some of those things have got to break onto other lines like so. And those are the basic paragraph options you're likely to encounter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Graphic Design]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2), [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1)
@@ -389,13 +389,13 @@ created: 2026-05-03
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980&t=48)** Items close together are perceived as related while those spaced apart are seen as unrelated. Contrast adds visual interest and highlights key areas, making it a crucial element in guiding viewers through a design.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980&t=64)** It can be achieved through various attributes such as size, colour and [[Typography]], and also serves as an accessibility consideration, particularly with colour.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980&t=64)** It can be achieved through various attributes such as size, colour and [Typography](../../Skills/Data%20Science/Typography.md), and also serves as an accessibility consideration, particularly with colour.
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980&t=75)** Repetition brings consistency and rhythm to a layout, connecting individual elements and adding strength. Introducing interruptions into repetition can create dynamic beats in the design. Space is the final vital element. Negative space in a design is just as important as the filled spaces. By skillfully applying these principles, balance, alignment, proximity, contrast, repetition and space, we can create cohesive, visually engaging designs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (1)
+> **Frameworks & Libraries:** [Typography](../../Skills/Data%20Science/Typography.md) (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 
@@ -403,13 +403,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980&t=0)** In creating a design one of the first considerations is going to be space. [[Graphic Design]] is all about space and how it is used in many different ways. From the design as a whole down to the individual tiny spaces between letter [[Forms]]. There's a vocabulary for the different kinds of spaces and this is perhaps something you should start making notes of throughout the course that you can refer to later. to later. We'll start with the design space sometimes referred to as a surface. That's the area that you have to work with where your design will actually be used and that could be many things. A poster, a social media post, a website or an app, a t-shirt or even something much larger like an exhibition stand. Whatever the spaces you're working in it makes sense to divide that up in some way to make it easier to see relationships and proportions within it that will inform your placement of content. Let's take a page just as an example. The first thing you may want to consider would be the main active area within that space and then think about the area around that typically referred to as the margins. Sometimes margins are functional and therefore a physical reason but other times they are simply created to help narrow down the design space to make it easier to create the design. One thing to always remember however is margins don't always mean blank space, they're
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980&t=0)** In creating a design one of the first considerations is going to be space. [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) is all about space and how it is used in many different ways. From the design as a whole down to the individual tiny spaces between letter [Forms](../../Skills/Web%20Development/Forms.md). There's a vocabulary for the different kinds of spaces and this is perhaps something you should start making notes of throughout the course that you can refer to later. to later. We'll start with the design space sometimes referred to as a surface. That's the area that you have to work with where your design will actually be used and that could be many things. A poster, a social media post, a website or an app, a t-shirt or even something much larger like an exhibition stand. Whatever the spaces you're working in it makes sense to divide that up in some way to make it easier to see relationships and proportions within it that will inform your placement of content. Let's take a page just as an example. The first thing you may want to consider would be the main active area within that space and then think about the area around that typically referred to as the margins. Sometimes margins are functional and therefore a physical reason but other times they are simply created to help narrow down the design space to make it easier to create the design. One thing to always remember however is margins don't always mean blank space, they're
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980&t=95)** still a part of the design and rarely have to be completely empty.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (1), [Forms](../../Skills/Web%20Development/Forms.md) (1)
 > **CLI Commands:** make (2)
 
 #### [Space](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980)
@@ -420,13 +420,13 @@ created: 2026-05-03
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980&t=10)** it may be easier to use the terms positive space and negative space instead. Positive space is of course the space that is occupied by active content such as text or other objects and negative space refers to the regions around them.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980&t=29)** Negative space used wisely balances out a design. Take a look at this poster. The bird is in the first third of the layout and the other elements are in different places but it looks balanced. The negative space is almost equal to the positive space and it gives it balance. You may have heard me use the [[Microsoft Word|word]] active a few moments ago too and this is another way we can refer to positive content just as we can refer to negative space
+> **[0:29](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980&t=29)** Negative space used wisely balances out a design. Take a look at this poster. The bird is in the first third of the layout and the other elements are in different places but it looks balanced. The negative space is almost equal to the positive space and it gives it balance. You may have heard me use the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) active a few moments ago too and this is another way we can refer to positive content just as we can refer to negative space
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980&t=59)** passive which can be more descriptive in certain circumstances. For example just consider this design that uses a photo negative image in the background. If we were trying to talk about the area around the headline using the term negative space could be confusing but passive should make it clearer whatever you're referring to and that's why the additional language is there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -435,13 +435,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/using-grids?u=76281980&t=0)** Using grids takes a lot of the guesswork out of putting layouts together. They help to ensure consistency, alignment and structure in your design, making it visually appealing and easier to navigate. There are many [[Forms]] of grid, but they all share one thing in common. They are a guide to the placement of content, and it's OK to break the grid if you need to. Let's look at a few types. Columnar grids divide up your design space into horizontal sections with gutters in between each column and how many columns is entirely up to you. But my personal favorite is 12 columns as it divides by 1, 2, 3, 4 and 6. That makes it easy to divide up visually and keep balance in the design. Here are some columns applied to a design for an app on a phone. This one is using two grids, one with eight columns that will present small modules of content and another with four columns for a listing style layout. Oh, I do love the kitties. One step on from a columnar layout is a modular layout, which divides up the space into small modules, each of which is a multiple of the smallest unit on the page, known as a micro module. that you can see that highlighted here in the gutters and the flow lines. That's the term for the gutters that run from side to side. And each module is based on that micro module.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/using-grids?u=76281980&t=0)** Using grids takes a lot of the guesswork out of putting layouts together. They help to ensure consistency, alignment and structure in your design, making it visually appealing and easier to navigate. There are many [Forms](../../Skills/Web%20Development/Forms.md) of grid, but they all share one thing in common. They are a guide to the placement of content, and it's OK to break the grid if you need to. Let's look at a few types. Columnar grids divide up your design space into horizontal sections with gutters in between each column and how many columns is entirely up to you. But my personal favorite is 12 columns as it divides by 1, 2, 3, 4 and 6. That makes it easy to divide up visually and keep balance in the design. Here are some columns applied to a design for an app on a phone. This one is using two grids, one with eight columns that will present small modules of content and another with four columns for a listing style layout. Oh, I do love the kitties. One step on from a columnar layout is a modular layout, which divides up the space into small modules, each of which is a multiple of the smallest unit on the page, known as a micro module. that you can see that highlighted here in the gutters and the flow lines. That's the term for the gutters that run from side to side. And each module is based on that micro module.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/using-grids?u=76281980&t=96)** So every module there is four micro modules wide by five micro modules deep. They make placement within the design a lot easier as the proportions of everything are right in front of you. We'll be building a layout using this in the next movie. Not all grids have to be rectilinear, there are lots of ways a space can be divided. Here the layout is being built using an axial grid. This is a line that divides up the design space and sometimes it is mixed with rows at the same angle as the page and other times with perpendicular lines coming off of that axis. And the axis doesn't need to be a single line, you can bend the line too. but there is still a system in place to make the layout less haphazard, even if it doesn't look like it is. To finish, I'm going to show you mockups I made of two posters from the 20th century. Firstly, this one based on a poster by Josef Muller Brockmann, and also this one that is based on a design by Fritz Schleifer. Because even though it may not look like it to you right now, Here are the grids, they are actually very calculated based on the divisions of the design surface and that's an exercise you can try by looking at layouts and trying to find the invisible structure underneath.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1)
+> **Frameworks & Libraries:** [Forms](../../Skills/Web%20Development/Forms.md) (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
@@ -486,11 +486,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980&t=0)** In many ways, color is the lifeblood of [[Graphic Design]]. It's a powerfully expressive component with nearly infinite variations and its own unique language. It can create focus in a design, communicate information and evoke emotional responses. Let's start with the basics of color in the real world. We have three pure colors, meaning they cannot be created by mixing, and they are red, yellow and blue. We call these colours primary colours and you probably remember this from school, but a refresher is perhaps a good idea. When we mix the neighboring primary colours together we get secondary colours, and mixing those neighboring colours together gets us our tertiary colours and creates our colour wheel that is fundamental to colour theory, which is an essential tool in graphic design. As well as making colour relationships apparent, it also reveals other concepts like colour temperature. Colours closer to red are described as warm, while those nearer to blue are considered cool. These relationships and concepts are essential in colour theory, which is a fantastic toolkit in graphic design, and even though we create and use colour in the digital world, where the mechanics of colour are different, different. It's the real world knowledge that we need to acquire.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980&t=0)** In many ways, color is the lifeblood of [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md). It's a powerfully expressive component with nearly infinite variations and its own unique language. It can create focus in a design, communicate information and evoke emotional responses. Let's start with the basics of color in the real world. We have three pure colors, meaning they cannot be created by mixing, and they are red, yellow and blue. We call these colours primary colours and you probably remember this from school, but a refresher is perhaps a good idea. When we mix the neighboring primary colours together we get secondary colours, and mixing those neighboring colours together gets us our tertiary colours and creates our colour wheel that is fundamental to colour theory, which is an essential tool in graphic design. As well as making colour relationships apparent, it also reveals other concepts like colour temperature. Colours closer to red are described as warm, while those nearer to blue are considered cool. These relationships and concepts are essential in colour theory, which is a fantastic toolkit in graphic design, and even though we create and use colour in the digital world, where the mechanics of colour are different, different. It's the real world knowledge that we need to acquire.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (3)
+> **Frameworks & Libraries:** [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (3)
 > **Definitions:** is an  (1), is a  (1)
 
 #### [Digital color](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/digital-color?u=76281980)
@@ -615,7 +615,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=0)** Imagery significantly enhances communication and engagement. Visuals have a powerful ability to convey complex messages quickly and effectively, often more so than text alone.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=13)** They capture attention, evoke emotions and can make a lasting impression on the viewer. Whether it's a striking photo, a detailed illustration or an eye-catching graphic, Imagery helps to illustrate ideas, tell stories and connect with the audience on a deeper level. When it comes to illustration in [[Graphic Design]], it's all about creativity and customization. Illustrations can convey specific moods, themes or messages that might be hard to capture with photography. This can be particularly advantageous for branding where a distinct visual style can set a brand apart and illustrations can be tailored to fit any context perfectly ensuring the design feels intentional. On the flip side, photography brings a level of realism and relatability that illustrations might not always achieve. Photos can capture genuine moments, emotions and textures, making them incredibly powerful for [[Storytelling]] and creating real connections with the audience. They're especially effective for product advertising, lifestyle branding and any design work where authenticity is key.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=13)** They capture attention, evoke emotions and can make a lasting impression on the viewer. Whether it's a striking photo, a detailed illustration or an eye-catching graphic, Imagery helps to illustrate ideas, tell stories and connect with the audience on a deeper level. When it comes to illustration in [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md), it's all about creativity and customization. Illustrations can convey specific moods, themes or messages that might be hard to capture with photography. This can be particularly advantageous for branding where a distinct visual style can set a brand apart and illustrations can be tailored to fit any context perfectly ensuring the design feels intentional. On the flip side, photography brings a level of realism and relatability that illustrations might not always achieve. Photos can capture genuine moments, emotions and textures, making them incredibly powerful for [Storytelling](../../Skills/Web%20Development/Storytelling.md) and creating real connections with the audience. They're especially effective for product advertising, lifestyle branding and any design work where authenticity is key.
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=83)** With the right photo, a designer can convey a lot with just one image. Plus advancements in photography and editing technology means that photos can be manipulated in creative ways to blur the lines between realism and art.
 >
@@ -623,7 +623,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (2), [Storytelling](../../Skills/Web%20Development/Storytelling.md) (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 
@@ -639,11 +639,11 @@ created: 2026-05-03
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/cropping-images?u=76281980&t=101)** You can also do things like rotate your crop as well to tell a slightly different story. This is slightly unsettling because we can see the ground there, but in other images it might work quite well. OK, so we can just go ahead and crop what we want. The only consideration we will need to make when we are cropping in this way is will the end result meet the resolution target that we'll need for the actual intended usage.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/cropping-images?u=76281980&t=128)** So if I was doing this, for example, this is quite a large image to go to [[Instagram]]. Square would be just fine to go on. Quite a few different documents would be fine. but any larger than that I might need to actually go ahead and look for another image.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/cropping-images?u=76281980&t=128)** So if I was doing this, for example, this is quite a large image to go to [Instagram](../../Glossary/Service/Instagram.md). Square would be just fine to go on. Quite a few different documents would be fine. but any larger than that I might need to actually go ahead and look for another image.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Instagram]] (1)
+> **Frameworks & Libraries:** [Instagram](../../Glossary/Service/Instagram.md) (1)
 > **UI Navigation:** switch to (1), go to (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
@@ -652,7 +652,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/generative-ai?u=76281980&t=0)** [[Generative AI]] is now a part of our world and it can be used to explore ideas very quickly. It's great for sparking them and sometimes can generate design options that may not have occurred otherwise. It's fantastic for rapid ideation and also for planning that makes it easier to brief photographers or illustrators.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/generative-ai?u=76281980&t=0)** [Generative AI](../../Skills/Artificial%20Intelligence%20(AI)/Generative%20AI.md) is now a part of our world and it can be used to explore ideas very quickly. It's great for sparking them and sometimes can generate design options that may not have occurred otherwise. It's fantastic for rapid ideation and also for planning that makes it easier to brief photographers or illustrators.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/generative-ai?u=76281980&t=21)** It's like having a supercharged assistant that can quickly create variations and help with repetitive tasks. Already in applications like Photoshop, things like background removal can be achieved in moments rather than minutes or even hours. And object removal is done almost in a blink. On the downside, relying on too much AI could stifle designers creativity and lead to homogenized work that lacks any form of personal touch.
 >
@@ -662,7 +662,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1)
+> **Frameworks & Libraries:** [Generative AI](../../Skills/Artificial%20Intelligence%20(AI)/Generative%20AI.md) (1)
 > **Analogies:** it's like (1)
 
 #### [Challenge: The art of cropping](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-the-art-of-cropping?u=76281980)
@@ -680,16 +680,16 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=0)** That's it, we are done for this course. Now you can go and get some practical experience with the i2gd, that's Intro to [[Graphic Design]], Projects course. Feel free to follow me here on [[LinkedIn]] and also follow my weekly series, Design Tools Weekly, that contains software news and articles all around design. Hopefully I'll see you there. But for now that's it and my congratulations to you for completing the course. See ya.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=0)** That's it, we are done for this course. Now you can go and get some practical experience with the i2gd, that's Intro to [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md), Projects course. Feel free to follow me here on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) and also follow my weekly series, Design Tools Weekly, that contains software news and articles all around design. Hopefully I'll see you there. But for now that's it and my congratulations to you for completing the course. See ya.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Graphic Design](../../Skills/Data%20Science/Graphic%20Design.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 
 
 ## Instructor
 
-- [[Tony Harmer]]
+- [Tony Harmer](../../Instructors/Data%20Science/Tony%20Harmer.md)
 
 ## Skills Covered
 
@@ -697,22 +697,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Visual Communication for Business Professionals]]
-← [[Data Visualization- Best Practices]] | **3 of 5** | [[Learning Graphic Design- Layouts]] →
+### In [Visual Communication for Business Professionals](../../Paths/Data%20Science/Learning%20Paths/Visual%20Communication%20for%20Business%20Professionals.md)
+← [Data Visualization- Best Practices](Data%20Visualization-%20Best%20Practices.md) | **3 of 5** | [Learning Graphic Design- Layouts](Learning%20Graphic%20Design-%20Layouts.md) →
 
-### In [[Become a Marketing Coordinator]]
-← [[Email and Newsletter Marketing Foundations]] | **7 of 9** | [[Project Management Simplified]] →
+### In [Become a Marketing Coordinator](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Marketing%20Coordinator.md)
+← [Email and Newsletter Marketing Foundations](Email%20and%20Newsletter%20Marketing%20Foundations.md) | **7 of 9** | [Project Management Simplified](Project%20Management%20Simplified.md) →
 
 ## Appears In
 
-- [[Visual Communication for Business Professionals]]
-- [[Become a Marketing Coordinator]]
+- [Visual Communication for Business Professionals](../../Paths/Data%20Science/Learning%20Paths/Visual%20Communication%20for%20Business%20Professionals.md)
+- [Become a Marketing Coordinator](../../Paths/Data%20Science/Learning%20Paths/Become%20a%20Marketing%20Coordinator.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Learning Graphic Design- Layouts]] — Graphic Design
+- [Learning Graphic Design- Layouts](Learning%20Graphic%20Design-%20Layouts.md) — Graphic Design
 
 ---
 

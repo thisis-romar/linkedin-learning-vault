@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Copilot in PowerPoint- From Prompt to Presentation]]
-- [[Copilot in PowerPoint- From Prompt to Presentation (2024)]]
+- [Copilot in PowerPoint- From Prompt to Presentation](../../Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20PowerPoint-%20From%20Prompt%20to%20Presentation.md)
+- [Copilot in PowerPoint- From Prompt to Presentation (2024)](../../Courses/Cloud%20Computing/Copilot%20in%20PowerPoint-%20From%20Prompt%20to%20Presentation%20(2024).md)

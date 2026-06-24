@@ -32,8 +32,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[DevOps Foundations- Infrastructure as Code]]
-- [[DevOps Foundations- Continuous Delivery-Continuous Integration]]
-- [[Devops Foundations Lean And Agile]]
-- [[Devops Foundations]]
-- [[IT Service Management Foundations- Change Management]]
+- [DevOps Foundations- Infrastructure as Code](../../Courses/DevOps/DevOps%20Foundations-%20Infrastructure%20as%20Code.md)
+- [DevOps Foundations- Continuous Delivery-Continuous Integration](../../Courses/DevOps/DevOps%20Foundations-%20Continuous%20Delivery-Continuous%20Integration.md)
+- [Devops Foundations Lean And Agile](../../Courses/DevOps/Devops%20Foundations%20Lean%20And%20Agile.md)
+- [Devops Foundations](../../Courses/DevOps/Devops%20Foundations.md)
+- [IT Service Management Foundations- Change Management](../../Courses/DevOps/IT%20Service%20Management%20Foundations-%20Change%20Management.md)

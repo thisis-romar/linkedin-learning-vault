@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Soldering for Electronics]]
+- [Learning Soldering for Electronics](../../Courses/Hardware/Learning%20Soldering%20for%20Electronics.md)

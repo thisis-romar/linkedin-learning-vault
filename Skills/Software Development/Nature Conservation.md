@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[The Importance of Biodiversity to Business]] — 29m · 58,463 learners
+- [The Importance of Biodiversity to Business](../../Courses/Software%20Development/The%20Importance%20of%20Biodiversity%20to%20Business.md) — 29m · 58,463 learners
 
 ## Related Skills
 
-- [[Biodiversity]] — 1 shared course
-- [[Sustainable Business Strategy]] — 1 shared course
+- [Biodiversity](Biodiversity.md) — 1 shared course
+- [Sustainable Business Strategy](Sustainable%20Business%20Strategy.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[The Importance of Biodiversity to Business]] — 1 mentions
+1. [The Importance of Biodiversity to Business](../../Courses/Software%20Development/The%20Importance%20of%20Biodiversity%20to%20Business.md) — 1 mentions

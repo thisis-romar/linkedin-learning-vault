@@ -17,27 +17,27 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Figma For Ux Design]]'
+  - course: '[Figma For Ux Design](../../../Courses/Web%20Development/Figma%20For%20Ux%20Design.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[UX Foundations- Prototyping]]'
+  - course: '[UX Foundations- Prototyping](../../../Courses/Web%20Development/UX%20Foundations-%20Prototyping.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Accessibility and Inclusion with Figma]]'
+  - course: '[Accessibility and Inclusion with Figma](../../../Courses/Web%20Development/Accessibility%20and%20Inclusion%20with%20Figma.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Figma- Designing with Variables and Conditionals]]'
+  - course: '[Figma- Designing with Variables and Conditionals](../../../Courses/Web%20Development/Figma-%20Designing%20with%20Variables%20and%20Conditionals.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Designing Microinteractions with Figma]]'
+  - course: '[Designing Microinteractions with Figma](../../../Courses/Web%20Development/Designing%20Microinteractions%20with%20Figma.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Figma- From Design to CSS Implementation]]'
+  - course: '[Figma- From Design to CSS Implementation](../../../Courses/Web%20Development/Figma-%20From%20Design%20to%20CSS%20Implementation.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -52,28 +52,28 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Figma For Ux Design]]
-2. [[UX Foundations- Prototyping]] _(41m)_
-3. [[Accessibility and Inclusion with Figma]] _(1h 40m)_
-4. [[Figma- Designing with Variables and Conditionals]] _(1h 1m)_
-5. [[Designing Microinteractions with Figma]] _(1h 33m)_
-6. [[Figma- From Design to CSS Implementation]] _(48m)_
+1. [Figma For Ux Design](../../../Courses/Web%20Development/Figma%20For%20Ux%20Design.md)
+2. [UX Foundations- Prototyping](../../../Courses/Web%20Development/UX%20Foundations-%20Prototyping.md) _(41m)_
+3. [Accessibility and Inclusion with Figma](../../../Courses/Web%20Development/Accessibility%20and%20Inclusion%20with%20Figma.md) _(1h 40m)_
+4. [Figma- Designing with Variables and Conditionals](../../../Courses/Web%20Development/Figma-%20Designing%20with%20Variables%20and%20Conditionals.md) _(1h 1m)_
+5. [Designing Microinteractions with Figma](../../../Courses/Web%20Development/Designing%20Microinteractions%20with%20Figma.md) _(1h 33m)_
+6. [Figma- From Design to CSS Implementation](../../../Courses/Web%20Development/Figma-%20From%20Design%20to%20CSS%20Implementation.md) _(48m)_
 
 ## Course Flow
 
-1. [[Figma For Ux Design]] → 2. [[UX Foundations- Prototyping]] → 3. [[Accessibility and Inclusion with Figma]] → 4. [[Figma- Designing with Variables and Conditionals]] → 5. [[Designing Microinteractions with Figma]] → 6. [[Figma- From Design to CSS Implementation]]
+1. [Figma For Ux Design](../../../Courses/Web%20Development/Figma%20For%20Ux%20Design.md) → 2. [UX Foundations- Prototyping](../../../Courses/Web%20Development/UX%20Foundations-%20Prototyping.md) → 3. [Accessibility and Inclusion with Figma](../../../Courses/Web%20Development/Accessibility%20and%20Inclusion%20with%20Figma.md) → 4. [Figma- Designing with Variables and Conditionals](../../../Courses/Web%20Development/Figma-%20Designing%20with%20Variables%20and%20Conditionals.md) → 5. [Designing Microinteractions with Figma](../../../Courses/Web%20Development/Designing%20Microinteractions%20with%20Figma.md) → 6. [Figma- From Design to CSS Implementation](../../../Courses/Web%20Development/Figma-%20From%20Design%20to%20CSS%20Implementation.md)
 
 ## Topics
 
-- [[Web Development]]
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Build for Digital Accessibility]] (1 shared courses)
-- [[Advance Your Skills in User Experience Design]] (1 shared courses)
+- [Build for Digital Accessibility](Build%20for%20Digital%20Accessibility.md) (1 shared courses)
+- [Advance Your Skills in User Experience Design](Advance%20Your%20Skills%20in%20User%20Experience%20Design.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Web Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Web Development](../../../Topics/Web%20Development.md)

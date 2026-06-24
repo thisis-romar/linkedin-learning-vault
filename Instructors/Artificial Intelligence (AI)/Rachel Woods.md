@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Nano Tips for Using ChatGPT for Business with Rachel Woods]]
+- [Nano Tips for Using ChatGPT for Business with Rachel Woods](../../Courses/Artificial%20Intelligence%20(AI)/Nano%20Tips%20for%20Using%20ChatGPT%20for%20Business%20with%20Rachel%20Woods.md)

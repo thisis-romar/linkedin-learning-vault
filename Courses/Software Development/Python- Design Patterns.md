@@ -18,11 +18,11 @@ github: "https://github.com/LinkedInLearning/python-design-patterns-2422610"
 thumbnail: "https://media.licdn.com/dms/image/v2/D4D0DAQGh8swRcFJa6Q/learning-public-crop_675_1200/B4DZUB1jqVGcAY-/0/1739492572584?e=2147483647&amp;v=beta&amp;t=cSXxtUFHGPtSuSN0hyodH3llHMdDdlbJrv3yJ59_FeM"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[Advance Your Skills in Python]]'
+  - '[Advance Your Skills in Python](../../Paths/Software%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20Python.md)'
 prev_courses:
-  - '[[Hands-On Introduction- Python]]'
+  - '[Hands-On Introduction- Python](Hands-On%20Introduction-%20Python.md)'
 next_courses:
-  - '[[Python Data Structures and Algorithms]]'
+  - '[Python Data Structures and Algorithms](Python%20Data%20Structures%20and%20Algorithms.md)'
 path_nav: '[{"path":"Advance Your Skills in Python","position":2,"total":7,"prev":"Hands-On Introduction- Python","next":"Python Data Structures and Algorithms"}]'
 path_count: 1
 tags:
@@ -113,11 +113,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=0)** - Reuse is critical to saving time and adopting the best solution available in software engineering. Luckily, we have a strong community of like-minded people who actively share the knowledge and wisdom gained from many years of experience through [[Design Patterns]]. Hi, I'm Jungwoo Ryoo. After my real life experience as a soft engineer, I have taught software engineering since 2005 as a college professor. There are many fascinating [[Python (Programming Language)|Python]] specific shortcuts in implementing design patterns, and I'm excited to share these trade secrets with you. Now, let's get started with Python design patterns.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980&t=0)** - Reuse is critical to saving time and adopting the best solution available in software engineering. Luckily, we have a strong community of like-minded people who actively share the knowledge and wisdom gained from many years of experience through [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md). Hi, I'm Jungwoo Ryoo. After my real life experience as a soft engineer, I have taught software engineering since 2005 as a college professor. There are many fascinating [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) specific shortcuts in implementing design patterns, and I'm excited to share these trade secrets with you. Now, let's get started with Python design patterns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (3), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **CLI Commands:** python (2)
 > **Speakers:** - reuse (1)
 
@@ -125,11 +125,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/what-you-should-know?u=76281980&t=0)** - This course is not about teaching you how to be up and running with [[Python (Programming Language)|Python]] as a beginner. However, even if you're new to Python, you should be able to follow along and run the Python scripts I provide without a problem. If you know the basics well, that will be the best-case scenario for jumping into this course. I provide code templates I begin with for each lecture, therefore, you can code with me while I explain how the code works and complete the initial script. The completed scripts are also available. All you need on your computer is a Python interpreter, which you can download for free. You can edit your code using any editor you like. I'm using Sublime Text, which you can download for free.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/what-you-should-know?u=76281980&t=0)** - This course is not about teaching you how to be up and running with [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) as a beginner. However, even if you're new to Python, you should be able to follow along and run the Python scripts I provide without a problem. If you know the basics well, that will be the best-case scenario for jumping into this course. I provide code templates I begin with for each lecture, therefore, you can code with me while I explain how the code works and complete the initial script. The completed scripts are also available. All you need on your computer is a Python interpreter, which you can download for free. You can edit your code using any editor you like. I'm using Sublime Text, which you can download for free.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (4)
 > **CLI Commands:** python (4)
 > **Tools:** sublime (1)
 > **Definitions:** is a  (1)
@@ -139,7 +139,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/coderpad-placeholder-video?u=76281980&t=0)** - [Instructor] This course includes automated code challenges that appear when you click on the challenge links in the course's table of contents. Each challenge includes instructions and a couple of code editors you can use to create and test your own solution to the challenge. These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos. We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer. The code challenge has four areas: instructions in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left. You can use these drag handles to allocate space as you like. To get even more horizontal space for the code editors, you can collapse the course's table of contents on the left. Each challenge has instructions that include a description of the challenge
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/coderpad-placeholder-video?u=76281980&t=0)** - [Instructor] This course includes automated code challenges that appear when you click on the challenge links in the course's table of contents. Each challenge includes instructions and a couple of code editors you can use to create and test your own solution to the challenge. These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos. We recommend using a desktop browser for the best experience with code challenges, but you can use the [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning mobile app if you prefer. The code challenge has four areas: instructions in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left. You can use these drag handles to allocate space as you like. To get even more horizontal space for the code editors, you can collapse the course's table of contents on the left. Each challenge has instructions that include a description of the challenge
 >
 > **[1:34](https://www.linkedin.com/learning/python-design-patterns-24559831/coderpad-placeholder-video?u=76281980&t=94)** and the challenge's parameters and desired result. Parameters are values that will be passed into your code, and they have to be of a particular type. The return value also has to be of a particular type, and you'll also see that noted in the instructions. The constraints section has useful information about the parameters that will be passed in. The examples show different parameter values and what result would be returned for each of those test cases. Create your answer in the top-right code editor. There are comments in the starting code showing where to put your solution. When you click Test My Code, you'll see a message indicating whether your code returned a correct result. If your code isn't successful, you can ask for help. The show_expected_result and show_hints variables determine whether you see the expected result and any hints. Change them to a value of True to control the output.
 >
@@ -149,7 +149,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Code Identifiers:** show_expected_result (1), show_hints (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -164,13 +164,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=0)** - [Narrator] When developing software, you'll often observe the same problem occurring over and over again. These common problems imply that there may already be established solutions. [[Design Patterns]] are well-known solutions to recurring problems. These are widely accepted solutions by the [[Software Development]] community. Why do we use design patterns instead of individualized solutions? Here are some excellent reasons. First, there's no need to reinvent the wheel and waste your time when there's already a perfect solution for you out there. Second, design patterns allow us to reuse design ideas and encourage us to use the best practices, lowering the cost and promoting the higher quality of the software you're developing. Let's have a brief history lesson on design patterns. The creator of this concept, design pattern, is Christopher Alexander, a building architect who has little to do with software development. The software development community then picked up the design pattern idea. Gamma and his colleagues, also known as the Gang of four, immortalized it in their famous book called "Design Patterns." Here are some essential characteristics of design patterns
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=0)** - [Narrator] When developing software, you'll often observe the same problem occurring over and over again. These common problems imply that there may already be established solutions. [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) are well-known solutions to recurring problems. These are widely accepted solutions by the [Software Development](../../Topics/Software%20Development.md) community. Why do we use design patterns instead of individualized solutions? Here are some excellent reasons. First, there's no need to reinvent the wheel and waste your time when there's already a perfect solution for you out there. Second, design patterns allow us to reuse design ideas and encourage us to use the best practices, lowering the cost and promoting the higher quality of the software you're developing. Let's have a brief history lesson on design patterns. The creator of this concept, design pattern, is Christopher Alexander, a building architect who has little to do with software development. The software development community then picked up the design pattern idea. Gamma and his colleagues, also known as the Gang of four, immortalized it in their famous book called "Design Patterns." Here are some essential characteristics of design patterns
 >
-> **[1:35](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=95)** you should know. First, design patterns are language neutral. You could use them in any [[Object-Oriented Programming (OOP)|object-oriented programming]] language. Second, design patterns are dynamic because there are always new ones coming up. You could also be revising the existing design patterns if there is a need. Finally, design patterns are intentionally incomplete to promote customization. These days, professional software developers must master design patterns because these patterns are becoming a core vocabulary when discussing design decisions for a software application among seasoned software developers.
+> **[1:35](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980&t=95)** you should know. First, design patterns are language neutral. You could use them in any [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) language. Second, design patterns are dynamic because there are always new ones coming up. You could also be revising the existing design patterns if there is a need. Finally, design patterns are intentionally incomplete to promote customization. These days, professional software developers must master design patterns because these patterns are becoming a core vocabulary when discussing design decisions for a software application among seasoned software developers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (11), [[Software Development]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (11), [Software Development](../../Topics/Software%20Development.md) (3), [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (1)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [narrator] (1)
@@ -179,13 +179,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/types-of-design-patterns?u=76281980&t=0)** - [Instructor] There are three different types of [[Design Patterns]]. One is creational, the other is structural, and another is behavioral. We use creational design patterns to build objects systematically. The main benefit behind creational patterns lies in their flexibility. For example, different subtypes of objects from the same class can be created at runtime when you use creational patterns. We use structural patterns to establish relationships between software components, in particular, settings or configurations. The goal here is to satisfy specific functional or non-functional requirements. Functional requirements refer to what software does. Non-functional requirements are how well it completes its job. The question of how fast or slow software functions belongs to the non-functional domain. Different requirements lead to various structures implemented in structural patterns. Behavioral patterns are the best practices of how you make your objects interact with each other. The focus here is defining the protocols between these objects when trying to work together
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/types-of-design-patterns?u=76281980&t=0)** - [Instructor] There are three different types of [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md). One is creational, the other is structural, and another is behavioral. We use creational design patterns to build objects systematically. The main benefit behind creational patterns lies in their flexibility. For example, different subtypes of objects from the same class can be created at runtime when you use creational patterns. We use structural patterns to establish relationships between software components, in particular, settings or configurations. The goal here is to satisfy specific functional or non-functional requirements. Functional requirements refer to what software does. Non-functional requirements are how well it completes its job. The question of how fast or slow software functions belongs to the non-functional domain. Different requirements lead to various structures implemented in structural patterns. Behavioral patterns are the best practices of how you make your objects interact with each other. The focus here is defining the protocols between these objects when trying to work together
 >
 > **[1:37](https://www.linkedin.com/learning/python-design-patterns-24559831/types-of-design-patterns?u=76281980&t=97)** to accomplish a common goal. Some core object-oriented mechanisms or concepts are foundations for developing design patterns, whether creational, structural, or behavioral. In the creational patterns, polymorphism is often in use. Structural patterns take advantage of inheritance a lot. Behavioral patterns heavily use methods and their signatures. Interfaces are at work across all these different types of design patterns. I'll explain each of these concepts in dedicated lessons. Knowing the design pattern types is helpful because it allows you to locate the design patterns you need quickly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (5)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (5)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -194,13 +194,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=0)** - [Instructor] [[Object-Oriented Programming (OOP)|Object-oriented programming]] is a mainstream [[Software Development]] methodology today. Many modern programming languages support object-oriented programming, including [[Python (Programming Language)|Python]]. [[Design Patterns]] require the use of object-oriented programming, therefore design patterns are almost irrelevant to the non-object-oriented programming languages, such as C. Understanding the core concepts of object-oriented programming involves learning concepts such as objects and classes. Objects represent entities in both problem and solution domains. In other words, when you're building a piece of software, you need to have components representing all the moving pieces of your solution. In addition, you need to represent all these entities interacting with the software in the problem domain. Take a conference registration system. In this scenario, you can think of the conference participants as being in the problem domain. The registration form the participants are using is in the solution domain. You need both represented in your software. Classes are templates used to create objects to avoid making them from scratch every time you need them. Think of classes as cookie cutters
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=0)** - [Instructor] [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) is a mainstream [Software Development](../../Topics/Software%20Development.md) methodology today. Many modern programming languages support object-oriented programming, including [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md). [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) require the use of object-oriented programming, therefore design patterns are almost irrelevant to the non-object-oriented programming languages, such as C. Understanding the core concepts of object-oriented programming involves learning concepts such as objects and classes. Objects represent entities in both problem and solution domains. In other words, when you're building a piece of software, you need to have components representing all the moving pieces of your solution. In addition, you need to represent all these entities interacting with the software in the problem domain. Take a conference registration system. In this scenario, you can think of the conference participants as being in the problem domain. The registration form the participants are using is in the solution domain. You need both represented in your software. Classes are templates used to create objects to avoid making them from scratch every time you need them. Think of classes as cookie cutters
 >
 > **[1:36](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-object-oriented-programming?u=76281980&t=96)** for replicating the objects. Classes define objects in terms of attributes and behaviors. Attributes represent the properties of an entity. Attributes also capture the current state of the entity. On the other hand, methods represent the behaviors of an entity. Let's go back and think about our registration system example one more time. In such a system, participants have attributes such as age, while they also have behaviors such as canceling the registration. Understanding the concepts like classes and objects is critical in object-oriented programming. I'd like you to revisit this topic and invest more time in learning them if you're unclear about what they truly mean.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (6), [[Design Patterns]] (2), [[Software Development]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (6), [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (2), [Software Development](../../Topics/Software%20Development.md) (1), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** python (1)
 > **Definitions:** in other words (1)
@@ -211,13 +211,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=0)** - [Instructor] There are some additional key concepts to master in [[Object-Oriented Programming (OOP)|object-oriented programming]]. We'll get started with inheritance. Inheritance establishes relationships between classes as parent and child. The child class keeps all the attributes and methods of its parent. It can also add new attributes or methods of its own to the parent class definition. The child class can also override the existing methods of its parent. Let's say that we have a pet class with two child classes, Dog and Cat. These child classes share a common attribute, the name they're inheriting from their parent class, pet. However, the child classes override the speak method in their definition. The dog class overrides its speak method to produce the barking sound, while the cat class overrides the same method to create the meow sound. Another object-oriented class concept important to understand is polymorphism. Polymorphism relies on inheritance and it allows us to instantiate a child class and treat it as the same type as its parent.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=0)** - [Instructor] There are some additional key concepts to master in [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md). We'll get started with inheritance. Inheritance establishes relationships between classes as parent and child. The child class keeps all the attributes and methods of its parent. It can also add new attributes or methods of its own to the parent class definition. The child class can also override the existing methods of its parent. Let's say that we have a pet class with two child classes, Dog and Cat. These child classes share a common attribute, the name they're inheriting from their parent class, pet. However, the child classes override the speak method in their definition. The dog class overrides its speak method to produce the barking sound, while the cat class overrides the same method to create the meow sound. Another object-oriented class concept important to understand is polymorphism. Polymorphism relies on inheritance and it allows us to instantiate a child class and treat it as the same type as its parent.
 >
-> **[1:36](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=96)** In other words, polymorphism enables a parent class to be a placeholder for its child classes. Let's say that you're coding the pet class and you want to let users choose if their pet object will be dog or cat during runtime. This situation warrants using polymorphism. If the object is a dog, it'll be making the woof sound. The object will be producing the meow sound if it happens to be a cat object. All the [[Design Patterns]] we cover in this course fully take advantage of the core object-oriented programming concepts. Therefore, it's a must for you to understand what classes, objects, inheritance and polymorphism are before moving on.
+> **[1:36](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-inheritance-and-polymorphism?u=76281980&t=96)** In other words, polymorphism enables a parent class to be a placeholder for its child classes. Let's say that you're coding the pet class and you want to let users choose if their pet object will be dog or cat during runtime. This situation warrants using polymorphism. If the object is a dog, it'll be making the woof sound. The object will be producing the meow sound if it happens to be a cat object. All the [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) we cover in this course fully take advantage of the core object-oriented programming concepts. Therefore, it's a must for you to understand what classes, objects, inheritance and polymorphism are before moving on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (2), [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (1)
 > **CLI Commands:** cat (4)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -226,13 +226,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-pattern-context?u=76281980&t=0)** - [Instructor] To use [[Design Patterns]] effectively, you need to know the context in which the design patterns work best. Let's start by learning how to describe the design pattern context. A pattern context consists of the following: participants, quality attributes, forces, and consequences. Participants refer to the classes involved to form a design pattern. They play different roles to accomplish the goals of the design pattern. Quality attributes refer to non-functional requirements such as usability, modifiability, reliability, performance, and so on. Quality attributes have an impact on the entire software, and architectural solutions address them. Forces are various factors or trade-offs you consider when trying to adopt a particular design pattern. Quality attributes manifest forces. If you don't reason about these forces very well, you're likely to end up facing some unintended consequences. These consequences could be worse performance when you're trying to use one of the design patterns
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-pattern-context?u=76281980&t=0)** - [Instructor] To use [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) effectively, you need to know the context in which the design patterns work best. Let's start by learning how to describe the design pattern context. A pattern context consists of the following: participants, quality attributes, forces, and consequences. Participants refer to the classes involved to form a design pattern. They play different roles to accomplish the goals of the design pattern. Quality attributes refer to non-functional requirements such as usability, modifiability, reliability, performance, and so on. Quality attributes have an impact on the entire software, and architectural solutions address them. Forces are various factors or trade-offs you consider when trying to adopt a particular design pattern. Quality attributes manifest forces. If you don't reason about these forces very well, you're likely to end up facing some unintended consequences. These consequences could be worse performance when you're trying to use one of the design patterns
 >
 > **[1:33](https://www.linkedin.com/learning/python-design-patterns-24559831/understanding-pattern-context?u=76281980&t=93)** introduced in this course. The ultimate responsibility really falls on the decision-makers who are expected to choose a design pattern after thoroughly considering its consequences. Knowing when to use a design pattern and when not to use it is crucial, especially because they can cause more problems than solving them when they're misused.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -240,13 +240,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-pattern-language?u=76281980&t=0)** - [Tutor] The process of mastering terms used to describe [[Design Patterns]] is like learning a new language. Therefore, we can safely say that these terms constitute a pattern language. The pattern language consists of name, context, problem, solution, and related patterns. The names of patterns should capture the gist of each pattern, and these names become an essential part of a vocabulary during a design process. Therefore, pattern names need to be especially meaningful and memorable. The context provides a scenario in which we may use these patterns. It also offers more insights on when to use the pattern. The problem part of the pattern language describes the design challenge a pattern is trying to address. And the solution part of the pattern language specifies the pattern itself. Patterns are specified in terms of their structures and behaviors. The structure in this case specifies the relationships between the elements used in a pattern. The behaviors specify all the interactions between the pattern elements.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-pattern-language?u=76281980&t=0)** - [Tutor] The process of mastering terms used to describe [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) is like learning a new language. Therefore, we can safely say that these terms constitute a pattern language. The pattern language consists of name, context, problem, solution, and related patterns. The names of patterns should capture the gist of each pattern, and these names become an essential part of a vocabulary during a design process. Therefore, pattern names need to be especially meaningful and memorable. The context provides a scenario in which we may use these patterns. It also offers more insights on when to use the pattern. The problem part of the pattern language describes the design challenge a pattern is trying to address. And the solution part of the pattern language specifies the pattern itself. Patterns are specified in terms of their structures and behaviors. The structure in this case specifies the relationships between the elements used in a pattern. The behaviors specify all the interactions between the pattern elements.
 >
 > **[1:34](https://www.linkedin.com/learning/python-design-patterns-24559831/working-with-pattern-language?u=76281980&t=94)** The last part of the pattern language is related patterns. These list other patterns used together with the pattern being described or similar patterns. In these related patterns, sections of the pattern language, it's crucial to precisely describe the subtle differences between the patterns. That's it. This sums up my explanation of a typical pattern language. We'll be using the same pattern language to describe the patterns in this course. Once you get a handle on the pattern language you should also be able to define a pattern of your own creation if necessary.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (1)
 > **Speakers:** - [tutor] (1)
 
 
@@ -285,11 +285,11 @@ created: 2026-05-03
 >
 > **[5:46](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980&t=346)** This will be invoking the speak method of the dog object. Let's see if this works. Go to tools, click on build. It does work. Now, let's see if the cat object can be instantiated from the cat class. Type c = get_pet. Now, instead of getting a dog, we are getting a cat. That's why I'm using the key cat. Now, let's test it. All we have to do is print what the cat says. Just type print(c.speak()). Let's run the program. Go to tools and build. The script works. One thing I'd like to mention here, is that since we have this get_pet method, which is our factory method, the addition of new pet types, such as cat is really, really easy. And as the user of this get_pet method, or the factory method, you don't really see what's going on in terms of all these new types of objects being added. That's what is nice about the use of the factory pattern. The way the factory pattern is implemented here,
 >
-> **[7:23](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980&t=443)** is slightly different from the factory method in a typical [[Object-Oriented Programming (OOP)|object-oriented programming]] language. Because we are trying to fully take advantage of all the built-in features of [[Python (Programming Language)|Python]] in this course.
+> **[7:23](https://www.linkedin.com/learning/python-design-patterns-24559831/factory-example?u=76281980&t=443)** is slightly different from the factory method in a typical [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) language. Because we are trying to fully take advantage of all the built-in features of [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (1), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** cat (17), python (1)
 > **Code Identifiers:** get_pet (9)
 > **UI Navigation:** go to (2), select the (1), click on (1)
@@ -326,13 +326,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=0)** - [Narrator] As its name suggests, abstract factory builds on the factory pattern. Abstract factory is useful when its user expects to receive a family of related objects at a given time, but doesn't have to know which family it is until runtime. Here is the scenario we'll be using. We'll first build a pet factory whose concrete factories include dog factory and cat factory. Both dog and cat factories produce dogs and cats as well as related [[Microsoft Products|products]] such as dog food and cat food. In theory, our solution abstract factory consists of abstract factory, concrete factory, abstract product, and concrete product. For the abstract factory, we use pet factory. For concrete factory, we use dog factory and cat factory. And finally, for the concrete products, we'll be creating dogs, the type of pet and dog food, and also cats and cat food. We implement our abstract factory without using inheritance because [[Python (Programming Language)|Python]] is a dynamically typed language and therefore does not require abstract classes. Abstract factory is related to the factory pattern
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=0)** - [Narrator] As its name suggests, abstract factory builds on the factory pattern. Abstract factory is useful when its user expects to receive a family of related objects at a given time, but doesn't have to know which family it is until runtime. Here is the scenario we'll be using. We'll first build a pet factory whose concrete factories include dog factory and cat factory. Both dog and cat factories produce dogs and cats as well as related [products](../../Skills/Software%20Development/Microsoft%20Products.md) such as dog food and cat food. In theory, our solution abstract factory consists of abstract factory, concrete factory, abstract product, and concrete product. For the abstract factory, we use pet factory. For concrete factory, we use dog factory and cat factory. And finally, for the concrete products, we'll be creating dogs, the type of pet and dog food, and also cats and cat food. We implement our abstract factory without using inheritance because [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) is a dynamically typed language and therefore does not require abstract classes. Abstract factory is related to the factory pattern
 >
 > **[1:37](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory?u=76281980&t=97)** in a sense that it creates objects. Concrete factories are often singletons.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** cat (5), python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -344,7 +344,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980&t=0)** - [Instructor] We'll start with the Dog object that our concrete factory will return. Let's first define the Dog class to instantiate the Dog object. It has our favorite speak method. Next is the DogFactory, and this is our concrete factory that returns two objects. The first object we're returning is a Dog object, and the second one is a Dog Food object. Let's add some internal documentation by saying here, returns Dog object, returns a Dog Food object.
 >
-> **[0:55](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980&t=55)** Now let's complete this code by typing return, the name of the class Dog, and parenthesis, and then we'll be returning the Dog Food string object. Type return, double quotes, Dog Food. Please note that our concrete [[Microsoft Products|products]] are the Dog object and Dog Food. Unlike the factory pattern that creates one object, our DogFactory produces a group of two related items, Dog and Dog Food, in the context of the abstract factory pattern. The next class is the PetStore class that will act as our abstract factory. The first attribute of the PetStore class is _pet_factory. Type self._pet_factory.
+> **[0:55](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980&t=55)** Now let's complete this code by typing return, the name of the class Dog, and parenthesis, and then we'll be returning the Dog Food string object. Type return, double quotes, Dog Food. Please note that our concrete [products](../../Skills/Software%20Development/Microsoft%20Products.md) are the Dog object and Dog Food. Unlike the factory pattern that creates one object, our DogFactory produces a group of two related items, Dog and Dog Food, in the context of the abstract factory pattern. The next class is the PetStore class that will act as our abstract factory. The first attribute of the PetStore class is _pet_factory. Type self._pet_factory.
 >
 > **[2:07](https://www.linkedin.com/learning/python-design-patterns-24559831/abstract-factory-example?u=76281980&t=127)** The concrete factory class we're talking about in this example is the DogFactory. Let's initialize the _pet_factory attribute, space, assignment, pet_factory. The pet_factory is the argument we are getting from the init method, which is a concrete pet factory. That's all we need to do to store an instance of the Dog concrete factory class. Next is adding a utility method that will display all the details of the objects returned by the DogFactory, our concrete factory. We'll need a variable pet, and we'll be storing a Pet object. Type equal sign, space, self._pet_factory.get_pet,
 >
@@ -356,7 +356,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1)
 > **Code Identifiers:** show_pet (3), pet_factory (2), get_pet (2), pet_food (1), get_food (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -369,13 +369,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton?u=76281980&t=0)** - [Presenter] According to the Gang of Four definition, singleton is the pattern you need when you want to allow only one object to be created from a class. It's an object-oriented way of providing global variables. A similar concept called Borg exists in the [[Python (Programming Language)|Python]] community. Unlike singleton, Borg allows multiple object instances, but they all share the same state, which means the same attribute values in the objects. Borg is a short for Cyborg, prominently featured in the "Star Trek" series. They share collective thoughts like objects in the Python Borg pattern. Why would you need a pattern like singleton or Borg? Let's say that there is a need for keeping a cache of information to be shared by various elements of your software system. By keeping this information in a single object like singleton or sharing it constantly in Borg objects, there's no need to retrieve the information from its original sources each time. All modules in Python act as singletons. In our scenario, Borg acts as an information cache for networking acronyms
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton?u=76281980&t=0)** - [Presenter] According to the Gang of Four definition, singleton is the pattern you need when you want to allow only one object to be created from a class. It's an object-oriented way of providing global variables. A similar concept called Borg exists in the [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) community. Unlike singleton, Borg allows multiple object instances, but they all share the same state, which means the same attribute values in the objects. Borg is a short for Cyborg, prominently featured in the "Star Trek" series. They share collective thoughts like objects in the Python Borg pattern. Why would you need a pattern like singleton or Borg? Let's say that there is a need for keeping a cache of information to be shared by various elements of your software system. By keeping this information in a single object like singleton or sharing it constantly in Borg objects, there's no need to retrieve the information from its original sources each time. All modules in Python act as singletons. In our scenario, Borg acts as an information cache for networking acronyms
 >
 > **[1:36](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton?u=76281980&t=96)** and their spelled-out versions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (2), short for (1)
 > **Speakers:** - [presenter] (1)
@@ -402,11 +402,11 @@ created: 2026-05-03
 >
 > **[4:51](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton-example?u=76281980&t=291)** Note that HTTP is our key. The equal sign associates the key with the string value: Hyper Text Transfer Protocol. Next, we'll print the object. Type print x, print(x). Let's run the program and see what happens. Go to Tools, click on Build. It works. The output shows the content of the Borg attribute dictionary, which is a key and value pair of our acronym and its spelled out version. Let's see what happens when we try to create the second Singleton object and add another acronym. We use variable y, space, equal sign, space, Singleton, parentheses. The acronym is SNMP, space, equal sign, double quotes, "Simple Network Management Protocol".
 >
-> **[6:14](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton-example?u=76281980&t=374)** We're using the same attribute dictionary and adding a new item to it. What's going to happen is that the attribute dictionary will retain the previous acronym and then add this new acronym to itself. Let's print it and see the result. Type print(y). Let's run the script. Go to Tools, Build. As you can see, the second Borg object kept HTTP and its spelled out version, Hyper Text Transfer Protocol, and it added the new acronym definition pair, SNMP, Simple Network Management Protocol. The way we implement Singleton here is different from its classic version, but [[Python (Programming Language)|Python]]'s way still does the job, maybe even better.
+> **[6:14](https://www.linkedin.com/learning/python-design-patterns-24559831/singleton-example?u=76281980&t=374)** We're using the same attribute dictionary and adding a new item to it. What's going to happen is that the attribute dictionary will retain the previous acronym and then add this new acronym to itself. Let's print it and see the result. Type print(y). Let's run the script. Go to Tools, Build. As you can see, the second Borg object kept HTTP and its spelled out version, Hyper Text Transfer Protocol, and it added the new acronym definition pair, SNMP, Simple Network Management Protocol. The way we implement Singleton here is different from its classic version, but [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md)'s way still does the job, maybe even better.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **Env Vars:** http (3), snmp (2)
 > **CLI Commands:** make (2), python (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -421,7 +421,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980&t=0)** - [Instructor] How was your coding? Was it more challenging than you thought? As instructed, let's create our first singleton object. Type s1, space. Assignment, space, Singleton. Parentheses. The key value pair to go in between the parentheses is this.
 >
-> **[0:42](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980&t=42)** Let's copy it. And paste it. UX equal sign [[User Experience (UX)|User Experience]]. Let's create the second singleton object. Type s2 equal sign. Singleton. Parenthesis. This time the acronym definition pair is API equal sign, Application Programming Interface. So let's copy this, Ctrl + C. And then put it in between the parentheses, Ctrl + V.
+> **[0:42](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980&t=42)** Let's copy it. And paste it. UX equal sign [User Experience](../../Skills/Web%20Development/User%20Experience%20(UX).md). Let's create the second singleton object. Type s2 equal sign. Singleton. Parenthesis. This time the acronym definition pair is API equal sign, Application Programming Interface. So let's copy this, Ctrl + C. And then put it in between the parentheses, Ctrl + V.
 >
 > **[1:43](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-singleton?u=76281980&t=103)** Here, we want to return a singleton object. Because the object is a singleton, it doesn't matter which one we return. Let's return s1. Let's test the code by clicking Test My Code.
 >
@@ -429,7 +429,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [User experience](../../Skills/Web%20Development/User%20Experience%20(UX).md) (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -482,11 +482,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype?u=76281980&t=0)** - [Narrator] Prototype clones objects according to a prototypical instance. Here the keyword is cloning. Note that we're talking about making a copy instead of building. Prototype is useful when instantiating many identical objects individually, which could be expensive in terms of computing power. Cloning could be a good alternative because it makes a carbon copy in the memory space instead of building individual objects respectively from scratch the usual way. Let's assume that we are building a car. We can mass produce cars more easily and quickly if the cars have the same color and options. Similarly, in our [[Python (Programming Language)|Python]] programming scenario, you can clone the objects by making a copy of a prototype object instead of building them through constructors as long as they're supposed to be identical without variations. Our solution consists of creating a prototypical instance first and then cloning it whenever you need a replica. The pattern related to the prototype pattern is the abstract factory.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/prototype?u=76281980&t=0)** - [Narrator] Prototype clones objects according to a prototypical instance. Here the keyword is cloning. Note that we're talking about making a copy instead of building. Prototype is useful when instantiating many identical objects individually, which could be expensive in terms of computing power. Cloning could be a good alternative because it makes a carbon copy in the memory space instead of building individual objects respectively from scratch the usual way. Let's assume that we are building a car. We can mass produce cars more easily and quickly if the cars have the same color and options. Similarly, in our [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) programming scenario, you can clone the objects by making a copy of a prototype object instead of building them through constructors as long as they're supposed to be identical without variations. Our solution consists of creating a prototypical instance first and then cloning it whenever you need a replica. The pattern related to the prototype pattern is the abstract factory.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** python (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
@@ -532,11 +532,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980&t=0)** - [Instructor] The Decorator design pattern is a structural pattern that allows users to add new features to existing objects without changing their structures. [[Python (Programming Language)|Python]] makes implementing the Decorator pattern very straightforward due to its built-in language feature. Our challenge here is to add additional features to an existing object dynamically without using subclassing. Here is our scenario. We start with a function displaying a "Hello, World!" message. We want to make the message look fancier by decorating it with additional tags, such as blink, as you can see here. Functions are objects in Python, and we can add additional features to these functions using the built-in Decorator in Python. Patterns such as Adapter, Composite, and Strategy are related to the Decorator pattern.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980&t=0)** - [Instructor] The Decorator design pattern is a structural pattern that allows users to add new features to existing objects without changing their structures. [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) makes implementing the Decorator pattern very straightforward due to its built-in language feature. Our challenge here is to add additional features to an existing object dynamically without using subclassing. Here is our scenario. We start with a function displaying a "Hello, World!" message. We want to make the message look fancier by decorating it with additional tags, such as blink, as you can see here. Functions are objects in Python, and we can add additional features to these functions using the built-in Decorator in Python. Patterns such as Adapter, Composite, and Strategy are related to the Decorator pattern.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -546,7 +546,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=0)** - [Instructor] Let's define our decorator first. We use the special [[Python (Programming Language)|Python]] keyword @wraps and pass the function we're decorating. By doing this, whatever we are using to decorate the function and its effect will be transparent. Now let's define what the decorator is doing by working on the inner function definition. First, we'll grab the return value of the function being decorated. Type ret, our variable, space, assignment, space, and whatever is being returned from the function we're getting in the decorator. Next, we'll do our magic to further process the return value of the function being decorated. In this case, we add a new HyperText Markup Language or [[HTML]] tag blink around the original string. Type return, space, and the blink tag, we'll append the blink tag to the return value of the original function, which is ret. And then we'll close the tag. Now, whatever we did in the inner function
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=0)** - [Instructor] Let's define our decorator first. We use the special [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) keyword @wraps and pass the function we're decorating. By doing this, whatever we are using to decorate the function and its effect will be transparent. Now let's define what the decorator is doing by working on the inner function definition. First, we'll grab the return value of the function being decorated. Type ret, our variable, space, assignment, space, and whatever is being returned from the function we're getting in the decorator. Next, we'll do our magic to further process the return value of the function being decorated. In this case, we add a new HyperText Markup Language or [HTML](../../Skills/Web%20Development/HTML.md) tag blink around the original string. Type return, space, and the blink tag, we'll append the blink tag to the return value of the original function, which is ret. And then we'll close the tag. Now, whatever we did in the inner function
 >
 > **[1:37](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator-example?u=76281980&t=97)** will be returned by this statement, return decorator. Before we apply our decorator, let's try our plain function, hello_world, and see what happens. This function prints a string, "Hello, World." Let's use our print statement to print the return value of the hello_world function before applying our decorator. Type print hello_world parentheses. Let's run the script by going to tools and build. As expected, the Hello, World string is displayed. Next, let's apply the decorator, and the way we apply the decorator is by typing an @ sign and then the name of the decorator. In this case, make_blink. Let's run the script again to check the effect of the decorator. Go to tools, build. And as you can see, the new text has been added to the original string. Let's check if the function name is still the same
 >
@@ -558,7 +558,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [HTML](../../Skills/Web%20Development/HTML.md) (1)
 > **Code Identifiers:** hello_world (6), make_blink (2)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** python (2)
@@ -569,7 +569,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980&t=0)** - [Instructor] How did it go? Was it easier than you thought? That's the power of using [[Design Patterns]]. As indicated, let's create a decorator class that adds the [[HTML]] bold text. Copy the make_blink decorator code first.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980&t=0)** - [Instructor] How did it go? Was it easier than you thought? That's the power of using [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md). As indicated, let's create a decorator class that adds the [HTML](../../Skills/Web%20Development/HTML.md) bold text. Copy the make_blink decorator code first.
 >
 > **[0:28](https://www.linkedin.com/learning/python-design-patterns-24559831/solution-decorator?u=76281980&t=28)** Ctrl + C. And then paste it here, Ctrl + V. Change the name to make_bold.
 >
@@ -583,7 +583,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [HTML](../../Skills/Web%20Development/HTML.md) (2), [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (1)
 > **Code Identifiers:** make_blink (2), make_bold (2)
 > **Env Vars:** html (2)
 > **Speakers:** - [instructor] (1)
@@ -644,7 +644,7 @@ created: 2026-05-03
 >
 > **[1:59](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980&t=119)** The next part is the most important one in the adapter class definition, which is where we add a new dictionary item that establishes a mapping between a generic method name. In this case, speak in a concrete method name, such as speak Korean or speak English. All you have to do here is add this one line, self.__dict__.update.
 >
-> **[2:40](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980&t=160)** And then we'll be using the adapted underscore method argument from the init method. I'll just copy and paste it right here. This method will accept a dictionary item that consists of key and value pairs. The key will be the name of a generic method, the value will be individualized method names. Other than this, we're not changing anything in the attributes or the methods of the received object. We're returning the [[Representational State Transfer (REST)|rest]] of the attributes and the getattr method here. Type return getattr self._object attr.
+> **[2:40](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980&t=160)** And then we'll be using the adapted underscore method argument from the init method. I'll just copy and paste it right here. This method will accept a dictionary item that consists of key and value pairs. The key will be the name of a generic method, the value will be individualized method names. Other than this, we're not changing anything in the attributes or the methods of the received object. We're returning the [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the attributes and the getattr method here. Type return getattr self._object attr.
 >
 > **[3:42](https://www.linkedin.com/learning/python-design-patterns-24559831/adapter-example?u=76281980&t=222)** Now, we're ready to test our adapter. Let's move on to the rest of the code. Here we've declared a list called objects. We'll create new objects and add them to this list later. Let's first create a Korean object, type Korean. Next, we'll create a British object, type British, and then we'll append these objects to the object list. Type objects.append, parentheses. When we append these objects to the object list, we want to change the mapping between the generic method called speak and the individualized method names, that's why we're using the adapter pattern here, type adapter. The first argument of the adapter is the object itself, so Korean will then provide the mapping between the generic and individualized method names, speak=Korean speak_korean.
 >
@@ -652,7 +652,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (2)
 > **Code Identifiers:** speak_korean (3), speak_english (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1)
@@ -677,7 +677,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980&t=0)** - [Instructor] Let's start by defining our abstract class, which is component. Nothing too much is done in the component class definition except for defining our interface method. Component underscore function. Let's move on to the child class definition. Since this one inherits from the component class, we'll have to say its parent is component. Right here. We'll have an attribute to store the name of the child. Type self dot name space assignment space args.
 >
-> **[0:56](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980&t=56)** The index is zero. What we're doing here is getting an argument from the instantiation process of the child class whose first argument happens to be the one we are going to be using for setting the name attribute. The second method here implements the abstract method component underscore function. Our implementation prints the name of the child. Let's move on to the composite class that also inherits from the abstract class component. We also need another attribute to store the name of the component object. Type self dot name and args. The index is zero, meaning that we'll be using the first argument to get the name of the composite object. This time we have another attribute, a list that will keep all our child items in the composite object. The [[Representational State Transfer (REST)|rest]] of the methods we're defining are utility methods. For example, we have this method called append underscore child to add the new child. We also have the remove underscore child method. In our definition of the abstract method
+> **[0:56](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980&t=56)** The index is zero. What we're doing here is getting an argument from the instantiation process of the child class whose first argument happens to be the one we are going to be using for setting the name attribute. The second method here implements the abstract method component underscore function. Our implementation prints the name of the child. Let's move on to the composite class that also inherits from the abstract class component. We also need another attribute to store the name of the component object. Type self dot name and args. The index is zero, meaning that we'll be using the first argument to get the name of the composite object. This time we have another attribute, a list that will keep all our child items in the composite object. The [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the methods we're defining are utility methods. For example, we have this method called append underscore child to add the new child. We also have the remove underscore child method. In our definition of the abstract method
 >
 > **[2:33](https://www.linkedin.com/learning/python-design-patterns-24559831/composite-example?u=76281980&t=153)** component underscore function, we print the name of the composite object. The second thing we are doing is iterating through all the child objects and then invoking their component function to print their names. Now we are ready to go ahead and use these classes we just defined. First, we'll be building a composite sub menu that is not a top level menu, but a sub menu. It's a composite itself and has its own children. We also build the child items and then we add the child items to the composite sub menu one. Next, we'll do some more coding to create the top level composite menu here. The variable name is top space assignment and composite, which is the class we're using. It has an argument that is the name of the composite object top underscore menu. We'll then build a plain sub menu, which is not a composite. We'll call this sub2 space assignment child because it's a child
 >
@@ -687,7 +687,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -824,7 +824,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980&t=0)** - [Instructor] We'll start with defining the class that's being visited. The class is called House. One of the main features of the House class is this method that triggers the visiting operation. The method is called accept, and we'll be defining the method here. It gets this visitor instance and then invokes the visit method on a visitor instance. Type visitor.visit, is the name of the method, self. For the visitor to be able to visit, it needs a reference to an instance of the House class. That's why we type self here. We'll invoke this method called work_on_hvac only when the visitor is hvac_specialist. We have another method called work_on_electricity, an electrician visitor calls. We already defined the work_on_hvac method, it displays this message, "worked on by", so and so,
 >
-> **[1:38](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980&t=98)** which will be the name of the object, in this case, the hvac_specialist object. We'll be doing the same thing for the work_on_electricity method. Copy this and paste it here. Instead of hvac_specialist, now the visitor is an electrician. That's why here we have to say electrician. I want you to note that we now have a reference to the electrician object in the House object because one of the arguments is a reference to the electrician object. The [[Representational State Transfer (REST)|rest]] of the class is pretty straightforward. The string method returns what to print when the object is being printed. In this case, we'll be printing the name of the object when it's printed by a print statement. Let's move on Visitor class. This is our abstract visitor, an abstract class for our concrete visitors. All we do here is define the string method where we decide on what to be displayed when a concrete visitor object
+> **[1:38](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980&t=98)** which will be the name of the object, in this case, the hvac_specialist object. We'll be doing the same thing for the work_on_electricity method. Copy this and paste it here. Instead of hvac_specialist, now the visitor is an electrician. That's why here we have to say electrician. I want you to note that we now have a reference to the electrician object in the House object because one of the arguments is a reference to the electrician object. The [rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) of the class is pretty straightforward. The string method returns what to print when the object is being printed. In this case, we'll be printing the name of the object when it's printed by a print statement. Let's move on Visitor class. This is our abstract visitor, an abstract class for our concrete visitors. All we do here is define the string method where we decide on what to be displayed when a concrete visitor object
 >
 > **[3:14](https://www.linkedin.com/learning/python-design-patterns-24559831/visitor-example?u=76281980&t=194)** is being printed by a print statement. Next is the HvacSpecialist class. Note that this class inherits from the Visitor class. This is a concrete visitor and that's why it inherits from the Visitor class, which is our abstract visitor. This class has one method called visit that invokes the work_on_hvac method on the House object. Note that the visitor now has a reference to the House object because you're getting the House object as an argument here. Another concrete visitor is the visitor called Electrician. Type house, which is a reference to the House object, and then invoke the method called work_on_electricity. And then we pass the reference to self. We're done with the class definitions, now let's test our classes. First, we'll create an HVAC specialist, which is a concrete visitor. Let's start with a variable, hv, assignment. We'll instantiate the HvacSpecialist class here.
 >
@@ -834,7 +834,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [Rest](../../Skills/Web%20Development/Representational%20State%20Transfer%20(REST).md) (1)
 > **Code Identifiers:** work_on_hvac (3), hvac_specialist (3), work_on_electricity (3)
 > **Definitions:** is a  (4), is called (2), is an  (1)
 > **Env Vars:** hvac (5)
@@ -847,11 +847,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator?u=76281980&t=0)** - [Narrator] The iterator pattern allows a client to have sequential access to the elements of an aggregate object without exposing its underlying structure. The problem is that some programmers overcrowd the traversal interfaces of an aggregate object for every possible way of iteration. We'll be building our own iterator that takes advantage of a built-in [[Python (Programming Language)|Python]] iterator called zip. The iterator goes through a list of German counting words. It will iterate only up to a certain point based on client input. The iterator isolates access and traverses of features from the aggregate object. It also provides an interface for accessing the elements of an aggregate object. An iterator keeps track of the objects being traversed. Our solution is to make the aggregate object create an iterator for a client. The composite design pattern is related to the iterator pattern.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator?u=76281980&t=0)** - [Narrator] The iterator pattern allows a client to have sequential access to the elements of an aggregate object without exposing its underlying structure. The problem is that some programmers overcrowd the traversal interfaces of an aggregate object for every possible way of iteration. We'll be building our own iterator that takes advantage of a built-in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) iterator called zip. The iterator goes through a list of German counting words. It will iterate only up to a certain point based on client input. The iterator isolates access and traverses of features from the aggregate object. It also provides an interface for accessing the elements of an aggregate object. An iterator keeps track of the objects being traversed. Our solution is to make the aggregate object create an iterator for a client. The composite design pattern is related to the iterator pattern.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -861,7 +861,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=0)** - [Instructor] Now, let's define our iterator. We start with creating a list. The list contains German words counting up to five.
 >
-> **[0:17](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=17)** Here, we'll use [[Python (Programming Language)|Python]]'s built-in iterator. The iterator will create tuples consisting of pairs of numbers and equivalent German words, for example, one and the German [[Microsoft Word|word]] eins. The tuple here means a pair. One and eins, that's a tuple, two and zwei, that's another tuple. The built-in iterator provided by Python is zip. We have to generate numbers up to five, so we use the function range here. So type range. The argument of the function is the number of German words to display, which is count, so type count. This is the first argument of the zip iterator. The second argument is the list itself. The numbers in German is our list. Type numbers_in_german. The range function here is important because it allows us to know up to what number we can count. We use a variable called iterator to store a zip instance.
+> **[0:17](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=17)** Here, we'll use [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md)'s built-in iterator. The iterator will create tuples consisting of pairs of numbers and equivalent German words, for example, one and the German [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) eins. The tuple here means a pair. One and eins, that's a tuple, two and zwei, that's another tuple. The built-in iterator provided by Python is zip. We have to generate numbers up to five, so we use the function range here. So type range. The argument of the function is the number of German words to display, which is count, so type count. This is the first argument of the zip iterator. The second argument is the list itself. The numbers in German is our list. Type numbers_in_german. The range function here is important because it allows us to know up to what number we can count. We use a variable called iterator to store a zip instance.
 >
 > **[1:54](https://www.linkedin.com/learning/python-design-patterns-24559831/iterator-example?u=76281980&t=114)** Now, using this iterator, we'll iterate through a list, in this case, numbers in German. We'll extract the German numbers and put them in a generator called number. To send the generator, we use the keyword yield. The generator number contains numbers in German. Now, it's time to test our code. Let's test the generator returned by our iterator by using a for loop. Type for and a placeholder, num, in count_to,
 >
@@ -873,7 +873,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (3), [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** python (3)
 > **Code Identifiers:** count_to (2), numbers_in_german (1)
@@ -884,11 +884,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980&t=0)** - [Narrator] The strategy pattern offers a family of interchangeable [[Algorithms]] to a client. The problem we often see is that there is a need for dynamically changing the behavior of an object. We offer our strategy class with its default behavior. When there is a need, we provide another variation of the strategy class by dynamically replacing its default method with a new one. [[Python (Programming Language)|Python]] allows adding methods dynamically by importing the types module.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy?u=76281980&t=0)** - [Narrator] The strategy pattern offers a family of interchangeable [Algorithms](../../Skills/Software%20Development/Algorithms.md) to a client. The problem we often see is that there is a need for dynamically changing the behavior of an object. We offer our strategy class with its default behavior. When there is a need, we provide another variation of the strategy class by dynamically replacing its default method with a new one. [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) allows adding methods dynamically by importing the types module.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Algorithms](../../Skills/Software%20Development/Algorithms.md) (1), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [narrator] (1)
@@ -897,7 +897,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy-example?u=76281980&t=0)** - [Instructor] This is our strategy class. Note that we're importing the types module here. This code doesn't work without the types module. The types module supports the dynamic creation of new types. In this case, we dynamically create a new method type. The very first thing we'll do in this strategy pattern class is defining the init method. All we're doing here is initializing the attribute called name. We set it to Default Strategy every time the strategy class is initiated. The strategy class also comes with a default method called execute. This default method prints the current value of the name attribute. Now, here is the most important part of this strategy class definition. This is where we say, if a reference to a function is provided as an argument here, we're replacing the default execute method with a given function. So how do we say that in [[Python (Programming Language)|Python]]? Type if, space, function. Which means, if there is a function
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy-example?u=76281980&t=0)** - [Instructor] This is our strategy class. Note that we're importing the types module here. This code doesn't work without the types module. The types module supports the dynamic creation of new types. In this case, we dynamically create a new method type. The very first thing we'll do in this strategy pattern class is defining the init method. All we're doing here is initializing the attribute called name. We set it to Default Strategy every time the strategy class is initiated. The strategy class also comes with a default method called execute. This default method prints the current value of the name attribute. Now, here is the most important part of this strategy class definition. This is where we say, if a reference to a function is provided as an argument here, we're replacing the default execute method with a given function. So how do we say that in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md)? Type if, space, function. Which means, if there is a function
 >
 > **[1:37](https://www.linkedin.com/learning/python-design-patterns-24559831/strategy-example?u=76281980&t=97)** being passed as an argument, then set the default execute method to the new function being provided. Type self.execute. An assignment. Next, we use the types module, type types.MethodType.
 >
@@ -909,7 +909,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **Code Identifiers:** strategy_one (3), strategy_two (1)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -960,11 +960,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980&t=0)** - [Instructor] The strategy pattern offers a family of interchangeable [[Algorithms]] to a client. The problem we often see is that there is a need for dynamically changing the behavior of an object. We offer our strategy class with its default behavior. When there is a need, we provide another variation of the strategy class by dynamically replacing its default method with a new one. [[Python (Programming Language)|Python]] allows adding methods dynamically by importing the types module.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/chain-of-responsibility?u=76281980&t=0)** - [Instructor] The strategy pattern offers a family of interchangeable [Algorithms](../../Skills/Software%20Development/Algorithms.md) to a client. The problem we often see is that there is a need for dynamically changing the behavior of an object. We offer our strategy class with its default behavior. When there is a need, we provide another variation of the strategy class by dynamically replacing its default method with a new one. [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) allows adding methods dynamically by importing the types module.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Algorithms](../../Skills/Software%20Development/Algorithms.md) (1), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -999,13 +999,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=0)** - [Speaker] In addition to using [[Design Patterns]], there are also universal principles you should apply whenever you develop software applications. Consistency is one of the hallmarks of sound software engineering. One of the reasons we recommend using design patterns is to promote the consistency of the code. If an identical solution is used repeatedly to solve the same problem, developers need to modify only one piece of code when there is a need to change the code. Otherwise, you end up spending much more time developing different strategies for different solutions implemented throughout the code to accommodate a change requirement. The benefit of promoting consistency also include reducing the risk of making mistakes since the same piece of code is used over and over again. Another benefit is increasing the possibility of detecting errors since more sets of eyes looking at the same code may spot the mistakes more quickly. Saving the cost of [[Software Development]] is another benefit since you reuse the well-established design solutions in the form of patterns and their in-house or third party implementations. A larger scale way of accomplishing consistency
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=0)** - [Speaker] In addition to using [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md), there are also universal principles you should apply whenever you develop software applications. Consistency is one of the hallmarks of sound software engineering. One of the reasons we recommend using design patterns is to promote the consistency of the code. If an identical solution is used repeatedly to solve the same problem, developers need to modify only one piece of code when there is a need to change the code. Otherwise, you end up spending much more time developing different strategies for different solutions implemented throughout the code to accommodate a change requirement. The benefit of promoting consistency also include reducing the risk of making mistakes since the same piece of code is used over and over again. Another benefit is increasing the possibility of detecting errors since more sets of eyes looking at the same code may spot the mistakes more quickly. Saving the cost of [Software Development](../../Topics/Software%20Development.md) is another benefit since you reuse the well-established design solutions in the form of patterns and their in-house or third party implementations. A larger scale way of accomplishing consistency
 >
-> **[1:38](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=98)** is by creating a [[Software Architecture]] and trying to stick to it. This could be as simple as identifying a pattern to be used throughout your software coherently. Another way of enforcing consistency is using frameworks. Frameworks consist of design patterns put together in a specific fashion to accomplish a particular goal. For example, there are frameworks specializing in improving software security while there are frameworks whose focus is providing a related set of functionalities, such as building an [[E-Commerce]] website. Consistency is one of the most critical software engineering principles and the use of design patterns makes your job easier to keep your code consistent.
+> **[1:38](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980&t=98)** is by creating a [Software Architecture](../../Skills/Web%20Development/Software%20Architecture.md) and trying to stick to it. This could be as simple as identifying a pattern to be used throughout your software coherently. Another way of enforcing consistency is using frameworks. Frameworks consist of design patterns put together in a specific fashion to accomplish a particular goal. For example, there are frameworks specializing in improving software security while there are frameworks whose focus is providing a related set of functionalities, such as building an [E-Commerce](../../Skills/Web%20Development/E-Commerce.md) website. Consistency is one of the most critical software engineering principles and the use of design patterns makes your job easier to keep your code consistent.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Software Development]] (1), [[Software Architecture]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (4), [Software Development](../../Topics/Software%20Development.md) (1), [Software Architecture](../../Skills/Web%20Development/Software%20Architecture.md) (1), [E-Commerce](../../Skills/Web%20Development/E-Commerce.md) (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
@@ -1014,13 +1014,13 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/programmers-mindset?u=76281980&t=0)** - [Narrator] Using [[Design Patterns]] also promotes the other ideal qualities of software, such as completeness and correctness. Completeness refers to how much a software solution meets its requirements. Since design patterns are community-driven, and validated according to the desired requirements, you can safely assume they meet the baseline requirements. However, one thing to note is that design patterns are intentionally under defined to allow potential customization and extension efforts. Correctness is another essential quality of well-developed software. If the software produces incorrect results, although it does most of what it's expected to do, it's still problematic since the error can lead to catastrophic consequences such as loss of human lives. The correctness quality is especially vital in mission-critical systems such as power plants and water treatment facilities. Coupling and cohesion are also what design patterns address. The term coupling means how many different elements of your software are related. If there is a strong coupling within the software elements, changes in one of them affect the others significantly,
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/programmers-mindset?u=76281980&t=0)** - [Narrator] Using [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) also promotes the other ideal qualities of software, such as completeness and correctness. Completeness refers to how much a software solution meets its requirements. Since design patterns are community-driven, and validated according to the desired requirements, you can safely assume they meet the baseline requirements. However, one thing to note is that design patterns are intentionally under defined to allow potential customization and extension efforts. Correctness is another essential quality of well-developed software. If the software produces incorrect results, although it does most of what it's expected to do, it's still problematic since the error can lead to catastrophic consequences such as loss of human lives. The correctness quality is especially vital in mission-critical systems such as power plants and water treatment facilities. Coupling and cohesion are also what design patterns address. The term coupling means how many different elements of your software are related. If there is a strong coupling within the software elements, changes in one of them affect the others significantly,
 >
 > **[1:38](https://www.linkedin.com/learning/python-design-patterns-24559831/programmers-mindset?u=76281980&t=98)** which means a lot of additional work. On the other hand, cohesion refers to how independent a software component is. Therefore more cohesion is better, but less coupling is desirable, which is the goal of design patterns. Simplicity and generality trade-offs are the lasting I'd like to point out. The trade-off between simplicity and generality is also what design patterns consider. For wider adoption, design patterns may attempt to satisfy too many requirements and become too complicated for it to be truly useful. However, it's also important to be general enough for reusability purposes. Design patterns should be simply enough to be quickly mastered and highly usable for practitioners. When considering using design patterns, keep in mind these design principles to ensure that you're actually improving the quality of your software by adopting them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (9)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (9)
 > **Definitions:** refers to (2), is a  (1)
 > **Analogies:** such as (3)
 > **Warnings:** keep in mind (1)
@@ -1035,11 +1035,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980&t=0)** - If you want to learn more about other implementations of [[Design Patterns]] in [[Python (Programming Language)|Python]], check out the many active open source communities out there that develop and maintain [[Accessible Design]] patterns. If you want to learn more design patterns, I recommend watching my Python Advanced Design Patterns course. In the next course, we'll build on the design pattern concepts we learned in this course and pursue more advanced topics such as architectural and domain specific patterns. We'll also cover the remaining gang of four patterns to complete our exploration of classic design patterns.
+> **[0:00](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980&t=0)** - If you want to learn more about other implementations of [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md), check out the many active open source communities out there that develop and maintain [Accessible Design](../../Skills/Web%20Development/Accessible%20Design.md) patterns. If you want to learn more design patterns, I recommend watching my Python Advanced Design Patterns course. In the next course, we'll build on the design pattern concepts we learned in this course and pursue more advanced topics such as architectural and domain specific patterns. We'll also cover the remaining gang of four patterns to complete our exploration of classic design patterns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Python (Programming Language)|Python]] (2), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [Design Patterns](../../Skills/Software%20Development/Design%20Patterns.md) (4), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2), [Accessible Design](../../Skills/Web%20Development/Accessible%20Design.md) (1)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -1048,7 +1048,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Jungwoo Ryoo]]
+- [Jungwoo Ryoo](../../Instructors/Cybersecurity/Jungwoo%20Ryoo.md)
 
 ## Resources
 
@@ -1062,22 +1062,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Advance Your Skills in Python]]
-← [[Hands-On Introduction- Python]] | **2 of 7** | [[Python Data Structures and Algorithms]] →
+### In [Advance Your Skills in Python](../../Paths/Software%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20Python.md)
+← [Hands-On Introduction- Python](Hands-On%20Introduction-%20Python.md) | **2 of 7** | [Python Data Structures and Algorithms](Python%20Data%20Structures%20and%20Algorithms.md) →
 
 ## Appears In
 
-- [[Advance Your Skills in Python]]
+- [Advance Your Skills in Python](../../Paths/Software%20Development/Learning%20Paths/Advance%20Your%20Skills%20in%20Python.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Learning ArcGIS Python Scripting]] — Python (Programming Language)
-- [[QGIS and Python for AEC]] — Python (Programming Language)
-- [[Python Data Structures- Trees]] — Python (Programming Language)
-- [[Using SQL with Python]] — Python (Programming Language)
-- [[Python- Working with Predictive Analytics (2019)]] — Python (Programming Language)
+- [Learning ArcGIS Python Scripting](../Data%20Science/Learning%20ArcGIS%20Python%20Scripting.md) — Python (Programming Language)
+- [QGIS and Python for AEC](../Data%20Science/QGIS%20and%20Python%20for%20AEC.md) — Python (Programming Language)
+- [Python Data Structures- Trees](../Database%20Management/Python%20Data%20Structures-%20Trees.md) — Python (Programming Language)
+- [Using SQL with Python](../Data%20Science/Using%20SQL%20with%20Python.md) — Python (Programming Language)
+- [Python- Working with Predictive Analytics (2019)](Python-%20Working%20with%20Predictive%20Analytics%20(2019).md) — Python (Programming Language)
 
 ---
 

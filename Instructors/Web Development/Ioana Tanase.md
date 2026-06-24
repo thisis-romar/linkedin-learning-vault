@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Accessibility and AI- Bridging the Disability Divide]]
+- [Accessibility and AI- Bridging the Disability Divide](../../Courses/Web%20Development/Accessibility%20and%20AI-%20Bridging%20the%20Disability%20Divide.md)

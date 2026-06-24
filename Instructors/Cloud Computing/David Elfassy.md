@@ -26,7 +26,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Microsoft 365- Administration]]
-- [[Azure Administration Essential Training]]
-- [[Microsoft Azure- Security Concepts]]
-- [[Microsoft Azure- Networking Concepts]]
+- [Microsoft 365- Administration](../../Courses/Cloud%20Computing/Microsoft%20365-%20Administration.md)
+- [Azure Administration Essential Training](../../Courses/Cloud%20Computing/Azure%20Administration%20Essential%20Training.md)
+- [Microsoft Azure- Security Concepts](../../Courses/Cloud%20Computing/Microsoft%20Azure-%20Security%20Concepts.md)
+- [Microsoft Azure- Networking Concepts](../../Courses/Cloud%20Computing/Microsoft%20Azure-%20Networking%20Concepts.md)

@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Financial Intelligence for Business Leaders]]
+- [Strategic Financial Intelligence for Business Leaders](../../Courses/Data%20Science/Strategic%20Financial%20Intelligence%20for%20Business%20Leaders.md)

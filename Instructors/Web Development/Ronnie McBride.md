@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[ProtoPie for UX Design]]
+- [ProtoPie for UX Design](../../Courses/Web%20Development/ProtoPie%20for%20UX%20Design.md)

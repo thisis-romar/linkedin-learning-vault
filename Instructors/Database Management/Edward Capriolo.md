@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Elasticsearch in Depth]]
+- [Elasticsearch in Depth](../../Courses/Database%20Management/Elasticsearch%20in%20Depth.md)

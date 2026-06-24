@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Canva- Designing Engaging, Accessible Presentations]] — 1h 10m · 91,003 learners
+- [Canva- Designing Engaging, Accessible Presentations](../../Courses/Web%20Development/Canva-%20Designing%20Engaging%2C%20Accessible%20Presentations.md) — 1h 10m · 91,003 learners
 
 ## Related Skills
 
-- [[Canva]] — 1 shared course
-- [[Digital Accessibility]] — 1 shared course
+- [Canva](Canva.md) — 1 shared course
+- [Digital Accessibility](Digital%20Accessibility.md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[Canva- Designing Engaging, Accessible Presentations]] — 3 mentions
-2. [[Learning PowerPoint Online (Microsoft 365)]] — 1 mentions
+1. [Canva- Designing Engaging, Accessible Presentations](../../Courses/Web%20Development/Canva-%20Designing%20Engaging%2C%20Accessible%20Presentations.md) — 3 mentions
+2. [Learning PowerPoint Online (Microsoft 365)](../../Courses/Cloud%20Computing/Learning%20PowerPoint%20Online%20(Microsoft%20365).md) — 1 mentions

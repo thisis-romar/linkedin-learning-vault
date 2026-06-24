@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leading with Generative AI- Master Change Management for Success]]
+- [Leading with Generative AI- Master Change Management for Success](../../Courses/Cloud%20Computing/Leading%20with%20Generative%20AI-%20Master%20Change%20Management%20for%20Success.md)

@@ -22,6 +22,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning the Angular CLI]]
-- [[Angular- Cloud-Powered Apps with Firebase]]
-- [[React- Cloud-Powered Apps with Firebase]]
+- [Learning the Angular CLI](../../Courses/Software%20Development/Learning%20the%20Angular%20CLI.md)
+- [Angular- Cloud-Powered Apps with Firebase](../../Courses/Software%20Development/Angular-%20Cloud-Powered%20Apps%20with%20Firebase.md)
+- [React- Cloud-Powered Apps with Firebase](../../Courses/Web%20Development/React-%20Cloud-Powered%20Apps%20with%20Firebase.md)

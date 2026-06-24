@@ -26,5 +26,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[How to Keep Your Team on the Bleeding Edge of AI Innovation]]
-- [[Data-Centric AI- Best Practices, Responsible AI, and More]]
+- [How to Keep Your Team on the Bleeding Edge of AI Innovation](../../Courses/Artificial%20Intelligence%20(AI)/How%20to%20Keep%20Your%20Team%20on%20the%20Bleeding%20Edge%20of%20AI%20Innovation.md)
+- [Data-Centric AI- Best Practices, Responsible AI, and More](../../Courses/Artificial%20Intelligence%20(AI)/Data-Centric%20AI-%20Best%20Practices%2C%20Responsible%20AI%2C%20and%20More.md)

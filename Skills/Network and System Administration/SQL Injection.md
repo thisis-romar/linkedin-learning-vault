@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Ethical Hacking- SQL Injection]] — Intermediate · 1h 45m · 43,834 learners
+- [Ethical Hacking- SQL Injection](../../Courses/Cybersecurity/Ethical%20Hacking-%20SQL%20Injection.md) — Intermediate · 1h 45m · 43,834 learners
 
 ## Related Skills
 
-- [[Ethical Hacking]] — 1 shared course
+- [Ethical Hacking](../Cybersecurity/Ethical%20Hacking.md) — 1 shared course

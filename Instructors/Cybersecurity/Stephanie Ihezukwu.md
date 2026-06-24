@@ -26,7 +26,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Awareness- AI]]
-- [[Cybersecurity Awareness- Social Engineering]]
-- [[Cybersecurity Awareness- Phishing Attacks]]
-- [[Cybersecurity Awareness- Malware]]
+- [Cybersecurity Awareness- AI](../../Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20AI.md)
+- [Cybersecurity Awareness- Social Engineering](../../Courses/Cybersecurity/Cybersecurity%20Awareness-%20Social%20Engineering.md)
+- [Cybersecurity Awareness- Phishing Attacks](../../Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Phishing%20Attacks.md)
+- [Cybersecurity Awareness- Malware](../../Courses/Cloud%20Computing/Cybersecurity%20Awareness-%20Malware.md)

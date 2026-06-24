@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Programming Foundations- Web Security]] — Beginner · 2h 11m · 177,777 learners
+- [Programming Foundations- Web Security](../../Courses/Software%20Development/Programming%20Foundations-%20Web%20Security.md) — Beginner · 2h 11m · 177,777 learners
 
 ## Related Skills
 
-- [[Secure Coding]] — 1 shared course
-- [[Programming Foundations]] — 1 shared course
+- [Secure Coding](Secure%20Coding.md) — 1 shared course
+- [Programming Foundations](Programming%20Foundations.md) — 1 shared course

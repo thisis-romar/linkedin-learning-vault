@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Quick Start Guide to SQL]]
-- [[SQL Queries Made Easy]]
+- [Quick Start Guide to SQL](../../Courses/Database%20Management/Quick%20Start%20Guide%20to%20SQL.md)
+- [SQL Queries Made Easy](../../Courses/Data%20Science/SQL%20Queries%20Made%20Easy.md)

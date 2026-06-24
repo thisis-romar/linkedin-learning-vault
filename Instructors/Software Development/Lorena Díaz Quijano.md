@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Digital Sustainability- How to Reduce Your Digital Footprint]]
+- [Digital Sustainability- How to Reduce Your Digital Footprint](../../Courses/Software%20Development/Digital%20Sustainability-%20How%20to%20Reduce%20Your%20Digital%20Footprint.md)

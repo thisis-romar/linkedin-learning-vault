@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Descriptive Healthcare Analytics in R]]
+- [Descriptive Healthcare Analytics in R](../../Courses/Data%20Science/Descriptive%20Healthcare%20Analytics%20in%20R.md)

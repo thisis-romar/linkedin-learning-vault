@@ -22,16 +22,16 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp]] — Intermediate · 1h 51m
+- [Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp](../../Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%208%20Supply%20Chain%20Smart%20Contract%20dApp.md) — Intermediate · 1h 51m
 
 ## Related Skills
 
-- [[Smart Contracts]] — 1 shared course
-- [[Ethereum]] — 1 shared course
-- [[Blockchain]] — 1 shared course
+- [Smart Contracts](Smart%20Contracts.md) — 1 shared course
+- [Ethereum](Ethereum.md) — 1 shared course
+- [Blockchain](Blockchain.md) — 1 shared course
 
 ## Mentioned In Transcripts _(9 total mentions)_
 
-1. [[Blockchain and Smart Contracts Security]] — 7 mentions
-2. [[Building an Ethereum Blockchain App- 3 Ethereum Development]] — 1 mentions
-3. [[Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp]] — 1 mentions
+1. [Blockchain and Smart Contracts Security](../../Courses/Cybersecurity/Blockchain%20and%20Smart%20Contracts%20Security.md) — 7 mentions
+2. [Building an Ethereum Blockchain App- 3 Ethereum Development](../../Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%203%20Ethereum%20Development.md) — 1 mentions
+3. [Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp](../../Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%208%20Supply%20Chain%20Smart%20Contract%20dApp.md) — 1 mentions

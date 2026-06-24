@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Search Techniques for Web Developers]] — Beginner · 55m · 16,012 learners
+- [Search Techniques for Web Developers](../../Courses/Web%20Development/Search%20Techniques%20for%20Web%20Developers.md) — Beginner · 55m · 16,012 learners
 
 ## Related Skills
 
-- [[Web Application Development]] — 1 shared course
+- [Web Application Development](Web%20Application%20Development.md) — 1 shared course

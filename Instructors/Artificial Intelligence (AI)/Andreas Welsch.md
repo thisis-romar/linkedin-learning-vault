@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leading Through AI Agent Disruption]]
+- [Leading Through AI Agent Disruption](../../Courses/Artificial%20Intelligence%20(AI)/Leading%20Through%20AI%20Agent%20Disruption.md)

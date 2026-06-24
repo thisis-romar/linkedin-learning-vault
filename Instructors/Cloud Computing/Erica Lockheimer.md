@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Leadership in Tech]]
+- [Leadership in Tech](../../Courses/Cloud%20Computing/Leadership%20in%20Tech.md)

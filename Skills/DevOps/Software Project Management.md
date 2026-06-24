@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Planning and Releasing Software with Jira]] — Intermediate · 1h 15m · 21,693 learners
+- [Planning and Releasing Software with Jira](../../Courses/DevOps/Planning%20and%20Releasing%20Software%20with%20Jira.md) — Intermediate · 1h 15m · 21,693 learners
 
 ## Related Skills
 
-- [[Software Development Life Cycle (SDLC)]] — 1 shared course
-- [[Jira]] — 1 shared course
+- [Software Development Life Cycle (SDLC)](../Software%20Development/Software%20Development%20Life%20Cycle%20(SDLC).md) — 1 shared course
+- [Jira](Jira.md) — 1 shared course

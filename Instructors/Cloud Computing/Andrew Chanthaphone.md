@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Careers- Become an Identity and Access Management Manager]]
+- [Cybersecurity Careers- Become an Identity and Access Management Manager](../../Courses/Cloud%20Computing/Cybersecurity%20Careers-%20Become%20an%20Identity%20and%20Access%20Management%20Manager.md)

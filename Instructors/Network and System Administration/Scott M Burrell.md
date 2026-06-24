@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Windows Server 2019- Installation and Configuration]]
+- [Windows Server 2019- Installation and Configuration](../../Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20Installation%20and%20Configuration.md)

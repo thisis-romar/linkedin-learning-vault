@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Lessons from Data Scientists]]
+- [Lessons from Data Scientists](../../Courses/Data%20Science/Lessons%20from%20Data%20Scientists.md)

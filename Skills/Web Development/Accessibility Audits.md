@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Auditing Design Systems for Accessibility]] — 1h 31m · 4,937 learners
+- [Auditing Design Systems for Accessibility](../../Courses/Web%20Development/Auditing%20Design%20Systems%20for%20Accessibility.md) — 1h 31m · 4,937 learners
 
 ## Related Skills
 
-- [[Design Systems]] — 1 shared course
-- [[Digital Accessibility]] — 1 shared course
+- [Design Systems](Design%20Systems.md) — 1 shared course
+- [Digital Accessibility](Digital%20Accessibility.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Auditing Design Systems for Accessibility]] — 1 mentions
+1. [Auditing Design Systems for Accessibility](../../Courses/Web%20Development/Auditing%20Design%20Systems%20for%20Accessibility.md) — 1 mentions

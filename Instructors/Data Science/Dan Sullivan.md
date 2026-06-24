@@ -28,9 +28,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Data Preparation, Feature Engineering, and Augmentation for AI Models]]
-- [[Introduction to Spark SQL and DataFrames]]
-- [[Advanced SQL for Query Tuning and Performance Optimization]]
-- [[Advanced SQL for Application Development]]
-- [[Advanced SQL for Data Scientists]]
-- [[Advanced SQL for Data Science- Time Series]]
+- [Data Preparation, Feature Engineering, and Augmentation for AI Models](../../Courses/Data%20Science/Data%20Preparation%2C%20Feature%20Engineering%2C%20and%20Augmentation%20for%20AI%20Models.md)
+- [Introduction to Spark SQL and DataFrames](../../Courses/Data%20Science/Introduction%20to%20Spark%20SQL%20and%20DataFrames.md)
+- [Advanced SQL for Query Tuning and Performance Optimization](../../Courses/Data%20Science/Advanced%20SQL%20for%20Query%20Tuning%20and%20Performance%20Optimization.md)
+- [Advanced SQL for Application Development](../../Courses/Data%20Science/Advanced%20SQL%20for%20Application%20Development.md)
+- [Advanced SQL for Data Scientists](../../Courses/Data%20Science/Advanced%20SQL%20for%20Data%20Scientists.md)
+- [Advanced SQL for Data Science- Time Series](../../Courses/Data%20Science/Advanced%20SQL%20for%20Data%20Science-%20Time%20Series.md)

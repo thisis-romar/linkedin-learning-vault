@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Sales Strategy- Key Account Growth with AI]]
-- [[Using AI for Executive Sales Presentations]]
+- [Sales Strategy- Key Account Growth with AI](../../Courses/Artificial%20Intelligence%20(AI)/Sales%20Strategy-%20Key%20Account%20Growth%20with%20AI.md)
+- [Using AI for Executive Sales Presentations](../../Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20for%20Executive%20Sales%20Presentations.md)

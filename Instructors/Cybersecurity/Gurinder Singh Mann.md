@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Blockchain for Developers- Hyperledger Fabric on Azure]]
+- [Blockchain for Developers- Hyperledger Fabric on Azure](../../Courses/Cybersecurity/Blockchain%20for%20Developers-%20Hyperledger%20Fabric%20on%20Azure.md)

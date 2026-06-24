@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Understanding and Implementing the NIST AI Risk Management Framework (RMF)]]
-- [[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]]
+- [Understanding and Implementing the NIST AI Risk Management Framework (RMF)](../../Courses/Artificial%20Intelligence%20(AI)/Understanding%20and%20Implementing%20the%20NIST%20AI%20Risk%20Management%20Framework%20(RMF).md)
+- [ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard](../../Courses/Artificial%20Intelligence%20(AI)/ISO-IEC%2042001-2023-%20Understanding%20and%20Implementing%20the%20Artificial%20Intelligence%20Management%20System%20(AIMS)%20Standard.md)

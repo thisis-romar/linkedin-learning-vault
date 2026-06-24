@@ -32,5 +32,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Tech Career Skills- Effective Technical Communication]]
-- [[Programming Foundations Fundamentals]]
+- [Tech Career Skills- Effective Technical Communication](../../Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Effective%20Technical%20Communication.md)
+- [Programming Foundations Fundamentals](../../Courses/Software%20Development/Programming%20Foundations%20Fundamentals.md)

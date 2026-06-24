@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Responsible AI- Principles and Practical Applications]]
-- [[Algorithmic Auditing and Continuous Monitoring]]
+- [Responsible AI- Principles and Practical Applications](../../Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Principles%20and%20Practical%20Applications.md)
+- [Algorithmic Auditing and Continuous Monitoring](../../Courses/Artificial%20Intelligence%20(AI)/Algorithmic%20Auditing%20and%20Continuous%20Monitoring.md)

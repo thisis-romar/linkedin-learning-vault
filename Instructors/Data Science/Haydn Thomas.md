@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Business Analysis Foundations- Business Process Modeling]]
+- [Business Analysis Foundations- Business Process Modeling](../../Courses/Data%20Science/Business%20Analysis%20Foundations-%20Business%20Process%20Modeling.md)

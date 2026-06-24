@@ -20,7 +20,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Django- Forms]]
-- [[Deploying Django Apps- Make Your Site Go Live]]
-- [[Building a Personal Portfolio with Django]]
-- [[Building a Paid Membership Site with Django]]
+- [Django- Forms](../../Courses/Web%20Development/Django-%20Forms.md)
+- [Deploying Django Apps- Make Your Site Go Live](../../Courses/Web%20Development/Deploying%20Django%20Apps-%20Make%20Your%20Site%20Go%20Live.md)
+- [Building a Personal Portfolio with Django](../../Courses/Web%20Development/Building%20a%20Personal%20Portfolio%20with%20Django.md)
+- [Building a Paid Membership Site with Django](../../Courses/Web%20Development/Building%20a%20Paid%20Membership%20Site%20with%20Django.md)

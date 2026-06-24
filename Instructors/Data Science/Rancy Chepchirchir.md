@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced Python in Excel for Finance- A Hands-On Approach]]
+- [Advanced Python in Excel for Finance- A Hands-On Approach](../../Courses/Data%20Science/Advanced%20Python%20in%20Excel%20for%20Finance-%20A%20Hands-On%20Approach.md)

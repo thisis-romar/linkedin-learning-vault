@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Software Testing- Planning Tests for Mobile]] — Intermediate · 1h 48m · 233,578 learners
+- [Software Testing- Planning Tests for Mobile](../../Courses/Software%20Development/Software%20Testing-%20Planning%20Tests%20for%20Mobile.md) — Intermediate · 1h 48m · 233,578 learners
 
 ## Related Skills
 
-- [[Mobile Testing]] — 1 shared course
-- [[Software Testing]] — 1 shared course
+- [Mobile Testing](Mobile%20Testing.md) — 1 shared course
+- [Software Testing](Software%20Testing.md) — 1 shared course

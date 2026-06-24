@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[How to Get a Job in Climate]]
+- [How to Get a Job in Climate](../../Courses/Software%20Development/How%20to%20Get%20a%20Job%20in%20Climate.md)

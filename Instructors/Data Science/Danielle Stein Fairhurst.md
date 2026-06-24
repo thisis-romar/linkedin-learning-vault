@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel and PowerPoint- Creating High-Impact Financial Presentations]]
-- [[Excel- Financial Functions in Depth]]
+- [Excel and PowerPoint- Creating High-Impact Financial Presentations](../../Courses/Data%20Science/Excel%20and%20PowerPoint-%20Creating%20High-Impact%20Financial%20Presentations.md)
+- [Excel- Financial Functions in Depth](../../Courses/Data%20Science/Excel-%20Financial%20Functions%20in%20Depth.md)

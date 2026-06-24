@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Hands-On PyTorch Machine Learning]]
+- [Hands-On PyTorch Machine Learning](../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20PyTorch%20Machine%20Learning.md)

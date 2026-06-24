@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Advanced SQL- Logical Query Processing, Part 1]]
-- [[Advanced SQL- Logical Query Processing, Part 2]]
-- [[Advanced SQL – Window Functions]]
+- [Advanced SQL- Logical Query Processing, Part 1](../../Courses/Data%20Science/Advanced%20SQL-%20Logical%20Query%20Processing%2C%20Part%201.md)
+- [Advanced SQL- Logical Query Processing, Part 2](../../Courses/Data%20Science/Advanced%20SQL-%20Logical%20Query%20Processing%2C%20Part%202.md)
+- [Advanced SQL – Window Functions](../../Courses/Data%20Science/Advanced%20SQL%20%E2%80%93%20Window%20Functions.md)

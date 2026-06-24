@@ -24,5 +24,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Hybrid Multicloud Networking- Practical Concepts]]
-- [[Terraform- Managing Network Infrastructure]]
+- [Hybrid Multicloud Networking- Practical Concepts](../../Courses/Database%20Management/Hybrid%20Multicloud%20Networking-%20Practical%20Concepts.md)
+- [Terraform- Managing Network Infrastructure](../../Courses/Database%20Management/Terraform-%20Managing%20Network%20Infrastructure.md)

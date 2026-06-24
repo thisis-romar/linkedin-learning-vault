@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Project Management Simplified]]
+- [Project Management Simplified](../../Courses/Data%20Science/Project%20Management%20Simplified.md)

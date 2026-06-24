@@ -28,6 +28,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Hands-On OpenAI API- Building a Real-World Solution]]
-- [[Apply Ethical AI Principles Using the Responsible AI Dashboard]]
-- [[Building a Web Application on Microsoft Azure]]
+- [Hands-On OpenAI API- Building a Real-World Solution](../../Courses/Artificial%20Intelligence%20(AI)/Hands-On%20OpenAI%20API-%20Building%20a%20Real-World%20Solution.md)
+- [Apply Ethical AI Principles Using the Responsible AI Dashboard](../../Courses/Artificial%20Intelligence%20(AI)/Apply%20Ethical%20AI%20Principles%20Using%20the%20Responsible%20AI%20Dashboard.md)
+- [Building a Web Application on Microsoft Azure](../../Courses/Cloud%20Computing/Building%20a%20Web%20Application%20on%20Microsoft%20Azure.md)

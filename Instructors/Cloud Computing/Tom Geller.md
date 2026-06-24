@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Tech Career Skills- Communication for Developers]]
+- [Tech Career Skills- Communication for Developers](../../Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Communication%20for%20Developers.md)

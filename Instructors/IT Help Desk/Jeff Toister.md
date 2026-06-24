@@ -22,7 +22,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Phone-Based Customer Service]]
-- [[Working with Upset Customers]]
-- [[Innovative Customer Service Techniques]]
-- [[Customer Service Foundations]]
+- [Phone-Based Customer Service](../../Courses/IT%20Help%20Desk/Phone-Based%20Customer%20Service.md)
+- [Working with Upset Customers](../../Courses/IT%20Help%20Desk/Working%20with%20Upset%20Customers.md)
+- [Innovative Customer Service Techniques](../../Courses/IT%20Help%20Desk/Innovative%20Customer%20Service%20Techniques.md)
+- [Customer Service Foundations](../../Courses/IT%20Help%20Desk/Customer%20Service%20Foundations.md)

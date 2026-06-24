@@ -22,15 +22,15 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Product Ideation- Principles and Practical Applications]] — Intermediate · 2h 6m · 4,570 learners
+- [AI Product Ideation- Principles and Practical Applications](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Ideation-%20Principles%20and%20Practical%20Applications.md) — Intermediate · 2h 6m · 4,570 learners
 
 ## Related Skills
 
-- [[Product Development]] — 1 shared course
-- [[Artificial Intelligence for Design]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Product Development](Product%20Development.md) — 1 shared course
+- [Artificial Intelligence for Design](../Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20for%20Design.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course
 
 ## Mentioned In Transcripts _(2 total mentions)_
 
-1. [[Midjourney- Tips and Techniques for Creating Images]] — 1 mentions
-2. [[AI Literacy for Business Leaders]] — 1 mentions
+1. [Midjourney- Tips and Techniques for Creating Images](../../Courses/Artificial%20Intelligence%20(AI)/Midjourney-%20Tips%20and%20Techniques%20for%20Creating%20Images.md) — 1 mentions
+2. [AI Literacy for Business Leaders](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Literacy%20for%20Business%20Leaders.md) — 1 mentions

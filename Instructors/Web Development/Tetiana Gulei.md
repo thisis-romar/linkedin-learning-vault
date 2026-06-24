@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Designing Accessible Components In Figma]]
-- [[Designing Microinteractions with Figma]]
+- [Designing Accessible Components In Figma](../../Courses/Web%20Development/Designing%20Accessible%20Components%20In%20Figma.md)
+- [Designing Microinteractions with Figma](../../Courses/Web%20Development/Designing%20Microinteractions%20with%20Figma.md)

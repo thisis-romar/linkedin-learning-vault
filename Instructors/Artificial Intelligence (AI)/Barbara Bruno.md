@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Harnessing AI in the Recruiting Lifecycle]]
+- [Harnessing AI in the Recruiting Lifecycle](../../Courses/Artificial%20Intelligence%20(AI)/Harnessing%20AI%20in%20the%20Recruiting%20Lifecycle.md)

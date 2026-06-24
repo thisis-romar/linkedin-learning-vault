@@ -17,15 +17,15 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Introduction to Linux (2021)]]'
+  - course: '[Introduction to Linux (2021)](../../../Courses/Network%20and%20System%20Administration/Introduction%20to%20Linux%20(2021).md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Linux- Overview and Installation]]'
+  - course: '[Linux- Overview and Installation](../../../Courses/Network%20and%20System%20Administration/Linux-%20Overview%20and%20Installation.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Linux- Files and Permissions]]'
+  - course: '[Linux- Files and Permissions](../../../Courses/Network%20and%20System%20Administration/Linux-%20Files%20and%20Permissions.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -40,24 +40,24 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Introduction to Linux (2021)]] _(56m)_
-2. [[Linux- Overview and Installation]] _(1h 51m)_
-3. [[Linux- Files and Permissions]] _(2h 57m)_
+1. [Introduction to Linux (2021)](../../../Courses/Network%20and%20System%20Administration/Introduction%20to%20Linux%20(2021).md) _(56m)_
+2. [Linux- Overview and Installation](../../../Courses/Network%20and%20System%20Administration/Linux-%20Overview%20and%20Installation.md) _(1h 51m)_
+3. [Linux- Files and Permissions](../../../Courses/Network%20and%20System%20Administration/Linux-%20Files%20and%20Permissions.md) _(2h 57m)_
 
 ## Course Flow
 
-1. [[Introduction to Linux (2021)]] → 2. [[Linux- Overview and Installation]] → 3. [[Linux- Files and Permissions]]
+1. [Introduction to Linux (2021)](../../../Courses/Network%20and%20System%20Administration/Introduction%20to%20Linux%20(2021).md) → 2. [Linux- Overview and Installation](../../../Courses/Network%20and%20System%20Administration/Linux-%20Overview%20and%20Installation.md) → 3. [Linux- Files and Permissions](../../../Courses/Network%20and%20System%20Administration/Linux-%20Files%20and%20Permissions.md)
 
 ## Topics
 
-- [[Network and System Administration]]
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Network Automation Professional Certificate by Arista Networks]] (1 shared courses)
+- [Network Automation Professional Certificate by Arista Networks](../../Database%20Management/Professional%20Certificates/Network%20Automation%20Professional%20Certificate%20by%20Arista%20Networks.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Network and System Administration]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)

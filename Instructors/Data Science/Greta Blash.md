@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Business Analysis Foundations]]
-- [[Business Analysis for Project Managers]]
+- [Business Analysis Foundations](../../Courses/Data%20Science/Business%20Analysis%20Foundations.md)
+- [Business Analysis for Project Managers](../../Courses/Data%20Science/Business%20Analysis%20for%20Project%20Managers.md)

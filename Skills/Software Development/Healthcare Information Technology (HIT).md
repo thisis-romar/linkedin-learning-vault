@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL for Healthcare Professionals]] — Intermediate · 2h 14m · 59,960 learners
+- [SQL for Healthcare Professionals](../../Courses/Data%20Science/SQL%20for%20Healthcare%20Professionals.md) — Intermediate · 2h 14m · 59,960 learners
 
 ## Related Skills
 
-- [[Data Analysis]] — 1 shared course
-- [[SQL]] — 1 shared course
+- [Data Analysis](../Data%20Science/Data%20Analysis.md) — 1 shared course
+- [SQL](../Data%20Science/SQL.md) — 1 shared course

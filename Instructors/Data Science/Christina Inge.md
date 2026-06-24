@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Marketing Analytics Foundations]]
+- [Marketing Analytics Foundations](../../Courses/Data%20Science/Marketing%20Analytics%20Foundations.md)

@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Compliance and Regulations for Generative AI]]
+- [Compliance and Regulations for Generative AI](../../Courses/Artificial%20Intelligence%20(AI)/Compliance%20and%20Regulations%20for%20Generative%20AI.md)

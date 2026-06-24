@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel Introduction To Formulas And Functions]] — Intermediate · 246,557 learners
+- [Excel Introduction To Formulas And Functions](../../Courses/Data%20Science/Excel%20Introduction%20To%20Formulas%20And%20Functions.md) — Intermediate · 246,557 learners
 
 ## Related Skills
 
-- [[Microsoft Excel]] — 1 shared course
+- [Microsoft Excel](Microsoft%20Excel.md) — 1 shared course

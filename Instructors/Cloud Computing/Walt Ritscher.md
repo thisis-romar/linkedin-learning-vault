@@ -30,8 +30,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[C- Practice- Generic Collections]]
-- [[Azure AI Studio First Look]]
-- [[Azure AI- The Big Picture]]
-- [[Azure DevOps for Beginners]]
-- [[Azure Understanding The Big Picture]]
+- [C- Practice- Generic Collections](../../Courses/DevOps/C-%20Practice-%20Generic%20Collections.md)
+- [Azure AI Studio First Look](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Studio%20First%20Look.md)
+- [Azure AI- The Big Picture](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI-%20The%20Big%20Picture.md)
+- [Azure DevOps for Beginners](../../Courses/Cloud%20Computing/Azure%20DevOps%20for%20Beginners.md)
+- [Azure Understanding The Big Picture](../../Courses/Cloud%20Computing/Azure%20Understanding%20The%20Big%20Picture.md)

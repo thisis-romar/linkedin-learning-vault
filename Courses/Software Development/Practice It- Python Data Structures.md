@@ -18,11 +18,11 @@ github: "https://github.com/LinkedInLearning/practice-it-python-data-structs-248
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQErSxSAz69Qaw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666989847354?e=2147483647&amp;v=beta&amp;t=SBJ-vJsjZIegL_be-StDxLJAv84KGIHSrFI_yB1ZrSE"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[Python Hands-On Practice]]'
+  - '[Python Hands-On Practice](../../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)'
 prev_courses:
-  - '[[Hands-On Introduction- Python]]'
+  - '[Hands-On Introduction- Python](Hands-On%20Introduction-%20Python.md)'
 next_courses:
-  - '[[Python Practice- Operations]]'
+  - '[Python Practice- Operations](Python%20Practice-%20Operations.md)'
 path_nav: '[{"path":"Python Hands-On Practice","position":2,"total":14,"prev":"Hands-On Introduction- Python","next":"Python Practice- Operations"}]'
 path_count: 1
 tags:
@@ -88,11 +88,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980&t=0)** - [Kaylee] You can save yourself time and effort as well as make your code a lot more readable by using [[Python (Programming Language)|Python]] collections. A lot of Python developers have heard of collections, maybe you have even used them. The Python collections module is part of the Python Standard Library. It implements specialized container data types, providing alternatives to Python's general purpose built-in containers. This can be quite powerful and make our code more readable and efficient. In this course, we will practice using the paths as provided by this module. This way, they will come second nature to you in your daily job, side projects, or even interviews. Hi, I'm Kaylee Kohfeldt, and I'm a software engineer who enjoys teaching others about different ways to accomplish things through code. I'm excited to offer you some fun and simple practice problems to hone your collection skills. This is great for those who have some experience with Python, but you don't need to be a collections expert. We will go through each example together, so let's get started.
+> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980&t=0)** - [Kaylee] You can save yourself time and effort as well as make your code a lot more readable by using [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) collections. A lot of Python developers have heard of collections, maybe you have even used them. The Python collections module is part of the Python Standard Library. It implements specialized container data types, providing alternatives to Python's general purpose built-in containers. This can be quite powerful and make our code more readable and efficient. In this course, we will practice using the paths as provided by this module. This way, they will come second nature to you in your daily job, side projects, or even interviews. Hi, I'm Kaylee Kohfeldt, and I'm a software engineer who enjoys teaching others about different ways to accomplish things through code. I'm excited to offer you some fun and simple practice problems to hone your collection skills. This is great for those who have some experience with Python, but you don't need to be a collections expert. We will go through each example together, so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (6)
 > **CLI Commands:** python (6), make (2)
 > **Speakers:** - [kaylee] (1)
 
@@ -100,11 +100,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/what-you-should-know?u=76281980&t=0)** - [Instructor] We'll use Nadia's Garden Restaurant as an example throughout the course. Nadia's Garden offers many different menu items and also has delivery, so there is plenty of data to work with. We will go through several examples using Nadia's data. After each example, think about what class we used and other ways to solve the problem. I have configured a get [[GitHub]] CodeSpace for you to get started coding right away. If you're unfamiliar with [[Codespaces]], let me invite [[LinkedIn]] staff instructor Ray Villalobos to show you how to get started in CodeSpaces.
+> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/what-you-should-know?u=76281980&t=0)** - [Instructor] We'll use Nadia's Garden Restaurant as an example throughout the course. Nadia's Garden offers many different menu items and also has delivery, so there is plenty of data to work with. We will go through several examples using Nadia's data. After each example, think about what class we used and other ways to solve the problem. I have configured a get [GitHub](../../Skills/Software%20Development/GitHub.md) CodeSpace for you to get started coding right away. If you're unfamiliar with [Codespaces](../../Skills/Software%20Development/Codespaces.md), let me invite [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) staff instructor Ray Villalobos to show you how to get started in CodeSpaces.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (2), [[GitHub]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [Codespaces](../../Skills/Software%20Development/Codespaces.md) (2), [GitHub](../../Skills/Software%20Development/GitHub.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
@@ -112,19 +112,19 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]]. Codespaces is a code editor in the cloud with the full power of Visual Studio Code. It allows for real world hands on practice that mirrors [[Software Development]] in the workplace. This course was created using GitHub Codespaces. Using Codespaces, you have everything you need to get going without needing complex installations or build tools. One click and you're ready to go. To practice along with the course, you can create a codespace directly from the course overview page. First, click open next to GitHub Codespaces. If you're already logged in, you'll be directed to a getting started with GitHub Codespaces page. If you're not logged in, you'll be prompted to log in or create a free GitHub account first. From this page, click on create codespace on main. The first time you open up a codespace, it might take a few minutes to create the virtual machine. Once it's done, you'll enter the code editor environment. If you're familiar with Visual Studio Code, this is a special version of that editor running on GitHub's servers. Your course can have one or more extensions pre-installed based on the course you're taking. Those can be found in the extensions panel. Because this is a browser, it's easy to inadvertently close the browser window and lose the editor. If you do that, don't panic.
+> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning, and I'm going to show you how to work with LinkedIn Learning courses using [GitHub](../../Skills/Software%20Development/GitHub.md) [Codespaces](../../Skills/Software%20Development/Codespaces.md). Codespaces is a code editor in the cloud with the full power of Visual Studio Code. It allows for real world hands on practice that mirrors [Software Development](../../Topics/Software%20Development.md) in the workplace. This course was created using GitHub Codespaces. Using Codespaces, you have everything you need to get going without needing complex installations or build tools. One click and you're ready to go. To practice along with the course, you can create a codespace directly from the course overview page. First, click open next to GitHub Codespaces. If you're already logged in, you'll be directed to a getting started with GitHub Codespaces page. If you're not logged in, you'll be prompted to log in or create a free GitHub account first. From this page, click on create codespace on main. The first time you open up a codespace, it might take a few minutes to create the virtual machine. Once it's done, you'll enter the code editor environment. If you're familiar with Visual Studio Code, this is a special version of that editor running on GitHub's servers. Your course can have one or more extensions pre-installed based on the course you're taking. Those can be found in the extensions panel. Because this is a browser, it's easy to inadvertently close the browser window and lose the editor. If you do that, don't panic.
 >
 > **[1:33](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=93)** Codespaces saves everything you're doing on a virtual machine. You can always get the codespace back for this repo right here. Notice that it even remembered that I had opened the extensions panel. An alternate way to create a codespace is directly from one of our course's GitHub repositories. From here, click code and then create codespace on main. You can also restart a previous codespace from this location. GitHub Codespaces is compatible on devices with smaller screen sizes like mobile phones or tablets, but it is optimized for larger screens so we recommend that you practice along with this course on a laptop or desktop computer. The sample course I'm looking at is what is known as a flat branch repository. You can tell because there's a single branch when you click on the branch icon on the status bar. You can also tell because there are different folders for each of the videos in the course. This is a sample of what a multi branch repository looks like which is more common when you're working with web frameworks. If you go to the branch icon on the status bar, you can see that there's more than one branch. You can switch to the different branches using this menu. The branches are named with the chapter and the video number you're watching. If you see a B at the end of the branch, that's how the code looked at the beginning. If you see an E, that's how the code looked at the end.
 >
-> **[3:06](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=186)** Let's switch to how the code looked on chapter two and the third video. I'll choose the beginning branch. As you work through a course, you might make some changes on a branch. I'm going to make a minor edit on the index.[[HTML]] file right here. I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it. If I try to switch to another branch that causes major changes like say, 07_03e, I may see a dialogue box like this. If you don't care about saving your changes, you can simply hit the force checkout button. It will let you switch to that branch. You can then choose to discard the changes on this file. Your instructor will let you know what the folder structure is for your course. Forking lets you create your own copy of the repository on your account so that you can keep any changes that you've made, even if you've deleted the codespace. To create your own fork, you can click on the fork button on the repository. I'm going to hit create fork. I'll have my own copy of this repository, and if I want to, I can start a new codespace on that fork. This forked version is almost exactly
+> **[3:06](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=186)** Let's switch to how the code looked on chapter two and the third video. I'll choose the beginning branch. As you work through a course, you might make some changes on a branch. I'm going to make a minor edit on the index.[HTML](../../Skills/Web%20Development/HTML.md) file right here. I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it. If I try to switch to another branch that causes major changes like say, 07_03e, I may see a dialogue box like this. If you don't care about saving your changes, you can simply hit the force checkout button. It will let you switch to that branch. You can then choose to discard the changes on this file. Your instructor will let you know what the folder structure is for your course. Forking lets you create your own copy of the repository on your account so that you can keep any changes that you've made, even if you've deleted the codespace. To create your own fork, you can click on the fork button on the repository. I'm going to hit create fork. I'll have my own copy of this repository, and if I want to, I can start a new codespace on that fork. This forked version is almost exactly
 >
 > **[4:41](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=281)** like the original repository but it will let you push your own changes. Notice that the URL of the repository is slightly different. Let's go ahead and make a simple change to this file right here.
 >
-> **[5:00](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=300)** I'm going to save it. You'll note that there is an M right here as well as an asterisk on this branch. In the source control panel, you can also see a one for the change that we just made. Let's go ahead and try to commit this change. I'm going to hit the commit button and I'll ask it to go ahead and stage the changes. And then I'm going to hit this button here. I'll hit okay. You can also let it go ahead and run [[Git]] [[Fetch]]. That way, it'll automatically sync with your forked repo. Now that change will be stored in your own version of this repository. Don't worry if you forget to fork a repo and then try to push changes. Codespaces will also ask you if you want to create a fork automatically. Look for additional course specific tips from the instructor. Now, let's get back to the course.
+> **[5:00](https://www.linkedin.com/learning/practice-it-python-data-structures/using-github-codespaces-with-this-course-16045515?u=76281980&t=300)** I'm going to save it. You'll note that there is an M right here as well as an asterisk on this branch. In the source control panel, you can also see a one for the change that we just made. Let's go ahead and try to commit this change. I'm going to hit the commit button and I'll ask it to go ahead and stage the changes. And then I'm going to hit this button here. I'll hit okay. You can also let it go ahead and run [Git](../../Skills/Software%20Development/Git.md) [Fetch](../../Skills/Web%20Development/Fetch.md). That way, it'll automatically sync with your forked repo. Now that change will be stored in your own version of this repository. Don't worry if you forget to fork a repo and then try to push changes. Codespaces will also ask you if you want to create a fork automatically. Look for additional course specific tips from the instructor. Now, let's get back to the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [Codespaces](../../Skills/Software%20Development/Codespaces.md) (9), [GitHub](../../Skills/Software%20Development/GitHub.md) (8), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (2), [Software Development](../../Topics/Software%20Development.md) (1), [HTML](../../Skills/Web%20Development/HTML.md) (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -157,7 +157,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=0)** (technical blip noises) (keyboard buttons clicking)
 >
-> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=3)** - [Instructor] Okay. Here we are with our lovely paragraph about Nadia's Garden. Unfortunately, a lot of the complexity in this problem is from normalizing the data, not so much about the count itself. First, let's do a few simple things to normalize that data. We will use "lower" to ensure that [[Python (Programming Language)|Python]] properly counts words as the same, even if they have different capitalizations. Next, let's get rid of all punctuation. If there is punctuation after the [[Microsoft Word|word]], that might throw off the count. Like here, "restaurant" might be counted separately from "restaurant" with the period attached. We can use the string translator function to strip all punctuation. First, we import string. Then we use "translate" on our paragraph to convert all punctuation to nothing.
+> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=3)** - [Instructor] Okay. Here we are with our lovely paragraph about Nadia's Garden. Unfortunately, a lot of the complexity in this problem is from normalizing the data, not so much about the count itself. First, let's do a few simple things to normalize that data. We will use "lower" to ensure that [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) properly counts words as the same, even if they have different capitalizations. Next, let's get rid of all punctuation. If there is punctuation after the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md), that might throw off the count. Like here, "restaurant" might be counted separately from "restaurant" with the period attached. We can use the string translator function to strip all punctuation. First, we import string. Then we use "translate" on our paragraph to convert all punctuation to nothing.
 >
 > **[1:05](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-count-words-from-a-paragraph?u=76281980&t=65)** Finally, we are able to get to the core of our problem, actually counting the words. First, let's split the string into a list by using "string split." Then, we can count each word in "wordless" using "counter." Don't forget to import "counter" from collections. Let's return "counter" and see what it looks like.
 >
@@ -165,7 +165,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (2), [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **Non-Speech:** (technical blip noises) (1), (keyboard buttons clicking) (1)
 > **CLI Commands:** python (1)
 > **Best Practices:** don't forget (1)
@@ -186,11 +186,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-finding-the-most-common-products?u=76281980&t=3)** - [Narrator] So, of course, we are practicing Counter. So, let's import Counter again from collections. (keys tapping) Then, we can get our dictionary of counts by using Counter on our [[Microsoft Products|products]]. (keys tapping) Counter has a very neat built in method called Most Common. Since we are looking to find the most common products so that we can order enough of them, let's use it. You can pass any number to this function. We will use three. (keys tapping) Let's return it, run, and see what happens. As you can see, we have all of our products purchased in a list. We'll pass it to get common products and see what happens. (keys tapping) As you can see, does four does two and on four are our most popular items. Nadia should order lots of these. Now that we've practiced some more basic functionalities, let's try something a little more complicated.
+> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-finding-the-most-common-products?u=76281980&t=3)** - [Narrator] So, of course, we are practicing Counter. So, let's import Counter again from collections. (keys tapping) Then, we can get our dictionary of counts by using Counter on our [products](../../Skills/Software%20Development/Microsoft%20Products.md). (keys tapping) Counter has a very neat built in method called Most Common. Since we are looking to find the most common products so that we can order enough of them, let's use it. You can pass any number to this function. We will use three. (keys tapping) Let's return it, run, and see what happens. As you can see, we have all of our products purchased in a list. We'll pass it to get common products and see what happens. (keys tapping) As you can see, does four does two and on four are our most popular items. Nadia should order lots of these. Now that we've practiced some more basic functionalities, let's try something a little more complicated.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -200,11 +200,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-doing-inventory?u=76281980&t=0)** (pulsing electronic tones) (keyboard clacking)
 >
-> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-doing-inventory?u=76281980&t=3)** - [Instructor] Nadia wants to be sure that she has the right dishes prepared for delivery. We want to subtract her sales this week from her inventory. She also made some dishes, so let's add those to the inventory as well. First, you'll need to get the inventory into a counter object. Then, when you need to subtract, you can use the subtraction method in [[Python (Programming Language)|Python]]. To add, I recommend using the update method provided by the counter. If you'd like to practice by yourself, please pause the video here and practice. Otherwise, keep going to practice with me.
+> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-doing-inventory?u=76281980&t=3)** - [Instructor] Nadia wants to be sure that she has the right dishes prepared for delivery. We want to subtract her sales this week from her inventory. She also made some dishes, so let's add those to the inventory as well. First, you'll need to get the inventory into a counter object. Then, when you need to subtract, you can use the subtraction method in [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md). To add, I recommend using the update method provided by the counter. If you'd like to practice by yourself, please pause the video here and practice. Otherwise, keep going to practice with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -240,11 +240,11 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980&t=1)** (keyboard clicking)
 >
-> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980&t=3)** - [Instructor] Imagine you want to keep track of the last five foods you ordered from Nadia, and only the last five foods. How can you accomplish this with [[Python (Programming Language)|Python]] using collections? First, you will have to make a deque. Then you can append foods to it. I would encourage you to try this with a typical deque first and see what happens. Then you can set the max length property when you create your deque. This will keep only five foods at a time. If you'd like to practice by yourself, please pause the video here and practice. Otherwise, keep going to practice with me.
+> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980&t=3)** - [Instructor] Imagine you want to keep track of the last five foods you ordered from Nadia, and only the last five foods. How can you accomplish this with [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) using collections? First, you will have to make a deque. Then you can append foods to it. I would encourage you to try this with a typical deque first and see what happens. Then you can set the max length property when you create your deque. This will keep only five foods at a time. If you'd like to practice by yourself, please pause the video here and practice. Otherwise, keep going to practice with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -279,11 +279,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-palindrome-checker?u=76281980&t=0)** (pulsing electronic tones) (keyboard clacking)
 >
-> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-palindrome-checker?u=76281980&t=3)** - [Instructor] Let's practice one of dict's key functionalities, popping from either side of the dict. We can practice this by checking for palindromes in some of the new menu items Nadia is considering. If Nadia was considering adding a Tacocat, that would be a palindrome. The [[Microsoft Word|word]] is the same backwards and forward. Think about how you can continually check on the equality of the first and last letter of a word using popleft() and pop(). If the letters are not the same, then the word is not a palindrome. If you'd like to practice by yourself, please pause the video here and practice. Otherwise, keep going to practice with me.
+> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-palindrome-checker?u=76281980&t=3)** - [Instructor] Let's practice one of dict's key functionalities, popping from either side of the dict. We can practice this by checking for palindromes in some of the new menu items Nadia is considering. If Nadia was considering adding a Tacocat, that would be a palindrome. The [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) is the same backwards and forward. Think about how you can continually check on the equality of the first and last letter of a word using popleft() and pop(). If the letters are not the same, then the word is not a palindrome. If you'd like to practice by yourself, please pause the video here and practice. Otherwise, keep going to practice with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (3)
 > **Speakers:** - [instructor] (1)
 
 #### [Check it: Palindrome checker](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980)
@@ -292,7 +292,7 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980&t=0)** - [Lecturer] As always, we need to import "deque" from "collections".
 >
-> **[0:12](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980&t=12)** I'm going to break "check_palindrome" out, into another function. This way, in "main", we can call "check_palindrome," after we choose our [[Microsoft Word|word]].
+> **[0:12](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980&t=12)** I'm going to break "check_palindrome" out, into another function. This way, in "main", we can call "check_palindrome," after we choose our [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md).
 >
 > **[0:35](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-palindrome-checker?u=76281980&t=35)** In "check_palindrome," first, we need to make our deque, "d".
 >
@@ -302,7 +302,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (3)
 > **Code Identifiers:** check_palindrome (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -452,11 +452,11 @@ created: 2026-05-03
 >
 > **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980&t=0)** (low beeping) (keyboard clacking)
 >
-> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980&t=3)** - [Instructor] Let's talk about our last collections container, DefaultDict. A DefaultDict is a subclass of [[Python (Programming Language)|Python]]'s dictionary class. The only difference is that DefaultDict allows you to set a default value when a key is not present, instead of raising a key error. We can practice using a DefaultDict with more data from Nadia's Garden. Nadia has a list of dishes, but somehow she accidentally duplicated several of them. She wants to organize these by entree, salad, starter, and dessert while removing the duplicates, so she can create a menu. Practice categorizing each item in this list while removing the duplicates. You'll have to make a DefaultDict, and use a set as the default value. Then input each item. As you can see, we use named tuples for the data, which gives you a chance to work with them a bit more. If you'd like to practice by yourself, please pause the video here and practice. Otherwise, keep going to practice with me.
+> **[0:03](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980&t=3)** - [Instructor] Let's talk about our last collections container, DefaultDict. A DefaultDict is a subclass of [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md)'s dictionary class. The only difference is that DefaultDict allows you to set a default value when a key is not present, instead of raising a key error. We can practice using a DefaultDict with more data from Nadia's Garden. Nadia has a list of dishes, but somehow she accidentally duplicated several of them. She wants to organize these by entree, salad, starter, and dessert while removing the duplicates, so she can create a menu. Practice categorizing each item in this list while removing the duplicates. You'll have to make a DefaultDict, and use a set as the default value. Then input each item. As you can see, we use named tuples for the data, which gives you a chance to work with them a bit more. If you'd like to practice by yourself, please pause the video here and practice. Otherwise, keep going to practice with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -526,11 +526,11 @@ created: 2026-05-03
 >
 > **[2:40](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-calculating-gain-and-loss?u=76281980&t=160)** Let's print our dictionary and see what we have.
 >
-> **[2:54](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-calculating-gain-and-loss?u=76281980&t=174)** Use a lowercase I in item. Now that we are done you can see every item and its quantity. It looks like DES 4 is the most popular item with 12 orders. Thank you for practicing [[Python (Programming Language)|Python]] Collections with me. I hope you find new creative ways to use collections now that you have a good handle on some of them.
+> **[2:54](https://www.linkedin.com/learning/practice-it-python-data-structures/check-it-calculating-gain-and-loss?u=76281980&t=174)** Use a lowercase I in item. Now that we are done you can see every item and its quantity. It looks like DES 4 is the most popular item with 12 orders. Thank you for practicing [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) Collections with me. I hope you find new creative ways to use collections now that you have a good handle on some of them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** csv (1), des (1)
 > **Speakers:** - [female (1)
@@ -544,11 +544,11 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980&t=0)** - [Instructor] We've reached the end of our course. At this point, we have practiced with several different data types from the collections module. As some next steps, go through what you have learned here and see how you can expand it. Can you use our data in fun and different ways? Are there places we could have used namedtuple where we didn't? Make sure to experiment and have fun. Try using counter, deque, namedtuple, and defautdict as you develop your [[Python (Programming Language)|Python]] applications. You might find that these come to mind a lot as you're going through your day-to-day life. You might find a great deal of these will help your code readability immensely. Explore other offerings from the Python collections module and keep an eye out for further additions. Make sure you keep in mind how these additions will help your code be more readable and easier for the next developer who comes along.
+> **[0:00](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980&t=0)** - [Instructor] We've reached the end of our course. At this point, we have practiced with several different data types from the collections module. As some next steps, go through what you have learned here and see how you can expand it. Can you use our data in fun and different ways? Are there places we could have used namedtuple where we didn't? Make sure to experiment and have fun. Try using counter, deque, namedtuple, and defautdict as you develop your [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) applications. You might find that these come to mind a lot as you're going through your day-to-day life. You might find a great deal of these will help your code readability immensely. Explore other offerings from the Python collections module and keep an eye out for further additions. Make sure you keep in mind how these additions will help your code be more readable and easier for the next developer who comes along.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [Python](../../Skills/Software%20Development/Python%20(Programming%20Language).md) (2)
 > **CLI Commands:** make (2), python (2), find (2)
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
@@ -557,7 +557,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[Kaylee Kohfeldt]]
+- [Kaylee Kohfeldt](../../Instructors/Software%20Development/Kaylee%20Kohfeldt.md)
 
 ## Resources
 
@@ -570,22 +570,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Python Hands-On Practice]]
-← [[Hands-On Introduction- Python]] | **2 of 14** | [[Python Practice- Operations]] →
+### In [Python Hands-On Practice](../../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)
+← [Hands-On Introduction- Python](Hands-On%20Introduction-%20Python.md) | **2 of 14** | [Python Practice- Operations](Python%20Practice-%20Operations.md) →
 
 ## Appears In
 
-- [[Python Hands-On Practice]]
+- [Python Hands-On Practice](../../Paths/Software%20Development/Learning%20Paths/Python%20Hands-On%20Practice.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Python Data Structures- Trees]] — Python (Programming Language), Data Structures
-- [[Python Data Structures- Linked Lists]] — Python (Programming Language), Data Structures
-- [[Python Data Structures- Stacks, Deques, and Queues]] — Python (Programming Language), Data Structures
-- [[Python Data Structures and Algorithms]] — Python (Programming Language), Data Structures
-- [[Learning ArcGIS Python Scripting]] — Python (Programming Language)
+- [Python Data Structures- Trees](../Database%20Management/Python%20Data%20Structures-%20Trees.md) — Python (Programming Language), Data Structures
+- [Python Data Structures- Linked Lists](Python%20Data%20Structures-%20Linked%20Lists.md) — Python (Programming Language), Data Structures
+- [Python Data Structures- Stacks, Deques, and Queues](Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md) — Python (Programming Language), Data Structures
+- [Python Data Structures and Algorithms](Python%20Data%20Structures%20and%20Algorithms.md) — Python (Programming Language), Data Structures
+- [Learning ArcGIS Python Scripting](../Data%20Science/Learning%20ArcGIS%20Python%20Scripting.md) — Python (Programming Language)
 
 ---
 

@@ -21,19 +21,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Generative Ai And Llmops Building Blocks And Applications]]'
+  - course: '[Generative Ai And Llmops Building Blocks And Applications](../../../Courses/Artificial%20Intelligence%20(AI)/Generative%20Ai%20And%20Llmops%20Building%20Blocks%20And%20Applications.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[LLMOps in Practice- A Deep Dive]]'
+  - course: '[LLMOps in Practice- A Deep Dive](../../../Courses/Artificial%20Intelligence%20(AI)/LLMOps%20in%20Practice-%20A%20Deep%20Dive.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced LLMOps- Deploying and Managing LLMs in Production]]'
+  - course: '[Advanced LLMOps- Deploying and Managing LLMs in Production](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMOps-%20Deploying%20and%20Managing%20LLMs%20in%20Production.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[LLM Foundations- Building Effective Applications for Enterprises]]'
+  - course: '[LLM Foundations- Building Effective Applications for Enterprises](../../../Courses/Artificial%20Intelligence%20(AI)/LLM%20Foundations-%20Building%20Effective%20Applications%20for%20Enterprises.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -48,21 +48,21 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Generative Ai And Llmops Building Blocks And Applications]]
-2. [[LLMOps in Practice- A Deep Dive]] _(4h 26m)_
-3. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] _(1h 45m)_
-4. [[LLM Foundations- Building Effective Applications for Enterprises]] _(1h 43m)_
+1. [Generative Ai And Llmops Building Blocks And Applications](../../../Courses/Artificial%20Intelligence%20(AI)/Generative%20Ai%20And%20Llmops%20Building%20Blocks%20And%20Applications.md)
+2. [LLMOps in Practice- A Deep Dive](../../../Courses/Artificial%20Intelligence%20(AI)/LLMOps%20in%20Practice-%20A%20Deep%20Dive.md) _(4h 26m)_
+3. [Advanced LLMOps- Deploying and Managing LLMs in Production](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMOps-%20Deploying%20and%20Managing%20LLMs%20in%20Production.md) _(1h 45m)_
+4. [LLM Foundations- Building Effective Applications for Enterprises](../../../Courses/Artificial%20Intelligence%20(AI)/LLM%20Foundations-%20Building%20Effective%20Applications%20for%20Enterprises.md) _(1h 43m)_
 
 ## Course Flow
 
-1. [[Generative Ai And Llmops Building Blocks And Applications]] → 2. [[LLMOps in Practice- A Deep Dive]] → 3. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] → 4. [[LLM Foundations- Building Effective Applications for Enterprises]]
+1. [Generative Ai And Llmops Building Blocks And Applications](../../../Courses/Artificial%20Intelligence%20(AI)/Generative%20Ai%20And%20Llmops%20Building%20Blocks%20And%20Applications.md) → 2. [LLMOps in Practice- A Deep Dive](../../../Courses/Artificial%20Intelligence%20(AI)/LLMOps%20in%20Practice-%20A%20Deep%20Dive.md) → 3. [Advanced LLMOps- Deploying and Managing LLMs in Production](../../../Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMOps-%20Deploying%20and%20Managing%20LLMs%20in%20Production.md) → 4. [LLM Foundations- Building Effective Applications for Enterprises](../../../Courses/Artificial%20Intelligence%20(AI)/LLM%20Foundations-%20Building%20Effective%20Applications%20for%20Enterprises.md)
 
 ## Topics
 
-- [[Artificial Intelligence (AI)]]
-- [[Network and System Administration]]
-- [[Software Development]]
+- [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Artificial Intelligence (AI)]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Artificial Intelligence (AI)](../../../Topics/Artificial%20Intelligence%20(AI).md)

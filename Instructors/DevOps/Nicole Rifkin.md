@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Docker Compose]]
+- [Learning Docker Compose](../../Courses/DevOps/Learning%20Docker%20Compose.md)

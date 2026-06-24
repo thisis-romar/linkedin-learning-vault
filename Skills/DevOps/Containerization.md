@@ -22,11 +22,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Docker Essential Training]] — Intermediate · 6h 6m · 148,526 learners
-- [[Securing Containers and Kubernetes Ecosystem]] — Intermediate · 2h 8m · 9,090 learners
+- [Docker Essential Training](../../Courses/DevOps/Docker%20Essential%20Training.md) — Intermediate · 6h 6m · 148,526 learners
+- [Securing Containers and Kubernetes Ecosystem](../../Courses/DevOps/Securing%20Containers%20and%20Kubernetes%20Ecosystem.md) — Intermediate · 2h 8m · 9,090 learners
 
 ## Related Skills
 
-- [[Cybersecurity]] — 1 shared course
-- [[Kubernetes]] — 1 shared course
-- [[Docker Products]] — 1 shared course
+- [Cybersecurity](../../Topics/Cybersecurity.md) — 1 shared course
+- [Kubernetes](Kubernetes.md) — 1 shared course
+- [Docker Products](Docker%20Products.md) — 1 shared course

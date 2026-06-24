@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[ChatGPT- Crafting Exceptional GPTs for Enhanced Productivity and Innovation]]
-- [[ChatGPT- Perfecting Your Output with Templates in Prompts]]
-- [[Leading with Generative AI- Master Change Management for Success]]
+- [ChatGPT- Crafting Exceptional GPTs for Enhanced Productivity and Innovation](../../Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Crafting%20Exceptional%20GPTs%20for%20Enhanced%20Productivity%20and%20Innovation.md)
+- [ChatGPT- Perfecting Your Output with Templates in Prompts](../../Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Perfecting%20Your%20Output%20with%20Templates%20in%20Prompts.md)
+- [Leading with Generative AI- Master Change Management for Success](../../Courses/Cloud%20Computing/Leading%20with%20Generative%20AI-%20Master%20Change%20Management%20for%20Success.md)

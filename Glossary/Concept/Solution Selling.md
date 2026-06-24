@@ -17,18 +17,18 @@ created: 2026-05-03
 
 # Solution Selling
 
-> **Type:** Concept | **Courses:** 1 | **Topics:** [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 1 | **Topics:** [Cybersecurity](../../Topics/Cybersecurity.md)
 
 ## Courses
 
-1. [[Solution Sales]] — 11 mentions
+1. [Solution Sales](../../Courses/Cybersecurity/Solution%20Sales.md) — 11 mentions
 
 ## Learning Paths
 
-1. [[Cybersecurity for Sales Professionals]] — 11 total mentions
+1. [Cybersecurity for Sales Professionals](../../Paths/Cybersecurity/Learning%20Paths/Cybersecurity%20for%20Sales%20Professionals.md) — 11 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

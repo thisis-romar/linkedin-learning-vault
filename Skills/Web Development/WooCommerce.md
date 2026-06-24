@@ -22,16 +22,16 @@ created: 2026-05-03
 
 ## Courses
 
-- [[WordPress Ecommerce- WooCommerce]] — Beginner · 2h 39m · 5,709 learners
+- [WordPress Ecommerce- WooCommerce](../../Courses/Web%20Development/WordPress%20Ecommerce-%20WooCommerce.md) — Beginner · 2h 39m · 5,709 learners
 
 ## Mentioned In Transcripts _(350 total mentions)_
 
-1. [[WordPress Ecommerce- WooCommerce]] — 181 mentions
-2. [[Building a WordPress Membership Site with Ecommerce]] — 104 mentions
-3. [[WordPress- Everything about Plugins]] — 16 mentions
-4. [[Wordpress Ecommerce]] — 16 mentions
-5. [[Wordpress Building A Secure Site]] — 15 mentions
-6. [[WordPress- Speeding Up Your Site]] — 10 mentions
-7. [[WordPress- SEO]] — 5 mentions
-8. [[WordPress Essential Training]] — 2 mentions
-9. [[Interaction Design- Software and Web Design Patterns]] — 1 mentions
+1. [WordPress Ecommerce- WooCommerce](../../Courses/Web%20Development/WordPress%20Ecommerce-%20WooCommerce.md) — 181 mentions
+2. [Building a WordPress Membership Site with Ecommerce](../../Courses/Web%20Development/Building%20a%20WordPress%20Membership%20Site%20with%20Ecommerce.md) — 104 mentions
+3. [WordPress- Everything about Plugins](../../Courses/Cybersecurity/WordPress-%20Everything%20about%20Plugins.md) — 16 mentions
+4. [Wordpress Ecommerce](../../Courses/Web%20Development/Wordpress%20Ecommerce.md) — 16 mentions
+5. [Wordpress Building A Secure Site](../../Courses/Web%20Development/Wordpress%20Building%20A%20Secure%20Site.md) — 15 mentions
+6. [WordPress- Speeding Up Your Site](../../Courses/Web%20Development/WordPress-%20Speeding%20Up%20Your%20Site.md) — 10 mentions
+7. [WordPress- SEO](../../Courses/Web%20Development/WordPress-%20SEO.md) — 5 mentions
+8. [WordPress Essential Training](../../Courses/Web%20Development/WordPress%20Essential%20Training.md) — 2 mentions
+9. [Interaction Design- Software and Web Design Patterns](../../Courses/Software%20Development/Interaction%20Design-%20Software%20and%20Web%20Design%20Patterns.md) — 1 mentions

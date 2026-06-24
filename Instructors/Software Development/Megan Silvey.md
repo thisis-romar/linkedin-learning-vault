@@ -22,6 +22,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Build Three Real-World Python Applications]]
-- [[Complete Your First Project in R]]
-- [[R Tidyverse Applications]]
+- [Build Three Real-World Python Applications](../../Courses/Software%20Development/Build%20Three%20Real-World%20Python%20Applications.md)
+- [Complete Your First Project in R](../../Courses/Data%20Science/Complete%20Your%20First%20Project%20in%20R.md)
+- [R Tidyverse Applications](../../Courses/Data%20Science/R%20Tidyverse%20Applications.md)

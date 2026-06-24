@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[A Practical Guide to Upskilling Your Organization on AI]] — 28m · 2,608,329 learners
+- [A Practical Guide to Upskilling Your Organization on AI](../../Courses/Artificial%20Intelligence%20(AI)/A%20Practical%20Guide%20to%20Upskilling%20Your%20Organization%20on%20AI.md) — 28m · 2,608,329 learners
 
 ## Related Skills
 
-- [[Employee Learning & Development]] — 1 shared course
-- [[AI for Business]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Employee Learning & Development](Employee%20Learning%20%26%20Development.md) — 1 shared course
+- [AI for Business](AI%20for%20Business.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

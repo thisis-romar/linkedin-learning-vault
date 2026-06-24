@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Postman Essential Training]]
+- [Postman Essential Training](../../Courses/Software%20Development/Postman%20Essential%20Training.md)

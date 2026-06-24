@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Getting Things Done]]
+- [Getting Things Done](../../Courses/Cloud%20Computing/Getting%20Things%20Done.md)

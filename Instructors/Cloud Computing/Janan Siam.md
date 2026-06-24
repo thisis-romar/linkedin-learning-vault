@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Accelerate Your Developer Career]]
+- [Accelerate Your Developer Career](../../Courses/Cloud%20Computing/Accelerate%20Your%20Developer%20Career.md)

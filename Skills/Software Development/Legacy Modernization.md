@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]] — Beginner · 41m · 3,954 learners
+- [Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud](../../Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%204%20Modernize%20Infrastructure%20and%20Applications%20with%20Google%20Cloud.md) — Beginner · 41m · 3,954 learners
 
 ## Related Skills
 
-- [[IT Infrastructure Management]] — 1 shared course
-- [[Google Cloud Platform (GCP)]] — 1 shared course
+- [IT Infrastructure Management](IT%20Infrastructure%20Management.md) — 1 shared course
+- [Google Cloud Platform (GCP)](Google%20Cloud%20Platform%20(GCP).md) — 1 shared course

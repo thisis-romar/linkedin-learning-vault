@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Power BI Top Skills]]
+- [Power BI Top Skills](../../Courses/Data%20Science/Power%20BI%20Top%20Skills.md)

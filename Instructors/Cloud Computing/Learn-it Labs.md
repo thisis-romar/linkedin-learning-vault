@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Azure AI- The Big Picture]]
-- [[Azure DevOps for Beginners]]
-- [[Azure Understanding The Big Picture]]
+- [Azure AI- The Big Picture](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI-%20The%20Big%20Picture.md)
+- [Azure DevOps for Beginners](../../Courses/Cloud%20Computing/Azure%20DevOps%20for%20Beginners.md)
+- [Azure Understanding The Big Picture](../../Courses/Cloud%20Computing/Azure%20Understanding%20The%20Big%20Picture.md)

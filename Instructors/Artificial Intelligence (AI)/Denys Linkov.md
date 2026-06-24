@@ -28,9 +28,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Getting Hands-On with GPT Models- Tips and Tricks]]
-- [[Gpt Foundations Building Ai Powered Apps]]
-- [[Prompt Engineering with Gemini (2024)]]
-- [[AI Orchestration- Foundations]]
-- [[AI Pricing and ROI- A Technical Breakdown]]
-- [[Prompt Engineering With Gemini]]
+- [Getting Hands-On with GPT Models- Tips and Tricks](../../Courses/Artificial%20Intelligence%20(AI)/Getting%20Hands-On%20with%20GPT%20Models-%20Tips%20and%20Tricks.md)
+- [Gpt Foundations Building Ai Powered Apps](../../Courses/Artificial%20Intelligence%20(AI)/Gpt%20Foundations%20Building%20Ai%20Powered%20Apps.md)
+- [Prompt Engineering with Gemini (2024)](../../Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20with%20Gemini%20(2024).md)
+- [AI Orchestration- Foundations](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Foundations.md)
+- [AI Pricing and ROI- A Technical Breakdown](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Pricing%20and%20ROI-%20A%20Technical%20Breakdown.md)
+- [Prompt Engineering With Gemini](../../Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20With%20Gemini.md)

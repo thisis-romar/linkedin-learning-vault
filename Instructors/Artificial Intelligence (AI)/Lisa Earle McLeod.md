@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[The AI-Driven Sales Professional- Streamline Systems and Exceed Targets]]
+- [The AI-Driven Sales Professional- Streamline Systems and Exceed Targets](../../Courses/Artificial%20Intelligence%20(AI)/The%20AI-Driven%20Sales%20Professional-%20Streamline%20Systems%20and%20Exceed%20Targets.md)

@@ -32,5 +32,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[What Is Generative AI-]]
-- [[AI Literacy for Business Leaders]]
+- [What Is Generative AI-](../../Courses/Artificial%20Intelligence%20(AI)/What%20Is%20Generative%20AI-.md)
+- [AI Literacy for Business Leaders](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Literacy%20for%20Business%20Leaders.md)

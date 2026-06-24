@@ -16,9 +16,9 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D560DAQFaDTDoJostiQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1692903082788?e=2147483647&amp;v=beta&amp;t=G_Umkq2gwOUQY-kQE9Q5I_1JzvD5zj8gLRI8DZsr4Bc"
 linkedin_topic: Software Development
 learning_paths:
-  - '[[Explore a Career as a JavaScript Developer]]'
+  - '[Explore a Career as a JavaScript Developer](../../Paths/Software%20Development/Learning%20Paths/Explore%20a%20Career%20as%20a%20JavaScript%20Developer.md)'
 prev_courses:
-  - '[[JavaScript- Five Advanced Challenges and Concepts]]'
+  - '[JavaScript- Five Advanced Challenges and Concepts](JavaScript-%20Five%20Advanced%20Challenges%20and%20Concepts.md)'
 path_nav: '[{"path":"Explore a Career as a JavaScript Developer","position":5,"total":5,"prev":"JavaScript- Five Advanced Challenges and Concepts","next":null}]'
 path_count: 1
 tags:
@@ -65,29 +65,29 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980&t=0)** - [Instructor] This coding challenge will test your knowledge of [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts with [[JavaScript]]. You'll learn how to create JavaScript objects with function syntax and class syntax. You'll learn how to declare private variables and functions and how to use getters and setters. Let's get started.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980&t=0)** - [Instructor] This coding challenge will test your knowledge of [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) concepts with [JavaScript](../../Skills/Software%20Development/JavaScript.md). You'll learn how to create JavaScript objects with function syntax and class syntax. You'll learn how to declare private variables and functions and how to use getters and setters. Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (2), [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (1)
 > **Speakers:** - [instructor] (1)
 
 #### [What you should know](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=0)** - [Instructor] Before jumping into this coding challenge, it's important to have some experience with [[JavaScript]] variables and functions. Additionally, it will be helpful if you're comfortable working with JavaScript arrays and objects. We'll use array methods like filter, reduce, and map. You also may want to learn about JavaScript objects before taking these challenges. While we'll learn some high level concepts, this course isn't meant to teach you all about [[Object-Oriented Programming (OOP)|object-oriented programming]]. To learn more about JavaScript object-oriented programming check out this course on [[LinkedIn]] Learning.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=0)** - [Instructor] Before jumping into this coding challenge, it's important to have some experience with [JavaScript](../../Skills/Software%20Development/JavaScript.md) variables and functions. Additionally, it will be helpful if you're comfortable working with JavaScript arrays and objects. We'll use array methods like filter, reduce, and map. You also may want to learn about JavaScript objects before taking these challenges. While we'll learn some high level concepts, this course isn't meant to teach you all about [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md). To learn more about JavaScript object-oriented programming check out this course on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (4), [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (2), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Speakers:** - [instructor] (1)
 
 #### [Introduction to CoderPad](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/introduction-to-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/introduction-to-coderpad?u=76281980&t=0)** - [Instructor] On the top left, you'll see a list of parameters and functions that your [[JavaScript]] objects will take. Parameters are values that will be passed into your code and they have to be of a particular data type. The return value also has to be of a particular type. You'll also see that noted here. The constraints section has useful information about the parameters that will be passed in. The examples show different parameter values and what results would be returned for each test case. Create your answer in the top right of the code editor. There are comments in the starting code showing you where to put your solution. When you click Test my code, you'll see a message indicating whether your code returned a correct result. If your code isn't successful, you can ask for help. The showExpectedResult and showHints variables determine whether you'll see the expected result and any hints. Change them to a value of true to control the output.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/introduction-to-coderpad?u=76281980&t=0)** - [Instructor] On the top left, you'll see a list of parameters and functions that your [JavaScript](../../Skills/Software%20Development/JavaScript.md) objects will take. Parameters are values that will be passed into your code and they have to be of a particular data type. The return value also has to be of a particular type. You'll also see that noted here. The constraints section has useful information about the parameters that will be passed in. The examples show different parameter values and what results would be returned for each test case. Create your answer in the top right of the code editor. There are comments in the starting code showing you where to put your solution. When you click Test my code, you'll see a message indicating whether your code returned a correct result. If your code isn't successful, you can ask for help. The showExpectedResult and showHints variables determine whether you'll see the expected result and any hints. Change them to a value of true to control the output.
 >
 > **[1:13](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/introduction-to-coderpad?u=76281980&t=73)** The code editor in the lower right shows how your solution is used. You can change that code to experiment with different test cases.
 >
@@ -95,7 +95,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -109,7 +109,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980&t=0)** - [Instructor] First, let's create our student object. We'll use [[JavaScript]] functions for this. Student takes two parameters, name and grades, which is an array of integers from 0 to 100.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980&t=0)** - [Instructor] First, let's create our student object. We'll use [JavaScript](../../Skills/Software%20Development/JavaScript.md) functions for this. Student takes two parameters, name and grades, which is an array of integers from 0 to 100.
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980&t=18)** Next, let's create the getGrades function. We'll use the prototype dot notation on the student function to create this. It will return the students' grades. We can create the checkIsPassing function in the same way. We'll use the calculateGPA function that was provided to us to get the students' GPA. The calculateGPA function takes a list of the students' grades and uses array.reduce to sum the total of all the grades. It then divides that sum by the total number of grades and floors the decimal value. This gives us the GPA. Once we get the GPA, we'll return true if the GPA is greater than 70.
 >
@@ -121,7 +121,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (1)
 > **Code Identifiers:** checkispassing (2), calculategpa (2), getgrades (1), getroster (1), foreach (1)
 > **Env Vars:** gpa (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -131,7 +131,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-book-function-with-object-create?u=76281980&t=0)** - [Instructor] Let's first create the book object. We'll use [[JavaScript]] functions to do this. The book function takes four parameters. Title, author, quantity, and edition. We'll use this.property name to set the properties on the instance of the book object. (keyboard keys clicking)
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-book-function-with-object-create?u=76281980&t=0)** - [Instructor] Let's first create the book object. We'll use [JavaScript](../../Skills/Software%20Development/JavaScript.md) functions to do this. The book function takes four parameters. Title, author, quantity, and edition. We'll use this.property name to set the properties on the instance of the book object. (keyboard keys clicking)
 >
 > **[0:28](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-book-function-with-object-create?u=76281980&t=28)** Now, we can define the set addition function using object.define property. This function allows us to either define a new property on an object, or modify an existing property. (keyboard keys clicking)
 >
@@ -145,7 +145,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (2)
 > **Non-Speech:** (keyboard keys clicking) (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -154,7 +154,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-country-with-classes?u=76281980&t=0)** - [Instructor] To create the Country class, we'll use [[JavaScript]] class notation. The Country class constructor takes four parameters: name, continent, currency, and population. We'll place these inside the constructor function.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-country-with-classes?u=76281980&t=0)** - [Instructor] To create the Country class, we'll use [JavaScript](../../Skills/Software%20Development/JavaScript.md) class notation. The Country class constructor takes four parameters: name, continent, currency, and population. We'll place these inside the constructor function.
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-country-with-classes?u=76281980&t=37)** To get the overview of a country, we can create a getOverview function inside of a class. This will return the template literal provided in the requirement section of this challenge.
 >
@@ -164,7 +164,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (1)
 > **Code Identifiers:** getoverview (1), setpopulation (1), newpopulation (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -192,7 +192,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-user-admin-class-with-private-properties?u=76281980&t=0)** - [Instructor] We'll create the user object using [[JavaScript]] class syntax. The user class constructor takes two parameters, username and password. Since password is a private variable, we'll prepend the property name with a hash symbol. Additionally, we'll declare password as a private variable above the constructor. (keyboard clacking)
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-user-admin-class-with-private-properties?u=76281980&t=0)** - [Instructor] We'll create the user object using [JavaScript](../../Skills/Software%20Development/JavaScript.md) class syntax. The user class constructor takes two parameters, username and password. Since password is a private variable, we'll prepend the property name with a hash symbol. Additionally, we'll declare password as a private variable above the constructor. (keyboard clacking)
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-user-admin-class-with-private-properties?u=76281980&t=32)** Now we can create the resetPassword function. This takes one parameter, newPassword. We don't want the user to be able to directly alter the password, so we'll create another private function that will do the updating. We'll call our private function updatePassword. It will take the newPassword parameter as well. To make this function private, we'll prepend a hash symbol to the function name like we did with our password variable. (keyboard clacking)
 >
@@ -204,7 +204,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (1)
 > **Code Identifiers:** resetpassword (2), newpassword (2), updatepassword (2), isadmin (1), deleteuser (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -220,18 +220,18 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=0)** - [Instructor] Congratulations! You finished [[JavaScript]] Coding Labs for [[Object-Oriented Programming (OOP)|object-oriented programming]]. You are now ready to continue on with your JavaScript journey. If you haven't learned any JavaScript frameworks or libraries, now is a great time to start. I recommend learning one, like [[Vue.js|Vue]],js or [[React.js|React]]. I hope you enjoyed this short coding lab. For more fun challenges, check out the full library of coding challenges on [[LinkedIn]] Learning.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=0)** - [Instructor] Congratulations! You finished [JavaScript](../../Skills/Software%20Development/JavaScript.md) Coding Labs for [object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md). You are now ready to continue on with your JavaScript journey. If you haven't learned any JavaScript frameworks or libraries, now is a great time to start. I recommend learning one, like [Vue](../../Skills/Web%20Development/Vue.js.md),js or [React](../../Skills/Web%20Development/React.js.md). I hope you enjoyed this short coding lab. For more fun challenges, check out the full library of coding challenges on [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Vue.js|Vue]] (1), [[React.js|React]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [JavaScript](../../Skills/Software%20Development/JavaScript.md) (3), [Object-oriented programming](../../Skills/Software%20Development/Object-Oriented%20Programming%20(OOP).md) (1), [Vue](../../Skills/Web%20Development/Vue.js.md) (1), [React](../../Skills/Web%20Development/React.js.md) (1), [LinkedIn](../../Skills/Web%20Development/LinkedIn.md) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
 
 ## Instructor
 
-- [[Emma Bostian]]
+- [Emma Bostian](../../Instructors/Software%20Development/Emma%20Bostian.md)
 
 ## Skills Covered
 
@@ -239,22 +239,22 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Explore a Career as a JavaScript Developer]]
-← [[JavaScript- Five Advanced Challenges and Concepts]] | **5 of 5**
+### In [Explore a Career as a JavaScript Developer](../../Paths/Software%20Development/Learning%20Paths/Explore%20a%20Career%20as%20a%20JavaScript%20Developer.md)
+← [JavaScript- Five Advanced Challenges and Concepts](JavaScript-%20Five%20Advanced%20Challenges%20and%20Concepts.md) | **5 of 5**
 
 ## Appears In
 
-- [[Explore a Career as a JavaScript Developer]]
+- [Explore a Career as a JavaScript Developer](../../Paths/Software%20Development/Learning%20Paths/Explore%20a%20Career%20as%20a%20JavaScript%20Developer.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[End-to-End JavaScript Testing with Cypress.io]] — JavaScript
-- [[Learning JavaScript Debugging]] — JavaScript
-- [[Foundational JavaScript Security]] — JavaScript
-- [[JavaScript- Test-Driven Development (ES6)]] — JavaScript
-- [[JavaScript- Best Practices for Data]] — JavaScript
+- [End-to-End JavaScript Testing with Cypress.io](End-to-End%20JavaScript%20Testing%20with%20Cypress.io.md) — JavaScript
+- [Learning JavaScript Debugging](Learning%20JavaScript%20Debugging.md) — JavaScript
+- [Foundational JavaScript Security](Foundational%20JavaScript%20Security.md) — JavaScript
+- [JavaScript- Test-Driven Development (ES6)](JavaScript-%20Test-Driven%20Development%20(ES6).md) — JavaScript
+- [JavaScript- Best Practices for Data](JavaScript-%20Best%20Practices%20for%20Data.md) — JavaScript
 
 ---
 

@@ -22,13 +22,13 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI Approaches to Business Challenges]] — 37m · 33,041 learners
-- [[Generative AI-Powered Strategic Business Analysis]] — Intermediate · 58m · 25,060 learners
+- [Generative AI Approaches to Business Challenges](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20Approaches%20to%20Business%20Challenges.md) — 37m · 33,041 learners
+- [Generative AI-Powered Strategic Business Analysis](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-Powered%20Strategic%20Business%20Analysis.md) — Intermediate · 58m · 25,060 learners
 
 ## Related Skills
 
-- [[Artificial Intelligence (AI)]] — 2 shared courses
-- [[AI for Business Analysis]] — 1 shared course
-- [[Business Analysis]] — 1 shared course
-- [[Generative AI Tools]] — 1 shared course
-- [[AI for Business]] — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 2 shared courses
+- [AI for Business Analysis](AI%20for%20Business%20Analysis.md) — 1 shared course
+- [Business Analysis](../Data%20Science/Business%20Analysis.md) — 1 shared course
+- [Generative AI Tools](Generative%20AI%20Tools.md) — 1 shared course
+- [AI for Business](AI%20for%20Business.md) — 1 shared course

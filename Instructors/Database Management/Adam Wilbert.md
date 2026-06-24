@@ -24,14 +24,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Database Foundations- Administration]]
-- [[Relational Databases Essential Training]]
-- [[Database Foundations- Data Structures]]
-- [[Database Foundations Database Management]]
-- [[Database Foundations- Application Development]]
-- [[Microsoft SQL Server 2022 Essential Training]]
-- [[Querying Microsoft SQL Server 2022]]
-- [[Implementing a Data Warehouse with SQL Server 2022]]
-- [[SQL Server Integration Services]]
-- [[SQL Server- Reporting Services]]
-- [[Program Databases with Transact-SQL]]
+- [Database Foundations- Administration](../../Courses/Data%20Science/Database%20Foundations-%20Administration.md)
+- [Relational Databases Essential Training](../../Courses/Data%20Science/Relational%20Databases%20Essential%20Training.md)
+- [Database Foundations- Data Structures](../../Courses/Data%20Science/Database%20Foundations-%20Data%20Structures.md)
+- [Database Foundations Database Management](../../Courses/Data%20Science/Database%20Foundations%20Database%20Management.md)
+- [Database Foundations- Application Development](../../Courses/Data%20Science/Database%20Foundations-%20Application%20Development.md)
+- [Microsoft SQL Server 2022 Essential Training](../../Courses/Database%20Management/Microsoft%20SQL%20Server%202022%20Essential%20Training.md)
+- [Querying Microsoft SQL Server 2022](../../Courses/Database%20Management/Querying%20Microsoft%20SQL%20Server%202022.md)
+- [Implementing a Data Warehouse with SQL Server 2022](../../Courses/Database%20Management/Implementing%20a%20Data%20Warehouse%20with%20SQL%20Server%202022.md)
+- [SQL Server Integration Services](../../Courses/Database%20Management/SQL%20Server%20Integration%20Services.md)
+- [SQL Server- Reporting Services](../../Courses/Database%20Management/SQL%20Server-%20Reporting%20Services.md)
+- [Program Databases with Transact-SQL](../../Courses/Software%20Development/Program%20Databases%20with%20Transact-SQL.md)

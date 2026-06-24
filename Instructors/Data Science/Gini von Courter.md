@@ -26,10 +26,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer]]
-- [[Outlook on the Web Essential Training]]
-- [[Learning SharePoint Online]]
-- [[Learning Power BI Desktop]]
-- [[Power Bi Essential Training]]
-- [[Slack Essential Training]]
-- [[Power BI Data Modeling with DAX]]
+- [Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer](../../Courses/Cloud%20Computing/Microsoft%20Collaboration-%20SharePoint%2C%20Teams%2C%20Groups%2C%20and%20Yammer.md)
+- [Outlook on the Web Essential Training](../../Courses/Cloud%20Computing/Outlook%20on%20the%20Web%20Essential%20Training.md)
+- [Learning SharePoint Online](../../Courses/Cloud%20Computing/Learning%20SharePoint%20Online.md)
+- [Learning Power BI Desktop](../../Courses/Data%20Science/Learning%20Power%20BI%20Desktop.md)
+- [Power Bi Essential Training](../../Courses/Data%20Science/Power%20Bi%20Essential%20Training.md)
+- [Slack Essential Training](../../Courses/Cloud%20Computing/Slack%20Essential%20Training.md)
+- [Power BI Data Modeling with DAX](../../Courses/Data%20Science/Power%20BI%20Data%20Modeling%20with%20DAX.md)

@@ -22,14 +22,14 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Excel- Dashboards for Beginners (2022)]] — Beginner · 45m · 95,947 learners
-- [[Excel- Creating a Basic Dashboard]] — Intermediate · 1h 6m · 78,039 learners
+- [Excel- Dashboards for Beginners (2022)](../../Courses/Data%20Science/Excel-%20Dashboards%20for%20Beginners%20(2022).md) — Beginner · 45m · 95,947 learners
+- [Excel- Creating a Basic Dashboard](../../Courses/Data%20Science/Excel-%20Creating%20a%20Basic%20Dashboard.md) — Intermediate · 1h 6m · 78,039 learners
 
 ## Related Skills
 
-- [[Microsoft Excel]] — 1 shared course
+- [Microsoft Excel](Microsoft%20Excel.md) — 1 shared course
 
 ## Mentioned In Transcripts _(4 total mentions)_
 
-1. [[Excel- Dashboards for Beginners (2022)]] — 3 mentions
-2. [[Excel- Creating a Basic Dashboard]] — 1 mentions
+1. [Excel- Dashboards for Beginners (2022)](../../Courses/Data%20Science/Excel-%20Dashboards%20for%20Beginners%20(2022).md) — 3 mentions
+2. [Excel- Creating a Basic Dashboard](../../Courses/Data%20Science/Excel-%20Creating%20a%20Basic%20Dashboard.md) — 1 mentions

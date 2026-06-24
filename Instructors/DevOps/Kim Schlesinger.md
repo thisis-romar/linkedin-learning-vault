@@ -28,5 +28,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Kubernetes]]
-- [[Kubernetes- Microservices]]
+- [Learning Kubernetes](../../Courses/Data%20Science/Learning%20Kubernetes.md)
+- [Kubernetes- Microservices](../../Courses/DevOps/Kubernetes-%20Microservices.md)

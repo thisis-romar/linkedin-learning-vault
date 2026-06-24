@@ -17,23 +17,23 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Accessibility For Managers And Non Designers]]'
+  - course: '[Accessibility For Managers And Non Designers](../../../Courses/Web%20Development/Accessibility%20For%20Managers%20And%20Non%20Designers.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Accessibility and AI- Bridging the Disability Divide]]'
+  - course: '[Accessibility and AI- Bridging the Disability Divide](../../../Courses/Web%20Development/Accessibility%20and%20AI-%20Bridging%20the%20Disability%20Divide.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Accessibility-First Design]]'
+  - course: '[Accessibility-First Design](../../../Courses/Web%20Development/Accessibility-First%20Design.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Digital Accessibility for the Modern Workplace (with Audio Descriptions)]]'
+  - course: '[Digital Accessibility for the Modern Workplace (with Audio Descriptions)](../../../Courses/Cloud%20Computing/Digital%20Accessibility%20for%20the%20Modern%20Workplace%20(with%20Audio%20Descriptions).md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Inclusive Learning Design]]'
+  - course: '[Inclusive Learning Design](../../../Courses/Web%20Development/Inclusive%20Learning%20Design.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -48,26 +48,26 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Accessibility For Managers And Non Designers]]
-2. [[Accessibility and AI- Bridging the Disability Divide]] _(1h 7m)_
-3. [[Accessibility-First Design]] _(1h 24m)_
-4. [[Digital Accessibility for the Modern Workplace (with Audio Descriptions)]] _(57m)_
-5. [[Inclusive Learning Design]] _(47m)_
+1. [Accessibility For Managers And Non Designers](../../../Courses/Web%20Development/Accessibility%20For%20Managers%20And%20Non%20Designers.md)
+2. [Accessibility and AI- Bridging the Disability Divide](../../../Courses/Web%20Development/Accessibility%20and%20AI-%20Bridging%20the%20Disability%20Divide.md) _(1h 7m)_
+3. [Accessibility-First Design](../../../Courses/Web%20Development/Accessibility-First%20Design.md) _(1h 24m)_
+4. [Digital Accessibility for the Modern Workplace (with Audio Descriptions)](../../../Courses/Cloud%20Computing/Digital%20Accessibility%20for%20the%20Modern%20Workplace%20(with%20Audio%20Descriptions).md) _(57m)_
+5. [Inclusive Learning Design](../../../Courses/Web%20Development/Inclusive%20Learning%20Design.md) _(47m)_
 
 ## Course Flow
 
-1. [[Accessibility For Managers And Non Designers]] → 2. [[Accessibility and AI- Bridging the Disability Divide]] → 3. [[Accessibility-First Design]] → 4. [[Digital Accessibility for the Modern Workplace (with Audio Descriptions)]] → 5. [[Inclusive Learning Design]]
+1. [Accessibility For Managers And Non Designers](../../../Courses/Web%20Development/Accessibility%20For%20Managers%20And%20Non%20Designers.md) → 2. [Accessibility and AI- Bridging the Disability Divide](../../../Courses/Web%20Development/Accessibility%20and%20AI-%20Bridging%20the%20Disability%20Divide.md) → 3. [Accessibility-First Design](../../../Courses/Web%20Development/Accessibility-First%20Design.md) → 4. [Digital Accessibility for the Modern Workplace (with Audio Descriptions)](../../../Courses/Cloud%20Computing/Digital%20Accessibility%20for%20the%20Modern%20Workplace%20(with%20Audio%20Descriptions).md) → 5. [Inclusive Learning Design](../../../Courses/Web%20Development/Inclusive%20Learning%20Design.md)
 
 ## Topics
 
-- [[Web Development]]
+- [Web Development](../../../Topics/Web%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Advance Your Digital Transformation Strategy as a Leader]] (1 shared courses)
+- [Advance Your Digital Transformation Strategy as a Leader](../../Cloud%20Computing/Learning%20Paths/Advance%20Your%20Digital%20Transformation%20Strategy%20as%20a%20Leader.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Web Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Web Development](../../../Topics/Web%20Development.md)

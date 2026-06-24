@@ -17,11 +17,11 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage]]'
+  - course: '[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage](../../../Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20Ex200%20Cert%20Prep%201%20Deploy%20Configure%20And%20Manage.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]]'
+  - course: '[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security](../../../Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20(EX200)%20Cert%20Prep-%202%20File%20Access%2C%20Storage%2C%20and%20Security.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -36,17 +36,17 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage]]
-2. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] _(3h 53m)_
+1. [Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage](../../../Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20Ex200%20Cert%20Prep%201%20Deploy%20Configure%20And%20Manage.md)
+2. [Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security](../../../Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20(EX200)%20Cert%20Prep-%202%20File%20Access%2C%20Storage%2C%20and%20Security.md) _(3h 53m)_
 
 ## Course Flow
 
-1. [[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage]] → 2. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]]
+1. [Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage](../../../Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20Ex200%20Cert%20Prep%201%20Deploy%20Configure%20And%20Manage.md) → 2. [Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security](../../../Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20(EX200)%20Cert%20Prep-%202%20File%20Access%2C%20Storage%2C%20and%20Security.md)
 
 ## Topics
 
-- [[Network and System Administration]]
+- [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)
 
 ---
 
-Part of [[000 Map of Content]] · [[Network and System Administration]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Network and System Administration](../../../Topics/Network%20and%20System%20Administration.md)

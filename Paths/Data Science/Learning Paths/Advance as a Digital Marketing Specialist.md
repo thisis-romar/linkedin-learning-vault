@@ -17,39 +17,39 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Digital Marketing Foundations]]'
+  - course: '[Digital Marketing Foundations](../../../Courses/Data%20Science/Digital%20Marketing%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Marketing Foundations]]'
+  - course: '[Marketing Foundations](../../../Courses/Data%20Science/Marketing%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[SEO Foundations]]'
+  - course: '[SEO Foundations](../../../Courses/Data%20Science/SEO%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Social Media Marketing Foundations]]'
+  - course: '[Social Media Marketing Foundations](../../../Courses/Data%20Science/Social%20Media%20Marketing%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Content Marketing Foundations]]'
+  - course: '[Content Marketing Foundations](../../../Courses/Data%20Science/Content%20Marketing%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Email and Newsletter Marketing Foundations]]'
+  - course: '[Email and Newsletter Marketing Foundations](../../../Courses/Data%20Science/Email%20and%20Newsletter%20Marketing%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Marketing Analytics Foundations]]'
+  - course: '[Marketing Analytics Foundations](../../../Courses/Data%20Science/Marketing%20Analytics%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Marketing Foundations- Ecommerce]]'
+  - course: '[Marketing Foundations- Ecommerce](../../../Courses/Data%20Science/Marketing%20Foundations-%20Ecommerce.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Marketing Foundations- Customer Decision Journey]]'
+  - course: '[Marketing Foundations- Customer Decision Journey](../../../Courses/Data%20Science/Marketing%20Foundations-%20Customer%20Decision%20Journey.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -64,30 +64,30 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Digital Marketing Foundations]]
-2. [[Marketing Foundations]] _(1h 15m)_
-3. [[SEO Foundations]] _(1h 41m)_
-4. [[Social Media Marketing Foundations]] _(1h 16m)_
-5. [[Content Marketing Foundations]] _(53m)_
-6. [[Email and Newsletter Marketing Foundations]] _(43m)_
-7. [[Marketing Analytics Foundations]] _(53m)_
-8. [[Marketing Foundations- Ecommerce]] _(1h 1m)_
-9. [[Marketing Foundations- Customer Decision Journey]] _(47m)_
+1. [Digital Marketing Foundations](../../../Courses/Data%20Science/Digital%20Marketing%20Foundations.md)
+2. [Marketing Foundations](../../../Courses/Data%20Science/Marketing%20Foundations.md) _(1h 15m)_
+3. [SEO Foundations](../../../Courses/Data%20Science/SEO%20Foundations.md) _(1h 41m)_
+4. [Social Media Marketing Foundations](../../../Courses/Data%20Science/Social%20Media%20Marketing%20Foundations.md) _(1h 16m)_
+5. [Content Marketing Foundations](../../../Courses/Data%20Science/Content%20Marketing%20Foundations.md) _(53m)_
+6. [Email and Newsletter Marketing Foundations](../../../Courses/Data%20Science/Email%20and%20Newsletter%20Marketing%20Foundations.md) _(43m)_
+7. [Marketing Analytics Foundations](../../../Courses/Data%20Science/Marketing%20Analytics%20Foundations.md) _(53m)_
+8. [Marketing Foundations- Ecommerce](../../../Courses/Data%20Science/Marketing%20Foundations-%20Ecommerce.md) _(1h 1m)_
+9. [Marketing Foundations- Customer Decision Journey](../../../Courses/Data%20Science/Marketing%20Foundations-%20Customer%20Decision%20Journey.md) _(47m)_
 
 ## Course Flow
 
-1. [[Digital Marketing Foundations]] → 2. [[Marketing Foundations]] → 3. [[SEO Foundations]] → 4. [[Social Media Marketing Foundations]] → 5. [[Content Marketing Foundations]] → 6. [[Email and Newsletter Marketing Foundations]] → 7. [[Marketing Analytics Foundations]] → 8. [[Marketing Foundations- Ecommerce]] → 9. [[Marketing Foundations- Customer Decision Journey]]
+1. [Digital Marketing Foundations](../../../Courses/Data%20Science/Digital%20Marketing%20Foundations.md) → 2. [Marketing Foundations](../../../Courses/Data%20Science/Marketing%20Foundations.md) → 3. [SEO Foundations](../../../Courses/Data%20Science/SEO%20Foundations.md) → 4. [Social Media Marketing Foundations](../../../Courses/Data%20Science/Social%20Media%20Marketing%20Foundations.md) → 5. [Content Marketing Foundations](../../../Courses/Data%20Science/Content%20Marketing%20Foundations.md) → 6. [Email and Newsletter Marketing Foundations](../../../Courses/Data%20Science/Email%20and%20Newsletter%20Marketing%20Foundations.md) → 7. [Marketing Analytics Foundations](../../../Courses/Data%20Science/Marketing%20Analytics%20Foundations.md) → 8. [Marketing Foundations- Ecommerce](../../../Courses/Data%20Science/Marketing%20Foundations-%20Ecommerce.md) → 9. [Marketing Foundations- Customer Decision Journey](../../../Courses/Data%20Science/Marketing%20Foundations-%20Customer%20Decision%20Journey.md)
 
 ## Topics
 
-- [[Data Science]]
+- [Data Science](../../../Topics/Data%20Science.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Become a Marketing Coordinator]] (5 shared courses)
+- [Become a Marketing Coordinator](Become%20a%20Marketing%20Coordinator.md) (5 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Data Science]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Data Science](../../../Topics/Data%20Science.md)

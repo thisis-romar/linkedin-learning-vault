@@ -19,19 +19,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Understanding and Prioritizing Data Privacy]]'
+  - course: '[Understanding and Prioritizing Data Privacy](../../../Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Privacy in the New World of Work]]'
+  - course: '[Privacy in the New World of Work](../../../Courses/Cybersecurity/Privacy%20in%20the%20New%20World%20of%20Work.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Privacy Strategies for Business Leaders]]'
+  - course: '[Privacy Strategies for Business Leaders](../../../Courses/Cybersecurity/Privacy%20Strategies%20for%20Business%20Leaders.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[GDPR Compliance- Essential Training]]'
+  - course: '[GDPR Compliance- Essential Training](../../../Courses/Cybersecurity/GDPR%20Compliance-%20Essential%20Training.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -46,26 +46,26 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Understanding and Prioritizing Data Privacy]] _(1h 17m)_
-2. [[Privacy in the New World of Work]] _(26m)_
-3. [[Privacy Strategies for Business Leaders]] _(1h 3m)_
-4. [[GDPR Compliance- Essential Training]] _(1h 24m)_
+1. [Understanding and Prioritizing Data Privacy](../../../Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md) _(1h 17m)_
+2. [Privacy in the New World of Work](../../../Courses/Cybersecurity/Privacy%20in%20the%20New%20World%20of%20Work.md) _(26m)_
+3. [Privacy Strategies for Business Leaders](../../../Courses/Cybersecurity/Privacy%20Strategies%20for%20Business%20Leaders.md) _(1h 3m)_
+4. [GDPR Compliance- Essential Training](../../../Courses/Cybersecurity/GDPR%20Compliance-%20Essential%20Training.md) _(1h 24m)_
 
 ## Course Flow
 
-1. [[Understanding and Prioritizing Data Privacy]] → 2. [[Privacy in the New World of Work]] → 3. [[Privacy Strategies for Business Leaders]] → 4. [[GDPR Compliance- Essential Training]]
+1. [Understanding and Prioritizing Data Privacy](../../../Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md) → 2. [Privacy in the New World of Work](../../../Courses/Cybersecurity/Privacy%20in%20the%20New%20World%20of%20Work.md) → 3. [Privacy Strategies for Business Leaders](../../../Courses/Cybersecurity/Privacy%20Strategies%20for%20Business%20Leaders.md) → 4. [GDPR Compliance- Essential Training](../../../Courses/Cybersecurity/GDPR%20Compliance-%20Essential%20Training.md)
 
 ## Topics
 
-- [[Cybersecurity]]
-- [[Data Science]]
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
+- [Data Science](../../../Topics/Data%20Science.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Build a Privacy Program]] (1 shared courses)
+- [Build a Privacy Program](Build%20a%20Privacy%20Program.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cybersecurity]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cybersecurity](../../../Topics/Cybersecurity.md)

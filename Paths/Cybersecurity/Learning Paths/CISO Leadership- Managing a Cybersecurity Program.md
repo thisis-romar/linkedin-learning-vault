@@ -17,35 +17,35 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[The Cybersecurity Threat Landscape]]'
+  - course: '[The Cybersecurity Threat Landscape](../../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building and Managing a Cybersecurity Program]]'
+  - course: '[Building and Managing a Cybersecurity Program](../../../Courses/Cloud%20Computing/Building%20and%20Managing%20a%20Cybersecurity%20Program.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Leveraging Security Metrics in Your Organization]]'
+  - course: '[Leveraging Security Metrics in Your Organization](../../../Courses/Cybersecurity/Leveraging%20Security%20Metrics%20in%20Your%20Organization.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[CISO Foundations- Influencing the Board and C-Suite]]'
+  - course: '[CISO Foundations- Influencing the Board and C-Suite](../../../Courses/Cybersecurity/CISO%20Foundations-%20Influencing%20the%20Board%20and%20C-Suite.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Cybersecurity Outsourcing- Vendor Selection and Management]]'
+  - course: '[Cybersecurity Outsourcing- Vendor Selection and Management](../../../Courses/Cybersecurity/Cybersecurity%20Outsourcing-%20Vendor%20Selection%20and%20Management.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building Your Cybersecurity Talent Pipeline]]'
+  - course: '[Building Your Cybersecurity Talent Pipeline](../../../Courses/Cybersecurity/Building%20Your%20Cybersecurity%20Talent%20Pipeline.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building a Cybersecurity Awareness Program]]'
+  - course: '[Building a Cybersecurity Awareness Program](../../../Courses/Cybersecurity/Building%20a%20Cybersecurity%20Awareness%20Program.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack]]'
+  - course: '[Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack](../../../Courses/Cybersecurity/Crisis%20Communication%20Planning%20After%20a%20Ransomware%20or%20Other%20Cybersecurity%20Attack.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -60,33 +60,33 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[The Cybersecurity Threat Landscape]]
-2. [[Building and Managing a Cybersecurity Program]] _(1h 44m)_
-3. [[Leveraging Security Metrics in Your Organization]] _(46m)_
-4. [[CISO Foundations- Influencing the Board and C-Suite]] _(54m)_
-5. [[Cybersecurity Outsourcing- Vendor Selection and Management]] _(1h 7m)_
-6. [[Building Your Cybersecurity Talent Pipeline]] _(48m)_
-7. [[Building a Cybersecurity Awareness Program]] _(1h 21m)_
-8. [[Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack]] _(29m)_
+1. [The Cybersecurity Threat Landscape](../../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)
+2. [Building and Managing a Cybersecurity Program](../../../Courses/Cloud%20Computing/Building%20and%20Managing%20a%20Cybersecurity%20Program.md) _(1h 44m)_
+3. [Leveraging Security Metrics in Your Organization](../../../Courses/Cybersecurity/Leveraging%20Security%20Metrics%20in%20Your%20Organization.md) _(46m)_
+4. [CISO Foundations- Influencing the Board and C-Suite](../../../Courses/Cybersecurity/CISO%20Foundations-%20Influencing%20the%20Board%20and%20C-Suite.md) _(54m)_
+5. [Cybersecurity Outsourcing- Vendor Selection and Management](../../../Courses/Cybersecurity/Cybersecurity%20Outsourcing-%20Vendor%20Selection%20and%20Management.md) _(1h 7m)_
+6. [Building Your Cybersecurity Talent Pipeline](../../../Courses/Cybersecurity/Building%20Your%20Cybersecurity%20Talent%20Pipeline.md) _(48m)_
+7. [Building a Cybersecurity Awareness Program](../../../Courses/Cybersecurity/Building%20a%20Cybersecurity%20Awareness%20Program.md) _(1h 21m)_
+8. [Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack](../../../Courses/Cybersecurity/Crisis%20Communication%20Planning%20After%20a%20Ransomware%20or%20Other%20Cybersecurity%20Attack.md) _(29m)_
 
 ## Course Flow
 
-1. [[The Cybersecurity Threat Landscape]] → 2. [[Building and Managing a Cybersecurity Program]] → 3. [[Leveraging Security Metrics in Your Organization]] → 4. [[CISO Foundations- Influencing the Board and C-Suite]] → 5. [[Cybersecurity Outsourcing- Vendor Selection and Management]] → 6. [[Building Your Cybersecurity Talent Pipeline]] → 7. [[Building a Cybersecurity Awareness Program]] → 8. [[Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack]]
+1. [The Cybersecurity Threat Landscape](../../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md) → 2. [Building and Managing a Cybersecurity Program](../../../Courses/Cloud%20Computing/Building%20and%20Managing%20a%20Cybersecurity%20Program.md) → 3. [Leveraging Security Metrics in Your Organization](../../../Courses/Cybersecurity/Leveraging%20Security%20Metrics%20in%20Your%20Organization.md) → 4. [CISO Foundations- Influencing the Board and C-Suite](../../../Courses/Cybersecurity/CISO%20Foundations-%20Influencing%20the%20Board%20and%20C-Suite.md) → 5. [Cybersecurity Outsourcing- Vendor Selection and Management](../../../Courses/Cybersecurity/Cybersecurity%20Outsourcing-%20Vendor%20Selection%20and%20Management.md) → 6. [Building Your Cybersecurity Talent Pipeline](../../../Courses/Cybersecurity/Building%20Your%20Cybersecurity%20Talent%20Pipeline.md) → 7. [Building a Cybersecurity Awareness Program](../../../Courses/Cybersecurity/Building%20a%20Cybersecurity%20Awareness%20Program.md) → 8. [Crisis Communication Planning After a Ransomware or Other Cybersecurity Attack](../../../Courses/Cybersecurity/Crisis%20Communication%20Planning%20After%20a%20Ransomware%20or%20Other%20Cybersecurity%20Attack.md)
 
 ## Topics
 
-- [[Cybersecurity]]
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Navigating the Cybersecurity Threat Landscape]] (1 shared courses)
-- [[Become a Cybersecurity Professional]] (1 shared courses)
-- [[Career Essentials in Cybersecurity by Microsoft and LinkedIn]] (1 shared courses)
-- [[Digital Transformation for Tech Leaders]] (1 shared courses)
-- [[Explore a Career in Computer Forensics]] (1 shared courses)
+- [Navigating the Cybersecurity Threat Landscape](Navigating%20the%20Cybersecurity%20Threat%20Landscape.md) (1 shared courses)
+- [Become a Cybersecurity Professional](Become%20a%20Cybersecurity%20Professional.md) (1 shared courses)
+- [Career Essentials in Cybersecurity by Microsoft and LinkedIn](../Professional%20Certificates/Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.md) (1 shared courses)
+- [Digital Transformation for Tech Leaders](../../Cloud%20Computing/Learning%20Paths/Digital%20Transformation%20for%20Tech%20Leaders.md) (1 shared courses)
+- [Explore a Career in Computer Forensics](Explore%20a%20Career%20in%20Computer%20Forensics.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cybersecurity]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cybersecurity](../../../Topics/Cybersecurity.md)

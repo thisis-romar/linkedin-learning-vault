@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cyber Resilience- An Overview]]
-- [[Building Your Cybersecurity Talent Pipeline]]
+- [Cyber Resilience- An Overview](../../Courses/Cybersecurity/Cyber%20Resilience-%20An%20Overview.md)
+- [Building Your Cybersecurity Talent Pipeline](../../Courses/Cybersecurity/Building%20Your%20Cybersecurity%20Talent%20Pipeline.md)

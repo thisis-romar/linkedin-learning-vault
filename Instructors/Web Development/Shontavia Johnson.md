@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Protecting Yourself as a Content Creator]]
+- [Protecting Yourself as a Content Creator](../../Courses/Web%20Development/Protecting%20Yourself%20as%20a%20Content%20Creator.md)

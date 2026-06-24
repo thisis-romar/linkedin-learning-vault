@@ -20,6 +20,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[WordPress Ecommerce- WooCommerce]]
-- [[WordPress- SEO]]
-- [[WordPress- Speeding Up Your Site]]
+- [WordPress Ecommerce- WooCommerce](../../Courses/Web%20Development/WordPress%20Ecommerce-%20WooCommerce.md)
+- [WordPress- SEO](../../Courses/Web%20Development/WordPress-%20SEO.md)
+- [WordPress- Speeding Up Your Site](../../Courses/Web%20Development/WordPress-%20Speeding%20Up%20Your%20Site.md)

@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Software Design- From Requirements to Release]] — Advanced · 2h 24m · 79,197 learners
-- [[Software Development Life Cycle (SDLC)]] — Beginner · 1h 55m · 22,604 learners
-- [[Planning and Releasing Software with Jira]] — Intermediate · 1h 15m · 21,693 learners
+- [Software Design- From Requirements to Release](../../Courses/DevOps/Software%20Design-%20From%20Requirements%20to%20Release.md) — Advanced · 2h 24m · 79,197 learners
+- [Software Development Life Cycle (SDLC)](Software%20Development%20Life%20Cycle%20(SDLC).md) — Beginner · 1h 55m · 22,604 learners
+- [Planning and Releasing Software with Jira](../../Courses/DevOps/Planning%20and%20Releasing%20Software%20with%20Jira.md) — Intermediate · 1h 15m · 21,693 learners
 
 ## Related Skills
 
-- [[Software Design]] — 1 shared course
-- [[Jira]] — 1 shared course
-- [[Software Project Management]] — 1 shared course
+- [Software Design](Software%20Design.md) — 1 shared course
+- [Jira](../DevOps/Jira.md) — 1 shared course
+- [Software Project Management](../DevOps/Software%20Project%20Management.md) — 1 shared course

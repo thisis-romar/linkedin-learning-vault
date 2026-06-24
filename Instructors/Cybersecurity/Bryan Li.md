@@ -28,6 +28,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building in Azure AI Foundry]]
-- [[Microsoft Security Copilot]]
-- [[Microsoft Azure- Identity and Access Management]]
+- [Building in Azure AI Foundry](../../Courses/Artificial%20Intelligence%20(AI)/Building%20in%20Azure%20AI%20Foundry.md)
+- [Microsoft Security Copilot](../../Courses/Cybersecurity/Microsoft%20Security%20Copilot.md)
+- [Microsoft Azure- Identity and Access Management](../../Courses/Cloud%20Computing/Microsoft%20Azure-%20Identity%20and%20Access%20Management.md)

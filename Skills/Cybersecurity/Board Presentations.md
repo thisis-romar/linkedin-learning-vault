@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[CISO Foundations- Influencing the Board and C-Suite]] — Intermediate · 54m · 20,599 learners
+- [CISO Foundations- Influencing the Board and C-Suite](../../Courses/Cybersecurity/CISO%20Foundations-%20Influencing%20the%20Board%20and%20C-Suite.md) — Intermediate · 54m · 20,599 learners
 
 ## Related Skills
 
-- [[C-Suite Selling]] — 1 shared course
-- [[Cybersecurity]] — 1 shared course
+- [C-Suite Selling](C-Suite%20Selling.md) — 1 shared course
+- [Cybersecurity](../../Topics/Cybersecurity.md) — 1 shared course

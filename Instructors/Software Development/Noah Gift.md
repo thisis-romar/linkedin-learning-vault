@@ -24,6 +24,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Orchestration- Designing the Prototype Architecture and Data Strategy]]
-- [[Rust for Data Engineering]]
-- [[GitHub Foundations- Privacy, Security, and Administration]]
+- [AI Orchestration- Designing the Prototype Architecture and Data Strategy](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Orchestration-%20Designing%20the%20Prototype%20Architecture%20and%20Data%20Strategy.md)
+- [Rust for Data Engineering](../../Courses/Data%20Science/Rust%20for%20Data%20Engineering.md)
+- [GitHub Foundations- Privacy, Security, and Administration](../../Courses/Artificial%20Intelligence%20(AI)/GitHub%20Foundations-%20Privacy%2C%20Security%2C%20and%20Administration.md)

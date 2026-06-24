@@ -17,19 +17,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Spring 6 Design Patterns]]'
+  - course: '[Spring 6 Design Patterns](../../../Courses/Software%20Development/Spring%206%20Design%20Patterns.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Spring with GraphQL]]'
+  - course: '[Spring with GraphQL](../../../Courses/Software%20Development/Spring%20with%20GraphQL.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Spring Framework in Depth]]'
+  - course: '[Spring Framework in Depth](../../../Courses/Software%20Development/Spring%20Framework%20in%20Depth.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Advanced Spring- Effective Integration Testing with Spring Boot]]'
+  - course: '[Advanced Spring- Effective Integration Testing with Spring Boot](../../../Courses/Software%20Development/Advanced%20Spring-%20Effective%20Integration%20Testing%20with%20Spring%20Boot.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -44,25 +44,25 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Spring 6 Design Patterns]]
-2. [[Spring with GraphQL]] _(1h 4m)_
-3. [[Spring Framework in Depth]] _(1h 55m)_
-4. [[Advanced Spring- Effective Integration Testing with Spring Boot]] _(1h 14m)_
+1. [Spring 6 Design Patterns](../../../Courses/Software%20Development/Spring%206%20Design%20Patterns.md)
+2. [Spring with GraphQL](../../../Courses/Software%20Development/Spring%20with%20GraphQL.md) _(1h 4m)_
+3. [Spring Framework in Depth](../../../Courses/Software%20Development/Spring%20Framework%20in%20Depth.md) _(1h 55m)_
+4. [Advanced Spring- Effective Integration Testing with Spring Boot](../../../Courses/Software%20Development/Advanced%20Spring-%20Effective%20Integration%20Testing%20with%20Spring%20Boot.md) _(1h 14m)_
 
 ## Course Flow
 
-1. [[Spring 6 Design Patterns]] → 2. [[Spring with GraphQL]] → 3. [[Spring Framework in Depth]] → 4. [[Advanced Spring- Effective Integration Testing with Spring Boot]]
+1. [Spring 6 Design Patterns](../../../Courses/Software%20Development/Spring%206%20Design%20Patterns.md) → 2. [Spring with GraphQL](../../../Courses/Software%20Development/Spring%20with%20GraphQL.md) → 3. [Spring Framework in Depth](../../../Courses/Software%20Development/Spring%20Framework%20in%20Depth.md) → 4. [Advanced Spring- Effective Integration Testing with Spring Boot](../../../Courses/Software%20Development/Advanced%20Spring-%20Effective%20Integration%20Testing%20with%20Spring%20Boot.md)
 
 ## Topics
 
-- [[Software Development]]
+- [Software Development](../../../Topics/Software%20Development.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Advance Your Spring Development Skills]] (1 shared courses)
+- [Advance Your Spring Development Skills](../../Cloud%20Computing/Learning%20Paths/Advance%20Your%20Spring%20Development%20Skills.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Software Development]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Software Development](../../../Topics/Software%20Development.md)

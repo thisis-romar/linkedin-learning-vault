@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Kotlin Multiplatform Development]]
+- [Kotlin Multiplatform Development](../../Courses/Mobile%20Development/Kotlin%20Multiplatform%20Development.md)

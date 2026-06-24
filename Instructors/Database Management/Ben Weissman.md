@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations]]
+- [SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations](../../Courses/Database%20Management/SQL%20Server%20Containerization-%20Modern%20Deployment%20Strategies%20for%20Data-Driven%20Organizations.md)

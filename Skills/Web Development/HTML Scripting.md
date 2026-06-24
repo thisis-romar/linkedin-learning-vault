@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[HTML Essential Training]] — Beginner · 4h 12m · 66,073 learners
+- [HTML Essential Training](../../Courses/Web%20Development/HTML%20Essential%20Training.md) — Beginner · 4h 12m · 66,073 learners
 
 ## Related Skills
 
-- [[HTML]] — 1 shared course
-- [[Front-End Development]] — 1 shared course
-- [[Web Development]] — 1 shared course
+- [HTML](HTML.md) — 1 shared course
+- [Front-End Development](Front-End%20Development.md) — 1 shared course
+- [Web Development](../../Topics/Web%20Development.md) — 1 shared course

@@ -24,7 +24,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Design Thinking- Understanding the Process]]
-- [[Design Thinking- Implementing the Process]]
-- [[Interaction Design for Ecommerce]]
-- [[Surveys and Questionnaires for UX Projects]]
+- [Design Thinking- Understanding the Process](../../Courses/Cloud%20Computing/Design%20Thinking-%20Understanding%20the%20Process.md)
+- [Design Thinking- Implementing the Process](../../Courses/Cloud%20Computing/Design%20Thinking-%20Implementing%20the%20Process.md)
+- [Interaction Design for Ecommerce](../../Courses/Software%20Development/Interaction%20Design%20for%20Ecommerce.md)
+- [Surveys and Questionnaires for UX Projects](../../Courses/Web%20Development/Surveys%20and%20Questionnaires%20for%20UX%20Projects.md)

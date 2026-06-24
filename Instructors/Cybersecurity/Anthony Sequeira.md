@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Networking Foundations- IP Addressing]]
+- [Networking Foundations- IP Addressing](../../Courses/Cybersecurity/Networking%20Foundations-%20IP%20Addressing.md)

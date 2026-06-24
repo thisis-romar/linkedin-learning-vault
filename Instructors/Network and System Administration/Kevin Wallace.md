@@ -26,7 +26,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Networking Foundations Networking Basics]]
-- [[Cisco Networking Foundations- IP Addressing]]
-- [[Cisco Networking Foundations- Switching and Routing]]
-- [[Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization]]
+- [Networking Foundations Networking Basics](../../Courses/Network%20and%20System%20Administration/Networking%20Foundations%20Networking%20Basics.md)
+- [Cisco Networking Foundations- IP Addressing](../../Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20IP%20Addressing.md)
+- [Cisco Networking Foundations- Switching and Routing](../../Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20Switching%20and%20Routing.md)
+- [Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization](../../Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20Wireless%20Networks%2C%20Services%2C%20Security%2C%20and%20Virtualization.md)

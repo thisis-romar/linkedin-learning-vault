@@ -22,12 +22,12 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Cybersecurity Foundations- Security Architecture]] — Beginner · 44m · 115,308 learners
-- [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — Intermediate · 2h 19m · 6,210 learners
+- [Cybersecurity Foundations- Security Architecture](../../Courses/Cloud%20Computing/Cybersecurity%20Foundations-%20Security%20Architecture.md) — Beginner · 44m · 115,308 learners
+- [AI Product Security- Secure Architecture, Deployment, and Infrastructure](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Secure%20Architecture%2C%20Deployment%2C%20and%20Infrastructure.md) — Intermediate · 2h 19m · 6,210 learners
 
 ## Related Skills
 
-- [[AI Security]] — 1 shared course
-- [[Product Security]] — 1 shared course
-- [[Cybersecurity]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [AI Security](AI%20Security.md) — 1 shared course
+- [Product Security](Product%20Security.md) — 1 shared course
+- [Cybersecurity](../../Topics/Cybersecurity.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

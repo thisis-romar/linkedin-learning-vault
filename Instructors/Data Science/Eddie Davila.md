@@ -24,11 +24,11 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Statistics Foundations 1- The Basics]]
-- [[Statistics Foundations 2- Probability]]
-- [[Statistics Foundations 3- Using Data Sets]]
-- [[Statistics Foundations 4- Advanced Topics]]
-- [[Excel Statistics Essential Training- 1]]
-- [[Excel Statistics Essential Training- 2]]
-- [[Measuring Business Performance]]
-- [[Complete Guide to Excel Statistics with Copilot]]
+- [Statistics Foundations 1- The Basics](../../Courses/Data%20Science/Statistics%20Foundations%201-%20The%20Basics.md)
+- [Statistics Foundations 2- Probability](../../Courses/Data%20Science/Statistics%20Foundations%202-%20Probability.md)
+- [Statistics Foundations 3- Using Data Sets](../../Courses/Data%20Science/Statistics%20Foundations%203-%20Using%20Data%20Sets.md)
+- [Statistics Foundations 4- Advanced Topics](../../Courses/Data%20Science/Statistics%20Foundations%204-%20Advanced%20Topics.md)
+- [Excel Statistics Essential Training- 1](../../Courses/Data%20Science/Excel%20Statistics%20Essential%20Training-%201.md)
+- [Excel Statistics Essential Training- 2](../../Courses/Data%20Science/Excel%20Statistics%20Essential%20Training-%202.md)
+- [Measuring Business Performance](../../Courses/Cybersecurity/Measuring%20Business%20Performance.md)
+- [Complete Guide to Excel Statistics with Copilot](../../Courses/Data%20Science/Complete%20Guide%20to%20Excel%20Statistics%20with%20Copilot.md)

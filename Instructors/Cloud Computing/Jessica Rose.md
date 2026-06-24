@@ -30,5 +30,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Tech Career Skills- Moving from Developer to Engineering Manager]]
-- [[Inclusive Tech- The Case for Inclusive Leadership]]
+- [Tech Career Skills- Moving from Developer to Engineering Manager](../../Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Moving%20from%20Developer%20to%20Engineering%20Manager.md)
+- [Inclusive Tech- The Case for Inclusive Leadership](../../Courses/Cloud%20Computing/Inclusive%20Tech-%20The%20Case%20for%20Inclusive%20Leadership.md)

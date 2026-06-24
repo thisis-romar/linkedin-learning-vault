@@ -26,6 +26,6 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Transitioning to a Career in Cybersecurity]]
-- [[The Cybersecurity Threat Landscape]]
-- [[Cybersecurity Careers and Certifications]]
+- [Transitioning to a Career in Cybersecurity](../../Courses/Cybersecurity/Transitioning%20to%20a%20Career%20in%20Cybersecurity.md)
+- [The Cybersecurity Threat Landscape](../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)
+- [Cybersecurity Careers and Certifications](../../Courses/Cybersecurity/Cybersecurity%20Careers%20and%20Certifications.md)

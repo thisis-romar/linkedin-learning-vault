@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Strategic Agility for Organizational Leaders]]
+- [Strategic Agility for Organizational Leaders](../../Courses/Cloud%20Computing/Strategic%20Agility%20for%20Organizational%20Leaders.md)

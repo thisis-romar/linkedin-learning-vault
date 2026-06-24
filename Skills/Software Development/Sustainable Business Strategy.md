@@ -22,18 +22,18 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Driving Sustainability at Your Organization]] — 53m · 58,463 learners
-- [[The Importance of Biodiversity to Business]] — 29m · 58,463 learners
-- [[Introduction to ESG- Environmental, Social, and Governance]] — 43m · 46,563 learners
-- [[Including Sustainability in Your Cloud Strategy (2022)]] — Beginner · 34m · 12,663 learners
-- [[Sustainability as an Innovation Opportunity]] — 55m
+- [Driving Sustainability at Your Organization](../../Courses/Software%20Development/Driving%20Sustainability%20at%20Your%20Organization.md) — 53m · 58,463 learners
+- [The Importance of Biodiversity to Business](../../Courses/Software%20Development/The%20Importance%20of%20Biodiversity%20to%20Business.md) — 29m · 58,463 learners
+- [Introduction to ESG- Environmental, Social, and Governance](../../Courses/Software%20Development/Introduction%20to%20ESG-%20Environmental%2C%20Social%2C%20and%20Governance.md) — 43m · 46,563 learners
+- [Including Sustainability in Your Cloud Strategy (2022)](../../Courses/Cloud%20Computing/Including%20Sustainability%20in%20Your%20Cloud%20Strategy%20(2022).md) — Beginner · 34m · 12,663 learners
+- [Sustainability as an Innovation Opportunity](../../Courses/Software%20Development/Sustainability%20as%20an%20Innovation%20Opportunity.md) — 55m
 
 ## Related Skills
 
-- [[Nature Conservation]] — 1 shared course
-- [[Biodiversity]] — 1 shared course
-- [[Environmental, Social, and Governance (ESG)]] — 1 shared course
-- [[Organizational Leadership]] — 1 shared course
-- [[Business Innovation]] — 1 shared course
-- [[Sustainable Systems]] — 1 shared course
-- [[Cloud Strategy]] — 1 shared course
+- [Nature Conservation](Nature%20Conservation.md) — 1 shared course
+- [Biodiversity](Biodiversity.md) — 1 shared course
+- [Environmental, Social, and Governance (ESG)](Environmental%2C%20Social%2C%20and%20Governance%20(ESG).md) — 1 shared course
+- [Organizational Leadership](../Data%20Science/Organizational%20Leadership.md) — 1 shared course
+- [Business Innovation](Business%20Innovation.md) — 1 shared course
+- [Sustainable Systems](../Cybersecurity/Sustainable%20Systems.md) — 1 shared course
+- [Cloud Strategy](../Cloud%20Computing/Cloud%20Strategy.md) — 1 shared course

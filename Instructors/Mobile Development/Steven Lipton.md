@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Swift- Delegations and Data Sources]]
+- [Swift- Delegations and Data Sources](../../Courses/Mobile%20Development/Swift-%20Delegations%20and%20Data%20Sources.md)

@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative Ai Skills For Creative Content Opportunities Issues And Ethics]] — 27,010 learners
+- [Generative Ai Skills For Creative Content Opportunities Issues And Ethics](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20Ai%20Skills%20For%20Creative%20Content%20Opportunities%20Issues%20And%20Ethics.md) — 27,010 learners
 
 ## Related Skills
 
-- [[Generative AI Tools]] — 1 shared course
-- [[Artificial Intelligence for Design]] — 1 shared course
-- [[Artificial Intelligence (AI)]] — 1 shared course
+- [Generative AI Tools](Generative%20AI%20Tools.md) — 1 shared course
+- [Artificial Intelligence for Design](Artificial%20Intelligence%20for%20Design.md) — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 1 shared course

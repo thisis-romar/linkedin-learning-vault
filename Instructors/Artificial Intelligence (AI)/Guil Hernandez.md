@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Build a Document Search Assistant with Node and OpenAI's Assistants API]]
+- [Build a Document Search Assistant with Node and OpenAI's Assistants API](../../Courses/Artificial%20Intelligence%20(AI)/Build%20a%20Document%20Search%20Assistant%20with%20Node%20and%20OpenAI's%20Assistants%20API.md)

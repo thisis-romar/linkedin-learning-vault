@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Solution Sales]]
+- [Solution Sales](../../Courses/Cybersecurity/Solution%20Sales.md)

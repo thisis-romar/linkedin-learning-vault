@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Design Powered by Data- Getting Started with UX Web Analytics (2022)]]
+- [Design Powered by Data- Getting Started with UX Web Analytics (2022)](../../Courses/Web%20Development/Design%20Powered%20by%20Data-%20Getting%20Started%20with%20UX%20Web%20Analytics%20(2022).md)

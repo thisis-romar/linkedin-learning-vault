@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Structured Vibe Coding with AI Coding Agents]]
+- [Structured Vibe Coding with AI Coding Agents](../../Courses/Artificial%20Intelligence%20(AI)/Structured%20Vibe%20Coding%20with%20AI%20Coding%20Agents.md)

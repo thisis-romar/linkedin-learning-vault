@@ -17,19 +17,19 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[The Cybersecurity Threat Landscape]]'
+  - course: '[The Cybersecurity Threat Landscape](../../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Cybersecurity Awareness- Cybersecurity Terminology]]'
+  - course: '[Cybersecurity Awareness- Cybersecurity Terminology](../../../Courses/Cybersecurity/Cybersecurity%20Awareness-%20Cybersecurity%20Terminology.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Cybersecurity Foundations]]'
+  - course: '[Cybersecurity Foundations](../../../Courses/Cybersecurity/Cybersecurity%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Microsoft Security Copilot]]'
+  - course: '[Microsoft Security Copilot](../../../Courses/Cybersecurity/Microsoft%20Security%20Copilot.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -44,29 +44,29 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[The Cybersecurity Threat Landscape]]
-2. [[Cybersecurity Awareness- Cybersecurity Terminology]] _(48m)_
-3. [[Cybersecurity Foundations]]
-4. [[Microsoft Security Copilot]] _(40m)_
+1. [The Cybersecurity Threat Landscape](../../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)
+2. [Cybersecurity Awareness- Cybersecurity Terminology](../../../Courses/Cybersecurity/Cybersecurity%20Awareness-%20Cybersecurity%20Terminology.md) _(48m)_
+3. [Cybersecurity Foundations](../../../Courses/Cybersecurity/Cybersecurity%20Foundations.md)
+4. [Microsoft Security Copilot](../../../Courses/Cybersecurity/Microsoft%20Security%20Copilot.md) _(40m)_
 
 ## Course Flow
 
-1. [[The Cybersecurity Threat Landscape]] → 2. [[Cybersecurity Awareness- Cybersecurity Terminology]] → 3. [[Cybersecurity Foundations]] → 4. [[Microsoft Security Copilot]]
+1. [The Cybersecurity Threat Landscape](../../../Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md) → 2. [Cybersecurity Awareness- Cybersecurity Terminology](../../../Courses/Cybersecurity/Cybersecurity%20Awareness-%20Cybersecurity%20Terminology.md) → 3. [Cybersecurity Foundations](../../../Courses/Cybersecurity/Cybersecurity%20Foundations.md) → 4. [Microsoft Security Copilot](../../../Courses/Cybersecurity/Microsoft%20Security%20Copilot.md)
 
 ## Topics
 
-- [[Cybersecurity]]
+- [Cybersecurity](../../../Topics/Cybersecurity.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Become a Cybersecurity Professional]] (2 shared courses)
-- [[Cybersecurity for Sales Professionals]] (2 shared courses)
-- [[Navigating the Cybersecurity Threat Landscape]] (1 shared courses)
-- [[Become an IT Security Specialist]] (1 shared courses)
-- [[The Top 10 Most Popular Courses among IT Professionals]] (1 shared courses)
+- [Become a Cybersecurity Professional](../Learning%20Paths/Become%20a%20Cybersecurity%20Professional.md) (2 shared courses)
+- [Cybersecurity for Sales Professionals](../Learning%20Paths/Cybersecurity%20for%20Sales%20Professionals.md) (2 shared courses)
+- [Navigating the Cybersecurity Threat Landscape](../Learning%20Paths/Navigating%20the%20Cybersecurity%20Threat%20Landscape.md) (1 shared courses)
+- [Become an IT Security Specialist](../Learning%20Paths/Become%20an%20IT%20Security%20Specialist.md) (1 shared courses)
+- [The Top 10 Most Popular Courses among IT Professionals](../../Cloud%20Computing/Learning%20Paths/The%20Top%2010%20Most%20Popular%20Courses%20among%20IT%20Professionals.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cybersecurity]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cybersecurity](../../../Topics/Cybersecurity.md)

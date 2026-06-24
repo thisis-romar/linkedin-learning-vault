@@ -22,10 +22,10 @@ created: 2026-05-03
 
 ## Courses
 
-- [[The Data Science Of Economics Banking And Finance]] — 48,713 learners
+- [The Data Science Of Economics Banking And Finance](../../Courses/Data%20Science/The%20Data%20Science%20Of%20Economics%20Banking%20And%20Finance.md) — 48,713 learners
 
 ## Related Skills
 
-- [[Banking]] — 1 shared course
-- [[Data Science]] — 1 shared course
-- [[Finance]] — 1 shared course
+- [Banking](Banking.md) — 1 shared course
+- [Data Science](../../Topics/Data%20Science.md) — 1 shared course
+- [Finance](../Data%20Science/Finance.md) — 1 shared course

@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Effective Listening (2019)]]
+- [Effective Listening (2019)](../../Courses/Cloud%20Computing/Effective%20Listening%20(2019).md)

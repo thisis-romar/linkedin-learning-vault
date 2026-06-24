@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Inclusive Learning Design]]
+- [Inclusive Learning Design](../../Courses/Web%20Development/Inclusive%20Learning%20Design.md)

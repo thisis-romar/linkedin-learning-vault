@@ -22,5 +22,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AWS- Networking]]
-- [[Complete Guide to AWS Security and Compliance Management]]
+- [AWS- Networking](../../Courses/Cloud%20Computing/AWS-%20Networking.md)
+- [Complete Guide to AWS Security and Compliance Management](../../Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Security%20and%20Compliance%20Management.md)

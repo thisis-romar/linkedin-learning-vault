@@ -17,31 +17,31 @@ courses_visited: 0
 videos_visited: 0
 progress_status: fresh
 course_activity:
-  - course: '[[Communication Foundations]]'
+  - course: '[Communication Foundations](../../../Courses/Cloud%20Computing/Communication%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning Microsoft 365 Copilot for Work]]'
+  - course: '[Learning Microsoft 365 Copilot for Work](../../../Courses/Artificial%20Intelligence%20(AI)/Learning%20Microsoft%20365%20Copilot%20for%20Work.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Tips for Writing Business Emails]]'
+  - course: '[Tips for Writing Business Emails](../../../Courses/Cloud%20Computing/Tips%20for%20Writing%20Business%20Emails.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Building a Time Management Mindset]]'
+  - course: '[Building a Time Management Mindset](../../../Courses/Cloud%20Computing/Building%20a%20Time%20Management%20Mindset.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Learning Microsoft 365]]'
+  - course: '[Learning Microsoft 365](../../../Courses/Cloud%20Computing/Learning%20Microsoft%20365.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Administrative Professional Foundations]]'
+  - course: '[Administrative Professional Foundations](../../../Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md)'
     last_opened: null
     open_count: 0
     videos: []
-  - course: '[[Business Etiquette- Phone, Email, and Text]]'
+  - course: '[Business Etiquette- Phone, Email, and Text](../../../Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md)'
     last_opened: null
     open_count: 0
     videos: []
@@ -56,29 +56,29 @@ created: '2026-05-03'
 
 ## Courses
 
-1. [[Communication Foundations]]
-2. [[Learning Microsoft 365 Copilot for Work]] _(49m)_
-3. [[Tips for Writing Business Emails]] _(35m)_
-4. [[Building a Time Management Mindset]] _(47m)_
-5. [[Learning Microsoft 365]] _(1h 21m)_
-6. [[Administrative Professional Foundations]] _(1h 24m)_
-7. [[Business Etiquette- Phone, Email, and Text]] _(1h 3m)_
+1. [Communication Foundations](../../../Courses/Cloud%20Computing/Communication%20Foundations.md)
+2. [Learning Microsoft 365 Copilot for Work](../../../Courses/Artificial%20Intelligence%20(AI)/Learning%20Microsoft%20365%20Copilot%20for%20Work.md) _(49m)_
+3. [Tips for Writing Business Emails](../../../Courses/Cloud%20Computing/Tips%20for%20Writing%20Business%20Emails.md) _(35m)_
+4. [Building a Time Management Mindset](../../../Courses/Cloud%20Computing/Building%20a%20Time%20Management%20Mindset.md) _(47m)_
+5. [Learning Microsoft 365](../../../Courses/Cloud%20Computing/Learning%20Microsoft%20365.md) _(1h 21m)_
+6. [Administrative Professional Foundations](../../../Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md) _(1h 24m)_
+7. [Business Etiquette- Phone, Email, and Text](../../../Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md) _(1h 3m)_
 
 ## Course Flow
 
-1. [[Communication Foundations]] → 2. [[Learning Microsoft 365 Copilot for Work]] → 3. [[Tips for Writing Business Emails]] → 4. [[Building a Time Management Mindset]] → 5. [[Learning Microsoft 365]] → 6. [[Administrative Professional Foundations]] → 7. [[Business Etiquette- Phone, Email, and Text]]
+1. [Communication Foundations](../../../Courses/Cloud%20Computing/Communication%20Foundations.md) → 2. [Learning Microsoft 365 Copilot for Work](../../../Courses/Artificial%20Intelligence%20(AI)/Learning%20Microsoft%20365%20Copilot%20for%20Work.md) → 3. [Tips for Writing Business Emails](../../../Courses/Cloud%20Computing/Tips%20for%20Writing%20Business%20Emails.md) → 4. [Building a Time Management Mindset](../../../Courses/Cloud%20Computing/Building%20a%20Time%20Management%20Mindset.md) → 5. [Learning Microsoft 365](../../../Courses/Cloud%20Computing/Learning%20Microsoft%20365.md) → 6. [Administrative Professional Foundations](../../../Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md) → 7. [Business Etiquette- Phone, Email, and Text](../../../Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md)
 
 ## Topics
 
-- [[Cloud Computing]]
+- [Cloud Computing](../../../Topics/Cloud%20Computing.md)
 
 ## Related Paths
 
 _Paths that share courses with this one:_
 
-- [[Microsoft Copilot for Productivity by Microsoft and LinkedIn]] (1 shared courses)
-- [[Career Essentials in Generative AI by Microsoft and LinkedIn]] (1 shared courses)
+- [Microsoft Copilot for Productivity by Microsoft and LinkedIn](../../Artificial%20Intelligence%20(AI)/Professional%20Certificates/Microsoft%20Copilot%20for%20Productivity%20by%20Microsoft%20and%20LinkedIn.md) (1 shared courses)
+- [Career Essentials in Generative AI by Microsoft and LinkedIn](../../Artificial%20Intelligence%20(AI)/Professional%20Certificates/Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.md) (1 shared courses)
 
 ---
 
-Part of [[000 Map of Content]] · [[Cloud Computing]]
+Part of [000 Map of Content](../../../000%20Map%20of%20Content.md) · [Cloud Computing](../../../Topics/Cloud%20Computing.md)

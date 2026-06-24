@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Product Security- Building Strong Data Governance and Protection]]
+- [AI Product Security- Building Strong Data Governance and Protection](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Building%20Strong%20Data%20Governance%20and%20Protection.md)

@@ -24,8 +24,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Introduction to Large Language Models]]
-- [[Generative AI- Working with Large Language Models]]
-- [[TensorFlow- Working with NLP]]
-- [[Level Up- Advanced Python]]
-- [[8 Things You Must Know in Python]]
+- [Introduction to Large Language Models](../../Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Large%20Language%20Models.md)
+- [Generative AI- Working with Large Language Models](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-%20Working%20with%20Large%20Language%20Models.md)
+- [TensorFlow- Working with NLP](../../Courses/Artificial%20Intelligence%20(AI)/TensorFlow-%20Working%20with%20NLP.md)
+- [Level Up- Advanced Python](../../Courses/Software%20Development/Level%20Up-%20Advanced%20Python.md)
+- [8 Things You Must Know in Python](../../Courses/Data%20Science/8%20Things%20You%20Must%20Know%20in%20Python.md)

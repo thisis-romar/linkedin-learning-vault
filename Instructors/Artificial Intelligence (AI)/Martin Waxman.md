@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Generative AI for Digital Marketers]]
+- [Generative AI for Digital Marketers](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20for%20Digital%20Marketers.md)

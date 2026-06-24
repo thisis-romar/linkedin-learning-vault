@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Fundamentals for Data Professionals]]
+- [AI Fundamentals for Data Professionals](../../Courses/Database%20Management/AI%20Fundamentals%20for%20Data%20Professionals.md)

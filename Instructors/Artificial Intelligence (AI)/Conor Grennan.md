@@ -24,4 +24,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[AI Challenges and Opportunities for Leadership]]
+- [AI Challenges and Opportunities for Leadership](../../Courses/Artificial%20Intelligence%20(AI)/AI%20Challenges%20and%20Opportunities%20for%20Leadership.md)

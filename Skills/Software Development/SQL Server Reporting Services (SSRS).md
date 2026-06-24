@@ -22,8 +22,8 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL Server- Reporting Services]] — Advanced · 3h 42m · 33,486 learners
+- [SQL Server- Reporting Services](../../Courses/Database%20Management/SQL%20Server-%20Reporting%20Services.md) — Advanced · 3h 42m · 33,486 learners
 
 ## Related Skills
 
-- [[Microsoft SQL Server]] — 1 shared course
+- [Microsoft SQL Server](Microsoft%20SQL%20Server.md) — 1 shared course

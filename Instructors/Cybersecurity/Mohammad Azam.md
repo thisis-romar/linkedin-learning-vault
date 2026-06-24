@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Blockchain Programming in iOS Using Swift]]
+- [Blockchain Programming in iOS Using Swift](../../Courses/Cybersecurity/Blockchain%20Programming%20in%20iOS%20Using%20Swift.md)

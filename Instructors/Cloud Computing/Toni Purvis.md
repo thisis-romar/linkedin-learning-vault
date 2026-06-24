@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Business Etiquette- Phone, Email, and Text]]
+- [Business Etiquette- Phone, Email, and Text](../../Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md)

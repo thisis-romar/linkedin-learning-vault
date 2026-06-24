@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Actionable Insights and Business Data in Practice]] — Intermediate · 1h 33m · 156,362 learners
+- [Actionable Insights and Business Data in Practice](../../Courses/Data%20Science/Actionable%20Insights%20and%20Business%20Data%20in%20Practice.md) — Intermediate · 1h 33m · 156,362 learners
 
 ## Related Skills
 
-- [[Data Analysis]] — 1 shared course
-- [[Data-driven Decision Making]] — 1 shared course
+- [Data Analysis](Data%20Analysis.md) — 1 shared course
+- [Data-driven Decision Making](Data-driven%20Decision%20Making.md) — 1 shared course

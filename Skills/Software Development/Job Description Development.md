@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Employee Engagement- Making Sustainability Part of Everybody’s Job]] — 1h 2m · 14,519 learners
+- [Employee Engagement- Making Sustainability Part of Everybody’s Job](../../Courses/Software%20Development/Employee%20Engagement-%20Making%20Sustainability%20Part%20of%20Everybody%E2%80%99s%20Job.md) — 1h 2m · 14,519 learners
 
 ## Related Skills
 
-- [[Corporate Sustainability]] — 1 shared course
-- [[Sustainability]] — 1 shared course
+- [Corporate Sustainability](Corporate%20Sustainability.md) — 1 shared course
+- [Sustainability](Sustainability.md) — 1 shared course

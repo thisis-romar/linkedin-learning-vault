@@ -20,4 +20,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Be the Manager People Won't Leave]]
+- [Be the Manager People Won't Leave](../../Courses/Data%20Science/Be%20the%20Manager%20People%20Won't%20Leave.md)

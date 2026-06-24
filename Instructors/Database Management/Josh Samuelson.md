@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning Terraform]]
+- [Learning Terraform](../../Courses/Database%20Management/Learning%20Terraform.md)

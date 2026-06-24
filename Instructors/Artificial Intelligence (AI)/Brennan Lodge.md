@@ -22,4 +22,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[RAG for Cybersecurity- Use Cases and Implementation]]
+- [RAG for Cybersecurity- Use Cases and Implementation](../../Courses/Artificial%20Intelligence%20(AI)/RAG%20for%20Cybersecurity-%20Use%20Cases%20and%20Implementation.md)

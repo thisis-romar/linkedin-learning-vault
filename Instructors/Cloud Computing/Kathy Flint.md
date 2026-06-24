@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Performance Tuning in Spring Apps]]
+- [Performance Tuning in Spring Apps](../../Courses/Cloud%20Computing/Performance%20Tuning%20in%20Spring%20Apps.md)

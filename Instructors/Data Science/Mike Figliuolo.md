@@ -26,7 +26,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Critical Thinking]]
-- [[Strategic Negotiation]]
-- [[Building Accountability into Your Culture]]
-- [[Creating a High Performance Culture]]
+- [Critical Thinking](../../Skills/Data%20Science/Critical%20Thinking.md)
+- [Strategic Negotiation](../../Courses/Data%20Science/Strategic%20Negotiation.md)
+- [Building Accountability into Your Culture](../../Courses/Data%20Science/Building%20Accountability%20into%20Your%20Culture.md)
+- [Creating a High Performance Culture](../../Courses/Data%20Science/Creating%20a%20High%20Performance%20Culture.md)

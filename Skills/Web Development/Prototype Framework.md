@@ -22,9 +22,9 @@ created: 2026-05-03
 
 ## Courses
 
-- [[JavaScript- Prototypes]] — Intermediate · 1h 19m · 20,252 learners
+- [JavaScript- Prototypes](../../Courses/Network%20and%20System%20Administration/JavaScript-%20Prototypes.md) — Intermediate · 1h 19m · 20,252 learners
 
 ## Related Skills
 
-- [[Software Prototyping]] — 1 shared course
-- [[JavaScript]] — 1 shared course
+- [Software Prototyping](Software%20Prototyping.md) — 1 shared course
+- [JavaScript](../Software%20Development/JavaScript.md) — 1 shared course

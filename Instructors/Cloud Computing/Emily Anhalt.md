@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Building Resilience]]
+- [Building Resilience](../../Courses/Cloud%20Computing/Building%20Resilience.md)

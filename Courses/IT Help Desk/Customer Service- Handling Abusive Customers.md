@@ -17,14 +17,14 @@ exercise_files: false
 thumbnail: "https://media.licdn.com/dms/image/v2/D4E0DAQFtUbFcrY63Vg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731633528824?e=2147483647&amp;v=beta&amp;t=dLYe60es3r3lsilSQ8jADW7yLSMs9IdJs5nk-tjRc9A"
 linkedin_topic: IT Help Desk
 learning_paths:
-  - '[[Build Your Skills In Customer Service]]'
-  - '[[Zendesk Customer Service Professional Certificate]]'
+  - '[Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)'
+  - '[Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)'
 prev_courses:
-  - '[[Customer Service- Call Control Strategies]]'
-  - '[[Building Rapport with Customers (2022)]]'
+  - '[Customer Service- Call Control Strategies](Customer%20Service-%20Call%20Control%20Strategies.md)'
+  - '[Building Rapport with Customers (2022)](Building%20Rapport%20with%20Customers%20(2022).md)'
 next_courses:
-  - '[[Creating Positive Conversations with Challenging Customers]]'
-  - '[[Creating Positive Conversations with Challenging Customers]]'
+  - '[Creating Positive Conversations with Challenging Customers](Creating%20Positive%20Conversations%20with%20Challenging%20Customers.md)'
+  - '[Creating Positive Conversations with Challenging Customers](Creating%20Positive%20Conversations%20with%20Challenging%20Customers.md)'
 path_nav: '[{"path":"Build Your Skills In Customer Service","position":5,"total":8,"prev":"Customer Service- Call Control Strategies","next":"Creating Positive Conversations with Challenging Customers"},{"path":"Zendesk Customer Service Professional Certificate","position":4,"total":6,"prev":"Building Rapport with Customers (2022)","next":"Creating Positive Conversations with Challenging Customers"}]'
 path_count: 2
 tags:
@@ -89,13 +89,13 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980&t=1)** - Our goal in any customer interaction is to make sure that the customer leaves happy. But sometimes good people can get upset and become abusive in customer service interactions. Even when you do everything right. Why? Well, there is many reasons as there are people. It's important to explore and understand these reasons because it will give you insight into the possible state of mind of your customers, and you may be able to relate to them on some level. The more relatable you are to your customers, the better chance you have to deescalate the situation and solve their customer service issues. Here are five reasons why customers commonly get heated. First, career. Your customer may have recently lost their job or may feel stuck in a job they hate. That can very easily put them in a negative state of mind by the time they meet you. Second, relationships. Your customer may be having relationship challenges. They may have recently broke up with their significant other or gone through a tough divorce. They may even be having issues with their relatives, children, or friends. Third, finances. Your customer may be experiencing extreme financial difficulties, lack of money, they may have lost their home to the bank or may be involved in a costly lawsuit. Any of these situations could cause a negative state of mind in your customers. Fourth, health.
 >
-> **[1:35](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980&t=95)** Health complications can have a drastic effect on someone's emotional state of being. Your customer may have just been diagnosed with cancer, they may have a sick child, or recently lost someone close to them. And last, overall wellbeing. Some people are simply in the bad habit of being abusive to customer service representatives. These people are the toughest to deal with because their reaction to issues does not match the situation. They simply have run this pattern in their interactions for so long it's become normal for them. We've all met people that find a way to be unhappy and negative regardless of what's going on in their lives. Can you relate to any of these challenges? Imagine the impact that any of these situations would have on you. Now, imagine a friendly, understanding, an empathetic customer service representative providing you with a positive experience among all this negativity. How would that make you feel? The other thing I want to point out is that none of these reasons have anything to do with you nor even your company's [[Microsoft Products|products]] or services. Customers are most often abusive because they're going through something tough in their lives and they're not dealing with it well. That does not excuse abusive behavior, but reframing their behavior this way does provide you an opportunity to be more understanding when customer interactions get heated.
+> **[1:35](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980&t=95)** Health complications can have a drastic effect on someone's emotional state of being. Your customer may have just been diagnosed with cancer, they may have a sick child, or recently lost someone close to them. And last, overall wellbeing. Some people are simply in the bad habit of being abusive to customer service representatives. These people are the toughest to deal with because their reaction to issues does not match the situation. They simply have run this pattern in their interactions for so long it's become normal for them. We've all met people that find a way to be unhappy and negative regardless of what's going on in their lives. Can you relate to any of these challenges? Imagine the impact that any of these situations would have on you. Now, imagine a friendly, understanding, an empathetic customer service representative providing you with a positive experience among all this negativity. How would that make you feel? The other thing I want to point out is that none of these reasons have anything to do with you nor even your company's [products](../../Skills/Software%20Development/Microsoft%20Products.md) or services. Customers are most often abusive because they're going through something tough in their lives and they're not dealing with it well. That does not excuse abusive behavior, but reframing their behavior this way does provide you an opportunity to be more understanding when customer interactions get heated.
 >
 > **[3:08](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/understanding-why-customers-are-abusive?u=76281980&t=188)** Next time you have an upset customer, try using kindness and caring first and see if it works.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - our (1)
@@ -111,11 +111,11 @@ created: 2026-05-03
 >
 > **[0:01](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980&t=1)** - Three simple questions are all it takes to start solving the customer's problem and get them into a calmer state. The first question you must answer is crucial. Why is the customer upset? And the best way to find the answer is to ask the customer. You might say to the customer, "I want to do what I can to make sure you're happy. Can you tell me what happened?" Even if you think you know the answer, it's best not to assume anything. Let them tell you in their own words. If the customer won't tell you or can't tell you, then it's up to you to investigate. Talk to your colleagues, check the purchase history notes, or ask your manager. Good customer service means going that extra mile to research the problem so you can fully solve the right problem. The second question to consider is what does the customer want at the end of the transaction? Regardless of whether or not you can accommodate your customer's request, you need to know what they expect. Again, the best way to find out is to ask. Let them tell you in their own words. You might ask, "What would be the best solution for you in this situation?" Or, "What can I do to make sure you leave happy?" Now, this can be the scariest question (laughs) in all of customer service because you don't know what their response will be, but through all the research I've done, I found your customers ultimately only need three things from you at the end of the day.
 >
-> **[1:34](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980&t=94)** They need to feel heard, understood, and cared for. By asking what they want in a sincere manner, your customer will feel all three of those things. In addition, once your customer feels these things, their response to this question is usually quite reasonable. In fact, usually their request is even less than the compensation or solution you're allowed to offer. Now, if the customer's still angry after that second question, or they're making unreasonable demands, this is where the third question comes in. What can you do to solve their problem, even if it's not the exact outcome they desire? In this case, you'll have a better chance of appeasing the customer and calming them down when you use positive communication. Positive communication is when you do everything you can to avoid the [[Microsoft Word|word]] "no" in order to keep the transaction moving in a positive direction. My favorite phrase when it comes to this concept is, "I wish I could. What I can do for you is..." That way, you're telling the customer all that you're capable of doing to assist them. Your intent is to show them that they've been heard, understood, and cared for. Go ahead and write that phrase down now so you can use it next time your customer asks for more than you can deliver. It shows you're maxing out your ability to help them. With these three questions, you'll be better equipped to handle abusive customers quickly and effectively.
+> **[1:34](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980&t=94)** They need to feel heard, understood, and cared for. By asking what they want in a sincere manner, your customer will feel all three of those things. In addition, once your customer feels these things, their response to this question is usually quite reasonable. In fact, usually their request is even less than the compensation or solution you're allowed to offer. Now, if the customer's still angry after that second question, or they're making unreasonable demands, this is where the third question comes in. What can you do to solve their problem, even if it's not the exact outcome they desire? In this case, you'll have a better chance of appeasing the customer and calming them down when you use positive communication. Positive communication is when you do everything you can to avoid the [word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) "no" in order to keep the transaction moving in a positive direction. My favorite phrase when it comes to this concept is, "I wish I could. What I can do for you is..." That way, you're telling the customer all that you're capable of doing to assist them. Your intent is to show them that they've been heard, understood, and cared for. Go ahead and write that phrase down now so you can use it next time your customer asks for more than you can deliver. It shows you're maxing out your ability to help them. With these three questions, you'll be better equipped to handle abusive customers quickly and effectively.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [Word](../../Skills/Cloud%20Computing/Microsoft%20Word.md) (1)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - three (1)
 
@@ -123,7 +123,7 @@ created: 2026-05-03
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/reassuring-the-customer?u=76281980&t=0)** - A few years back, I was on a speaking tour. And that week, there was a mistake on my cell phone bill. I figured no big deal. I'll call up customer service and it should be easy for them to fix. So I get the customer service rep on the phone. The guy sounded like a robot, saying, "There's nothing I can do." So I tried to humanize Robot Man and I asked him if anything like this had ever happened to him. He actually said, "Yes." I said, "Okay, what did you do?" He said, "I paid it." I'm thinking, "This is ridiculous," and obviously I'm not getting anywhere with this guy. So we hung up. Then I get the text, you know the one, asking me to rate the service. I punched in 000. I mean, I was upset. After one of my speeches that day, the phone rings. It's an 800 number. I answer, and it's my wireless phone company customer service supervisor. I was excited. I thought, finally someone that can help me. Guess what she said? "There was nothing she could do." She was ready for battle. She even got upset. I decided in that moment that as soon as I got home, I was going to switch carriers. So I'm getting ready to head out of my hotel to a restaurant to go to dinner, and the phone rings again. This time I get yet another customer service rep, [[John the Ripper|John]], from the phone company, but he was different. I explained my problem to him and he said, "I know how frustrating that can be.
+> **[0:00](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/reassuring-the-customer?u=76281980&t=0)** - A few years back, I was on a speaking tour. And that week, there was a mistake on my cell phone bill. I figured no big deal. I'll call up customer service and it should be easy for them to fix. So I get the customer service rep on the phone. The guy sounded like a robot, saying, "There's nothing I can do." So I tried to humanize Robot Man and I asked him if anything like this had ever happened to him. He actually said, "Yes." I said, "Okay, what did you do?" He said, "I paid it." I'm thinking, "This is ridiculous," and obviously I'm not getting anywhere with this guy. So we hung up. Then I get the text, you know the one, asking me to rate the service. I punched in 000. I mean, I was upset. After one of my speeches that day, the phone rings. It's an 800 number. I answer, and it's my wireless phone company customer service supervisor. I was excited. I thought, finally someone that can help me. Guess what she said? "There was nothing she could do." She was ready for battle. She even got upset. I decided in that moment that as soon as I got home, I was going to switch carriers. So I'm getting ready to head out of my hotel to a restaurant to go to dinner, and the phone rings again. This time I get yet another customer service rep, [John](../../Glossary/Tool/John%20the%20Ripper.md), from the phone company, but he was different. I explained my problem to him and he said, "I know how frustrating that can be.
 >
 > **[1:35](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/reassuring-the-customer?u=76281980&t=95)** "It's happened to me before too. "I'm here now and I promise that I will get this resolved "for you ASAP." Then I explained to him that I was on my way to dinner and I asked if I could call him back. He said, "I wish you could, but you'll get someone else." I said, "That's it. "You're going to dinner with me." I kept him on the line until he resolved the problem and issued me a refund. Here's what John did to reassure me and keep me from switching carriers. First, you must take responsibility for whatever problem your customer is having, even if it's not your fault. This is one of the most challenging strategies for many customer service representatives to embrace. When John took my call, he took responsibility for what I went through with the other two customer service reps and reassured me that he would take care of me. When something negative is not your fault, it's human nature to want to blame someone else or shy away from responsibility, but in order to provide your customers with world class service, you must take responsibility for the issue in that moment. Why? Because in that moment, you represent your company, your customer doesn't care who screwed up. They simply want their issue fixed. Don't take anything personally, but apologize and take responsibility. Second, tell your customer that you will do everything you can to ensure that they leave happy. When you communicate this to your customer effectively,
 >
@@ -131,7 +131,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (5)
+> **Frameworks & Libraries:** [John](../../Glossary/Tool/John%20the%20Ripper.md) (5)
 > **Env Vars:** asap (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -245,7 +245,7 @@ created: 2026-05-03
 >
 > **[0:47](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980&t=47)** - (sighs) The order number is 067432, and I ordered a sign for my convention booth from you guys. You promised I'd get it. I don't have it. Now your stupid shipping website says I'm not going to get it today. I need to have it today, so get me my sign!
 >
-> **[1:03](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980&t=63)** - I apologize for that. Please forgive me. I know how frustrating this can be. I've expected [[Microsoft Products|products]] on a certain date and didn't get them, and it was a real bummer, but my goal is to make sure that you leave this conversation happy, so I will do whatever I can to remedy the situation for you ASAP. Let me have a look at your order now.
+> **[1:03](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980&t=63)** - I apologize for that. Please forgive me. I know how frustrating this can be. I've expected [products](../../Skills/Software%20Development/Microsoft%20Products.md) on a certain date and didn't get them, and it was a real bummer, but my goal is to make sure that you leave this conversation happy, so I will do whatever I can to remedy the situation for you ASAP. Let me have a look at your order now.
 >
 > **[1:24](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980&t=84)** - Your company screwed up, so fix it!
 >
@@ -279,7 +279,7 @@ created: 2026-05-03
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [Products](../../Skills/Software%20Development/Microsoft%20Products.md) (2)
 > **Speakers:** - i (6), - okay (3), - now (1), - thank (1), - jim (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** asap (1)
@@ -349,7 +349,7 @@ created: 2026-05-03
 
 ## Instructor
 
-- [[David Brownlee]]
+- [David Brownlee](../../Instructors/IT%20Help%20Desk/David%20Brownlee.md)
 
 ## Skills Covered
 
@@ -358,30 +358,30 @@ created: 2026-05-03
 
 ## Path Context
 
-### In [[Build Your Skills In Customer Service]]
-← [[Customer Service- Call Control Strategies]] | **5 of 8** | [[Creating Positive Conversations with Challenging Customers]] →
+### In [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
+← [Customer Service- Call Control Strategies](Customer%20Service-%20Call%20Control%20Strategies.md) | **5 of 8** | [Creating Positive Conversations with Challenging Customers](Creating%20Positive%20Conversations%20with%20Challenging%20Customers.md) →
 
-### In [[Zendesk Customer Service Professional Certificate]]
-← [[Building Rapport with Customers (2022)]] | **4 of 6** | [[Creating Positive Conversations with Challenging Customers]] →
+### In [Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)
+← [Building Rapport with Customers (2022)](Building%20Rapport%20with%20Customers%20(2022).md) | **4 of 6** | [Creating Positive Conversations with Challenging Customers](Creating%20Positive%20Conversations%20with%20Challenging%20Customers.md) →
 
 ## Part of
 
-- [[Zendesk Customer Service Professional Certificate]]
+- [Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)
 
 ## Appears In
 
-- [[Build Your Skills In Customer Service]]
-- [[Zendesk Customer Service Professional Certificate]]
+- [Build Your Skills In Customer Service](../../Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)
+- [Zendesk Customer Service Professional Certificate](../../Paths/IT%20Help%20Desk/Professional%20Certificates/Zendesk%20Customer%20Service%20Professional%20Certificate.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Innovative Customer Service Techniques]] — Customer Service
-- [[Working with Upset Customers]] — Customer Service
-- [[Phone-Based Customer Service]] — Customer Service
-- [[Writing Customer Service Emails]] — Customer Service
-- [[Building Rapport with Customers (2022)]] — Customer Service
+- [Innovative Customer Service Techniques](Innovative%20Customer%20Service%20Techniques.md) — Customer Service
+- [Working with Upset Customers](Working%20with%20Upset%20Customers.md) — Customer Service
+- [Phone-Based Customer Service](Phone-Based%20Customer%20Service.md) — Customer Service
+- [Writing Customer Service Emails](Writing%20Customer%20Service%20Emails.md) — Customer Service
+- [Building Rapport with Customers (2022)](Building%20Rapport%20with%20Customers%20(2022).md) — Customer Service
 
 ---
 

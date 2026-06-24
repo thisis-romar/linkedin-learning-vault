@@ -30,7 +30,7 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Complete Guide to Python for Data Engineering- From Beginner to Advanced]]
-- [[Introduction to Data Warehouses]]
-- [[Generative AI for Data Engineering- ChatGPT Power Tips]]
-- [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]]
+- [Complete Guide to Python for Data Engineering- From Beginner to Advanced](../../Courses/Data%20Science/Complete%20Guide%20to%20Python%20for%20Data%20Engineering-%20From%20Beginner%20to%20Advanced.md)
+- [Introduction to Data Warehouses](../../Courses/Data%20Science/Introduction%20to%20Data%20Warehouses.md)
+- [Generative AI for Data Engineering- ChatGPT Power Tips](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20for%20Data%20Engineering-%20ChatGPT%20Power%20Tips.md)
+- [Complete Guide to SQL for Data Engineering- from Beginner to Advanced](../../Courses/Data%20Science/Complete%20Guide%20to%20SQL%20for%20Data%20Engineering-%20from%20Beginner%20to%20Advanced.md)

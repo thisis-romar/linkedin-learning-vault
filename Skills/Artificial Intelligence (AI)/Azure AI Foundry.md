@@ -22,32 +22,32 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — Beginner · 7,016 learners
-- [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — Intermediate · 1h 24m · 5,485 learners
-- [[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]] — Intermediate · 1h 54m · 3,810 learners
-- [[Building in Azure AI Foundry]] — Intermediate · 54m · 1,011 learners
+- [Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure](../../Courses/Artificial%20Intelligence%20(AI)/Microsoft%20Azure%20Ai%20Essentials%20Workloads%20And%20Machine%20Learning%20On%20Azure.md) — Beginner · 7,016 learners
+- [Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)](../../Courses/Artificial%20Intelligence%20(AI)/Building%20RAG%20Solutions%20with%20Azure%20AI%20Foundry%20(Formerly%20Azure%20AI%20Studio).md) — Intermediate · 1h 24m · 5,485 learners
+- [Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20for%20Developers-%20Retrieval-Augmented%20Generation%20(RAG)%20with%20Azure%20AI.md) — Intermediate · 1h 54m · 3,810 learners
+- [Building in Azure AI Foundry](../../Courses/Artificial%20Intelligence%20(AI)/Building%20in%20Azure%20AI%20Foundry.md) — Intermediate · 54m · 1,011 learners
 
 ## Related Skills
 
-- [[Artificial Intelligence (AI)]] — 4 shared courses
-- [[Machine Learning]] — 2 shared courses
-- [[Retrieval-Augmented Generation (RAG)]] — 2 shared courses
-- [[Azure AI Studio]] — 2 shared courses
-- [[Microsoft Azure]] — 1 shared course
-- [[AI Software Development]] — 1 shared course
+- [Artificial Intelligence (AI)](../../Topics/Artificial%20Intelligence%20(AI).md) — 4 shared courses
+- [Machine Learning](Machine%20Learning.md) — 2 shared courses
+- [Retrieval-Augmented Generation (RAG)](Retrieval-Augmented%20Generation%20(RAG).md) — 2 shared courses
+- [Azure AI Studio](Azure%20AI%20Studio.md) — 2 shared courses
+- [Microsoft Azure](../Cloud%20Computing/Microsoft%20Azure.md) — 1 shared course
+- [AI Software Development](AI%20Software%20Development.md) — 1 shared course
 
 ## Mentioned In Transcripts _(147 total mentions)_
 
-1. [[Building in Azure AI Foundry]] — 35 mentions
-2. [[Azure Ai For Developers Ai Design Foundations]] — 17 mentions
-3. [[Azure AI Services Essential Training]] — 12 mentions
-4. [[Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI]] — 12 mentions
-5. [[Azure AI for Developers- Azure AI Speech]] — 12 mentions
-6. [[Azure AI for Developers- LLMs and SLMs]] — 10 mentions
-7. [[Azure AI for Developers- Content Safety and Responsible AI]] — 10 mentions
-8. [[Azure AI for Developers- OpenAI Services and Generative AI Models]] — 9 mentions
-9. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 8 mentions
-10. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 8 mentions
-11. [[Azure Essential Training for Developers]] — 7 mentions
-12. [[Azure AI for Developers- Building AI Agents]] — 6 mentions
-13. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
+1. [Building in Azure AI Foundry](../../Courses/Artificial%20Intelligence%20(AI)/Building%20in%20Azure%20AI%20Foundry.md) — 35 mentions
+2. [Azure Ai For Developers Ai Design Foundations](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20Ai%20For%20Developers%20Ai%20Design%20Foundations.md) — 17 mentions
+3. [Azure AI Services Essential Training](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Services%20Essential%20Training.md) — 12 mentions
+4. [Azure for Developers- Retrieval-Augmented Generation (RAG) with Azure AI](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20for%20Developers-%20Retrieval-Augmented%20Generation%20(RAG)%20with%20Azure%20AI.md) — 12 mentions
+5. [Azure AI for Developers- Azure AI Speech](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Azure%20AI%20Speech.md) — 12 mentions
+6. [Azure AI for Developers- LLMs and SLMs](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20LLMs%20and%20SLMs.md) — 10 mentions
+7. [Azure AI for Developers- Content Safety and Responsible AI](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Content%20Safety%20and%20Responsible%20AI.md) — 10 mentions
+8. [Azure AI for Developers- OpenAI Services and Generative AI Models](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20OpenAI%20Services%20and%20Generative%20AI%20Models.md) — 9 mentions
+9. [Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure](../../Courses/Artificial%20Intelligence%20(AI)/Microsoft%20Azure%20Ai%20Essentials%20Workloads%20And%20Machine%20Learning%20On%20Azure.md) — 8 mentions
+10. [Azure AI for Developers- Using the Azure AI Model Catalog](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Using%20the%20Azure%20AI%20Model%20Catalog.md) — 8 mentions
+11. [Azure Essential Training for Developers](../../Courses/Cloud%20Computing/Azure%20Essential%20Training%20for%20Developers.md) — 7 mentions
+12. [Azure AI for Developers- Building AI Agents](../../Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Building%20AI%20Agents.md) — 6 mentions
+13. [The AI Ecosystem for Developers- Models, Datasets, and APIs](../../Courses/Artificial%20Intelligence%20(AI)/The%20AI%20Ecosystem%20for%20Developers-%20Models%2C%20Datasets%2C%20and%20APIs.md) — 1 mentions

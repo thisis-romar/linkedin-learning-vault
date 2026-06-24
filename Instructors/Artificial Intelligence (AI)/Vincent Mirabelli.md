@@ -20,5 +20,5 @@ created: 2026-05-03
 
 ## Courses
 
-- [[Learning ChatGPT for Business Analysis]]
-- [[Generative AI-Powered Strategic Business Analysis]]
+- [Learning ChatGPT for Business Analysis](../../Courses/Artificial%20Intelligence%20(AI)/Learning%20ChatGPT%20for%20Business%20Analysis.md)
+- [Generative AI-Powered Strategic Business Analysis](../../Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-Powered%20Strategic%20Business%20Analysis.md)

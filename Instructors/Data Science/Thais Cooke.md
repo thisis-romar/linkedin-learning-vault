@@ -26,4 +26,4 @@ created: 2026-05-03
 
 ## Courses
 
-- [[SQL for Healthcare Professionals]]
+- [SQL for Healthcare Professionals](../../Courses/Data%20Science/SQL%20for%20Healthcare%20Professionals.md)
