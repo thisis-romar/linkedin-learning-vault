@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "audit_id": "blender-2026-11-11",
+  "audit_date": "2026-11-11",
+  "timezone": "America/Toronto",
+  "status": "blocked_before_live_discovery",
+  "complete": false,
+  "scope": {
+    "software": "Blender",
+    "public_search_url": "https://www.linkedin.com/learning/search?software=Blender",
+    "account_context": "preserved in private evidence; omitted from this public report",
+    "all_pages": true,
+    "retain_language_and_version_variants": true,
+    "phase": "inventory_and_existing_file_verification",
+    "bulk_acquisition": false
+  },
+  "source_coverage": {
+    "expected_search_pages": null,
+    "reconciled_search_pages": 0,
+    "expected_courses_and_variants": null,
+    "inventoried_courses_and_variants": 0,
+    "expected_assets": null,
+    "asset_integrity_coverage": null,
+    "denominator_reconciled": false
+  },
+  "local_vault_baseline": {
+    "commit": "fa97a813fdfe41acfa24445c5abfac3da29cdd76",
+    "observed_at_utc": "2026-11-11T18:22:09.670715+00:00",
+    "tracked_regular_files": 4487,
+    "total_file_bytes": 210031872,
+    "course_notes": 1719,
+    "worktree_blob_mismatches": 0,
+    "blender_path_or_single_line_title_matches": 0,
+    "course_media_extension_candidates": 0,
+    "validation": "SHA-256 of every baseline Git blob compared with corresponding worktree bytes",
+    "limitation": "Local byte consistency only; no live coverage or course-file semantic validity established"
+  },
+  "blockers": [
+    {
+      "code": "browser_runtime_unavailable",
+      "stage": "authenticated_search_discovery"
+    },
+    {
+      "code": "http_fallback_outside_confirmed_scope",
+      "observation": "generic signed-out catalog; no Blender results; global counts excluded"
+    }
+  ],
+  "asset_statuses": [
+    "verified",
+    "available_unverified",
+    "missing",
+    "not_offered",
+    "blocked",
+    "failed"
+  ],
+  "raw_course_files_included": false,
+  "detailed_evidence_storage": "private, outside public Git history"
+}
