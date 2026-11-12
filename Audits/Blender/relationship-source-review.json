@@ -1,0 +1,733 @@
+{
+  "schema_version": 1,
+  "audit_id": "blender-2026-11-11",
+  "audit_date": "2026-11-11",
+  "review_date": "2026-11-12",
+  "timezone": "America/Toronto",
+  "observed_through_utc": "2026-11-12T15:21:34.980Z",
+  "status": "review_complete_candidates_retained_declarations_unresolved",
+  "summary": {
+    "reviewed_courses": 6,
+    "reviewed_pairs": 6,
+    "confirmed_named_course_relationships": 0,
+    "candidate_pairs": 6,
+    "unresolved_pair_declarations": 6,
+    "source_supported_software_coverage_courses": 6,
+    "provider_course_language_declarations": 6,
+    "provider_declared_language_counts": {
+      "de": 3,
+      "en": 3
+    },
+    "ui_language_comparison_courses": 2,
+    "original_audio_languages_verified": 0,
+    "description_version_wording_issues": 1,
+    "existing_exercise_archive_offers": 37,
+    "asset_bytes_verified": false
+  },
+  "classification_meaning": {
+    "confirmed": "An explicit source statement identifies the named course relationship.",
+    "candidate": "Observed metadata supports review, while a source declaration of the named relationship remains unestablished.",
+    "unresolved": "The checked sources do not establish the particular successor, translation, or formal family declaration; this is not proof that no relationship exists."
+  },
+  "courses": [
+    {
+      "content_id": "urn:li:learningApiCourse:3901482",
+      "course_slug": "blender-2-8-grundkurs",
+      "title": "Blender 2.8 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-2-8-grundkurs",
+      "source_observed_at_utc": "2026-11-12T15:09:10.456Z",
+      "title_version_labels": [
+        "2.8"
+      ],
+      "observed_heading_version_labels": [
+        "2.8"
+      ],
+      "source_supported_software_coverage": true,
+      "software_coverage_finding": "Live course and introduction/version metadata support the displayed software version; no different course is identified as a replacement or translation.",
+      "software_transition_coverage": [],
+      "description_version_issue": null,
+      "provider_declared_course_language": {
+        "field": "Course.inLanguage",
+        "values": [
+          "de"
+        ],
+        "source": "Public course-page structured metadata",
+        "observed_ui_document_languages": [
+          "de"
+        ],
+        "stable_across_checked_ui_languages": false,
+        "field_differs_from_ui_on_checked_source": false,
+        "original_audio_verified": false
+      },
+      "replacement_field_state": "null",
+      "explicit_named_course_relationship_status": "unresolved",
+      "source_ids": [
+        "source-001",
+        "source-007"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "content_id": "urn:li:learningApiCourse:58835316",
+      "course_slug": "blender-3-5-grundkurs",
+      "title": "Blender 3.5 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-3-5-grundkurs",
+      "source_observed_at_utc": "2026-11-12T15:09:15.034Z",
+      "title_version_labels": [
+        "3.5"
+      ],
+      "observed_heading_version_labels": [
+        "2.8",
+        "3.5"
+      ],
+      "source_supported_software_coverage": true,
+      "software_coverage_finding": "Live course title and TOC section support coverage through Blender 3.5 and changes from 2.8 to 3.5. The retained 2.8 introduction/description wording is a metadata discrepancy; its cause remains unresolved.",
+      "software_transition_coverage": [
+        {
+          "from": "2.8",
+          "to": "3.5"
+        }
+      ],
+      "description_version_issue": {
+        "status": "unresolved_description_version_wording",
+        "title_version_labels": [
+          "3.5"
+        ],
+        "description_version_mentions": [
+          "2.8"
+        ],
+        "same_description_text_as_course_slug": "blender-2-8-grundkurs",
+        "interpretation": "The current description mentions 2.8 while the course title is 3.5; the live TOC supports coverage through 3.5. This does not establish stale content or a formal course-family relationship."
+      },
+      "provider_declared_course_language": {
+        "field": "Course.inLanguage",
+        "values": [
+          "de"
+        ],
+        "source": "Public course-page structured metadata",
+        "observed_ui_document_languages": [
+          "de",
+          "en"
+        ],
+        "stable_across_checked_ui_languages": true,
+        "field_differs_from_ui_on_checked_source": true,
+        "original_audio_verified": false
+      },
+      "replacement_field_state": "null",
+      "explicit_named_course_relationship_status": "unresolved",
+      "source_ids": [
+        "source-002",
+        "source-008",
+        "source-013",
+        "source-014",
+        "source-015",
+        "source-017"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "content_id": "urn:li:learningApiCourse:60005584",
+      "course_slug": "blender-4-0-grundkurs",
+      "title": "Blender 4.0 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-4-0-grundkurs",
+      "source_observed_at_utc": "2026-11-12T15:09:20.092Z",
+      "title_version_labels": [
+        "4.0"
+      ],
+      "observed_heading_version_labels": [
+        "4.0"
+      ],
+      "source_supported_software_coverage": true,
+      "software_coverage_finding": "Live course and introduction/version metadata support the displayed software version; no different course is identified as a replacement or translation.",
+      "software_transition_coverage": [],
+      "description_version_issue": null,
+      "provider_declared_course_language": {
+        "field": "Course.inLanguage",
+        "values": [
+          "de"
+        ],
+        "source": "Public course-page structured metadata",
+        "observed_ui_document_languages": [
+          "de"
+        ],
+        "stable_across_checked_ui_languages": false,
+        "field_differs_from_ui_on_checked_source": false,
+        "original_audio_verified": false
+      },
+      "replacement_field_state": "null",
+      "explicit_named_course_relationship_status": "unresolved",
+      "source_ids": [
+        "source-003",
+        "source-009"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "content_id": "urn:li:learningApiCourse:10054634",
+      "course_slug": "blender-2-91-essential-training",
+      "title": "Blender 2.91 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-2-91-essential-training",
+      "source_observed_at_utc": "2026-11-12T15:09:25.037Z",
+      "title_version_labels": [
+        "2.91"
+      ],
+      "observed_heading_version_labels": [
+        "2.91"
+      ],
+      "source_supported_software_coverage": true,
+      "software_coverage_finding": "Live course and introduction/version metadata support the displayed software version; no different course is identified as a replacement or translation.",
+      "software_transition_coverage": [],
+      "description_version_issue": null,
+      "provider_declared_course_language": {
+        "field": "Course.inLanguage",
+        "values": [
+          "en"
+        ],
+        "source": "Public course-page structured metadata",
+        "observed_ui_document_languages": [
+          "de"
+        ],
+        "stable_across_checked_ui_languages": false,
+        "field_differs_from_ui_on_checked_source": true,
+        "original_audio_verified": false
+      },
+      "replacement_field_state": "null",
+      "explicit_named_course_relationship_status": "unresolved",
+      "source_ids": [
+        "source-004",
+        "source-010"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "content_id": "urn:li:learningApiCourse:36666696",
+      "course_slug": "blender-3-essential-training",
+      "title": "Blender 3 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-3-essential-training",
+      "source_observed_at_utc": "2026-11-12T15:09:30.238Z",
+      "title_version_labels": [
+        "3"
+      ],
+      "observed_heading_version_labels": [
+        "3",
+        "3.0"
+      ],
+      "source_supported_software_coverage": true,
+      "software_coverage_finding": "The same source course uses title label 3 and introductory-lesson label 3.0. Both labels are retained literally; no asset compatibility or family equivalence is inferred.",
+      "software_transition_coverage": [],
+      "description_version_issue": null,
+      "provider_declared_course_language": {
+        "field": "Course.inLanguage",
+        "values": [
+          "en"
+        ],
+        "source": "Public course-page structured metadata",
+        "observed_ui_document_languages": [
+          "de"
+        ],
+        "stable_across_checked_ui_languages": false,
+        "field_differs_from_ui_on_checked_source": true,
+        "original_audio_verified": false
+      },
+      "replacement_field_state": "null",
+      "explicit_named_course_relationship_status": "unresolved",
+      "source_ids": [
+        "source-005",
+        "source-011"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "content_id": "urn:li:learningApiCourse:38035565",
+      "course_slug": "blender-3-3-essential-training",
+      "title": "Blender 3.3 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-3-3-essential-training",
+      "source_observed_at_utc": "2026-11-12T15:09:35.122Z",
+      "title_version_labels": [
+        "3.3"
+      ],
+      "observed_heading_version_labels": [
+        "3.3"
+      ],
+      "source_supported_software_coverage": true,
+      "software_coverage_finding": "Live course and introduction/version metadata support the displayed software version; no different course is identified as a replacement or translation.",
+      "software_transition_coverage": [],
+      "description_version_issue": null,
+      "provider_declared_course_language": {
+        "field": "Course.inLanguage",
+        "values": [
+          "en"
+        ],
+        "source": "Public course-page structured metadata",
+        "observed_ui_document_languages": [
+          "de",
+          "en"
+        ],
+        "stable_across_checked_ui_languages": true,
+        "field_differs_from_ui_on_checked_source": true,
+        "original_audio_verified": false
+      },
+      "replacement_field_state": "null",
+      "explicit_named_course_relationship_status": "unresolved",
+      "source_ids": [
+        "source-006",
+        "source-012",
+        "source-016"
+      ],
+      "asset_compatibility_verified": false
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "pair-01",
+      "left_course_id": "urn:li:learningApiCourse:3901482",
+      "right_course_id": "urn:li:learningApiCourse:58835316",
+      "left_course_slug": "blender-2-8-grundkurs",
+      "right_course_slug": "blender-3-5-grundkurs",
+      "left_public_course_url": "https://www.linkedin.com/learning/blender-2-8-grundkurs",
+      "right_public_course_url": "https://www.linkedin.com/learning/blender-3-5-grundkurs",
+      "classification": "candidate",
+      "declared_relationship_status": "unresolved",
+      "confirmed_named_successor": false,
+      "confirmed_named_translation": false,
+      "confirmed_formal_version_family": false,
+      "ordered_substantive_title_matches": 40,
+      "metadata_comparison_scope": "Dated TOC comparison retained from the earlier metadata audit; the source-page review does not relabel those TOCs as newly captured.",
+      "reason": "Matching ordered TOC labels, version labels, and public authors support review candidates. Checked course pages, descriptions, structured metadata, and replacement fields do not identify this named pair as a successor, translation, or formal version family.",
+      "source_ids": [
+        "source-001",
+        "source-007",
+        "source-002",
+        "source-008",
+        "source-013",
+        "source-014",
+        "source-015",
+        "source-017"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "pair_id": "pair-02",
+      "left_course_id": "urn:li:learningApiCourse:3901482",
+      "right_course_id": "urn:li:learningApiCourse:60005584",
+      "left_course_slug": "blender-2-8-grundkurs",
+      "right_course_slug": "blender-4-0-grundkurs",
+      "left_public_course_url": "https://www.linkedin.com/learning/blender-2-8-grundkurs",
+      "right_public_course_url": "https://www.linkedin.com/learning/blender-4-0-grundkurs",
+      "classification": "candidate",
+      "declared_relationship_status": "unresolved",
+      "confirmed_named_successor": false,
+      "confirmed_named_translation": false,
+      "confirmed_formal_version_family": false,
+      "ordered_substantive_title_matches": 27,
+      "metadata_comparison_scope": "Dated TOC comparison retained from the earlier metadata audit; the source-page review does not relabel those TOCs as newly captured.",
+      "reason": "Matching ordered TOC labels, version labels, and public authors support review candidates. Checked course pages, descriptions, structured metadata, and replacement fields do not identify this named pair as a successor, translation, or formal version family.",
+      "source_ids": [
+        "source-001",
+        "source-007",
+        "source-003",
+        "source-009"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "pair_id": "pair-03",
+      "left_course_id": "urn:li:learningApiCourse:58835316",
+      "right_course_id": "urn:li:learningApiCourse:60005584",
+      "left_course_slug": "blender-3-5-grundkurs",
+      "right_course_slug": "blender-4-0-grundkurs",
+      "left_public_course_url": "https://www.linkedin.com/learning/blender-3-5-grundkurs",
+      "right_public_course_url": "https://www.linkedin.com/learning/blender-4-0-grundkurs",
+      "classification": "candidate",
+      "declared_relationship_status": "unresolved",
+      "confirmed_named_successor": false,
+      "confirmed_named_translation": false,
+      "confirmed_formal_version_family": false,
+      "ordered_substantive_title_matches": 27,
+      "metadata_comparison_scope": "Dated TOC comparison retained from the earlier metadata audit; the source-page review does not relabel those TOCs as newly captured.",
+      "reason": "Matching ordered TOC labels, version labels, and public authors support review candidates. Checked course pages, descriptions, structured metadata, and replacement fields do not identify this named pair as a successor, translation, or formal version family.",
+      "source_ids": [
+        "source-002",
+        "source-008",
+        "source-013",
+        "source-014",
+        "source-015",
+        "source-017",
+        "source-003",
+        "source-009"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "pair_id": "pair-04",
+      "left_course_id": "urn:li:learningApiCourse:36666696",
+      "right_course_id": "urn:li:learningApiCourse:38035565",
+      "left_course_slug": "blender-3-essential-training",
+      "right_course_slug": "blender-3-3-essential-training",
+      "left_public_course_url": "https://www.linkedin.com/learning/blender-3-essential-training",
+      "right_public_course_url": "https://www.linkedin.com/learning/blender-3-3-essential-training",
+      "classification": "candidate",
+      "declared_relationship_status": "unresolved",
+      "confirmed_named_successor": false,
+      "confirmed_named_translation": false,
+      "confirmed_formal_version_family": false,
+      "ordered_substantive_title_matches": 21,
+      "metadata_comparison_scope": "Dated TOC comparison retained from the earlier metadata audit; the source-page review does not relabel those TOCs as newly captured.",
+      "reason": "Matching ordered TOC labels, version labels, and public authors support review candidates. Checked course pages, descriptions, structured metadata, and replacement fields do not identify this named pair as a successor, translation, or formal version family.",
+      "source_ids": [
+        "source-005",
+        "source-011",
+        "source-006",
+        "source-012",
+        "source-016"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "pair_id": "pair-05",
+      "left_course_id": "urn:li:learningApiCourse:10054634",
+      "right_course_id": "urn:li:learningApiCourse:36666696",
+      "left_course_slug": "blender-2-91-essential-training",
+      "right_course_slug": "blender-3-essential-training",
+      "left_public_course_url": "https://www.linkedin.com/learning/blender-2-91-essential-training",
+      "right_public_course_url": "https://www.linkedin.com/learning/blender-3-essential-training",
+      "classification": "candidate",
+      "declared_relationship_status": "unresolved",
+      "confirmed_named_successor": false,
+      "confirmed_named_translation": false,
+      "confirmed_formal_version_family": false,
+      "ordered_substantive_title_matches": 19,
+      "metadata_comparison_scope": "Dated TOC comparison retained from the earlier metadata audit; the source-page review does not relabel those TOCs as newly captured.",
+      "reason": "Matching ordered TOC labels, version labels, and public authors support review candidates. Checked course pages, descriptions, structured metadata, and replacement fields do not identify this named pair as a successor, translation, or formal version family.",
+      "source_ids": [
+        "source-004",
+        "source-010",
+        "source-005",
+        "source-011"
+      ],
+      "asset_compatibility_verified": false
+    },
+    {
+      "pair_id": "pair-06",
+      "left_course_id": "urn:li:learningApiCourse:10054634",
+      "right_course_id": "urn:li:learningApiCourse:38035565",
+      "left_course_slug": "blender-2-91-essential-training",
+      "right_course_slug": "blender-3-3-essential-training",
+      "left_public_course_url": "https://www.linkedin.com/learning/blender-2-91-essential-training",
+      "right_public_course_url": "https://www.linkedin.com/learning/blender-3-3-essential-training",
+      "classification": "candidate",
+      "declared_relationship_status": "unresolved",
+      "confirmed_named_successor": false,
+      "confirmed_named_translation": false,
+      "confirmed_formal_version_family": false,
+      "ordered_substantive_title_matches": 15,
+      "metadata_comparison_scope": "Dated TOC comparison retained from the earlier metadata audit; the source-page review does not relabel those TOCs as newly captured.",
+      "reason": "Matching ordered TOC labels, version labels, and public authors support review candidates. Checked course pages, descriptions, structured metadata, and replacement fields do not identify this named pair as a successor, translation, or formal version family.",
+      "source_ids": [
+        "source-004",
+        "source-010",
+        "source-006",
+        "source-012",
+        "source-016"
+      ],
+      "asset_compatibility_verified": false
+    }
+  ],
+  "source_views": [
+    {
+      "source_id": "source-001",
+      "course_content_id": "urn:li:learningApiCourse:3901482",
+      "course_slug": "blender-2-8-grundkurs",
+      "source_url": "https://www.linkedin.com/learning/blender-2-8-grundkurs",
+      "observed_at_utc": "2026-11-12T15:09:10.456Z",
+      "access_context": "authenticated",
+      "requested_browser_locale": "en-US",
+      "observed_document_language": "en",
+      "identity_basis": "normalized_course_urn_and_slug",
+      "provider_course_language_values": [],
+      "html_sha256": "4ff20e79bda01fa7938991a57284ad5749496c3dde4b97cc546b661838b1354d",
+      "dom_sha256": "f05a4bafebc8ec784dab0679aa0f53483226f8d813d995be815fe808815b4c3e"
+    },
+    {
+      "source_id": "source-002",
+      "course_content_id": "urn:li:learningApiCourse:58835316",
+      "course_slug": "blender-3-5-grundkurs",
+      "source_url": "https://www.linkedin.com/learning/blender-3-5-grundkurs",
+      "observed_at_utc": "2026-11-12T15:09:15.034Z",
+      "access_context": "authenticated",
+      "requested_browser_locale": "en-US",
+      "observed_document_language": "en",
+      "identity_basis": "normalized_course_urn_and_slug",
+      "provider_course_language_values": [],
+      "html_sha256": "4ead2cf6f6230cacb6ddbabe400d42362f16be6d7ef1027d39af2723456e3102",
+      "dom_sha256": "cf16e9b29c036f1e46b7e6fa078bf90fc2d4b79d80b851befd5ac83f677dd849"
+    },
+    {
+      "source_id": "source-003",
+      "course_content_id": "urn:li:learningApiCourse:60005584",
+      "course_slug": "blender-4-0-grundkurs",
+      "source_url": "https://www.linkedin.com/learning/blender-4-0-grundkurs",
+      "observed_at_utc": "2026-11-12T15:09:20.092Z",
+      "access_context": "authenticated",
+      "requested_browser_locale": "en-US",
+      "observed_document_language": "en",
+      "identity_basis": "normalized_course_urn_and_slug",
+      "provider_course_language_values": [],
+      "html_sha256": "2369702c0b350e187ebc7706d11aa728b25496d76047459ec32a838ba9d495b1",
+      "dom_sha256": "493795f75d96e0dfbe5c696058d1c8af31c1efde7c72489ee3aebf0551beaae3"
+    },
+    {
+      "source_id": "source-004",
+      "course_content_id": "urn:li:learningApiCourse:10054634",
+      "course_slug": "blender-2-91-essential-training",
+      "source_url": "https://www.linkedin.com/learning/blender-2-91-essential-training",
+      "observed_at_utc": "2026-11-12T15:09:25.037Z",
+      "access_context": "authenticated",
+      "requested_browser_locale": "en-US",
+      "observed_document_language": "en",
+      "identity_basis": "normalized_course_urn_and_slug",
+      "provider_course_language_values": [],
+      "html_sha256": "34d7f0ff29fd7d089d5971d68d7b3fa24955532e8fc8e6296e2b3fe0cf8e489f",
+      "dom_sha256": "415763e1e9eec65138515b2a6189512f959527cb5b2a6eb494ef43e73ed6de24"
+    },
+    {
+      "source_id": "source-005",
+      "course_content_id": "urn:li:learningApiCourse:36666696",
+      "course_slug": "blender-3-essential-training",
+      "source_url": "https://www.linkedin.com/learning/blender-3-essential-training",
+      "observed_at_utc": "2026-11-12T15:09:30.238Z",
+      "access_context": "authenticated",
+      "requested_browser_locale": "en-US",
+      "observed_document_language": "en",
+      "identity_basis": "normalized_course_urn_and_slug",
+      "provider_course_language_values": [],
+      "html_sha256": "2e7501bbae0caf7108beaf3a4c186fc7c9f1f77d19ff29671d31aad311f1b79b",
+      "dom_sha256": "b472b017c4478510e6368819976fd302398166580fd4aca940967c6a20679820"
+    },
+    {
+      "source_id": "source-006",
+      "course_content_id": "urn:li:learningApiCourse:38035565",
+      "course_slug": "blender-3-3-essential-training",
+      "source_url": "https://www.linkedin.com/learning/blender-3-3-essential-training",
+      "observed_at_utc": "2026-11-12T15:09:35.122Z",
+      "access_context": "authenticated",
+      "requested_browser_locale": "en-US",
+      "observed_document_language": "en",
+      "identity_basis": "normalized_course_urn_and_slug",
+      "provider_course_language_values": [],
+      "html_sha256": "e4ab6589fafe32f65eb3ae5b603eb4a1c9108b8986a3a0bd5759c44272afeed7",
+      "dom_sha256": "11350e7e77f70b76ca299f8ade9b5be3c3d24fe287cd481bc06c8bed47c4ea23"
+    },
+    {
+      "source_id": "source-007",
+      "course_content_id": "urn:li:learningApiCourse:3901482",
+      "course_slug": "blender-2-8-grundkurs",
+      "source_url": "https://de.linkedin.com/learning/blender-2-8-grundkurs",
+      "observed_at_utc": "2026-11-12T15:19:46.920Z",
+      "access_context": "public",
+      "requested_browser_locale": "de-DE",
+      "observed_document_language": "de",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "de"
+      ],
+      "html_sha256": "74e365ce3d9f305d3c990bc09315f5e2e927efd6f4f4a25d471bef447e3be50c",
+      "dom_sha256": "8670ac3c3f22f2bc0a72ea0f145f219bad8b12067403314e7bca931c9d5c3359"
+    },
+    {
+      "source_id": "source-008",
+      "course_content_id": "urn:li:learningApiCourse:58835316",
+      "course_slug": "blender-3-5-grundkurs",
+      "source_url": "https://de.linkedin.com/learning/blender-3-5-grundkurs",
+      "observed_at_utc": "2026-11-12T15:19:51.850Z",
+      "access_context": "public",
+      "requested_browser_locale": "de-DE",
+      "observed_document_language": "de",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "de"
+      ],
+      "html_sha256": "cbdab8c5eac9eb7a4dbbf9e71fca63fb81ef65f19e066f6fd590ebd139564b0f",
+      "dom_sha256": "1d643271db1ed61305ced285bbca7b5fd7999d5dc7662be1396a9a5f1a374072"
+    },
+    {
+      "source_id": "source-009",
+      "course_content_id": "urn:li:learningApiCourse:60005584",
+      "course_slug": "blender-4-0-grundkurs",
+      "source_url": "https://de.linkedin.com/learning/blender-4-0-grundkurs",
+      "observed_at_utc": "2026-11-12T15:19:57.316Z",
+      "access_context": "public",
+      "requested_browser_locale": "de-DE",
+      "observed_document_language": "de",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "de"
+      ],
+      "html_sha256": "12cd2bfb862b05a34fa4d6e6d00e552225eeadf06385d0a58d7d41f7e3434a16",
+      "dom_sha256": "e0f566ae7ee7b511176b354ecff3e0b36319f0f7f38e9490d028d19522785592"
+    },
+    {
+      "source_id": "source-010",
+      "course_content_id": "urn:li:learningApiCourse:10054634",
+      "course_slug": "blender-2-91-essential-training",
+      "source_url": "https://www.linkedin.com/learning/blender-2-91-essential-training",
+      "observed_at_utc": "2026-11-12T15:20:06.945Z",
+      "access_context": "public",
+      "requested_browser_locale": "de-DE",
+      "observed_document_language": "de",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "en"
+      ],
+      "html_sha256": "ed41929b749468a90d2eabf6292b2330e5409e8d8781a38da4756d372a7e24f0",
+      "dom_sha256": "6e3c3da4a6273d1fc30476197b4c7aa56db0b3d99b6f12b268259556715f7d5c"
+    },
+    {
+      "source_id": "source-011",
+      "course_content_id": "urn:li:learningApiCourse:36666696",
+      "course_slug": "blender-3-essential-training",
+      "source_url": "https://www.linkedin.com/learning/blender-3-essential-training",
+      "observed_at_utc": "2026-11-12T15:20:16.845Z",
+      "access_context": "public",
+      "requested_browser_locale": "de-DE",
+      "observed_document_language": "de",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "en"
+      ],
+      "html_sha256": "a5c7b5679a07259f672f0669009f00bcf99adc4f619a196b8b9f805ed9dc5a29",
+      "dom_sha256": "09f392ea8718e3daae634bacc6fd220399b4ffe87daa37013d0f752a9228a17c"
+    },
+    {
+      "source_id": "source-012",
+      "course_content_id": "urn:li:learningApiCourse:38035565",
+      "course_slug": "blender-3-3-essential-training",
+      "source_url": "https://www.linkedin.com/learning/blender-3-3-essential-training",
+      "observed_at_utc": "2026-11-12T15:20:26.896Z",
+      "access_context": "public",
+      "requested_browser_locale": "de-DE",
+      "observed_document_language": "de",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "en"
+      ],
+      "html_sha256": "0d28029d2d5e9efa2a4674b6d157c12509a78b625e2928ccf922d8486a37acf5",
+      "dom_sha256": "d66b8a6d23ea447dddbca55da3a8b8829b08f050c96d24062ef5af4660edf24e"
+    },
+    {
+      "source_id": "source-013",
+      "course_content_id": "urn:li:learningApiCourse:58835316",
+      "course_slug": "blender-3-5-grundkurs",
+      "source_url": "https://de.linkedin.com/learning/blender-3-5-grundkurs",
+      "observed_at_utc": "2026-11-12T15:11:14.901Z",
+      "access_context": "public",
+      "requested_browser_locale": "de-DE",
+      "observed_document_language": "de",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "de"
+      ],
+      "html_sha256": "0eaa4cb5ca4c8da9453bbf86b36ef25ca1fbdcd6566936cdea252143bc37e1f2",
+      "dom_sha256": "7b0b5a99e354cebbb94f0d8c4f4141a61d6fe8d2569f89f4ea7937720dd93070"
+    },
+    {
+      "source_id": "source-014",
+      "course_content_id": "urn:li:learningApiCourse:58835316",
+      "course_slug": "blender-3-5-grundkurs",
+      "source_url": "https://de.linkedin.com/learning/blender-3-5-grundkurs",
+      "observed_at_utc": "2026-11-12T15:09:49.115Z",
+      "access_context": "public",
+      "requested_browser_locale": "de-DE",
+      "observed_document_language": "de",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "de"
+      ],
+      "html_sha256": "8a4f117e241e41ccc3d0cd7d50c4eb4d84aaf2264f9399f45d051c22ab32e1c9",
+      "dom_sha256": "d86615ba1c624d805f71b87ae6fc0f57eed80f9b76fa6d1d06b1fa7c110819a3"
+    },
+    {
+      "source_id": "source-015",
+      "course_content_id": "urn:li:learningApiCourse:58835316",
+      "course_slug": "blender-3-5-grundkurs",
+      "source_url": "https://de.linkedin.com/learning/blender-3-5-grundkurs",
+      "observed_at_utc": "2026-11-12T15:21:29.831Z",
+      "access_context": "public",
+      "requested_browser_locale": "en-US",
+      "observed_document_language": "en",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "de"
+      ],
+      "html_sha256": "3e268336679ce748421a14ecf8dfef8507d32f61db5ed5498efe5b579088d139",
+      "dom_sha256": "4e242a02ccade341c170ccf628c8ad441dc2a401081718858ca24c78a189c118"
+    },
+    {
+      "source_id": "source-016",
+      "course_content_id": "urn:li:learningApiCourse:38035565",
+      "course_slug": "blender-3-3-essential-training",
+      "source_url": "https://www.linkedin.com/learning/blender-3-3-essential-training",
+      "observed_at_utc": "2026-11-12T15:21:34.980Z",
+      "access_context": "public",
+      "requested_browser_locale": "en-US",
+      "observed_document_language": "en",
+      "identity_basis": "course_jsonld_url_matches_reviewed_slug",
+      "provider_course_language_values": [
+        "en"
+      ],
+      "html_sha256": "dcc7621280e6186135bdd9f420c0f791c9eeb8ab42a7006350a5e0ad2054c940",
+      "dom_sha256": "497c79b2fe0cdc1acead8fda437f5eef3c82848df5294653162309a4e8d7392e"
+    },
+    {
+      "source_id": "source-017",
+      "course_content_id": "urn:li:learningApiCourse:58835316",
+      "course_slug": "blender-3-5-grundkurs",
+      "source_url": "https://www.linkedin.com/learning/blender-3-5-grundkurs",
+      "observed_at_utc": "2026-11-12T15:07:44.873Z",
+      "access_context": "authenticated",
+      "requested_browser_locale": "en-US",
+      "observed_document_language": "en",
+      "identity_basis": "normalized_course_urn_and_slug",
+      "provider_course_language_values": [],
+      "html_sha256": "c00fd10250c7e60a97ef92d649f7ea2e14ccbe31ad5d4191e143d1272c0a1caf",
+      "dom_sha256": "cf16e9b29c036f1e46b7e6fa078bf90fc2d4b79d80b851befd5ac83f677dd849"
+    }
+  ],
+  "method": {
+    "reviewed_sections": "Course title, visible overview description, introduction and table-of-contents headings, candidate-course links, public course structured metadata, and replacement fields.",
+    "source_identity": "Six authenticated pages matched normalized course identity and slug. Public Course records were associated only when their URL matched the reviewed course slug.",
+    "provider_language_meaning": "Course.inLanguage is a provider structured-metadata declaration for these six courses. Original audio and translation families remain unverified.",
+    "network_policy": "Read-only course documents; UI scripts/styles allowed. Media, images, fonts, course-asset extensions, transcript endpoints, dynamic data calls, external documents, and non-read methods blocked. Redirects bounded to approved LinkedIn hosts and the same reviewed course path.",
+    "recorded_document_http_requests": 23,
+    "recorded_document_http_statuses": {
+      "200": 17,
+      "301": 6
+    },
+    "rendered_redirect_guard_diagnostics": 2,
+    "request_count_scope": "All indexed document attempts, including the earlier pilot and redirect diagnostics, deduplicated by recorded start. UI script/style requests are not included in document counts.",
+    "recorded_standalone_course_asset_requests": 0,
+    "recorded_resource_url_follow_requests": 0,
+    "recorded_transcript_endpoint_requests": 0,
+    "blocked_request_attempts": {
+      "nonRead": 103199,
+      "mediaOrCourseAsset": 322,
+      "dynamicData": 2084,
+      "external": 0
+    },
+    "request_evidence_limit": "Counters and route policy are saved evidence; independent packet capture was not recorded. Page HTML can contain inline content. No claim is made that no inline transcript text was received.",
+    "raw_evidence_private": true
+  },
+  "evidence_sha256": {
+    "prior_relationships_mapping_sha256": "f18c5cf4f193397cc23f4c23716c03e4fe0c657ec8bb6e778bf27705a42f3c42",
+    "fixed_course_metadata_sha256": "502d9fabce4a40ff2b15f46783eaab9b3521ad8ec797d8367c8ce19f69afcbc3",
+    "live_findings_sha256": "550e2168c1e5cc32138b411dab1ca40cabf47285a638287f6459fff790209570",
+    "targeted_integrity_sha256": "6d2680db23b0e50d8c637843900130280b9e562287a9853f409418cc20f266b9"
+  },
+  "limits": [
+    "All six named pairs remain candidates; no formal successor, translation, version family, or compatible asset relationship was established.",
+    "Software-version coverage statements concern the application versions taught, not a declaration connecting two named course releases.",
+    "Provider course-language metadata is not independent playback or original-audio verification. Its coverage is limited to the six reviewed courses.",
+    "Description text, raw pages, DOM, screenshots, learner data, session material, private paths, and resource URL values are excluded from this report.",
+    "The 37 archive offers remain available_unverified. Playback, content fidelity, archive members, compatibility, and asset-byte integrity remain unverified."
+  ]
+}

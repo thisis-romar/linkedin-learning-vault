@@ -1,49 +1,279 @@
 {
-  "schema_version": 1,
+  "schema_version": 3,
   "audit_id": "blender-2026-11-11",
   "audit_date": "2026-11-11",
   "timezone": "America/Toronto",
-  "status": "blocked_before_live_discovery",
+  "observed_through_utc": "2026-11-12T15:21:34.980Z",
+  "status": "audit_with_documented_gaps",
   "complete": false,
+  "catalog_complete": true,
+  "full_asset_audit_complete": false,
   "scope": {
     "software": "Blender",
     "public_search_url": "https://www.linkedin.com/learning/search?software=Blender",
-    "account_context": "preserved in private evidence; omitted from this public report",
-    "all_pages": true,
-    "retain_language_and_version_variants": true,
+    "account_context": "requested library account verified live",
+    "all_exposed_search_languages": true,
+    "language_facet_count": 13,
+    "retain_distinct_course_identities_and_title_versions": true,
     "phase": "inventory_and_existing_file_verification",
     "bulk_acquisition": false
   },
   "source_coverage": {
     "expected_search_pages": null,
-    "reconciled_search_pages": 0,
-    "expected_courses_and_variants": null,
-    "inventoried_courses_and_variants": 0,
+    "reconciled_search_pages": null,
+    "search_page_measurement": "API batches of ten results were reconciled; individual visits to every UI result page were not performed",
+    "completed_query_ledgers": 44,
+    "reconciled_api_batches": 240,
+    "terminal_empty_api_batches": 44,
+    "mixed_search_result_identities": 1790,
+    "mixed_search_course_identities": 33,
+    "mixed_search_video_identities": 1757,
+    "expected_courses_and_variants": 33,
+    "inventoried_courses_and_variants": 33,
+    "supplemental_keyword_only_candidates": 3,
+    "metadata_inspected_course_pages": 36,
+    "denominator_reconciled": true,
     "expected_assets": null,
-    "asset_integrity_coverage": null,
-    "denominator_reconciled": false
+    "asset_integrity_coverage": null
   },
-  "local_vault_baseline": {
-    "commit": "fa97a813fdfe41acfa24445c5abfac3da29cdd76",
-    "observed_at_utc": "2026-11-11T18:22:09.670715+00:00",
-    "tracked_regular_files": 4487,
-    "total_file_bytes": 210031872,
-    "course_notes": 1719,
-    "worktree_blob_mismatches": 0,
-    "blender_path_or_single_line_title_matches": 0,
-    "course_media_extension_candidates": 0,
-    "validation": "SHA-256 of every baseline Git blob compared with corresponding worktree bytes",
-    "limitation": "Local byte consistency only; no live coverage or course-file semantic validity established"
-  },
-  "blockers": [
+  "language_facets": [
     {
-      "code": "browser_runtime_unavailable",
-      "stage": "authenticated_search_discovery"
+      "language": "it_IT",
+      "software_filter_courses": 0,
+      "mixed_search_results": 0,
+      "keyword_cross_check_courses": 0
     },
     {
-      "code": "http_fallback_outside_confirmed_scope",
-      "observation": "generic signed-out catalog; no Blender results; global counts excluded"
+      "language": "pl_PL",
+      "software_filter_courses": 0,
+      "mixed_search_results": 0,
+      "keyword_cross_check_courses": 0
+    },
+    {
+      "language": "tr_TR",
+      "software_filter_courses": 0,
+      "mixed_search_results": 0,
+      "keyword_cross_check_courses": 0
+    },
+    {
+      "language": "pt_BR",
+      "software_filter_courses": 0,
+      "mixed_search_results": 0,
+      "keyword_cross_check_courses": 0
+    },
+    {
+      "language": "fr_FR",
+      "software_filter_courses": 5,
+      "mixed_search_results": 275,
+      "keyword_cross_check_courses": 5
+    },
+    {
+      "language": "ja_JP",
+      "software_filter_courses": 1,
+      "mixed_search_results": 65,
+      "keyword_cross_check_courses": 1
+    },
+    {
+      "language": "in_ID",
+      "software_filter_courses": 0,
+      "mixed_search_results": 0,
+      "keyword_cross_check_courses": 0
+    },
+    {
+      "language": "de_DE",
+      "software_filter_courses": 8,
+      "mixed_search_results": 255,
+      "keyword_cross_check_courses": 9
+    },
+    {
+      "language": "ko_KR",
+      "software_filter_courses": 0,
+      "mixed_search_results": 0,
+      "keyword_cross_check_courses": 0
+    },
+    {
+      "language": "en_US",
+      "software_filter_courses": 19,
+      "mixed_search_results": 1195,
+      "keyword_cross_check_courses": 21
+    },
+    {
+      "language": "es_ES",
+      "software_filter_courses": 0,
+      "mixed_search_results": 0,
+      "keyword_cross_check_courses": 0
+    },
+    {
+      "language": "zh_CN",
+      "software_filter_courses": 0,
+      "mixed_search_results": 0,
+      "keyword_cross_check_courses": 0
+    },
+    {
+      "language": "nl_NL",
+      "software_filter_courses": 0,
+      "mixed_search_results": 0,
+      "keyword_cross_check_courses": 0
     }
+  ],
+  "pagination_resolution": {
+    "server_batch_size": 10,
+    "english_unpartitioned_advertised_total": 1195,
+    "english_unpartitioned_partial_identities": 1000,
+    "english_unpartitioned_failure": "HTTP 400 at start 1000; superseded by duration partitions",
+    "english_duration_partitions": [
+      {
+        "label": "BETWEEN_0_TO_10_MIN",
+        "identities": 985,
+        "terminal_empty_observed": true
+      },
+      {
+        "label": "BETWEEN_10_TO_30_MIN",
+        "identities": 191,
+        "terminal_empty_observed": true
+      },
+      {
+        "label": "BETWEEN_30_TO_60_MIN",
+        "identities": 1,
+        "terminal_empty_observed": true
+      },
+      {
+        "label": "BETWEEN_1_TO_2_HOURS",
+        "identities": 3,
+        "terminal_empty_observed": true
+      },
+      {
+        "label": "BETWEEN_2_TO_3_HOURS",
+        "identities": 1,
+        "terminal_empty_observed": true
+      },
+      {
+        "label": "MORE_THAN_3_HOURS",
+        "identities": 14,
+        "terminal_empty_observed": true
+      }
+    ],
+    "english_duration_union": 1195,
+    "english_duration_cross_partition_duplicates": 0,
+    "original_partial_ids_in_partition_union": true,
+    "terminal_empty_total_zero_behavior": "Empty terminal responses reset total to zero; initial totals, nonempty-page totals, distinct identity counts, and terminal emptiness reconcile. Historical raw summary flags are preserved rather than rewritten."
+  },
+  "course_toc_reconciliation": {
+    "software_filter_courses": 33,
+    "course_metadata_pages_found": 33,
+    "sections": 252,
+    "lessons": 1789,
+    "quizzes": 73,
+    "articles": 0,
+    "search_video_pairs_found_in_toc": 1757,
+    "search_video_pairs_missing_from_toc": 0,
+    "toc_only_lesson_pairs": 32,
+    "unresolved_sections": 0,
+    "unresolved_lesson_references": 0,
+    "unknown_toc_items": 0
+  },
+  "offered_asset_observations": {
+    "count_scope": "Thirty-three exact software-filter courses; supplemental candidates are listed separately in inventory.json",
+    "exercise_archive_offers": 37,
+    "courses_with_exercise_archive_offers": 30,
+    "courses_with_empty_exercise_archive_field": 3,
+    "course_thumbnail_offers": 33,
+    "lesson_thumbnail_offers": 1789,
+    "default_video_samples": 33,
+    "caption_locale_entries_across_default_samples": 907,
+    "caption_sample_distribution": [
+      {
+        "default_video_samples": 19,
+        "locales_per_sample": 47
+      },
+      {
+        "default_video_samples": 14,
+        "locales_per_sample": 1
+      }
+    ],
+    "default_video_transcript_references": 33,
+    "default_video_transcript_references_resolved": 33,
+    "default_video_progressive_stream_metadata_entries": 102,
+    "default_video_adaptive_stream_metadata_entries": 33,
+    "course_metadata_public_resource_links_observed": 0,
+    "per_lesson_resource_coverage_complete": false,
+    "archive_contents_verified": false,
+    "media_bytes_verified": false,
+    "caption_file_bytes_verified": false,
+    "transcript_full_lesson_coverage_verified": false,
+    "title_version_label_course_count": 20,
+    "distinct_title_version_labels": [
+      "2.7",
+      "2.8",
+      "2.83",
+      "2.9",
+      "2.91",
+      "3",
+      "3.0",
+      "3.3",
+      "3.5",
+      "4",
+      "4.0"
+    ],
+    "default_video_observation_scope": "Dated baseline course/default-video inspection: 33 default samples and 907 sample/locale entries. Counts retain their original scope; 2026-11-12 positive-projection follow-up is separate.",
+    "transcript_reference_metadata_full_lesson_coverage_verified": true
+  },
+  "supplemental_keyword_candidates": {
+    "keyword_course_union": 36,
+    "software_course_subset_of_keyword_union": true,
+    "additional_candidates": 3,
+    "broader_course_blender_workflow_confirmed": 1,
+    "ambiguous_blender_name_match": 1,
+    "no_corroborated_blender_relevance": 1,
+    "established_language_or_version_relationships": 0,
+    "observed_additional_toc_lessons": 133
+  },
+  "metadata_errors": {
+    "assignment_derived_partial_errors": 66,
+    "affected_software_courses": 33,
+    "scope": "Baseline: one course-assignment and one default-video-assignment error per course; observed TOC and asset metadata still resolved. Follow-up errors are counted separately."
+  },
+  "local_baseline_before_report_updates": {
+    "observed_at_utc": "2026-11-12T02:58:56.383Z",
+    "source": "Immutable HEAD blobs independently compared with worktree bytes; SHA-256 and Git blob identity",
+    "repositories": [
+      {
+        "repository": "extractor",
+        "commit": "79bbb580994f7ed4ec0d5d35f41aed4d108c98c8",
+        "tracked_regular_files": 117,
+        "total_file_bytes": 3229757,
+        "worktree_blob_mismatches": 0,
+        "course_notes": 0,
+        "blender_course_title_or_path_matches": 0,
+        "asset_candidate_files": 0
+      },
+      {
+        "repository": "vault",
+        "commit": "57e0ecb25fb574a91598fba7d34c9458a3755324",
+        "tracked_regular_files": 4489,
+        "total_file_bytes": 210038187,
+        "worktree_blob_mismatches": 0,
+        "course_notes": 1719,
+        "blender_course_title_or_path_matches": 0,
+        "asset_candidate_files": 0
+      }
+    ],
+    "private_evidence_sha256": "66e93f8b7f5980808f89e673873e780b8eb77ea687c33edfefd856b581c41fc9",
+    "method_sha256": "eb90fff5362796ef9a06665d6f5fb57a64e3171dffc0fcdeeb777b8164af3d6b",
+    "ignored_worktree_asset_candidates_included": true,
+    "external_storage_and_history_included": false,
+    "local_byte_consistency_only": true
+  },
+  "documented_gaps": [
+    "Baseline and positive-projection follow-up observe 1,789 distinct metadata videos, leaving 0 TOC lessons unobserved by those combined methods. The follow-up alone leaves 0 of 1,789 lessons unverified.",
+    "The separate _720 URL-only pass verified 877 responses from 880 attempted lessons; it does not establish caption, transcript, all-rendition, or file-integrity coverage and is not summed with overlapping methods.",
+    "All thirty-three course metadata responses omit explicit course locale; search-language membership is not independent audio-language proof.",
+    "Version numbers are title labels; software compatibility and language/version family relationships are not exhaustively verified.",
+    "No explicit replacement links were offered in the returned metadata; this does not prove no related variants exist.",
+    "No existing candidate asset files were found within the scoped worktrees. No asset bytes, archive members, source fidelity, format validity, or playback were verified.",
+    "The expected all-asset denominator and asset integrity coverage remain unknown.",
+    "Historical first-pass Retry-After and RateLimit values were not persisted. The resumed pass records selected response headers privately; asset requests and transcript-text requests remain outside this audit.",
+    "Relationship/resource follow-up covers provided course fields and structured hyperlink/literal HTTP(S) URL metadata on 1,789 of 1,789 lessons; full resources beyond the method, bare/obfuscated links, accessibility, and all asset bytes remain unverified."
   ],
   "asset_statuses": [
     "verified",
@@ -54,5 +284,313 @@
     "failed"
   ],
   "raw_course_files_included": false,
-  "detailed_evidence_storage": "private, outside public Git history"
+  "detailed_evidence_storage": "Private, outside public Git history",
+  "inventory_sha256": "08325c2de63080b52769b09f46d1e39947b2a428dbb959591259a4169a28a3da",
+  "private_source_evidence_sha256": {
+    "courseAssets": "502d9fabce4a40ff2b15f46783eaab9b3521ad8ec797d8367c8ce19f69afcbc3",
+    "localInventory": "66e93f8b7f5980808f89e673873e780b8eb77ea687c33edfefd856b581c41fc9",
+    "softwareSearch": "77f44c5644cdde3d402053d637bfa2a8837420ff562a31a56231554777cbba76",
+    "durationPartitions": "fdd3880139da0820fd223083c94435d6dab313ff9cf3db7f9b21514c0e774583",
+    "keywordSearch": "b3d07b9e18fb88689289d3f94a4685f3cf49fd860e8e392cac939483af68c8ba"
+  },
+  "source_toc_reconciliation_evidence_sha256": "7df61c57daa358bf60f3c3a1841474ab7429cd6a6ac5bc4ff184c8f962e40881",
+  "baseline_observed_through_utc": "2026-11-12T03:29:41.362Z",
+  "follow_up_date": "2026-11-12",
+  "follow_up": {
+    "follow_up_date": "2026-11-12",
+    "observed_through_utc": "2026-11-12T10:51:35.866Z",
+    "status": "metadata_complete_assets_unverified",
+    "method": "Positive metadata projection for caption-file offers, transcript references, rendition dimensions/counts, and provided resource-field states",
+    "expected_distinct_lesson_ids": 1789,
+    "attempted_distinct_lesson_ids": 1789,
+    "verified_distinct_lesson_ids": 1789,
+    "failed_attempted_lesson_ids": 0,
+    "blocked_attempted_lesson_ids": 0,
+    "never_attempted_lesson_ids": 0,
+    "unverified_lesson_ids_by_this_method": 0,
+    "caption_file_offers": 56805,
+    "transcript_references_present": 1789,
+    "progressive_dimension_entries": 5614,
+    "adaptive_stream_metadata_entries": 1789,
+    "assignment_metadata_errors": 1789,
+    "unrelated_nonasset_metadata_errors": 4,
+    "asset_field_errors": 0,
+    "metadata_requests": 1796,
+    "metadata_requests_final_run": 1586,
+    "metadata_requests_count_scope": "Sum of saved per-row attempt counts across original and resumed JSONL records; final-run count reported separately.",
+    "caption_tracks": 56805,
+    "caption_locales": [
+      "ar_AE",
+      "bg_BG",
+      "bn_IN",
+      "ca_ES",
+      "cs_CZ",
+      "da_DK",
+      "de_DE",
+      "el_GR",
+      "en_US",
+      "es_ES",
+      "eu_ES",
+      "fa_IR",
+      "fi_FI",
+      "fr_CA",
+      "fr_FR",
+      "he_IL",
+      "hi_IN",
+      "hr_HR",
+      "hu_HU",
+      "in_ID",
+      "it_IT",
+      "ja_JP",
+      "kn_IN",
+      "ko_KR",
+      "mr_IN",
+      "ms_MY",
+      "nl_NL",
+      "no_NO",
+      "pa_IN",
+      "pl_PL",
+      "pt_BR",
+      "pt_PT",
+      "ro_RO",
+      "ru_RU",
+      "sk_SK",
+      "sl_SI",
+      "sr_LATN",
+      "sv_SE",
+      "ta_IN",
+      "te_IN",
+      "th_TH",
+      "tl_PH",
+      "tr_TR",
+      "uk_UA",
+      "vi_VN",
+      "zh_CN",
+      "zh_TW"
+    ],
+    "lessons_with_progressive_dimensions": 1789,
+    "lessons_with_adaptive_streams": 1789,
+    "unrelated_nonasset_error_fields": [
+      "authorsV2",
+      "contentReaction",
+      "providersDerived",
+      "viewerCountsV2"
+    ],
+    "error_normalization": "All nonassignment errors are classified by their actual GraphQL paths. Historical broad assetErrors labels are normalized; unrelated fields do not become asset-field failures.",
+    "asset_url_requests": 0,
+    "transcript_text_requests": 0,
+    "request_evidence_scope": "Saved metadata records and the single metadata-only request path support these zero counts; no separate network counter was recorded.",
+    "stop_reason": null,
+    "rate_limit_header_evidence": {
+      "historical_first_pass": {
+        "observed_through_utc": "2026-11-12T04:53:54.929Z",
+        "actual_retry_after_and_rate_limit_values_persisted": false,
+        "absence_of_headers_established": false,
+        "fallback_delays_seconds_inferred_from_timing": [
+          2,
+          4
+        ]
+      },
+      "resumed_pass": {
+        "attempt_history_entries": 1706,
+        "response_header_observations_persisted": 1706,
+        "http_429_responses": 0,
+        "http_5xx_responses": 0,
+        "attempts_with_retry_after_header": 0,
+        "attempts_with_rate_limit_headers": 0,
+        "parsed_retry_after_delays_ms": [],
+        "maximum_minimum_interval_ms": 5000,
+        "final_minimum_interval_ms": 5000
+      },
+      "limitation": "Historical header values remain unavailable. Resumed attempts preserve selected rate-limit response headers privately; counts describe saved metadata attempts, not separate network instrumentation."
+    },
+    "resume_policy": {
+      "base_interval_ms": 5000,
+      "honor_numeric_and_http_date_retry_after": true,
+      "retry_after_not_truncated": true,
+      "wait_chunks_max_ms": 60000,
+      "http_429_minimum_interval_doubles_up_to_ms": 30000,
+      "http_429_fallback_cooldown_ms": [
+        300000,
+        600000,
+        1200000,
+        1800000
+      ],
+      "stop_after_consecutive_http_429": 6,
+      "asset_url_requests": 0,
+      "transcript_text_requests": 0
+    },
+    "historical_first_pass": {
+      "observed_through_utc": "2026-11-12T04:53:54.929Z",
+      "attempted_distinct_lesson_ids": 84,
+      "verified_distinct_lesson_ids": 83,
+      "blocked_attempted_lesson_ids": 1,
+      "unverified_lesson_ids_by_this_method": 1706,
+      "status": "paused_source_rate_limit"
+    },
+    "resumed_lesson_ids_verified": 1706,
+    "resumable_checkpoint": "Retained privately; bound to source identities and projection hash. No checkpoint or authenticated request details are published.",
+    "catalog_complete": true,
+    "full_asset_audit_complete": false,
+    "expected_assets": null,
+    "asset_integrity_coverage": null,
+    "public_lesson_metadata_file": "lesson-metadata.json",
+    "baseline_default_sample_overlap": 33,
+    "baseline_plus_follow_up_distinct_metadata_videos": 1789,
+    "remaining_lesson_ids_unobserved_by_baseline_and_this_method": 0,
+    "union_scope": "Union of 33 baseline default samples and 1,789 verified positive-projection lessons; excludes the separate URL-only pass. Caption locale and stream-entry counts are method-scoped and are not summed across overlapping samples.",
+    "evidence_sha256": {
+      "source_course_metadata_sha256": "502d9fabce4a40ff2b15f46783eaab9b3521ad8ec797d8367c8ce19f69afcbc3",
+      "derived_lesson_metadata_sha256": "3e8593dbe6ac467e5b5a77d5039214eb2683e2b61951ed192055cfe14bd6f751",
+      "summary_sha256": "c7ba64aed0232b73366dc29446feb63c2d5c34a8951a3025d410bf12b3013644",
+      "checkpoint_sha256": "e61bfc4a641d63ffde587853878cbf5e9f6ce70b38c94fab3fba95cd0f6b5538",
+      "rows_jsonl_sha256": "4c2abfda08bd4f34f21a45d897b2c7deb701b1031f40e29c25f58bd6fd804d76",
+      "gap_manifest_sha256": "3a5b17c3fe5c9905d946e075fdbe652a24e461e32d715feeef9014b07e633408",
+      "integrity_manifest_sha256": "fa1380740fdc4f7bfabedbb961e272feac6b9d26bb62822d9d9946b64de4a1ec"
+    },
+    "public_lesson_metadata_sha256": "338754111b1f578cf9eb54fc76682fcea6e7e8daaaa0f7c603c18d9b3d3921a3"
+  },
+  "separate_url_only_pass": {
+    "status": "stopped_separate_method",
+    "method": "URL-offer-only positive projection for the requested _720 profile",
+    "profile": "_720",
+    "attempted_lesson_ids": 880,
+    "verified_metadata_responses": 877,
+    "request_error_lesson_ids": 3,
+    "asset_url_requests": 0,
+    "transcript_text_requests": 0,
+    "scope_limit": "877 responses establish progressive/streaming URL offers for this requested profile only; no all-rendition, playback, caption, transcript, or file-integrity conclusion.",
+    "overlap_with_other_methods": "Not reconciled for a combined total; these method-scoped counts are not added to the baseline/positive-projection metadata union.",
+    "private_summary_sha256": "7b705b286f7a1f75da799adc757fda7145f9fdfc1f0be0295835ae9aa12a4546"
+  },
+  "lesson_metadata_sha256": "338754111b1f578cf9eb54fc76682fcea6e7e8daaaa0f7c603c18d9b3d3921a3",
+  "relationships_resources_follow_up": {
+    "date": "2026-11-12",
+    "observed_through_utc": "2026-11-12T13:55:31.987Z",
+    "status": "provided_fields_complete_relationships_unconfirmed",
+    "summary": {
+      "expected_courses": 33,
+      "verified_fresh_courses": 33,
+      "expected_lesson_ids": 1789,
+      "fresh_lesson_description_observations": 1756,
+      "cached_lesson_description_observations": 33,
+      "total_lesson_description_observations": 1789,
+      "unverified_lesson_description_ids": 0,
+      "courses_with_description_metadata": 33,
+      "course_description_structured_url_links": 0,
+      "course_description_literal_http_url_candidates": 0,
+      "course_direct_resource_url_fields_present": 0,
+      "lesson_description_structured_url_links": 0,
+      "lesson_description_literal_http_url_candidates": 0,
+      "lesson_description_distinct_structured_or_literal_url_candidates": 0,
+      "lessons_with_description_url_candidates": 0,
+      "fresh_exercise_archive_offers": 37,
+      "baseline_exercise_archive_offers": 37,
+      "courses_with_changed_exercise_offer_metadata": 0,
+      "declared_replacement_links": 0,
+      "unresolved_replacement_references": 0,
+      "original_audio_languages_confirmed": 0,
+      "translation_family_relationships_confirmed": 0,
+      "version_family_relationships_confirmed": 0,
+      "structural_review_clue_pairs": 6,
+      "cross_search_facet_structural_title_threshold_pairs": 0,
+      "advertised_archive_filename_and_size_overlap_pairs": 0,
+      "latest_requested_field_errors": 0,
+      "unverified_network_targets": 0
+    },
+    "pacing": {
+      "base_interval_ms": 5000,
+      "maximum_minimum_interval_ms": 5000,
+      "honor_full_numeric_or_http_date_retry_after": true,
+      "recorded_canonical_controller_metadata_attempts": 1789,
+      "recorded_canonical_controller_http_429_responses": 0,
+      "recorded_canonical_controller_http_5xx_responses": 0,
+      "recorded_canonical_controller_attempts_with_retry_after": 0,
+      "recorded_early_deadline_violations": 0,
+      "request_history": {
+        "canonical_controller": {
+          "recorded_attempts": 1789,
+          "http_429_responses": 0,
+          "http_5xx_responses": 0,
+          "attempts_with_retry_after": 0
+        },
+        "archived_pilots_excluding_canonical_overlap": {
+          "recorded_attempts": 5,
+          "http_429_responses": 0,
+          "http_5xx_responses": 3,
+          "attempts_with_retry_after": 0
+        },
+        "discovery_probes_excluding_controller_overlap": {
+          "recorded_attempts": 18,
+          "http_429_responses": 0,
+          "http_5xx_responses": 7,
+          "attempts_with_retry_after": 0
+        },
+        "all_recorded_distinct": {
+          "recorded_attempts": 1812,
+          "http_429_responses": 0,
+          "http_5xx_responses": 10,
+          "attempts_with_retry_after": 0
+        },
+        "early_deadline_violations": 0,
+        "deduplication": "Distinct recorded request starts; identical timestamps retained in canonical controller rows take precedence over archived pilot copies."
+      },
+      "count_scope": "Canonical controller rows, archived pilot rows, and discovery probes are counted separately, then deduplicated by recorded request start. Transient historical errors are distinct from final per-identity source gaps."
+    },
+    "method": {
+      "network_scope": "Actual captured course and video persisted metadata GETs; no returned URL was followed.",
+      "course_fields": "Replacement fields, public author slug/display name, title/release/update metadata, provided repository/Codespace/external-provider/presentation fields, exercise-file offer metadata, and course-description hyperlinks/literal HTTP(S) URLs.",
+      "lesson_fields": "Structured hyperlink attributes and literal HTTP(S) URLs extracted privately from description text; description text and URL values are excluded from sanitized reports. Extracted strings and structured hyperlinks are candidates, not independently validated course assets.",
+      "cached_scope": "Thirty-three already-observed default-video descriptions retain their original per-course observation times and page-hash provenance. They are not counted as fresh requests.",
+      "url_detection_limit": "Plain-text detection checks literal valid HTTP(S) URLs only. Unstructured bare domains, obfuscated links, non-HTTP plain-text schemes, spoken links, and links inside unqueried course content are outside that detection method. Structured hyperlink metadata may retain non-HTTP schemes in coarse invalid_or_non_http category counts; these are not HTTP URL candidates, and accessibility and relevance remain unverified.",
+      "relationship_limit": "The captured schema exposes replacement fields but no explicit original-audio, translation-family, or version-family fields. Absence from the observed schema does not prove such relationships do not exist elsewhere.",
+      "asset_url_requests": 0,
+      "transcript_text_requests": 0,
+      "description_text_requested_privately": true,
+      "asset_bytes_verified": false
+    },
+    "evidence_sha256": {
+      "source_course_metadata_sha256": "502d9fabce4a40ff2b15f46783eaab9b3521ad8ec797d8367c8ce19f69afcbc3",
+      "projection_sha256": "1ef17d6849382f81bce58682da1a860f6abd9afad6e8228d22efb41eab29d664",
+      "metadata_sha256": "09160bdd8e21982916ef25a3d2289abd0feb3ed37a2fc2d71bf50e66e8c301da",
+      "summary_sha256": "27edbcc18ffd4eb0c15801450f095a159fc619dcad41b5cd0f65a92f9e315ef3",
+      "integrity_manifest_sha256": "e77c086f829ad862e23d358d711353faa86adb6c507cee6a246b78047e9e73b6",
+      "gap_manifest_sha256": "3d68db50f291461e8d8a84afb2bfda1340fe8717a53a71d8f06430c74e64cee0"
+    },
+    "public_metadata_file": "relationships-resources.json",
+    "full_asset_audit_complete": false,
+    "public_metadata_sha256": "f18c5cf4f193397cc23f4c23716c03e4fe0c657ec8bb6e778bf27705a42f3c42"
+  },
+  "relationships_resources_sha256": "f18c5cf4f193397cc23f4c23716c03e4fe0c657ec8bb6e778bf27705a42f3c42",
+  "targeted_relationship_source_review": {
+    "review_date": "2026-11-12",
+    "observed_through_utc": "2026-11-12T15:21:34.980Z",
+    "status": "review_complete_candidates_retained_declarations_unresolved",
+    "summary": {
+      "reviewed_courses": 6,
+      "reviewed_pairs": 6,
+      "confirmed_named_course_relationships": 0,
+      "candidate_pairs": 6,
+      "unresolved_pair_declarations": 6,
+      "source_supported_software_coverage_courses": 6,
+      "provider_course_language_declarations": 6,
+      "provider_declared_language_counts": {
+        "de": 3,
+        "en": 3
+      },
+      "ui_language_comparison_courses": 2,
+      "original_audio_languages_verified": 0,
+      "description_version_wording_issues": 1,
+      "existing_exercise_archive_offers": 37,
+      "asset_bytes_verified": false
+    },
+    "public_review_file": "relationship-source-review.json",
+    "public_review_sha256": "0ee3079faf7e233ae01b1e20a36e6d784173270c838e1fc3085eeb2c3eea4912",
+    "evidence_sha256": {
+      "prior_relationships_mapping_sha256": "f18c5cf4f193397cc23f4c23716c03e4fe0c657ec8bb6e778bf27705a42f3c42",
+      "fixed_course_metadata_sha256": "502d9fabce4a40ff2b15f46783eaab9b3521ad8ec797d8367c8ce19f69afcbc3",
+      "live_findings_sha256": "550e2168c1e5cc32138b411dab1ca40cabf47285a638287f6459fff790209570",
+      "targeted_integrity_sha256": "6d2680db23b0e50d8c637843900130280b9e562287a9853f409418cc20f266b9"
+    }
+  }
 }
