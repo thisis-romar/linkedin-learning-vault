@@ -17,19 +17,19 @@ created: 2026-11-12
 
 # Architectural Visualization (Concept)
 
-> **Type:** Concept | **Courses:** 2 | **Software groups:** [[Blender (Software)|Blender]]
+> **Type:** Concept | **Courses:** 2 | **Software groups:** [Blender](../../Topics/Blender%20(Software).md)
 
 ## Courses
 
-1. [[Blender and Substance Painter- Architectural Visualization]] — 2 mentions
-2. [[Blender- Tips, Tricks and Techniques]] — 1 mentions
+1. [Blender and Substance Painter- Architectural Visualization](../../Courses/Blender/Blender%20and%20Substance%20Painter-%20Architectural%20Visualization.md) — 2 mentions
+2. [Blender- Tips, Tricks and Techniques](../../Courses/Blender/Blender-%20Tips%2C%20Tricks%20and%20Techniques.md) — 1 mentions
 
 ## Paths and Collections
 
-1. [[Blender course collection]] — 3 total mentions
+1. [Blender course collection](../../Collections/Blender%20course%20collection.md) — 3 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

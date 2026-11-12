@@ -13,7 +13,7 @@ skills:
 exercise_files: true
 software_group: Blender
 collections:
-  - '[[Blender course collection]]'
+  - '[Blender course collection](../../Collections/Blender%20course%20collection.md)'
 collection_count: 1
 collection_nav: '[{"collection":"Blender course collection","position":8,"total":19,"prev":"Blender 3.0 Vintage Car Creation","next":"Blender 4.0 Essential Training"}]'
 tags:
@@ -31,567 +31,457 @@ created: 2026-11-12
 > Blender course with 9 chapters and 55 lessons, selected by the specified software search. Provider-declared course language: English.
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/blender-3-3-essential-training) | 5h 2m | Beginner + Intermediate
-> [Jump to Path and Collection Context ↓](#^lle-context)
+> [Jump to Path and Collection Context ↓](#path-and-collection-context)
 
 ## Table of Contents
 
-_Choose a chapter or lesson below._ ^lle-toc
+_Choose a chapter or lesson below._
 
 ### Chapter Overview
 
-- [**Introduction**](#^lle-chapter-1) (3 videos)
-  - [Introducing Blender 3.3 for beginners](#^lle-video-introducing-blender-3-3-for-beginners)
-  - [How to install and things to know](#^lle-video-how-to-install-and-things-to-know)
-  - [How to use the exercise files](#^lle-video-how-to-use-the-exercise-files)
-- [**1. Learn Blender in under an Hour**](#^lle-chapter-2) (8 videos)
-  - [First steps, navigating the interface](#^lle-video-first-steps-navigating-the-interface)
-  - [Menus, search, and shortcuts](#^lle-video-menus-search-and-shortcuts)
-  - [Create your first objects](#^lle-video-create-your-first-objects)
-  - [Modifying objects](#^lle-video-modifying-objects)
-  - [Arrange your Blender scene and add materials](#^lle-video-arrange-your-blender-scene-and-add-materials)
-  - [Add lights and render your scene](#^lle-video-add-lights-and-render-your-scene)
-  - [Challenge: Add more objects](#^lle-video-challenge-add-more-objects)
-  - [Solution: Add more objects](#^lle-video-solution-add-more-objects)
-- [**2. Create a Character with Modeling and Sculpting**](#^lle-chapter-3) (8 videos)
-  - [Overview of character creation tools](#^lle-video-overview-of-character-creation-tools)
-  - [Creating concepts with Grease Pencil](#^lle-video-creating-concepts-with-grease-pencil)
-  - [Create your first sculpture](#^lle-video-create-your-first-sculpture)
-  - [3D modeling in Blender](#^lle-video-3d-modeling-in-blender)
-  - [Turning logos into 3D models](#^lle-video-turning-logos-into-3d-models)
-  - [Create a landscape with Geometry Nodes](#^lle-video-create-a-landscape-with-geometry-nodes)
-  - [Challenge: Put your lunar scene together](#^lle-video-challenge-put-your-lunar-scene-together)
-  - [Solution: Put your lunar scene together](#^lle-video-solution-put-your-lunar-scene-together)
-- [**3. Textures and Shading**](#^lle-chapter-4) (8 videos)
-  - [Overview of texturing](#^lle-video-overview-of-texturing)
-  - [Creating your first materials in Blender](#^lle-video-creating-your-first-materials-in-blender)
-  - [Advanced Shader Editor workflow](#^lle-video-advanced-shader-editor-workflow)
-  - [Unwrapping](#^lle-video-unwrapping)
-  - [Texture painting in Blender](#^lle-video-texture-painting-in-blender)
-  - [Sculpture painting in Blender](#^lle-video-sculpture-painting-in-blender)
-  - [Challenge: Paint your astronaut](#^lle-video-challenge-paint-your-astronaut)
-  - [Solution: Paint your astronaut](#^lle-video-solution-paint-your-astronaut)
-- [**4. Create Animations**](#^lle-chapter-5) (8 videos)
-  - [Overview of animation](#^lle-video-overview-of-animation)
-  - [Preparing your objects for animation](#^lle-video-preparing-your-objects-for-animation)
-  - [Using Rigify to create 3D characters](#^lle-video-using-rigify-to-create-3d-characters)
-  - [Refining Rigify with weight painting](#^lle-video-refining-rigify-with-weight-painting)
-  - [Set your first keyframe](#^lle-video-set-your-first-keyframe)
-  - [Blender character animation tools](#^lle-video-blender-character-animation-tools)
-  - [Challenge: Animate your astronaut](#^lle-video-challenge-animate-your-astronaut)
-  - [Solution: Animate your astronaut](#^lle-video-solution-animate-your-astronaut)
-- [**5. Visual Effects and Simulation in Blender**](#^lle-chapter-6) (8 videos)
-  - [Overview of visual effects in Blender](#^lle-video-overview-of-visual-effects-in-blender)
-  - [Creating cloth in Blender](#^lle-video-creating-cloth-in-blender)
-  - [Rigid](#^lle-video-rigid)
-  - [Having fun with fluids sims](#^lle-video-having-fun-with-fluids-sims)
-  - [Turning up the heat with fire sims](#^lle-video-turning-up-the-heat-with-fire-sims)
-  - [Become a barber with the new Hair system](#^lle-video-become-a-barber-with-the-new-hair-system)
-  - [Challenge: Add an effect](#^lle-video-challenge-add-an-effect)
-  - [Solution: Add an effect](#^lle-video-solution-add-an-effect)
-- [**6. Put It All Together**](#^lle-chapter-7) (8 videos)
-  - [Collections, scenes, and view layers](#^lle-video-collections-scenes-and-view-layers)
-  - [BlenderKit for scene assembly](#^lle-video-blenderkit-for-scene-assembly)
-  - [Refining lighting in Blender](#^lle-video-refining-lighting-in-blender)
-  - [Rendering with EEVEE](#^lle-video-rendering-with-eevee)
-  - [Rendering with cycles](#^lle-video-rendering-with-cycles)
-  - [Render output and compositing in Blender](#^lle-video-render-output-and-compositing-in-blender)
-  - [Challenge: Render your first animation](#^lle-video-challenge-render-your-first-animation)
-  - [Solution: Render your first animation](#^lle-video-solution-render-your-first-animation)
-- [**7. Advanced Blender Topics**](#^lle-chapter-8) (3 videos)
-  - [Linking and Library Overrides](#^lle-video-linking-and-library-overrides)
-  - [Track footage in Blender](#^lle-video-track-footage-in-blender)
-  - [Unreal Engine workflows for Blender](#^lle-video-unreal-engine-workflows-for-blender)
-- [**Conclusion**](#^lle-chapter-9) (1 videos)
-  - [Next steps](#^lle-video-next-steps)
+- [**Introduction**](#introduction) (3 videos)
+  - [Introducing Blender 3.3 for beginners](#introducing-blender-33-for-beginners)
+  - [How to install and things to know](#how-to-install-and-things-to-know)
+  - [How to use the exercise files](#how-to-use-the-exercise-files)
+- [**1. Learn Blender in under an Hour**](#1-learn-blender-in-under-an-hour) (8 videos)
+  - [First steps, navigating the interface](#first-steps-navigating-the-interface)
+  - [Menus, search, and shortcuts](#menus-search-and-shortcuts)
+  - [Create your first objects](#create-your-first-objects)
+  - [Modifying objects](#modifying-objects)
+  - [Arrange your Blender scene and add materials](#arrange-your-blender-scene-and-add-materials)
+  - [Add lights and render your scene](#add-lights-and-render-your-scene)
+  - [Challenge: Add more objects](#challenge-add-more-objects)
+  - [Solution: Add more objects](#solution-add-more-objects)
+- [**2. Create a Character with Modeling and Sculpting**](#2-create-a-character-with-modeling-and-sculpting) (8 videos)
+  - [Overview of character creation tools](#overview-of-character-creation-tools)
+  - [Creating concepts with Grease Pencil](#creating-concepts-with-grease-pencil)
+  - [Create your first sculpture](#create-your-first-sculpture)
+  - [3D modeling in Blender](#3d-modeling-in-blender)
+  - [Turning logos into 3D models](#turning-logos-into-3d-models)
+  - [Create a landscape with Geometry Nodes](#create-a-landscape-with-geometry-nodes)
+  - [Challenge: Put your lunar scene together](#challenge-put-your-lunar-scene-together)
+  - [Solution: Put your lunar scene together](#solution-put-your-lunar-scene-together)
+- [**3. Textures and Shading**](#3-textures-and-shading) (8 videos)
+  - [Overview of texturing](#overview-of-texturing)
+  - [Creating your first materials in Blender](#creating-your-first-materials-in-blender)
+  - [Advanced Shader Editor workflow](#advanced-shader-editor-workflow)
+  - [Unwrapping](#unwrapping)
+  - [Texture painting in Blender](#texture-painting-in-blender)
+  - [Sculpture painting in Blender](#sculpture-painting-in-blender)
+  - [Challenge: Paint your astronaut](#challenge-paint-your-astronaut)
+  - [Solution: Paint your astronaut](#solution-paint-your-astronaut)
+- [**4. Create Animations**](#4-create-animations) (8 videos)
+  - [Overview of animation](#overview-of-animation)
+  - [Preparing your objects for animation](#preparing-your-objects-for-animation)
+  - [Using Rigify to create 3D characters](#using-rigify-to-create-3d-characters)
+  - [Refining Rigify with weight painting](#refining-rigify-with-weight-painting)
+  - [Set your first keyframe](#set-your-first-keyframe)
+  - [Blender character animation tools](#blender-character-animation-tools)
+  - [Challenge: Animate your astronaut](#challenge-animate-your-astronaut)
+  - [Solution: Animate your astronaut](#solution-animate-your-astronaut)
+- [**5. Visual Effects and Simulation in Blender**](#5-visual-effects-and-simulation-in-blender) (8 videos)
+  - [Overview of visual effects in Blender](#overview-of-visual-effects-in-blender)
+  - [Creating cloth in Blender](#creating-cloth-in-blender)
+  - [Rigid](#rigid)
+  - [Having fun with fluids sims](#having-fun-with-fluids-sims)
+  - [Turning up the heat with fire sims](#turning-up-the-heat-with-fire-sims)
+  - [Become a barber with the new Hair system](#become-a-barber-with-the-new-hair-system)
+  - [Challenge: Add an effect](#challenge-add-an-effect)
+  - [Solution: Add an effect](#solution-add-an-effect)
+- [**6. Put It All Together**](#6-put-it-all-together) (8 videos)
+  - [Collections, scenes, and view layers](#collections-scenes-and-view-layers)
+  - [BlenderKit for scene assembly](#blenderkit-for-scene-assembly)
+  - [Refining lighting in Blender](#refining-lighting-in-blender)
+  - [Rendering with EEVEE](#rendering-with-eevee)
+  - [Rendering with cycles](#rendering-with-cycles)
+  - [Render output and compositing in Blender](#render-output-and-compositing-in-blender)
+  - [Challenge: Render your first animation](#challenge-render-your-first-animation)
+  - [Solution: Render your first animation](#solution-render-your-first-animation)
+- [**7. Advanced Blender Topics**](#7-advanced-blender-topics) (3 videos)
+  - [Linking and Library Overrides](#linking-and-library-overrides)
+  - [Track footage in Blender](#track-footage-in-blender)
+  - [Unreal Engine workflows for Blender](#unreal-engine-workflows-for-blender)
+- [**Conclusion**](#conclusion) (1 videos)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-1
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Blender 3.3 for beginners
 
-_0m 52s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/introducing-blender-3-3-for-beginners) ^lle-video-introducing-blender-3-3-for-beginners
+_0m 52s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/introducing-blender-3-3-for-beginners)
 
-```lle-transcript
-blender-3-3-essential-training::introducing-blender-3-3-for-beginners
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### How to install and things to know
 
-_3m 32s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/how-to-install-and-things-to-know) ^lle-video-how-to-install-and-things-to-know
+_3m 32s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/how-to-install-and-things-to-know)
 
-```lle-transcript
-blender-3-3-essential-training::how-to-install-and-things-to-know
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### How to use the exercise files
 
-_1m 5s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/how-to-use-the-exercise-files) ^lle-video-how-to-use-the-exercise-files
+_1m 5s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/how-to-use-the-exercise-files)
 
-```lle-transcript
-blender-3-3-essential-training::how-to-use-the-exercise-files
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### 1. Learn Blender in under an Hour
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-2
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### First steps, navigating the interface
 
-_5m 36s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/first-steps-navigating-the-interface) ^lle-video-first-steps-navigating-the-interface
+_5m 36s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/first-steps-navigating-the-interface)
 
-```lle-transcript
-blender-3-3-essential-training::first-steps-navigating-the-interface
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Menus, search, and shortcuts
 
-_5m 33s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/menus-search-and-shortcuts) ^lle-video-menus-search-and-shortcuts
+_5m 33s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/menus-search-and-shortcuts)
 
-```lle-transcript
-blender-3-3-essential-training::menus-search-and-shortcuts
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Create your first objects
 
-_4m 35s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/create-your-first-objects) ^lle-video-create-your-first-objects
+_4m 35s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/create-your-first-objects)
 
-```lle-transcript
-blender-3-3-essential-training::create-your-first-objects
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Modifying objects
 
-_5m 36s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/modifying-objects) ^lle-video-modifying-objects
+_5m 36s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/modifying-objects)
 
-```lle-transcript
-blender-3-3-essential-training::modifying-objects
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Arrange your Blender scene and add materials
 
-_4m 47s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/arrange-your-blender-scene-and-add-materials) ^lle-video-arrange-your-blender-scene-and-add-materials
+_4m 47s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/arrange-your-blender-scene-and-add-materials)
 
-```lle-transcript
-blender-3-3-essential-training::arrange-your-blender-scene-and-add-materials
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Add lights and render your scene
 
-_6m 46s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/add-lights-and-render-your-scene) ^lle-video-add-lights-and-render-your-scene
+_6m 46s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/add-lights-and-render-your-scene)
 
-```lle-transcript
-blender-3-3-essential-training::add-lights-and-render-your-scene
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Challenge: Add more objects
 
-_0m 39s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-add-more-objects) ^lle-video-challenge-add-more-objects
+_0m 39s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-add-more-objects)
 
-```lle-transcript
-blender-3-3-essential-training::challenge-add-more-objects
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Solution: Add more objects
 
-_5m 32s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-add-more-objects) ^lle-video-solution-add-more-objects
+_5m 32s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-add-more-objects)
 
-```lle-transcript
-blender-3-3-essential-training::solution-add-more-objects
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### 2. Create a Character with Modeling and Sculpting
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-3
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of character creation tools
 
-_0m 50s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/overview-of-character-creation-tools) ^lle-video-overview-of-character-creation-tools
+_0m 50s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/overview-of-character-creation-tools)
 
-```lle-transcript
-blender-3-3-essential-training::overview-of-character-creation-tools
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Creating concepts with Grease Pencil
 
-_5m 55s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/creating-concepts-with-grease-pencil) ^lle-video-creating-concepts-with-grease-pencil
+_5m 55s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/creating-concepts-with-grease-pencil)
 
-```lle-transcript
-blender-3-3-essential-training::creating-concepts-with-grease-pencil
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Create your first sculpture
 
-_6m 21s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/create-your-first-sculpture) ^lle-video-create-your-first-sculpture
+_6m 21s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/create-your-first-sculpture)
 
-```lle-transcript
-blender-3-3-essential-training::create-your-first-sculpture
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### 3D modeling in Blender
 
-_8m 41s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/3d-modeling-in-blender) ^lle-video-3d-modeling-in-blender
+_8m 41s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/3d-modeling-in-blender)
 
-```lle-transcript
-blender-3-3-essential-training::3d-modeling-in-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Turning logos into 3D models
 
-_7m 21s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/turning-logos-into-3d-models) ^lle-video-turning-logos-into-3d-models
+_7m 21s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/turning-logos-into-3d-models)
 
-```lle-transcript
-blender-3-3-essential-training::turning-logos-into-3d-models
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Create a landscape with Geometry Nodes
 
-_10m 3s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/create-a-landscape-with-geometry-nodes) ^lle-video-create-a-landscape-with-geometry-nodes
+_10m 3s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/create-a-landscape-with-geometry-nodes)
 
-```lle-transcript
-blender-3-3-essential-training::create-a-landscape-with-geometry-nodes
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Challenge: Put your lunar scene together
 
-_1m 28s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-put-your-lunar-scene-together) ^lle-video-challenge-put-your-lunar-scene-together
+_1m 28s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-put-your-lunar-scene-together)
 
-```lle-transcript
-blender-3-3-essential-training::challenge-put-your-lunar-scene-together
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Solution: Put your lunar scene together
 
-_7m 59s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-put-your-lunar-scene-together) ^lle-video-solution-put-your-lunar-scene-together
+_7m 59s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-put-your-lunar-scene-together)
 
-```lle-transcript
-blender-3-3-essential-training::solution-put-your-lunar-scene-together
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### 3. Textures and Shading
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-4
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of texturing
 
-_0m 45s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/overview-of-texturing) ^lle-video-overview-of-texturing
+_0m 45s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/overview-of-texturing)
 
-```lle-transcript
-blender-3-3-essential-training::overview-of-texturing
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Creating your first materials in Blender
 
-_7m 22s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/creating-your-first-materials-in-blender) ^lle-video-creating-your-first-materials-in-blender
+_7m 22s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/creating-your-first-materials-in-blender)
 
-```lle-transcript
-blender-3-3-essential-training::creating-your-first-materials-in-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Advanced Shader Editor workflow
 
-_7m 25s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/advanced-shader-editor-workflow) ^lle-video-advanced-shader-editor-workflow
+_7m 25s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/advanced-shader-editor-workflow)
 
-```lle-transcript
-blender-3-3-essential-training::advanced-shader-editor-workflow
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Unwrapping
 
-_9m 54s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/unwrapping) ^lle-video-unwrapping
+_9m 54s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/unwrapping)
 
-```lle-transcript
-blender-3-3-essential-training::unwrapping
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Texture painting in Blender
 
-_7m 59s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/texture-painting-in-blender) ^lle-video-texture-painting-in-blender
+_7m 59s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/texture-painting-in-blender)
 
-```lle-transcript
-blender-3-3-essential-training::texture-painting-in-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Sculpture painting in Blender
 
-_4m 58s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/sculpture-painting-in-blender) ^lle-video-sculpture-painting-in-blender
+_4m 58s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/sculpture-painting-in-blender)
 
-```lle-transcript
-blender-3-3-essential-training::sculpture-painting-in-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Challenge: Paint your astronaut
 
-_0m 44s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-paint-your-astronaut) ^lle-video-challenge-paint-your-astronaut
+_0m 44s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-paint-your-astronaut)
 
-```lle-transcript
-blender-3-3-essential-training::challenge-paint-your-astronaut
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Solution: Paint your astronaut
 
-_8m 37s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-paint-your-astronaut) ^lle-video-solution-paint-your-astronaut
+_8m 37s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-paint-your-astronaut)
 
-```lle-transcript
-blender-3-3-essential-training::solution-paint-your-astronaut
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### 4. Create Animations
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-5
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of animation
 
-_0m 50s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/overview-of-animation) ^lle-video-overview-of-animation
+_0m 50s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/overview-of-animation)
 
-```lle-transcript
-blender-3-3-essential-training::overview-of-animation
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Preparing your objects for animation
 
-_5m 46s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/preparing-your-objects-for-animation) ^lle-video-preparing-your-objects-for-animation
+_5m 46s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/preparing-your-objects-for-animation)
 
-```lle-transcript
-blender-3-3-essential-training::preparing-your-objects-for-animation
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Using Rigify to create 3D characters
 
-_4m 27s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/using-rigify-to-create-3d-characters) ^lle-video-using-rigify-to-create-3d-characters
+_4m 27s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/using-rigify-to-create-3d-characters)
 
-```lle-transcript
-blender-3-3-essential-training::using-rigify-to-create-3d-characters
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Refining Rigify with weight painting
 
-_10m 44s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/refining-rigify-with-weight-painting) ^lle-video-refining-rigify-with-weight-painting
+_10m 44s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/refining-rigify-with-weight-painting)
 
-```lle-transcript
-blender-3-3-essential-training::refining-rigify-with-weight-painting
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Set your first keyframe
 
-_7m 20s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/set-your-first-keyframe) ^lle-video-set-your-first-keyframe
+_7m 20s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/set-your-first-keyframe)
 
-```lle-transcript
-blender-3-3-essential-training::set-your-first-keyframe
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Blender character animation tools
 
-_8m 2s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/blender-character-animation-tools) ^lle-video-blender-character-animation-tools
+_8m 2s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/blender-character-animation-tools)
 
-```lle-transcript
-blender-3-3-essential-training::blender-character-animation-tools
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Challenge: Animate your astronaut
 
-_0m 51s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-animate-your-astronaut) ^lle-video-challenge-animate-your-astronaut
+_0m 51s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-animate-your-astronaut)
 
-```lle-transcript
-blender-3-3-essential-training::challenge-animate-your-astronaut
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Solution: Animate your astronaut
 
-_7m 22s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-animate-your-astronaut) ^lle-video-solution-animate-your-astronaut
+_7m 22s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-animate-your-astronaut)
 
-```lle-transcript
-blender-3-3-essential-training::solution-animate-your-astronaut
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### 5. Visual Effects and Simulation in Blender
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-6
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of visual effects in Blender
 
-_0m 29s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/overview-of-visual-effects-in-blender) ^lle-video-overview-of-visual-effects-in-blender
+_0m 29s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/overview-of-visual-effects-in-blender)
 
-```lle-transcript
-blender-3-3-essential-training::overview-of-visual-effects-in-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Creating cloth in Blender
 
-_6m 43s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/creating-cloth-in-blender) ^lle-video-creating-cloth-in-blender
+_6m 43s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/creating-cloth-in-blender)
 
-```lle-transcript
-blender-3-3-essential-training::creating-cloth-in-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Rigid
 
-_5m 10s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/rigid) ^lle-video-rigid
+_5m 10s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/rigid)
 
-```lle-transcript
-blender-3-3-essential-training::rigid
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Having fun with fluids sims
 
-_6m 45s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/having-fun-with-fluids-sims) ^lle-video-having-fun-with-fluids-sims
+_6m 45s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/having-fun-with-fluids-sims)
 
-```lle-transcript
-blender-3-3-essential-training::having-fun-with-fluids-sims
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Turning up the heat with fire sims
 
-_7m 1s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/turning-up-the-heat-with-fire-sims) ^lle-video-turning-up-the-heat-with-fire-sims
+_7m 1s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/turning-up-the-heat-with-fire-sims)
 
-```lle-transcript
-blender-3-3-essential-training::turning-up-the-heat-with-fire-sims
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Become a barber with the new Hair system
 
-_7m 12s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/become-a-barber-with-the-new-hair-system) ^lle-video-become-a-barber-with-the-new-hair-system
+_7m 12s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/become-a-barber-with-the-new-hair-system)
 
-```lle-transcript
-blender-3-3-essential-training::become-a-barber-with-the-new-hair-system
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Challenge: Add an effect
 
-_0m 33s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-add-an-effect) ^lle-video-challenge-add-an-effect
+_0m 33s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-add-an-effect)
 
-```lle-transcript
-blender-3-3-essential-training::challenge-add-an-effect
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Solution: Add an effect
 
-_12m 19s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-add-an-effect) ^lle-video-solution-add-an-effect
+_12m 19s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-add-an-effect)
 
-```lle-transcript
-blender-3-3-essential-training::solution-add-an-effect
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### 6. Put It All Together
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-7
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Collections, scenes, and view layers
 
-_5m 11s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/collections-scenes-and-view-layers) ^lle-video-collections-scenes-and-view-layers
+_5m 11s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/collections-scenes-and-view-layers)
 
-```lle-transcript
-blender-3-3-essential-training::collections-scenes-and-view-layers
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### BlenderKit for scene assembly
 
-_6m 38s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/blenderkit-for-scene-assembly) ^lle-video-blenderkit-for-scene-assembly
+_6m 38s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/blenderkit-for-scene-assembly)
 
-```lle-transcript
-blender-3-3-essential-training::blenderkit-for-scene-assembly
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Refining lighting in Blender
 
-_6m 18s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/refining-lighting-in-blender) ^lle-video-refining-lighting-in-blender
+_6m 18s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/refining-lighting-in-blender)
 
-```lle-transcript
-blender-3-3-essential-training::refining-lighting-in-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Rendering with EEVEE
 
-_7m 16s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/rendering-with-eevee) ^lle-video-rendering-with-eevee
+_7m 16s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/rendering-with-eevee)
 
-```lle-transcript
-blender-3-3-essential-training::rendering-with-eevee
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Rendering with cycles
 
-_7m 37s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/rendering-with-cycles) ^lle-video-rendering-with-cycles
+_7m 37s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/rendering-with-cycles)
 
-```lle-transcript
-blender-3-3-essential-training::rendering-with-cycles
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Render output and compositing in Blender
 
-_5m 59s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/render-output-and-compositing-in-blender) ^lle-video-render-output-and-compositing-in-blender
+_5m 59s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/render-output-and-compositing-in-blender)
 
-```lle-transcript
-blender-3-3-essential-training::render-output-and-compositing-in-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Challenge: Render your first animation
 
-_0m 48s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-render-your-first-animation) ^lle-video-challenge-render-your-first-animation
+_0m 48s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/challenge-render-your-first-animation)
 
-```lle-transcript
-blender-3-3-essential-training::challenge-render-your-first-animation
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Solution: Render your first animation
 
-_10m 4s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-render-your-first-animation) ^lle-video-solution-render-your-first-animation
+_10m 4s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/solution-render-your-first-animation)
 
-```lle-transcript
-blender-3-3-essential-training::solution-render-your-first-animation
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### 7. Advanced Blender Topics
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-8
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Linking and Library Overrides
 
-_3m 51s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/linking-and-library-overrides) ^lle-video-linking-and-library-overrides
+_3m 51s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/linking-and-library-overrides)
 
-```lle-transcript
-blender-3-3-essential-training::linking-and-library-overrides
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Track footage in Blender
 
-_5m 25s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/track-footage-in-blender) ^lle-video-track-footage-in-blender
+_5m 25s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/track-footage-in-blender)
 
-```lle-transcript
-blender-3-3-essential-training::track-footage-in-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Unreal Engine workflows for Blender
 
-_7m 17s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/unreal-engine-workflows-for-blender) ^lle-video-unreal-engine-workflows-for-blender
+_7m 17s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/unreal-engine-workflows-for-blender)
 
-```lle-transcript
-blender-3-3-essential-training::unreal-engine-workflows-for-blender
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### Conclusion
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-9
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 
-_2m 35s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/next-steps) ^lle-video-next-steps
+_2m 35s_ · [Open lesson](https://www.linkedin.com/learning/blender-3-3-essential-training/next-steps)
 
-```lle-transcript
-blender-3-3-essential-training::next-steps
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ## Instructor
 
-- [[David Andrade]]
+- [David Andrade](../../Instructors/Blender/David%20Andrade.md)
 
 ## Resources
 
@@ -605,59 +495,59 @@ blender-3-3-essential-training::next-steps
 
 _Literal vocabulary matches in the private transcripts; counts are lexical._
 
-- [[Glossary/Tool/Blender (Tool)|Blender]] — 223 mentions
-- [[Glossary/Concept/Object (Concept)|Object]] — 123 mentions
-- [[Glossary/Concept/Camera (Concept)|Camera]] — 60 mentions
-- [[Glossary/Concept/Material (Concept)|Material]] — 57 mentions
-- [[Glossary/Concept/Texture (Concept)|Texture]] — 55 mentions
-- [[Glossary/Concept/Animation (Concept)|Animation]] — 48 mentions
-- [[Glossary/Concept/Vertex (Concept)|Vertex]] — 46 mentions
-- [[Glossary/Concept/Modifier (Concept)|Modifier]] — 39 mentions
-- [[Glossary/Concept/Edge (Concept)|Edge]] — 36 mentions
-- [[Glossary/Concept/Mesh (Concept)|Mesh]] — 36 mentions
-- [[Glossary/Concept/Rendering (Concept)|Rendering]] — 32 mentions
-- [[Glossary/Concept/Face (Concept)|Face]] — 31 mentions
-- [[Glossary/Concept/Lighting (Concept)|Lighting]] — 26 mentions
-- [[Glossary/Concept/Collection (Concept)|Collection]] — 25 mentions
-- [[Glossary/Concept/Armature (Concept)|Armature]] — 18 mentions
-- [[Glossary/Concept/Sculpting (Concept)|Sculpting]] — 15 mentions
-- [[Glossary/Concept/Geometry Nodes (Concept)|Geometry Nodes]] — 12 mentions
-- [[Glossary/Concept/Transform (Concept)|Transform]] — 11 mentions
-- [[Glossary/Concept/Compositing (Concept)|Compositing]] — 7 mentions
-- [[Glossary/Concept/Shader (Concept)|Shader]] — 7 mentions
-- [[Glossary/Concept/Character Animation (Concept)|Character Animation]] — 5 mentions
-- [[Glossary/Concept/Normal (Concept)|Normal]] — 5 mentions
-- [[Glossary/Concept/Subdivision Surface (Concept)|Subdivision Surface]] — 5 mentions
-- [[Glossary/Concept/Keyframe (Concept)|Keyframe]] — 4 mentions
-- [[Glossary/Language/Python (Programming Language) (Language)|Python (Programming Language)]] — 4 mentions
-- [[Glossary/Concept/Topology (Concept)|Topology]] — 4 mentions
-- [[Glossary/Concept/UV Map (Concept)|UV Map]] — 4 mentions
-- [[Glossary/Concept/3D Animation (Concept)|3D Animation]] — 2 mentions
-- [[Glossary/Concept/3D Modeling (Concept)|3D Modeling]] — 2 mentions
-- [[Glossary/Concept/Triangle (Concept)|Triangle]] — 2 mentions
-- [[Glossary/Tool/Autodesk Maya (Tool)|Autodesk Maya]] — 1 mentions
-- [[Glossary/Tool/GitHub (Tool)|GitHub]] — 1 mentions
+- [Blender](../../Glossary/Tool/Blender%20(Tool).md) — 223 mentions
+- [Object](../../Glossary/Concept/Object%20(Concept).md) — 123 mentions
+- [Camera](../../Glossary/Concept/Camera%20(Concept).md) — 60 mentions
+- [Material](../../Glossary/Concept/Material%20(Concept).md) — 57 mentions
+- [Texture](../../Glossary/Concept/Texture%20(Concept).md) — 55 mentions
+- [Animation](../../Glossary/Concept/Animation%20(Concept).md) — 48 mentions
+- [Vertex](../../Glossary/Concept/Vertex%20(Concept).md) — 46 mentions
+- [Modifier](../../Glossary/Concept/Modifier%20(Concept).md) — 39 mentions
+- [Edge](../../Glossary/Concept/Edge%20(Concept).md) — 36 mentions
+- [Mesh](../../Glossary/Concept/Mesh%20(Concept).md) — 36 mentions
+- [Rendering](../../Glossary/Concept/Rendering%20(Concept).md) — 32 mentions
+- [Face](../../Glossary/Concept/Face%20(Concept).md) — 31 mentions
+- [Lighting](../../Glossary/Concept/Lighting%20(Concept).md) — 26 mentions
+- [Collection](../../Glossary/Concept/Collection%20(Concept).md) — 25 mentions
+- [Armature](../../Glossary/Concept/Armature%20(Concept).md) — 18 mentions
+- [Sculpting](../../Glossary/Concept/Sculpting%20(Concept).md) — 15 mentions
+- [Geometry Nodes](../../Glossary/Concept/Geometry%20Nodes%20(Concept).md) — 12 mentions
+- [Transform](../../Glossary/Concept/Transform%20(Concept).md) — 11 mentions
+- [Compositing](../../Glossary/Concept/Compositing%20(Concept).md) — 7 mentions
+- [Shader](../../Glossary/Concept/Shader%20(Concept).md) — 7 mentions
+- [Character Animation](../../Glossary/Concept/Character%20Animation%20(Concept).md) — 5 mentions
+- [Normal](../../Glossary/Concept/Normal%20(Concept).md) — 5 mentions
+- [Subdivision Surface](../../Glossary/Concept/Subdivision%20Surface%20(Concept).md) — 5 mentions
+- [Keyframe](../../Glossary/Concept/Keyframe%20(Concept).md) — 4 mentions
+- [Python (Programming Language)](../../Glossary/Language/Python%20(Programming%20Language)%20(Language).md) — 4 mentions
+- [Topology](../../Glossary/Concept/Topology%20(Concept).md) — 4 mentions
+- [UV Map](../../Glossary/Concept/UV%20Map%20(Concept).md) — 4 mentions
+- [3D Animation](../../Glossary/Concept/3D%20Animation%20(Concept).md) — 2 mentions
+- [3D Modeling](../../Glossary/Concept/3D%20Modeling%20(Concept).md) — 2 mentions
+- [Triangle](../../Glossary/Concept/Triangle%20(Concept).md) — 2 mentions
+- [Autodesk Maya](../../Glossary/Tool/Autodesk%20Maya%20(Tool).md) — 1 mentions
+- [GitHub](../../Glossary/Tool/GitHub%20(Tool).md) — 1 mentions
 
 ## Path and Collection Context
 
-_Local navigation order; not a provider prerequisite sequence._ ^lle-context
+_Local navigation order; not a provider prerequisite sequence._
 
-### In [[Blender course collection]]
-← [[Blender 3.0 Vintage Car Creation]] | **8 of 19** | [[Blender 4.0 Essential Training]] →
+### In [Blender course collection](../../Collections/Blender%20course%20collection.md)
+← [Blender 3.0 Vintage Car Creation](Blender%203.0%20Vintage%20Car%20Creation.md) | **8 of 19** | [Blender 4.0 Essential Training](Blender%204.0%20Essential%20Training.md) →
 
 ## Appears In
 
-- [[Blender course collection]]
+- [Blender course collection](../../Collections/Blender%20course%20collection.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Moving from Blender to Maya- Learn a Layered Animation Workflow]] — Blender
-- [[Learning Blender- Design Your First 3D Object]] — Blender
-- [[Learn Animation Production in Blender 2.9]] — Blender
-- [[Interior Design with Blender- Build an Advanced 3D Scene]] — Blender
-- [[Creating a Finished Character Animation in Blender 2.9]] — Blender
+- [Moving from Blender to Maya- Learn a Layered Animation Workflow](Moving%20from%20Blender%20to%20Maya-%20Learn%20a%20Layered%20Animation%20Workflow.md) — Blender
+- [Learning Blender- Design Your First 3D Object](Learning%20Blender-%20Design%20Your%20First%203D%20Object.md) — Blender
+- [Learn Animation Production in Blender 2.9](Learn%20Animation%20Production%20in%20Blender%202.9.md) — Blender
+- [Interior Design with Blender- Build an Advanced 3D Scene](Interior%20Design%20with%20Blender-%20Build%20an%20Advanced%203D%20Scene.md) — Blender
+- [Creating a Finished Character Animation in Blender 2.9](Creating%20a%20Finished%20Character%20Animation%20in%20Blender%202.9.md) — Blender
 
 ---
 

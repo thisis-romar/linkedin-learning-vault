@@ -17,26 +17,26 @@ created: 2026-11-12
 
 # UV Mapping (Concept)
 
-> **Type:** Concept | **Courses:** 9 | **Software groups:** [[Blender (Software)|Blender]]
+> **Type:** Concept | **Courses:** 9 | **Software groups:** [Blender](../../Topics/Blender%20(Software).md)
 
 ## Courses
 
-1. [[Blender 2.8 UV Mapping]] — 44 mentions
-2. [[Create an Animated Character in Blender 2.9]] — 19 mentions
-3. [[Blender 2.8 Character Creation]] — 15 mentions
-4. [[Blender and Substance Painter- Architectural Visualization]] — 14 mentions
-5. [[Introduction to 3D]] — 4 mentions
-6. [[Blender- Tips, Tricks and Techniques]] — 2 mentions
-7. [[Learn Animation Production in Blender 2.9]] — 2 mentions
-8. [[Blender 2.91 Essential Training]] — 1 mentions
-9. [[Blender- Hard Surface Modeling]] — 1 mentions
+1. [Blender 2.8 UV Mapping](../../Courses/Blender/Blender%202.8%20UV%20Mapping.md) — 44 mentions
+2. [Create an Animated Character in Blender 2.9](../../Courses/Blender/Create%20an%20Animated%20Character%20in%20Blender%202.9.md) — 19 mentions
+3. [Blender 2.8 Character Creation](../../Courses/Blender/Blender%202.8%20Character%20Creation.md) — 15 mentions
+4. [Blender and Substance Painter- Architectural Visualization](../../Courses/Blender/Blender%20and%20Substance%20Painter-%20Architectural%20Visualization.md) — 14 mentions
+5. [Introduction to 3D](../../Courses/Blender/Introduction%20to%203D.md) — 4 mentions
+6. [Blender- Tips, Tricks and Techniques](../../Courses/Blender/Blender-%20Tips%2C%20Tricks%20and%20Techniques.md) — 2 mentions
+7. [Learn Animation Production in Blender 2.9](../../Courses/Blender/Learn%20Animation%20Production%20in%20Blender%202.9.md) — 2 mentions
+8. [Blender 2.91 Essential Training](../../Courses/Blender/Blender%202.91%20Essential%20Training.md) — 1 mentions
+9. [Blender- Hard Surface Modeling](../../Courses/Blender/Blender-%20Hard%20Surface%20Modeling.md) — 1 mentions
 
 ## Paths and Collections
 
-1. [[Blender course collection]] — 102 total mentions
+1. [Blender course collection](../../Collections/Blender%20course%20collection.md) — 102 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

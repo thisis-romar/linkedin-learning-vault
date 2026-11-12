@@ -22,12 +22,12 @@ created: 2026-11-12
 
 ## Courses
 
-- [[Blender 2.8 Character Creation]] — Intermediate · 16h 35m
+- [Blender 2.8 Character Creation](../../Courses/Blender/Blender%202.8%20Character%20Creation.md) — Intermediate · 16h 35m
 
 ## Related Skills
 
-- [[Blender]] — 1 shared course
+- [Blender](Blender.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Create an Animated Character in Blender 2.9]] — 1 mentions
+1. [Create an Animated Character in Blender 2.9](../../Courses/Blender/Create%20an%20Animated%20Character%20in%20Blender%202.9.md) — 1 mentions

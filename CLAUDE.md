@@ -6,7 +6,7 @@ This vault contains the exact selected catalog: 19 courses, 4 instructor/author 
 
 ## Navigation
 
-Start at [[000 Map of Content]], [[000 Glossary Index]] or [[Blender course collection]]. Course notes contain the complete selected TOCs, unique native Obsidian lesson targets, public lesson links, related courses, glossary mentions, and collection prev/next navigation. The browse converter translates native targets to GitHub heading fragments, including duplicate titles.
+Start at [000 Map of Content](000%20Map%20of%20Content.md), [000 Glossary Index](000%20Glossary%20Index.md) or [Blender course collection](Collections/Blender%20course%20collection.md). Course notes contain the complete selected TOCs, unique native Obsidian lesson targets, public lesson links, related courses, glossary mentions, and collection prev/next navigation. The browse converter translates native targets to GitHub heading fragments, including duplicate titles.
 
 ## Private local content
 

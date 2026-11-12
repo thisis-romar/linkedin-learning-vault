@@ -22,13 +22,13 @@ created: 2026-11-12
 
 ## Courses
 
-- [[Moving from Blender to Maya- Learn a Layered Animation Workflow]] — Beginner + Intermediate · 1h 5m
+- [Moving from Blender to Maya- Learn a Layered Animation Workflow](../../Courses/Blender/Moving%20from%20Blender%20to%20Maya-%20Learn%20a%20Layered%20Animation%20Workflow.md) — Beginner + Intermediate · 1h 5m
 
 ## Related Skills
 
-- [[3D Animation]] — 1 shared course
-- [[Blender]] — 1 shared course
+- [3D Animation](3D%20Animation.md) — 1 shared course
+- [Blender](Blender.md) — 1 shared course
 
 ## Mentioned In Transcripts _(1 total mentions)_
 
-1. [[Blender 3.3 Essential Training]] — 1 mentions
+1. [Blender 3.3 Essential Training](../../Courses/Blender/Blender%203.3%20Essential%20Training.md) — 1 mentions

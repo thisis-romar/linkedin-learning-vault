@@ -22,12 +22,12 @@ created: 2026-11-12
 
 ## Courses
 
-- [[Learn Animation Production in Blender 2.9]] — Intermediate · 10h 52m
+- [Learn Animation Production in Blender 2.9](../../Courses/Blender/Learn%20Animation%20Production%20in%20Blender%202.9.md) — Intermediate · 10h 52m
 
 ## Related Skills
 
-- [[Blender]] — 1 shared course
+- [Blender](Blender.md) — 1 shared course
 
 ## Mentioned In Transcripts _(3 total mentions)_
 
-1. [[Learn Animation Production in Blender 2.9]] — 3 mentions
+1. [Learn Animation Production in Blender 2.9](../../Courses/Blender/Learn%20Animation%20Production%20in%20Blender%202.9.md) — 3 mentions

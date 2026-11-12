@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "source_branch": "blender-only",
+  "source_revision": "ce3e422319a0ae0562fd6bcd1308bacfdf01d7c1",
+  "transcript_text_included": false,
+  "converter": "scripts/convert-wikilinks.mjs"
+}

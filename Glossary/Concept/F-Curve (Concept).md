@@ -17,18 +17,18 @@ created: 2026-11-12
 
 # F-Curve (Concept)
 
-> **Type:** Concept | **Courses:** 1 | **Software groups:** [[Blender (Software)|Blender]]
+> **Type:** Concept | **Courses:** 1 | **Software groups:** [Blender](../../Topics/Blender%20(Software).md)
 
 ## Courses
 
-1. [[Blender- Tips, Tricks and Techniques]] — 1 mentions
+1. [Blender- Tips, Tricks and Techniques](../../Courses/Blender/Blender-%20Tips%2C%20Tricks%20and%20Techniques.md) — 1 mentions
 
 ## Paths and Collections
 
-1. [[Blender course collection]] — 1 total mentions
+1. [Blender course collection](../../Collections/Blender%20course%20collection.md) — 1 total mentions
 
 ---
 
 *Source: manually added*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

@@ -17,35 +17,35 @@ created: 2026-11-12
 
 # Material (Concept)
 
-> **Type:** Concept | **Courses:** 16 | **Software groups:** [[Blender (Software)|Blender]]
+> **Type:** Concept | **Courses:** 16 | **Software groups:** [Blender](../../Topics/Blender%20(Software).md)
 
 ## Courses
 
-1. [[Blender and Substance Painter- Architectural Visualization]] — 211 mentions
-2. [[Blender 3.0 Vintage Car Creation]] — 206 mentions
-3. [[Blender- Tips, Tricks and Techniques]] — 201 mentions
-4. [[Learn Animation Production in Blender 2.9]] — 138 mentions
-5. [[Create an Animated Character in Blender 2.9]] — 103 mentions
-6. [[Blender 2.8 Character Creation]] — 98 mentions
-7. [[Introduction to 3D]] — 91 mentions
-8. [[Blender 2.8 UV Mapping]] — 86 mentions
-9. [[Blender 3.3 Essential Training]] — 57 mentions
-10. [[Blender 2.83 Essential Training]] — 53 mentions
+1. [Blender and Substance Painter- Architectural Visualization](../../Courses/Blender/Blender%20and%20Substance%20Painter-%20Architectural%20Visualization.md) — 211 mentions
+2. [Blender 3.0 Vintage Car Creation](../../Courses/Blender/Blender%203.0%20Vintage%20Car%20Creation.md) — 206 mentions
+3. [Blender- Tips, Tricks and Techniques](../../Courses/Blender/Blender-%20Tips%2C%20Tricks%20and%20Techniques.md) — 201 mentions
+4. [Learn Animation Production in Blender 2.9](../../Courses/Blender/Learn%20Animation%20Production%20in%20Blender%202.9.md) — 138 mentions
+5. [Create an Animated Character in Blender 2.9](../../Courses/Blender/Create%20an%20Animated%20Character%20in%20Blender%202.9.md) — 103 mentions
+6. [Blender 2.8 Character Creation](../../Courses/Blender/Blender%202.8%20Character%20Creation.md) — 98 mentions
+7. [Introduction to 3D](../../Courses/Blender/Introduction%20to%203D.md) — 91 mentions
+8. [Blender 2.8 UV Mapping](../../Courses/Blender/Blender%202.8%20UV%20Mapping.md) — 86 mentions
+9. [Blender 3.3 Essential Training](../../Courses/Blender/Blender%203.3%20Essential%20Training.md) — 57 mentions
+10. [Blender 2.83 Essential Training](../../Courses/Blender/Blender%202.83%20Essential%20Training.md) — 53 mentions
 
 > [!note]- See all 16 courses
-> 11. [[Blender 2.91 Essential Training]] — 53 mentions
-> 12. [[Blender- Hard Surface Modeling]] — 46 mentions
-> 13. [[Blender 3 Essential Training]] — 40 mentions
-> 14. [[Blender 4.0 Essential Training]] — 31 mentions
-> 15. [[Interior Design with Blender- Build an Advanced 3D Scene]] — 21 mentions
-> 16. [[Learning Blender- Design Your First 3D Object]] — 7 mentions
+> 11. [Blender 2.91 Essential Training](../../Courses/Blender/Blender%202.91%20Essential%20Training.md) — 53 mentions
+> 12. [Blender- Hard Surface Modeling](../../Courses/Blender/Blender-%20Hard%20Surface%20Modeling.md) — 46 mentions
+> 13. [Blender 3 Essential Training](../../Courses/Blender/Blender%203%20Essential%20Training.md) — 40 mentions
+> 14. [Blender 4.0 Essential Training](../../Courses/Blender/Blender%204.0%20Essential%20Training.md) — 31 mentions
+> 15. [Interior Design with Blender- Build an Advanced 3D Scene](../../Courses/Blender/Interior%20Design%20with%20Blender-%20Build%20an%20Advanced%203D%20Scene.md) — 21 mentions
+> 16. [Learning Blender- Design Your First 3D Object](../../Courses/Blender/Learning%20Blender-%20Design%20Your%20First%203D%20Object.md) — 7 mentions
 
 ## Paths and Collections
 
-1. [[Blender course collection]] — 1442 total mentions
+1. [Blender course collection](../../Collections/Blender%20course%20collection.md) — 1442 total mentions
 
 ---
 
 *Source: manually added*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

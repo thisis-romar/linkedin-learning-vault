@@ -20,4 +20,4 @@ created: 2026-11-12
 
 ## Courses
 
-- [[Introduction to 3D]]
+- [Introduction to 3D](../../Courses/Blender/Introduction%20to%203D.md)

@@ -17,18 +17,18 @@ created: 2026-11-12
 
 # Animation Production (Concept)
 
-> **Type:** Concept | **Courses:** 1 | **Software groups:** [[Blender (Software)|Blender]]
+> **Type:** Concept | **Courses:** 1 | **Software groups:** [Blender](../../Topics/Blender%20(Software).md)
 
 ## Courses
 
-1. [[Learn Animation Production in Blender 2.9]] — 3 mentions
+1. [Learn Animation Production in Blender 2.9](../../Courses/Blender/Learn%20Animation%20Production%20in%20Blender%202.9.md) — 3 mentions
 
 ## Paths and Collections
 
-1. [[Blender course collection]] — 3 total mentions
+1. [Blender course collection](../../Collections/Blender%20course%20collection.md) — 3 total mentions
 
 ---
 
 *Source: LinkedIn catalog (concept)*
 
-Part of [[000 Glossary Index]]
+Part of [000 Glossary Index](../../000%20Glossary%20Index.md)

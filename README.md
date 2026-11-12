@@ -3,10 +3,10 @@
 A Blender-only Obsidian vault rebuilt from the exact [LinkedIn Learning Blender software search](https://www.linkedin.com/learning/search?isInternationalSearch=false&software=Blender), observed on November 12, 2026. It contains **19 courses and 1,196 lessons** in the observed English account context.
 
 <!-- vault-mode -->
-You are on **blender-only**, the Obsidian source branch. Open this folder in Obsidian for graph view, backlinks, styling, progress tracking, and private local transcripts. For browser navigation, use the [blender-only-browse mirror](https://github.com/thisis-romar/linkedin-learning-vault/tree/blender-only-browse).
+You are viewing the **GitHub navigation mirror**. Internal links work in GitHub. For graph view, local transcript display/search, styling, and progress tracking, clone the [blender-only source branch](https://github.com/thisis-romar/linkedin-learning-vault/tree/blender-only) and open it in Obsidian.
 <!-- /vault-mode -->
 
-Start at [[000 Map of Content]], [[000 Glossary Index]], or [[Blender course collection]].
+Start at [000 Map of Content](000%20Map%20of%20Content.md), [000 Glossary Index](000%20Glossary%20Index.md), or [Blender course collection](Collections/Blender%20course%20collection.md).
 
 ## What is included
 

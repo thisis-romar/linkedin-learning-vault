@@ -15,7 +15,7 @@ skills:
 exercise_files: false
 software_group: Blender
 collections:
-  - '[[Blender course collection]]'
+  - '[Blender course collection](../../Collections/Blender%20course%20collection.md)'
 collection_count: 1
 collection_nav: '[{"collection":"Blender course collection","position":19,"total":19,"prev":"Learning Blender- Design Your First 3D Object","next":null}]'
 tags:
@@ -35,108 +35,92 @@ created: 2026-11-12
 > Blender course with 3 chapters and 8 lessons, selected by the specified software search. Provider-declared course language: English.
 
 > [LinkedIn Learning](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow) | 1h 5m | Beginner + Intermediate
-> [Jump to Path and Collection Context ↓](#^lle-context)
+> [Jump to Path and Collection Context ↓](#path-and-collection-context)
 
 ## Table of Contents
 
-_Choose a chapter or lesson below._ ^lle-toc
+_Choose a chapter or lesson below._
 
 ### Chapter Overview
 
-- [**Introduction**](#^lle-chapter-1) (3 videos)
-  - [Welcome to a layered animation workflow](#^lle-video-welcome-to-a-layered-animation-workflow)
-  - [Getting started](#^lle-video-getting-started)
-  - [Discovering Maya](#^lle-video-discovering-maya)
-- [**1. The Layered Animation Workflow**](#^lle-chapter-2) (4 videos)
-  - [Animating using a layered workflow](#^lle-video-animating-using-a-layered-workflow)
-  - [Approaching complex mechanics](#^lle-video-approaching-complex-mechanics)
-  - [Animating a flip](#^lle-video-animating-a-flip)
-  - [Working in spline](#^lle-video-working-in-spline)
-- [**Conclusion**](#^lle-chapter-3) (1 videos)
-  - [Next steps](#^lle-video-next-steps)
+- [**Introduction**](#introduction) (3 videos)
+  - [Welcome to a layered animation workflow](#welcome-to-a-layered-animation-workflow)
+  - [Getting started](#getting-started)
+  - [Discovering Maya](#discovering-maya)
+- [**1. The Layered Animation Workflow**](#1-the-layered-animation-workflow) (4 videos)
+  - [Animating using a layered workflow](#animating-using-a-layered-workflow)
+  - [Approaching complex mechanics](#approaching-complex-mechanics)
+  - [Animating a flip](#animating-a-flip)
+  - [Working in spline](#working-in-spline)
+- [**Conclusion**](#conclusion) (1 videos)
+  - [Next steps](#next-steps)
 
 ### Introduction
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-1
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to a layered animation workflow
 
-_1m 39s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/welcome-to-a-layered-animation-workflow) ^lle-video-welcome-to-a-layered-animation-workflow
+_1m 39s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/welcome-to-a-layered-animation-workflow)
 
-```lle-transcript
-moving-from-blender-to-maya-learn-a-layered-animation-workflow::welcome-to-a-layered-animation-workflow
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Getting started
 
-_3m 3s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/getting-started) ^lle-video-getting-started
+_3m 3s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/getting-started)
 
-```lle-transcript
-moving-from-blender-to-maya-learn-a-layered-animation-workflow::getting-started
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Discovering Maya
 
-_12m 45s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/discovering-maya) ^lle-video-discovering-maya
+_12m 45s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/discovering-maya)
 
-```lle-transcript
-moving-from-blender-to-maya-learn-a-layered-animation-workflow::discovering-maya
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### 1. The Layered Animation Workflow
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-2
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Animating using a layered workflow
 
-_12m 51s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/animating-using-a-layered-workflow) ^lle-video-animating-using-a-layered-workflow
+_12m 51s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/animating-using-a-layered-workflow)
 
-```lle-transcript
-moving-from-blender-to-maya-learn-a-layered-animation-workflow::animating-using-a-layered-workflow
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Approaching complex mechanics
 
-_11m 46s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/approaching-complex-mechanics) ^lle-video-approaching-complex-mechanics
+_11m 46s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/approaching-complex-mechanics)
 
-```lle-transcript
-moving-from-blender-to-maya-learn-a-layered-animation-workflow::approaching-complex-mechanics
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Animating a flip
 
-_10m 13s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/animating-a-flip) ^lle-video-animating-a-flip
+_10m 13s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/animating-a-flip)
 
-```lle-transcript
-moving-from-blender-to-maya-learn-a-layered-animation-workflow::animating-a-flip
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 #### Working in spline
 
-_11m 8s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/working-in-spline) ^lle-video-working-in-spline
+_11m 8s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/working-in-spline)
 
-```lle-transcript
-moving-from-blender-to-maya-learn-a-layered-animation-workflow::working-in-spline
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ### Conclusion
 
-[↑ Back to Table of Contents](#^lle-toc) ^lle-chapter-3
+[↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 
-_0m 38s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/next-steps) ^lle-video-next-steps
+_0m 38s_ · [Open lesson](https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow/next-steps)
 
-```lle-transcript
-moving-from-blender-to-maya-learn-a-layered-animation-workflow::next-steps
-```
+> Private transcript and semantic callouts are available locally in Obsidian with your verified cache.
 
 
 ## Instructor
 
-- [[Skillshare]]
+- [Skillshare](../../Instructors/Blender/Skillshare.md)
 
 ## Skills Covered
 
@@ -148,36 +132,36 @@ moving-from-blender-to-maya-learn-a-layered-animation-workflow::next-steps
 
 _Literal vocabulary matches in the private transcripts; counts are lexical._
 
-- [[Glossary/Concept/Animation (Concept)|Animation]] — 46 mentions
-- [[Glossary/Concept/Object (Concept)|Object]] — 8 mentions
-- [[Glossary/Concept/Camera (Concept)|Camera]] — 6 mentions
-- [[Glossary/Tool/Blender (Tool)|Blender]] — 5 mentions
-- [[Glossary/Concept/Interpolation (Concept)|Interpolation]] — 3 mentions
-- [[Glossary/Concept/Mesh (Concept)|Mesh]] — 2 mentions
-- [[Glossary/Concept/Normal (Concept)|Normal]] — 2 mentions
-- [[Glossary/Concept/Face (Concept)|Face]] — 1 mentions
-- [[Glossary/Concept/Transform (Concept)|Transform]] — 1 mentions
+- [Animation](../../Glossary/Concept/Animation%20(Concept).md) — 46 mentions
+- [Object](../../Glossary/Concept/Object%20(Concept).md) — 8 mentions
+- [Camera](../../Glossary/Concept/Camera%20(Concept).md) — 6 mentions
+- [Blender](../../Glossary/Tool/Blender%20(Tool).md) — 5 mentions
+- [Interpolation](../../Glossary/Concept/Interpolation%20(Concept).md) — 3 mentions
+- [Mesh](../../Glossary/Concept/Mesh%20(Concept).md) — 2 mentions
+- [Normal](../../Glossary/Concept/Normal%20(Concept).md) — 2 mentions
+- [Face](../../Glossary/Concept/Face%20(Concept).md) — 1 mentions
+- [Transform](../../Glossary/Concept/Transform%20(Concept).md) — 1 mentions
 
 ## Path and Collection Context
 
-_Local navigation order; not a provider prerequisite sequence._ ^lle-context
+_Local navigation order; not a provider prerequisite sequence._
 
-### In [[Blender course collection]]
-← [[Learning Blender- Design Your First 3D Object]] | **19 of 19**
+### In [Blender course collection](../../Collections/Blender%20course%20collection.md)
+← [Learning Blender- Design Your First 3D Object](Learning%20Blender-%20Design%20Your%20First%203D%20Object.md) | **19 of 19**
 
 ## Appears In
 
-- [[Blender course collection]]
+- [Blender course collection](../../Collections/Blender%20course%20collection.md)
 
 ## Related Courses
 
 _Courses sharing skills:_
 
-- [[Learning Blender- Design Your First 3D Object]] — Blender
-- [[Learn Animation Production in Blender 2.9]] — Blender
-- [[Interior Design with Blender- Build an Advanced 3D Scene]] — Blender
-- [[Creating a Finished Character Animation in Blender 2.9]] — Blender
-- [[Create an Animated Character in Blender 2.9]] — Blender
+- [Learning Blender- Design Your First 3D Object](Learning%20Blender-%20Design%20Your%20First%203D%20Object.md) — Blender
+- [Learn Animation Production in Blender 2.9](Learn%20Animation%20Production%20in%20Blender%202.9.md) — Blender
+- [Interior Design with Blender- Build an Advanced 3D Scene](Interior%20Design%20with%20Blender-%20Build%20an%20Advanced%203D%20Scene.md) — Blender
+- [Creating a Finished Character Animation in Blender 2.9](Creating%20a%20Finished%20Character%20Animation%20in%20Blender%202.9.md) — Blender
+- [Create an Animated Character in Blender 2.9](Create%20an%20Animated%20Character%20in%20Blender%202.9.md) — Blender
 
 ---
 
