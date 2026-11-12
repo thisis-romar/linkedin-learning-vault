@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "validated_at_utc": "2026-11-12T20:58:42.482954+00:00",
+  "validated_at_utc": "2026-11-12T22:28:49.623169+00:00",
   "runtime": "Node.js 24.22.1 / macOS arm64",
   "typecheck": true,
   "blender_scripts_and_plugins_typecheck": true,
@@ -8,7 +8,7 @@
   "typescript_build": true,
   "tests": {
     "files": 21,
-    "passed": 209,
+    "passed": 210,
     "failed": 0
   },
   "npm_audit_vulnerabilities": {
@@ -30,5 +30,6 @@
     "raw_transcripts_in_private_local_cache": true,
     "videos_or_archives_downloaded": false
   },
-  "linux_ci": "Configured for the dedicated extractor branch; status recorded separately after publication."
+  "linux_ci": "Configured for the dedicated extractor branch; status recorded separately after publication.",
+  "git_hook_environment_regression": true
 }
