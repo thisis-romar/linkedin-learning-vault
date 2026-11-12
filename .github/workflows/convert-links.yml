@@ -1,32 +1,33 @@
-name: Convert wikilinks → GitHub-browse branch
-
+name: Update Blender GitHub navigation mirror
 on:
-  push:
-    branches: [main]
-
+  workflow_dispatch:
 permissions:
   contents: write
-
+concurrency:
+  group: blender-browse
+  cancel-in-progress: false
 jobs:
   convert:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: blender-only
           fetch-depth: 0
-
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
-
-      - name: Convert [[wikilinks]] to relative markdown links
+          node-version: 24
+      - name: Convert public notes only
         run: node scripts/convert-wikilinks.mjs .
-
-      - name: Push to github-browse branch
+      - name: Publish without rewriting mirror history
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -B github-browse
           git add -A
-          git commit -m "auto: convert wikilinks to markdown links" --allow-empty
-          git push origin github-browse --force
+          tree=$(git write-tree)
+          parent=$(git rev-parse HEAD)
+          if git show-ref --verify --quiet refs/remotes/origin/blender-only-browse; then
+            parent=$(git rev-parse refs/remotes/origin/blender-only-browse)
+          fi
+          commit=$(printf '%s\n' 'docs: update Blender navigation mirror' | git commit-tree "$tree" -p "$parent")
+          git push origin "$commit:refs/heads/blender-only-browse"

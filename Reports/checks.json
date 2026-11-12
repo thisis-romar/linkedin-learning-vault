@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "validated_at_utc": "2026-11-12T20:58:42.482954+00:00",
+  "runtime": "Node.js 24.22.1 / macOS arm64",
+  "typecheck": true,
+  "blender_scripts_and_plugins_typecheck": true,
+  "eslint_source_and_blender_scripts_tests": true,
+  "typescript_build": true,
+  "tests": {
+    "files": 21,
+    "passed": 209,
+    "failed": 0
+  },
+  "npm_audit_vulnerabilities": {
+    "info": 0,
+    "low": 0,
+    "moderate": 0,
+    "high": 0,
+    "critical": 0,
+    "total": 0
+  },
+  "reusable_collector_live_smoke": {
+    "expected_lessons": 1,
+    "verified_lessons": 1,
+    "resume_completed_without_new_requests": true,
+    "session_preserved": true
+  },
+  "privacy": {
+    "raw_transcripts_in_public_files": false,
+    "raw_transcripts_in_private_local_cache": true,
+    "videos_or_archives_downloaded": false
+  },
+  "linux_ci": "Configured for the dedicated extractor branch; status recorded separately after publication."
+}

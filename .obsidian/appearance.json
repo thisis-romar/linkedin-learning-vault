@@ -4,5 +4,6 @@
     "note-types",
     "graph-view",
     "tag-colors"
-  ]
+  ],
+  "showRibbon": true
 }

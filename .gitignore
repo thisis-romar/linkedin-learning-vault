@@ -7,3 +7,8 @@
 
 # macOS
 .DS_Store
+
+# Private transcripts, search content, and local plugin settings
+/.private/
+.obsidian/plugins/lle-transcripts/data.json
+/.obsidian/plugins/*/data.json

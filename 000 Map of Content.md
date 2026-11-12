@@ -4,86 +4,83 @@ cssclasses:
   - lle-moc
 tags:
   - moc
-created: 2026-05-03
+created: 2026-11-12
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/000%20Map%20of%20Content.md)
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/blender-only-browse/000%20Map%20of%20Content.md)
 
-# LinkedIn Learning Knowledge Graph
+# Blender Learning Vault
 
-> 376 paths | 1719 courses | 641 instructors | 916 skills | 12 topics
+> 0 provider paths | 1 collection | 19 courses | 4 instructors/authors | 12 skills | 1 software group
 
-## Topics (LinkedIn Official)
+## Software Groups
 
-| Topic | Paths |
+| Software group | collections |
 |-------|-------|
-| [[Artificial Intelligence (AI)]] | 91 |
-| [[Cloud Computing]] | 65 |
-| [[Cybersecurity]] | 63 |
-| [[Data Science]] | 122 |
-| [[Database Management]] | 29 |
-| [[DevOps]] | 38 |
-| [[Hardware]] | 3 |
-| [[IT Help Desk]] | 8 |
-| [[Mobile Development]] | 5 |
-| [[Network and System Administration]] | 44 |
-| [[Software Development]] | 162 |
-| [[Web Development]] | 46 |
+| [[Blender (Software)|Blender]] | 1 |
+
+## All Courses
+
+- [[12 Principles of Animation for CG Animators]]
+- [[Blender 2.8 Character Creation]]
+- [[Blender 2.8 UV Mapping]]
+- [[Blender 2.83 Essential Training]]
+- [[Blender 2.91 Essential Training]]
+- [[Blender 3 Essential Training]]
+- [[Blender 3.0 Vintage Car Creation]]
+- [[Blender 3.3 Essential Training]]
+- [[Blender 4.0 Essential Training]]
+- [[Blender and Substance Painter- Architectural Visualization]]
+- [[Blender- Hard Surface Modeling]]
+- [[Blender- Tips, Tricks and Techniques]]
+- [[Create an Animated Character in Blender 2.9]]
+- [[Creating a Finished Character Animation in Blender 2.9]]
+- [[Interior Design with Blender- Build an Advanced 3D Scene]]
+- [[Introduction to 3D]]
+- [[Learn Animation Production in Blender 2.9]]
+- [[Learning Blender- Design Your First 3D Object]]
+- [[Moving from Blender to Maya- Learn a Layered Animation Workflow]]
 
 ## Hub Courses
 
-- [[Statistics Foundations 1- The Basics]] — 11 paths
-- [[JavaScript Essential Training]] — 10 paths
-- [[Ethics in the Age of Generative AI]] — 9 paths
-- [[What Is Generative AI-]] — 8 paths
-- [[Statistics Foundations 2- Probability]] — 8 paths
-- [[Everyday Ai Concepts]] — 8 paths
-- [[HTML Essential Training]] — 8 paths
-- [[Introduction to AI Governance]] — 7 paths
-- [[Tech Career Skills- Effective Technical Communication]] — 7 paths
-- [[Responsible AI- Principles and Practical Applications]] — 7 paths
-- [[Programming Foundations Fundamentals]] — 7 paths
-- [[Python Essential Training]] — 6 paths
-- [[The Cybersecurity Threat Landscape]] — 6 paths
-- [[Soft Skills for Information Security Professionals]] — 6 paths
-- [[Data Literacy Exploring And Describing Data In An Ai World]] — 6 paths
+- [[12 Principles of Animation for CG Animators]] — 1 collections
+- [[Blender 2.8 Character Creation]] — 1 collections
+- [[Blender 2.8 UV Mapping]] — 1 collections
+- [[Blender 2.83 Essential Training]] — 1 collections
+- [[Blender 2.91 Essential Training]] — 1 collections
+- [[Blender 3.0 Vintage Car Creation]] — 1 collections
+- [[Blender 3.3 Essential Training]] — 1 collections
+- [[Blender 3 Essential Training]] — 1 collections
+- [[Blender 4.0 Essential Training]] — 1 collections
+- [[Blender and Substance Painter- Architectural Visualization]] — 1 collections
+- [[Blender- Hard Surface Modeling]] — 1 collections
+- [[Blender- Tips, Tricks and Techniques]] — 1 collections
+- [[Create an Animated Character in Blender 2.9]] — 1 collections
+- [[Creating a Finished Character Animation in Blender 2.9]] — 1 collections
+- [[Interior Design with Blender- Build an Advanced 3D Scene]] — 1 collections
 
 ## Top Instructors
 
-- [[Madecraft]] — 32 paths
-- [[Morten Rand-Hendriksen]] — 25 paths
-- [[Kumaran Ponnambalam]] — 25 paths
-- [[Ray Villalobos]] — 20 paths
-- [[Joe Marini]] — 19 paths
-- [[Doug Rose]] — 19 paths
-- [[David Linthicum]] — 16 paths
-- [[Barton Poulson]] — 16 paths
-- [[Kathryn Hodge]] — 15 paths
-- [[Vilas Dhar]] — 15 paths
+- [[David Andrade]] — 1 collections
+- [[Darrin Lile]] — 1 collections
+- [[Skillshare]] — 1 collections
+- [[George Maestri]] — 1 collections
 
 ## Top Skills
 
-- [[Artificial Intelligence (AI)]] — 339 courses
-- [[Python (Programming Language)]] — 86 courses
-- [[Machine Learning]] — 47 courses
-- [[SQL]] — 45 courses
-- [[Microsoft Excel]] — 41 courses
-- [[Generative AI]] — 39 courses
-- [[AI for Business]] — 38 courses
-- [[Tech Career Skills]] — 36 courses
-- [[JavaScript]] — 34 courses
-- [[AI Software Development]] — 33 courses
-- [[Microsoft Azure]] — 32 courses
-- [[Data Analysis]] — 31 courses
-- [[Responsible AI]] — 30 courses
-- [[Cybersecurity]] — 29 courses
-- [[Data Science]] — 26 courses
-- [[C-]] — 25 courses
-- [[Java]] — 25 courses
-- [[Large Language Models (LLM)]] — 24 courses
-- [[Data Visualization]] — 23 courses
-- [[Career Management]] — 21 courses
+- [[Blender]] — 17 courses
+- [[Architectural Visualization]] — 2 courses
+- [[Character Animation]] — 2 courses
+- [[3D Modeling]] — 2 courses
+- [[Animation]] — 1 courses
+- [[Character Designs]] — 1 courses
+- [[UV Mapping]] — 1 courses
+- [[Substance Painter]] — 1 courses
+- [[Surface Modeling]] — 1 courses
+- [[Animation Production]] — 1 courses
+- [[Autodesk Maya]] — 1 courses
+- [[3D Animation]] — 1 courses
 
 ## Glossary
 
-- [[000 Glossary Index]] — 779 named concepts, frameworks, libraries, and SDKs
+- [[000 Glossary Index]] — 42 named concepts, frameworks, libraries, and SDKs

@@ -1,0 +1,9 @@
+{
+  "id": "lle-transcripts",
+  "name": "Private Learning Transcripts",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Displays and searches your private local lesson transcripts without publishing the text in the vault repository.",
+  "author": "LinkedIn Learning Vault",
+  "isDesktopOnly": false
+}

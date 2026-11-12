@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "method": "GitHub Markdown API GFM rendering of public course metadata; fragments checked against rendered heading text with duplicate-aware github-slugger 2.0.0.",
+  "limits": [
+    "The Markdown API omits heading id attributes. IDs were derived from its rendered heading text; this is not a browser click test of every GitHub page."
+  ],
+  "courses": 19,
+  "fragment_links": 1528,
+  "missing_fragment_targets": 0,
+  "raw_transcript_text_sent": false,
+  "rows": [
+    {
+      "course_note": "Courses/Blender/12 Principles of Animation for CG Animators.md",
+      "rendered_headings": 51,
+      "validated_fragment_links": 53,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "eee2f0ba1e76fe928fe2346f42ad0d8007b1ea0582628d4b88cdd3fecabda9c1"
+    },
+    {
+      "course_note": "Courses/Blender/Blender 2.8 Character Creation.md",
+      "rendered_headings": 117,
+      "validated_fragment_links": 119,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "3a39a5fdf5ea98340a337df48ba36dbd15b2e6b15b947852458a93d04b70cd7e"
+    },
+    {
+      "course_note": "Courses/Blender/Blender 2.8 UV Mapping.md",
+      "rendered_headings": 63,
+      "validated_fragment_links": 62,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "a58da732e7004e57140460ae6279d65a19330d93857244be926994e25f7d73a8"
+    },
+    {
+      "course_note": "Courses/Blender/Blender 2.83 Essential Training.md",
+      "rendered_headings": 99,
+      "validated_fragment_links": 102,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "8cb8c5c75fd02b8930e79fe3077d13e260a506a5ccf7462fe92fcb8f318df26f"
+    },
+    {
+      "course_note": "Courses/Blender/Blender 2.91 Essential Training.md",
+      "rendered_headings": 78,
+      "validated_fragment_links": 78,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "5acf5c8870af86949ec502a3c9591a2a4a327e3abae35cacabb03ad37ec77c53"
+    },
+    {
+      "course_note": "Courses/Blender/Blender 3 Essential Training.md",
+      "rendered_headings": 75,
+      "validated_fragment_links": 75,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "1bedc619ecd336c92ae6f0ede881b239c86a58035637ea3767a47d1f9a845293"
+    },
+    {
+      "course_note": "Courses/Blender/Blender 3.0 Vintage Car Creation.md",
+      "rendered_headings": 129,
+      "validated_fragment_links": 130,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "62bbd2f92db4732bfdc8c138f31e68d2a7f0cc6e06a95036a203eb118997171b"
+    },
+    {
+      "course_note": "Courses/Blender/Blender 3.3 Essential Training.md",
+      "rendered_headings": 75,
+      "validated_fragment_links": 75,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "3dcab103e06163a8287774806178843c4f8faad0500064afd350499b73dd3935"
+    },
+    {
+      "course_note": "Courses/Blender/Blender 4.0 Essential Training.md",
+      "rendered_headings": 71,
+      "validated_fragment_links": 70,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "4343932d0155056bd3556b563a136b7aa9c40747a087d03cf25f1b39f46122bd"
+    },
+    {
+      "course_note": "Courses/Blender/Blender and Substance Painter- Architectural Visualization.md",
+      "rendered_headings": 126,
+      "validated_fragment_links": 124,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "ca81143dd88fd7aa847414ef650ca74d7e9fe84f16c91e8b10b92bc32fcaad0b"
+    },
+    {
+      "course_note": "Courses/Blender/Blender- Hard Surface Modeling.md",
+      "rendered_headings": 51,
+      "validated_fragment_links": 49,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "57d0fd0f5ceb0d7d517699c4bbacb933a2b3e0131e6f13db665d912f3272be50"
+    },
+    {
+      "course_note": "Courses/Blender/Blender- Tips, Tricks and Techniques.md",
+      "rendered_headings": 214,
+      "validated_fragment_links": 208,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "4da9b7d6a4c7a038703ae24300a7a2c29e53d72cde568f9f6d72839dfeddf0b2"
+    },
+    {
+      "course_note": "Courses/Blender/Create an Animated Character in Blender 2.9.md",
+      "rendered_headings": 109,
+      "validated_fragment_links": 108,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "664cbdd8f96fa9e2c27b4c760fcb905974b734f0d76e6ac221254fe993ece2aa"
+    },
+    {
+      "course_note": "Courses/Blender/Creating a Finished Character Animation in Blender 2.9.md",
+      "rendered_headings": 49,
+      "validated_fragment_links": 47,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "5a45586c6afffed4c63d9c7576afafa4b9fdcd2d5df96796b8498b6ef2bc86df"
+    },
+    {
+      "course_note": "Courses/Blender/Interior Design with Blender- Build an Advanced 3D Scene.md",
+      "rendered_headings": 22,
+      "validated_fragment_links": 17,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "d8f763b8f560258eac5d2fce1daa7fdaacd2e53117fef08bd8f10362a26dfa09"
+    },
+    {
+      "course_note": "Courses/Blender/Introduction to 3D.md",
+      "rendered_headings": 92,
+      "validated_fragment_links": 94,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "806e156117109759788dc5ca79a2268109ac3aacf971079caf1992f5b9e5b3ae"
+    },
+    {
+      "course_note": "Courses/Blender/Learn Animation Production in Blender 2.9.md",
+      "rendered_headings": 85,
+      "validated_fragment_links": 87,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "a335887099854a71d7f6891fbe92c7a99fecf37a21593a525165cff73cde0c24"
+    },
+    {
+      "course_note": "Courses/Blender/Learning Blender- Design Your First 3D Object.md",
+      "rendered_headings": 21,
+      "validated_fragment_links": 14,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "73dcbb045155e0ea3ca634e726e87e2f0f0df181aece634cb37d8d3cd2ec2c26"
+    },
+    {
+      "course_note": "Courses/Blender/Moving from Blender to Maya- Learn a Layered Animation Workflow.md",
+      "rendered_headings": 21,
+      "validated_fragment_links": 16,
+      "all_fragment_targets_resolve": true,
+      "markdown_sha256": "0ae15739b0ed09d1c0ba4c5f471bd4ab0cb2b224da92f309fdfff712ac1197f1"
+    }
+  ]
+}

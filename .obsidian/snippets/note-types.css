@@ -62,6 +62,9 @@
   content: "◆ LEARNING PATH";
   background: linear-gradient(135deg, #22C55E, #4ADE80);
 }
+.lle-course-collection .markdown-preview-view::before {
+  content: "◆ COURSE COLLECTION";
+}
 .lle-professional-certificate .markdown-preview-view::before {
   content: "★ PROFESSIONAL CERTIFICATE";
   background: linear-gradient(135deg, #EC4899, #F472B6);

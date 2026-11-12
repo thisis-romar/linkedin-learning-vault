@@ -5,10 +5,10 @@ cssclasses:
 tags:
   - moc
   - graph-queries
-created: 2026-05-03
+created: 2026-11-12
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/010%20Graph%20Queries.md)
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/blender-only-browse/010%20Graph%20Queries.md)
 
 # Graph Queries — Copy/Paste Cheatsheet
 
@@ -34,25 +34,14 @@ path:"Topics/"
 path:"Skills/"
 ```
 
-## Focus by topic (swap the name — 12 topics exist)
+## Focus by software group (1 available)
 
 ```
-path:"Courses/Artificial Intelligence (AI)"
-path:"Courses/Cloud Computing"
-path:"Courses/Cybersecurity"
-path:"Courses/Data Science"
-path:"Courses/Database Management"
-path:"Courses/DevOps"
-path:"Courses/Hardware"
-path:"Courses/IT Help Desk"
-path:"Courses/Mobile Development"
-path:"Courses/Network and System Administration"
-path:"Courses/Software Development"
-path:"Courses/Web Development"
+path:"Courses/Blender"
 path:"Courses/Other"
 ```
 
-Same pattern works for `Paths/` and `Instructors/` — e.g. `path:"Instructors/DevOps"`.
+Use `path:"Collections/"` for local course collections and `path:"Instructors/"` for authors.
 
 ## Exclude common noise
 
@@ -66,10 +55,9 @@ Same pattern works for `Paths/` and `Instructors/` — e.g. `path:"Instructors/D
 
 ```
 tag:#course
-tag:#learning-path
-tag:#professional-certificate
+tag:#course-collection
 tag:#instructor
-tag:#topic
+tag:#software/blender
 tag:#skill
 ```
 
@@ -89,14 +77,14 @@ tag:#status/in-progress
 tag:#status/completed
 ```
 
-_Status tags are maintained automatically by the `lle-progress` plugin (in `.obsidian/plugins/lle-progress/`). Opening a course note bumps its activity; clicking a video deep-link records the video click. Both update every learning path that contains the course._
+_Status tags are maintained by the local lle-progress plugin. Opening a course records activity; clicking a lesson link records engagement. Both update each containing collection or path. Completed means every expected lesson link was clicked, not proof of watching or learning._
 
 ## Combinations
 
 ```
-path:"Courses/Cybersecurity" -tag:#status/completed
-path:"Paths/" OR path:"Topics/"
-path:"Courses/Data Science" tag:#level/beginner
+path:"Courses/Blender" -tag:#status/completed
+path:"Collections/" OR path:"Topics/"
+path:"Courses/Blender" tag:#level/beginner
 ```
 
 ## Reset

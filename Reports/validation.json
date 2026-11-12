@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "validated_at_utc": "2026-11-12T20:55:20.988Z",
+  "passed": true,
+  "selection_manifest_sha256": "a259c1621405b3b1c0b925e061d217e8f0ae3d7ebd235df20fe4c6446e256904",
+  "counts": {
+    "courses": 19,
+    "toc_lessons": 1196,
+    "private_lesson_references": 1196,
+    "instructor_author_notes": 4,
+    "skill_notes": 12,
+    "glossary_notes": 42,
+    "local_collections": 1,
+    "provider_paths": 0,
+    "software_groups": 1,
+    "markdown_notes": 85,
+    "resolved_wikilinks": 1595,
+    "validated_local_anchors": 1509,
+    "private_records_verified": 1196,
+    "long_private_caption_exclusion_checks": 9150
+  },
+  "checks": {
+    "exact_course_set": true,
+    "complete_lesson_identity_coverage": true,
+    "scoped_progress_index": true,
+    "public_transcript_text_excluded": true,
+    "public_account_and_signed_url_scan": true,
+    "internal_links_resolved": true,
+    "generated_yaml_parsed": true
+  },
+  "limits": [
+    "Caption exclusion checks compare exact strings of at least 60 characters; the generation pipeline additionally separates private and public output allowlists.",
+    "Metadata and links do not verify video playback, exercise archives, original audio, or formal version/translation families."
+  ]
+}

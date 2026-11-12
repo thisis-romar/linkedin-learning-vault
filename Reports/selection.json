@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "selection_name": "Blender",
+  "source_query_url": "https://www.linkedin.com/learning/search?isInternationalSearch=false&software=Blender",
+  "observed_at_utc": "2026-11-12T18:51:01.694Z",
+  "effective_search_context": {
+    "isInternationalSearch": false,
+    "browser_locale": "en-US",
+    "effective_language": "en_US",
+    "language_basis": "Exact-query UI returned 19 courses; subsequent UI pagination explicitly selected en_US. No manual language expansion was performed.",
+    "provider_declared_course_language": "en"
+  },
+  "summary": {
+    "courses": 19,
+    "toc_lessons": 1196,
+    "query_pages": 2,
+    "terminal_empty_page_verified": true,
+    "broader_all_language_audit_courses": 33,
+    "broader_keyword_only_candidates_included": false
+  },
+  "courses": [
+    {
+      "course_slug": "12-principles-of-animation-for-cg-animators",
+      "content_id": "urn:li:learningApiCourse:4546202",
+      "title": "12 Principles of Animation for CG Animators",
+      "public_course_url": "https://www.linkedin.com/learning/12-principles-of-animation-for-cg-animators",
+      "toc_lessons": 31
+    },
+    {
+      "course_slug": "blender-2-8-character-creation",
+      "content_id": "urn:li:learningApiCourse:6046166",
+      "title": "Blender 2.8 Character Creation",
+      "public_course_url": "https://www.linkedin.com/learning/blender-2-8-character-creation",
+      "toc_lessons": 95
+    },
+    {
+      "course_slug": "blender-2-8-uv-mapping",
+      "content_id": "urn:li:learningApiCourse:6016444",
+      "title": "Blender 2.8 UV Mapping",
+      "public_course_url": "https://www.linkedin.com/learning/blender-2-8-uv-mapping",
+      "toc_lessons": 44
+    },
+    {
+      "course_slug": "blender-2-83-essential-training",
+      "content_id": "urn:li:learningApiCourse:1560239",
+      "title": "Blender 2.83 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-2-83-essential-training",
+      "toc_lessons": 76
+    },
+    {
+      "course_slug": "blender-2-91-essential-training",
+      "content_id": "urn:li:learningApiCourse:10054634",
+      "title": "Blender 2.91 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-2-91-essential-training",
+      "toc_lessons": 58
+    },
+    {
+      "course_slug": "blender-3-0-vintage-car-creation",
+      "content_id": "urn:li:learningApiCourse:44593901",
+      "title": "Blender 3.0 Vintage Car Creation",
+      "public_course_url": "https://www.linkedin.com/learning/blender-3-0-vintage-car-creation",
+      "toc_lessons": 108
+    },
+    {
+      "course_slug": "blender-3-3-essential-training",
+      "content_id": "urn:li:learningApiCourse:38035565",
+      "title": "Blender 3.3 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-3-3-essential-training",
+      "toc_lessons": 55
+    },
+    {
+      "course_slug": "blender-3-essential-training",
+      "content_id": "urn:li:learningApiCourse:36666696",
+      "title": "Blender 3 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-3-essential-training",
+      "toc_lessons": 55
+    },
+    {
+      "course_slug": "blender-4-0-essential-training",
+      "content_id": "urn:li:learningApiCourse:46772634",
+      "title": "Blender 4.0 Essential Training",
+      "public_course_url": "https://www.linkedin.com/learning/blender-4-0-essential-training",
+      "toc_lessons": 52
+    },
+    {
+      "course_slug": "blender-and-substance-painter-architectural-visualization",
+      "content_id": "urn:li:learningApiCourse:9854573",
+      "title": "Blender and Substance Painter: Architectural Visualization",
+      "public_course_url": "https://www.linkedin.com/learning/blender-and-substance-painter-architectural-visualization",
+      "toc_lessons": 108
+    },
+    {
+      "course_slug": "blender-hard-surface-modeling",
+      "content_id": "urn:li:learningApiCourse:4538625",
+      "title": "Blender: Hard Surface Modeling",
+      "public_course_url": "https://www.linkedin.com/learning/blender-hard-surface-modeling",
+      "toc_lessons": 33
+    },
+    {
+      "course_slug": "blender-tips-tricks-and-techniques",
+      "content_id": "urn:li:learningApiCourse:541179",
+      "title": "Blender: Tips, Tricks and Techniques",
+      "public_course_url": "https://www.linkedin.com/learning/blender-tips-tricks-and-techniques",
+      "toc_lessons": 202
+    },
+    {
+      "course_slug": "create-an-animated-character-in-blender-2-9",
+      "content_id": "urn:li:learningApiCourse:8440894",
+      "title": "Create an Animated Character in Blender 2.9",
+      "public_course_url": "https://www.linkedin.com/learning/create-an-animated-character-in-blender-2-9",
+      "toc_lessons": 90
+    },
+    {
+      "course_slug": "creating-a-finished-character-animation-in-blender-2-9",
+      "content_id": "urn:li:learningApiCourse:9858742",
+      "title": "Creating a Finished Character Animation in Blender 2.9",
+      "public_course_url": "https://www.linkedin.com/learning/creating-a-finished-character-animation-in-blender-2-9",
+      "toc_lessons": 31
+    },
+    {
+      "course_slug": "interior-design-with-blender-build-an-advanced-3d-scene",
+      "content_id": "urn:li:learningApiCourse:68279933",
+      "title": "Interior Design with Blender: Build an Advanced 3D Scene",
+      "public_course_url": "https://www.linkedin.com/learning/interior-design-with-blender-build-an-advanced-3d-scene",
+      "toc_lessons": 9
+    },
+    {
+      "course_slug": "introduction-to-3d-2",
+      "content_id": "urn:li:learningApiCourse:835941",
+      "title": "Introduction to 3D",
+      "public_course_url": "https://www.linkedin.com/learning/introduction-to-3d-2",
+      "toc_lessons": 70
+    },
+    {
+      "course_slug": "learn-animation-production-in-blender-2-9",
+      "content_id": "urn:li:learningApiCourse:37460739",
+      "title": "Learn Animation Production in Blender 2.9",
+      "public_course_url": "https://www.linkedin.com/learning/learn-animation-production-in-blender-2-9",
+      "toc_lessons": 63
+    },
+    {
+      "course_slug": "learning-blender-design-your-first-3d-object",
+      "content_id": "urn:li:learningApiCourse:69754006",
+      "title": "Learning Blender: Design Your First 3D Object",
+      "public_course_url": "https://www.linkedin.com/learning/learning-blender-design-your-first-3d-object",
+      "toc_lessons": 8
+    },
+    {
+      "course_slug": "moving-from-blender-to-maya-learn-a-layered-animation-workflow",
+      "content_id": "urn:li:learningApiCourse:69494835",
+      "title": "Moving from Blender to Maya: Learn a Layered Animation Workflow",
+      "public_course_url": "https://www.linkedin.com/learning/moving-from-blender-to-maya-learn-a-layered-animation-workflow",
+      "toc_lessons": 8
+    }
+  ],
+  "evidence_sha256": {
+    "source_course_metadata": "502d9fabce4a40ff2b15f46783eaab9b3521ad8ec797d8367c8ce19f69afcbc3",
+    "first_course_page": "5eb0173a57d5bb8fa1ad5816a92882562a650d2ac2286cb1969439921c6f5a89",
+    "second_course_page": "0b2dd53c936c09ac8b7bf5929d0f2a54d50a447fa66a05cb558f3aa7f76908f8",
+    "terminal_empty_page": "90468825ac89ced8d8aec049260f57c9618e22f49066bea40387803eb9184d51"
+  },
+  "limits": [
+    "This manifest is the observed exact-query course set in the authorized English search context, not the wider all-exposed-language audit.",
+    "Distinct course identities are retained; language/version-family relationships are not inferred.",
+    "Raw source responses, account context, session material and request URLs remain private."
+  ]
+}

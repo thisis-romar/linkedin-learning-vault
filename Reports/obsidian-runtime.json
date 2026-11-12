@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "runtime": "Obsidian 1.15.1 on macOS",
+  "synthetic_fixture": {
+    "collectionActivityRows": 19,
+    "clickRecorded": true,
+    "enabledPlugins": [
+      "lle-progress",
+      "lle-transcripts"
+    ],
+    "enabledSnippets": [
+      "timestamps",
+      "note-types",
+      "graph-view",
+      "tag-colors"
+    ],
+    "nativeLessonTargetResolved": true,
+    "searchModalExpectedHit": true,
+    "searchNavigation": {
+      "path": "Courses/Blender/12 Principles of Animation for CG Animators.md",
+      "scroll": 88.99997728924419
+    },
+    "graph": {
+      "canvasPresent": true,
+      "renderedNodes": 70,
+      "renderedLinks": 1345,
+      "defaultSkillFilter": true
+    },
+    "syntheticContentOnly": true,
+    "obsidianVersion": "1.15.1"
+  },
+  "installed_real_cache": {
+    "vaultName": "blender-only-vault",
+    "indexedLessons": 1196,
+    "verifiedLocalRecords": 1196,
+    "privateSearchHasResults": true,
+    "enabledPlugins": [
+      "lle-progress",
+      "lle-transcripts"
+    ],
+    "firstNote": "Courses/Blender/12 Principles of Animation for CG Animators.md",
+    "rawTextReported": false,
+    "renderedTranscriptCallouts": 6,
+    "missingCacheMessageInViewport": 0,
+    "obsidianVersion": "1.15.1",
+    "validatedAt": "2026-11-12T20:48:50.286Z"
+  },
+  "privacy": {
+    "source_captions_reported": false,
+    "test_content_was_synthetic": true,
+    "real_cache_verified_in_running_plugin": true
+  },
+  "notes": [
+    "Graph counts are from the 83-note generated fixture with its default skill filter; README/report documentation adds navigation nodes in the final checkout.",
+    "The real vault was opened with its complete private cache; the plugin verified all 1,196 records and private search, and the checked viewport showed no missing-cache message."
+  ]
+}

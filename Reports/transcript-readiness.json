@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "completed_at_utc": "2026-11-12T20:32:48.813Z",
+  "selection_manifest_sha256": "a259c1621405b3b1c0b925e061d217e8f0ae3d7ebd235df20fe4c6446e256904",
+  "source_metadata_sha256": "502d9fabce4a40ff2b15f46783eaab9b3521ad8ec797d8367c8ce19f69afcbc3",
+  "transcript_projection_sha256": "81c288f9f2a49eb4167c52b86da011fae58f2cd0fede8f52110ec55076c99de8",
+  "courses": 19,
+  "toc_lessons": 1196,
+  "verified_transcript_records": 1196,
+  "fresh_transcript_observations": 1177,
+  "dated_cached_default_observations": 19,
+  "request_attempts": 1177,
+  "failed_lessons": 0,
+  "rate_limit_responses": 0,
+  "minimum_interval_ms": 5000,
+  "recorded_deadlines_honored": true,
+  "record_hashes_verified": true,
+  "private_record_permissions": "600",
+  "private_directory_permissions": "700",
+  "asset_url_follow_requests": 0,
+  "video_or_archive_requests": 0,
+  "raw_text_public": false,
+  "methods": [
+    "Transcript-only field projection from authorized access; video identity, transcript reference, line types and timestamps verified.",
+    "Nineteen already captured default lessons retain their original observation dates; the remaining 1,177 lessons were freshly retrieved.",
+    "Collector checkpoints and full HTTP bodies remain private. No uniform-freshness or transcript-fidelity claim is made."
+  ]
+}

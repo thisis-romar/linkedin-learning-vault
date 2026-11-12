@@ -1,64 +1,66 @@
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/README.md)
+# Blender Learning Vault
 
-# LinkedIn Learning Vault
+A Blender-only Obsidian vault rebuilt from the exact [LinkedIn Learning Blender software search](https://www.linkedin.com/learning/search?isInternationalSearch=false&software=Blender), observed on November 12, 2026. It contains **19 courses and 1,196 lessons** in the observed English account context.
 
-Obsidian knowledge vault with 3,600+ interlinked notes from the LinkedIn Learning Technology catalog.
+<!-- vault-mode -->
+You are on **blender-only**, the Obsidian source branch. Open this folder in Obsidian for graph view, backlinks, styling, progress tracking, and private local transcripts. For browser navigation, use the [blender-only-browse mirror](https://github.com/thisis-romar/linkedin-learning-vault/tree/blender-only-browse).
+<!-- /vault-mode -->
 
-| | Count |
-|---|---:|
-| Learning Paths + Certificates | 376 |
-| Courses (with transcripts) | 1,719 |
-| Instructors | 641 |
-| Skills | 916 |
-| LinkedIn Official Topics | 12 |
+Start at [[000 Map of Content]], [[000 Glossary Index]], or [[Blender course collection]].
 
-> **You are on `main` — the source-of-truth branch.** Notes use Obsidian `[[wikilinks]]` that won't resolve on GitHub. To browse on GitHub, switch to the **[github-browse](../../tree/github-browse)** branch. To view as a website, visit the **[Quartz site](https://thisis-romar.github.io/linkedin-learning-vault)**.
+## What is included
 
-## How to Access
+| Generated content | Count |
+| --- | ---: |
+| Courses | 19 |
+| Lesson TOC entries and local transcript references | 1,196 |
+| Instructor/author notes | 4 |
+| Skill notes | 12 |
+| Glossary notes | 42 |
+| Software search group | 1 |
+| Local course collection | 1 |
+| Provider learning paths established by this query | 0 |
+| Generated Markdown notes, including indexes/conventions | 83 |
 
-### Open in Obsidian (recommended)
+The collection's title ordering supports navigation and engagement; it is not a LinkedIn learning path or a prerequisite sequence. The Blender software group is a search facet, not an asserted official provider topic. Similar course titles remain separate identities. The earlier all-language audit's 33 courses are a different scope and are preserved on [audit/blender-all-courses](https://github.com/thisis-romar/linkedin-learning-vault/tree/audit/blender-all-courses).
+
+## Open in Obsidian
 
 ```bash
-git clone https://github.com/thisis-romar/linkedin-learning-vault.git
+git clone --branch blender-only \
+  https://github.com/thisis-romar/linkedin-learning-vault.git blender-vault
 ```
 
-1. Open Obsidian → "Open folder as vault" → select the cloned folder
-2. Trust the vault when prompted
-3. Verify CSS snippets are enabled: Settings → Appearance → CSS snippets → enable `timestamps`, `note-types`, `graph-view`, and `tag-colors`
-4. Open `000 Map of Content.md` to start navigating
-5. Press `Ctrl+G` / `Cmd+G` to open the graph view (46 color groups pre-configured)
+Use **Open folder as vault**, choose `blender-vault/`, and enable the included community plugins after reviewing their source. The plugins are built from the [extractor's dedicated branch](https://github.com/thisis-romar/linkedin-learning-extractor/tree/feat/blender-only-vault).
 
-### Web alternatives
+Course notes provide chapter/lesson jumps, public course links, related courses, glossary mentions, and collection prev/next links. The graph defaults to hiding skill notes; clear the graph filter to include them. Four CSS snippets are enabled: `timestamps`, `note-types`, `graph-view`, and `tag-colors`.
 
-| Option | URL |
-|---|---|
-| Browse on GitHub (clickable links) | Switch to **[github-browse](../../tree/github-browse)** branch |
-| Browse on the web (full Quartz experience) | **[thisis-romar.github.io/linkedin-learning-vault](https://thisis-romar.github.io/linkedin-learning-vault)** |
+## Full transcripts stay private
 
-## Branch Structure
+**A fresh clone contains no full transcript text.** Public course notes hold lesson identity references and a public integrity index. The `lle-transcripts` plugin reads verified files from `.private/transcripts/` inside your local vault, renders collapsed transcript and semantic callouts, and provides **Search private transcripts** in the command palette.
 
-| Branch | Purpose |
-|--------|---------|
-| `main` | Source of truth — Obsidian `[[wikilinks]]` format. Clone this for local use. |
-| `github-browse` | Auto-generated — relative markdown links for browsing on GitHub. |
-| `gh-pages` | Auto-generated — Quartz static site deployed to GitHub Pages. |
+The message “Private transcript is not installed or could not be verified” means a matching local record is missing or its identity/hash does not match the public index. Enabling the plugin alone does not install content. With the extractor installed, use:
 
-Both `github-browse` and `gh-pages` update automatically when `main` is pushed.
-
-## Vault Structure
-
-```
-Paths/{Topic}/Learning Paths/     — 376 path notes grouped by LinkedIn topic
-Paths/{Topic}/Professional Certificates/
-Courses/                          — 1,719 course notes with full transcripts
-Instructors/                      — 641 instructor notes
-Skills/{Topic}/                   — 916 skill MOC notes, topic-colored
-Glossary/{Type}/                  — 916 glossary pages ranked by transcript mentions
-Topics/                           — 12 LinkedIn official topic MOCs
-000 Map of Content.md             — Top-level index (start here)
-000 Glossary Index.md             — Glossary ranked by type and topic
+```bash
+npm run blender:install-cache -- --cache /path/to/your/private-cache --vault /path/to/blender-vault
 ```
 
-## Generated By
+The installer verifies the complete selected cache before copying. Directories use mode `700` and files `600` on supported filesystems. Keep `.private/` and local plugin settings ignored by Git, and exclude full transcripts from any public sharing. Your own authorized session and private retrieval/preparation commands are documented in the [extractor README](https://github.com/thisis-romar/linkedin-learning-extractor/blob/feat/blender-only-vault/README.md#private-transcript-setup).
 
-This vault is generated from [linkedin-learning-extractor](https://github.com/thisis-romar/linkedin-learning-extractor) via `npm run obsidian`.
+Normal Obsidian search covers public note metadata. Use **Search private transcripts** for captions. Timestamp links open LinkedIn Learning with `t` measured in seconds and may require your own sign-in. Private caches are local content and are not bundled with the GitHub mirror or any public site.
+
+## Progress and glossary
+
+`lle-progress` records course-note opens and lesson-link clicks in the local collection note. Its 19-course index covers all 1,196 expected lesson identities. Completed means every expected lesson link was clicked; it does not certify watching or learning. Activity starts fresh in the published snapshot. Keep personal activity local when publishing changes; staged rebuilds can preserve it with `--activity-from`.
+
+Glossary notes retain sources for available definitions and recomputed per-course mention counts. Counts come from literal, case-insensitive vocabulary/alias matches in the selected private transcript inputs. They are lexical observations and can overlap. A named entry without a definition remains explicitly undefined. No formal translation, successor, or compatibility relationship is inferred from wording.
+
+## Build and validation
+
+The vault is generated from sanitized metadata and the [selection manifest](Reports/selection.json), using the extractor's `blender:prepare`, `blender:build`, `blender:install-cache`, and `blender:validate` commands. The template comes from vault main revision `fa97a813fdfe41acfa24445c5abfac3da29cdd76`.
+
+See [feature parity](Reports/features.md), [structural validation](Reports/validation.json), [transcript readiness](Reports/transcript-readiness.json), and [Obsidian runtime checks](Reports/obsidian-runtime.json). The reports contain metadata, counts, methods, and hashes; raw authenticated evidence and full captions remain private. Nineteen cached default-lesson observations retain their original dates; 1,177 transcript lessons were freshly retrieved. No uniform-freshness or transcript-fidelity claim is made.
+
+The GitHub converter resolves qualified wikilinks and native lesson block targets to standard Markdown links with duplicate-aware heading fragments. Its optional workflow runs only when explicitly dispatched and updates the mirror without force-pushing. The former Quartz workflow is retained as an inactive reference under `docs/`; no website deployment is enabled on this branch.
+
+Videos and exercise archives are excluded. Resource availability metadata does not verify archive bytes, playback, original audio, software compatibility, or provider version/translation families. No merge into main or website deployment is part of this delivery.
